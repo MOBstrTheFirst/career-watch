@@ -1,0 +1,44 @@
+# ---------------------------------------------------------------------------
+# List of careers pages to watch.
+#
+# TIP (important for not missing jobs): use the URL of a FILTERED search
+# (e.g. location = Erlangen, keyword = Werkstudent) so all matching jobs fit
+# on the first page. The script does not click "next page".
+#
+# Per-site options (all optional except url):
+#   name:         label used in Telegram messages
+#   js:           auto (default) | true | false
+#                   auto  = try plain download first, use headless browser if no job links found
+#                   true  = always use headless browser (Workday, SuccessFactors, Avature, ...)
+#                   false = never use browser
+#   mode:         auto (default) | links | text
+#                   links = alert on NEW job links
+#                   text  = alert on ANY new text line on the page (more false alarms)
+#                   auto  = links if job links are found, otherwise text
+#   wait_for:     CSS selector to wait for before reading (browser only), e.g. "a[href*='/job/']"
+#   link_pattern: regex; only links whose URL matches count as jobs (overrides the built-in pattern)
+# ---------------------------------------------------------------------------
+
+concurrency: 4          # pages checked in parallel
+
+daily_summary_time: "23:55"   # daily summary + "I'm alive" check (set to false to turn off)
+timezone: Europe/Berlin
+
+defaults:
+  js: auto
+  mode: auto
+
+sites:
+  - name: Siemens – Werkstudent Erlangen
+    url: https://jobs.siemens.com/careers?query=werkstudent&location=Erlangen
+    js: true
+
+  - name: Fraunhofer – job search
+    url: https://jobs.fraunhofer.de/search/?q=werkstudent&locationsearch=erlangen
+
+  - name: Rohde & Schwarz – jobs
+    url: https://www.rohde-schwarz.com/de/karriere/stellenangebote_229380.html
+
+  - name: Infineon – students
+    url: https://jobs.infineon.com/careers?query=working%20student&location=Germany
+    js: true
