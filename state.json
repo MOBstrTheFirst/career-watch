@@ -3,15 +3,15 @@
   "alerts": 0,
   "commands_set": true,
   "events": [],
-  "last_run": "2026-10-13T19:34:59+00:00",
-  "last_summary_for": "2026-10-12",
-  "runs": 1,
+  "last_run": "2026-10-13T23:24:49+00:00",
+  "last_summary_for": "2026-10-13",
+  "runs": 0,
   "tg_offset": 297408921
  },
  "https://jobs.fraunhofer.de/search/?q=werkstudent&locationsearch=erlangen": {
   "fails": 0,
   "last_error": null,
-  "last_ok": "2026-10-13T19:34:59+00:00",
+  "last_ok": "2026-10-13T23:24:49+00:00",
   "line_hashes": [
    "05381ac8af",
    "0601550089",
@@ -96,57 +96,57 @@
   "links": {
    "http://www.facebook.de/fraunhofer.karriere": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Wird auf einer neuen Registerkarte geöffnet."
    },
    "http://www.youtube.de/fraunhoferkarriere": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Wird auf einer neuen Registerkarte geöffnet."
    },
    "https://jobs.fraunhofer.de/": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Startseite"
    },
    "https://jobs.fraunhofer.de/job/Erlangen-Werkstudentin-Elektrotechnik%2C-CAD-&-3D-Druck-%28all-genders%29-91058/1443593033": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Werkstudent*in - Elektrotechnik, CAD & 3D-Druck (all genders)"
    },
    "https://jobs.fraunhofer.de/search": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "STELLENÜBERSICHT"
    },
    "https://jobs.fraunhofer.de/search?q=werkstudent&locationsearch=erlangen&locale=de_DE": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Deutsch (Deutschland)"
    },
    "https://jobs.fraunhofer.de/search?q=werkstudent&locationsearch=erlangen&locale=en_US": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "English (United States)"
    },
    "https://jobs.fraunhofer.de/search?q=werkstudent&locationsearch=erlangen&sortColumn=sort_facility&sortDirection=desc": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Institut"
    },
    "https://jobs.fraunhofer.de/search?q=werkstudent&locationsearch=erlangen&sortColumn=sort_shifttype&sortDirection=desc": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Arbeitsort"
    },
    "https://jobs.fraunhofer.de/search?q=werkstudent&locationsearch=erlangen&sortColumn=sort_title&sortDirection=desc": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Stellenbezeichnung"
    },
    "https://www.fraunhofer.de/de/jobs-und-karriere.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "KARRIERE"
    }
   },
@@ -157,7 +157,7 @@
  "https://jobs.infineon.com/careers?query=working%20student&location=Germany": {
   "fails": 0,
   "last_error": null,
-  "last_ok": "2026-10-13T19:34:59+00:00",
+  "last_ok": "2026-10-13T23:24:49+00:00",
   "line_hashes": [
    "0049f8894e",
    "041a01e430",
@@ -184,7 +184,6 @@
    "19338fa81e",
    "1a5e8a0b3c",
    "1a9f8ead6a",
-   "1bd708ddd9",
    "1cc51359f1",
    "1d146c29ba",
    "1f49201bea",
@@ -399,162 +398,163 @@
    "fbe461b19d",
    "fc1cdf7995",
    "fc368dc0f4",
+   "fe1298c61f",
    "fec72cd169"
   ],
   "links": {
    "https://jobs.infineon.com/careers": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Stellensuche"
    },
    "https://jobs.infineon.com/careers/apply?pid=563808971493296": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Jetzt bewerben"
    },
    "https://jobs.infineon.com/careers/dashboard": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Meine Aktivität"
    },
    "https://jobs.infineon.com/careers/job/563808968905583": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Staff Specialist Digital Content Marketing Analyst Bangalore BTP (Indien) HRC1497326 Hybrid Flexible Lage"
    },
    "https://jobs.infineon.com/careers/job/563808970749031": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Principal Engineer for Digital Design (f/m/div) Kork HRC1630363 Hybrid Flexible Lage"
    },
    "https://jobs.infineon.com/careers/job/563808970824343": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Principal Engineer Digital Design (f/m/div) Zurich HRC1648998 Hybrid Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808971493296": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Lead Management - Digital Demand Generation & Digital Transformation (f/m/div) München (Deutschland) HRC1700208"
    },
    "https://jobs.infineon.com/careers/job/563808971510088": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Internship - Digital Marketing & Marcom Singapur HRC1702086 Hybrid Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808971623312": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Senior Staff Engineer Digital Design (f/m/div) Dublin (Ireland) + 1 more HRC1714210 Hybrid Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808971874255": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Internship - Digital Marketing and Campaign Management Support (w/m/div) Villach HRC1764508"
    },
    "https://jobs.infineon.com/careers/job/563808971995411": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student / Internship – RTL Design & SPICE Simulation Automation (f/m/div) München HRC1800886 Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808972011556": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Digital Marketing Intern Shanghai HRC1802650"
    },
    "https://jobs.infineon.com/careers/job/563808972013606": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Performance Marketing (f/m/div) München HRC1802906"
    },
    "https://jobs.infineon.com/careers/job/563808972051781": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - ASIC Product Marketing and Business Intelligence (f/m/div) - HRC1807752 München HRC1807752"
    },
    "https://jobs.infineon.com/careers/job/563808972073549": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Application Engineering (f/m/div) München HRC1815624"
    },
    "https://jobs.infineon.com/careers/job/563808972090579": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Finance and Controlling Automotive (f/m/div) München HRC1817915"
    },
    "https://jobs.infineon.com/careers/job/563808972111510": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Visual Communication & Creative Media Design (f/m/div) München HRC1821236 Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808972111511": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Digital Learning, Knowledge Management & UX Design (f/m/div) München HRC1821293 Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808972115278": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div) München HRC1821880"
    },
    "https://jobs.infineon.com/careers/job/563808972122741": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Principal Engineer Digital Concept and Design (f/m/div) Dublin HRC1821502 Hybrid"
    },
    "https://jobs.infineon.com/careers/job/563808972153974": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Working Student - RTL Design for SoC Fault Tolerance & Error Detection (f/m/div) München HRC1832023 Hybrid"
    },
    "https://jobs.infineon.com/careers/join?domain=infineon.com": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Dem Talent Netzwerk beitreten"
    },
    "https://jobs.infineon.com/careers/login": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Anmelden"
    },
    "https://jobs.infineon.com/careers/profile": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Profil"
    },
    "https://jobs.infineon.com/careers/settings": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Verwalten"
    },
    "https://www.infineon.com/careers": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Infineon Logo, Link zur Startseite der Stellen"
    },
    "https://www.infineon.com/careers/global-career-development-and-benefits": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Benefits"
    },
    "https://www.infineon.com/careers/how-to-apply": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Häufig gestellte Fragen"
    },
    "https://www.infineon.com/cms/en/careers/application/application-students": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Find out"
    },
    "https://www.infineon.com/cms/en/careers/diversity-and-inclusion": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Click here"
    },
    "https://www.infineon.com/cms/en/careers/students": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Discover"
    }
   },
@@ -565,7 +565,7 @@
  "https://jobs.siemens.com/careers?query=werkstudent&location=Erlangen": {
   "fails": 0,
   "last_error": null,
-  "last_ok": "2026-10-13T19:34:59+00:00",
+  "last_ok": "2026-10-13T23:24:49+00:00",
   "line_hashes": [
    "00662347af",
    "05aac161f5",
@@ -606,87 +606,87 @@
   "links": {
    "https://jobs.siemens.com/cs_CZ/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Čestina"
    },
    "https://jobs.siemens.com/de_DE/externaljobs": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Zur Startseite gehen"
    },
    "https://jobs.siemens.com/de_DE/externaljobs/AIRecommendations": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "KI-Empfehlungen"
    },
    "https://jobs.siemens.com/de_DE/externaljobs/Home": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Stellensuche"
    },
    "https://jobs.siemens.com/de_DE/externaljobs/Login": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Anmelden"
    },
    "https://jobs.siemens.com/de_DE/externaljobs/SearchJobs": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Alle Stellenangebote"
    },
    "https://jobs.siemens.com/de_DE/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Deutsch"
    },
    "https://jobs.siemens.com/en_US/externaljobs": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Siemens Jobs Search Homepage"
    },
    "https://jobs.siemens.com/en_US/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "English"
    },
    "https://jobs.siemens.com/es_ES/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Español"
    },
    "https://jobs.siemens.com/fr_FR/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Français"
    },
    "https://jobs.siemens.com/ja_JP/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "日本語"
    },
    "https://jobs.siemens.com/nl_NL/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Nederlands"
    },
    "https://jobs.siemens.com/pt_PT/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Portuguese"
    },
    "https://jobs.siemens.com/zh_CN/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "中文 (简体)"
    },
    "https://jobs.siemens.com/zh_TW/externaljobs/redirect": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "中文 (繁体)"
    },
    "https://www.siemens.com/global/en/company/jobs/faq.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Häufig gestellte Fragen (FAQs) & Support"
    }
   },
@@ -697,7 +697,7 @@
  "https://www.rohde-schwarz.com/de/karriere/stellenangebote_229380.html": {
   "fails": 0,
   "last_error": null,
-  "last_ok": "2026-10-13T19:34:59+00:00",
+  "last_ok": "2026-10-13T23:24:49+00:00",
   "line_hashes": [
    "0025104f89",
    "01b463c77b",
@@ -995,57 +995,57 @@
   "links": {
    "https://www.rohde-schwarz.com/de/karriere/_101514.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Impressum"
    },
    "https://www.rohde-schwarz.com/de/karriere/_101515.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Datenschutzerklärung"
    },
    "https://www.rohde-schwarz.com/de/karriere/_230348.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Cookie Informationen"
    },
    "https://www.rohde-schwarz.com/de/karriere/berufseinsteigende-berufserfahrene/berufseinsteigende-berufserfahrene_252991.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Berufseinsteigende und Berufserfahrene"
    },
    "https://www.rohde-schwarz.com/de/karriere/career-overview/career-overview_257552.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Jobs & Karriere"
    },
    "https://www.rohde-schwarz.com/de/karriere/culture/culture-overview_258170.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Kultur"
    },
    "https://www.rohde-schwarz.com/de/karriere/events/muc-meetup_252389.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Events"
    },
    "https://www.rohde-schwarz.com/de/karriere/kontakt/karriere-kontakt_251575.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Kontakt"
    },
    "https://www.rohde-schwarz.com/de/karriere/schueler-innen/schueler-innen_253003.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Schüler*innen"
    },
    "https://www.rohde-schwarz.com/de/karriere/stellenangebote/karriere-stellenangebote_251573.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Stellenangebote"
    },
    "https://www.rohde-schwarz.com/de/karriere/studierende/studierende_253005.html": {
     "first_seen": "2026-10-13T19:34:59+00:00",
-    "last_seen": "2026-10-13T19:34:59+00:00",
+    "last_seen": "2026-10-13T23:24:49+00:00",
     "title": "Studierende"
    }
   },
