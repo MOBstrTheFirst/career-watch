@@ -1,0 +1,26 @@
+{
+ "alerts": 6,
+ "commands_set": true,
+ "events": [
+  {
+   "at": "2026-10-14T13:02:04+00:00",
+   "kind": "new",
+   "site": "Infineon – students",
+   "title": "Werkstudent - RF Test for Sensors RF Immunity (f/m/div) München HRC1823609",
+   "url": "https://jobs.infineon.com/careers/job/563808972121554"
+  },
+  {
+   "at": "2026-10-14T17:56:18+00:00",
+   "kind": "possible",
+   "site": "Fraunhofer – job search",
+   "title": "werkstudent UND erlangen",
+   "url": "https://jobs.fraunhofer.de/search/?q=werkstudent&locationsearch=erlangen"
+  }
+ ],
+ "last_missing_parts": [],
+ "last_run": "2026-10-14T20:13:09+00:00",
+ "last_skipped": 0,
+ "last_summary_for": "2026-10-13",
+ "runs": 6,
+ "tg_offset": 297408921
+}
