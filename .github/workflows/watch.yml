@@ -4,22 +4,30 @@ on:
   schedule:
     # 4 times per hour (UTC). Odd minutes avoid GitHub's busy :00 slot.
     - cron: "7,22,37,52 * * * *"
-    # Extra run for the 23:55 Berlin daily summary (GitHub uses UTC:
-    # 21:55 UTC = 23:55 summer time, 22:55 UTC = 23:55 winter time).
+    # Extra run for the 23:55 Berlin daily summary (21:55 UTC summer, 22:55 UTC winter).
     - cron: "55 21,22 * * *"
   workflow_dispatch:        # "Run workflow" button for manual runs
 
 permissions:
-  contents: write           # needed to save state.json back to the repo
+  contents: write           # needed to save the state/ folder back to the repo
 
 concurrency:
   group: career-watch       # never run two checks at the same time
   cancel-in-progress: false
 
+env:
+  PARTS: 4                  # number of parts - must match the "part" list below
+
 jobs:
-  watch:
+  # 1) The list is split into 4 parts. Each part runs on its OWN machine, at the same time,
+  #    with its own 14-minute limit. Each part only checks ~1/4 of the pages.
+  scan:
     runs-on: ubuntu-latest
     timeout-minutes: 14
+    strategy:
+      fail-fast: false      # one part failing does not stop the others
+      matrix:
+        part: [1, 2, 3, 4]
     steps:
       - uses: actions/checkout@v4
 
@@ -40,29 +48,68 @@ jobs:
       - name: Install Chromium
         run: python -m playwright install --with-deps chromium
 
-      - name: Check careers pages
+      - name: Check careers pages (part ${{ matrix.part }} of ${{ env.PARTS }})
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python watcher.py
+        # --budget 600: no new page is started after 10 min, so the job always ends in time
+        run: python watcher.py --shard ${{ matrix.part }}/${{ env.PARTS }} --budget 600
+
+      - name: Hand result to the report job
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.part }}
+          path: state/shard_${{ matrix.part }}.json
+          if-no-files-found: ignore
+          retention-days: 1
+
+  # 2) Collects the 4 results, answers /status /list, sends the daily summary, saves state once.
+  report:
+    needs: scan
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python packages
+        run: pip install httpx==0.27.2 beautifulsoup4==4.12.3 lxml==5.3.0 PyYAML==6.0.2 tzdata==2024.2
+
+      - name: Get results of the 4 parts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          path: state
+          merge-multiple: true
+
+      - name: Merge + commands + daily summary
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python watcher.py --report ${{ env.PARTS }}
 
       - name: Save state
         if: always()
         run: |
           git config user.name  "career-watch-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          [ -f state.json ] || exit 0
-          git add state.json
+          [ -d state ] || exit 0
+          git add state
           if git diff --cached --quiet; then echo "no state change"; exit 0; fi
           git commit -m "update state [bot]"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
 
-  # Sends a Telegram message if the job above crashed or timed out.
-  # Runs on its own machine, so it works even when the main job died.
+  # 3) Sends a Telegram message if any part or the report crashed / timed out.
   alert-on-failure:
-    needs: watch
-    if: ${{ always() && needs.watch.result == 'failure' }}
+    needs: [scan, report]
+    if: ${{ always() && (needs.scan.result == 'failure' || needs.report.result == 'failure') }}
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
@@ -74,5 +121,5 @@ jobs:
         run: |
           curl -sS -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
             --data-urlencode "chat_id=${CHAT}" \
-            --data-urlencode "text=CRASH: career watcher run failed or timed out. Jobs were NOT checked this time. Log: ${RUN_URL}" \
+            --data-urlencode "text=CRASH: part of the career watcher run failed or timed out. Some pages were NOT checked this time (the daily summary says which part). Log: ${RUN_URL}" \
             --data-urlencode "disable_web_page_preview=true"
