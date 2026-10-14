@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 41,
  "commands_set": true,
  "events": [
   {
@@ -512,12 +512,278 @@
    "site": "DIS AG",
    "title": "1.629",
    "url": "https://jobs.de.dis-ag.com/?page=1.629"
+  },
+  {
+   "at": "2026-10-14T22:24:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028458831"
+  },
+  {
+   "at": "2026-10-14T22:24:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028458831"
+  },
+  {
+   "at": "2026-10-14T22:24:50+00:00",
+   "kind": "possible",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Ausbildung Industriemechaniker (m/w/d) - 01.09.2027",
+   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
+  },
+  {
+   "at": "2026-10-14T22:24:30+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4a9fcb1cdda6186",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-14T22:24:30+00:00",
+   "kind": "new",
+   "site": "LP Montagetechnik",
+   "title": "Positionsmarkierung Endkappe für Parkschiene – 1 Stück",
+   "url": "https://www.lp-montagetechnik.com/produkt/positionsmarkierung-endkappe-fuer-parkschiene-1-stueck"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Director, Product Marketing - SASE PM & GTM Strategy",
+   "url": "https://careers.cisco.com/global/en/job/2027563/Senior-Director-Product-Marketing-SASE-PM-GTM-Strategy"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2027563EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Consulting Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/job/2020960/Consulting-Engineering-Technical-Leader"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020960EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Partner Leader, Solutions Engineer, Splunk",
+   "url": "https://careers.cisco.com/global/en/job/2023832/Partner-Leader-Solutions-Engineer-Splunk"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023832EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Business Development Manager - Splunk PBST- NatSec",
+   "url": "https://careers.cisco.com/global/en/job/2025721/Business-Development-Manager-Splunk-PBST-NatSec"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2025721EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Account Executive - Splunk (Southeast)",
+   "url": "https://careers.cisco.com/global/en/job/2026753/Account-Executive-Splunk-Southeast"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2026753EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Account Executive - Splunk - Air Force",
+   "url": "https://careers.cisco.com/global/en/job/2024417/Account-Executive-Splunk-Air-Force"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2024417EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=pqYH%2BV6l2rccg4B2nS4usq9f%2BRVLnDA5Ky1Qj1qW%2FhA%3D"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "text",
+   "site": "Witron Logistik + Informatik",
+   "title": "1 new text line(s), e.g. a4a9fcc2ea8a9b29",
+   "url": "https://careers.witron.com/de/jobs"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792016601199"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019083"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019083"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "HR Werkstudent:in HR-Recruiting Standort Essen, Hamburg, Hannover Arbeitszeitmodell Flexibel nach Absprache Nebenjob Gesellschaft TÜV NORD Service Gmb",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/werkstudentin-hr-recruiting-11930"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur im Bereich Standsicherheit / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur für Bauphysik im Bereich Bautechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Student der Ingenieurwissenschaften für ein Praktikum im Kfz-Bereich (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-14T22:24:15+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=NQGBsH4j2SW1qkSZAXcG3pwD8%2BLR%2FzUd%2F1vbS7FX1bc%3D"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "8 new text line(s), e.g. Do Not Sell My Personal Information",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Quality Engineer",
+   "url": "https://careers.abb/global/en/job/JR00050046/Quality-Engineer"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Director, Service Manager",
+   "url": "https://careers.abb/global/en/job/JR00039242/Senior-Director-Service-Manager"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Key Account Manager - Data Centers",
+   "url": "https://careers.abb/global/en/job/JR00045995/Key-Account-Manager-Data-Centers"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Inside Sales Specialist",
+   "url": "https://careers.abb/global/en/job/JR00048154/Inside-Sales-Specialist"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Field Service Technician",
+   "url": "https://careers.abb/global/en/job/JR00048313/Senior-Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Associate Field Service Technician",
+   "url": "https://careers.abb/global/en/job/JR00046428/Associate-Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Plant Technician - Manufacturing",
+   "url": "https://www.pgcareers.com/de/en/job/R000155322/Plant-Technician-Manufacturing"
+  },
+  {
+   "at": "2026-10-14T22:24:49+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Oxnard Plant Technician",
+   "url": "https://www.pgcareers.com/de/en/job/R000151976/Oxnard-Plant-Technician"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-14T22:11:16+00:00",
+ "last_run": "2026-10-14T22:25:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408922
 }
