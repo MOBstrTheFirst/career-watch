@@ -1,27 +1,20 @@
 # ---------------------------------------------------------------------------
-# List of careers pages to watch.
+# Career watcher - site list (generated 2026-10-14 from company_job_pages_monitor.txt)
 #
-# TIP (important for not missing jobs): use the URL of a FILTERED search
-# (e.g. location = Erlangen, keyword = Werkstudent) so all matching jobs fit
-# on the first page. The script does not click "next page".
-#
-# Per-site options (all optional except url):
-#   name:         label used in Telegram messages
-#   js:           auto (default) | true | false
-#                   auto  = try plain download first, use headless browser if no job links found
-#                   true  = always use headless browser (Workday, SuccessFactors, Avature, ...)
-#                   false = never use browser
-#   mode:         auto (default) | links | text
-#                   links = alert on NEW job links
-#                   text  = alert on ANY new text line on the page (more false alarms)
-#                   auto  = links if job links are found, otherwise text
-#   wait_for:     CSS selector to wait for before reading (browser only), e.g. "a[href*='/job/']"
-#   link_pattern: regex; only links whose URL matches count as jobs (overrides the built-in pattern)
+# js: was set per page after opening every URL in a real browser and comparing
+#     the rendered page with the plain HTML:
+#       true = job list is built by JavaScript (or in an iframe), or the site could
+#              not be tested -> always use the headless browser (safer: no misses)
+#       auto = job links are already in the plain HTML -> fast download; the script
+#              still switches to the browser by itself if it ever finds no job links
+# fit: your fit score from the list (10 = best). Sites are sorted by fit.
+# Lines starting with "# CHECK:" need a look from you (bad URL, homepage, blocked).
+# Disabled pages (dead, parked, HIJACKED) are at the end, commented out.
 # ---------------------------------------------------------------------------
 
-concurrency: 4          # pages checked in parallel
+concurrency: 6          # pages checked in parallel per part (4 parts run at the same time)
 
-daily_summary_time: "23:55"   # daily summary + "I'm alive" check (set to false to turn off)
+daily_summary_time: "23:55"
 timezone: Europe/Berlin
 
 defaults:
@@ -29,16 +22,2645 @@ defaults:
   mode: auto
 
 sites:
-  - name: Siemens – Werkstudent Erlangen
-    url: https://jobs.siemens.com/careers?query=werkstudent&location=Erlangen
+
+  # ===== Fit 10/10 =====
+
+  - name: "Cisco Optical GmbH"
+    url: "https://careers.cisco.com/global/en/search-results"
     js: true
+    fit: 10   # Nürnberg
 
-  - name: Fraunhofer – job search
-    url: https://jobs.fraunhofer.de/search/?q=werkstudent&locationsearch=erlangen
+  # same page for: Diehl Defence; Diehl Metering; Diehl Aviation – Nürnberg; Diehl & Eagle-Picher; Diehl Controls – Nürnberg; Diehl Stiftung – corporate (Nürnberg HQ)
+  - name: "Diehl Defence (+5 more)"
+    url: "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse"
+    fit: 10   # Röthenbach, Nürnberg
 
-  - name: Rohde & Schwarz – jobs
-    url: https://www.rohde-schwarz.com/de/karriere/stellenangebote_229380.html
+  - name: "Dolby Germany GmbH"
+    url: "https://careers.dolby.com/go/Jobs-in-Germany/8803800/"
+    fit: 10   # Nürnberg
 
-  - name: Infineon – students
-    url: https://jobs.infineon.com/careers?query=working%20student&location=Germany
+  # same page for: Fraunhofer IIS (main institute); Fraunhofer IIS – Magnetic Resonance & X-ray Imaging (MRB); Fraunhofer IIS – Nürnberg (Locating & Communication Systems); Fraunhofer IIS – Development Center X-ray Technology (EZRT); Fraunhofer IIS – ADA Lovelace Center for Analytics, Data & Applications; Fraunhofer SCS
+  # FIXED: old link iisfraunhofer.softgarden.io/de/ is dead (404). This is the IIS 'Studierende' job widget (Werkstudent/Praktikum/Abschlussarbeit, all IIS sites) taken from iis.fraunhofer.de/de/jobs/studierende.html
+  - name: "Fraunhofer IIS (main institute) (+5 more)"
+    url: "https://iisfraunhofer.softgarden.io/widgets/jobs?config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IjYxNzlkMWEwMGEwYjBjY2UwMWVkM2RlODY0M2EwZTM5Iiwiam9iY2F0ZWdvcnkiOiJzYW00Ml9wdWJsaWNzZWN0b3I7c2FtNDJfYWRtaW5pc3RyYXRpb247c2FtNDJfZWR1Y2F0aW9uO3NhbTQyX2Rlc2lnbjtzYW00Ml9wdXJjaGFzZTtzYW00Ml9maW5hbmNlO3NhbTQyX21hcmtldGluZztzYW00Ml9ocjtzYW00Ml9sYXc7c2FtNDJfc2FsZXM7c2FtNDJfbWFudWFsd29yaztzYW00Ml9lbmdpbmVlcmluZztzYW00Ml9pdDtzYW00Ml9zY2llbmNlOzZhMDQ2Y2ZiLTZlZWUtNGU1MC1hZTZhLTQ4OWE3NDg0MDBkZCIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOiIiLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5UmFkaXVzIjoiMjUifSwibnVtYmVyT2ZKb2JzIjoyMDB9"
     js: true
+    fit: 10   # Erlangen, Würzburg, Nürnberg, Fürth
+
+  - name: "Huawei Research Center Germany – Nürnberg"
+    url: "https://career.huawei.com/reccampportal/euportal/portal/recruitment-social.html"
+    js: true
+    fit: 10   # Nürnberg
+
+  - name: "indie Semiconductor (TeraXion) – Nürnberg"
+    url: "https://www.indie.inc/careers/job-opportunities/"
+    js: true
+    fit: 10   # Nürnberg
+
+  - name: "InnoSenT GmbH – Erlangen development centre"
+    url: "https://www.innosent.de/unternehmen/karriere/stellenangebote-bei-innosent/"
+    fit: 10   # Erlangen
+
+  - name: "International Audio Laboratories Erlangen (AudioLabs)"
+    url: "https://www.audiolabs-erlangen.de"
+    fit: 10   # Erlangen
+
+  - name: "Nokia – Nürnberg"
+    url: "https://jobs.nokia.com/en/sites/CX_1/jobs?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+    js: true
+    fit: 10   # Nürnberg
+
+  - name: "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany"
+    url: "https://www.saab.com/career/job-opportunities?country=Germany"
+    fit: 10   # Erlangen, Nürnberg
+
+  # same page for: Siemens Healthineers – MR (Magnetic Resonance); Siemens Healthineers – Erlangen (other units: diagnostics IT, AI, service); Siemens Healthineers – Forchheim (AT, X-ray, CT)
+  - name: "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)"
+    url: "https://careers.siemens-healthineers.com/global/en/search-results"
+    js: true
+    fit: 10   # Erlangen, Forchheim
+
+  # ===== Fit 9/10 =====
+
+  - name: "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth"
+    url: "https://ag.wd3.myworkdayjobs.com/en-US/Airbus?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 9   # Manching, Donauwörth
+
+  - name: "Ericsson (Antenna Systems) – Regensburg"
+    url: "https://jobs.ericsson.com/careers?location=Germany&sort_by=timestamp"
+    js: true
+    fit: 9   # Regensburg
+
+  - name: "Fraunhofer IISB"
+    url: "https://jobs.fraunhofer.de/search/?q=IISB&sortColumn=referencedate&sortDirection=desc"
+    fit: 9   # Erlangen
+
+  - name: "Infineon Technologies – Regensburg"
+    url: "https://jobs.infineon.com/careers?location=Germany&sort_by=timestamp"
+    js: true
+    fit: 9   # Regensburg
+
+  - name: "Innovationszentrum für Telekommunikationstechnik (IZT) – Erlangen"
+    url: "https://www.izt-labs.de/karriere/"
+    js: true
+    fit: 9   # Erlangen
+
+  - name: "Qualcomm – Nürnberg office"
+    url: "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+    js: true
+    fit: 9   # Nürnberg
+
+  - name: "Rapid Biomedical GmbH"
+    url: "https://www.rapidbiomed.de/company/careers/"
+    js: true
+    fit: 9   # Rimpar
+
+  # same page for: Siemens Technology (central R&D); Siemens AG – Digital Industries (Motion Control, Automation); Siemens AG – Smart Infrastructure; Siemens Mobility; Siemens – Electronics Works Amberg (EWA); Siemens Logistics; Siemens – Gerätewerk Amberg (GWA); Siemens – Fürth
+  - name: "Siemens Technology (central R&D) (+7 more)"
+    url: "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&listFilterMode=1&folderRecordsPerPage=20"
+    fit: 9   # Erlangen, Amberg, Fürth
+
+  - name: "WS Audiology (Signia, ex-Siemens Audiology)"
+    url: "https://careers.wsa.com/jobs?country=Germany&sortBy=posted_date"
+    fit: 9   # Erlangen
+
+  # ===== Fit 8/10 =====
+
+  - name: "ams OSRAM – Regensburg"
+    url: "https://jobs.ams-osram.com/en"
+    js: true
+    fit: 8   # Regensburg
+
+  - name: "AVT Audio Video Technologies"
+    url: "https://www.avt-nbg.de/jobs"
+    fit: 8   # Nürnberg
+
+  - name: "Broadcom – Regensburg"
+    url: "https://broadcom.wd1.myworkdayjobs.com/External_Career?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 8   # Regensburg
+
+  - name: "Corscience"
+    url: "https://corscience-gmbh-co-kg-1.jobs.personio.de"
+    fit: 8   # Erlangen
+
+  # CHECK: redirects to general careers page
+  - name: "Dehn SE"
+    url: "https://www.dehn.de/de/jobs-und-karriere"
+    fit: 8   # Neumarkt
+
+  - name: "DFS Deutsche Flugsicherung"
+    url: "https://jobs.dfs.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12&btn_dosearch="
+    js: true
+    fit: 8   # Nürnberg
+
+  - name: "Frankonia (EMC test systems)"
+    url: "https://frankonia-solutions.com/company/career/"
+    fit: 8   # Heideck
+
+  - name: "Gossen Metrawatt (GMC-I)"
+    url: "https://www.gossenmetrawatt.de/karriere/stellenangebote/"
+    fit: 8   # Nürnberg
+
+  # same page for: Hochschule Coburg – ISAT (Institute for Sensor and Actuator Technology); Hochschule Coburg – Institute for Sensor and Actuator Technology; Hochschule Coburg – Faculty of Electrical Engineering & Computer Science
+  - name: "Hochschule Coburg – ISAT (Institute for Sensor and Actuator Technology) (+2 more)"
+    url: "https://www.hs-coburg.de/informationen-fuer/karriere/stellenangebote/"
+    js: true
+    fit: 8   # Coburg
+
+  - name: "iba AG"
+    url: "https://iba-ag.jobs.personio.com/"
+    fit: 8   # Fürth
+
+  - name: "NORAS MRI products"
+    url: "https://noras.de/jobs/"
+    fit: 8   # Höchberg
+
+  - name: "OMICRON electronics Deutschland"
+    url: "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+    js: true
+    fit: 8   # Erlangen
+
+  - name: "Qorvo – Nürnberg"
+    url: "https://careers.qorvo.com/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 8   # Nürnberg
+
+  - name: "Ranovus – Nürnberg"
+    url: "https://ranovus.com/careers/#roles"
+    js: true
+    fit: 8   # Nürnberg
+
+  - name: "Rohde & Schwarz"
+    url: "https://www.rohde-schwarz.com/de/karriere/stellenangebote/karriere-stellenangebote_251573.html"
+    js: true
+    fit: 8   # Nürnberg
+
+  - name: "Rundfunk-Betriebstechnik (RBT)"
+    url: "https://www.rbt-nbg.de/aktuell/stellenangebote/"
+    fit: 8   # Nürnberg
+
+  - name: "Semikron Danfoss"
+    url: "https://jobs.danfoss.com/search/?q=semikron+danfoss&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    js: true
+    fit: 8   # Nürnberg
+
+  # CHECK: tiny page (4 text lines) - verify
+  - name: "SiCrystal GmbH"
+    url: "https://sicrystal.dvinci-easy.com/de/jobs"
+    fit: 8   # Nürnberg
+
+  - name: "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)"
+    url: "https://jobs.siemens-energy.com/en_US/jobs/SearchJobsGermany"
+    fit: 8   # Erlangen, Nürnberg
+
+  - name: "Ziehm Imaging"
+    url: "https://www.ziehm.com/de/karriere/aktuelle-stellenangebote/"
+    fit: 8   # Nürnberg
+
+  # ===== Fit 7/10 =====
+
+  - name: "A. Eberle GmbH"
+    url: "https://www.a-eberle.de/ueber-uns/karriere/"
+    fit: 7   # Nürnberg
+
+  - name: "AB-CT – Advanced Breast-CT"
+    url: "https://ab-ct-gmbh.jobs.personio.de/"
+    fit: 7   # Erlangen
+
+  - name: "Alcon – Erlangen / WaveLight GmbH (Alcon)"
+    url: "https://alcon.wd5.myworkdayjobs.com/careers_alcon?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 7   # Erlangen
+
+  - name: "Audi AG"
+    url: "https://careers.audi.com/"
+    js: true
+    fit: 7   # Ingolstadt
+
+  # same page for: Aumovio (ex-Continental Automotive) – Regensburg; Aumovio (ex-Continental/Conti Temic) – Nürnberg & Ingolstadt
+  - name: "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)"
+    url: "https://jobs.aumovio.com/en/all-jobs-at-a-glance/"
+    fit: 7   # Regensburg, Nürnberg
+
+  - name: "AVL Software and Functions"
+    url: "https://jobs.avl.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 7   # Regensburg
+
+  - name: "BSH Hausgeräte – Regensburg"
+    url: "https://jobs.bsh-group.de/index"
+    fit: 7   # Regensburg
+
+  - name: "Dallmeier electronic"
+    url: "https://www.dallmeier.com/de/ueber-uns/karriere"
+    fit: 7   # Regensburg
+
+  - name: "dSPACE – Ingolstadt"
+    url: "https://www.dspace.com/en/inc/home/career/jobfinder.cfm"
+    js: true
+    fit: 7   # Ingolstadt
+
+  - name: "e.solutions GmbH"
+    url: "https://www.esolutions.de/de/du-bei-esolutions/jobs"
+    fit: 7   # Ingolstadt
+
+  - name: "Elektrobit Automotive"
+    url: "https://jobs.elektrobit.com/jobs?country=Germany&sortBy=posted_date"
+    js: true
+    fit: 7   # Erlangen
+
+  - name: "Fresenius Medical Care – Schweinfurt"
+    url: "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 7   # Schweinfurt
+
+  - name: "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels"
+    url: "https://careers.geaerospace.com/global/en/search-results"
+    js: true
+    fit: 7   # Lichtenfels
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "HI ERN – Helmholtz Institute Erlangen-Nürnberg for Renewable Energy"
+    url: "https://www.hi-ern.de/de/karriere/stellenangebote"
+    fit: 7   # Erlangen
+
+  - name: "Innomotics GmbH (ex-Siemens Large Drives) / Innomotics – Bad Neustadt motor plant"
+    url: "https://jobs.innomotics.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 7   # Nürnberg, Bad Neustadt
+
+  - name: "Innoventis GmbH"
+    url: "https://www.innoventis.de/de/karriere"
+    fit: 7   # Würzburg
+
+  # CHECK: site blocks plain requests (403) - js true; may still be blocked on GitHub
+  - name: "iSyst Intelligente Systeme"
+    url: "http://www.isyst.de"
+    js: true
+    fit: 7   # Nürnberg
+
+  - name: "Keenfinity Group – Nürnberg (ex-Bosch Security)"
+    url: "https://www.keenfinity-group.com/xc/en/careers/"
+    fit: 7   # Nürnberg
+
+  - name: "Landis+Gyr Germany"
+    url: "https://careers.landisgyr.com/go/View-All-Jobs-Available/4488801/?sortColumn=referencedate&sortDirection=desc"
+    fit: 7   # Nürnberg
+
+  - name: "Maschinenfabrik Reinhausen"
+    url: "https://www.reinhausen.com/career/jobs"
+    fit: 7   # Regensburg
+
+  - name: "Max Planck Institute for the Science of Light"
+    url: "https://mpl.mpg.de/study-work-or-visit/careers-administration-technology"
+    js: true
+    fit: 7   # Erlangen
+
+  - name: "Medical Valley Digital Health Application Center (DHAC)"
+    url: "https://www.medical-valley-emn.de/en/news-and-events/stellenangebote/"
+    fit: 7   # Bamberg
+
+  - name: "Megger Germany (ex-SebaKMT)"
+    url: "https://www.megger-karriere.de/stellenangebote/"
+    fit: 7   # Baunach
+
+  - name: "Mobileum Germany (ex-SIGOS)"
+    url: "https://mobileum-node.my.salesforce-sites.com/Recruit/"
+    fit: 7   # Nürnberg
+
+  # CHECK: SF career5 search page; list needs a search click
+  - name: "Murata Electronics Europe – Germany branch"
+    url: "https://career5.successfactors.eu/career?company=C0003974859P"
+    js: true
+    fit: 7   # Nürnberg
+
+  - name: "Opal-RT Technologies – Nürnberg"
+    url: "https://www.opal-rt.com/careers/#Job%20postings"
+    js: true
+    fit: 7   # Nürnberg
+
+  # same page for: OTH Regensburg – Sensor Application Center & RF lab; OTH Regensburg – Professorship Edge AI & Cooperative Systems; OTH Regensburg – Laboratory for Safe and Secure Systems (LaS³)
+  - name: "OTH Regensburg – Sensor Application Center & RF lab (+2 more)"
+    url: "https://www.oth-regensburg.de/die-oth/jobs-und-karriere"
+    js: true
+    fit: 7   # Regensburg
+
+  - name: "Primetals Technologies Germany"
+    url: "https://careers.primetals.com/global/search-results"
+    js: true
+    fit: 7   # Erlangen
+
+  - name: "Pure Devices GmbH"
+    url: "https://pure-devices.com/pure-devices-company-information-about-us/"
+    js: true
+    fit: 7   # Rimpar
+
+  # same page for: Robert Bosch – Ansbach plant; Robert Bosch – Erlangen (5G/6G sensing topics); Robert Bosch – Bamberg plant; Robert Bosch – Nürnberg plant; Bosch Rexroth – Lohr am Main; Bosch Rexroth – Schweinfurt
+  - name: "Robert Bosch – Ansbach plant (+5 more)"
+    url: "https://jobs.bosch.com/en/?pages=1&country=de"
+    js: true
+    fit: 7   # Ansbach, Erlangen, Bamberg, Nürnberg, Lohr, Schweinfurt
+
+  - name: "Schaeffler – Herzogenaurach HQ"
+    url: "https://jobs.schaeffler.com/search/?q=&locationsearch=Herzogenaurach&sortColumn=referencedate&sortDirection=desc"
+    fit: 7   # Herzogenaurach
+
+  - name: "Schaeffler – Regensburg (ex-Vitesco)"
+    url: "https://jobs.schaeffler.com/search/?q=&locationsearch=Regensburg&sortColumn=referencedate&sortDirection=desc"
+    fit: 7   # Regensburg
+
+  - name: "Schiederwerk GmbH"
+    url: "https://www.schiederwerk.de/de/stellenangebote/"
+    fit: 7   # Nürnberg
+
+  # CHECK: site blocks plain requests (403) - js true; may still be blocked on GitHub
+  - name: "Telemeter Electronic"
+    url: "https://telemeter.info/de/stellenanzeigen"
+    js: true
+    fit: 7   # Donauwörth
+
+  - name: "TenneT TSO"
+    url: "https://careers.tennet.eu/en_US/careers/SearchJobs"
+    fit: 7   # Bayreuth
+
+  - name: "TH Ingolstadt – CARISSMA / TH Ingolstadt – AImotion Bavaria"
+    url: "https://www.thi.de/karriere/stellenangebote/"
+    js: true
+    fit: 7   # Ingolstadt
+
+  # same page for: TH Nürnberg Georg Simon Ohm – EE faculty institutes; TH Nürnberg – Institute of Power Electronic Systems (ELSYS)
+  - name: "TH Nürnberg Georg Simon Ohm – EE faculty institutes (+1 more)"
+    url: "https://karriere.th-nuernberg.de/stellenangebote/stellenangebote-beschaeftigte/"
+    js: true
+    fit: 7   # Nürnberg
+
+  - name: "Thermo Fisher Scientific – Erlangen (radiation measurement)"
+    url: "https://jobs.thermofisher.com/global/en/search-results"
+    js: true
+    fit: 7   # Erlangen
+
+  - name: "Universitätsklinikum Erlangen – Radiology / MR physics"
+    url: "https://www.karriere.uk-erlangen.de/bewerbung/stellenangebote"
+    fit: 7   # Erlangen
+
+  # same page for: WTD 81 – Bundeswehr test centre for IT & electronics; WTD 61 (Bundeswehr test centre for aircraft)
+  - name: "WTD 81 – Bundeswehr test centre for IT & electronics (+1 more)"
+    url: "https://www.bundeswehrkarriere.de/entdecker/jobs/jobsuche"
+    fit: 7   # Greding, Manching
+
+  - name: "ZAE Bayern – Bavarian Center for Applied Energy Research"
+    url: "https://zae-bayern.de/jobs-und-karriere/"
+    fit: 7   # Erlangen
+
+  - name: "Zentrum für Telematik (ZfT)"
+    url: "https://www.telematik-zentrum.de/career/"
+    fit: 7   # Würzburg
+
+  # ===== Fit 6/10 =====
+
+  - name: "ASML – Erlangen"
+    url: "https://www.asml.com/en/careers/find-your-job"
+    js: true
+    fit: 6   # Erlangen
+
+  - name: "b-plus technologies – Regensburg"
+    url: "https://b-plus.jobs.personio.de/"
+    fit: 6   # Regensburg
+
+  - name: "Baumüller"
+    url: "https://www.baumueller.com/de/unternehmen/karriere/stellenangebote"
+    fit: 6   # Nürnberg
+
+  - name: "Bayernwerk / Bayernwerk Netz"
+    url: "https://jobs.bayernwerk.de/de/"
+    fit: 6   # Regensburg
+
+  # CHECK: SF career5 search form; jobs only after clicking Search - script cannot see jobs, needs different URL
+  - name: "BIOTRONIK – Erlangen"
+    url: "https://career5.successfactors.eu/career?company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv"
+    js: true
+    fit: 6   # Erlangen
+
+  - name: "Brose Fahrzeugteile"
+    url: "https://www.brose.com/de-de/automotive-jobs-bei-brose/"
+    fit: 6   # Coburg
+
+  - name: "Bruker – Erlangen"
+    url: "https://worldwidecareers-bruker.icims.com/jobs/search?ss=1"
+    js: true
+    fit: 6   # Erlangen
+
+  - name: "Bühler Motor"
+    url: "https://www.buehlermotor.de/karriere/stellenangebote.html"
+    fit: 6   # Nürnberg
+
+  - name: "CARIAD"
+    url: "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+    fit: 6   # Ingolstadt
+
+  - name: "duagon Germany"
+    url: "https://careers.duagon.com/search/?q=&locationsearch=&searchResultView=LIST"
+    js: true
+    fit: 6   # Nürnberg
+
+  - name: "E-T-A Elektrotechnische Apparate"
+    url: "https://www.e-t-a.de/karriere/karriere_bei_e_t_a/stellenangebote/"
+    js: true
+    fit: 6   # Altdorf
+
+  - name: "EMCCons Dr. Rašek – Ebermannstadt"
+    url: "https://www.emcc.de/company/job-openings/"
+    fit: 6   # Ebermannstadt
+
+  - name: "Emqopter – Würzburg"
+    url: "https://www.emqopter.de/de/jobs.php"
+    js: true
+    fit: 6   # Würzburg
+
+  - name: "Energie Campus Nürnberg (EnCN)"
+    url: "https://www.encn.de/karriere"
+    js: true
+    fit: 6   # Nürnberg
+
+  - name: "ENTRAK – Wendelstein"
+    url: "https://entrak.de/karriere/"
+    js: true
+    fit: 6   # Wendelstein
+
+  - name: "ESG – Manching"
+    url: "https://jobs.hensoldt.net/go/Germany/9460255/"
+    fit: 6   # Manching
+
+  # CHECK: redirects to marketing page; job list is behind a button on another site - URL should be replaced
+  - name: "Fluence – Erlangen"
+    url: "https://fluenceenergy.com/careers"
+    fit: 6   # Erlangen
+
+  - name: "Framatome GmbH"
+    url: "https://www.framatome.com/de/bewerber/stellenangebote/"
+    fit: 6   # Erlangen
+
+  - name: "Gore (W. L. Gore & Associates) – Pleinfeld"
+    url: "https://wlgore.jobs.hr.cloud.sap/go/All-Jobs/9813400/?locale=en_US&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    js: true
+    fit: 6   # Pleinfeld
+
+  - name: "HEITEC AG"
+    url: "https://www.heitec.de/karriere/stellenangebote"
+    fit: 6   # Erlangen
+
+  - name: "Helmholz GmbH"
+    url: "https://www.helmholz.de/unternehmen/karriere/"
+    js: true
+    fit: 6   # Großenseebach
+
+  - name: "ilis GmbH"
+    url: "https://ilis.de/de/jobs/"
+    fit: 6   # Erlangen
+
+  - name: "Intego GmbH"
+    url: "https://intego.de/de/karriere"
+    fit: 6   # Erlangen
+
+  - name: "Kontron – Fürth"
+    url: "https://www.kontron.com/en/jobs/career-world/listing"
+    fit: 6   # Fürth
+
+  - name: "Leonhard Kurz / KURZ Digital Solutions"
+    url: "https://karriere.kurz.de/stellenangebote/"
+    fit: 6   # Fürth
+
+  - name: "Leoni / Leoni – Kitzingen (wiring systems)"
+    url: "https://www.leoni-germany.com/stellenportal"
+    fit: 6   # Nürnberg, Kitzingen
+
+  - name: "Löwenstein Medical (WILAmed) – Kammerstein"
+    url: "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
+    fit: 6   # Kammerstein
+
+  - name: "Main-Donau Netzgesellschaft / N-ERGIE"
+    url: "https://karriere.n-ergie.de/search"
+    js: true
+    fit: 6   # Nürnberg
+
+  # CHECK: page showed almost no job list (13 text lines) - check URL/filter
+  - name: "MAN Truck & Bus – Nürnberg"
+    url: "https://jobs.man.eu/search/?locale=de_DE&sortColumn=referencedate&sortDirection=desc"
+    fit: 6   # Nürnberg
+
+  - name: "Peter electronic"
+    url: "https://www.peter-electronic.com/ueber-uns/karriere/"
+    js: true
+    fit: 6   # Eckental
+
+  - name: "Preh GmbH"
+    url: "https://preh8-portal.rexx-recruitment.com/stellenangebote.html"
+    fit: 6   # Bad Neustadt
+
+  - name: "PROFICHIP GmbH"
+    url: "https://career.yaskawa.eu.com/eng"
+    fit: 6   # Herzogenaurach
+
+  - name: "ProMik"
+    url: "https://promik.jobs.personio.com/?language=en"
+    fit: 6   # Nürnberg
+
+  - name: "romutec Steuer- und Regelsysteme – Buch am Wald"
+    url: "https://karriere.romutec.de/"
+    fit: 6   # Buch am Wald
+
+  # CHECK: Personio page now titled 'ai6 Solutions GmbH'
+  - name: "Sasse Elektronik"
+    url: "https://seleon.jobs.personio.de/"
+    fit: 6   # Schwabach
+
+  - name: "SCHWAIGER – Langenzenn / Christian Schwaiger GmbH"
+    url: "https://schwaiger.de/pages/karriere"
+    fit: 6   # Langenzenn
+
+  - name: "SIPOS Aktorik"
+    url: "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/"
+    fit: 6   # Altdorf
+
+  - name: "SOHARD Embedded Systems"
+    url: "https://www.sohard.de/unternehmen/karriere/"
+    fit: 6   # Fürth
+
+  - name: "SOMNOmedics – Randersacker"
+    url: "https://somnomedics.career.softgarden.de/"
+    js: true
+    fit: 6   # Randersacker
+
+  # CHECK: page showed almost no job list (15 text lines) - check URL/filter
+  - name: "TRATON R&D Germany"
+    url: "https://jobs.man.eu/search/?createNewAlert=false&q=&locationsearch=Nürnberg&sortColumn=referencedate&sortDirection=desc"
+    fit: 6   # Nürnberg
+
+  - name: "Trench Germany"
+    url: "https://trench.csod.com/ux/ats/careersite/1/home?c=trench"
+    js: true
+    fit: 6   # Bamberg
+
+  - name: "Trescal – Neustadt a.d. Aisch"
+    url: "https://www.trescal.de/karriere/stellenangebote/"
+    fit: 6   # Neustadt an der Aisch
+
+  - name: "TTTech Auto Germany"
+    url: "https://nxp.wd3.myworkdayjobs.com/careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 6   # Regensburg
+
+  - name: "Uni Würzburg – Chair of Communication Networks"
+    url: "https://www.informatik.uni-wuerzburg.de/comnet/team/student-assistants/"
+    fit: 6   # Würzburg
+
+  # same page for: University of Bayreuth – power electronics / mechatronics / BayBatt; University of Bayreuth – Chair of Measurement & Control
+  - name: "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)"
+    url: "https://ubt-career.de/de/stellenportal"
+    fit: 6   # Bayreuth
+
+  - name: "Valeo eAutomotive Germany – Erlangen"
+    url: "https://www.valeo.com/en/find-a-job/"
+    fit: 6   # Erlangen
+
+  - name: "Vector Informatik – Regensburg"
+    url: "https://join.vector.com/content/all_jobs/?locale=de_DE"
+    fit: 6   # Regensburg
+
+  - name: "Vierling Production"
+    url: "https://vierling-production.workwise.io/en/jobsuche"
+    js: true
+    fit: 6   # Ebermannstadt
+
+  - name: "Walaris – Nürnberg"
+    url: "https://walaris.com/careers"
+    js: true
+    fit: 6   # Nürnberg
+
+  - name: "Wieland Electric"
+    url: "https://www.wieland-electric.com/de/karriere/stellenportal/"
+    fit: 6   # Bamberg
+
+  - name: "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)"
+    url: "https://jobs.zf.com/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 6   # Schweinfurt, Auerbach i.d.OPf.
+
+  # ===== Fit 5/10 =====
+
+  - name: "A.R.C. Laser"
+    url: "https://www.arclaser.com/company/career"
+    fit: 5   # Nürnberg
+
+  - name: "ABL GmbH"
+    url: "https://www.abl.de/de/karriere/jobs/"
+    fit: 5   # Lauf
+
+  - name: "ait-deutschland – Kasendorf"
+    url: "https://www.aitgroup.com/de/karriere/arbeiten-bei-ait/stellenangebote"
+    fit: 5   # Kasendorf
+
+  - name: "Akkodis"
+    url: "https://karriere.akkodis.com/search"
+    js: true
+    fit: 5   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Alfmeier Präzision"
+    url: "https://bewerbungen.alfmeier.de/anonymous/jobs/overview.do?curNavItem=33"
+    js: true
+    fit: 5   # Treuchtlingen
+
+  - name: "ALTEN"
+    url: "https://careers.smartrecruiters.com/ALTEN"
+    js: true
+    fit: 5   # Erlangen
+
+  - name: "ArtiQuare – Ingolstadt"
+    url: "https://www.artiquare.com/career/"
+    fit: 5   # Ingolstadt
+
+  - name: "Beckhoff Automation – Nürnberg office"
+    url: "https://www.beckhoff.com/de-de/unternehmen/stellenangebote/"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Behrco – Coburg"
+    url: "https://www.behrco.de/stellenangebote/"
+    fit: 5   # Coburg
+
+  # CHECK: page says 'Keine Stellen gefunden' (0 results) with this filter - fix URL
+  - name: "Bertrandt"
+    url: "https://bertrandt.jobs.hr.cloud.sap/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Manching
+
+  - name: "BestSens AG"
+    url: "https://www.metax-gmbh.de/ueber-metax/karriere"
+    fit: 5   # Coburg
+
+  - name: "BHS Intralogistics – Neutraubling"
+    url: "https://www.bhs-intralogistics.com/karriere/stellenangebote"
+    fit: 5   # Neutraubling
+
+  - name: "Bicker Elektronik – Donauwörth"
+    url: "https://jobs.bicker.de/"
+    fit: 5   # Donauwörth
+
+  - name: "bintec elmeg"
+    url: "https://www.teldat.com/careers/"
+    fit: 5   # Nürnberg
+
+  - name: "Biogents – Regensburg"
+    url: "https://www.biogents.com/"
+    fit: 5   # Regensburg
+
+  - name: "Birkholz Elektronische Geräte – Heßdorf"
+    url: "https://www.birkholz.eu/karriere"
+    fit: 5   # Heßdorf
+
+  - name: "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre"
+    url: "https://www.bmwgroup.jobs/de/de/jobs.html"
+    js: true
+    fit: 5   # Regensburg, Wackersdorf
+
+  - name: "Brose – Würzburg (drives & e-motors)"
+    url: "https://www.brose.com/de-de/jobs-wuerzburg/"
+    fit: 5   # Würzburg
+
+  - name: "Capgemini Engineering"
+    url: "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Carbyte – Nürnberg"
+    url: "https://carbyte.jobs.personio.de/"
+    fit: 5   # Nürnberg
+
+  - name: "Comline – Wackersdorf"
+    url: "https://join.com/companies/comline-elektronik"
+    fit: 5   # Wackersdorf
+
+  # same page for: DB InfraGO; Deutsche Bahn – Nürnberg; DB Fernverkehr / DB Regio – Nürnberg maintenance depots
+  - name: "DB InfraGO (+2 more)"
+    url: "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
+    fit: 5   # Nürnberg
+
+  - name: "DESKO GmbH"
+    url: "https://www.desko.com/de/desko/karriere/"
+    fit: 5   # Bayreuth
+
+  - name: "Deutsche Telekom Technik – Nürnberg"
+    url: "https://careers.telekom.com/de/jobs"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Eberle Controls (Schneider Electric)"
+    url: "https://www.eberle.de/ueber-uns/karriere"
+    fit: 5   # Nürnberg
+
+  - name: "EDAG Engineering"
+    url: "https://www.edag.com/en/career/vacancies"
+    fit: 5   # Ingolstadt
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Electrolux – Rothenburg o.d.T."
+    url: "https://careers.electroluxgroup.com/"
+    js: true
+    fit: 5   # Rothenburg
+
+  - name: "emz-Hanauer"
+    url: "https://www.emz-hanauer.de/karriere/offene-stellen/"
+    fit: 5   # Nabburg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "engineering people"
+    url: "https://www.engineering-people.de/"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Erlanger Stadtwerke (ESTW)"
+    url: "https://www.estw.de/stellen"
+    fit: 5   # Erlangen
+
+  - name: "Excellence AG – GreenTech Engineering"
+    url: "https://excellence.ag/jobs"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Expleo Germany"
+    url: "https://expleo-jobs-de-de.icims.com/jobs/search?ss=1"
+    js: true
+    fit: 5   # Ingolstadt
+
+  - name: "FERCHAU"
+    url: "https://touch.ferchau.com/de/de?type=3&sortingType=actuality&sortingDirection=DESC"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Forvia Hella – Ingolstadt"
+    url: "https://hella.csod.com/ux/ats/careersite/3/home?c=hella"
+    js: true
+    fit: 5   # Ingolstadt
+
+  - name: "Fraunhofer ISC / Fraunhofer ISC – Center HTL Bayreuth"
+    url: "https://jobs.fraunhofer.de/search/?q=ISC&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Würzburg, Bayreuth
+
+  - name: "Fraunhofer IVI – Application Center Ingolstadt"
+    url: "https://jobs.fraunhofer.de/search/?q=IVI&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Ingolstadt
+
+  - name: "Garmin – Würzburg"
+    url: "https://careers.garmin.com/careers-home/jobs?country=Germany&sortBy=posted_date"
+    fit: 5   # Würzburg
+
+  - name: "Grundig Business Systems"
+    url: "https://www.grundig-gbs.com/nc/karriere/"
+    fit: 5   # Bayreuth
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "iAd GmbH"
+    url: "http://www.iad-de.com/company/career/career.htm"
+    js: true
+    fit: 5   # Großhabersdorf
+
+  - name: "IBC Solar"
+    url: "https://www.ibc-solar.de/karriere/stellen/"
+    fit: 5   # Bad Staffelstein
+
+  # CHECK: site blocks plain requests (403) - js true; may still be blocked on GitHub
+  - name: "ifm – Fürth / Forchheim"
+    url: "https://jobs.ifm.com/stelle/stellenliste.aspx"
+    js: true
+    fit: 5   # Fürth
+
+  - name: "Infosim"
+    url: "https://www.infosim.net/career/"
+    fit: 5   # Würzburg
+
+  # CHECK: redirects to general careers page
+  - name: "infoteam Software"
+    url: "https://www.infoteam.de/karriere/jobs"
+    fit: 5   # Bubenreuth
+
+  - name: "Innok Robotics – Regenstauf"
+    url: "https://www.innok-robotics.de/karriere"
+    fit: 5   # Regenstauf
+
+  - name: "INSYS icom – Regensburg"
+    url: "https://www.insys-icom.com/unternehmen/karriere/"
+    fit: 5   # Regensburg
+
+  - name: "ipr – Neustadt bei Coburg"
+    url: "https://jobs.iprworldwide.com/de"
+    fit: 5   # Neustadt bei Coburg
+
+  - name: "Jaeger Medical – Höchberg"
+    url: "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+    fit: 5   # Höchberg
+
+  - name: "KIMO Industrie-Elektronik"
+    url: "http://www.kimo.de"
+    js: true
+    fit: 5   # Mittelfranken (city not checked)
+
+  - name: "Koenig & Bauer"
+    url: "https://jobs.koenig-bauer.com/search/?createNewAlert=false&q=&locationsearch=Deutschland&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Würzburg
+
+  - name: "KPIT Technologies GmbH"
+    url: "https://www.kpit.com/job-listing/"
+    fit: 5   # Ingolstadt
+
+  - name: "Krones AG / Syskron (Krones group) – Neutraubling"
+    url: "https://www.krones.com/en/career/joboffers.php"
+    fit: 5   # Neutraubling
+
+  - name: "Loewe Technology"
+    url: "https://www.loewe.tv/de/de/job_openings"
+    fit: 5   # Kronach
+
+  - name: "Lucom GmbH"
+    url: "https://www.lucom.de/karriere.html"
+    fit: 5   # Zirndorf
+
+  - name: "Magna – Veitsbronn"
+    url: "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 5   # Veitsbronn
+
+  - name: "MEKRA Lang"
+    url: "https://karriere.mekra.de/de/stellenangebote/stellenangebote"
+    fit: 5   # Ergersheim
+
+  - name: "Method Park by UL"
+    url: "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/jobs?keyword=Erlangen&sortBy=POSTING_DATES_DESC"
+    js: true
+    fit: 5   # Erlangen
+
+  - name: "microsyst Systemelectronic – Windischeschenbach"
+    url: "https://www.microsyst.de/karriere/stellenangebote"
+    fit: 5   # Windischeschenbach
+
+  - name: "Minda Group – Ingolstadt"
+    url: "https://inspire-unominda.darwinbox.in/ms/candidatev2/main/careers/home"
+    js: true
+    fit: 5   # Ingolstadt
+
+  - name: "Mitsubishi – Erlangen"
+    url: "https://www.mitsubishielectric-jobs.de/jobs/"
+    js: true
+    fit: 5   # Erlangen
+
+  - name: "MKS Instruments (Atotech) – Feucht"
+    url: "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 5   # Feucht
+
+  - name: "MPS Mess- & Prüfsysteme – Eltmann"
+    url: "https://pd-tester.com/karriere/"
+    fit: 5   # Eltmann
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Nano Quarz Wafer – Langenzenn"
+    url: "https://www.nano-quarz-wafer.com"
+    js: true
+    fit: 5   # Langenzenn
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "NETZSCH Gerätebau – Selb"
+    url: "https://karriere.netzsch.com/en/jobs/"
+    fit: 5   # Selb
+
+  # CHECK: site shows 'Maintenance' page - no job list
+  - name: "novotronik – Mertingen"
+    url: "https://www.novotronik.com"
+    js: true
+    fit: 5   # Mertingen
+
+  - name: "OTH Amberg-Weiden"
+    url: "https://www.oth-aw.de/hochschule/aktuelles/stellenangebote/"
+    js: true
+    fit: 5   # Amberg
+
+  - name: "PHYSIOMED Elektromedizin"
+    url: "https://www.physiomed-group.com/unternehmen/karriere"
+    fit: 5   # Schnaittach
+
+  - name: "ProComp Professional Computer – Marktredwitz"
+    url: "https://procomp.de/karriere?preFilter=Aktuelle+Jobangebote"
+    fit: 5   # Marktredwitz
+
+  - name: "S+S Regeltechnik – Nürnberg"
+    url: "https://www.spluss.de/pages/jobs-karriere"
+    fit: 5   # Nürnberg
+
+  - name: "Schabmüller Automobiltechnik – Berching"
+    url: "https://schabmueller.onlyfy.jobs/"
+    fit: 5   # Berching
+
+  - name: "Schaeffler – Schweinfurt"
+    url: "https://jobs.schaeffler.com/search/?q=&locationsearch=Schweinfurt&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Schweinfurt
+
+  - name: "Schneider Electric – Marktheidenfeld"
+    url: "https://careers.se.com/jobs"
+    js: true
+    fit: 5   # Marktheidenfeld
+
+  - name: "SemsoTec – Regensburg"
+    url: "https://semsotec.de/de/karriere/jobs/"
+    fit: 5   # Regensburg
+
+  - name: "SKF – Schweinfurt"
+    url: "https://career.skf.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Schweinfurt
+
+  - name: "Starkstrom-Gerätebau – Regensburg"
+    url: "https://sgbsmitgroup.recruitee.com/"
+    fit: 5   # Regensburg
+
+  - name: "STRETTA Imaging – Erlangen"
+    url: "https://www.strettaimaging.com/"
+    fit: 5   # Erlangen
+
+  - name: "Sumida Components & Modules – Neumarkt"
+    url: "https://www.sumida.com/careers/index.php?lang=de&categoryId=8&parentId=44&aboutId=44&jobId="
+    fit: 5   # Neumarkt in der Oberpfalz
+
+  - name: "SYSTECH Systemtechnik – Lauf a.d. Pegnitz"
+    url: "https://www.systech-gmbh.de/karriere/stellenangebote"
+    fit: 5   # Lauf an der Pegnitz
+
+  # CHECK: jobs.utn.de redirects to utn.de/karriere/
+  - name: "Technische Universität Nürnberg (UTN)"
+    url: "https://jobs.utn.de/"
+    fit: 5   # Nürnberg
+
+  - name: "Telefónica Germany – Nürnberg"
+    url: "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
+    fit: 5   # Nürnberg
+
+  - name: "THWS – Technical University of Applied Sciences Würzburg-Schweinfurt"
+    url: "https://www.thws.de/hochschule/karriere-an-der-thws/"
+    fit: 5   # Würzburg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Ubica Robotics – Nürnberg"
+    url: "https://ubica-robotics.com"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Uni Würzburg – Chair of Robotics & Telematics"
+    url: "https://www.informatik.uni-wuerzburg.de/robotics/jobs/"
+    fit: 5   # Würzburg
+
+  - name: "Uni Würzburg – Experimental Physics (MRI/semiconductors)"
+    url: "https://www.physik.uni-wuerzburg.de/ep5/magnetic-resonance-imaging/available-projects/"
+    fit: 5   # Würzburg
+
+  - name: "VAG Verkehrs-Aktiengesellschaft Nürnberg"
+    url: "https://karriere.vag.de/search"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Vishay Semiconductor – Selb"
+    url: "https://jobs.vishay.com/jobs/"
+    fit: 5   # Selb
+
+  - name: "Vodafone – Nürnberg"
+    url: "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+    js: true
+    fit: 5   # Nürnberg
+
+  - name: "Witron Logistik + Informatik"
+    url: "https://careers.witron.com/de/jobs"
+    js: true
+    fit: 5   # Parkstein
+
+  - name: "Wöhner"
+    url: "https://www.woehner.de/de/unternehmen/karriere"
+    fit: 5   # Rödental
+
+  - name: "Yaskawa Europe – VIPA controls"
+    url: "https://career.yaskawa.eu.com/job-offers.html"
+    fit: 5   # Herzogenaurach
+
+  - name: "ZSI Technology – Altdorf"
+    url: "https://join.com/companies/zsis"
+    fit: 5   # Altdorf bei Nürnberg
+
+  - name: "Zuken E3 – Erlangen"
+    url: "https://www.zuken.com/de/careers/"
+    fit: 5   # Erlangen
+
+  # ===== Fit 4/10 =====
+
+  - name: "ABB – Nürnberg branch"
+    url: "https://careers.abb/global/en/search-results"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Advanced Power Systems"
+    url: "http://www.adpos-ups.de"
+    fit: 4   # Oberfranken (city not checked)
+
+  - name: "Aero-Dienst GmbH"
+    url: "https://www.aero-dienst.com/aero/de/karriere/"
+    fit: 4   # Nürnberg
+
+  - name: "Aktivgruppe – Würzburg"
+    url: "https://aktivgruppe.zohorecruit.eu/jobs/Careers"
+    js: true
+    fit: 4   # Würzburg
+
+  - name: "AKW-A+V Protec Rail – Hirschau"
+    url: "https://www.protec-bioreactor.com/karriere"
+    fit: 4   # Hirschau
+
+  - name: "Attosys Laser – Erlangen"
+    url: "https://www.attosys.com"
+    js: true
+    fit: 4   # Erlangen
+
+  - name: "Avenir Photonics"
+    url: "https://www.avenirphotonics.com/"
+    fit: 4   # Regensburg
+
+  - name: "Axsol – Würzburg"
+    url: "https://join.com/companies/axsol"
+    fit: 4   # Würzburg
+
+  - name: "Baumann – Amberg"
+    url: "https://www.baumann-gmbh.de/de/jobs_karriere/stellenangebote.php"
+    fit: 4   # Amberg
+
+  # CHECK: not tested - js set to true to be safe
+  - name: "Bayerischer Rundfunk – Studio Franken"
+    url: "https://jobs.br.de/Jobs/All"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Bayerisches Laserzentrum (blz)"
+    url: "https://www.blz.org/ueber-uns/stellenangebote"
+    fit: 4   # Erlangen
+
+  - name: "Belectric"
+    url: "https://belectric.com/career/apply/"
+    fit: 4   # Schweinfurt
+
+  - name: "BEN Maschinenbau – Regensburg"
+    url: "https://www.ben-maschinenbau.de/de/unternehmen/stellenangebote/"
+    fit: 4   # Regensburg
+
+  - name: "BHS Corrugated"
+    url: "https://www.bhs-world.com/jobs/"
+    js: true
+    fit: 4   # Weiherhammer
+
+  - name: "Bilfinger Noell – Würzburg"
+    url: "https://jobs.bilfinger.com/search/?createNewAlert=false&q=&optionsFacetsDD_country=DE&locationsearch=W%C3%BCrzburg&sortColumn=referencedate&sortDirection=desc"
+    fit: 4   # Würzburg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Bluetec Engineering"
+    url: "https://bluetec-engineering.de/"
+    js: true
+    fit: 4   # Baiersdorf
+
+  - name: "BMR elektrischer & elektronischer Gerätebau"
+    url: "https://www.bmr-gmbh.de/"
+    fit: 4   # Mittelfranken (city not checked)
+
+  - name: "Bureau Veritas CPS Germany"
+    url: "https://jobs.bureauveritas.com/de/de/search-results"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "BWI GmbH – Nürnberg"
+    url: "https://www.bwi.de/karriere/stellenangebote"
+    fit: 4   # Nürnberg
+
+  - name: "CGM (CompuGroup Medical) – Erlangen"
+    url: "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 4   # Erlangen
+
+  - name: "Cherry – Auerbach"
+    url: "https://cherry.onlyfy.jobs/"
+    fit: 4   # Auerbach i.d.OPf.
+
+  - name: "Collischan GmbH"
+    url: "https://www.collischan.de/ueber-uns/karriere/"
+    fit: 4   # Nürnberg
+
+  - name: "Consolinno Energy"
+    url: "https://consolinno.jobs.personio.de/"
+    fit: 4   # Regensburg
+
+  - name: "DATEV – Nürnberg"
+    url: "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "DEPRAG Schulz"
+    url: "https://www.deprag.com/de/unternehmen/jobs-karriere/stellenangebote.html"
+    fit: 4   # Amberg
+
+  - name: "Dimplex (Glen Dimplex) – Kulmbach"
+    url: "https://karriere.glendimplex.de/stellenangebote.html"
+    fit: 4   # Kulmbach
+
+  - name: "dissecto GmbH"
+    url: "https://dissec.to/job-openings/"
+    fit: 4   # Regensburg
+
+  - name: "Dräxlmaier – Ingolstadt"
+    url: "https://d-career.org/Draexlmaier/go/DR%C3%84XLMAIER-Job-Opportunities-in-Germany/3579401/"
+    fit: 4   # Ingolstadt
+
+  - name: "ebm-papst Zeitlauf"
+    url: "https://ebmpapst.csod.com/ux/ats/careersite/4/home?c=ebmpapst&lang=en-US"
+    js: true
+    fit: 4   # Lauf
+
+  - name: "ECPE European Center for Power Electronics"
+    url: "https://www.ecpe.org/infocentre/job-forum/students/"
+    fit: 4   # Nürnberg
+
+  - name: "Elektron Systeme und Komponenten"
+    url: "https://recruitingapp-5537.de.umantis.com/Jobs/All?CompanyID=37&Reset=G"
+    js: true
+    fit: 4   # Oberfranken (city not checked)
+
+  - name: "ENACO Energieanlagen- und Kommunikationstechnik"
+    url: "https://freitag.helixjobs.com"
+    fit: 4   # Ingolstadt
+
+  - name: "Epsilon Telecommunications"
+    url: "https://epsilontel.com/careers/"
+    fit: 4   # Oberfranken (city not checked)
+
+  - name: "ERLAS Erlanger Lasertechnik"
+    url: "https://www.erlas.de"
+    fit: 4   # Erlangen
+
+  - name: "esz AG calibration & metrology – Nürnberg"
+    url: "https://jobs.esz-ag.de/stellenangebote/"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "EVF Energievision Franken – Weißdorf"
+    url: "https://www.energievision-franken.de/stellenangebote"
+    fit: 4   # Weißdorf
+
+  - name: "Evosys Laser"
+    url: "https://karriere.evosys-laser.de/en"
+    fit: 4   # Erlangen
+
+  - name: "F.EE Unternehmensgruppe"
+    url: "https://www.fee.de/karriere/stellenangebote"
+    fit: 4   # Neunburg vorm Wald
+
+  - name: "F.S. Fehrer Automotive – Kitzingen"
+    url: "https://www.fehrer.com/karriere/stellenangebote"
+    fit: 4   # Kitzingen
+
+  - name: "Fraunhofer FIT – Bayreuth"
+    url: "https://jobs.fraunhofer.de/search/?q=FIT&locationsearch=Bayreuth&sortColumn=referencedate&sortDirection=desc"
+    fit: 4   # Bayreuth
+
+  - name: "Fraunhofer UMSICHT – Sulzbach-Rosenberg"
+    url: "https://jobs.fraunhofer.de/search/?q=UMSICHT&locationsearch=Sulzbach&sortColumn=referencedate&sortDirection=desc"
+    fit: 4   # Sulzbach-Rosenberg
+
+  # CHECK: site blocks plain requests (429) - js true; may still be blocked on GitHub
+  - name: "FuehlerSysteme eNET International"
+    url: "https://www.fuehlersysteme.de"
+    js: true
+    fit: 4   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "GCD Hard- & Software"
+    url: "http://www.gcd-hs.de"
+    js: true
+    fit: 4   # Mittelfranken (city not checked)
+
+  - name: "GE HealthCare – Wendelstein"
+    url: "https://careers.gehealthcare.com/global/en/search-results"
+    js: true
+    fit: 4   # Wendelstein
+
+  - name: "Gebr. Waasner / Gebr. Waasner Elektrotechnische Fabrik – Forchheim"
+    url: "https://www.waasner.de/karriere/offene-stellen/"
+    fit: 4   # Forchheim
+
+  - name: "GESTA – Elektronische Steuerungs- und Antriebstechnik"
+    url: "https://www.gestambh.de/#karriere"
+    fit: 4   # Mittelfranken (city not checked)
+
+  # FIXED: old /karriere/ link redirects; using the English career page
+  - name: "Grammer AG"
+    url: "https://www.grammer.com/en/career/"
+    fit: 4   # Amberg
+
+  - name: "Grenzebach – Asbach-Bäumenheim"
+    url: "https://grenzebach.softgarden.io/de/vacancies"
+    fit: 4   # Asbach-Bäumenheim
+
+  - name: "Herding Filtertechnik – Amberg"
+    url: "https://herding.jobs/l/en/"
+    fit: 4   # Amberg
+
+  - name: "HERMOS AG"
+    url: "https://www.hermos.com/karriere-bei-hermos/stellenportal/"
+    fit: 4   # Bayreuth
+
+  - name: "HUNDT Elektrosysteme – Bamberg"
+    url: "https://www.hundt-elektrosysteme.de/unternehmen/jobs/"
+    fit: 4   # Bamberg
+
+  - name: "IDEENION Design – Gaimersheim"
+    url: "https://ideenionautomobilag.recruitee.com/"
+    fit: 4   # Gaimersheim
+
+  - name: "infra fürth"
+    url: "https://www.infra-fuerth.de/privatkunden/die-infra/karriere/stellenangebote"
+    js: true
+    fit: 4   # Fürth
+
+  - name: "inovex – Erlangen"
+    url: "https://www.inovex.de/de/karriere/jobs/"
+    fit: 4   # Erlangen
+
+  - name: "INSEVIS"
+    url: "https://www.insevis.de/unternehmen/#karriere"
+    fit: 4   # Erlangen
+
+  - name: "Intel – Nürnberg"
+    url: "https://intel.wd1.myworkdayjobs.com/External?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "INTER CONTROL Hermann Köhler"
+    url: "https://www.intercontrol.de/karriere/stellenangebote"
+    fit: 4   # Nürnberg
+
+  - name: "INVENT – Erlangen"
+    url: "https://invent-uv.de/jobs-karriere/stellenanzeigen/"
+    fit: 4   # Erlangen
+
+  - name: "IPG Automotive – Ingolstadt"
+    url: "https://ipg-automotive-gmbh.jobs.personio.com/?language=en"
+    fit: 4   # Ingolstadt
+
+  - name: "ISA Industrieelektronik"
+    url: "https://isaweiden.de/karriere/"
+    fit: 4   # Oberpfalz (city not checked)
+
+  - name: "Kaeser Kompressoren"
+    url: "https://careers.kaeser.com/go/Alle-Stellen/3767101/"
+    fit: 4   # Coburg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "KEBODA Deutschland"
+    url: "https://keboda.com"
+    js: true
+    fit: 4   # Regensburg
+
+  - name: "KooSys GmbH"
+    url: "https://koosys.de/jobs/"
+    fit: 4   # Regensburg
+
+  - name: "KYNEOS – Regensburg"
+    url: "https://www.kyneos.com/career"
+    fit: 4   # Regensburg
+
+  - name: "Lear – Kronach"
+    url: "https://jobs.lear.com/go/Germany/4351401/"
+    fit: 4   # Kronach
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Leggett & Platt – Nürnberg"
+    url: "https://leggett.com/careers/search"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Löhnert Elektronik"
+    url: "https://loehnert-elektronik.de/stellenangebote"
+    fit: 4   # Mittelfranken (city not checked)
+
+  - name: "Lüberg Elektronik"
+    url: "https://www.lueberg.de/kontakt/karriere"
+    fit: 4   # Schwaig
+
+  - name: "M.A.i. – Kronach"
+    url: "https://jobs.m-a-i.de/de"
+    fit: 4   # Kronach
+
+  - name: "Max Bögl"
+    url: "https://jobportal.max-boegl.de/"
+    fit: 4   # Neumarkt
+
+  - name: "Memmert – Büchenbach"
+    url: "https://www.memmert.com/en/why-memmert/company-with-tradition/career-new/vacancies-new"
+    fit: 4   # Büchenbach
+
+  - name: "MID GmbH – Nürnberg"
+    url: "https://mid-gmbh.jobs.personio.de/"
+    fit: 4   # Nürnberg
+
+  - name: "mikrolab Entwicklungsgesellschaft für Elektroniksysteme"
+    url: "https://jobs.pruefrex.de/stellenangebote.html"
+    fit: 4   # Mittelfranken (city not checked)
+
+  - name: "Moll Batterien – Bad Staffelstein"
+    url: "https://www.moll-batterien.de/unternehmen/karriere"
+    fit: 4   # Bad Staffelstein
+
+  - name: "Neuberger Gebäudeautomation"
+    url: "https://www.neuberger.net/karriere/aktuelle-stellenangebote"
+    fit: 4   # Rothenburg
+
+  - name: "Neumüller Elektronik – Weisendorf"
+    url: "https://www.neumueller.com/de/karriere/professionals"
+    fit: 4   # Weisendorf
+
+  - name: "Nexans Deutschland – Nürnberg"
+    url: "https://career.nexans.com/search/?createNewAlert=false&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 4   # Nürnberg
+
+  - name: "noris network"
+    url: "https://www.noris.de/karriere/jobs/"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Oechsler AG"
+    url: "https://www.oechsler.com/karriere/stellenangebote"
+    js: true
+    fit: 4   # Ansbach
+
+  - name: "Paessler GmbH"
+    url: "https://jobs.paessler.com/"
+    fit: 4   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "PATEO Electronics Europe"
+    url: "https://www.pateo.com.cn/en/career.html"
+    fit: 4   # Regensburg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Persystems GmbH"
+    url: "https://www.persystems.com"
+    fit: 4   # Regensburg
+
+  - name: "planemos – Erlangen"
+    url: "https://www.planemos.de/karriere/"
+    fit: 4   # Erlangen
+
+  - name: "PreussenElektra – Grafenrheinfeld"
+    url: "https://jobs.eon.com/de?company=PreussenElektra+GmbH"
+    fit: 4   # Grafenrheinfeld
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "PRIME UV-IR – Haßfurt"
+    url: "https://www.primeuv.com"
+    fit: 4   # Haßfurt
+
+  - name: "Procter & Gamble – Braun plant Marktheidenfeld"
+    url: "https://www.pgcareers.com/de/en/search-results"
+    js: true
+    fit: 4   # Marktheidenfeld
+
+  - name: "ProLeiT"
+    url: "https://careers.se.com/global/jobs?keywords=proleit&lang=de-DE&location=deutschland&stretch=10&stretchUnit=MILES&sortBy=relevance&page=1"
+    js: true
+    fit: 4   # Herzogenaurach
+
+  - name: "Prüfrex innovative power products"
+    url: "https://jobs.pruefrex.de/"
+    fit: 4   # Cadolzburg
+
+  - name: "REWAG Regensburg"
+    url: "https://karriere.rewag.de/"
+    js: true
+    fit: 4   # Regensburg
+
+  - name: "Rittmeyer – Fürth"
+    url: "https://karriere.rittmeyer.com/offene-stellen/"
+    fit: 4   # Fürth
+
+  - name: "robotif – Harsdorf"
+    url: "https://robotif.de/robotif/de/karriere/job-ov/"
+    fit: 4   # Harsdorf
+
+  - name: "Rösler Oberflächentechnik – Untermerzbach"
+    url: "https://careers.rosler.com/stellen/go/Stellen/4149501/"
+    fit: 4   # Untermerzbach
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Sanmina – Gunzenhausen"
+    url: "https://jobs.sanmina.com/search/jobs"
+    fit: 4   # Gunzenhausen
+
+  - name: "SAR Elektronic"
+    url: "https://k60501.coveto.de/public/jobs/"
+    fit: 4   # Mittelfranken (city not checked)
+
+  - name: "Schaeffler – Höchstadt & Hirschaid plants"
+    url: "https://jobs.schaeffler.com/search/?q=&locationsearch=H%C3%B6chstadt&sortColumn=referencedate&sortDirection=desc"
+    fit: 4   # Höchstadt
+
+  - name: "Schmitt + Sohn Aufzüge"
+    url: "https://karriere.schmitt-aufzuege.de/stellenangebote/"
+    fit: 4   # Nürnberg
+
+  - name: "SGB-SMIT Group – Regensburg"
+    url: "https://www.sgb-smit.com/career-jobs/current-vacancies"
+    js: true
+    fit: 4   # Regensburg
+
+  - name: "Siegert electronic"
+    url: "https://www.kolektor.com/career"
+    fit: 4   # Cadolzburg
+
+  - name: "Sielaff"
+    url: "https://jobs.sielaff.de/de"
+    fit: 4   # Herrieden
+
+  - name: "Sill Optics"
+    url: "https://www.silloptics.de/unternehmen/karriere/jobangebote"
+    fit: 4   # Wendelstein
+
+  - name: "SINTEC Informatik – Nürnberg / Erlangen"
+    url: "https://www.sintec.de/karriere/jobs/"
+    fit: 4   # Nürnberg
+
+  # CHECK: redirects to vacancy.sioux.eu
+  - name: "Sioux Technologies – Erlangen"
+    url: "https://www.sioux.eu/jobs/vacancies/"
+    js: true
+    fit: 4   # Erlangen
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "SKVE – Regensburg"
+    url: "https://www.skve.de/ueber-uns/karriere"
+    fit: 4   # Regensburg
+
+  - name: "SPANGLER GmbH"
+    url: "https://spangler-automation.de/karriere/jobs/"
+    fit: 4   # Neumarkt i.d.OPf.
+
+  - name: "Stadtwerk Haßfurt"
+    url: "https://stwhas.de/ueber-uns/karriere/"
+    js: true
+    fit: 4   # Haßfurt
+
+  - name: "Stadtwerke Bamberg"
+    url: "https://www.stadtwerke-bamberg.de/karriere/offene-stellen"
+    fit: 4   # Bamberg
+
+  - name: "Stadtwerke Bayreuth"
+    url: "https://jobs.stadtwerke-bayreuth.de/stellenangebote.html"
+    fit: 4   # Bayreuth
+
+  - name: "Stadtwerke Ingolstadt"
+    url: "https://www.mein-check-in.de/sw-i"
+    fit: 4   # Ingolstadt
+
+  - name: "Stadtwerke Schweinfurt"
+    url: "https://jobs.stadtwerke-sw.de/stellenangebote.html"
+    fit: 4   # Schweinfurt
+
+  - name: "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg"
+    url: "https://jobs.wvv.de/"
+    js: true
+    fit: 4   # Würzburg
+
+  - name: "Stäubli Bayreuth / Stäubli Tec-Systems"
+    url: "https://careers.smartrecruiters.com/StaubliGroup?search=Bayreuth"
+    fit: 4   # Bayreuth
+
+  - name: "Stäubli WFT – Sulzbach-Rosenberg"
+    url: "https://careers.smartrecruiters.com/StaubliGroup?search=Sulzbach-Rosenberg"
+    fit: 4   # Sulzbach-Rosenberg
+
+  - name: "SUSPA – Altdorf"
+    url: "https://www.suspa.com/unternehmen/karriere/stellenangebote"
+    js: true
+    fit: 4   # Altdorf bei Nürnberg
+
+  - name: "SÜC Coburg"
+    url: "https://ceb.suec.de/jobs/alle-jobs/"
+    fit: 4   # Coburg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "TASKING Germany"
+    url: "https://www.tasking.com/company/careers/"
+    fit: 4   # Regensburg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "technoboards – Kronach"
+    url: "https://www.technoboards.de/"
+    js: true
+    fit: 4   # Kronach
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "TecTwo – Forchheim"
+    url: "https://www.tectwo.de/"
+    js: true
+    fit: 4   # Forchheim
+
+  - name: "Testo Industrial Services – Kulmbach"
+    url: "https://jobs.testo.com/index"
+    fit: 4   # Kulmbach
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "TGW Logistics – Regensburg"
+    url: "https://www.tgw-group.com/en/career/jobs/"
+    fit: 4   # Regensburg
+
+  - name: "TWT Science & Innovation – Ingolstadt"
+    url: "https://career.twt-gmbh.de/"
+    fit: 4   # Ingolstadt
+
+  - name: "TÜV NORD EnSys"
+    url: "https://www.tuev-nord-group.com/de/karriere/jobs/"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "TÜV Rheinland – Nürnberg"
+    url: "https://jobs.tuv.com/de?filter=locations.country%3ADeutschland"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "TÜV SÜD – Nürnberg"
+    url: "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Vanderlande – Nürnberg"
+    url: "https://vanderlande.wd3.myworkdayjobs.com/careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "Velotech – Schweinfurt"
+    url: "https://velotech.de/karriere/"
+    fit: 4   # Schweinfurt
+
+  - name: "Visteon – Ingolstadt"
+    url: "https://visteon-panorama.darwinbox.com/ms/candidatev2/main/careers/home"
+    js: true
+    fit: 4   # Ingolstadt
+
+  - name: "Vossloh – Nürnberg"
+    url: "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 4   # Nürnberg
+
+  - name: "WAREMA Renkhoff"
+    url: "https://careers.smartrecruiters.com/WAREMARenkhoffSE/jobs"
+    fit: 4   # Marktheidenfeld
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "WeSort.AI – Würzburg"
+    url: "https://www.wesort.ai/karriere"
+    fit: 4   # Würzburg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "WOLF Meßtechnik"
+    url: "https://www.wolf-messtechnik.de"
+    js: true
+    fit: 4   # Mittelfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Wolong EMEA (Germany)"
+    url: "https://www.wolong-electric.com/careers"
+    fit: 4   # Regensburg
+
+  # ===== Fit 3/10 =====
+
+  - name: "3PLAN AG"
+    url: "https://3plan.de/plan/de/kar/"
+    fit: 3   # Kulmbach
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "4BetterDevices"
+    url: "https://www.4betterdevices.com"
+    fit: 3   # Medical Valley region (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "A+R Leiterplatten Bestückungs GmbH"
+    url: "https://www.a-rgmbh.de/"
+    fit: 3   # Happurg
+
+  - name: "AAN Apparate- und Anlagentechnik Nürnberg"
+    url: "https://www.aan-nuernberg.de/stellenanzeigen.html"
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "AAT Aston GmbH"
+    url: "https://aston.de/karriere/"
+    fit: 3   # Nürnberg
+
+  - name: "Abraham Automation"
+    url: "https://abraham-automation.de/karriere/"
+    fit: 3   # Oberpfalz (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "ACS Industrietechnik"
+    url: "https://www.acs-industrietechnik.de/index.php/karriere"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Actemium Cegelec"
+    url: "https://actemium.career.softgarden.de/"
+    js: true
+    fit: 3   # Unterfranken (city not checked)
+
+  - name: "Afag Automation"
+    url: "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
+    js: true
+    fit: 3   # Oberpfalz (city not checked)
+
+  - name: "AFRA GmbH"
+    url: "https://www.afra.de/jobs/"
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Ahead Care"
+    url: "https://www.moio.care/jobs-bei-teamahead/"
+    fit: 3   # Medical Valley region (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "APAGCoSyst Control Systems"
+    url: "https://apagcosyst.com/career/country/de/"
+    js: true
+    fit: 3   # Medical Valley region (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "APROTECH"
+    url: "https://aprotech.de/Unternehmen/Karriere/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "ASSDEV"
+    url: "https://assdev.de/karriere/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "ASTRUM IT"
+    url: "https://karriere.astrum-it.de/jobs"
+    fit: 3   # Erlangen
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "AuMaSys"
+    url: "https://aumasys.de/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "AUTEC Sondermaschinenbau"
+    url: "https://autec-sondermaschinenbau.de/karriere/"
+    fit: 3   # Oberpfalz (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Automatic Research"
+    url: "https://www.automatic-research.de/"
+    fit: 3   # Nürnberg region (city not checked)
+
+  - name: "Bayern Innovativ (incl. Cluster Power Electronics)"
+    url: "https://www.bayern-innovativ.de/de/seite/stellen/"
+    fit: 3   # Nürnberg
+
+  - name: "BBT Automotive Components – Weihenzell"
+    url: "https://www.bbt-automotive.com/karriere/"
+    fit: 3   # Weihenzell
+
+  - name: "Beck Automation"
+    url: "https://www.beck-automation.com/jobs-und-karriere/"
+    fit: 3   # Unterfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Beck Elektronik Bauelemente – Nürnberg"
+    url: "https://www.beck-elektronik.de/karriere"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "BEN Buchele Elektromotorenwerke"
+    url: "https://join.com/companies/benbuchele"
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Brochier Group"
+    url: "https://www.brochier.com/"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "Brunel – Nürnberg"
+    url: "https://www.brunel.net/de-de/jobs"
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Building Controls GmbH"
+    url: "https://www.building-controls.de/jobs"
+    fit: 3   # Nürnberg region (city not checked)
+
+  - name: "BURGER ENGINEERING"
+    url: "https://www.burger-engineering.de/index.php/karriere"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "C+R Automations"
+    url: "https://crautomation.com/"
+    fit: 3   # Nürnberg
+
+  - name: "CeramTec – Lauf"
+    url: "https://recruitingapp-5382.de.umantis.com/Jobs/1"
+    fit: 3   # Lauf
+
+  - name: "CERTA Systems"
+    url: "https://www.erowa.com/de/karriere/offene-stellen"
+    fit: 3   # Nürnberg
+
+  # CHECK: URL is a contact page, not a job list - replace with the careers page
+  - name: "Conntec GmbH"
+    url: "https://www.conntec.de/kontakt/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "CONRADTY Röthenbach"
+    url: "https://www.conradty.com"
+    js: true
+    fit: 3   # Röthenbach
+
+  - name: "CoorsTek – Lauf an der Pegnitz"
+    url: "https://coorstek.com/en/careers/where-do-you-want-to-go/"
+    js: true
+    fit: 3   # Lauf an der Pegnitz
+
+  - name: "COSMINO AG"
+    url: "https://www.cosmino.de/unternehmen/karriere-bei-der-cosmino-ag/"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "DAMBAN Ingenieurbüro"
+    url: "https://damban.de/ueber-uns/karriere/"
+    fit: 3   # Nürnberg
+
+  - name: "de engineering – Bayreuth"
+    url: "https://deengineering.hr4you.org/job-list/external"
+    js: true
+    fit: 3   # Bayreuth
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Dr. Schneider Unternehmensgruppe"
+    url: "https://careers.motherson.com/en/jobs"
+    fit: 3   # Kronach
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Ebert Ingenieure"
+    url: "https://www.ebert-ingenieure.de/"
+    js: true
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "empuron AG"
+    url: "http://www.empuron.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "ENERPIPE"
+    url: "https://app.hrlab.de/de/jobs/enerpipe?channel_id=3243"
+    fit: 3   # Nürnberg region (city not checked)
+
+  - name: "Envi Con & Plant Engineering – Nürnberg"
+    url: "https://www.envi-con-karriere.de/"
+    fit: 3   # Nürnberg
+
+  - name: "EPLAN – Nürnberg branch"
+    url: "https://career.friedhelm-loh-group.com/search"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "evopro systems engineering"
+    url: "https://www.evopro-ag.de/unternehmen/karriere/"
+    fit: 3   # Nürnberg
+
+  - name: "Exyte Central Europe"
+    url: "https://careers.exyte.net/global/search-results"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "FlowChief"
+    url: "https://jederzeit.flowchief.de/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Flughafen Nürnberg"
+    url: "https://www.airport-nuernberg.de/de/jobs"
+    js: true
+    fit: 3   # Nürnberg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Franz Steger Transformatorenbau – Sulzbach-Rosenberg"
+    url: "http://www.stegertrafo.de/"
+    fit: 3   # Sulzbach-Rosenberg
+
+  - name: "Fraunhofer IPT – Bayreuth"
+    url: "https://jobs.fraunhofer.de/search/?q=IPT&locationsearch=Bayreuth&sortColumn=referencedate&sortDirection=desc"
+    fit: 3   # Bayreuth
+
+  - name: "Fresenius Kabi – Erlangen"
+    url: "https://karriere.fresenius.de/job-suche"
+    js: true
+    fit: 3   # Erlangen
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "FRÖHLICH ELECTRONIC Umwelttechnik"
+    url: "http://www.froehlich-electronic.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Geiger Automation & Fördertechnik"
+    url: "http://www.geiger-automatisierung.de"
+    js: true
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "Gerresheimer Regensburg"
+    url: "https://www.gerresheimer.com/en/careers/jobs/job-openings"
+    js: true
+    fit: 3   # Regensburg
+
+  - name: "GfE Gesellschaft für Elektrometallurgie"
+    url: "https://www.gfe.com/en/careers/job-portal"
+    fit: 3   # Nürnberg
+
+  - name: "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg"
+    url: "https://www.gi-de.com/en/careers/jobs"
+    js: true
+    fit: 3   # Neustadt bei Coburg
+
+  - name: "Grempel ET – Neustadt bei Coburg"
+    url: "https://grempel-elektrotechnik.de/karriere/"
+    js: true
+    fit: 3   # Neustadt bei Coburg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Gutmann Automation"
+    url: "http://www.gutmann-automation.de"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "HANDKE Industrial Solutions"
+    url: "http://www.his-handke.com"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Hans Fleischmann Elektrotechnik"
+    url: "http://www.hwfleischmann.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Hans Weber Maschinenfabrik – Kronach"
+    url: "https://www.hansweber.de/jobs-karriere/fuer-berufserfahrene/offene-stellen"
+    fit: 3   # Kronach
+
+  - name: "haprotec"
+    url: "https://www.haprotec.de/karriere"
+    fit: 3   # Unterfranken (city not checked)
+
+  - name: "Heidolph Instruments – Schwabach"
+    url: "https://karriere.heidolph.de/"
+    js: true
+    fit: 3   # Schwabach
+
+  - name: "Herzo Werke"
+    url: "https://www.herzowerke.de/de/unternehmen/jobs/aktuelle-stellenanzeigen/"
+    fit: 3   # Herzogenaurach
+
+  - name: "Herzotec – Nürnberg"
+    url: "https://www.herzotec.de/index.php/jobs"
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "HOB electronic"
+    url: "https://www.hob.de"
+    js: true
+    fit: 3   # Zirndorf
+
+  - name: "Hochschule Ansbach"
+    url: "https://www.hs-ansbach.de/jobs/jobboerse"
+    js: true
+    fit: 3   # Ansbach
+
+  - name: "Hochschule Hof – Institute for Information Systems (iisys)"
+    url: "https://www.hof-university.de/ueber-die-hochschule/karriere.html"
+    js: true
+    fit: 3   # Hof
+
+  - name: "Horsch Maschinen"
+    url: "https://jobs.horsch.com/"
+    fit: 3   # Schwandorf
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "HSP Barschat & Krönert"
+    url: "https://www.hsshsp.de/news-jobs-highlights/"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "HUBER SE"
+    url: "https://karriere.huber.de/stellenangebote.html"
+    fit: 3   # Berching
+
+  - name: "HumanOptics – Erlangen"
+    url: "https://www.humanoptics.com/unternehmen-humanoptics/karriere/"
+    fit: 3   # Erlangen
+
+  - name: "Hörber + Hetzner"
+    url: "https://www.hoerber-hetzner.de/de/karriere"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "IBD Mobile Solutions"
+    url: "http://www.ibd-aut.com"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "IBK-Herzog"
+    url: "https://i-bk.de/karriere/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "imbus AG"
+    url: "https://imbus.dvinci-hr.com/de/jobs"
+    js: true
+    fit: 3   # Erlangen
+
+  - name: "imetrologie – Helmstadt"
+    url: "https://imetrologie.com/unternehmen/karriere/"
+    js: true
+    fit: 3   # Helmstadt
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Ingenieurbüro Hofmann"
+    url: "https://hofmann.info/jobs"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Ingenieurbüro HPE"
+    url: "https://www.ingenieurbuero-hpe.de"
+    js: true
+    fit: 3   # Regensburg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Ingenieurbüro Springs"
+    url: "https://www.ingenieurbuero-springs.de"
+    fit: 3   # Regensburg
+
+  - name: "INKA System"
+    url: "https://inka-system.de/karriere/"
+    fit: 3   # Oberfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "INNOCEPT engineering"
+    url: "http://www.innocept-engineering.de"
+    js: true
+    fit: 3   # Oberfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "inTec Industrie Automation"
+    url: "http://www.intec-in-automation.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Intelstrom GmbH"
+    url: "https://intelstrom.com/"
+    fit: 3   # Regensburg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "IPKS Prozess-Software-Entwicklung"
+    url: "https://www.ipks.de/karriere-bei-ipks/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "IPTE Germany"
+    url: "https://www.ipte.com/jobs"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "ISCUE GmbH & Co. KG"
+    url: "https://iscue.com/bewerber/"
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "isn innovative software networks"
+    url: "http://isn-nuernberg.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "IST GmbH"
+    url: "https://www.ist-gmbh.com/karriere"
+    fit: 3   # Oberpfalz (city not checked)
+
+  # CHECK: site blocks plain requests (403) - js true; may still be blocked on GitHub
+  - name: "ITR Informationstechnologie Rauch"
+    url: "http://www.itrgmbh.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "IVK Schaltanlagen und Systemtechnik"
+    url: "https://ivk-forchheim.de/jobs/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "Kapp Niles"
+    url: "https://www.kapp-niles.com/de/stellenangebote"
+    fit: 3   # Coburg
+
+  - name: "Klinkhammer Intralogistics"
+    url: "https://www.klinkhammer.com/karriere"
+    fit: 3   # Nürnberg
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "KnorrTec"
+    url: "http://www.knorrtec.de"
+    fit: 3   # Oberpfalz (city not checked)
+
+  - name: "Komax Kabelverarbeitungssysteme Deutschland"
+    url: "https://jobs.komaxgroup.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Kromberg & Schubert – Abensberg/Ingolstadt"
+    url: "https://www.purple-career.com/jobs"
+    fit: 3   # Ingolstadt
+
+  - name: "KSB – Pegnitz"
+    url: "https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 3   # Pegnitz
+
+  - name: "Kühne + Vogel"
+    url: "https://actemium.career.softgarden.de/#jobs:search=k%C3%BChne"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Langguth-Antriebe"
+    url: "https://langguth-antriebe.de/stellenangebote/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "LASCO Umformtechnik"
+    url: "https://www.lasco.com/unternehmen/karriere/stellenangebote.html"
+    fit: 3   # Coburg
+
+  - name: "Loesch Verpackungstechnik – Altendorf"
+    url: "https://www.loeschpack.com/de/karriere/offene-stellen/"
+    fit: 3   # Altendorf
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "LP Montagetechnik"
+    url: "https://www.lp-montagetechnik.com/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "M-net Telekommunikations"
+    url: "https://m-net.csod.com/ux/ats/careersite/6/home?c=m-net"
+    js: true
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Mangelberger Elektrotechnik"
+    url: "https://www.mangelberger.de"
+    js: true
+    fit: 3   # Roth
+
+  - name: "Maschinenfabrik Niehoff"
+    url: "https://www.niehoff-gmbh.info/de/karriere/niehoff-als-arbeitgeber-stellenangebote"
+    fit: 3   # Schwabach
+
+  - name: "Medwork"
+    url: "https://www.medwork.com/karriere/"
+    fit: 3   # Höchstadt
+
+  - name: "Metz (consumer electronics / mecatech)"
+    url: "https://metz-ce.de/unternehmen/karriere"
+    fit: 3   # Zirndorf
+
+  - name: "MGA Ingenieurdienstleistungen"
+    url: "https://technikjobs.mga-gmbh.com/alle-jobangebote/"
+    fit: 3   # Unterfranken (city not checked)
+
+  # CHECK: URL is a contact page, not a job list - replace with the careers page
+  - name: "MOTRON Steuersysteme"
+    url: "https://www.motron.de/de/kontakt"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "MSEA GmbH"
+    url: "https://ms-ea.de/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "NCP engineering"
+    url: "https://www.ncp-e.com/de/unternehmen/karriere/stellenangebote"
+    fit: 3   # Nürnberg
+
+  - name: "Neue Materialien Bayreuth"
+    url: "https://www.nmbgmbh.de/unternehmen/karriere"
+    fit: 3   # Bayreuth
+
+  - name: "norisTEC"
+    url: "https://www.noristec.de/stellenangebote/"
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Northoff Anlagenbau"
+    url: "https://northoff-anlagenbau.de/team/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Och GmbH"
+    url: "http://www.och.de"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Omexom Umspannwerke (VINCI) – Nürnberg"
+    url: "https://karriere.omexom.de/"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "ontec automation"
+    url: "https://www.werde-neuenhauser.de/offene-stellen"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "OSB AG"
+    url: "https://www.alten-consulting.de/karriere/stellenangebote"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "PANOVO tec"
+    url: "https://panovotec.com/karriere/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "PELETEC Automatisierungstechnik"
+    url: "https://www.peletec.de"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Pfenning Elektroanlagen"
+    url: "https://www.pfenning-elektroanlagen.de/aktuelles/aktuelle-stellenangebote"
+    fit: 3   # Ochsenfurt
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Piasten – Forchheim"
+    url: "https://www.piasten.de"
+    js: true
+    fit: 3   # Forchheim
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "PixelMechanics"
+    url: "https://pixelmechanics.recruitee.com"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "preccon Robotics"
+    url: "https://www.preccon.com"
+    js: true
+    fit: 3   # Oberfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Protec Technologies"
+    url: "https://www.protec-technologies.com/protec/de/kar/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "PROZEDA Technology – Eggolsheim"
+    url: "https://prozeda.de/unternehmen/karierre/"
+    fit: 3   # Eggolsheim
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "PureSolution – Zirndorf"
+    url: "https://www.puresolution.de/karriere/"
+    js: true
+    fit: 3   # Zirndorf
+
+  - name: "Quintec"
+    url: "https://www.quintec.de/karriere/stellenangebote"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "R-KOM – Regensburg"
+    url: "https://www.r-kom.de/karriere"
+    fit: 3   # Regensburg
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Ramboll – Nürnberg"
+    url: "https://www.ramboll.com/careers"
+    js: true
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "redlogix Software & System Engineering"
+    url: "https://www.redlogix.de/de/jobs/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "REHAU – Erlangen"
+    url: "https://www.rehau.jobs/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc&locale=de_DE"
+    fit: 3   # Erlangen
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "RIBE Elektrische Armaturen"
+    url: "https://ribe.de/karriere/stellenangebote/"
+    js: true
+    fit: 3   # Schwabach
+
+  - name: "Richter Steuerungstechnik"
+    url: "https://jobs.richter-gmbh.de/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "Riedhammer – Nürnberg"
+    url: "https://www.riedhammer.de/de-DE/stellenangebote"
+    js: true
+    fit: 3   # Nürnberg
+
+  - name: "Rieter Ingolstadt"
+    url: "https://live.solique.ch/rieter/en/internet"
+    fit: 3   # Ingolstadt
+
+  - name: "ROFA Industrial Automation – Bodenwöhr"
+    url: "https://karriere.rofa-group.com/jobboerse/"
+    fit: 3   # Bodenwöhr
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Rohmer + Stimpfig"
+    url: "https://www.rs-technology.de/"
+    fit: 3   # Fürth
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "RR Commissioning"
+    url: "http://www.rr-commissioning.com/"
+    fit: 3   # Unterfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "S-Connect"
+    url: "https://www.s-connectonline.de"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Scheba Elektromaschinenbau"
+    url: "https://www.scheba.de/karriere/aktuelle-stellenangebote/"
+    fit: 3   # Unterfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "schodo"
+    url: "https://schodo.de/jobs"
+    fit: 3   # Unterfranken (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Scholz Vision Systems"
+    url: "https://scholz-systems.com/"
+    js: true
+    fit: 3   # Oberpfalz (city not checked)
+
+  - name: "Schubert & Salzer"
+    url: "https://controlsystems.schubert-salzer.com/karriere/stellenangebote/"
+    fit: 3   # Ingolstadt
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Schuster-Elektronik"
+    url: "https://schuster-elektronik.de/de/career#jobs"
+    fit: 3   # Herzogenaurach
+
+  - name: "secudor"
+    url: "https://www.secudor.de/karriere"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "SenerTec – Schweinfurt"
+    url: "https://www.senertec.de/"
+    fit: 3   # Schweinfurt
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "SHS Elektrotechnik"
+    url: "http://www.shs-elektrotechnik.de"
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Simulation Expert Services"
+    url: "https://www.mutzke-ses.com"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "SKZ Kunststoff-Zentrum – Würzburg"
+    url: "https://karriere.skz.de/de"
+    fit: 3   # Würzburg
+
+  - name: "softgate"
+    url: "https://join.com/companies/softgate"
+    fit: 3   # Erlangen
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "SOMETAC engineering – Zirndorf"
+    url: "https://www.sometac.com/karriere"
+    fit: 3   # Zirndorf
+
+  - name: "Sontheimer Elektro-Schaltgeräte – Schwabach"
+    url: "https://sontheimer.org/Karriere"
+    fit: 3   # Schwabach
+
+  - name: "SPIE Automation – Haßfurt / SPIE Deutschland – Nürnberg"
+    url: "https://spie.de/karriere/stellenangebote"
+    js: true
+    fit: 3   # Haßfurt, Nürnberg
+
+  - name: "SRAM – Schweinfurt"
+    url: "https://www.sram.com/en/company/careers/current-openings"
+    fit: 3   # Schweinfurt
+
+  - name: "Stadtwerke Amberg"
+    url: "https://www.stadtwerke-amberg.de/offene-stellen"
+    fit: 3   # Amberg
+
+  - name: "Stadtwerke Ansbach"
+    url: "https://www.stwan.de/jobs"
+    js: true
+    fit: 3   # Ansbach
+
+  - name: "Stadtwerke Forchheim"
+    url: "https://www.mein-check-in.de/stadtwerke-forchheim/stellenangebote"
+    fit: 3   # Forchheim
+
+  - name: "Stadtwerke Neumarkt"
+    url: "https://swneumarkt.de/ueber-uns/karriere/"
+    fit: 3   # Neumarkt
+
+  - name: "Stadtwerke Schwabach"
+    url: "https://www.stadtwerke-schwabach.de/Ueber-uns/Karriere/Stellenangebote/Stellenangebote.html"
+    fit: 3   # Schwabach
+
+  - name: "Stadtwerke Weiden"
+    url: "https://www.stadtwerke-weiden.de/ueber-uns/karriere/"
+    js: true
+    fit: 3   # Weiden
+
+  - name: "Steba Elektrogeräte – Strullendorf"
+    url: "https://steba.com/jobs/"
+    fit: 3   # Strullendorf
+
+  - name: "Sumitomo (SHI) Demag Plastics Machinery"
+    url: "https://www.sumitomo-shi-demag.eu/company/careers/vacancies"
+    fit: 3   # Schwaig
+
+  - name: "SUNTEC Energiesysteme"
+    url: "https://suntec.jobs.personio.com"
+    fit: 3   # Würzburg
+
+  - name: "SUSE"
+    url: "https://suse.wd3.myworkdayjobs.com/Jobsatsuse?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+    js: true
+    fit: 3   # Nürnberg
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "SUSO GmbH"
+    url: "http://www.susogmbh.de/"
+    js: true
+    fit: 3   # Oberpfalz (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "SYKATEC"
+    url: "https://www.sykatec.de/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Synoelec Deutschland"
+    url: "https://en.sinofuse.com/synoelec-page.html"
+    fit: 3   # Regensburg
+
+  - name: "Südwerk"
+    url: "https://www.s-werk.com/karriere/"
+    fit: 3   # Nürnberg region (city not checked)
+
+  - name: "TAF Industriesysteme – Rottendorf"
+    url: "https://www.taf-industriesysteme.de/karriere/"
+    fit: 3   # Rottendorf
+
+  - name: "TAUBER-SOLAR"
+    url: "https://tauber-solar.jobs.personio.de/"
+    fit: 3   # Würzburg
+
+  - name: "Technomix – Pommersfelden"
+    url: "https://technomix.eu/karriere/job-portal"
+    fit: 3   # Pommersfelden
+
+  - name: "Thomann"
+    url: "https://jobs.thomann.de/karriere"
+    fit: 3   # Bamberg
+
+  - name: "toolcraft"
+    url: "https://www.toolcraft.de/karriere/offene-stellen/"
+    fit: 3   # Georgensgmünd
+
+  - name: "Trips GmbH / ingeniou.s – Grafenrheinfeld"
+    url: "https://www.trips-group.com/de/jobangebote/"
+    fit: 3   # Grafenrheinfeld
+
+  - name: "UBH Software & Engineering"
+    url: "https://www.ubh.de/Career/index.php"
+    fit: 3   # Oberpfalz (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "UG Systems"
+    url: "https://www.ug-systems.com/unternehmen.html#stellenangebote"
+    js: true
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "Unimatic Automatisierungssysteme"
+    url: "https://www.unimatic-co.de/karriere/"
+    fit: 3   # Oberfranken (city not checked)
+
+  - name: "Universität Bamberg – Computer Science"
+    url: "https://www.uni-bamberg.de/abt-personal/stellenausschreibung/wissenschaftliches-personal/"
+    fit: 3   # Bamberg
+
+  - name: "Universität Regensburg – Physics"
+    url: "https://www.uni-regensburg.de/universitaet/jobs-und-karriere/stellenangebote/shk-stellen"
+    js: true
+    fit: 3   # Regensburg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "veoTEC"
+    url: "https://www.veotec.de/career/"
+    js: true
+    fit: 3   # Mittelfranken (city not checked)
+
+  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
+  - name: "Vioxon"
+    url: "https://vioxon.de/"
+    fit: 3   # Mittelfranken (city not checked)
+
+  - name: "Vision4Quality"
+    url: "https://www.vision4quality.de/en_GB/jobs"
+    fit: 3   # Unterfranken (city not checked)
+
+  - name: "Waldrich Coburg"
+    url: "https://www.waldrich-coburg.de/karriere/"
+    fit: 3   # Coburg
+
+  - name: "Webasto – Schierling"
+    url: "https://jobs.webasto.com/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+    js: true
+    fit: 3   # Schierling
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "Weidmüller GTI Software"
+    url: "https://gti.de/sonstiges/karriere-jobs/"
+    js: true
+    fit: 3   # Unterfranken (city not checked)
+
+  - name: "Weigel Messgeräte"
+    url: "https://www.weigel-messgeraete.de/unternehmen/stellenangebote/"
+    fit: 3   # Nürnberg
+
+  - name: "Weiler Werkzeugmaschinen"
+    url: "https://www.weiler.de/stellen-2-3/"
+    fit: 3   # Emskirchen
+
+  - name: "Weinert Fiber Optics – Roth"
+    url: "https://weinert.aventini.io/career/jobs"
+    js: true
+    fit: 3   # Roth
+
+  - name: "Wiritec"
+    url: "https://www.wiritec.com/karriere/"
+    js: true
+    fit: 3   # Nürnberg region (city not checked)
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Wittmann Robot Systeme"
+    url: "https://www.wittmann-group.com/en/career-wittmann-group"
+    fit: 3   # Nürnberg
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "ZARIAN Bewegungs-Systeme"
+    url: "https://zarian.de/unternehmen/"
+    js: true
+    fit: 3   # Oberfranken (city not checked)
+
+  # NOTE: page currently shows no job links - watched in text mode
+  - name: "Zeitgeist Engineering"
+    url: "https://zeitgeist-engineering.de/unternehmen/jobs/"
+    fit: 3   # Nürnberg region (city not checked)
+
+  # CHECK: could not open in browser during test (site down or blocking) - js set to true to be safe
+  - name: "ZERO Emission Engineering"
+    url: "https://www.zero-emission-engineering.de"
+    js: true
+    fit: 3   # Regensburg
+
+  - name: "ÜZ Mainfranken (regional grid operator)"
+    url: "https://www.uez.de/karriere-1/stellenangebote"
+    fit: 3   # Schweinfurt
+
+  # ===== Fit 2/10 =====
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "DIS AG"
+    url: "https://jobs.de.dis-ag.com/"
+    fit: 2   # Erlangen
+
+  - name: "DTB Deutsche Technikberatung"
+    url: "https://deutsche-technikberatung.my.site.com/dtbjobs/s/startseite"
+    js: true
+    fit: 2   # Nürnberg
+
+  - name: "Hays – Nürnberg"
+    url: "https://www.hays.de/jobsuche/stellenangebote-jobs?joblevel=Nuernberg&mrew=1"
+    fit: 2   # Nürnberg
+
+  - name: "HEADFOUND"
+    url: "https://headfound.hforce.ai/jobs"
+    fit: 2   # Nürnberg
+
+  - name: "iSK Personaldienstleistungen"
+    url: "https://isk-personal.de/aktuelle-jobs/"
+    fit: 2   # Erlangen
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "TEMPTON Technische Services"
+    url: "https://www.tempton.de/jobs"
+    js: true
+    fit: 2   # Nürnberg
+
+  # NOTE: big unfiltered list - consider a filtered URL (location/keyword) so new jobs are not on page 2+
+  - name: "Trenkwalder Deutschland"
+    url: "https://de.trenkwalder.com/jobs"
+    js: true
+    fit: 2   # Erlangen
+
+# ===== DISABLED (checked 2026-10-14) - fix the URL and remove the '#' to re-enable =====
+
+  # 404 page not found
+  # - name: "MBDA Deutschland"
+  #   url: "https://www.mbda-deutschland.de/karriere/"
+
+  # parked/empty domain, no careers page
+  # - name: "Reysion Technologies – Regensburg"
+  #   url: "https://reysion.com"
+
+  # 404 page not found
+  # - name: "CAN in Automation (CiA)"
+  #   url: "https://www.can-cia.org/about-us/jobs"
+
+  # !! DO NOT OPEN - HIJACKED - redirects to crypto-casino site
+  # - name: "FG-ELEKTRONIK – Smart Power"
+  #   url: "https://www.fg-elektronik.de/"
+
+  # placeholder page, no website
+  # - name: "GCD-PCB-Design"
+  #   url: "http://www.pcb-design.de"
+
+  # redirects to a business-directory page (geo.io), no careers page
+  # - name: "RFD electronic"
+  #   url: "http://www.rfd-electronic.de"
+
+  # redirects to neungrad.org (403)
+  # - name: "ATM Anlagentechnik und Maschinenbau"
+  #   url: "http://www.atm-technik.de"
+
+  # empty page
+  # - name: "raessler automation & consulting"
+  #   url: "http://www.raessler.de/"
+
+  # !! DO NOT OPEN - HIJACKED - redirects to clickbait/scam news site
+  # - name: "Rossmann Automation"
+  #   url: "https://rossmann-automation.de/"
+
+  # !! DO NOT OPEN - HIJACKED - domain is now an online-casino page
+  # - name: "SAS-Softec"
+  #   url: "http://www.sas-softec.com"
+
+  # 404 page not found
+  # - name: "Stadtwerke Roth"
+  #   url: "https://www.stadtwerke-roth.de/Stellenangebote"
+
+  # 404 page not found
+  # - name: "swift Anlagentechnik & Service"
+  #   url: "http://www.swift-gmbh.com/index.html"
+
+  # redirects to a business-directory page (geo.io), no careers page
+  # - name: "TP Automation"
+  #   url: "http://www.tpautomation.de"
+
+  # 404 page not found
+  # - name: "Xavo AG"
+  #   url: "https://xavo.com/de/stellenangebote"
+
+# ===== NOT FOUND in your list (no careers URL) =====
+#   Evocortex - Fit 5/10; Nürnberg; list v1; Company insolvent: provisional insolvency ordered 1 Aug 2024 (Nuremberg court). e
+#   Schmitt GmbH – Forchheim - Fit 5/10; Forchheim; list v2; UNRESOLVED: name too generic, no matching company site found (only job boards).
+#   Stealth Interaction – Regensburg - Fit 5/10; Regensburg; list v2; UNRESOLVED: no website found (stealth-interaction .com/.de fetch blocked/unveri
+#   Alpha-Engineering KG - Fit 4/10; Röthenbach; list v1; STAFFING/ENGINEERING-SERVICE AGENCY; UNRESOLVED: Röthenbach a.d.P. firm not fou
+#   DP Power Systems - Fit 4/10; Regensburg; list v1+v2; UNRESOLVED: no company found in Regensburg by search. Needs manual lookup.
+#   e.telligent GmbH - Fit 4/10; Ingolstadt; list v1; STAFFING/ENGINEERING-SERVICE AGENCY; UNRESOLVED: real homepage not found (e-tel
+#   EMVT GmbH - Fit 4/10; Zirndorf; list v1+v2; UNRESOLVED: Zirndorf firm not found (search gave only EMC test labs). Needs ma
+#   Geyer AG - Fit 4/10; Nürnberg; list v1+v2; UNRESOLVED: no Nürnberg site found. geyer.de = Dutch firm; geyer-electronic.de
+#   Ralph Schmidt Prüf- und Automatisierungstechnik - Fit 4/10; Mittelfranken (city not checked); list v1; Still unresolved: searches found no website for this firm
+#   WaveEye UG - Fit 4/10; Regensburg; list v1+v2; UNRESOLVED: no Regensburg WaveEye UG site found; Waveye (cbinsights, US rada
+#   Albert & Hummel - Fit 3/10; Unterfranken (city not checked); list v1+v2; UNRESOLVED: no company found with this name in Unterfra
+#   alpha ic - Fit 3/10; Nürnberg region (city not checked); list v1+v2; UNRESOLVED: no company site found (search gave only 
+#   Amann Automatisierungstechnik - Fit 3/10; Mittelfranken (city not checked); list v1; UNRESOLVED: no company found (search gave only recruiter/
+#   APE Engineering - Fit 3/10; Unterfranken (city not checked); list v1; UNRESOLVED: no company found for Unterfranken (search gave
+#   Astute Logic - Fit 3/10; Nürnberg; list v1; UNRESOLVED: no website found (astute-logic.de blocked by robots, unverified). Sea
+#   cdr-engineering - Fit 3/10; Oberfranken (city not checked); list v1; UNRESOLVED: company not found by search (Oberfranken). Need
+#   edison street – Roth - Fit 3/10; Roth; list v2; UNRESOLVED: company not found by search (only unrelated Roth firms). Needs manual loo
+#   GTI-process - Fit 3/10; Unterfranken (city not checked); list v1; UNRESOLVED: GTI-process AG, Marktheidenfeld (automation-va
+#   H+H Engineering & Service – Sonnefeld - Fit 3/10; Sonnefeld; list v2; UNRESOLVED: website not found (searches only return StepStone). Guessed hh-engin
+#   Intechnica - Fit 3/10; Nürnberg region (city not checked); list v1; UNRESOLVED: no website found (searches return only Step
+#   Software-Hardware-Technik - Fit 3/10; Mittelfranken (city not checked); list v1; UNRESOLVED: no website found; searches return only StepSt
+#   Stellwag & Partner - Fit 3/10; Mittelfranken (city not checked); list v1; UNRESOLVED: no website found; searches gave unrelated hit
+#   Piening GmbH - Fit 2/10; Erlangen; list v1; STAFFING/ENGINEERING-SERVICE AGENCY; Still unresolved: no own website found (pien

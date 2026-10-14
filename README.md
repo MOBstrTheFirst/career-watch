@@ -33,7 +33,7 @@ Only your chat ID gets answers; messages from anyone else are ignored.
 3. Repo → **Settings → Actions → General → Workflow permissions** → choose **Read and write permissions** → Save.
 4. Repo → **Actions** tab → enable workflows if asked → open **career-watch** → **Run workflow**. You should get the "Started watching…" message.
 
-**Why public:** private repos get 2,000 free Action minutes/month. 4 runs/hour = ~2,900 runs/month, so a private repo runs out. Public repos have no minute limit on standard runners. Your secrets stay hidden; only the list of pages (`sites.yaml`, `state.json`) is visible.
+**Why public:** private repos get 2,000 free Action minutes/month. 4 runs/hour = ~2,900 runs/month, so a private repo runs out. Public repos have no minute limit on standard runners. Your secrets stay hidden; only the list of pages (`sites.yaml`, `state/`) is visible.
 
 ## 3. Add your pages
 Edit `sites.yaml`. The example URLs there are placeholders — check each one in your browser.
@@ -57,6 +57,8 @@ $env:TELEGRAM_BOT_TOKEN="..."; $env:TELEGRAM_CHAT_ID="..."; py watcher.py --test
 
 ## Limits to know
 - GitHub's scheduler is not exact: runs are often 5–20 min late, and sometimes skipped under load.
-- Each page in the browser takes ~5–15 s. With `concurrency: 4`, about **100–150 pages** fit in one 14-min run. Don't add all 500 employers — pick your top ones.
+- **The list is split into 4 parts** that run at the same time on 4 separate GitHub machines (`.github/workflows/watch.yml`). Each part checks ~140 pages in ~3–5 min and has its own 14-min limit. A page always stays in the same part.
+- Safety nets: one page can take at most 150 s; after 10 min a part starts no new pages (the rest are checked next run), so a part never hits the 14-min limit. If a part still crashes, you get a CRASH message and the daily summary names the part.
+- More parts: change `PARTS: 4` **and** the `part: [1, 2, 3, 4]` list in `watch.yml` together. Old state is reused, nothing is re-alerted.
 - Some sites block cloud servers (bot protection). These show up as WARNING messages; check them by hand.
 - GitHub may pause scheduled workflows in repos with no activity for 60 days. The bot's own state commits should count as activity; if you ever get no messages for days, check the Actions tab.

@@ -5,7 +5,7 @@ Career page watcher -> Telegram alerts.
 For every page in sites.yaml it:
   1. downloads the page (plain HTTP, or a headless browser for JavaScript pages),
   2. extracts job-like links (and the visible text as a backup),
-  3. compares with the last run (state.json),
+  3. compares with the last run (state/ folder),
   4. sends a Telegram message with the page link + new postings.
 
 Usage:
@@ -13,6 +13,11 @@ Usage:
   python watcher.py --check          # test all sites: print what is found, save nothing, send nothing
   python watcher.py --check Siemens  # test only sites whose name contains "Siemens"
   python watcher.py --test-telegram  # send a test message
+
+Split mode (used by GitHub Actions, see .github/workflows/watch.yml):
+  python watcher.py --shard 2/4      # check only part 2 of 4 of the list -> state/shard_2.json
+  python watcher.py --report 4       # merge the 4 parts, answer Telegram commands, daily summary
+Each page always lands in the same part (chosen from a hash of its URL).
 """
 import argparse
 import asyncio
@@ -33,7 +38,11 @@ from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 SITES_FILE = ROOT / "sites.yaml"
-STATE_FILE = ROOT / "state.json"
+STATE_FILE = ROOT / "state.json"          # old single-file state (read once for migration)
+STATE_DIR = ROOT / "state"
+META_FILE = STATE_DIR / "meta.json"
+SITE_TIMEOUT = 150          # seconds: one page may never take longer than this
+DEFAULT_BUDGET = 11 * 60    # seconds: stop starting new pages after this (job limit is 14 min)
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36")
@@ -87,19 +96,34 @@ def load_yaml(path):
         return yaml.safe_load(f) or {}
 
 
-def load_state():
-    if STATE_FILE.exists():
+def read_json(path, default):
+    if path.exists():
         try:
-            return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+            return json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
-            print("WARNING: state.json is broken, starting fresh", file=sys.stderr)
-    return {}
+            print(f"WARNING: {path.name} is broken, starting fresh", file=sys.stderr)
+    return default
 
 
-def save_state(state):
-    tmp = STATE_FILE.with_suffix(".tmp")
-    tmp.write_text(json.dumps(state, indent=1, ensure_ascii=False, sort_keys=True), encoding="utf-8")
-    tmp.replace(STATE_FILE)
+def write_json(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(data, indent=1, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+    tmp.replace(path)
+
+
+def shard_of(url, n):
+    """Stable part number 1..n for a page (same URL -> same part, every run)."""
+    return int(hashlib.md5(url.encode("utf-8")).hexdigest(), 16) % n + 1
+
+
+def shard_file(k):
+    return STATE_DIR / f"shard_{k}.json"
+
+
+def legacy_state():
+    """state.json from the old one-job version (used once, so nothing is re-baselined)."""
+    return read_json(STATE_FILE, {})
 
 
 # ----------------------------------------------------------------------------- parsing
@@ -205,7 +229,14 @@ class BrowserPool:
 
 
 async def scan_site(site, defaults, client, pool, prev):
-    """Returns dict with links, lines, used_js, or error."""
+    """Returns dict with links, lines, used_js, or error. Never takes longer than SITE_TIMEOUT."""
+    try:
+        return await asyncio.wait_for(_scan_site(site, defaults, client, pool, prev), SITE_TIMEOUT)
+    except asyncio.TimeoutError:
+        return {"error": f"page took longer than {SITE_TIMEOUT}s - skipped this run"}
+
+
+async def _scan_site(site, defaults, client, pool, prev):
     url = site["url"]
     js = str(site.get("js", defaults.get("js", "auto"))).lower()
     link_re = re.compile(site["link_pattern"], re.I) if site.get("link_pattern") else JOB_URL_RE
@@ -258,12 +289,30 @@ async def telegram_send(client, text):
         cur += part + "\n"
     chunks.append(cur)
     for c in chunks:
-        r = await client.post(f"{TG_API}/bot{token}/sendMessage",
-                              data={"chat_id": chat, "text": c, "parse_mode": "HTML",
-                                    "disable_web_page_preview": "true"}, timeout=30)
+        for attempt in range(5):           # 4 parts may send at the same time -> respect Telegram's rate limit
+            try:
+                r = await client.post(f"{TG_API}/bot{token}/sendMessage",
+                                      data={"chat_id": chat, "text": c, "parse_mode": "HTML",
+                                            "disable_web_page_preview": "true"}, timeout=30)
+            except httpx.HTTPError as e:
+                print(f"Telegram network error: {e}", file=sys.stderr)
+                await asyncio.sleep(3)
+                continue
+            if r.status_code == 429:
+                try:
+                    wait = int(r.json().get("parameters", {}).get("retry_after", 5))
+                except Exception:
+                    wait = 5
+                await asyncio.sleep(min(wait, 60) + 1)
+                continue
+            break
+        else:
+            print("Telegram: gave up after 5 tries", file=sys.stderr)
+            return False
         if r.status_code != 200:
             print(f"Telegram error {r.status_code}: {r.text}", file=sys.stderr)
             return False
+        await asyncio.sleep(1.1)           # max ~1 message per second per chat
     return True
 
 
@@ -392,8 +441,14 @@ def build_report(cfg, state, sites, title):
         lines += ["", f"Possible postings / page changes: {len(other)}"]
         lines += [f"• {esc(e['site'])}: <a href=\"{esc(e['url'])}\">{esc(e['title'][:100])}</a>" for e in other[:15]]
     lines += ["", f"Sites OK: {ok} of {len(sites)}" + (f" ({waiting} not checked yet)" if waiting else "")]
+    if meta.get("last_missing_parts"):
+        lines += [f"<b>Last run: part(s) {meta['last_missing_parts']} crashed or timed out</b> - their pages were not checked."]
+    if meta.get("last_skipped"):
+        lines += [f"Last run: {meta['last_skipped']} page(s) skipped (out of time) - they are checked next run."]
     if failing:
-        lines += ["<b>Sites with problems (jobs there may be missed):</b>"] + failing[:25]
+        lines += [f"<b>Sites with problems: {len(failing)} (jobs there may be missed):</b>"] + failing[:25]
+        if len(failing) > 25:
+            lines.append(f"…and {len(failing) - 25} more (send /list for all)")
     return "\n".join(lines)
 
 
@@ -487,122 +542,201 @@ async def handle_commands(client, cfg, state, sites):
 
 
 # ----------------------------------------------------------------------------- main
-async def run(args):
-    cfg = load_yaml(SITES_FILE)
-    defaults = cfg.get("defaults", {}) or {}
+def load_sites(cfg):
     sites = [s for s in cfg.get("sites", []) if s.get("url")]
     for s in sites:
         s.setdefault("name", urlparse(s["url"]).netloc)
-    if args.check is not None and args.check != "*":
+    return sites
+
+
+async def scan_part(args, cfg, client, k, n):
+    """Checks part k of n of the list. Returns (site states of this part, run info)."""
+    defaults = cfg.get("defaults", {}) or {}
+    all_sites = load_sites(cfg)
+    sites = [s for s in all_sites if shard_of(s["url"], n) == k]
+    old = read_json(shard_file(k), {})
+    if old.get("n") == n:
+        state = old.get("sites", {})
+    else:                                   # first run, or number of parts changed: reuse any known state
+        state = {}
+        sources = [legacy_state()] + [read_json(p, {}).get("sites", {}) for p in STATE_DIR.glob("shard_*.json")]
+        for src in sources:
+            for s in sites:
+                if s["url"] in src and s["url"] not in state:
+                    state[s["url"]] = src[s["url"]]
+
+    sem = asyncio.Semaphore(int(cfg.get("concurrency", 4)))
+    pool = BrowserPool()
+    deadline = asyncio.get_event_loop().time() + args.budget
+    messages, baselines, events, skipped = [], [], [], []
+
+    async def one(site):
+        async with sem:
+            if asyncio.get_event_loop().time() > deadline:     # out of time: keep old state, try next run
+                return site, None, None
+            prev = state.get(site["url"], {})
+            cur = await scan_site(site, defaults, client, pool, prev)
+            return site, prev, cur
+
+    results = await asyncio.gather(*(one(s) for s in sites))
+    await pool.close()
+
+    for site, prev, cur in results:
+        name, url = site["name"], site["url"]
+        if cur is None:
+            skipped.append(name)
+            continue
+        mode = str(site.get("mode", defaults.get("mode", "auto"))).lower()
+
+        if "error" in cur:
+            st = state.setdefault(url, {"name": name})
+            st["fails"] = st.get("fails", 0) + 1
+            st["last_error"] = cur["error"]
+            print(f"[fail {st['fails']}] {name}: {cur['error']}")
+            if st["fails"] == FAIL_ALERT_AFTER:
+                messages.append(f"WARNING: cannot read <b>{esc(name)}</b> for {FAIL_ALERT_AFTER} runs.\n"
+                                f"<a href=\"{esc(url)}\">Open page</a>\nError: {esc(cur['error'])}\n"
+                                "New jobs on this page will be MISSED until fixed.")
+            continue
+
+        # A page that used to have job links but now has none is suspicious (broken load) -> count as fail.
+        if prev.get("mode") == "links" and mode == "auto" and not cur["links"] and len(prev.get("links", {})) >= 3:
+            st = state[url]
+            st["fails"] = st.get("fails", 0) + 1
+            st["last_error"] = "no job links found this time (page may not have loaded)"
+            print(f"[suspicious {st['fails']}] {name}: 0 links now")
+            if st["fails"] == FAIL_ALERT_AFTER:
+                messages.append(f"WARNING: <b>{esc(name)}</b> shows 0 job links for {FAIL_ALERT_AFTER} runs "
+                                f"(was {len(prev['links'])}).\n<a href=\"{esc(url)}\">Open page</a>")
+            continue
+
+        if prev.get("fails", 0) >= FAIL_ALERT_AFTER:
+            messages.append(f"OK again: <b>{esc(name)}</b> can be read again.")
+
+        msg, new_st, ev = compare(site, prev, cur, mode)
+        state[url] = new_st
+        events.extend(ev)
+        if "line_hashes" not in prev:
+            baselines.append(f"• {esc(name)}: {new_st['mode']} mode, {len(cur['links'])} links, "
+                             f"{'browser' if cur['used_js'] else 'http'}")
+        if msg:
+            messages.append(msg)
+        print(f"[ok] {name}: {new_st['mode']}, {len(cur['links'])} links" + (" -> ALERT" if msg else ""))
+
+    # forget pages that were removed from sites.yaml (or moved to another part)
+    wanted = {s["url"] for s in sites}
+    state = {u: v for u, v in state.items() if u in wanted}
+
+    if baselines:
+        messages.insert(0, f"Started watching {len(baselines)} new page(s) (part {k}/{n}, no alerts on the first run):\n"
+                        + "\n".join(baselines))
+    if skipped:
+        print(f"Time budget used up: {len(skipped)} page(s) skipped this run, they are checked next run.")
+    sent_ok = await send_all(args, client, messages)
+    stamp = now_iso()
+    run_info = {"run_id": os.getenv("GITHUB_RUN_ID", "local"), "at": stamp, "pages": len(sites),
+                "alerts": len(messages), "skipped": skipped[:50], "skipped_count": len(skipped),
+                "events": [dict(e, at=stamp) for e in events]}
+    write_json(shard_file(k), {"n": n, "k": k, "sites": state, "run": run_info})
+    return sent_ok
+
+
+async def report(args, cfg, client, n):
+    """Merges all parts: counters, Telegram commands, daily summary. Writes state/meta.json."""
+    all_sites = load_sites(cfg)
+    meta = read_json(META_FILE, None)
+    if meta is None:
+        meta = legacy_state().get(META_KEY, {})
+    run_id = os.getenv("GITHUB_RUN_ID", "local")
+    merged, missing, skipped = {}, [], 0
+    for k in range(1, n + 1):
+        part = read_json(shard_file(k), {})
+        merged.update(part.get("sites", {}))
+        info = part.get("run", {})
+        if info.get("run_id") != run_id:        # this part crashed / timed out in this run
+            missing.append(k)
+            continue
+        meta["alerts"] = meta.get("alerts", 0) + info.get("alerts", 0)
+        meta["events"] = (meta.get("events", []) + info.get("events", []))[-500:]
+        skipped += info.get("skipped_count", 0)
+    meta["runs"] = meta.get("runs", 0) + 1
+    meta["last_run"] = now_iso()
+    meta["last_missing_parts"] = missing
+    meta["last_skipped"] = skipped
+    merged[META_KEY] = meta
+
+    messages = []
+    if not args.no_notify:
+        messages.extend(await handle_commands(client, cfg, merged, all_sites))
+    summary = daily_summary(cfg, merged, all_sites)
+    if summary:
+        messages.append(summary)
+    write_json(META_FILE, merged[META_KEY])
+    for p in STATE_DIR.glob("shard_*.json"):    # parts that no longer exist (number of parts was lowered)
+        if int(p.stem.split("_")[1]) > n:
+            p.unlink()
+    return await send_all(args, client, messages)
+
+
+async def send_all(args, client, messages):
+    ok = True
+    for m in messages:
+        if args.no_notify:
+            print("\n[no-notify]\n" + m)
+        else:
+            ok = await telegram_send(client, m) and ok
+    return ok
+
+
+async def check_mode(args, cfg, client):
+    defaults = cfg.get("defaults", {}) or {}
+    sites = load_sites(cfg)
+    if args.check != "*":
         sites = [s for s in sites if args.check.lower() in s["name"].lower()]
     if not sites:
         sys.exit("No sites found in sites.yaml (or no name matched).")
-
-    state = load_state()
     sem = asyncio.Semaphore(int(cfg.get("concurrency", 4)))
     pool = BrowserPool()
-    messages, baselines, events = [], [], []
 
+    async def one(site):
+        async with sem:
+            return site, await scan_site(site, defaults, client, pool, {})
+    results = await asyncio.gather(*(one(s) for s in sites))
+    await pool.close()
+    for site, cur in results:
+        name = site["name"]
+        if "error" in cur:
+            print(f"\n=== {name}: ERROR - {cur['error']}")
+            continue
+        print(f"\n=== {name}  [{'browser' if cur['used_js'] else 'http'}] "
+              f"{len(cur['links'])} job links, {len(cur['lines'])} text lines")
+        for u, t in list(cur["links"].items())[:args.show]:
+            print(f"  - {t[:70]!r:72} {u}")
+        if not cur["links"]:
+            print("  (no job links -> this site will be watched by TEXT changes)")
+
+
+async def run(args):
+    cfg = load_yaml(SITES_FILE)
     async with httpx.AsyncClient(http2=False) as client:
         if args.test_telegram:
             ok = await telegram_send(client, "Career watcher: test message OK.")
             print("Telegram test:", "sent" if ok else "FAILED")
             return
-
-        async def one(site):
-            async with sem:
-                prev = {} if args.check is not None else state.get(site["url"], {})
-                cur = await scan_site(site, defaults, client, pool, prev)
-                return site, prev, cur
-
-        results = await asyncio.gather(*(one(s) for s in sites))
-        await pool.close()
-
-        for site, prev, cur in results:
-            name, url = site["name"], site["url"]
-            mode = str(site.get("mode", defaults.get("mode", "auto"))).lower()
-
-            if args.check is not None:
-                if "error" in cur:
-                    print(f"\n=== {name}: ERROR - {cur['error']}")
-                    continue
-                print(f"\n=== {name}  [{'browser' if cur['used_js'] else 'http'}] "
-                      f"{len(cur['links'])} job links, {len(cur['lines'])} text lines")
-                for u, t in list(cur["links"].items())[:args.show]:
-                    print(f"  - {t[:70]!r:72} {u}")
-                if not cur["links"]:
-                    print("  (no job links -> this site will be watched by TEXT changes)")
-                continue
-
-            if "error" in cur:
-                st = state.setdefault(url, {"name": name})
-                st["fails"] = st.get("fails", 0) + 1
-                st["last_error"] = cur["error"]
-                print(f"[fail {st['fails']}] {name}: {cur['error']}")
-                if st["fails"] == FAIL_ALERT_AFTER:
-                    messages.append(f"WARNING: cannot read <b>{esc(name)}</b> for {FAIL_ALERT_AFTER} runs.\n"
-                                    f"<a href=\"{esc(url)}\">Open page</a>\nError: {esc(cur['error'])}\n"
-                                    "New jobs on this page will be MISSED until fixed.")
-                continue
-
-            # A page that used to have job links but now has none is suspicious (broken load) -> count as fail.
-            if prev.get("mode") == "links" and mode == "auto" and not cur["links"] and len(prev.get("links", {})) >= 3:
-                st = state[url]
-                st["fails"] = st.get("fails", 0) + 1
-                st["last_error"] = "no job links found this time (page may not have loaded)"
-                print(f"[suspicious {st['fails']}] {name}: 0 links now")
-                if st["fails"] == FAIL_ALERT_AFTER:
-                    messages.append(f"WARNING: <b>{esc(name)}</b> shows 0 job links for {FAIL_ALERT_AFTER} runs "
-                                    f"(was {len(prev['links'])}).\n<a href=\"{esc(url)}\">Open page</a>")
-                continue
-
-            if prev.get("fails", 0) >= FAIL_ALERT_AFTER:
-                messages.append(f"OK again: <b>{esc(name)}</b> can be read again.")
-
-            msg, new_st, ev = compare(site, prev, cur, mode)
-            state[url] = new_st
-            events.extend(ev)
-            if "line_hashes" not in prev:
-                baselines.append(f"• {esc(name)}: {new_st['mode']} mode, {len(cur['links'])} links, "
-                                 f"{'browser' if cur['used_js'] else 'http'}")
-            if msg:
-                messages.append(msg)
-            print(f"[ok] {name}: {new_st['mode']}, {len(cur['links'])} links" + (" -> ALERT" if msg else ""))
-
         if args.check is not None:
-            return
-
-        # forget sites removed from sites.yaml
-        wanted = {s["url"] for s in cfg.get("sites", []) if s.get("url")}
-        for u in list(state):
-            if u not in wanted and u != META_KEY:
-                del state[u]
-
-        # counters for the daily summary / status
-        meta = state.setdefault(META_KEY, {})
-        meta["runs"] = meta.get("runs", 0) + 1
-        meta["alerts"] = meta.get("alerts", 0) + len(messages)
-        stamp = now_iso()
-        meta["events"] = (meta.get("events", []) + [dict(e, at=stamp) for e in events])[-500:]
-        meta["last_run"] = stamp
-
-        if not args.no_notify:
-            messages.extend(await handle_commands(client, cfg, state, sites))
-        summary = daily_summary(cfg, state, sites)
-        if summary:
-            messages.append(summary)
-        save_state(state)
-
-        if baselines:
-            messages.insert(0, f"Started watching {len(baselines)} new page(s) (no alerts on the first run):\n"
-                            + "\n".join(baselines))
-        sent_ok = True
-        for m in messages:
-            if not args.no_notify:
-                sent_ok = await telegram_send(client, m) and sent_ok
-            else:
-                print("\n[no-notify]\n" + m)
-        if not sent_ok:
+            return await check_mode(args, cfg, client)
+        ok = True
+        if args.shard:
+            k, n = (int(x) for x in args.shard.split("/"))
+            if not 1 <= k <= n:
+                sys.exit("--shard must look like 2/4")
+            ok = await scan_part(args, cfg, client, k, n)
+        elif args.report:
+            ok = await report(args, cfg, client, args.report)
+        else:                                   # simple local run: whole list in one go
+            ok = await scan_part(args, cfg, client, 1, 1)
+            ok = await report(args, cfg, client, 1) and ok
+        if not ok:
             sys.exit("Some Telegram messages could not be sent (check token / chat ID).")
 
 
@@ -613,6 +747,10 @@ def main():
     ap.add_argument("--show", type=int, default=10, help="links to print per site in --check mode")
     ap.add_argument("--test-telegram", action="store_true", help="send a test Telegram message")
     ap.add_argument("--no-notify", action="store_true", help="print alerts instead of sending them")
+    ap.add_argument("--shard", help="check only one part of the list, e.g. 2/4")
+    ap.add_argument("--report", type=int, metavar="N", help="merge N parts, answer commands, daily summary")
+    ap.add_argument("--budget", type=int, default=DEFAULT_BUDGET,
+                    help="seconds after which no new pages are started (rest is checked next run)")
     asyncio.run(run(ap.parse_args()))
 
 
