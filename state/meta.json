@@ -1,679 +1,7 @@
 {
- "alerts": 320,
+ "alerts": 337,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T23:39:29+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "18 new text line(s), e.g. Parkschiene Hoch / Hoch (Set) XXXXmm (Kundenlänge), Aluminium, blank,",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Partner Leader, Solutions Engineer, Splunk",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Security Consulting Engineer(Remote)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=tGnR%2FekEbPp7dEfzNqs8QWomgrVz%2FcJt6gOHQq3MXD0%3D"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aa6aca2f2d5594",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792021107340"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019089"
-  },
-  {
-   "at": "2026-10-14T23:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019089"
-  },
-  {
-   "at": "2026-10-14T23:39:22+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Substrate Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Taiwan-Hsinchu-Puding-Road/Substrate-Engineer_R027366?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:39:22+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Marketing Operations Manager",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Remote-Location/Marketing-Operations-Manager_R026976?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:39:22+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=2z1U2HU%2FgjmafNqu%2B9dSPX6VeC9vCepVym37yXE85cs%3D"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Technical Trainer – Electrical Power Engineering MEA (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Application Engineer for Primary Application MEA (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To actively support Primary Applications in the Middle East, Africa, and Turkey (MEA) sales region, we are looking for a highly competent and dynamic ",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Training & Application Engineer Protection / Digital Protection Testing (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To strengthen our team in Stafford, UK, we are looking for a Training & Application Engineer Protection / Digital Protection Testing",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Sales & Application Engineer - US Central East (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Technical Support & Application Engineer UK (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To support our team based in Stafford, UK we are currently looking for a Technical Support & Application Engineer (Electrical Engineering).",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Sales Engineer (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "8 new text line(s), e.g. You've Got A",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028459920"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028459920"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Junior Projektingenieur (m/w/d) Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Junior Projektingenieur (m/w/d) bundesweit",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:55:05+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:54:32+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Algorithm and AI Senior/Staff Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:54:32+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Senior Software Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:54:32+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aa806779d31f5e",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-14T23:54:32+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "19 new text line(s), e.g. Parkschiene flach / hoch (Set) – 1 Set (= 2 Stück)",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Software Engineering Technical Leader (Remote)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Software Engineer Technical Leader – Network Data Plane – Hypershield",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior Staff Engineer, Equipment Engineering (Metal Deposition)",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-Staff-Engineer-Equipment-Engineering-Metal-Deposition-Kulim/24281"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Supply Chain Engineering Change Coordinator - Frederick, MD",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/supply-chain-engineering-change-coordinator-frederick-md_251563-1701376.html"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=b%2FhkogUnyyK6jiQe1%2BdSQUqoUuroEtNzWmWQ5MNXx9g%3D"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aa809828129602",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792022001870"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019090"
-  },
-  {
-   "at": "2026-10-14T23:54:17+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019090"
-  },
-  {
-   "at": "2026-10-14T23:54:22+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Test Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Test-Engineer_R027418-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:54:22+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=2Q%2BZu3K1JNgYKugZi6jVKx%2FqlS7nLxAJVsqUmAuhs8g%3D"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Schaeffler – Herzogenaurach HQ",
-   "title": "Rechtsreferendar*in (m/w/d)",
-   "url": "https://jobs.schaeffler.com/search/?q=&locationsearch=Herzogenaurach&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "CARIAD",
-   "title": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "CARIAD",
-   "title": "Intern/Thesis - Learning-based Radar-Camera Fusion for Simultaneous Localization and Mapping (f/m/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "CARIAD",
-   "title": "Senior Data Engineer - Streaming Analytics (f/m/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "CARIAD",
-   "title": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "CARIAD",
-   "title": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "1 new text line(s), e.g. Your Privacy Choices",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Schaeffler – Schweinfurt",
-   "title": "Rechtsreferendar*in (m/w/d)",
-   "url": "https://jobs.schaeffler.com/search/?q=&locationsearch=Schweinfurt&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460056"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460056"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "HR Manager*in / Personalleitung (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Senior Designer Terminals (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "LKW-Fahrer (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Senior HR Generalist (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Global SME Electronics Reliability and Failure Analysis​ (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Quality Manager (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Intralogistics Automation Engineer - EMEA (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Logistics Coordinator/Analyst (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "Sales Manager (Electronics) m/w/d",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "possible",
-   "site": "Lear – Kronach",
-   "title": "IT Specialist (m/w/d)",
-   "url": "https://jobs.lear.com/go/Germany/4351401/"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Production Test Technician 1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328842-production-test-technician-1st-shift"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Test Operator",
-   "url": "https://jobs.sanmina.com/jobs/18361396-test-operator"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Control Inspector (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361391-quality-control-inspector-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Control Inspector (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361390-quality-control-inspector-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Control Inspector (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361389-quality-control-inspector-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Control Inspector (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361344-quality-control-inspector-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Control Inspector (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361343-quality-control-inspector-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Test Engineering Technician",
-   "url": "https://jobs.sanmina.com/jobs/18361244-test-engineering-technician"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "IT Project Manager Full (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361243-it-project-manager-full-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Test Engineer - Flying Probe and ICT",
-   "url": "https://jobs.sanmina.com/jobs/18346876-test-engineer-flying-probe-and-ict"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Production Supervisor",
-   "url": "https://jobs.sanmina.com/jobs/18361169-production-supervisor"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Order Processing Support 2 (N)",
-   "url": "https://jobs.sanmina.com/jobs/18361128-order-processing-support-2-n"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Industrial Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18328858-industrial-engineer"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "SMT Process Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18361068-smt-process-engineer"
-  },
-  {
-   "at": "2026-10-15T00:09:50+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Surface Mount Technology (SMT) Programmer",
-   "url": "https://jobs.sanmina.com/jobs/18361067-surface-mount-technology-smt-programmer"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Director, Talent Management & Development",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Director%2C-Talent-Management-&-Development-GA/1445222633"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Sr. Project Manager",
-   "url": "https://careers.primetals.com/global/en/job/7644/Sr-Project-Manager"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Apply Now",
-   "url": "https://careers.primetals.com/global/en/apply?jobSeqNo=PTAPTKGLOBAL7644EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Project Manager (m,w,d) im Bereich Anlagen- und Prozessautomatisierung",
-   "url": "https://careers.primetals.com/global/en/job/6504/Project-Manager-m-w-d-im-Bereich-Anlagen-und-Prozessautomatisierung"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Apply Now",
-   "url": "https://careers.primetals.com/global/en/apply?jobSeqNo=PTAPTKGLOBAL6504EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T00:10:06+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Plating III - Sr Level",
-   "url": "https://careers.primetals.com/global/en/job/7798/Plating-III-Sr-Level"
-  },
   {
    "at": "2026-10-15T00:10:06+00:00",
    "kind": "new",
@@ -3501,12 +2829,684 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/9389ff1a-b92e-4b37-dd71-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-15T02:24:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461675"
+  },
+  {
+   "at": "2026-10-15T02:24:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461675"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ab5c731da21663",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "new",
+   "site": "Vodafone – Nürnberg",
+   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Dortmund, Bochum (2027) Bochum, Germany Talent Acquisition, Attraction & Youth Gepostete vor einem ",
+   "url": "https://jobs.vodafone.com/careers/job/563018697998695?domain=vodafone.com"
+  },
+  {
+   "at": "2026-10-15T02:24:42+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Hände desinfizieren Aufkleber – 5 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "AI Security Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineer II (Intern) – United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior ASIC Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "ASIC Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=plc%2F51hvjLT3gt9RM61PkkUUTLxHEf%2FXPDiAe%2BuGB8c%3D"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New New Product Industrialization Engineer - Optical Wilton, CT, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/new-product-industrialization-engineer-optical-j00354021"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Angebots- und Projektmanager EW Systems (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Angebots-und-Projektmanager-EW-Systems-%28wmd%29-89077/1364864055"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter TLB und Informationssicherheit P-8A (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-TLB-und-Informationssicherheit-P-8A-%28mwd%29-82256/1361632455"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Project Lead Police Helicopters (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Project-Lead-Police-Helicopters-%28wmd%29-82256/1361623855"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektmanager Gefechtsstandsysteme (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektmanager-Gefechtsstandsysteme-%28wmd%29-82256/1364903755"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Softwareentwickler C++ (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Softwareentwickler-C%2B%2B-%28wmd%29-73447/1364855455"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Software Entwickler (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Software-Entwickler-%28wmd%29-73447/1364861855"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Projektmanagement Standortleitung Optronics (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Projektmanagement-Standortleitung-Optronics-%28mwd%29-73447/1364861355"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Hochfrequenz-Entwicklungsingenieur (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Hochfrequenz-Entwicklungsingenieur-%28wmd%29-89077/1364863555"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Masterarbeit System, IV & V & Test Engineering (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Masterarbeit-System%2C-IV-&-V-&-Test-Engineering-%28wmd%29-82256/1368610855"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Systemingenieur für Multiplattform Electronic Surveillance (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Systemingenieur-f%C3%BCr-Multiplattform-Electronic-Surveillance-%28mwd%29-89077/1368625755"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur für Airborne Electronic Surveillance (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-f%C3%BCr-Airborne-Electronic-Surveillance-%28wmd%29-89077/1368626955"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Gefechtsstandsysteme (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-Gefechtsstandsysteme-%28wmd%29-82256/1364879055"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Teilprojektleiter Gefechtsstandsysteme (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Teilprojektleiter-Gefechtsstandsysteme-%28wmd%29-82256/1364870955"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "IT-Projektmanager Mission Support Systems P-8A (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-IT-Projektmanager-Mission-Support-Systems-P-8A-%28wmd%29-82256/1361630855"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Manager Forschung & Technologie Vertrieb und Geschäftsentwicklung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Manager-Forschung-&-Technologie-Vertrieb-und-Gesch%C3%A4ftsentwicklung-%28wmd%29-89077/1364868555"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Systemingenieur*in Transportflugzeuge (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Systemingenieurin-Transportflugzeuge-%28wmd%29-82256/1165527555"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Systemingenieur Industriedokumentation (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Systemingenieur-Industriedokumentation-%28wmd%29-82256/1346741955"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Praktikant GeoIT/Bildverarbeitung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Praktikant-GeoITBildverarbeitung-%28wmd%29-82256/1338517555"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur Industriedokumentation (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Systemingenieur-Industriedokumentation-%28wmd%29-82256/1346741755"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Mitarbeiter im Vertriebsinnendienst / Inside Sales (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Pforzheim-Mitarbeiter-im-Vertriebsinnendienst-Inside-Sales-%28mwd%29-75179/1346780055"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Angebots- und Projektmanager EW Systems (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Angebots-und-Projektmanager-EW-Systems-%28wmd%29-89077/1361578255"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Head of IFF Project and Bids (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Head-of-IFF-Project-and-Bids-%28wmd%29-82024/1361597355"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Software Engineering (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Software-Engineering-%28wmd%29-82256/1361625655"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Mitarbeiter im Bereich Lagerlogistik in Teilzeit (w/m/d) am Standort Roth",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Mitarbeiter-im-Bereich-Lagerlogistik-in-Teilzeit-%28wmd%29-am-Standort-Roth-82256/1361622155"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Experte Digitale Fabrik - Fokus Digitalisierung und IT/OT Systeme (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Experte-Digitale-Fabrik-Fokus-Digitalisierung-und-ITOT-Systeme-%28wmd%29-89077/1361575755"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Würz­burg, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/199118/projektingenieur"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Einkäufer (m/w/d) Job Hybrid Vollzeit 40.000 - 60.000 € Schwein­furt, Deutsch­land Fahrzeugtechnik Weitere Young Professionals Professionals ohne Pers",
+   "url": "https://touch.ferchau.com/de/de/job/363127/einkaeufer"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur Vali­die­rung und Quali­fi­zie­rung (m/w/d) Job Vor Ort Vollzeit 40.000 - 85.000 € Mann­heim, Deutsch­land Maschinenbau Pharma und Lifescie",
+   "url": "https://touch.ferchau.com/de/de/job/369739/ingenieur-validierung-und-qualifizierung"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur TGA (m/w/d) Job Vor Ort Vollzeit 42.000 - 80.000 € Mann­heim, Deutsch­land Anlagenbau Pharma und Lifescience Weitere Professionals Senior P",
+   "url": "https://touch.ferchau.com/de/de/job/393508/ingenieur-tga"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur (m/w/d) Medi­zin­technik Job Vor Ort Vollzeit 45.000 - 80.000 € Mann­heim, Deutsch­land Elektrotechnik Pharma und Lifescienc",
+   "url": "https://touch.ferchau.com/de/de/job/401050/entwicklungsingenieur-medizintechnik"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Termin­planer (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Würz­burg, Deutsch­land Weitere Professionals Senior Professionals ohne Personalverantwort",
+   "url": "https://touch.ferchau.com/de/de/job/435190/terminplaner"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker / Elek­tro­niker für Auto­ma­ti­sie­rung (m/w/d) Pharma Job Vor Ort Vollzeit 40.000 - 65.000 € Mann­heim, Deutsch­land Anlagenbau Elektrote",
+   "url": "https://touch.ferchau.com/de/de/job/443554/techniker-elektroniker-fuer-automatisierung-pharma"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inside Sales Specia­list (m/w/d) Job Hybrid Vollzeit 35.000 - 45.000 € Wetzlar, Deutsch­land Vertrieb Young Professionals Professionals ohne Personalv",
+   "url": "https://touch.ferchau.com/de/de/job/451561/inside-sales-specialist"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Assis­tenz (m/w/d) Job Hybrid Vollzeit 40.000 - 50.000 € Würz­burg, Deutsch­land Weitere Young Professionals Professionals ohne Personalverantwortung ",
+   "url": "https://touch.ferchau.com/de/de/job/457222/assistenz"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Werk­stu­dent Recrui­ting (m/w/d) Job Hybrid Teilzeit 12.900 - 14.400 € Schwein­furt, Deutsch­land Personal Students ohne Personalverantwortung Arbeit",
+   "url": "https://touch.ferchau.com/de/de/job/476236/werkstudent-recruiting"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "(Junior) Talent Acqui­si­tion Specia­list (m/w/d) Job Hybrid Vollzeit 40.000 - 50.000 € Schwein­furt, Deutsch­land Personal Young Professionals Profes",
+   "url": "https://touch.ferchau.com/de/de/job/477325/junior-talent-acquisition-specialist"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Anla­gen­layout (m/w/d) Job Hybrid Vollzeit 45.000 - 60.000 € Würz­burg, Deutsch­land Anlagenbau Maschinenbau Professionals Senior Profe",
+   "url": "https://touch.ferchau.com/de/de/job/485680/konstrukteur-anlagenlayout"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­ma­nager Maschi­nenbau (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Kassel, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/486196/projektmanager-maschinenbau"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Indus­trie­me­cha­niker (m/w/d) Job Vor Ort Vollzeit 40.000 - 45.000 € Darm­stadt, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/486631/industriemechaniker"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sales Trainee (m/w/d) Job Hybrid Vollzeit 43.000 - 44.000 € Köln, Deutsch­land Vertrieb Young Professionals ohne Personalverantwortung Admi­nis­tra­ti",
+   "url": "https://touch.ferchau.com/de/de/job/491077/sales-trainee"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT-System­ad­mi­nis­trator (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Kiel, Deutsch­land Weitere Professionals Senior Professionals ohne Personalve",
+   "url": "https://touch.ferchau.com/de/de/job/494920/it-systemadministrator"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Büro­as­sis­tenz (m/w/d) Voll- und Teil­zeit Job Vor Ort Vollzeit 18.000 - 45.000 € Mann­heim, Deutsch­land Personal Young Professionals Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/495205/bueroassistenz-voll-und-teilzeit"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT-Supporter (m/w/d) Job Hybrid Vollzeit 42.000 - 47.000 € Kiel, Deutsch­land Informationstechnik Young Professionals Professionals ohne Personalveran",
+   "url": "https://touch.ferchau.com/de/de/job/497536/it-supporter"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Head of Network & Infra­struc­ture (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Kiel, Deutsch­land Informationstechnik Professionals Senior Professi",
+   "url": "https://touch.ferchau.com/de/de/job/499882/head-of-network-infrastructure"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Head of Appli­ca­tion Services (m/w/d) Job Vor Ort Vollzeit 70.000 - 86.000 € Kiel, Deutsch­land Informationstechnik Professionals Senior Professional",
+   "url": "https://touch.ferchau.com/de/de/job/499903/head-of-application-services"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Prüf­stand­aufbau (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Rostock, Deutsch­land Maschinenbau Weitere Young Professionals Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/499939/techniker-pruefstandaufbau"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mess­tech­niker Kunst­stoff­technik (m/w/d) Job Vor Ort Vollzeit 45.000 - 60.000 € Schwein­furt, Deutsch­land Anlagenbau Maschinenbau Weitere Professi",
+   "url": "https://touch.ferchau.com/de/de/job/500086/messtechniker-kunststofftechnik"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Spezia­list für Arbeits­si­cher­heit (m/w/d) Job Vor Ort Vollzeit 57.000 - 68.000 € Würz­burg, Deutsch­land Maschinenbau Weitere Professionals Senior ",
+   "url": "https://touch.ferchau.com/de/de/job/501175/spezialist-fuer-arbeitssicherheit"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Ferti­gungs­planer Produk­tion (m/w/d) Job Vor Ort Vollzeit 65.000 - 78.000 € Würz­burg, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/501295/fertigungsplaner-produktion"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter Auftrags­ab­wick­lung (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Coburg, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals S",
+   "url": "https://touch.ferchau.com/de/de/job/504226/mitarbeiter-auftragsabwicklung"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "Projektingenieur: in Konstruktion",
+   "url": "https://jobs.koenig-bauer.com/job/Radebeul-Projektingenieur-in-Konstruktion/1427315533"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792031010790"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019110"
+  },
+  {
+   "at": "2026-10-15T02:24:35+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019110"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/medizinischer-fachangestellter-hochschulambulanz-neurochirurgie-m-w-d-13937"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=hsOtckXhJzifrPEWXPJvYAfFHfNJoOvofDRc%2FQ%2B9Ltc%3D"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "DE",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote?tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=2&cHash=04b586d77c43d881248530dd3b47ef31e2a7436deff2dbd61a254e5016591a2e"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "EN",
+   "url": "https://loewensteinmedical.com/en/career/job-openings?tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=2&cHash=04b586d77c43d881248530dd3b47ef31e2a7436deff2dbd61a254e5016591a2e"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Ausbildung Fachlagerist / Fachkraft für Lagerlogistik (m/w/d) 2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-fachlagerist-fachkraft-fuer-lagerlogistik-mwd-2-de-j1670.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Ausbildung Feinwerkmechaniker (m/w/d) 2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-feinwerkmechaniker-mwd-2027-de-j1672.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Ausbildung Industriekaufmann / Industriekauffrau (m/w/d) zum 01.08.2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/ausbildung-industriekaufmann-industriekauffrau-m-w-d-zum-01082027-67094175"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Ausbildung Industriekaufmann/-frau (m/w/d) 2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-industriekaufmann-frau-mwd-2027-de-j1671.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Ausbildung Kaufmann/-frau im Gesundheitswesen (m/w/d) 2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-kaufmann-frau-im-gesundheitswesen-mwd-2027-de-j1669.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1655.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1663.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1668.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j678.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1676.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Auslieferungsfahrer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1678.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Büroleitung im Innendienst (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/bueroleitung-im-innendienst-mwd-de-j1651.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Business Applications Engineer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/business-applications-engineer-m-w-d-62975924"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Business Applications Manager DMS (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/business-applications-manager-dms-m-w-d-63266979"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Controller (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/controller-mwd-de-j1298.html"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "1",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote?tx_jobs_jobs%5Baction%5D=list&tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=1&cHash=e59fa2eda4f34591f93190695f68d949d4505c5e470d22df7ef96a2e8248f02e"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:24:27+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Quality Assurance Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T02:10:21+00:00",
+ "last_run": "2026-10-15T02:25:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408922
 }
