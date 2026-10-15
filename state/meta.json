@@ -1,35 +1,7 @@
 {
- "alerts": 1614,
+ "alerts": 1620,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Software Test Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18363664-software-test-engineer"
-  },
   {
    "at": "2026-10-15T15:10:30+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "EHS Manager & Admin Generalist",
    "url": "https://leggett.com/careers/search?posting=36402"
+  },
+  {
+   "at": "2026-10-15T20:39:43+00:00",
+   "kind": "possible",
+   "site": "Vodafone – Nürnberg",
+   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in A10 Center Wildau (2027)",
+   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+  },
+  {
+   "at": "2026-10-15T20:39:21+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "CS - EUV Associate Engineer - Kaohsiung",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T20:39:21+00:00",
+   "kind": "new",
+   "site": "EPLAN – Nürnberg branch",
+   "title": "Zur Startseite",
+   "url": "https://rittal.job-shop.com/"
+  },
+  {
+   "at": "2026-10-15T20:39:21+00:00",
+   "kind": "new",
+   "site": "EPLAN – Nürnberg branch",
+   "title": "View latest updates",
+   "url": "https://status.my-job-shop.com/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T20:25:30+00:00",
+ "last_run": "2026-10-15T20:40:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
