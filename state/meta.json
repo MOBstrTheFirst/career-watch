@@ -1,427 +1,7 @@
 {
- "alerts": 299,
+ "alerts": 320,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=Ih20icQUj%2FC9dXnchRO1fnEevl0oUJqmo42E4G3rnm8%3D"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Lean Manufacturing Student",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Industrial Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Optical Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Control Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Project Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Supplier Quality Development Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Smart Factory Engineer (m/w/d)",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aa4eb878e53d85",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792019958025"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019087"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019087"
-  },
-  {
-   "at": "2026-10-14T23:20:25+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=rV6LN0flVfPzntnEFumjZkzlm3x1Sk5kpVfrfaCA2F4%3D"
-  },
-  {
-   "at": "2026-10-14T23:20:25+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "1.635",
-   "url": "https://jobs.de.dis-ag.com/?page=1.635"
-  },
-  {
-   "at": "2026-10-14T23:24:52+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:52+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:52+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:52+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:21+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aa5472fc7e45f5",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-14T23:24:21+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "21 new text line(s), e.g. Seitlich offene selbstklebende Etikettenhülle 60 100mm – 50 Stück",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Lead Product Designer, AI and Intelligence",
-   "url": "https://careers.cisco.com/global/en/job/2020057/Lead-Product-Designer-AI-and-Intelligence"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020057EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior Staff Site Reliability Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2022910/Senior-Staff-Site-Reliability-Engineer"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2022910EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Customer Delivery Architect",
-   "url": "https://careers.cisco.com/global/en/job/2025299/Customer-Delivery-Architect"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2025299EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=ELAlB1MI0IdUnKC0TGTAvTMc5WWk8fVJfpyw3r2CJYI%3D"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aa54b89a79d3b6",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-14T23:24:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792020203812"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=nr7OIEuK1t5S9VTBIuIjOXOVNkd0t1bpDy0Kwo0dYo4%3D"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:24:31+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Quality Assurance Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "1 new text line(s), e.g. Your Privacy Choices",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028459664"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028459664"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Production Supervisor",
-   "url": "https://leggett.com/careers/search?posting=36500"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Territory Manager",
-   "url": "https://leggett.com/careers/search?posting=36488"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Technician",
-   "url": "https://leggett.com/careers/search?posting=36028"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Production Support",
-   "url": "https://leggett.com/careers/search?posting=36473"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Territory Manager",
-   "url": "https://leggett.com/careers/search?posting=36434"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Mechanic",
-   "url": "https://leggett.com/careers/search?posting=35663"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "QC/Lab Technician",
-   "url": "https://leggett.com/careers/search?posting=36398"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Regional OTR Driver",
-   "url": "https://leggett.com/careers/search?posting=33931"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "HR/Safety Manager",
-   "url": "https://leggett.com/careers/search?posting=35444"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Splicer Operator",
-   "url": "https://leggett.com/careers/search?posting=35862"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Electrical Maintenance Technician",
-   "url": "https://leggett.com/careers/search?posting=36017"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Mechanic",
-   "url": "https://leggett.com/careers/search?posting=36261"
-  },
-  {
-   "at": "2026-10-14T23:39:44+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Fabrication Maintenance",
-   "url": "https://leggett.com/careers/search?posting=36275"
-  },
-  {
-   "at": "2026-10-14T23:39:29+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aa6a870a784b7f",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
   {
    "at": "2026-10-14T23:39:29+00:00",
    "kind": "text",
@@ -3501,12 +3081,432 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Supply Chain Internship",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "9 new text line(s), e.g. Your Privacy Choices",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461405"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461405"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Chemielaboranten (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Chemielaboranten-%28mwd%29-2027-BY-96190/1427304733"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Maschinen und Anlagenführer (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29-2027-BY-96190/1427307233"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Industriemechaniker (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Industriemechaniker-%28mwd%29-2027-BY-96190/1427306633"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Mechatroniker (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Mechatroniker-%28mwd%29-2027-BY-96190/1427308033"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Technische Produktdesigner (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Technische-Produktdesigner-%28mwd%29-2027-BY-96190/1427308533"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Fachkraft für Lagerlogistik (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-2027-BY-96190/1427306033"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Elektroniker für Betriebstechnik (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-2027-BY-96190/1427305133"
+  },
+  {
+   "at": "2026-10-15T02:10:03+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Industriekaufleute (m/w/d) 2027",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Sch%C3%BClerpraktikum-Industriekaufleute-%28mwd%29-2027-BY-96190/1427306433"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Sr SAP Compliance Owner",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Sr-SAP-Compliance-Owner-GA-30004/1427614433"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Director, Product Marketing",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Director%2C-Product-Marketing-GA-30004/1437745133"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Head of Global Facilities",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Head-of-Global-Facilities-GA-30004/1437744733"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ab4627688ec351",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Sales Project Manager Market Harborough, United Kingdom Sales Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/sales-project-manager-1395"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Für Flurförderzeuge verboten Bodenschild",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Maschinen- und Anlagenführer (m/w/d) Extrusion Möbelkantenbänder",
+   "url": "https://www.rehau.jobs/job/Rehau-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29-Extrusion-M%C3%B6belkantenb%C3%A4nder/1230889801"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Initiativstelle (m/w/d) Werk Velen",
+   "url": "https://www.rehau.jobs/job/Velen-Initiativstelle-%28mwd%29-Werk-Velen/1011180901"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Technischer Trainer (m/w/d) Tiefbau",
+   "url": "https://www.rehau.jobs/job/Erlangen-Technischer-Trainer-%28mwd%29-Tiefbau/1427498133"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Technischer Trainer (m/w/d) HKLS",
+   "url": "https://www.rehau.jobs/job/Erlangen-Technischer-Trainer-%28mwd%29-HKLS/1427497533"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d)​ 2027 bei REHAU Industrial Solutions",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Ausbildung-zum-Industriemechaniker-%28mwd%29%E2%80%8B-2027-bei-REHAU-Industrial-Solutions/1427428033"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Ausbildung zum Elektroniker für Betriebstechnik (m/w/d) 2027 bei REHAU Industrial Solutions",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-2027-bei-REHAU-Industrial-Solutions/1427421933"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Ausbildung zum Elektroniker für Automatisierungstechnik (m/w/d) 2027 bei REHAU Industrial Solutions",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Ausbildung-zum-Elektroniker-f%C3%BCr-Automatisierungstechnik-%28mwd%29-2027-bei-REHAU-Industrial-Solutions/1427422733"
+  },
+  {
+   "at": "2026-10-15T02:09:23+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Ausbildung zum Kunststoff- und Kautschuktechnologe (m/w/d) 2027 bei REHAU Industrial Solutions",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Ausbildung-zum-Kunststoff-und-Kautschuktechnologe-%28mwd%29-2027-bei-REHAU-Industrial-Solutions/1427319633"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Solutions Engineer - Commercial, Chicago",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal Software Engineer (Security & Policy Platform) (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager - Mobility",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Nokia – Nürnberg",
+   "title": "Mechanical Engineer",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/jobs?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Nokia – Nürnberg",
+   "title": "High-Speed Converters Test and Validation Engineer",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/jobs?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Nokia – Nürnberg",
+   "title": "Principal Coherent Systems Engineer",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/jobs?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "Nokia – Nürnberg",
+   "title": "Nokia is looking for a Coherent Optical Systems Engineer to join the Optical Systems Group in San Jose, CA and Ottawa, ON.",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/jobs?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Ausbildung zum Fachinformatiker für Digitale Vernetzung (m/w/d)",
+   "url": "https://jobs.avl.com/job/Regensburg-Ausbildung-zum-Fachinformatiker-f%C3%BCr-Digitale-Vernetzung-%28mwd%29/1377487833"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=9wP%2F8etJAB3hgL3tiWmUPWFNcXX15y7%2FmtH%2BQN0GYPA%3D"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - DUV Customer Support Engineer - Tainan Tainan, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-customer-support-engineer-tainan-j00328883"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Internship Mergers & Acquisitions / Cooperations / Finance",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Internship-Mergers-&-Acquisitions-Cooperations-Finance-BW-88046/1427465833"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Senior Financial Accountant (m/w/d)",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Senior-Financial-Accountant-%28mwd%29-BW-88046/1427380133"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "CE Coordinator Industrial Drives (m/w/d) in Witten",
+   "url": "https://jobs.zf.com/job/Witten-CE-Coordinator-Industrial-Drives-%28mwd%29-in-Witten-NW-58455/1437379833"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792030109659"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019107"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019107"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur im Bereich Standsicherheit / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur für Bauphysik im Bereich Bautechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Student der Ingenieurwissenschaften für ein Praktikum im Kfz-Bereich (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T02:09:27+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T02:09:43+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=NyvDXBCg1DAApsFRMtasrdR4ZETrsGScIeuGLnD6oV8%3D"
+  },
+  {
+   "at": "2026-10-15T02:09:43+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Electrification Services Application Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:43+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Electrification Services Application Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T02:09:43+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T02:09:43+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/9389ff1a-b92e-4b37-dd71-08df17a5b9ac"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T01:55:16+00:00",
+ "last_run": "2026-10-15T02:10:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408922
 }
