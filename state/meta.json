@@ -1,98 +1,7 @@
 {
- "alerts": 1620,
+ "alerts": 1626,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Field Applications Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18350228-field-applications-engineer"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "SCA - Engineering Technician",
-   "url": "https://jobs.sanmina.com/jobs/18363575-sca-engineering-technician"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "SCA - Engineering Technician",
-   "url": "https://jobs.sanmina.com/jobs/18363574-sca-engineering-technician"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Test Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18363573-test-engineer"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Software Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18363572-software-engineer"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Sr. Test Development Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18363571-sr-test-development-engineer"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Weiler Werkzeugmaschinen",
-   "title": "Nette Küchenhilfe",
-   "url": "https://www.weiler.de/stellen-2-3/kuechenhilfe"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Algorithm and AI Senior/Staff Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Senior Software Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4afbd0a2805ae6e",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "possible",
-   "site": "Vodafone – Nürnberg",
-   "title": "Duales Studium B.Sc. Wirtschaftsingenieurwesen (m/w/d) in Leipzig (2027)",
-   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "possible",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Dortmund, Bochum (2027)",
-   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
-  },
-  {
-   "at": "2026-10-15T15:09:43+00:00",
-   "kind": "text",
-   "site": "UG Systems",
-   "title": "28 new text line(s), e.g. Deutsch",
-   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
-  },
   {
    "at": "2026-10-15T15:09:43+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "EPLAN – Nürnberg branch",
    "title": "View latest updates",
    "url": "https://status.my-job-shop.com/"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "NC Drill Operator* (Swing)",
+   "url": "https://jobs.sanmina.com/jobs/18364998-nc-drill-operator-star-swing"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "NC Drill Operator* (Swing)",
+   "url": "https://jobs.sanmina.com/jobs/18364996-nc-drill-operator-star-swing"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18364994-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Senior Technical Writer",
+   "url": "https://jobs.sanmina.com/jobs/18364992-senior-technical-writer"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "RF Test Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18364990-rf-test-engineer"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328623-material-handler-1st-shift"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328622-material-handler-1st-shift"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Assembler AI Infrastructure -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328618-assembler-ai-infrastructure-1st-shift"
+  },
+  {
+   "at": "2026-10-15T20:55:02+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Assembler AI Infrastructure -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328611-assembler-ai-infrastructure-1st-shift"
+  },
+  {
+   "at": "2026-10-15T20:54:54+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Senior GenAI Experience Engineer (w/m/d)",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-15T20:54:54+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Millwright - Maintenance Technician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Maintenance-Technician---Millwright_R00254339?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T20:54:47+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Senior Controls & Automation Engineer, Kansas City Plant",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T20:54:47+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Job LocationKANSAS CITY PLANT - F&HCJob DescriptionWe are seeking a highly skilled and adaptable Controls & Automation Engineer to join the engineerin",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T20:40:45+00:00",
+ "last_run": "2026-10-15T20:55:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
