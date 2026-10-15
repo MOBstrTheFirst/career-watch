@@ -1,231 +1,7 @@
 {
- "alerts": 209,
+ "alerts": 224,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T22:24:49+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Plant Technician - Manufacturing",
-   "url": "https://www.pgcareers.com/de/en/job/R000155322/Plant-Technician-Manufacturing"
-  },
-  {
-   "at": "2026-10-14T22:24:49+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Oxnard Plant Technician",
-   "url": "https://www.pgcareers.com/de/en/job/R000151976/Oxnard-Plant-Technician"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Technical Trainer – Electrical Power Engineering MEA (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Application Engineer for Primary Application MEA (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To actively support Primary Applications in the Middle East, Africa, and Turkey (MEA) sales region, we are looking for a highly competent and dynamic ",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Training & Application Engineer Protection / Digital Protection Testing (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To strengthen our team in Stafford, UK, we are looking for a Training & Application Engineer Protection / Digital Protection Testing",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Sales & Application Engineer - US Central East (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Technical Support & Application Engineer UK (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "To support our team based in Stafford, UK we are currently looking for a Technical Support & Application Engineer (Electrical Engineering).",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Sales Engineer (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "MANUFACTURING ENGINEER",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/18980?c=hella"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Schweinfurt",
-   "title": "Praktikum - Operatives Personalmanagement (d/m/w)",
-   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Praktikum-Operatives-Personalmanagement-%28dmw%29-97421/1447651433"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028459037"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028459037"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Supervisor de Mantenimiento",
-   "url": "https://jobs.lear.com/job/PACHECO-Supervisor-de-Mantenimiento-B-1617/1427191533"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "iDEA Project Manager",
-   "url": "https://jobs.lear.com/job/Plavecky-Stvrtok-iDEA-Project-Manager-900-68/1447686933"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Manufacturing Quality Engineer",
-   "url": "https://jobs.lear.com/job/Coventry-Manufacturing-Quality-Engineer-CV6-5TP/1447646633"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "IT Supervisor",
-   "url": "https://jobs.lear.com/job/Epila-IT-Supervisor-Z-50290/1447619733"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Material Planner",
-   "url": "https://jobs.lear.com/job/Pilsen-Material-Planner-%C2%A0Plz/1447598033"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Doctor",
-   "url": "https://jobs.lear.com/job/Hermosillo-Doctor-CHH-83299/1436894933"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Materials Planning Supervisor",
-   "url": "https://jobs.lear.com/job/Skopje-Materials-Planning-Supervisor/1446741933"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Autosar Platform Engineer",
-   "url": "https://jobs.lear.com/job/Rabat-Autosar-Platform-Engineer-10000/1447136733"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Senior Assistant Controller",
-   "url": "https://jobs.lear.com/job/Grugliasco-Senior-Assistant-Controller-Turi-10095/1446748233"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Continuous Improvement Coordinator",
-   "url": "https://jobs.lear.com/job/Continuous-Improvement-Coordinator/1446740733"
-  },
-  {
-   "at": "2026-10-14T22:40:04+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Höchstadt & Hirschaid plants",
-   "title": "Assistant / Secretary (d/m/w) Teilzeit - befristet auf 24 Monate",
-   "url": "https://jobs.schaeffler.com/job/H%C3%B6chstadt-Assistant-Secretary-%28dmw%29-Teilzeit-befristet-auf-24-Monate-91315/1447277733"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IISB",
-   "title": "Masterarbeit »Untersuchung modularer Generatorgleichrichter für segmentiertes HVDC-Flugzeugbordnetz«",
-   "url": "https://jobs.fraunhofer.de/job/Erlangen-Masterarbeit-%C2%BBUntersuchung-modularer-Generatorgleichrichter-f%C3%BCr-segmentiertes-HVDC-Flugzeugbordnetz%C2%AB-91058/1447649433"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Data Scientist",
-   "url": "https://careers.landisgyr.com/job/Curitiba-Data-Scientist/1256518301"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Costing Analytics Manager",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Costing-Analytics-Manager-GA-30004/1434124033"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Technical Writer",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Technical-Writer-GA-30004/1423914433"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Meter Reader",
-   "url": "https://careers.landisgyr.com/job/Kirkland-Meter-Reader-WA-98033/1387146133"
-  },
   {
    "at": "2026-10-14T22:39:44+00:00",
    "kind": "possible",
@@ -3501,12 +3277,236 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Sales Internship - MTY",
    "url": "https://www.pgcareers.com/de/en/job/R000159647/Sales-Internship-MTY"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460476"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460476"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:40:03+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:39:33+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4aac277b81977a3",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T00:39:33+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Selbstklebende Sichttasche DIN A4 hoch – 10 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Account Executive - Splunk Commercial (Remote, Kansas)",
+   "url": "https://careers.cisco.com/global/en/job/2020065/Account-Executive-Splunk-Commercial-Remote-Kansas"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020065EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=2T2ViXCink9yKTsitWxvxHTm7WLkP1WmCP%2F6atq4Hjw%3D"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "text",
+   "site": "Witron Logistik + Informatik",
+   "title": "1 new text line(s), e.g. a4aac29abaa1e805",
+   "url": "https://careers.witron.com/de/jobs"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792024704560"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019096"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019096"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur im Bereich Standsicherheit / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur für Bauphysik im Bereich Bautechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Student der Ingenieurwissenschaften für ein Praktikum im Kfz-Bereich (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:39:22+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:39:44+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=KD4jd3TN17EsfKMkz51FGZmW5xO6csV1dLdfF2gzUkc%3D"
+  },
+  {
+   "at": "2026-10-15T00:39:44+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Site Digital IT Manager Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:39:44+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Manager",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:39:44+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Quality Assurance Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:39:44+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T00:25:18+00:00",
+ "last_run": "2026-10-15T00:40:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 12,
+ "runs": 13,
  "tg_offset": 297408922
 }
