@@ -1,238 +1,7 @@
 {
- "alerts": 409,
+ "alerts": 422,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "(Senior) Cloud Architect (w/m/d) Duesseldorf, Stuttgart, Muenchen, Nuernberg, Hamburg + 1 Architecture Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/348766-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Cloud Architect Sovereign Cloud (w/m/d) Berlin, Duesseldorf, Muenchen, Hamburg, Koeln + 3 Architecture Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/350583-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "(Senior) Cloud DevOps Engineer (w/m/d) Muenchen, Hamburg, Stuttgart, Frankfurt, Duesseldorf Cloud Infrastructure Management Unbefristet Berufserfahren",
-   "url": "https://www.capgemini.com/de-de/jobs/348768-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Business Analyst für Versicherungen (w/m/d) Berlin, Duesseldorf, Koeln, Stuttgart, Hannover + 2 Business Analysis Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/513070-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Testautomation Expert (w/m/d) Stuttgart, Muenchen, Nuernberg, Frankfurt, Hamburg + 1 Quality Engineering & Testing Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/348858-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Cloud Architect (w/m/d) Berlin, Duesseldorf, Muenchen, Hamburg, Koeln + 2 Architecture Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/342530-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aad8bc0add4386",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792025610854"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019097"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019097"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T00:54:43+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=%2FuvSIreDNkDvMvTd5KdOUfHxP4UjPJRbKp8cLt35kY4%3D"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Warehouse/Internal Logistics Operator",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Warehouse/Internal Logistics Operator",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Hoisting Service Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Hoisting Service Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T00:54:37+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Supply Chain Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "possible",
-   "site": "ALTEN",
-   "title": "Quality Engineer",
-   "url": "https://careers.smartrecruiters.com/ALTEN"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460786"
-  },
-  {
-   "at": "2026-10-15T01:09:51+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460786"
-  },
-  {
-   "at": "2026-10-15T01:09:26+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Algorithm and AI Senior/Staff Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:26+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Senior Software Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:09:26+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aaee5c0cbd42e8",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T01:09:26+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "22 new text line(s), e.g. Einführungskappe für FIFO-Monorail-Schiene 40 (Set) – 1 Set",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-15T01:09:40+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Leader, Hardware Engineering",
-   "url": "https://careers.cisco.com/global/en/job/2015094/Leader-Hardware-Engineering"
-  },
   {
    "at": "2026-10-15T01:09:40+00:00",
    "kind": "new",
@@ -3501,12 +3270,243 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Facilities & Utilities Startup Leader",
    "url": "https://www.pgcareers.com/de/en/job/R000157823/Facilities-Utilities-Startup-Leader"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028462671"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028462671"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:52+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4abdfea1dea06e1",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "22 new text line(s), e.g. Warnung vor Flurförderzeugen Bodenschild",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Recruiter, Engineering (Remote US)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Security Consulting Engineer I (Intern) - United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "AI Security Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineer II (Intern) – United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=N6gGBWR5sFPoiaskyOJMRslwY%2Bh5SRjinjRXq72Ut1Q%3D"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792036407751"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019133"
+  },
+  {
+   "at": "2026-10-15T03:54:19+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019133"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=JmOv9HLOOSe1aI2KDmAP68uxQ4ZwTPRcYoEdjmW5ZAs%3D"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "2 new text line(s), e.g. You appear to be in the United States. Would you like to visit our US site to view products and serv",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Manufacturing Internship, Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Site Digital IT Manager Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Internship, Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Manager",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T03:54:35+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Supply Chain Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T03:40:02+00:00",
+ "last_run": "2026-10-15T03:55:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 25,
+ "runs": 26,
  "tg_offset": 297408922
 }
