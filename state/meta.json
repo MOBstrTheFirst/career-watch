@@ -1,434 +1,7 @@
 {
- "alerts": 1226,
+ "alerts": 1253,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Electrician",
-   "url": "https://leggett.com/careers/search?posting=36217"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Custodial Technician",
-   "url": "https://leggett.com/careers/search?posting=36340"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Branch Controller",
-   "url": "https://leggett.com/careers/search?posting=36362"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Financial Analysis Lead",
-   "url": "https://leggett.com/careers/search?posting=35874"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Quality Systems Technician",
-   "url": "https://leggett.com/careers/search?posting=36458"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Plant Manager",
-   "url": "https://leggett.com/careers/search?posting=35961"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Manual Machinist",
-   "url": "https://leggett.com/careers/search?posting=35992"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Machine Design Engineer",
-   "url": "https://leggett.com/careers/search?posting=36051"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Vendor Coordinator/Routing",
-   "url": "https://leggett.com/careers/search?posting=36083"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Shaft Line Machine Operator",
-   "url": "https://leggett.com/careers/search?posting=36097"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Director of Operations",
-   "url": "https://leggett.com/careers/search?posting=36383"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Company Driver",
-   "url": "https://leggett.com/careers/search?posting=1762"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Senior Warehouse Operator",
-   "url": "https://jobs.sanmina.com/jobs/18362014-senior-warehouse-operator"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18362013-quality-engineer"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Accounting Supervisor",
-   "url": "https://jobs.sanmina.com/jobs/18362012-accounting-supervisor"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Process Engineer Sustaining 2",
-   "url": "https://jobs.sanmina.com/jobs/18361958-process-engineer-sustaining-2"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Senior Mold Tooling Engineer â€“ Plastic Injection Molding",
-   "url": "https://jobs.sanmina.com/jobs/18361794-senior-mold-tooling-engineer-aeu-plastic-injection-molding"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Assembler Electronic Components",
-   "url": "https://jobs.sanmina.com/jobs/18361793-assembler-electronic-components"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Senior Automation Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18361750-senior-automation-engineer"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Manufacturing Engineer",
-   "url": "https://jobs.sanmina.com/jobs/18328778-manufacturing-engineer"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Paint Prep -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18361638-paint-prep-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18361625-material-handler-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18361624-material-handler-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Facilities Maintenance -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328866-facilities-maintenance-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Facilities Maintenance -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328864-facilities-maintenance-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler -2nd Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328850-material-handler-2nd-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler -2nd Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328852-material-handler-2nd-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler -1st Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328846-material-handler-1st-shift"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Program Administrator",
-   "url": "https://jobs.sanmina.com/jobs/18361557-program-administrator"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "44",
-   "url": "https://jobs.sanmina.com/search/jobs/in?page=44"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Kaufmann für Projekte und Controlling (m/w/d) Berufseinsteiger Uedem Neu",
-   "url": "https://karriere.omexom.de/jobs/67818732/Kaufmann-f%C3%BCr-Projekte-und-Controlling-m-w-d-"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Krankenschwester (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BVCHQA4"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014BVCHQA4"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Medizinische Fachangestellte Dialyse (m/w/d) Teilzeit",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BrfmQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014BrfmQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Notfallsanitäter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000146tbkQAA"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV0000146tbkQAA"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "OP-Pfleger (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BeKJQA0"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014BeKJQA0"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "OP-Schwester (m/w/d) Teilzeit",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BulfQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014BulfQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "OTA (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013xz21QAA"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000013xz21QAA"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Pflegeassistent (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BnsFQAS"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014BnsFQAS"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Pflegefachkraft (m/w/d) Teilzeit",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014Ckc9QAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014Ckc9QAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Pflegehelfer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013xBBkQAM"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000013xBBkQAM"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Rettungsassistent (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000144IQDQA2"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV0000144IQDQA2"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sitzwache (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014Cg3vQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014Cg3vQAC"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Technischer Sterilisationsassistent (m/w/d) München",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014FnLlQAK"
-  },
-  {
-   "at": "2026-10-15T11:55:03+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014FnLlQAK"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "MSAT Value Stream Engineer III",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "SAP BI/BW Developer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Quality Engineer – Supplier Quality",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ae9f247ad2cb9d",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Lohn- und Gehaltsbuchhalter (m/w/d) Karlsruhe",
-   "url": "https://www.tempton.de/jobs/lohn-gehaltsbuchhalter-55"
-  },
-  {
-   "at": "2026-10-15T11:54:28+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Network Engineer (m/w/d) – FTTO / LANactive Köln",
-   "url": "https://www.tempton.de/jobs/network-engineer-ftto-lanactive"
-  },
   {
    "at": "2026-10-15T11:54:47+00:00",
    "kind": "possible",
@@ -3501,12 +3074,439 @@
    "site": "Universität Regensburg – Physics",
    "title": "Studentische Hilfskraft (m/w/d)",
    "url": "https://www.uni-regensburg.de/universitaet/jobs-und-karriere/stellenangebote/shk-stellen"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Strategic Buyer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Strategic-Buyer-f-m-d/304967"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Apply",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=304967"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Werkstudent im Bereich Process Engineering (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Executive Assistant (m/w/d) Government Affairs",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIwNg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Senior Technical Project Manager | Systementwicklung (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIyOQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Technical Project Coordinator | Systementwicklung (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIzNA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Projektingenieur (m/w/d) Technisches Gebäudemanagement",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzE5MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Verkehrstechniker / Verkehrsplaner (m/w/d) Rostock Seit 15. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109158/Verkehrstechniker%20%2F%20Verkehrsplaner%20(m%2Fw%2Fd)/Rostock"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauüberwacher (m/w/d) Rostock Seit 15. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109156/Bau%C3%BCberwacher%20(m%2Fw%2Fd)/Rostock"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028473799"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028473799"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Plant Accountant/Contract",
+   "url": "https://leggett.com/careers/search?posting=36320"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Assistenz der Divisionsleitung (m/w/d) Berufserfahrene Laupheim Neu",
+   "url": "https://karriere.omexom.de/jobs/67422967/Assistenz-der-Divisionsleitung-m-w-d-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Kaufmännische Sachbearbeitung (m/w/d) Straubenhardt Berufserfahrene Straubenhardt Neu",
+   "url": "https://karriere.omexom.de/jobs/67437367/Kaufm%C3%A4nnische-Sachbearbeitung-m-w-d-Straubenhardt"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Schülerpraktikum (m/w/d) Uedem Schüler/in Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/62548809/Sch%C3%BClerpraktikum-m-w-d-Uedem-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Lohmar Neu",
+   "url": "https://karriere.omexom.de/jobs/63564454/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Waldweiler Neu",
+   "url": "https://karriere.omexom.de/jobs/63563759/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Trier Neu",
+   "url": "https://karriere.omexom.de/jobs/63564089/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektroniker (m/w/d) Berufseinsteiger Lohmar Neu",
+   "url": "https://karriere.omexom.de/jobs/63121709/Elektroniker-m-w-d-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Weinsheim Neu",
+   "url": "https://karriere.omexom.de/jobs/63564274/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Wasserliesch Neu",
+   "url": "https://karriere.omexom.de/jobs/63564059/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Kall Neu",
+   "url": "https://karriere.omexom.de/jobs/63564324/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Prüm Neu",
+   "url": "https://karriere.omexom.de/jobs/63563029/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Freileitungsmonteur (m/w/d) - Quereinstieg möglich! Berufseinsteiger Hönningen Neu",
+   "url": "https://karriere.omexom.de/jobs/63563569/Freileitungsmonteur-m-w-d---Quereinstieg-m%C3%B6glich-"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017QD1tQAG"
+  },
+  {
+   "at": "2026-10-15T13:25:12+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000017QD1tQAG"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Simulation & Modelling Engineer (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Simulation---Modelling-Engineer--d-m-w-_JR10423038-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4af22f87dc78662",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "new",
+   "site": "MKS Instruments (Atotech) – Feucht",
+   "title": "Verfahrensmechaniker (m/w/d) Kunststoffschweißtechnik - befristet auf 1 Jahr",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Feucht/Verfahrensmechaniker--m-w-d----befristet-auf-12-Monate_R21565?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "possible",
+   "site": "Thomann",
+   "title": "IT Administrator Client Hardware (m/w/d)",
+   "url": "https://jobs.thomann.de/karriere"
+  },
+  {
+   "at": "2026-10-15T13:24:31+00:00",
+   "kind": "text",
+   "site": "UG Systems",
+   "title": "28 new text line(s), e.g. Deutsch",
+   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager - Mobility",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Security Consulting Engineer(Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=ILNF4b2QysYKlWwwopSh%2FcQUOqZOeVdJyMRkkJIOXR4%3D"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "D&E - Optical Proximity Correction Software Engineer - Hsinchu",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "Quality Engineer",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Quali­täts­prüfer Waren­ein­gang bei Siemens (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 50.000 € Lauf an der Pegnitz, Deutsch­land Weitere Professional",
+   "url": "https://touch.ferchau.com/de/de/job/524362/qualitaetspruefer-wareneingang-bei-siemens"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Engineer-Factory Design (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Engineer-Factory-Design--m-w-x-_R00262484-14?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792070604181"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019570"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019570"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur im Bereich Standsicherheit / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur für Bauphysik im Bereich Bautechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Student der Ingenieurwissenschaften für ein Praktikum im Kfz-Bereich (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "de engineering – Bayreuth",
+   "title": "Projektmanager Automotive",
+   "url": "https://deengineering.hr4you.org/job/view/3122"
+  },
+  {
+   "at": "2026-10-15T13:24:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 97215 Uffenheim 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZyiFER-staplerfahrer-mwd_97215-uffenheim"
+  },
+  {
+   "at": "2026-10-15T13:24:34+00:00",
+   "kind": "new",
+   "site": "Innomotics GmbH (ex-Siemens Large Drives) / Innomotics – Bad Neustadt motor plant",
+   "title": "EXECUTIVE ASSISTANT",
+   "url": "https://jobs.innomotics.com/job/N%C3%BCrnberg-EXECUTIVE-ASSISTANT/1448109733"
+  },
+  {
+   "at": "2026-10-15T13:24:34+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=xkTi7d7FvkRKLA0Poi647%2BJuuvpCihuc6wPvgwvGcGk%3D"
+  },
+  {
+   "at": "2026-10-15T13:24:34+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Kerken Elektriker (w/m/d) Schaltschrankbau Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/66091513/Elektriker-w-m-d-Schaltschrankbau-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T13:10:21+00:00",
+ "last_run": "2026-10-15T13:25:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408922
 }
