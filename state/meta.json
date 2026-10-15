@@ -1,308 +1,7 @@
 {
- "alerts": 445,
+ "alerts": 461,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Industrial Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Optical Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Control Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Project Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Supplier Quality Development Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4ab04af1aae1f56",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792027412530"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019102"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019102"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=nMkAk8xL3vOa%2FtVXiG1%2FLJcWg6afZeY4%2FbRTqGFLRC4%3D"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "new",
-   "site": "Dräxlmaier – Ingolstadt",
-   "title": "Resident Engineer Quality (m/w/d) - befristet bis 07/2030",
-   "url": "https://d-career.org/Draexlmaier/job/Gaimersheim-Resident-Engineer-Quality-%28mwd%29-befristet-bis-072030-85080/1430459933"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "new",
-   "site": "Dräxlmaier – Ingolstadt",
-   "title": "Auszubildende (m/w/d) - Mechatroniker Vilsbiburg 2027",
-   "url": "https://d-career.org/Draexlmaier/job/Vilsbiburg-Auszubildende-%28mwd%29-Mechatroniker-Vilsbiburg-2027-84137/1428612033"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "new",
-   "site": "Dräxlmaier – Ingolstadt",
-   "title": "Auszubildende (m/w/d) - Fachinformatiker Vilsbiburg 2027",
-   "url": "https://d-career.org/Draexlmaier/job/Vilsbiburg-Auszubildende-%28mwd%29-Fachinformatiker-Vilsbiburg-2027-84137/1428675733"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Engineering Internship, Summer 2027",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Engineering Manager",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Quality Assurance Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:42+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "1 new text line(s), e.g. Your Privacy Choices",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461099"
-  },
-  {
-   "at": "2026-10-15T01:36:59+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461099"
-  },
-  {
-   "at": "2026-10-15T01:36:26+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Algorithm and AI Senior/Staff Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:26+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Senior Software Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:36:26+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ab15cdc9cc535d",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T01:36:26+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "20 new text line(s), e.g. Bodenfenster DIN A4 – 10 Stück",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-15T01:36:26+00:00",
-   "kind": "text",
-   "site": "UG Systems",
-   "title": "28 new text line(s), e.g. Deutsch",
-   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Engineer - Commercial, Chicago",
-   "url": "https://careers.cisco.com/global/en/job/2023835/Solutions-Engineer-Commercial-Chicago"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023835EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Customer Experience Manager - Splunk (remote)",
-   "url": "https://careers.cisco.com/global/en/job/2023573/Customer-Experience-Manager-Splunk-remote"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023573EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Isovalent (Cloud Native Security) Account Executive - Central",
-   "url": "https://careers.cisco.com/global/en/job/2022103/Isovalent-Cloud-Native-Security-Account-Executive-Central"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2022103EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=SodvN38aByjlGe5bRs0yIeldZJ5143OUiTNfpZAF8jQ%3D"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4ab163bf89cc4e5",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792028128970"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019103"
-  },
-  {
-   "at": "2026-10-15T01:36:24+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019103"
-  },
-  {
-   "at": "2026-10-15T01:36:42+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Mfg Ops Support Fab",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Depot-Road/Mfg-Ops-Support-Fab_R027165-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-15T01:36:42+00:00",
    "kind": "new",
@@ -3501,12 +3200,313 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Ingolstadt",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Ingolstadt-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Ingolstadt-BY-85057/1445930233"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Trainer – Electrical Power Engineering MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Application Engineer for Primary Application MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To actively support Primary Applications in the Middle East, Africa, and Turkey (MEA) sales region, we are looking for a highly competent and dynamic ",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Training & Application Engineer Protection / Digital Protection Testing (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To strengthen our team in Stafford, UK, we are looking for a Training & Application Engineer Protection / Digital Protection Testing",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales & Application Engineer - US Central East (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Support & Application Engineer UK (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To support our team based in Stafford, UK we are currently looking for a Technical Support & Application Engineer (Electrical Engineering).",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales Engineer (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463121"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463121"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:54+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:54+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:40:54+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ac21dbfc4cc5fb",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior AI Researcher, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Engineering Program Manager",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Legal Rising 3L (Intern) - United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Machine Learning Engineer, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Account Executive - Architecture-IMI (Internet and Mass Infrastructure)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal AI Researcher, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=c%2Fgr7TiBZop4rPoIQFWYK9xYqLWGouvNAQHhpYGpuTY%3D"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792039114966"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019143"
+  },
+  {
+   "at": "2026-10-15T04:41:08+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019143"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=dmC17MCBsW2AD8NWUGQYjMl7uBjt0fFwG7E6IPpprFQ%3D"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Services Sales Manager",
+   "url": "https://careers.abb/global/en/job/JR00049612/Services-Sales-Manager"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Resident Field Service Technician-Gary, IN",
+   "url": "https://careers.abb/global/en/job/JR00048460/Resident-Field-Service-Technician-Gary-IN"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Field Service Technician",
+   "url": "https://careers.abb/global/en/job/JR00031520/Senior-Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Sales Engineer",
+   "url": "https://careers.abb/global/en/job/JR00047891/Sales-Engineer"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Metallurgy Sales Manager",
+   "url": "https://careers.abb/global/en/job/JR00032715/Metallurgy-Sales-Manager"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Director, Social Strategy & Organic Growth - Skin Care",
+   "url": "https://www.pgcareers.com/de/en/job/R000159490/Director-Social-Strategy-Organic-Growth-Skin-Care"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "TikTok Shop Manager - Hair Care",
+   "url": "https://www.pgcareers.com/de/en/job/R000160080/TikTok-Shop-Manager-Hair-Care"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Procter & Gamble - Sales Internship - Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/job/R000157756/Procter-Gamble-Sales-Internship-Summer-2027"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "PS - Quality - Customer Service Logistics/Warehouse/Customization/DC - Band BTA",
+   "url": "https://www.pgcareers.com/de/en/job/R000143342/PS-Quality-Customer-Service-Logistics-Warehouse-Customization-DC-Band-BTA"
+  },
+  {
+   "at": "2026-10-15T04:39:23+00:00",
+   "kind": "new",
+   "site": "Gerresheimer Regensburg",
+   "title": "Qualitätsprüfer (m/w/d) im Bereich Veredelung",
+   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/e008f24f-09f4-4d67-8aa0-f11f2a2fc0a0?cHash=5c4ac7884dd489510c386b1edfdf19e76b69d3a8095f03b517ccdbeb1684e08e"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T04:26:26+00:00",
+ "last_run": "2026-10-15T04:41:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408922
 }
