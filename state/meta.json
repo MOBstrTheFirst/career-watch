@@ -1,252 +1,7 @@
 {
- "alerts": 149,
+ "alerts": 181,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-24160/Facility-Building-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR24160EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Head of Critical Care Marketing",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29937/Head-of-Critical-Care-Marketing"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Head of Critical Care Marketing",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29937EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Physicist (Yakima, WA)",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-22194/Medical-Physicist-Yakima-WA"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Medical Physicist (Yakima, WA)",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR22194EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Regional Sales Director, West Region (Southern CA, NV and AZ)",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29627/Regional-Sales-Director-West-Region-Southern-CA-NV-and-AZ"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Regional Sales Director, West Region (Southern CA, NV and AZ)",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29627EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Physicist",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27327/Medical-Physicist"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Medical Physicist",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR27327EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-24264/Medical-Imaging-Field-Engineer-MR-CT-AX-Jacksonville-FL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR24264EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Contract Revenue Analyst",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29995/Contract-Revenue-Analyst"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Contract Revenue Analyst",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29995EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29709/Medical-Imaging-Field-Engineer-Columbus-OH"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29709EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30098/Medical-Imaging-Field-Engineer-Yuma-AZ"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR30098EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Pharmaceutical Lab Technician - Broken Arrow, OK",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29871/Pharmaceutical-Lab-Technician-Broken-Arrow-OK"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Pharmaceutical Lab Technician - Broken Arrow, OK",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29871EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Global Mobility / Internationale Mitarbeitereinsätze",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524855"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524855"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WhatsApp",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524855"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Herzogenaurach HQ",
-   "title": "Manager Business Digitalization (d/m/w) - HR Compensation, Payroll & Time Management Solutions",
-   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Manager-Business-Digitalization-%28dmw%29-HR-Compensation%2C-Payroll-&-Time-Management-Solutions-91074/1447407133"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Projektingenieur (m/w/d) Wasserwirtschaft & Grundwassermodellierung Berlin Seit 15. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-107020/Projektingenieur%20(m%2Fw%2Fd)%20Wasserwirtschaft%20%26amp%3B%20Grundwassermodellierung/Berlin"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "Backend / Middle-End Process Engineer",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/18979?c=hella"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028458645"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028458645"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-14T22:11:02+00:00",
-   "kind": "new",
-   "site": "Rösler Oberflächentechnik – Untermerzbach",
-   "title": "Technical Sales Expert bei AM Solutions (m/w/d)",
-   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Technical-Sales-Expert-bei-AM-Solutions-%28mwd%29-BY-96190/1447491233"
-  },
-  {
-   "at": "2026-10-14T22:09:47+00:00",
-   "kind": "new",
-   "site": "Semikron Danfoss",
-   "title": "Praktikum (m/w/d) (Schüler-, Wirtschafts- und Vorpraktikum)",
-   "url": "https://jobs.danfoss.com/job/Praktikum-%28mwd%29-%28Sch%C3%BCler-%2C-Wirtschafts-und-Vorpraktikum%29/45123-en_GB"
-  },
-  {
-   "at": "2026-10-14T22:09:47+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4a9e6c95f083b70",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
   {
    "at": "2026-10-14T22:09:47+00:00",
    "kind": "text",
@@ -3081,12 +2836,677 @@
    "site": "BIOTRONIK – Erlangen",
    "title": "Anmelden",
    "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=2Q%2BZu3K1JNgYKugZi6jVKx%2FqlS7nLxAJVsqUmAuhs8g%3D"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Schaeffler – Herzogenaurach HQ",
+   "title": "Rechtsreferendar*in (m/w/d)",
+   "url": "https://jobs.schaeffler.com/search/?q=&locationsearch=Herzogenaurach&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "CARIAD",
+   "title": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "CARIAD",
+   "title": "Intern/Thesis - Learning-based Radar-Camera Fusion for Simultaneous Localization and Mapping (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "CARIAD",
+   "title": "Senior Data Engineer - Streaming Analytics (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "CARIAD",
+   "title": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "CARIAD",
+   "title": "lnternship - User Experience / User Interaction - Pre-Development AI-enabled Experiences (w/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/search/?createNewAlert=false&q=&locationsearch=&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "1 new text line(s), e.g. Your Privacy Choices",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Schaeffler – Schweinfurt",
+   "title": "Rechtsreferendar*in (m/w/d)",
+   "url": "https://jobs.schaeffler.com/search/?q=&locationsearch=Schweinfurt&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460056"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460056"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "HR Manager*in / Personalleitung (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Senior Designer Terminals (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "LKW-Fahrer (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Senior HR Generalist (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Global SME Electronics Reliability and Failure Analysis​ (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Quality Manager (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Intralogistics Automation Engineer - EMEA (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Logistics Coordinator/Analyst (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "Sales Manager (Electronics) m/w/d",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "possible",
+   "site": "Lear – Kronach",
+   "title": "IT Specialist (m/w/d)",
+   "url": "https://jobs.lear.com/go/Germany/4351401/"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328842-production-test-technician-1st-shift"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Test Operator",
+   "url": "https://jobs.sanmina.com/jobs/18361396-test-operator"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361391-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361390-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361389-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361344-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361343-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Test Engineering Technician",
+   "url": "https://jobs.sanmina.com/jobs/18361244-test-engineering-technician"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "IT Project Manager Full (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361243-it-project-manager-full-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Test Engineer - Flying Probe and ICT",
+   "url": "https://jobs.sanmina.com/jobs/18346876-test-engineer-flying-probe-and-ict"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Supervisor",
+   "url": "https://jobs.sanmina.com/jobs/18361169-production-supervisor"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Order Processing Support 2 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18361128-order-processing-support-2-n"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Industrial Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18328858-industrial-engineer"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "SMT Process Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18361068-smt-process-engineer"
+  },
+  {
+   "at": "2026-10-15T00:09:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Surface Mount Technology (SMT) Programmer",
+   "url": "https://jobs.sanmina.com/jobs/18361067-surface-mount-technology-smt-programmer"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Director, Talent Management & Development",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Director%2C-Talent-Management-&-Development-GA/1445222633"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Sr. Project Manager",
+   "url": "https://careers.primetals.com/global/en/job/7644/Sr-Project-Manager"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Apply Now",
+   "url": "https://careers.primetals.com/global/en/apply?jobSeqNo=PTAPTKGLOBAL7644EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Project Manager (m,w,d) im Bereich Anlagen- und Prozessautomatisierung",
+   "url": "https://careers.primetals.com/global/en/job/6504/Project-Manager-m-w-d-im-Bereich-Anlagen-und-Prozessautomatisierung"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Apply Now",
+   "url": "https://careers.primetals.com/global/en/apply?jobSeqNo=PTAPTKGLOBAL6504EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Plating III - Sr Level",
+   "url": "https://careers.primetals.com/global/en/job/7798/Plating-III-Sr-Level"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Apply Now",
+   "url": "https://careers.primetals.com/global/en/apply?jobSeqNo=PTAPTKGLOBAL7798EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4aa97517de06833",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "SKF – Schweinfurt",
+   "title": "Ausbildung - Industriemechaniker für Produktionstechnik (m/w/d) - 2027",
+   "url": "https://career.skf.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Kaeser Kompressoren",
+   "title": "Monteur Montagelinie (m/w/d)",
+   "url": "https://careers.kaeser.com/go/Alle-Stellen/3767101/"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Kaeser Kompressoren",
+   "title": "Ausbildung zum Maschinen- und Anlagenführer (m/w/d) - Standort Coburg",
+   "url": "https://careers.kaeser.com/go/Alle-Stellen/3767101/"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Kaeser Kompressoren",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d) 2027 - Standort Gera",
+   "url": "https://careers.kaeser.com/go/Alle-Stellen/3767101/"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "possible",
+   "site": "Kaeser Kompressoren",
+   "title": "Koordinator Global Marketing (m/w/d)",
+   "url": "https://careers.kaeser.com/go/Alle-Stellen/3767101/"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "22 new text line(s), e.g. Magnetischer Einsteckträger 27 – 50 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T00:10:06+00:00",
+   "kind": "text",
+   "site": "UG Systems",
+   "title": "28 new text line(s), e.g. Deutsch",
+   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Consulting Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Partner Leader, Solutions Engineer, Splunk",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=m0PWrfPqqiNMQhaEi%2FQfgZT%2FGtXh2Ejjo4OxJMmRcLs%3D"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Manufacturing Engineer San Diego, CA, US Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-manufacturing-engineer-j00354669"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS Safety Engineer Pyeong-Taek, Korea EHS",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-safety-engineer-j00354755"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Volljurist (m/w/d) Corporate Labor Law",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Volljurist-%28mwd%29-Corporate-Labor-Law-BW-88046/1447521233"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "text",
+   "site": "Witron Logistik + Informatik",
+   "title": "1 new text line(s), e.g. a4aa96927a8f21eb",
+   "url": "https://careers.witron.com/de/jobs"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792022900977"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019093"
+  },
+  {
+   "at": "2026-10-15T00:09:18+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019093"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Apply",
+   "url": "https://careers.tennet.eu/en_US/careers/ApplicationMethods?jobId=117530"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Apply",
+   "url": "https://careers.tennet.eu/en_US/careers/ApplicationMethods?jobId=117529"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Apply",
+   "url": "https://careers.tennet.eu/en_US/careers/ApplicationMethods?jobId=118899"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Apply",
+   "url": "https://careers.tennet.eu/en_US/careers/ApplicationMethods?jobId=118872"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=gfhHTtpQG0Kaos%2FxEHGEr7FmI8Gg3Wlgyvw406tV2bw%3D"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IVI – Application Center Ingolstadt",
+   "title": "Studentische Hilfskraft mit anschließender Abschlussarbeit - Infrastrukturgestützte Robotik",
+   "url": "https://jobs.fraunhofer.de/job/Dresden-Studentische-Hilfskraft-mit-anschlie%C3%9Fender-Abschlussarbeit-Infrastrukturgest%C3%BCtzte-Robotik-01069/1447597533"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "8 new text line(s), e.g. Do Not Sell My Personal Information",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Spezialist Provisionsabrechnung (m/w/d)",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/M%C3%BCnchen-Spezialist-Provisionsabrechnung-%28mwd%29-BY-80992/1447557033"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Neumünster",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Neum%C3%BCnster-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Neum%C3%BCnster-SH-24534/1445938733"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Gütersloh",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/G%C3%BCtersloh-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-G%C3%BCtersloh-NW-33330/1445925833"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Hildesheim",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Hildesheim-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Hildesheim-NI-31134/1445953433"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Lübeck",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/L%C3%BCbeck-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-L%C3%BCbeck-SH-23552/1445886833"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Berlin",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Berlin-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Berlin-BE-10627/1445955633"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Berlin",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Berlin-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Berlin-10178/1445942033"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Live Shop Berlin Charlottenburg",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Berlin-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Live-Shop-Berlin-Charlottenburg-BE-10789/1445913933"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "possible",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Embedded SW Developer",
+   "url": "https://www.gi-de.com/en/careers/jobs"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "possible",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "NetOps Engineer",
+   "url": "https://www.gi-de.com/en/careers/jobs"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "possible",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Customer Support Engineer (L1)",
+   "url": "https://www.gi-de.com/en/careers/jobs"
+  },
+  {
+   "at": "2026-10-15T00:09:44+00:00",
+   "kind": "possible",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Cloud DevOps Engineer",
+   "url": "https://www.gi-de.com/en/careers/jobs"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-14T23:55:19+00:00",
+ "last_run": "2026-10-15T00:10:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408922
 }
