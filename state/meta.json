@@ -1,35 +1,7 @@
 {
- "alerts": 1613,
+ "alerts": 1614,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Maschinen- & Anlagenführer Kunststoff-Spritzguss/ Thermoformen (m/w/d)",
-   "url": "https://jobs.bsh-group.de/45863-maschinen-anlagenfuehrer-kunststoff-spritzguss-thermoformen-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028475810"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028475810"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
   {
    "at": "2026-10-15T15:10:30+00:00",
    "kind": "possible",
@@ -3501,12 +3473,40 @@
    "site": "Vodafone – Nürnberg",
    "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Konstanz (2027)",
    "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+  },
+  {
+   "at": "2026-10-15T20:25:11+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Director Procurement - Asia Pacific",
+   "url": "https://leggett.com/careers/search?posting=36460"
+  },
+  {
+   "at": "2026-10-15T20:25:11+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Manager Indirect Procurement",
+   "url": "https://leggett.com/careers/search?posting=36462"
+  },
+  {
+   "at": "2026-10-15T20:25:11+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Quality Manager",
+   "url": "https://leggett.com/careers/search?posting=36381"
+  },
+  {
+   "at": "2026-10-15T20:25:11+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "EHS Manager & Admin Generalist",
+   "url": "https://leggett.com/careers/search?posting=36402"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T20:08:42+00:00",
+ "last_run": "2026-10-15T20:25:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
