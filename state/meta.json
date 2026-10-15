@@ -1,721 +1,7 @@
 {
- "alerts": 1342,
+ "alerts": 1370,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Buyer - Coppell, TX",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/buyer-coppell-tx_251563-1699136.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Microsoft Application Developer",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/microsoft-application-developer_251563-1699072.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Vice President Talent Acquisition (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/vice-president-talent-acquisition-m-w-d_251563-1663936.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "M&A Specialist (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ma-specialist-m-w-d_251563-1698944.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Hausmeister / Schreiner (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hausmeister-schreiner-m-w-d_251563-1698626.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Projektmanager Global Order Management - internationale Kundenprojekte (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektmanager-global-order-management-internationale-kundenprojekte-m-w-d_251563-1631850.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Senior Platform and Test Infrastructure Engineer - Columbia, MD",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-platform-and-test-infrastructure-engineer-columbia-md_251563-1698368.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Qualifizierte Fachkraft Mikroelektronik-Fertigung (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualifizierte-fachkraft-mikroelektronik-fertigung-m-w-d_251563-1698055.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "CDC Detection Engineer / Security Specialist mit SIEM Kenntnissen(m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/cdc-detection-engineer-security-specialist-mit-siem-kenntnissen-m-w-d_251563-1640200.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Koch (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/koch-m-w-d_251563-1698054.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Vice President Marketing & Brand (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/vice-president-marketing-brand-m-w-d_251563-1697921.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "SMD Produktionsbetreuer (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/smd-produktionsbetreuer-m-w-d_251563-1697920.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "IT Service Continuity Manager (ITSCM) & IT Security Auditor (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/it-service-continuity-manager-itscm-it-security-auditor-m-w-d_251563-1684096.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Production Lead - Frederick, MD",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/production-lead-frederick-md_251563-1697729.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Warehouse Associate - Coppell, TX",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/warehouse-associate-coppell-tx_251563-1697728.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Director R&D of Hardware Digital Development (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-rd-of-hardware-digital-development-m-w-d_251563-1697674.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Director R&D of Hardware Analog and RF Development (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-rd-of-hardware-analog-and-rf-development-m-w-d_251563-1697673.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Director Electrical and Mechanical Design Signal Generators & Power Meters (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-electrical-and-mechanical-design-signal-generators-power-meters-m-w-d_251563-1697672.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Corporate Strategy (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-corporate-strategy-m-w-d_251563-1697671.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Simulation Tools (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-simulation-tools-m-w-d_251563-1697603.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Full Stack Web Development (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-full-stack-web-development-m-w-d_251563-1697472.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Inside Sales (Test and Measurement, Business Engagement, Pre-Sales)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/inside-sales-test-and-measurement-business-engagement-pre-sales_251563-1697408.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Softwareentwicklung & CAD-Automatisierung (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-softwareentwicklung-cad-automatisierung-m-w-d_251563-1696896.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Embedded Software Engineer C++ Signalanalyse Messtechnik (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/embedded-software-engineer-c-signalanalyse-messtechnik-m-w-d_251563-1690307.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent AV-Media (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-av-media-m-w-d_251563-1696834.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Procesní inženýr senior / Specialista SMT (m/ž)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/procesni-inzenyr-senior-specialista-smt-m-z_251563-1696833.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Senior RF Device Development Engineer & Subproject Lead (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-rf-device-development-engineer-subproject-lead-m-w-d_251563-1696832.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Senior Specialist Project Risk & Opportunity Management (m/w/d) PMO",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-specialist-project-risk-opportunity-management-m-w-d-pmo_251563-1696769.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Junior Quality Engineer für KI-Softwaretests und Testautomatisierung (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/junior-quality-engineer-fuer-ki-softwaretests-und-testautomatisierung-m-w-d_251563-1696768.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Troubleshooter - IT (m/ž)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/troubleshooter-it-m-z_251563-1696643.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Qualifizierte Fachktraft Montage (m/w/d) - ziviler Flugfunk",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualifizierte-fachktraft-montage-m-w-d-ziviler-flugfunk_251563-1696642.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Student Placement Software Engineer - 3GPP 5G and 6G Technologies",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/student-placement-software-engineer-3gpp-5g-and-6g-technologies_251563-1696515.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Student Placement Software Engineer - 3GPP 5G and 6G Technologies",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/student-placement-software-engineer-3gpp-5g-and-6g-technologies_251563-1696514.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Student Placement Software Engineer - WLAN & Bluetooth Technologies",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/student-placement-software-engineer-wlan-bluetooth-technologies_251563-1696512.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Student Placement Software Engineer - WLAN & Bluetooth Technologies",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/student-placement-software-engineer-wlan-bluetooth-technologies_251563-1696513.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Technolog",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technolog_251563-1663424.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Duales Studium mit vertiefter Praxis im Bereich Elektro- und Informationstechnik Start 2027 (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-mit-vertiefter-praxis-im-bereich-elektro-und-informationstechnik-start-2027-m-w-d_251563-1636289.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Ausbildung zur Fachkraft für Lagerlogistik zum 01.09.2027 (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zur-fachkraft-fuer-lagerlogistik-zum-01.09.2027-m-w-d_251563-1636644.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Teamkoordinator Corporate Security (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamkoordinator-corporate-security-m-w-d_251563-1636800.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Sachbearbeiter Materieller Geheimschutz (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sachbearbeiter-materieller-geheimschutz-m-w-d_251563-1636865.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Produktionsleiter Endfertigung - Operational Excellence & Transformation",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/produktionsleiter-endfertigung-operational-excellence-transformation_251563-1640898.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Software Development in C (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-software-development-in-c-m-w-d_251563-1683328.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Leiter Prüfmittelentwicklung (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/leiter-pruefmittelentwicklung-m-w-d_251563-1643712.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Technical Project Leader",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technical-project-leader_251563-1696257.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "SAP FI Consultant",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sap-fi-consultant_251563-1696256.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Techniker Prüfmittelentwicklung SPEA / Flying Probe 4060-S2 (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/techniker-pruefmittelentwicklung-spea-flying-probe-4060-s2-m-w-d_251563-1644864.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Release-Train-Engineer / Scrum Master für Funkkommunikationssysteme (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/release-train-engineer-scrum-master-fuer-funkkommunikationssysteme-m-w-d_251563-1624961.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Integration Engineer (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/integration-engineer-m-w-d_251563-1628185.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Test Engineer (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/test-engineer-m-w-d_251563-1628186.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent (m/w/d) für VR/MR Entwicklung & Innovation",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-m-w-d-fuer-vr-mr-entwicklung-innovation_251563-1696193.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Duales Studium mit vertiefter Praxis im Bereich Informatik Start 2027 (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-mit-vertiefter-praxis-im-bereich-informatik-start-2027-m-w-d_251563-1645120.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Elektroniker / Mechatroniker für logistische Anlagen (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-mechatroniker-fuer-logistische-anlagen-m-w-d_251563-1654272.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Projektspezialist Avionik Service (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektspezialist-avionik-service-m-w-d_251563-1656579.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Teamleiter Hardwareentwicklung (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-hardwareentwicklung-m-w-d_251563-1656899.html"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=jnkHZFfoSFJEWwtWslj3xxjx43E9x0IyL8znpw4RbDU%3D"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Specialist, Supplier Management Systems (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Sr-Specialist--Supplier-Management-Systems--m-w-x-_R00259316?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Einkäufer für Manufacturing Equipment & IT (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Buyer-im-Bereich-Procurement-Indirect-Spend---Invest--Infrastructure---CAPEX---Manufacturing-Equipment---IT---m-w-x-_R00259902?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Customer Quality Engineer",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Collesalvetti-IT/Customer-Quality-Engineer_R00265012?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792067898238"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019525"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019525"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Servicetechniker (m/w/d) Automatisierung 04356 Leipzig 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ewlsj-servicetechniker-mwd-automatisierung_04356-leipzig"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter (m/w/d) Kreditsicherheiten 04109 Leipzig 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/15gPaf-sachbearbeiter-mwd-kreditsicherheiten_04109-leipzig"
-  },
-  {
-   "at": "2026-10-15T12:39:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Controller (m/w/d) SAP FI/CO/MM 35108 Allendorf (Eder) 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/9dJC7-controller-mwd-sap-ficomm_35108-allendorf-eder"
-  },
-  {
-   "at": "2026-10-15T12:39:44+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=pHi1iD%2B3ZN7nHglEJRA9i87eFTU%2F0q3Z8qW8Z1l45kw%3D"
-  },
-  {
-   "at": "2026-10-15T12:39:44+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Senior Controls & Automation Engineer, Kansas City Plant",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:39:44+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Job LocationKANSAS CITY PLANT - F&HCJob DescriptionWe are seeking a highly skilled and adaptable Controls & Automation Engineer to join the engineerin",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:39:44+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
-   "title": "Neu Bauabrechner Netzbau (m/w/d) Berufserfahrene",
-   "url": "https://jobs.wvv.de/jobs/67540302/Bauabrechner-Netzbau-m-w-d-"
-  },
-  {
-   "at": "2026-10-15T12:39:44+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Industriemechaniker (w/m/d) für Dampfturbinen im Außendienst",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Industriemechaniker-w-m-d-f-r-Dampfturbinen-im-Au-endienst/303069"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Apply",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=303069"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "1 new text line(s), e.g. Your Privacy Choices",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Elektroplaner (m/w/d) – Technische Gebäudeausrüstung Rostock Seit 15. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109149/Elektroplaner%20(m%2Fw%2Fd)%20%E2%80%93%20Technische%20Geb%C3%A4udeausr%C3%BCstung/Rostock"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Technischer Zeichner (m/w/d) Rostock Seit 15. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109147/Technischer%20Zeichner%20(m%2Fw%2Fd)/Rostock"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028473357"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028473357"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Sr Software Engineer Azure & Microsoft Cloud",
-   "url": "https://leggett.com/careers/search?posting=36378"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Manufacturing Engineer",
-   "url": "https://leggett.com/careers/search?posting=36387"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Systems Engineer Intern",
-   "url": "https://leggett.com/careers/search?posting=35506"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Quality Engineer",
-   "url": "https://leggett.com/careers/search?posting=36315"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Werkstattprogramierer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017OOxfQAG"
-  },
-  {
-   "at": "2026-10-15T12:55:23+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Bewerben",
-   "url": "https://de.trenkwalder.com/application?jobId=a0taV000017OOxfQAG"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Manager Product Marketing (f/m/div) München (Deutschland) HRC1692140 Hybrid Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971420079"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Jetzt bewerben",
-   "url": "https://jobs.infineon.com/careers/apply?pid=563808971420079"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Application Manager- Robo-motive Shanghai HRC1749353",
-   "url": "https://jobs.infineon.com/careers/job/563808971831656"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Product Marketing Manager Austin, TX HRC1708984",
-   "url": "https://jobs.infineon.com/careers/job/563808971731732"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Product Marketing Manager MOSFET Shanghai HRC1800208",
-   "url": "https://jobs.infineon.com/careers/job/563808971994295"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Manager Product Marketing Shenzhen HRC1757383",
-   "url": "https://jobs.infineon.com/careers/job/563808971869939"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Dir Product Marketing /Sr Manager Product Marketing San Jose, CA HRC1670761 Hybrid Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971283473"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Manager Product Management & Marketing Bangalore BTP HRC1744795",
-   "url": "https://jobs.infineon.com/careers/job/563808971811656"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Sr Staff Spec Product Marketing - Memory Products San Jose, CA, USA HRC1713297 Hybrid Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971617459"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Manager Product Management HV GaN Shenzhen, 深圳 + 1 more HRC1786213",
-   "url": "https://jobs.infineon.com/careers/job/563808971950425"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Product Marketing Director Austin, TX HRC1822049",
-   "url": "https://jobs.infineon.com/careers/job/563808972115806"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Director Product Marketing Austin, TX HRC1725489 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971748086"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "GET ON THE TRAIN: Qualifizierung für Junior Ingenieur:innen im Bauprojektmanagement",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Bauingenieurwesen 2027 im Bahnhofsmanagement (w/m/d)",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Bauingenieurwesen 2027 (w/m/d)",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Kaufmann für Mobilität und Verkehrsservice im Bahnhof 2027 (w/m/d)",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Elektrotechnik 2027 (w/m/d)",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Fachkraft Lagerlogistik (w/m/d)",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Projektingenieur:in Oberbau",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Werkstudent:in Bauingenieurwesen Planung Verkehrsanlagen",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
   {
    "at": "2026-10-15T12:54:37+00:00",
    "kind": "possible",
@@ -3501,12 +2787,726 @@
    "site": "DIS AG",
    "title": "Auf WhatsApp teilen",
    "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fteamassistenz-m-w-d-130%2F"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Werkstudent im Bereich Process Engineering (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Werkstudent (m/w/d) im Bereich Finance",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Senior Expert Inhouse IFRS Consultant (m/f/d) in Group Accounting",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Praktikum mit Bachelor- oder Masterarbeit Verpackungstechnologie (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Pflegefachkraft (m/w/d) für unser Reiseteam",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Design Quality Engineer (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Working student for support Product Regulatory Affairs Concentrates (m/f/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Pflegefachkraft oder Medizinische Fachangestellte (m/w/d) für die Dialyse",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Functional Safety & Software Risk Manager (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Elektrotechniker (m/w/d) – Fehleranalyse und Reparatur elektronischer Baugruppen",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028475210"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028475210"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Vertriebsassistenz des geschäftsführenden Gesellschafters (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/c9610837-9457-4e9d-9291-2d85d94a9390"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagermitarbeiter (m/w/d) bis zu 3200€ Brutto pro Monat",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bP4CsQAK"
+  },
+  {
+   "at": "2026-10-15T14:39:57+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000bP4CsQAK"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Failure Analysis Leominster, MA + 1 more HRC1679061 Vor Ort",
+   "url": "https://jobs.infineon.com/careers/job/563808971293052"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Failure Analysis Kulim HRC1716028",
+   "url": "https://jobs.infineon.com/careers/job/563808971705626"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff/Staff Engineer Metrology Kulim HRC1815154",
+   "url": "https://jobs.infineon.com/careers/job/563808972071516"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Unit Process Engineering Malakka HRC1807404",
+   "url": "https://jobs.infineon.com/careers/job/563808972051239"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer / Principle Engineer (SON Package) Batam HRC1792801",
+   "url": "https://jobs.infineon.com/careers/job/563808971968556"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Failure Analysis Samut Prakan HRC1796717",
+   "url": "https://jobs.infineon.com/careers/job/563808971981109"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "Leoni / Leoni – Kitzingen (wiring systems)",
+   "title": "(Lead) Expert Treasury Administration & Reporting (m/w/d) Ort: Nürnberg, Deutschland Art der Stelle: Hybrid Datum: neu",
+   "url": "https://www.leoni-germany.com/stellenportal/detail/lead-expert-treasury-administration-reporting-m-w-d-sr744000155774358"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Senior) Projektleiter:in Hochbau Brandschutz neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/-Senior-Projektleiter-in-Hochbau-Brandschutz-13749706?jobId=614610"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Junior) Projektleiter:in Hochbau neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/-Junior-Projektleiter-in-Hochbau-13749708?jobId=614615"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Technische:r Berater:in für Qualität im Projektmanagement neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Technische-r-Berater-in-fuer-Qualitaet-im-Projektmanagement-13732610?jobId=612744"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Projektleiter:in Planung und Bauausführung für Bahnhofsprojekte neu Nürnberg, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Projektleiter-in-Planung-und-Bauausfuehrung-fuer-Bahnhofsprojekte-13980750?jobId=632591"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Bauüberwacher:in Bahn 50Hz neu Nürnberg, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Bauueberwacher-in-Bahn-50Hz-13805030?jobId=622056"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Senior) Projektleiter:in Hochbau neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/-Senior-Projektleiter-in-Hochbau-13985492?jobId=633006"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Professional Projektleiter:in / Bauherrenvertreter:in für Verkehrsstationsprojekte neu Nürnberg, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Professional-Projektleiter-in-Bauherrenvertreter-in-fuer-Verkeh-13985494?jobId=633064"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Meister:in / Techniker:in als Fachbauüberwacher:in Elektrotechnik neu Nürnberg, Bamberg, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Meister-in-Techniker-in-als-Fachbauueberwacher-in-Elektrotechni-13962654?jobId=631102"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Senior Fachspezialist:in Umweltmanagement neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Senior-Fachspezialist-in-Umweltmanagement-14029694?jobId=637627"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Projektleiter:in Telekommunikation und Elektrotechnik an Bahnhöfen neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Projektleiter-in-Telekommunikation-und-Elektrotechnik-an-Bahnhoef-14009706?jobId=636071"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Junior) Fachkoordinator:in bauliche Anlagen neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/-Junior-Fachkoordinator-in-bauliche-Anlagen-13795046?jobId=621266"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Junior) Fachkoordinator:in Heizungs-, Klima-, Lüftungs- und Sanitärtechnik (w/m/d) neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: ab so",
+   "url": "https://db.jobs/de-de/Suche/-Junior-Fachkoordinator-in-Heizungs-Klima-Lueftungs-und-San-14048140?jobId=639974"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Fachspezialist:in Förder- und Maschinentechnik neu Nürnberg, München, Deutschland DB InfraGO (ehemals Station & Services) Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Fachspezialist-in-Foerder-und-Maschinentechnik-13997920?jobId=635109"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4af90d15f9b4f8b",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "possible",
+   "site": "Vodafone – Nürnberg",
+   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in A10 Center Wildau (2027)",
+   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Maschineneinrichter / Mechaniker (m/w/d) Freudenstadt",
+   "url": "https://www.tempton.de/jobs/maschineneinrichter-mechaniker"
+  },
+  {
+   "at": "2026-10-15T14:39:28+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Teamassistenz (m/w/d) Ludwigsburg",
+   "url": "https://www.tempton.de/jobs/teamassistenz-11"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "AI Security Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineer II (Intern) – United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior ASIC Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "ASIC Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Leader, Hardware Engineering",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=yHCxBedNgBAEGcAx11dt%2Feo6BvMLdJAkedLQCrErLNM%3D"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Mechanical Engineer Wilton, CT, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-mechanical-engineer-j00354362"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Gestionnaire Paie Administration du personnel F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/gestionnaire-paie-administration-du-personnel-f-h-ref-2026-28072"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Responsable d’interventions Site Nucléaire F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-dinterventions-site-nucleaire-f-h-ref-2026-28071"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "STAGE 2027 – Technicien Bureau Etudes Mécaniques F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-2027-technicien-bureau-etudes-mecaniques-f-h-ref-2026-28070"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "STAGE 2027 – Ingénieur Bureau Etudes Mécaniques (F/H) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-2027-ingenieur-bureau-etudes-mecaniques-f-h-f-h-ref-2026-28069"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Chargé(e) de Compliance & Support Export Control – F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/chargee-de-compliance-support-export-control-f-h-ref-2026-28036"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Contrôleur CND – Déplacement UK F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/controleur-cnd-deplacement-uk-f-h-ref-2026-28063"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Inspecteur qualité site F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/inspecteur-qualite-site-f-h-ref-2026-28058"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Responsable Qualité de la BL Constructions neuves F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-qualite-de-la-bl-constructions-neuves-f-h-ref-2026-28057"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Ingénieur Méthodes Qualité / CND F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-methodes-qualite-cnd-f-h-ref-2026-28021"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Shipping/Recieving Clerk",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Shipping-and-Recieving-Clerk_R00262114?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Engineer - Hardware Test",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Engineer---Hardware-Test_R00256404?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Penetanguishene-Ontario-CA/Production-Supervisor_R00260318?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792075115957"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019740"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019740"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) elektrisch 92242 Hirschau, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZwIRsT-instandhalter-mwd-elektrisch_92242-hirschau-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90459 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1eWnGj-bilanzbuchhalter-mwd-zur-direktvermittlung_90459-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 91126 Schwabach 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2raW1U-finanzbuchhalter-mwd-zur-direktvermittlung_91126-schwabach"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 91126 Schwabach 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2n3WKe-finanzbuchhalter-mwd-zur-direktvermittlung_91126-schwabach"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90459 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10eXao-bilanzbuchhalter-mwd-zur-direktvermittlung_90459-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-15T14:39:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Controller (m/w/d) zur Direktvermittlung 90451 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zd1yfo-controller-mwd-zur-direktvermittlung_90451-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Forward Deployed Engineer (Principal)",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-UT-Remote-Location/Forward-Deployed-Engineer--Principal-_R027000?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Contract Manager Real Estate & Facilities",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067023&jobId=119037"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Apply",
+   "url": "https://careers.tennet.eu/en_US/careers/ApplicationMethods?jobId=119037"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=tLEqk6SU2jA%2BHFV5ObGwBUOBaW%2BOnJ8QDoxHBWzwCNQ%3D"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Site Digital IT Manager Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Manager",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Quality Assurance Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Kavelstorf Ausbildung zum Elektroniker für Betriebstechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/68133266/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-w-m-d-f%C3%BCr-2027-"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Buchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 09496 Marienberg Rechnungswesen & Finanzen 09496 Marienberg vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-buchhaltung-m-w-d-27"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) | Görlitz (Rechnungswesen & Finanzen) in 02828 Görlitz Rechnungswesen & Finanzen 02828 Görlitz Homeoffice möglich vor 16 Stun",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-goerlitz"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Marienberg",
+   "url": "https://jobs.de.dis-ag.com/suche/in-marienberg"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-buchhaltung-m-w-d-27/bewerben"
+  },
+  {
+   "at": "2026-10-15T14:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auf WhatsApp teilen",
+   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fmitarbeiter-buchhaltung-m-w-d-27%2F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T14:28:29+00:00",
+ "last_run": "2026-10-15T14:40:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408922
 }
