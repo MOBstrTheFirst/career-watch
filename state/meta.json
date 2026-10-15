@@ -1,364 +1,7 @@
 {
- "alerts": 1370,
+ "alerts": 1389,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "DB Engineering & Consulting GmbH",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "possible",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Werkstudent:in Backoffice Qualifizierungsmanagement",
-   "url": "https://db.jobs/service/search/de-de/5441588?country=Deutschland&qli=true&query=&location=N%C3%BCrnberg&targetGroup=&sort=pubExternalDate_tdt&pageNum=0"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aef709bcfe1974",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "22 new text line(s), e.g. Parkschiene flach / hoch (Set) – 1 Set (= 2 Stück)",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Produktionsingenieur (m/w/d) Meerbusch",
-   "url": "https://www.tempton.de/jobs/produktionsingenieur-1"
-  },
-  {
-   "at": "2026-10-15T12:54:37+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Druckerhelfer (m/w/d) Neutraubling",
-   "url": "https://www.tempton.de/jobs/druckerhelfer"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Engineer - Commercial, Chicago",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Industry Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=WIlzLKRq3ZWZVcDwckdcaT%2FaeVtVhRHk7ZWe0W36d0E%3D"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New HR Data Analyst Berlin, Germany Data and Analytics",
-   "url": "https://www.asml.com/en/careers/find-your-job/hr-data-analyst-j00354728"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Manager Customer Connectivity Veldhoven, Netherlands IT",
-   "url": "https://www.asml.com/en/careers/find-your-job/manager-customer-connectivity-j00354417"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Site Installation & Commissioning Engineer - Rail Systems (w/m/d) in Kassel Stuttgart, Wolfsburg Products & Systems Engineering Befristet Berufserfahr",
-   "url": "https://www.capgemini.com/de-de/jobs/556343-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Initiativbewerbung (w/m/d) Nuernberg, Muenchen, Frankfurt, Hamburg, Stuttgart + 1 Software Engineering Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/416006-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior GenAI Experience Engineer (w/m/d) Frankfurt am Main, Duesseldorf, Erfurt, Muenchen, Hannover + 6 Software Engineering Unbefristet Berufserfahre",
-   "url": "https://www.capgemini.com/de-de/jobs/513624-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "AI Solutions Architect Defense (w/m/d) Duesseldorf, Stuttgart, Koeln, Hamburg, Frankfurt + 9 Architecture Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/381040-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Ingeniero Industrial y Ergonomía Jr",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Celaya-Gto-MX/Ingeniero-Industrial-y-Ergonoma-Jr_R00266265?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Full Stack Developer C#/.NET und PHP (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Full-Stack-Developer-C--NET-und-PHP--m-w-x-_R00261983-6?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Specialist Data Architecture (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Sr-Specialist-Data-Architecture--m-w-x-_R00261724?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Program Site Engineer",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Spring-Hill-Tennessee-US/Program-Site-Specialist_R00244979?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Controls Technician",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Concord-Ontario-CA/Controls-Technician_R00266240?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Anlagenplaner (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Anlagenplaner--m-w-x-_R00260442-5?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792068818637"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019531"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019531"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T12:54:36+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=axVglpebolA0aKlatKFY6Gy2Wk5wdxf9W61cJ0JTdvI%3D"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Commercial Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Commercial Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Senior Controls & Automation Engineer, Greensboro Browns Summit Plant",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
-   "title": "Neu Ausbildung zum Anlagenmechaniker (m/w/d) 2027 Auszubildende",
-   "url": "https://jobs.wvv.de/jobs/65425581/Ausbildung-zum-Anlagenmechaniker-m-w-d-2027"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
-   "title": "Neu Ausbildung zum Elektroniker für Betriebstechnik (m/w/d) 2027 Auszubildende",
-   "url": "https://jobs.wvv.de/jobs/65426086/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-m-w-d-2027"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
-   "title": "Neu Ausbildung zum Geomatiker/Vermessungstechniker (m/w/d) 2027 Auszubildende",
-   "url": "https://jobs.wvv.de/jobs/65427486/Ausbildung-zum-Geomatiker-Vermessungstechniker-m-w-d-2027"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Spremberg Ausbildung zum Elektroniker für Betriebstechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
-   "url": "https://actemium.career.softgarden.de/jobs/68128536/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-w-m-d-f%C3%BCr-2027"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kanzleiassistenz (m/w/d) (Büroverwaltung) in 10117 Berlin Büroverwaltung 10117 Berlin vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/kanzleiassistenz-m-w-d-1"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Procurement Expert Digitalisation (m/w/d) (Büroverwaltung) in 24143 Kiel Büroverwaltung 24143 Kiel Homeoffice möglich vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/procurement-expert-digitalisation-m-w-d"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/kanzleiassistenz-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-15T12:56:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auf WhatsApp teilen",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fkanzleiassistenz-m-w-d-1%2F"
-  },
-  {
-   "at": "2026-10-15T13:10:07+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:10:07+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:10:07+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:10:07+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:10:07+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
   {
    "at": "2026-10-15T13:10:07+00:00",
    "kind": "possible",
@@ -3501,12 +3144,369 @@
    "site": "DIS AG",
    "title": "Auf WhatsApp teilen",
    "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fmitarbeiter-buchhaltung-m-w-d-27%2F"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Intern Cost and Value Stream Engineering (m/w/d)",
+   "url": "https://jobs.bsh-group.de/45861-intern-cost-and-value-stream-engineering-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Lead HRBP",
+   "url": "https://careers.geaerospace.com/global/en/job/R5039042/Lead-HRBP"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028475423"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028475423"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T14:55:11+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Sr. EHS Specialist",
+   "url": "https://leggett.com/careers/search?posting=36563"
+  },
+  {
+   "at": "2026-10-15T14:54:51+00:00",
+   "kind": "new",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Leitung* Zentrale Instandsetzung",
+   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=376"
+  },
+  {
+   "at": "2026-10-15T14:54:51+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4afa74178b4c710",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T14:54:51+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Richtungshinweis Bodenschild",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Software Engineer (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal Software Engineer (Security & Policy Platform) (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Solutions Engineer - Americas Service Provider - ThousandEyes (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Leader, Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=2gRxOMic5OxqUex7mJOLS07SEEH%2BdIYneb0nygWwdog%3D"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "HR Specialist (m/w/d) in Kassel Wolfsburg, Muenchen Products & Systems Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/564337-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Organisationsberater (w/m/d) in München Muenchen, Wolfsburg Manufacturing & Operations Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/541072-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "NVH Ingenieur (w/m/d) in München Muenchen, Wolfsburg Manufacturing & Operations Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/575411-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Business Owner C Place (w/m/d) in München Muenchen, Wolfsburg Manufacturing & Operations Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/575408-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Fertigungssteuerer (m/w/d) in Kassel Wolfsburg Products & Systems Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/562417-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Logistikkoordinator (m/w/d) in Kassel und München Wolfsburg, Muenchen Products & Systems Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/564058-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Strategischer Einkäufer (m/w/d) in Kassel und München Wolfsburg, Muenchen Products & Systems Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/564061-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792076016539"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019756"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019756"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90459 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1vF6RY-bilanzbuchhalter-mwd-zur-direktvermittlung_90459-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91275 Auerbach in der Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1tugSB-produktionsmitarbeiter-mwd_91275-auerbach-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Konstruktionsmechaniker (m/w/d) 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2dY8z7-konstruktionsmechaniker-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Betriebsschlosser (m/w/d) 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2ileHT-betriebsschlosser-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 92256 Hahnbach, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1aS6q7-maschinenbediener-mwd_92256-hahnbach-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kaufmann für Spedition- und Logistikdienstleistung (m/w/d) 92269 Fensterbach 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/VpbP3-kaufmann-fuer-spedition-und-logistikdienstleistung-mwd_92269-fensterbach"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1HXbsN-produktionsmitarbeiter-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "MAG-Schweißer (m/w/d) in Sulzbach-Rosenberg 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/qoeJM-mag-schweisser-mwd-in-sulzbach-rosenberg_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verfahrensmechaniker (m/w/d) 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z6FPhl-verfahrensmechaniker-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maler Lackierer bis 22 € brutto (m/w/d) 92286 Rieden, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2eKO3p-maler-lackierer-bis-22-euro-brutto-mwd_92286-rieden-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kfz-Mechatroniker (m/w/d) 92224 Amberg, Oberpfalz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ugWn9-kfz-mechatroniker-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 93092 Barbing 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1RdCAx-maschinenbediener-mwd_93092-barbing"
+  },
+  {
+   "at": "2026-10-15T14:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Controller (m/w/d) zur Direktvermittlung 90451 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/lUHeN-controller-mwd-zur-direktvermittlung_90451-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=akwIVoEqGdkhkQwTjPQuw70GrKBJHLKpH0qXHwFvIPs%3D"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Sales Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Sales Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Procter & Gamble - Sales Internship - Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bauleiter / Richtmeister Stahlbau (m/w/d) (Bau & Immobilien) in 64293 Darmstadt Bau & Immobilien 64293 Darmstadt vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bauleiter-richtmeister-stahlbau-m-w-d"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Energieanlagenelektroniker (m/w/d) (Bau & Immobilien) in 22844 Norderstedt Bau & Immobilien 22844 Norderstedt vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/energieanlagenelektroniker-m-w-d-1"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Darmstadt",
+   "url": "https://jobs.de.dis-ag.com/suche/in-darmstadt"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bauleiter-richtmeister-stahlbau-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-15T14:54:41+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auf WhatsApp teilen",
+   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fbauleiter-richtmeister-stahlbau-m-w-d%2F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T14:40:13+00:00",
+ "last_run": "2026-10-15T14:55:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408922
 }
