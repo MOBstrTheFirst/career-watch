@@ -1,490 +1,7 @@
 {
- "alerts": 681,
+ "alerts": 707,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T05:11:25+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=4Wa25%2BRXjkSG4V2JYgJ8JQSQEYpiZNRfwNZG3PFgNHM%3D"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "text",
-   "site": "Jaeger Medical – Höchberg",
-   "title": "8 new text line(s), e.g. Do Not Sell My Personal Information",
-   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Consultant - Energy & Carbon Services",
-   "url": "https://careers.abb/global/en/job/JR00047699/Consultant-Energy-Carbon-Services"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Engineering Internship, Summer 2027",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Engineering Manager",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:09:49+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Supply Chain Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463648"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463648"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Junior Projektingenieur (m/w/d) Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Junior Projektingenieur (m/w/d) bundesweit",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:26:25+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - DC, AC Semiconductor Device Characterization and Assessment (f/m/div) München HRC1842444_1",
-   "url": "https://jobs.infineon.com/careers/job/563808972197892"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Jetzt bewerben",
-   "url": "https://jobs.infineon.com/careers/apply?pid=563808972197892"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Find out",
-   "url": "https://www.infineon.com/cms/en/careers/application/application-students"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Discover",
-   "url": "https://www.infineon.com/cms/en/careers/students"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Diversity & Inclusion",
-   "url": "https://www.infineon.com/cms/en/careers/diversity-and-inclusion"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student / Internship – RTL Design & SPICE Simulation Automation (f/m/div) München HRC1800886 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971995411"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Application Engineer Automotive MOSFET (f/m/div) München HRC1831761",
-   "url": "https://jobs.infineon.com/careers/job/563808972150709"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - ASIC Product Marketing and Business Intelligence (f/m/div) - HRC1807752 München HRC1807752",
-   "url": "https://jobs.infineon.com/careers/job/563808972051781"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Microcontroller Communication (f/m/div) München HRC1762440",
-   "url": "https://jobs.infineon.com/careers/job/563808971864426"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Application Engineering (f/m/div) München HRC1815624",
-   "url": "https://jobs.infineon.com/careers/job/563808972073549"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Device Analysis (f/m/div) Dresden HRC1792485 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971981111"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div) München HRC1821880",
-   "url": "https://jobs.infineon.com/careers/job/563808972115278"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Lead Management - Digital Demand Generation & Digital Transformation (f/m/div) München (Deutschland) HRC1700208",
-   "url": "https://jobs.infineon.com/careers/job/563808971493296"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Working Student - Performance Marketing (f/m/div) München HRC1802906",
-   "url": "https://jobs.infineon.com/careers/job/563808972013606"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ac63ebaff727f6",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Pflichtpraktikant (m/w/d) im Bereich Operations Management – Aufbau der Prozesslandschaft",
-   "url": "https://jobs.testo.com/4443-pflichtpraktikant-m-w-d-im-bereich-operations-management-aufbau-der-prozesslandschaft/de/job.html"
-  },
-  {
-   "at": "2026-10-15T05:26:16+00:00",
-   "kind": "text",
-   "site": "UG Systems",
-   "title": "28 new text line(s), e.g. Deutsch",
-   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Splunk Solutions Engineer (Intern) - United States",
-   "url": "https://careers.cisco.com/global/en/job/2028084/Splunk-Solutions-Engineer-Intern-United-States"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2028084EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=9rzQEidYKuI8oqIW4bbJukI%2FpMXnB2KVkTAtTdIkWm4%3D"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Analyst, System Administration",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Analyst--System-Administration_R00263962?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Analyst, System Administration",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Analyst--System-Administration_R00263938?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792041839964"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019148"
-  },
-  {
-   "at": "2026-10-15T05:26:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019148"
-  },
-  {
-   "at": "2026-10-15T05:24:51+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=Py4p48WZprGvpj9d0ZW9yuwOkgDBGo4%2Fd%2ByAJsYlDUI%3D"
-  },
-  {
-   "at": "2026-10-15T05:24:51+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Dortmund",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Dortmund-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Dortmund-NW-44135/1445954233"
-  },
-  {
-   "at": "2026-10-15T05:24:51+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Wuppertal",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Wuppertal-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Wuppertal-NW-42103/1445958033"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463759"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463759"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:49+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:06+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ac79da1ab969e2",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior AI Researcher, AISWP (Hybrid)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior Engineering Program Manager",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Legal Rising 3L (Intern) - United States",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Machine Learning Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Industry Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior Machine Learning Engineer, AISWP (Hybrid)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Account Executive - Architecture-IMI (Internet and Mass Infrastructure)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Principal AI Researcher, AISWP (Hybrid)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior Equipment Engineer (Plasma)",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-Equipment-Engineer-Plasma-Kulim/24479"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=g5ri7jWgeIkEUUuxaoXQMpSeKfpEiTFwTtuj6rdD61E%3D"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New APAC Treasury Specialist Hwasung, Korea Finance",
-   "url": "https://www.asml.com/en/careers/find-your-job/apac-treasury-specialist-j00355273"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "Witron Logistik + Informatik",
-   "title": "Dokumentation zur Fehlerbehebung",
-   "url": "https://careers.witron.com/cdn-cgi/challenge-platform/help"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792042744084"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019192"
-  },
-  {
-   "at": "2026-10-15T05:41:46+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019192"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=%2Frz5xiMw5oD9sJDIEI2Bsc%2BryMOOGyxaNnX0T%2FmwGyc%3D"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "text",
-   "site": "Jaeger Medical – Höchberg",
-   "title": "6 new text line(s), e.g. Cookies Settings",
-   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Consultant (m/w/d) HR-Projektmanagement (HR & Personalwesen) in 74072 Heilbronn HR & Personalwesen 74072 Heilbronn vor 7 Stunden",
-   "url": "https://jobs.de.dis-ag.com/consultant-m-w-d-hr-projektmanagement"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kategorie: HR & Personalwesen",
-   "url": "https://jobs.de.dis-ag.com/suche/hr-und-personalwesen"
-  },
-  {
-   "at": "2026-10-15T05:39:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Heilbronn",
-   "url": "https://jobs.de.dis-ag.com/suche/in-heilbronn"
-  },
   {
    "at": "2026-10-15T05:39:40+00:00",
    "kind": "new",
@@ -3501,12 +3018,495 @@
    "site": "DIS AG",
    "title": "Auf WhatsApp teilen",
    "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Finside-sales-manager-m-w-d-21%2F"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Projektmanager (w/m/d) Rohrleitung",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Projektmanager-w-m-d-Rohrleitung/298512"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Apply",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=298512"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Werkstudent (w/m/d) - HR Payroll & Social Security",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-HR-Payroll-Social-Security/304765"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Apply",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=304765"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Künstliche Intelligenz in der Karosserieentwicklung (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028466441"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028466441"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Sachverständige*r Offshore Windenergieanlagen (m/w/d)",
+   "url": "https://jobs.tuv.com/de/job/Sachverstaendiger-Offshore-Windenergieanlagen-m_w_d-Hamburg?id=21805"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Technischer Zeichner / Technsicher Systemplaner (m/w/d) Verkehrswege Berufserfahrene Rostock Neu",
+   "url": "https://karriere.omexom.de/jobs/68112286/Technischer-Zeichner-Technsicher-Systemplaner-m-w-d-Verkehrswege"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker Facility Management (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/6172d92c-f00e-4f0d-98b6-6114a1dc05c8"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft Lagerlogistik (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000kWWaKQAW"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000kWWaKQAW"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagerhelfer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000kWoqSQAS"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000kWoqSQAS"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagermitarbeiter/in (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000kWPxOQAW"
+  },
+  {
+   "at": "2026-10-15T07:40:17+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000kWPxOQAW"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ad29c7a83e3aaf",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "possible",
+   "site": "Vodafone – Nürnberg",
+   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Konstanz (2027)",
+   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "18 new text line(s), e.g. Bodenmarkierung T-Form 50 – 40 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Maschinenbediener / Produktionsmitarbeiter (m/w/d)",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Maschinenbediener-Produktionsmitarbeiter-%28mwd%29/1447917733"
+  },
+  {
+   "at": "2026-10-15T07:39:39+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Fachkraft für Lagerlogistik (m/w/d) Sankt Katharinen",
+   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-510"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Partner Leader, Solutions Engineer, Splunk",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Security Consulting Engineer(Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Associate I, SCM Shipping",
+   "url": "https://jobs.ams-osram.com/en/job/Associate-I-SCM-Shipping-Singapore/24308"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=LXTi08KvpAxESoin135UEjfTNlYMVRyKQ8S%2BveXAUW4%3D"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792049909164"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019270"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019270"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "de engineering – Bayreuth",
+   "title": "Senior Cost Estimation Manager – Offshore-Projekte (m/w/d)",
+   "url": "https://deengineering.hr4you.org/job/view/3117"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) Glasproduktion 92729 Weiherhammer 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zbf3eQ-maschinen-und-anlagenfuehrer-mwd-glasproduktion_92729-weiherhammer"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schlosser (m/w/d) 84079 Bruckberg, Niederbayern 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1YoKzP-schlosser-mwd_84079-bruckberg-niederbayern"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 84032 Altdorf, Niederbayern 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2wtPCk-produktionsmitarbeiter-mwd_84032-altdorf-niederbayern"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) 84079 Bruckberg, Niederbayern 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2i0V3u-instandhalter-mwd_84079-bruckberg-niederbayern"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter in der Gießerei (m/w/d) 84137 Vilsbiburg 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKO2O9-mitarbeiter-in-der-giesserei-mwd_84137-vilsbiburg"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 85368 Moosburg an der Isar 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/22Gl4E-staplerfahrer-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Qualitätsprüfer (m/w/d) 84032 Altdorf, Niederbayern 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1uBg2q-qualitaetspruefer-mwd_84032-altdorf-niederbayern"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metallbauer (m/w/d) 85368 Moosburg an der Isar 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2gIR0b-metallbauer-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schreiner (m/w/d) 84028 Landshut, Isar 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2gnbKh-schreiner-mwd_84028-landshut-isar"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachlagerist (m/w/d) 84109 Wörth an der Isar 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z22fWq8-fachlagerist-mwd_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 84137 Vilsbiburg 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1FF0VT-produktionshelfer-mwd_84137-vilsbiburg"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Feinwerkmechaniker (m/w/d) 93055 Regensburg 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/25RNJE-feinwerkmechaniker-mwd_93055-regensburg"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Siemens AG Produktionsmitarbeiter (m/w/d) 93055 Regensburg 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1rHqmz-siemens-ag-produktionsmitarbeiter-mwd_93055-regensburg"
+  },
+  {
+   "at": "2026-10-15T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer Siemens AG (25€ brutto) (m/w/d) 93055 Regensburg 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/HdyGr-maschinen-und-anlagenfuehrer-siemens-ag-25euro-brutto-mwd_93055-regensburg"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=ujqsReWraBCJ5xSghjRfDVIcSTTV63kQVSUgtlHckcM%3D"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "DE",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote?yid=336"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "EN",
+   "url": "https://loewensteinmedical.com/en/career/job-openings?yid=336"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Customer Service (m/w/d) (Rechnungswesen & Finanzen) in 74189 Weinsberg Rechnungswesen & Finanzen 74189 Weinsberg Homeoffice möglich vor 9",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-customer-service-m-w-d-11"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Empfang / Office Management (m/w/d) (Büroverwaltung) in 83607 Holzkirchen Büroverwaltung 83607 Holzkirchen vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-empfang-office-management-m-w-d"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74072 Heilbronn Rechnungswesen & Finanzen 74072 Heilbronn Homeoffice möglich vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-338"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kategorie: Rechnungswesen & Finanzen",
+   "url": "https://jobs.de.dis-ag.com/suche/rechnungswesen-und-finanzen"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Weinsberg",
+   "url": "https://jobs.de.dis-ag.com/suche/in-weinsberg"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-customer-service-m-w-d-11/bewerben"
+  },
+  {
+   "at": "2026-10-15T07:39:38+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auf WhatsApp teilen",
+   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fmitarbeiter-customer-service-m-w-d-11%2F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T07:25:25+00:00",
+ "last_run": "2026-10-15T07:40:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408922
 }
