@@ -1,21 +1,7 @@
 {
- "alerts": 1611,
+ "alerts": 1613,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Sales Engineer (f/m/x)",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-15T15:10:30+00:00",
-   "kind": "possible",
-   "site": "OMICRON electronics Deutschland",
-   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
-  },
   {
    "at": "2026-10-15T15:10:30+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Magna – Veitsbronn",
    "title": "Senior Engineer - Electrical & Electronics Product & Process Technologies",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Engineer---Electrical---Electronics-Product---Process-Technologies_R00261532?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T20:08:16+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Gesundheits- und Krankenpfleger (m/w/d) im Bereich Stroke Unit mit Frühreha (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/5eaac40f-d01d-5d77-89eb-41d8c4ea248a/gesundheits-und-krankenpfleger-m-w-d-im-bereich-stroke-unit-mit-fruehreha-m-w-d"
+  },
+  {
+   "at": "2026-10-15T20:07:44+00:00",
+   "kind": "possible",
+   "site": "Vodafone – Nürnberg",
+   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Konstanz (2027)",
+   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T19:55:45+00:00",
+ "last_run": "2026-10-15T20:08:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 91,
+ "runs": 92,
  "tg_offset": 297408924
 }
