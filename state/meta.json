@@ -1,189 +1,7 @@
 {
- "alerts": 434,
+ "alerts": 445,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "8 new text line(s), e.g. You've Got A",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460976"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460976"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance technician - Pourline",
-   "url": "https://leggett.com/careers/search?posting=36475"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Technician (m/f/d)",
-   "url": "https://leggett.com/careers/search?posting=36467"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Technician (m/f/d)",
-   "url": "https://leggett.com/careers/search?posting=36430"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Electrician",
-   "url": "https://leggett.com/careers/search?posting=31162"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Mechanic - Melt Shop",
-   "url": "https://leggett.com/careers/search?posting=33637"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Industrial Maintenance Mechanic",
-   "url": "https://leggett.com/careers/search?posting=34410"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "309A/442A Electrician/Maintenance Technician",
-   "url": "https://leggett.com/careers/search?posting=36187"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Maintenance Technician",
-   "url": "https://leggett.com/careers/search?posting=36346"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Machine Operator Floater - Weekend Shift",
-   "url": "https://leggett.com/careers/search?posting=36295"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Material Handler",
-   "url": "https://leggett.com/careers/search?posting=34103"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Machine Operator",
-   "url": "https://leggett.com/careers/search?posting=34135"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Production Supervisor-3rd shift",
-   "url": "https://leggett.com/careers/search?posting=36451"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Production Supervisor-2nd Shift",
-   "url": "https://leggett.com/careers/search?posting=36409"
-  },
-  {
-   "at": "2026-10-15T01:25:05+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Attendant Technician C",
-   "url": "https://leggett.com/careers/search?posting=36138"
-  },
-  {
-   "at": "2026-10-15T01:24:34+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "MSAT Value Stream Engineer III",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:34+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "SAP BI/BW Developer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:34+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Quality Engineer – Supplier Quality",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T01:24:34+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ab04534fd972ff",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T01:24:34+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "20 new text line(s), e.g. Aluminiumrohr (Set)",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Development Architect",
-   "url": "https://careers.cisco.com/global/en/job/2020823/Solutions-Development-Architect"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020823EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=wVrIY%2BJPe9wfeukGJXs9QAC216Dvkcp0Kdm2N%2BdH0u4%3D"
-  },
-  {
-   "at": "2026-10-15T01:24:30+00:00",
-   "kind": "possible",
-   "site": "Magna – Veitsbronn",
-   "title": "Lean Manufacturing Student",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-15T01:24:30+00:00",
    "kind": "possible",
@@ -3501,12 +3319,194 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Senior Controls & Automation Engineer, Greensboro Browns Summit Plant",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463006"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463006"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:47+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:28+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:28+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:28+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:25:28+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ac0be46e587d11",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T04:25:28+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Parkschiene Flach / Hoch (Set) XXXXmm (Kundenlänge), Aluminium, blank,",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "AI Security Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineer II (Intern) – United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior ASIC Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "ASIC Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=8Rz%2FektBzO9419spUHEyKU%2FJPUa%2FRX5T%2BphmqTFBUgU%3D"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792038223494"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019141"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019141"
+  },
+  {
+   "at": "2026-10-15T04:26:13+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Fertigungsleitung (m/w/d) Windkraft im Fertigteilwerk Hamminkeln",
+   "url": "https://jobportal.max-boegl.de/Fertigungsleitung-mwd-Windkraft-im-Fertigteilwerk-Hamminke-de-j2281.html"
+  },
+  {
+   "at": "2026-10-15T04:24:37+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=VLnI8KjPHJqna1FcnvTLXOPHrQJ9VKE4KgyBpoS5qrU%3D"
+  },
+  {
+   "at": "2026-10-15T04:24:37+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Mülheim/Ruhr",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/M%C3%BClheim-an-der-Ruhr-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-M%C3%BClheimRuhr-NW-45472/1445950633"
+  },
+  {
+   "at": "2026-10-15T04:24:37+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Düsseldorf",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/D%C3%BCsseldorf-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-D%C3%BCsseldorf-NW-40217/1445886333"
+  },
+  {
+   "at": "2026-10-15T04:24:37+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Dortmund",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Dortmund-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Dortmund-NW-44137/1445885933"
+  },
+  {
+   "at": "2026-10-15T04:24:37+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Ingolstadt",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Ingolstadt-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Ingolstadt-BY-85057/1445930233"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T04:10:58+00:00",
+ "last_run": "2026-10-15T04:26:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 27,
+ "runs": 28,
  "tg_offset": 297408922
 }
