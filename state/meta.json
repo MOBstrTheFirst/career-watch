@@ -1,168 +1,7 @@
 {
- "alerts": 1510,
+ "alerts": 1521,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T14:24:32+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Teamleiter (m/w/d) Bautzen",
-   "url": "https://www.tempton.de/jobs/teamleiter-3"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior Staff Site Reliability Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "NORAS MRI products",
-   "title": "Erfahrener HF-Entwickler / RF Engineer (m/w/d) Zur Verstärkung unseres Entwicklungsteams suchen wir einen erfahrenen HF-Spezialisten, der die RF-Entwi",
-   "url": "https://noras.de/job/erfahrener-hf-entwickler-rf-engineer-m-w-d"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "NORAS MRI products",
-   "title": "Erfahrener SolidWorks-Konstrukteur / Mechanical Design Engineer (m/w/d) Zur Verstärkung unseres Entwicklungsteams suchen wir einen erfahrenen Konstruk",
-   "url": "https://noras.de/job/erfahrener-solidworks-konstrukteur-mechanical-design-engineer-m-w-d"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=wojbSnibHW%2BjurRTX71us%2B3pPNPbzQTlAIitKQfnzaE%3D"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­nical Project Manager (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 80.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior Pr",
-   "url": "https://touch.ferchau.com/de/de/job/524434/technical-project-manager"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­sche Leitung für Werks­aufbau (m/w/d) in Direkt­ver­mitt­lung Job Vor Ort Vollzeit 80.000 - 120.000 € Neustadt-Glewe, Deutsch­land Direktvermi",
-   "url": "https://touch.ferchau.com/de/de/job/520195/technische-leitung-fuer-werksaufbau-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Busi­ness Archi­tekt (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 90.000 € Berlin, Deutsch­land Informationstechnik Senior Professionals ohne Personalvera",
-   "url": "https://touch.ferchau.com/de/de/job/524431/business-architekt"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mitar­beiter Reise­ma­nage­ment (m/w/d) Neu Job Hybrid Vollzeit 40.000 - 47.000 € Schwä­bisch Hall, Deutsch­land Backoffice Young Professionals Profes",
-   "url": "https://touch.ferchau.com/de/de/job/524425/mitarbeiter-reisemanagement"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Abtei­lungs­as­sis­tenz (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Kassel, Deutsch­land Elektrotechnik Informationstechnik Maschinenbau Young ",
-   "url": "https://touch.ferchau.com/de/de/job/524311/abteilungsassistenz"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­nical Manager (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 80.000 € Hamburg, Deutsch­land Informationstechnik Weitere Young Professionals Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/524422/technical-manager"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Lead Engi­neer Phar­ma­an­lagen (m/w/d) Neu Job Vor Ort Vollzeit 78.000 - 89.000 € Schopf­heim, Deutsch­land Maschinenbau Professionals Senior Profess",
-   "url": "https://touch.ferchau.com/de/de/job/524419/lead-engineer-pharmaanlagen"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Senior Specia­list Data Gover­nance & Data Archi­tec­ture (m/w/d) Job Hybrid Vollzeit 61.000 - 75.000 € Graz, Öster­reich Informationstechnik Weitere ",
-   "url": "https://touch.ferchau.com/de/de/job/520240/senior-specialist-data-governance-data-architecture"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Produkt­de­si­gner P&ID (m/w/d) Neu Job Vor Ort Vollzeit 42.000 - 52.000 € Bremen, Deutsch­land Weitere Professionals ohne Personalveran",
-   "url": "https://touch.ferchau.com/de/de/job/524413/technischer-produktdesigner-pid"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Area Sales Manager Maschi­nenbau (m/w/d) in Direkt­ver­mitt­lung Job Vor Ort Vollzeit 90.000 - 120.000 € Hamburg, Deutsch­land Direktvermittlung Backo",
-   "url": "https://touch.ferchau.com/de/de/job/507208/area-sales-manager-maschinenbau-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "AI Engi­neer (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 60.000 € Graz, Öster­reich Informationstechnik Weitere Professionals Senior Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/524410/ai-engineer"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Offshore-Funda­mente (m/w/d) Neu Job Vor Ort Vollzeit 52.000 - 62.000 € Leer, Deutsch­land Maschinenbau Weitere Professionals ohne Perso",
-   "url": "https://touch.ferchau.com/de/de/job/524407/konstrukteur-offshore-fundamente"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Labo­rant Wasser­ana­lyse Pharma (m/w/d) Job Vor Ort Vollzeit 49.000 - 63.000 € Biberach, Deutsch­land Pharma und Lifescience Young Professionals Prof",
-   "url": "https://touch.ferchau.com/de/de/job/523726/laborant-wasseranalyse-pharma"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT Engi­neer Produk­tion (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 55.000 € Graz, Öster­reich Informationstechnik Weitere Professionals Senior Professi",
-   "url": "https://touch.ferchau.com/de/de/job/524404/it-engineer-produktion"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT Infra­struc­ture Project­lead (m/w/d) Neu Job Hybrid Vollzeit 56.000 - 65.000 € Graz, Öster­reich Informationstechnik Weitere Professionals Senior ",
-   "url": "https://touch.ferchau.com/de/de/job/524401/it-infrastructure-projectlead"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Quali­täts­prüfer Waren­ein­gang/Waren­aus­gang (m/w/d) Neu Job Vor Ort Vollzeit 38.000 - 52.000 € Görlitz, Deutsch­land Maschinenbau Professionals Se",
-   "url": "https://touch.ferchau.com/de/de/job/524398/qualitaetspruefer-wareneingang-warenausgang"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Schiff­bau­in­ge­nieur Konstruk­tion (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 70.000 € Emden, Deutsch­land Schiffbau und Meerestechnik Professionals m",
-   "url": "https://touch.ferchau.com/de/de/job/524392/schiffbauingenieur-konstruktion"
-  },
-  {
-   "at": "2026-10-15T14:24:43+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Sach­be­ar­beiter Arbeits­vor­be­rei­tung (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 55.000 € Görlitz, Deutsch­land Maschinenbau Professi",
-   "url": "https://touch.ferchau.com/de/de/job/524389/technischer-sachbearbeiter-arbeitsvorbereitung"
-  },
   {
    "at": "2026-10-15T14:24:43+00:00",
    "kind": "new",
@@ -3501,12 +3340,173 @@
    "site": "Conntec GmbH",
    "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
    "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028477528"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028477528"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T16:54:06+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:41+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:41+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:41+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4b0552429d51f9a",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Software Engineer (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal Software Engineer (Security & Policy Platform) (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager - Mobility",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Staff Site Reliability Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=ihD5oXL2Gcks%2FvIyhOMou%2FpDsFQsAxangtTknFE7gVA%3D"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792083154213"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019775"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019775"
+  },
+  {
+   "at": "2026-10-15T16:53:37+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Account Executive - Central Commercial",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Minnesota-United-States-of-America/Account-Executive-Midwest_71007756?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T16:53:32+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=OR%2FMQxNWjhqjuhYEBHZvpqkW4Hv%2BBDSDZyc%2F6YeJ1qY%3D"
+  },
+  {
+   "at": "2026-10-15T16:53:32+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Manager",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:32+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Quality Assurance Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:53:32+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T16:41:38+00:00",
+ "last_run": "2026-10-15T16:57:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408922
 }
