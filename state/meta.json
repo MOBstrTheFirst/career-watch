@@ -1,245 +1,7 @@
 {
- "alerts": 1464,
+ "alerts": 1479,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T13:56:40+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019573"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=c66F7rRGxfLw2wojidH3aP4GE8uJteyd%2FPl00w81ITQ%3D"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Warehouse/Internal Logistics Operator",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Warehouse/Internal Logistics Operator",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Commercial Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Commercial Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Hoisting Service Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Hoisting Service Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Site Digital IT Manager Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Engineering Manager",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Supply Chain Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Eisenhüttenstadt Ausbildung zum Elektroniker für Betriebstechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
-   "url": "https://actemium.career.softgarden.de/jobs/68131141/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-w-m-d-f%C3%BCr-2027-"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Formenschlosser (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/6c289b89-c322-422c-b5be-2fadd90bee9a?cHash=b589b49933ac5629ad7c5b9eef7299b93f3b1b9c21f006f38285ac1a87f14238"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "DEU_Fertigungsmitarbeiter m/w/d - Montage und Lagertätigkeiten - ERL F80 (Technik & Instandhaltung) in 91056 Erlangen Technik & Instandhaltung 91056 E",
-   "url": "https://jobs.de.dis-ag.com/deu-fertigungsmitarbeiter-m-w-d-montage-und-lagertaetigkeiten-erl-f80"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Erlangen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-erlangen"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/deu-fertigungsmitarbeiter-m-w-d-montage-und-lagertaetigkeiten-erl-f80/bewerben"
-  },
-  {
-   "at": "2026-10-15T13:54:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auf WhatsApp teilen",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fdeu-fertigungsmitarbeiter-m-w-d-montage-und-lagertaetigkeiten-erl-f80%2F"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Chef de Projet Systèmes (F/H) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155768629-chef-de-projet-systemes-f-h-"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Conception Mécanique (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155767364-ingenieur-conception-mecanique-h-f-"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "8 new text line(s), e.g. You've Got A",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028474820"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028474820"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Sales Representative",
-   "url": "https://leggett.com/careers/search?posting=36490"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Inside Sales Representative",
-   "url": "https://leggett.com/careers/search?posting=36445"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Sales Manager",
-   "url": "https://leggett.com/careers/search?posting=36089"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Senior Sales Manager",
-   "url": "https://leggett.com/careers/search?posting=36093"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Senior Sales Manager",
-   "url": "https://leggett.com/careers/search?posting=36095"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Outside Sales Repersentiative",
-   "url": "https://leggett.com/careers/search?posting=36117"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Outside Sales Repersentiative",
-   "url": "https://leggett.com/careers/search?posting=36247"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Metal Finisher",
-   "url": "https://leggett.com/careers/search?posting=32395"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Customer Service Representative",
-   "url": "https://leggett.com/careers/search?posting=35799"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Customer Service Clerk (m/f/d)",
-   "url": "https://leggett.com/careers/search?posting=36463"
-  },
-  {
-   "at": "2026-10-15T14:10:14+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Finish Sprayer",
-   "url": "https://leggett.com/careers/search?posting=35807"
-  },
   {
    "at": "2026-10-15T14:10:14+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "BIOTRONIK – Erlangen",
    "title": "Anmelden",
    "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=idQCzk1FzlypVs5bfbkpFWPVqnChX6E4VDiFQQE8pyc%3D"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Trainer – Electrical Power Engineering MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Application Engineer for Primary Application MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To actively support Primary Applications in the Middle East, Africa, and Turkey (MEA) sales region, we are looking for a highly competent and dynamic ",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Training & Application Engineer Protection / Digital Protection Testing (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To strengthen our team in Stafford, UK, we are looking for a Training & Application Engineer Protection / Digital Protection Testing",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales & Application Engineer - US Central East (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Support & Application Engineer UK (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To support our team based in Stafford, UK we are currently looking for a Technical Support & Application Engineer (Electrical Engineering).",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales Engineer (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur système IVVQ (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155800649-ingenieur-systeme-ivvq-h-f-"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur logiciel embarqué H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155799810-ingenieur-logiciel-embarque-h-f"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur système optronique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155799509-ingenieur-systeme-optronique-h-f-"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028476925"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028476925"
+  },
+  {
+   "at": "2026-10-15T16:11:03+00:00",
+   "kind": "possible",
+   "site": "Zeitgeist Engineering",
+   "title": "Jobs & Karriere in Nürnberg | zeitgeist engineering",
+   "url": "https://zeitgeist-engineering.de/unternehmen/jobs/"
+  },
+  {
+   "at": "2026-10-15T16:09:23+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:09:23+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:09:23+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:09:23+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4b014a648dc1383",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Consulting Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Partner Leader, Solutions Engineer, Splunk",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant University Recruiting (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-university-recruiting-m-w-d_251563-1702336.html"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Executive Assistant der Geschäftsführung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/executive-assistant-der-geschaeftsfuehrung-m-w-d_251563-1664448.html"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Controller öffentliche Aufträge (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/controller-oeffentliche-auftraege-m-w-d_251563-1684161.html"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=bT2VGjzxMK20I4LsPyrMERYg%2BnnLAr%2FiAFPU3XvNgrM%3D"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "System Install Engineer & Coordinator",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "possible",
+   "site": "Koenig & Bauer",
+   "title": "Praktikum Qualitätsmanagement Lieferanten",
+   "url": "https://jobs.koenig-bauer.com/search/?createNewAlert=false&q=&locationsearch=Deutschland&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792080511500"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019771"
+  },
+  {
+   "at": "2026-10-15T16:09:31+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019771"
+  },
+  {
+   "at": "2026-10-15T16:10:00+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=LujI2zyZTzXbR%2B6Hq18UcPa23M9%2F0FHSHx0FRkCVN9c%3D"
+  },
+  {
+   "at": "2026-10-15T16:10:00+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Analog IC Layout Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Analog-IC-Layout-Engineer_R-10066800?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T16:10:00+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "8 new text line(s), e.g. Do Not Sell My Personal Information",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T15:55:24+00:00",
+ "last_run": "2026-10-15T16:11:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408922
 }
