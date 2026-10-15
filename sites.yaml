@@ -25,9 +25,12 @@ sites:
 
   # ===== Fit 10/10 =====
 
+  # FIXED (Oct 2026): plain list = 1,387 jobs worldwide, sorted by the visitor's location (US on GitHub),
+  # only 10 visible. Now filtered to Nuremberg (all fit on one page); only real job links counted.
   - name: "Cisco Optical GmbH"
-    url: "https://careers.cisco.com/global/en/search-results"
+    url: "https://careers.cisco.com/global/en/search-results?qcity=Nuremberg"
     js: true
+    link_pattern: "/global/en/job/\\d+"
     fit: 10   # Nürnberg
 
   # same page for: Diehl Defence; Diehl Metering; Diehl Aviation – Nürnberg; Diehl & Eagle-Picher; Diehl Controls – Nürnberg; Diehl Stiftung – corporate (Nürnberg HQ)
@@ -2109,10 +2112,10 @@ sites:
     url: "https://www.loeschpack.com/de/karriere/offene-stellen/"
     fit: 3   # Altendorf
 
-  # CHECK: URL is a homepage, not a job list - replace with the careers page (watched in text mode until then = more false alarms)
-  - name: "LP Montagetechnik"
-    url: "https://www.lp-montagetechnik.com/"
-    fit: 3   # Mittelfranken (city not checked)
+  # DISABLED (Oct 2026): URL is an online-shop homepage, product changes caused false alarms. Add a real careers URL to re-enable.
+  # - name: "LP Montagetechnik"
+  #   url: "https://www.lp-montagetechnik.com/"
+  #   fit: 3   # Mittelfranken (city not checked)
 
   - name: "M-net Telekommunikations"
     url: "https://m-net.csod.com/ux/ats/careersite/6/home?c=m-net"

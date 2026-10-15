@@ -7,6 +7,7 @@ When a new job link appears, you get a Telegram message with the page link and t
 - **links mode** (used when the page has job links): alerts on every *new* job link.
   Backup: if new job-like text appears (e.g. "Werkstudent … (m/w/d)") without a new link, you get a "POSSIBLE new posting" alert.
 - **text mode** (used when no job links are found): alerts on any new text line. More false alarms.
+- **noise filters**: login, page-number, filter, share and language links are ignored; changing session codes are removed from links; cookie-banner text and random codes are ignored in text mode; a text line seen in the last 14 days does not alert again.
 - **Safety warnings** (so you don't silently miss jobs): after 3 failed runs in a row, or when a page that had job links suddenly shows none, you get a WARNING message.
 - **CRASH alert**: if a whole run fails or times out, a separate GitHub job sends you a Telegram message with a link to the error log.
 - **Daily summary at 23:55 Berlin time** (also the "I'm alive" check): runs and alerts that day, every new posting grouped by company with links, possible changes, and sites with problems. **If it doesn't arrive by ~00:30, the watcher has stopped** - open the Actions tab. If GitHub starts the run late, the summary comes on the next run and says how late. Change the time with `daily_summary_time` in `sites.yaml`.

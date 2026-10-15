@@ -64,8 +64,49 @@ SKIP_URL_RE = re.compile(
     r"//x\.com|instagram\.com|youtube\.com|kununu\.com|glassdoor\.|tiktok\.com", re.I)
 # Query parameters that change on every visit (would cause fake "new" links).
 VOLATILE_PARAMS_RE = re.compile(
-    r"^(utm_.*|sid|session.*|jsessionid|token|_ga|_gl|gclid|fbclid|ts|timestamp|cache|rnd|random|src|source)$",
+    r"^(utm_.*|sid|session.*|jsessionid|phpsessid|token|_ga|_gl|gclid|fbclid|ts|timestamp|cache|rnd|random|"
+    r"src|source|_s\.crb|crb|popupopen|_|cb|nocache)$"
+    r"|.*(token|session|sessid|nonce|csrf).*",
     re.I)
+# Parameter names that may carry a job's identity: never dropped, whatever their value looks like.
+ID_PARAM_RE = re.compile(r"id$|^id|job|req|posting|position|vacanc|stelle|ref|oid", re.I)
+# Values that look like a random code (long mix of upper case, lower case and digits, e.g. "7pZcKVjU...")
+RANDOM_VALUE_RE = re.compile(r"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[A-Za-z0-9+/=%_\-]{20,}$")
+
+# Link texts that are never a job: login, page navigation, filters, sharing, language switch.
+NAV_TITLE_RE = re.compile(
+    r"(sign ?in|sign ?up|log ?in|log ?on|log ?out|anmelden|abmelden|einloggen|registrieren|register|"
+    r"mein konto|my account|my profile|mein profil|"
+    r"next|next page|previous|previous page|prev|last|last page|first|first page|"
+    r"nächste|nächste seite|vorherige|vorherige seite|vorige|vorige seite|letzte|letzte seite|erste|erste seite|"
+    r"alle filter|filter|filters|filtern|filter zurücksetzen|reset|reset filters?|alle|keine|"
+    r"share|teilen|auf \w+ teilen|share on \w+|per e-?mail (teilen|senden)|link kopieren|copy link|"
+    r"deutsch|english|englisch|german|de|en|fr|it|es|pl|cz|français|español|italiano|polski|čeština|"
+    r"zum hauptinhalt springen|skip to (main )?content|zurück nach oben|back to top|nach oben|top|"
+    r"\d{1,3}([.,]\d{3})*|[«»‹›<>←→]+)",
+    re.I)
+NAV_TITLE_PREFIX_RE = re.compile(r"^(kategorie|branche|category|standort|location|bereich|filter|ort|land|country)\s*:", re.I)
+# Button texts that usually sit next to a real job title link (dropped only if the page has real titles too).
+ACTION_TITLE_RE = re.compile(
+    r"(apply|apply now|apply online|jetzt bewerben|bewerben|online bewerben|jetzt online bewerben|"
+    r"zur bewerbung|bewerbung starten|job speichern|save job|merken|drucken|print)",
+    re.I)
+NAV_URL_RE = re.compile(
+    r"wa\.me/|whatsapp\.com|whatsapp:|t\.me/share|telegram\.me/share|/sharer|[?&]share|"
+    r"[?&]loginflowrequired=|/(login|signin|sign-in|logon|logout|anmelden|register|registrierung)(/|\?|$)|"
+    r"/checklogin(/|\?|$)", re.I)
+
+# Text-mode noise
+COOKIE_RE = re.compile(
+    r"cookie|consent|einwilligung|datenschutzeinstellung|privacy settings|tracking|"
+    r"alle akzeptieren|alle ablehnen|accept all|reject all|zustimmen|ablehnen|"
+    r"usercentrics|onetrust|cookiebot|borlabs", re.I)
+COOKIE_BOX_RE = re.compile(
+    r"cookie|consent|usercentrics|onetrust|cookiebot|borlabs|klaro|tarteaucitron|cmp-|cmpbox|gdpr|cc-window|"
+    r"cc-banner|privacy-banner", re.I)
+# Random codes inside text (hex / base64-like, 12+ chars with letters and digits)
+RANDOM_TOKEN_RE = re.compile(r"\b(?=[A-Za-z0-9+/=_\-]*\d)(?=[A-Za-z0-9+/=_\-]*[A-Za-z])[A-Za-z0-9+/=_\-]{12,}\b")
+FORGET_LINE_AFTER_DAYS = 14  # text lines seen within this many days do not alert again
 
 TG_API = os.getenv("TELEGRAM_API_BASE", "https://api.telegram.org")
 FAIL_ALERT_AFTER = 3        # consecutive failed runs before you get warned
@@ -82,13 +123,69 @@ def short_hash(s):
     return hashlib.sha1(s.encode("utf-8")).hexdigest()[:10]
 
 
+JOB_KEY_RE = re.compile(r"job|req|posting|position|vacanc|stelle", re.I)
+
+
+def _volatile(k, v):
+    if JOB_KEY_RE.search(k):                              # may identify the job: always keep
+        return False
+    if VOLATILE_PARAMS_RE.match(k):
+        return True
+    if ID_PARAM_RE.search(k):
+        return False
+    if RANDOM_VALUE_RE.match(v):                          # random code, e.g. a session key
+        return True
+    if re.fullmatch(r"1[5-9]\d{8}(\d{3})?", v):           # a Unix timestamp (seconds or ms)
+        return True
+    return False
+
+
 def normalize_url(url):
     url = re.sub(r";jsessionid=[^?#]*", "", url, flags=re.I)
     p = urlparse(url)
     query = urlencode([(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True)
-                       if not VOLATILE_PARAMS_RE.match(k)])
+                       if not _volatile(k, v)])
     path = p.path.rstrip("/") or "/"
     return urlunparse((p.scheme, p.netloc.lower(), path, "", query, ""))
+
+
+def _clean_title(t):
+    t = re.sub(r"[\s|•·:,.!?()\[\]\"'„“”«»‹›<>←→-]+$", "", t or "")
+    return re.sub(r"^[\s|•·«»‹›<>←→-]+", "", t).strip() or (t or "").strip()
+
+
+def is_nav_link(url, title):
+    """True for links that are never a job (login, paging, filters, sharing, language)."""
+    t = _clean_title(title)
+    if NAV_URL_RE.search(url):
+        return True
+    if t and t != url and (NAV_TITLE_RE.fullmatch(t) or NAV_TITLE_PREFIX_RE.match(t)):
+        return True
+    return False
+
+
+def is_action_link(title):
+    t = _clean_title(title)
+    return bool(t) and bool(ACTION_TITLE_RE.fullmatch(t))
+
+
+def filter_links(links):
+    """Removes navigation links; removes 'Apply now' buttons if the page also has real job titles."""
+    links = {u: t for u, t in links.items() if not is_nav_link(u, t)}
+    actions = {u for u, t in links.items() if is_action_link(t)}
+    if actions and len(links) - len(actions) >= len(actions):
+        links = {u: t for u, t in links.items() if u not in actions}
+    return links
+
+
+def clean_line(ln):
+    """Text line used for change detection, or None if it is noise."""
+    if COOKIE_RE.search(ln) and not JOB_TEXT_RE.search(ln):
+        return None
+    ln = RANDOM_TOKEN_RE.sub("#", ln)
+    if len(re.sub(r"[#\W_]", "", ln)) < 3:
+        return None
+    return ln
 
 
 def load_yaml(path):
@@ -128,7 +225,7 @@ def legacy_state():
 
 # ----------------------------------------------------------------------------- parsing
 def parse_pages(pages, page_url, link_re):
-    """pages = list of (html, base_url). Returns (links dict, text lines list, text char count)."""
+    """pages = list of (html, base_url). Returns (links, cleaned text lines, text char count, cleaned->raw line)."""
     links, lines = {}, []
     own = normalize_url(page_url)
     for raw_html, base in pages:
@@ -153,11 +250,25 @@ def parse_pages(pages, page_url, link_re):
                 links[nu] = title
         for tag in soup(["script", "style", "noscript", "svg", "template"]):
             tag.decompose()
+        chars = len(soup.get_text())
+        for tag in soup.find_all(lambda t: t.name not in ("html", "body", "main") and
+                                 COOKIE_BOX_RE.search(" ".join([t.get("id") or ""] + (t.get("class") or [])))):
+            if tag.decomposed:
+                continue
+            if len(tag.get_text()) < max(3000, chars // 3):     # never remove a big part of the page
+                tag.decompose()
         for ln in soup.get_text("\n").splitlines():
             ln = " ".join(ln.split())
             if len(ln) >= 3:
                 lines.append(ln)
-    return links, lines, sum(len(l) for l in lines)
+    links = filter_links(links)
+    total = sum(len(l) for l in lines)
+    raw = {}                                   # cleaned line -> original line (for old saved state)
+    for l in lines:
+        c = clean_line(l)
+        if c:
+            raw.setdefault(c, l)
+    return links, list(raw), total, raw
 
 
 # ----------------------------------------------------------------------------- fetching
@@ -252,9 +363,9 @@ async def _scan_site(site, defaults, client, pool, prev):
             res = parse_pages(await fetch_http(client, url), url, link_re)
             # In auto mode a page with no job links is retried in the browser.
             if js == "false" and good(res):
-                return {"links": res[0], "lines": res[1], "used_js": False}
+                return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
             if js == "auto" and res[0]:
-                return {"links": res[0], "lines": res[1], "used_js": False}
+                return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
             if js == "false":
                 errors.append(f"page nearly empty ({res[2]} chars)")
         except Exception as e:
@@ -268,7 +379,7 @@ async def _scan_site(site, defaults, client, pool, prev):
             browser = await pool.get()
             res = parse_pages(await fetch_browser(browser, url, wait_for), url, link_re)
             if good(res):
-                return {"links": res[0], "lines": res[1], "used_js": True}
+                return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": True}
             errors.append(f"browser: page nearly empty ({res[2]} chars) - blocked or not loaded")
         except Exception as e:
             errors.append(f"browser: {type(e).__name__}: {str(e).splitlines()[0] if str(e) else ''}"[:200])
@@ -325,9 +436,20 @@ def compare(site, prev, cur, mode):
     """Returns (message or None, new_state)."""
     name, url = site["name"], site["url"]
     ts = now_iso()
-    old_links = prev.get("links", {})
-    old_lines = set(prev.get("line_hashes", []))
-    first_run = "line_hashes" not in prev
+    # re-apply the current URL cleaning to remembered links (so a rule change never causes fake "new" links)
+    old_links = {}
+    for u, v in prev.get("links", {}).items():
+        nu = normalize_url(u)
+        if nu in old_links:
+            v = dict(v, first_seen=min(v["first_seen"], old_links[nu]["first_seen"]),
+                     last_seen=max(v["last_seen"], old_links[nu]["last_seen"]))
+        old_links[nu] = v
+    first_run = "line_hashes" not in prev and "line_seen" not in prev
+    today = (datetime.now(timezone.utc).date() - datetime(1970, 1, 1).date()).days
+    # text-line memory: hash -> day last seen (old state only had the last run's hashes)
+    line_seen = dict(prev.get("line_seen", {}))
+    for h in prev.get("line_hashes", []):
+        line_seen.setdefault(h, today)
 
     cur_links, cur_lines = cur["links"], cur["lines"]
     use_links = mode == "links" or (mode == "auto" and len(cur_links) > 0)
@@ -344,16 +466,20 @@ def compare(site, prev, cur, mode):
     cutoff = (datetime.now(timezone.utc) - timedelta(days=FORGET_LINK_AFTER_DAYS)).isoformat()
     links_state = {u: v for u, v in links_state.items() if v["last_seen"] >= cutoff}
 
-    seen_line = set()
-    added_lines = []
+    # text lines: alert only for lines not seen in the last FORGET_LINE_AFTER_DAYS days
+    added_lines, this_run = [], set()
     for ln in cur_lines:
         h = short_hash(ln)
-        if h not in old_lines and h not in seen_line:
+        raw_h = short_hash(cur.get("raw", {}).get(ln, ln))
+        if h not in line_seen and raw_h not in line_seen and h not in this_run:
             added_lines.append(ln)
-        seen_line.add(h)
+        this_run.add(h)
+    for h in this_run:
+        line_seen[h] = today
+    line_seen = {h: d for h, d in line_seen.items() if today - d <= FORGET_LINE_AFTER_DAYS}
 
     new_state = {
-        "name": name, "links": links_state, "line_hashes": sorted(seen_line),
+        "name": name, "links": links_state, "line_seen": dict(sorted(line_seen.items())),
         "mode": "links" if use_links else "text", "needs_js": cur["used_js"],
         "fails": 0, "last_ok": ts, "last_error": None,
     }
@@ -406,7 +532,7 @@ def site_health(state, sites):
         st = state.get(s["url"], {})
         if st.get("fails", 0) > 0:
             failing.append(f"• {esc(s['name'])} (failed {st['fails']}x: {esc((st.get('last_error') or '')[:100])})")
-        elif "line_hashes" in st:
+        elif "line_seen" in st or "line_hashes" in st:
             ok += 1
         else:
             waiting += 1
@@ -483,7 +609,7 @@ def build_list(state, sites):
         st = state.get(s["url"], {})
         if st.get("fails", 0) > 0:
             tag = f"PROBLEM ({st['fails']}x)"
-        elif "line_hashes" in st:
+        elif "line_seen" in st or "line_hashes" in st:
             tag = f"OK – {st.get('mode')} mode, {len(st.get('links', {}))} links"
         else:
             tag = "not checked yet"
@@ -600,14 +726,16 @@ async def scan_part(args, cfg, client, k, n):
             continue
 
         # A page that used to have job links but now has none is suspicious (broken load) -> count as fail.
-        if prev.get("mode") == "links" and mode == "auto" and not cur["links"] and len(prev.get("links", {})) >= 3:
+        real_prev = [u for u, v in prev.get("links", {}).items() if not is_nav_link(u, v.get("title", ""))
+                     and not is_action_link(v.get("title", ""))]
+        if prev.get("mode") == "links" and mode == "auto" and not cur["links"] and len(real_prev) >= 3:
             st = state[url]
             st["fails"] = st.get("fails", 0) + 1
             st["last_error"] = "no job links found this time (page may not have loaded)"
             print(f"[suspicious {st['fails']}] {name}: 0 links now")
             if st["fails"] == FAIL_ALERT_AFTER:
                 messages.append(f"WARNING: <b>{esc(name)}</b> shows 0 job links for {FAIL_ALERT_AFTER} runs "
-                                f"(was {len(prev['links'])}).\n<a href=\"{esc(url)}\">Open page</a>")
+                                f"(was {len(real_prev)}).\n<a href=\"{esc(url)}\">Open page</a>")
             continue
 
         if prev.get("fails", 0) >= FAIL_ALERT_AFTER:
@@ -616,7 +744,7 @@ async def scan_part(args, cfg, client, k, n):
         msg, new_st, ev = compare(site, prev, cur, mode)
         state[url] = new_st
         events.extend(ev)
-        if "line_hashes" not in prev:
+        if "line_seen" not in prev and "line_hashes" not in prev:
             baselines.append(f"• {esc(name)}: {new_st['mode']} mode, {len(cur['links'])} links, "
                              f"{'browser' if cur['used_js'] else 'http'}")
         if msg:
