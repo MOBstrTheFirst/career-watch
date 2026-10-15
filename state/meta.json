@@ -1,266 +1,7 @@
 {
- "alerts": 286,
+ "alerts": 299,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Plant Technician - Manufacturing",
-   "url": "https://www.pgcareers.com/de/en/job/R000154967/Plant-Technician-Manufacturing"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Senior Controls & Automation Engineer, Greensboro Browns Summit Plant",
-   "url": "https://www.pgcareers.com/de/en/job/R000147628/Senior-Controls-Automation-Engineer-Greensboro-Browns-Summit-Plant"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) (Sales & Vertrieb) in 70567 Stuttgart-Vaihingen Sales & Vertrieb 70567 Stuttgart-Vaihingen vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-87"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebsinnendienst Ersatzteile (m/w/d) (Sales & Vertrieb) in 71116 Gärtringen Sales & Vertrieb 71116 Gärtringen vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienst-ersatzteile-m-w-d"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Materialwirtschaft / Logistikplanung (m/w/d) (Logistik & Transport) in 71101 Schönaich Logistik & Transport 71101 Schönaich vor einer Stun",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-materialwirtschaft-logistikplanung-m-w-d"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74074 Heilbronn Rechnungswesen & Finanzen 60.000,00 - 70.000,00 EUR / Monat 74074 Heilbronn Ho",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-337"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76275 Ettlingen Bau & Immobilien 76275 Ettlingen Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-6"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kreditorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74321 Bietigheim-Bissingen Rechnungswesen & Finanzen 74321 Bietigheim-Bissingen Homeoffice",
-   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-231"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76412 Rastatt Bau & Immobilien 76412 Rastatt Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-5"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (w/m/d) (Rechnungswesen & Finanzen) in 73240 Wendlingen am Neckar Rechnungswesen & Finanzen 73240 Wendlingen am Neckar Homeoffice möglich v",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-w-m-d-1"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 71034 Böblingen Rechnungswesen & Finanzen 71034 Böblingen Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-336"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebsmitarbeiter (m/w/d) (Sales & Vertrieb) in 76131 Karlsruhe Sales & Vertrieb 76131 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-42"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "1.634",
-   "url": "https://jobs.de.dis-ag.com/?page=1.634"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kategorie: Sales & Vertrieb",
-   "url": "https://jobs.de.dis-ag.com/suche/sales-und-vertrieb"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Branche: Sonstige Branche",
-   "url": "https://jobs.de.dis-ag.com/suche/sonstige-branche"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Stuttgart-Vaihingen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-stuttgart-vaihingen"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-87/bewerben"
-  },
-  {
-   "at": "2026-10-14T23:09:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auf WhatsApp teilen",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fmitarbeiter-vertriebsinnendienst-m-w-d-87%2F"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Facility Building Engineer",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028459474"
-  },
-  {
-   "at": "2026-10-14T23:20:57+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028459474"
-  },
-  {
-   "at": "2026-10-14T23:20:32+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "MSAT Value Stream Engineer III",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:32+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "SAP BI/BW Developer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:32+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Quality Engineer – Supplier Quality",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T23:20:32+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aa4eb3bc6408ac",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-14T23:20:32+00:00",
-   "kind": "new",
-   "site": "LP Montagetechnik",
-   "title": "Abstellen oder Lagern verboten Bodenschild",
-   "url": "https://www.lp-montagetechnik.com/produkt/abstellen-oder-lagern-verboten-bodenschild"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Security Consulting Engineer(Remote)",
-   "url": "https://careers.cisco.com/global/en/job/2021072/Security-Consulting-Engineer-Remote"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2021072EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Account Executive - Splunk - PBST FSI",
-   "url": "https://careers.cisco.com/global/en/job/2025475/Account-Executive-Splunk-PBST-FSI"
-  },
-  {
-   "at": "2026-10-14T23:20:39+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2025475EXTERNALENGLOBAL"
-  },
   {
    "at": "2026-10-14T23:20:39+00:00",
    "kind": "new",
@@ -3501,12 +3242,271 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Home Care, Sales Senior Account Executive",
    "url": "https://www.pgcareers.com/de/en/job/R000160259/Home-Care-Sales-Senior-Account-Executive"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461200"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461200"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Werkstudent (w/m/d) in der Redaktion Musik in Nürnberg",
+   "url": "https://jobs.br.de/Vacancies/1410/Description/1"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Jetzt bewerben",
+   "url": "https://jobs.br.de/Vacancies/1410/Application/CheckLogin/1"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:58+00:00",
+   "kind": "possible",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Manufacturing Engineer Manager",
+   "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-15T01:54:33+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ab3062fcae2320",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T01:54:33+00:00",
+   "kind": "new",
+   "site": "Vishay Semiconductor – Selb",
+   "title": "23",
+   "url": "https://jobs.vishay.com/jobs?vpage=23"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager",
+   "url": "https://careers.cisco.com/global/en/job/2022755/Engineering-Product-Manager"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2022755EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Product Development & Manufacturing Senior Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Product-Development-Manufacturing-Senior-Engineer-Bayan-Lepas/24489"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Epitaxy Process Senior Staff Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Epitaxy-Process-Senior-Staff-Engineer-Kulim/24486"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=nrZCuSip69iU58EpoqFcsUzA60xz31nTQvBgwSOxZqU%3D"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "[#DSR_FORM_URL_TEXT#]",
+   "url": "https://careers.witron.com/de/["
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "careers.witron.com",
+   "url": "https://careers.witron.com/"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "https://careers.witron.com/de",
+   "url": "https://careers.witron.com/de"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "WITRON als Arbeitgeber",
+   "url": "https://careers.witron.com/de/witron-als-arbeitgeber"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "Standorte",
+   "url": "https://careers.witron.com/de/standorte"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "Blog",
+   "url": "https://careers.witron.com/de/blog"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "EN",
+   "url": "https://careers.witron.com/jobs"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "FR",
+   "url": "https://careers.witron.com/fr/emplois"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "SV",
+   "url": "https://careers.witron.com/sv/jobb"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "NL",
+   "url": "https://careers.witron.com/nl/jobs"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "NO",
+   "url": "https://careers.witron.com/no/jobber"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "CS",
+   "url": "https://careers.witron.com/cs/pracovni-mista"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "ES",
+   "url": "https://careers.witron.com/es/trabajos"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792029204931"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019105"
+  },
+  {
+   "at": "2026-10-15T01:54:17+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019105"
+  },
+  {
+   "at": "2026-10-15T01:54:41+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=lvWVvMkEfqKuw%2FogBo05GCdJt7nhezEb0O0ky1EwbAg%3D"
+  },
+  {
+   "at": "2026-10-15T01:54:41+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:41+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:41+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Engineering Manager",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:54:41+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Supply Chain Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T01:37:31+00:00",
+ "last_run": "2026-10-15T01:55:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408922
 }
