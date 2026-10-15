@@ -1,511 +1,7 @@
 {
- "alerts": 531,
+ "alerts": 547,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Anla­gen­layout (m/w/d) Job Hybrid Vollzeit 45.000 - 60.000 € Würz­burg, Deutsch­land Anlagenbau Maschinenbau Professionals Senior Profe",
-   "url": "https://touch.ferchau.com/de/de/job/485680/konstrukteur-anlagenlayout"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ma­nager Maschi­nenbau (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Kassel, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professionals ",
-   "url": "https://touch.ferchau.com/de/de/job/486196/projektmanager-maschinenbau"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Indus­trie­me­cha­niker (m/w/d) Job Vor Ort Vollzeit 40.000 - 45.000 € Darm­stadt, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Professionals ",
-   "url": "https://touch.ferchau.com/de/de/job/486631/industriemechaniker"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Sales Trainee (m/w/d) Job Hybrid Vollzeit 43.000 - 44.000 € Köln, Deutsch­land Vertrieb Young Professionals ohne Personalverantwortung Admi­nis­tra­ti",
-   "url": "https://touch.ferchau.com/de/de/job/491077/sales-trainee"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT-System­ad­mi­nis­trator (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Kiel, Deutsch­land Weitere Professionals Senior Professionals ohne Personalve",
-   "url": "https://touch.ferchau.com/de/de/job/494920/it-systemadministrator"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Büro­as­sis­tenz (m/w/d) Voll- und Teil­zeit Job Vor Ort Vollzeit 18.000 - 45.000 € Mann­heim, Deutsch­land Personal Young Professionals Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/495205/bueroassistenz-voll-und-teilzeit"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT-Supporter (m/w/d) Job Hybrid Vollzeit 42.000 - 47.000 € Kiel, Deutsch­land Informationstechnik Young Professionals Professionals ohne Personalveran",
-   "url": "https://touch.ferchau.com/de/de/job/497536/it-supporter"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Head of Network & Infra­struc­ture (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Kiel, Deutsch­land Informationstechnik Professionals Senior Professi",
-   "url": "https://touch.ferchau.com/de/de/job/499882/head-of-network-infrastructure"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Head of Appli­ca­tion Services (m/w/d) Job Vor Ort Vollzeit 70.000 - 86.000 € Kiel, Deutsch­land Informationstechnik Professionals Senior Professional",
-   "url": "https://touch.ferchau.com/de/de/job/499903/head-of-application-services"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker Prüf­stand­aufbau (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Rostock, Deutsch­land Maschinenbau Weitere Young Professionals Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/499939/techniker-pruefstandaufbau"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mess­tech­niker Kunst­stoff­technik (m/w/d) Job Vor Ort Vollzeit 45.000 - 60.000 € Schwein­furt, Deutsch­land Anlagenbau Maschinenbau Weitere Professi",
-   "url": "https://touch.ferchau.com/de/de/job/500086/messtechniker-kunststofftechnik"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Spezia­list für Arbeits­si­cher­heit (m/w/d) Job Vor Ort Vollzeit 57.000 - 68.000 € Würz­burg, Deutsch­land Maschinenbau Weitere Professionals Senior ",
-   "url": "https://touch.ferchau.com/de/de/job/501175/spezialist-fuer-arbeitssicherheit"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Ferti­gungs­planer Produk­tion (m/w/d) Job Vor Ort Vollzeit 65.000 - 78.000 € Würz­burg, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/501295/fertigungsplaner-produktion"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mitar­beiter Auftrags­ab­wick­lung (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Coburg, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals S",
-   "url": "https://touch.ferchau.com/de/de/job/504226/mitarbeiter-auftragsabwicklung"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "Koenig & Bauer",
-   "title": "Projektingenieur: in Konstruktion",
-   "url": "https://jobs.koenig-bauer.com/job/Radebeul-Projektingenieur-in-Konstruktion/1427315533"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792031010790"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019110"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019110"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/medizinischer-fachangestellter-hochschulambulanz-neurochirurgie-m-w-d-13937"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=hsOtckXhJzifrPEWXPJvYAfFHfNJoOvofDRc%2FQ%2B9Ltc%3D"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "DE",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote?tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=2&cHash=04b586d77c43d881248530dd3b47ef31e2a7436deff2dbd61a254e5016591a2e"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "EN",
-   "url": "https://loewensteinmedical.com/en/career/job-openings?tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=2&cHash=04b586d77c43d881248530dd3b47ef31e2a7436deff2dbd61a254e5016591a2e"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung Fachlagerist / Fachkraft für Lagerlogistik (m/w/d) 2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-fachlagerist-fachkraft-fuer-lagerlogistik-mwd-2-de-j1670.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung Feinwerkmechaniker (m/w/d) 2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-feinwerkmechaniker-mwd-2027-de-j1672.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung Industriekaufmann / Industriekauffrau (m/w/d) zum 01.08.2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/ausbildung-industriekaufmann-industriekauffrau-m-w-d-zum-01082027-67094175"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung Industriekaufmann/-frau (m/w/d) 2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-industriekaufmann-frau-mwd-2027-de-j1671.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung Kaufmann/-frau im Gesundheitswesen (m/w/d) 2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/ausbildung-kaufmann-frau-im-gesundheitswesen-mwd-2027-de-j1669.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1655.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1663.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1668.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j678.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1676.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Auslieferungsfahrer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/auslieferungsfahrer-mwd-de-j1678.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Büroleitung im Innendienst (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/bueroleitung-im-innendienst-mwd-de-j1651.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Business Applications Engineer (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/business-applications-engineer-m-w-d-62975924"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Business Applications Manager DMS (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/business-applications-manager-dms-m-w-d-63266979"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Controller (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/controller-mwd-de-j1298.html"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "new",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "1",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote?tx_jobs_jobs%5Baction%5D=list&tx_jobs_jobs%5Bcontroller%5D=JobOffer&tx_jobs_jobs%5BcurrentPage%5D=1&cHash=e59fa2eda4f34591f93190695f68d949d4505c5e470d22df7ef96a2e8248f02e"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Strategic Segment Proposal Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:27+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Quality Assurance Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:41:17+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "8 new text line(s), e.g. You've Got A",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T02:41:17+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461864"
-  },
-  {
-   "at": "2026-10-15T02:41:17+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461864"
-  },
-  {
-   "at": "2026-10-15T02:39:33+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ab7245b8298535",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T02:39:33+00:00",
-   "kind": "new",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Reutlingen (2027) Reutlingen, Germany Talent Acquisition, Attraction & Youth Gepostete vor einem Mo",
-   "url": "https://jobs.vodafone.com/careers/job/563018697999717?domain=vodafone.com"
-  },
-  {
-   "at": "2026-10-15T02:39:33+00:00",
-   "kind": "text",
-   "site": "UG Systems",
-   "title": "28 new text line(s), e.g. Deutsch",
-   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Consulting Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior Software Engineer (Remote)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Partner Leader, Solutions Engineer, Splunk",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Principal Software Engineer (Security & Policy Platform) (Remote)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "possible",
-   "site": "AVL Software and Functions",
-   "title": "Sourcing Project Manager (m/w/d)",
-   "url": "https://jobs.avl.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=xGM4dMmu5KU8zejupfOqh5QSXpWrdfva7Wo8lgOYP2U%3D"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New (For Campus) CS- UIR Engineer - Hsinchu/Taichung/Tainan/Kaohsiung Hsinchu, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/for-campus-cs-uir-engineer-hsinchutaichungtainankaohsiung-j00352589"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS-EUV UIR Engineer-Hsinchu/Taichung/Tainan/Kaohsiung Hsinchu, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-euv-uir-engineer-hsinchutaichungtainankaohsiung-j00348441"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - Upgrade Install and Relocation Associate Engineer - Hsinchu Hsinchu, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-upgrade-install-and-relocation-associate-engineer-hsinchu-j00334839"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792031903206"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019120"
-  },
-  {
-   "at": "2026-10-15T02:39:18+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019120"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=2AWuuPT1IfnEvRnyuc6dd9%2F8YQ%2Boud%2BET8stuNmasBI%3D"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Abschlussarbeit (Master/Bachelor) - Machbarkeitsstudie zum Einsatz nachhaltiger Polymermaterialien in der Beatmung",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberater (m/w/d) im Bereich Medical Homecare",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberater im Außendienst (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberater im Außendienst (m/w/d) in Vollzeit für den Bereich Hospital",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberater im Innendienst (m/w/d) - Schwerpunkt Patientenberatung, Schulung und Praxisanleitung",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberater*in Medical Homecare (m/w/d)",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Anwendungsberatung im Außendienst (m/w/d) Postleitzahl 83/84",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
-  {
-   "at": "2026-10-15T02:39:52+00:00",
-   "kind": "possible",
-   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
-   "title": "Ausbildung als Kaufmann (m/w/d) im Gesundheitswesen zum 01.08.2027",
-   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/"
-  },
   {
    "at": "2026-10-15T02:39:52+00:00",
    "kind": "possible",
@@ -3501,12 +2997,516 @@
    "site": "DIS AG",
    "title": "Auf WhatsApp teilen",
    "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fconsultant-m-w-d-hr-projektmanagement%2F"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028464114"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028464114"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Operativer Einkäufer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012TZC1QAO"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000012TZC1QAO"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Vertriebsinnendienst",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000getloQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000getloQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Produktionsplanung",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014s1ynQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000014s1ynQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kaufmännische Assistenz (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000015NkA8QAK"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000015NkA8QAK"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Buchhalter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000015UZEfQAO"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000015UZEfQAO"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bilanzbuchhalter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000015UVfhQAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000015UVfhQAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "RPA Developer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012SyPNQA0"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000012SyPNQA0"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Berechtigungsmanager (m/w/d) IT",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000126o6vQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV0000126o6vQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Payroll Spezialist (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012bN41QAE"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000012bN41QAE"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Sachbearbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ez9wzQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000ez9wzQAA"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Sachbearbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ezA0DQAU"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000ezA0DQAU"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Sachbearbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ez6PgQAI"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000ez6PgQAI"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Office Assistant (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eyuLFQAY"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000eyuLFQAY"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Office Assistant (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eydNdQAI"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000eydNdQAI"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Initiativbewerbung Office Assistant (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eyZDZQA2"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000eyZDZQA2"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Qualitätsmanager (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000015UIybQAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000015UIybQAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Disponent (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jZ9YfQAK"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000jZ9YfQAK"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Vertriebsinnendienst",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k2eNNQAY"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000k2eNNQAY"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Logistik",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jlL0kQAE"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000jlL0kQAE"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Technischer Sachbearbeiter (m/w/d) Arbeitsvorbereitung",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000aC7FVQA0"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000aC7FVQA0"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Technischer Sachbearbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jPXu0QAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0tbI00000jPXu0QAG"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012wf1AQAQ"
+  },
+  {
+   "at": "2026-10-15T05:56:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000012wf1AQAQ"
+  },
+  {
+   "at": "2026-10-15T05:56:22+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:22+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:22+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ac904769712511",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T05:56:22+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "21 new text line(s), e.g. Selbstklebende Sichttasche DIN A4 hoch – 10 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Software Engineer (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal Software Engineer (Security & Policy Platform) (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager - Mobility",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Staff Site Reliability Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior Staff Engineer (Lithography Process)",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-Staff-Engineer-Lithography-Process-Kulim/24482"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=ZxlWSm4bqseuMO2r2mLc7QXIf9zZANKAr2ecpvDARBU%3D"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792043639048"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019199"
+  },
+  {
+   "at": "2026-10-15T05:56:34+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019199"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=HiHricglXVDpxlmVqwSk2GWjiCUshD6KxqqVbaSFMaw%3D"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Hoisting Service Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Hoisting Service Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:55:13+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Supply Chain Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T05:42:03+00:00",
+ "last_run": "2026-10-15T05:57:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408922
 }
