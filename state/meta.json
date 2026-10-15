@@ -1,301 +1,7 @@
 {
- "alerts": 967,
+ "alerts": 985,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Debi­to­ren­buch­halter (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 60.000 € Leipzig, Deutsch­land Backoffice Young Professionals Professionals ohne Pers",
-   "url": "https://touch.ferchau.com/de/de/job/524302/debitorenbuchhalter"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Auto­ma­ti­sie­rungs­in­ge­nieur SPS & Motion Control (m/w/d) Job Vor Ort Vollzeit 55.000 - 85.000 € Verden, Deutsch­land Elektrotechnik Maschinenbau ",
-   "url": "https://touch.ferchau.com/de/de/job/506719/automatisierungsingenieur-sps-motion-control"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Quali­täts­ma­nager (m/w/d) Neu Job Vor Ort Vollzeit 65.000 - 95.000 € Görlitz, Deutsch­land Vertrieb Professionals Senior Professionals ohne Personal",
-   "url": "https://touch.ferchau.com/de/de/job/524299/qualitaetsmanager"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "C++ Soft­ware­ent­wickler indus­tri­elle Digi­ta­li­sie­rung (m/w/d) Job Hybrid Vollzeit 53.500 - 65.000 € Linz, Öster­reich Elektrotechnik Informatio",
-   "url": "https://touch.ferchau.com/de/de/job/522694/c-softwareentwickler-industrielle-digitalisierung"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Perso­nal­dienst­leis­tungs­kauf­mann (m/w/d) Job Hybrid Vollzeit 37.500 - 45.000 € Augs­burg, Deutsch­land Personal Young Professionals Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/514519/personaldienstleistungskaufmann"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Redak­teur (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Koblenz, Deutsch­land Luft- und Raumfahrttechnik Young Professionals Profession",
-   "url": "https://touch.ferchau.com/de/de/job/522559/technischer-redakteur"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Zeichner/Konstruk­teur (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 65.000 € Koblenz, Deutsch­land Anlagenbau Maschinenbau Young Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/524296/technischer-zeichner-konstrukteur"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "PCB Desi­gner Hard­ware (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 90.000 € Kronach, Deutsch­land Elektrotechnik Fahrzeugtechnik Professionals Senior Pr",
-   "url": "https://touch.ferchau.com/de/de/job/524293/pcb-designer-hardware"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­in­ge­nieur Rohr­sys­teme (m/w/d) Job Vor Ort Vollzeit 60.000 - 65.000 € Wismar, Deutsch­land Anlagenbau Schiffbau und Meerestechnik Professio",
-   "url": "https://touch.ferchau.com/de/de/job/484459/projektingenieur-rohrsysteme"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Liefe­ran­ten­ent­wickler (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 80.000 € Görlitz, Deutsch­land Vertrieb Professionals Senior Professionals ohne Pe",
-   "url": "https://touch.ferchau.com/de/de/job/524290/lieferantenentwickler"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ma­nager Produk­ti­ons­hoch­lauf (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 85.000 € Görlitz, Deutsch­land Weitere Professionals Senior Profess",
-   "url": "https://touch.ferchau.com/de/de/job/524287/projektmanager-produktionshochlauf"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792052622736"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019285"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019285"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Konstruktionsmechaniker (m/w/d) Fertigteilwerk Emden",
-   "url": "https://jobportal.max-boegl.de/Konstruktionsmechaniker-mwd-Fertigteilwerk-Emden-de-j2307.html"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Lokführer / Rangierer (m/w/d) im Güterverkehr",
-   "url": "https://jobportal.max-boegl.de/Lokfuehrer-Rangierer-mwd-im-Gueterverkehr-de-j2314.html"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Konstruktionsmechaniker (m/w/d) Apparatebau 13403 Berlin 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1qEFpR-konstruktionsmechaniker-mwd-apparatebau_13403-berlin"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachlagerist (m/w/d) mit Staplerschein 13403 Berlin 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/27ig4X-fachlagerist-mwd-mit-staplerschein_13403-berlin"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Praktikant (m/w/d) im Bereich Faserverbunde und 3D Druck 15.10.2026 Forschung/Entwicklung/Engineering Röthenbach a.d. Pegnitz",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/praktikant-m-w-d-im-bereich-faserverbunde-und-3d-druck"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Aviation Elektriker (m/w/d) 15.10.2026 Produktion Laupheim",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/elektriker-m-w-d"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Client Services Consultant Data Management",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Belgium-Remote-Location/Client-Services-Consultant-Data-Management_R026080?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=LAol2luWRQXdBLaaXN6xZsHzwXge8s8Vg86DMwxb73E%3D"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "text",
-   "site": "Jaeger Medical – Höchberg",
-   "title": "8 new text line(s), e.g. Do Not Sell My Personal Information",
-   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "text",
-   "site": "Franz Steger Transformatorenbau – Sulzbach-Rosenberg",
-   "title": "1 new text line(s), e.g. AGB (PDF)",
-   "url": "http://www.stegertrafo.de/"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 91710 Gunzenhausen Rechnungswesen & Finanzen 91710 Gunzenhausen Homeoffice möglich vor 1",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-118"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebssachbearbeiter (m/w/d) (Sales & Vertrieb) in 76287 Rheinstetten Sales & Vertrieb 76287 Rheinstetten Homeoffice möglich vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/vertriebssachbearbeiter-m-w-d-7"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Customer Service (m/w/d) (Büroverwaltung) in 76547 Sinzheim Büroverwaltung 76547 Sinzheim Homeoffice möglich vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/customer-service-m-w-d-35"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Automobilkauffrau (m/w/d) (Büroverwaltung) in 04109 Leipzig Büroverwaltung 04109 Leipzig Homeoffice möglich vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/automobilkauffrau-m-w-d"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Gunzenhausen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-gunzenhausen"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Region: Bayern",
-   "url": "https://jobs.de.dis-ag.com/suche/in-bayern"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-118/bewerben"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auf WhatsApp teilen",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fsteuerfachangestellter-m-w-d-118%2F"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Projektmanagement",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525898"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F525898"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WhatsApp",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F525898"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
-   "title": "DESKO GmbH Werkstudent (m/w/d) Softwareentwicklung im Bereich KI Details",
-   "url": "https://ubt-career.de/de/stellenportal/detail?id=d1a28680-c3c7-f111-9b60-9e890cc6b0ac"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
-   "title": "DESKO GmbH",
-   "url": "https://ubt-career.de/de/partnerunternehmen/detail?id=bc2704a0-aeb6-ee11-9b4b-b68a5b60a721"
-  },
-  {
-   "at": "2026-10-15T08:39:56+00:00",
-   "kind": "new",
-   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
-   "title": "Werkstudent (m/w/d) Softwareentwicklung im Bereich KI",
-   "url": "https://ubt-career.de/de/stellenportal/detail?id=d1a28680-c3c7-f111-9b60-9e890cc6b0ac&slug=werkstudent-mwd-softwareentwicklung-im-bereich-ki-"
-  },
   {
    "at": "2026-10-15T08:39:56+00:00",
    "kind": "new",
@@ -3501,12 +3207,306 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Quality Assurance Internship",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028470165"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028470165"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "possible",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Schülerpraktikum Maschinen und Anlagenführer (m/w/d) 2026",
+   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Auditoren & Berater Ingenieur*in/ Techniker*in als Sachverständige*r für Industrie- und Labormaschinen (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Ingenieurin_-Technikerin-als-Sachverstaendiger-fuer-Industrie-und-Labormaschinen-w_m_d-Berlin?id=21764"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Hol- und Bringfahrer*in für Kundenfahrzeuge als geringfügige Beschäftigung (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Hol-und-Bringfahrerin-fuer-Kundenfahrzeuge-als-geringfuegige-Beschaeftigung-w_m_d-Koeln?id=21713"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Studentische Hilfskraft Klinik für Abhängigkeitserkrankungen (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/851bf1ca-ffdf-5996-b3ef-8d991873f208/studentische-hilfskraft-klinik-fuer-abhaengigkeitserkrankungen-m-w-d"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Chefarzt Pneumologie, Schlaf- und Beatmungsmedizin (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/13b55418-3500-598a-b16e-097c89bcfb56/chefarzt-pneumologie-schlaf-und-beatmungsmedizin-m-w-d"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Assistenzarzt Zentrum Innere Medizin (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/c375cad6-4b40-5784-9297-bceb40a4e55c/assistenzarzt-zentrum-innere-medizin-m-w-d"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagerist (m/w/d) Chemie ab 20 €",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017OFSpQAO"
+  },
+  {
+   "at": "2026-10-15T10:39:59+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000017OFSpQAO"
+  },
+  {
+   "at": "2026-10-15T10:40:18+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "(Junior) Kaufmännische:r Projektmanager:in Finanzierung neu Nürnberg, München, Deutschland DB InfraGO (ehemals Station & Services) Startdatum: ab sofo",
+   "url": "https://db.jobs/de-de/Suche/Projektkaufmann-Projektkauffrau-Finanzierung-w-m-d--14026334?jobId=636948"
+  },
+  {
+   "at": "2026-10-15T10:40:18+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ae32535c7a6414",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T10:40:18+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "22 new text line(s), e.g. Rohrklammer – 10 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineer Technical Leader – Network Data Plane – Hypershield",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineering Technical Leader (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=pNgbiK%2F%2FB%2BqLLJQEAouLfoR4DDYIQVbI65b9MgpczRY%3D"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sr. IT Engineer Logistics Execution (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Sr-IT-Engineer-Logistics-Execution--m-w-x-_R00266353?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Head of Software & Mobility Management (m/w/d) in Meckenheim oder München",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/head-of-software-mobility-management-m-w-d-68643"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792060710963"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019484"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019484"
+  },
+  {
+   "at": "2026-10-15T10:39:28+00:00",
+   "kind": "new",
+   "site": "de engineering – Bayreuth",
+   "title": "Mechatroniker / Elektroniker Dummy- und Messtechnik Crashversuch (m/w/d)",
+   "url": "https://deengineering.hr4you.org/job/view/3121"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Account Manager (m/f/d), Robotics - Europe Munich, Bavaria, Germany Sales - Sales Incentive Plan Gepostete vor 11 Stunden",
+   "url": "https://careers.qualcomm.com/careers/job/446721587832"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Jetzt bewerben",
+   "url": "https://careers.qualcomm.com/careers/apply?pid=446721587832"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Account Manager (m/f/d), Robotics - Europe Issy Les Moulineaux, Hauts-de-Seine, France + 2 more Sales - Sales Incentive Plan Gepostete vor 11 Stunden",
+   "url": "https://careers.qualcomm.com/careers/job/446721587834"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "IE-IoT Field Sales Senior Account Manager Santa Clara, California, United States of America + 1 more Sales - Sales Incentive Plan Gepostete vor einem ",
+   "url": "https://careers.qualcomm.com/careers/job/446719734287"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Technical Account Manager Santa Clara, California, United States of America Hardware Applications Engineering Gepostete vor 7 Tagen",
+   "url": "https://careers.qualcomm.com/careers/job/446721435831"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Technical Account Manager (TAM) – Automotive Customer Engineering (Infotainment & Digital Cockpit) Seoul, Korea, Republic of Software Applications Eng",
+   "url": "https://careers.qualcomm.com/careers/job/446721218099"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Manager, Government Affairs & Strategic Technology Policy – Korea Seoul, Korea, Republic of Government Affairs Gepostete vor 2 Monaten",
+   "url": "https://careers.qualcomm.com/careers/job/446720824905"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=LS8iDcCjJJPlaU2cXtAB27tedEmyeiDuaBIMGk5r9a8%3D"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Commercial Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Strategic Segment Proposal Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Senior Technical Business Developer – Sub-transmission Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Quality Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 34117 Kassel Rechnungswesen & Finanzen 34117 Kassel Homeoffice möglich vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-440"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Branche: Finanzen & Versicherungen",
+   "url": "https://jobs.de.dis-ag.com/suche/finanzen-und-versicherungen"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-440/bewerben"
+  },
+  {
+   "at": "2026-10-15T10:39:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auf WhatsApp teilen",
+   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Ffinanzbuchhalter-m-w-d-440%2F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T10:25:29+00:00",
+ "last_run": "2026-10-15T10:40:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408922
 }
