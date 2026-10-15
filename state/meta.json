@@ -1,329 +1,7 @@
 {
- "alerts": 944,
+ "alerts": 967,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Quality Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Quality Assurance Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "ILS Manager / Logistics Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507073/ils-manager-logistics-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Material Manager / Materialdisponent (all genders)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507201/material-manager-materialdisponent-(all-genders)"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Technischer Redakteur – Technische Dokumentation & S1000D (all genders)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507202/technischer-redakteur-%E2%80%93-technische-dokumentation-s1000d-(all-genders)"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Qualitätsingenieur – Lieferantenqualität & Reklamationsmanagement (all genders)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507203/qualitaetsingenieur-%E2%80%93-lieferantenqualitaet-reklamationsmanagement-(all-genders)"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Qualitätsingenieur – Lieferantenqualität & Reklamationsmanagement (all genders)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507204/qualitaetsingenieur-%E2%80%93-lieferantenqualitaet-reklamationsmanagement-(all-genders)"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Customer Service Specialist (m/w/d) Automotive (Büroverwaltung) in 04109 Leipzig Büroverwaltung 04109 Leipzig Homeoffice möglich vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/customer-service-specialist-m-w-d-automotive"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Strategischer Einkäufer (m/w/d) Metall- und Blecheinkauf (Logistik & Transport) in 73205 Plochingen Logistik & Transport 73205 Plochingen vor 10 Stund",
-   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-metall-und-blecheinkauf"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Strategischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 74363 Gügglingen Einkauf & Supply Chain 74363 Gügglingen Homeoffice möglich vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-137"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kreditoren- und Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75031 Eppingen Rechnungswesen & Finanzen 75031 Eppingen Homeoffice möglich ",
-   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-10"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "1.637",
-   "url": "https://jobs.de.dis-ag.com/?page=1.637"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/customer-service-specialist-m-w-d-automotive/bewerben"
-  },
-  {
-   "at": "2026-10-15T08:10:29+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auf WhatsApp teilen",
-   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fcustomer-service-specialist-m-w-d-automotive%2F"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
-   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Junior Projektleiter Emissionslabor Immendingen (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIwMg%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Entwicklungsingenieur Simulation und Modellierung (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIwNA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Bauteilverantwortlicher Leitungssatz (m/w/d) Stuttgart Forschung & Entwicklung Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIwMw%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Mitarbeiter Fertigung - Vormontage (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzE4MA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Absolventen (m/w/d) Energietechnik Erlangen Elektronik & Elektrotechnik Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA1MjAyNS0zMDc1OA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Bauleiter (m/w/d) für FACTS- und HGÜ Anlagen Philippsburg, Hamburg, Erlangen + 1 weiterer Elektronik & Elektrotechnik Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA1MjAyNS0zMDg4OQ%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "text",
-   "site": "Biogents – Regensburg",
-   "title": "9 new text line(s), e.g. Your Privacy Choices",
-   "url": "https://www.biogents.com/"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028467400"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028467400"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Sales Manager (m/w/d)",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:58+00:00",
-   "kind": "possible",
-   "site": "Bureau Veritas CPS Germany",
-   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
-   "url": "https://jobs.bureauveritas.com/de/de/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:32+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Software Architect (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Software-Architect--d-m-w-_JR10442839?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T08:24:32+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "VIE Test Engineer (d/f/m) for Electromagnetic Compatibility (EMC) of Aircraft Cabin Systems",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/VIE-Test-Engineer--d-f-m--for-Electromagnetic-Compatibility--EMC--of-Aircraft-Cabin-Systems_JR10447975-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T08:24:32+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ad6bbace8b32fd",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Engineer - Americas Service Provider - ThousandEyes (Remote)",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Leader, Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Industry Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=tJQoEMDvv3tLOChFfmCPEOluL4Eun%2B4dPg7tre4xfFs%3D"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "ASML – Erlangen",
-   "title": "Quality Engineer",
-   "url": "https://www.asml.com/en/careers/find-your-job"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "possible",
-   "site": "ASML – Erlangen",
-   "title": "New Product Industrialization Engineer - Optical",
-   "url": "https://www.asml.com/en/careers/find-your-job"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Redak­teur (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Bremen, Deutsch­land Elektrotechnik Young Professionals Professionals ohne Per",
-   "url": "https://touch.ferchau.com/de/de/job/507907/technischer-redakteur"
-  },
-  {
-   "at": "2026-10-15T08:24:49+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inside Sales Engi­neer / Tech­ni­scher Vertriebs­ko­or­di­nator (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Gander­kesee, Deutsch­land Maschinenbau",
-   "url": "https://touch.ferchau.com/de/de/job/507904/inside-sales-engineer-technischer-vertriebskoordinator"
-  },
   {
    "at": "2026-10-15T08:24:49+00:00",
    "kind": "new",
@@ -3501,12 +3179,334 @@
    "site": "DIS AG",
    "title": "Auf WhatsApp teilen",
    "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fkaufmaennische-assistenz-m-w-d-14%2F"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Herzogenaurach HQ",
+   "title": "Praktikum- Projekteinkauf Automotive (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Praktikum-Projekteinkauf-Automotive-%28dmw%29-91074/1405465733"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Berater im Bereich PMO (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIxMQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028469950"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028469950"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Afag Automation",
+   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011967?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011967?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "International AI Rollout & Adoption Manager (m/f/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017NDo1QAG"
+  },
+  {
+   "at": "2026-10-15T10:25:11+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Bewerben",
+   "url": "https://de.trenkwalder.com/application?jobId=a0taV000017NDo1QAG"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Domain Architect for Data & Analytics (D/F/M)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Domain-Architect-for-Data---Analytics--D-F-M-_JR10443132-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Masterand im Bereich Aufbewahrung und Archivierung (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Masterand-im-Bereich-Aufbewahrung-und-Archivierung---d-f-m-_JR10447556?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ae1b688d286162",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
+   "title": "Kfz-Mechatroniker (m/w/d) im Schichtbetrieb Nürnberg VAG Verkehrs-Aktiengesellschaft Technik & Handwerk",
+   "url": "https://karriere.vag.de/jobs/kfz-mechatroniker-m-w-d-im-schichtbetrieb/22e8c879-75d7-4f26-b3bb-6bc8d5e6c1c1"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "Stäubli Bayreuth / Stäubli Tec-Systems",
+   "title": "Area Sales Manager (m/w/d) / West Germany Full-time",
+   "url": "https://jobs.smartrecruiters.com/StaubliGroup/744000155721579-area-sales-manager-m-w-d-west-germany"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "19 new text line(s), e.g. Seitlich offene KANBAN Hülle 200 x 135 – 50 Stück",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Maschinenbediener (m/w/d) Nürnberg",
+   "url": "https://www.tempton.de/jobs/maschinenbediener-265"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Produktionsmitarbeiter Metallbereich (m/w/d) Waldachtal",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-metallbereich-2"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Montierer (m/w/d) Selb",
+   "url": "https://www.tempton.de/jobs/montierer-51"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Grafikdesigner (m/w/d) Selb",
+   "url": "https://www.tempton.de/jobs/grafikdesigner"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Technischer Fachwirt (m/w/d) Plößberg, Markt",
+   "url": "https://www.tempton.de/jobs/technischer-fachwirt"
+  },
+  {
+   "at": "2026-10-15T10:24:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "15.10.2026 Technischer Zeichner (m/w/d) Plößberg, Markt",
+   "url": "https://www.tempton.de/jobs/technischer-zeichner-13"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Staff Site Reliability Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=gCiLYGY%2Fm2Li5z67EeXAQkhgCvIHUAyDL2RijMeJXI8%3D"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "System Integration and Test Engineer Back End Nights ( 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "possible",
+   "site": "ASML – Erlangen",
+   "title": "Quality Engineer",
+   "url": "https://www.asml.com/en/careers/find-your-job"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur Verbin­dungs­technik (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 75.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/524335/entwicklungsingenieur-verbindungstechnik"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "System Engi­neer (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 75.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior Professional",
+   "url": "https://touch.ferchau.com/de/de/job/524332/system-engineer"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Quali­täts­in­ge­nieur (m/w/d) Job Hybrid Vollzeit 42.000 - 55.000 € Leipzig, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/486334/qualitaetsingenieur"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­tech­niker für Service und Inbe­trieb­nahme (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 55.000 € Kassel, Deutsch­land Anlagenbau Elektrotechnik",
+   "url": "https://touch.ferchau.com/de/de/job/524326/elektrotechniker-fuer-service-und-inbetriebnahme"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tri­ker­meister (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Kufstein, Öster­reich Elektrotechnik Professionals ohne Personalverantwortung ",
+   "url": "https://touch.ferchau.com/de/de/job/524257/elektrikermeister"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler Auto­ma­ti­sie­rungs­technik (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 60.000 € Kassel, Deutsch­land Anlagenbau Elektrotechnik I",
+   "url": "https://touch.ferchau.com/de/de/job/524323/softwareentwickler-automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Maschi­nen­be­diener 2D Laser­an­lagen (m/w/d) Neu Job Vor Ort Vollzeit 38.000 - 45.000 € Schwä­bisch Hall, Deutsch­land Maschinenbau Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/524320/maschinenbediener-2d-laseranlagen"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "CNC-Zerspa­nungs­me­cha­niker (m/w/d) Neu Job Vor Ort Vollzeit 35.000 - 45.000 € Kassel, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Professi",
+   "url": "https://touch.ferchau.com/de/de/job/524314/cnc-zerspanungsmechaniker"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792059808699"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019478"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019478"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verpacker (m/w/d) 89522 Heidenheim an der Brenz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1SzPAq-verpacker-mwd_89522-heidenheim-an-der-brenz"
+  },
+  {
+   "at": "2026-10-15T10:24:30+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verpacker (m/w/d) 89522 Heidenheim an der Brenz 15.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/oT09z-verpacker-mwd_89522-heidenheim-an-der-brenz"
+  },
+  {
+   "at": "2026-10-15T10:24:43+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Lackierer (m/w/d) Luftfahrtkomponenten 15.10.2026 Produktion Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/lackierer-m-w-d-luftfahrtkomponenten"
+  },
+  {
+   "at": "2026-10-15T10:24:43+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=vGowJhiZB2gh44rbSxKlK%2FtRWAAa6VulxL8O0GNM8%2BA%3D"
+  },
+  {
+   "at": "2026-10-15T10:24:43+00:00",
+   "kind": "possible",
+   "site": "TTTech Auto Germany",
+   "title": "Static Timing Analysis Design Engineer / Physical Design",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T10:24:43+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Ausbildung: Kaufleute für IT-System-Management (m/w/d) am Standort Höxter zum 01.08.2027",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Hxter/Ausbildung--Kaufleute-fr-IT-System-Management--m-w-d--am-Standort-Hxter-zum-01082026_JR108188?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T10:24:43+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Quality Assurance Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T10:10:06+00:00",
+ "last_run": "2026-10-15T10:25:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408922
 }
