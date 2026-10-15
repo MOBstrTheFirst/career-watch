@@ -1,245 +1,7 @@
 {
- "alerts": 500,
+ "alerts": 517,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792030109659"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019107"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019107"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Meister / Techniker Elektrotechnik als Sachverständiger für die Prüfung elektrischer Anlagen (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur im Bereich Standsicherheit / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur für Bauphysik im Bereich Bautechnik (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Student der Ingenieurwissenschaften für ein Praktikum im Kfz-Bereich (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T02:09:27+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T02:09:43+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=NyvDXBCg1DAApsFRMtasrdR4ZETrsGScIeuGLnD6oV8%3D"
-  },
-  {
-   "at": "2026-10-15T02:09:43+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Electrification Services Application Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:09:43+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Electrification Services Application Engineer",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:09:43+00:00",
-   "kind": "text",
-   "site": "Conntec GmbH",
-   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
-   "url": "https://www.conntec.de/kontakt/"
-  },
-  {
-   "at": "2026-10-15T02:09:43+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/9389ff1a-b92e-4b37-dd71-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-15T02:24:50+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "nächste",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028461675"
-  },
-  {
-   "at": "2026-10-15T02:24:50+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "letzte",
-   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028461675"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "MSAT Value Stream Engineer III",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "SAP BI/BW Developer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Quality Engineer – Supplier Quality",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4ab5c731da21663",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "new",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Dortmund, Bochum (2027) Bochum, Germany Talent Acquisition, Attraction & Youth Gepostete vor einem ",
-   "url": "https://jobs.vodafone.com/careers/job/563018697998695?domain=vodafone.com"
-  },
-  {
-   "at": "2026-10-15T02:24:42+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "20 new text line(s), e.g. Hände desinfizieren Aufkleber – 5 Stück",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Software Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "AI Security Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Machine Learning Engineer II (Intern) – United States",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior ASIC Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "ASIC Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=plc%2F51hvjLT3gt9RM61PkkUUTLxHEf%2FXPDiAe%2BuGB8c%3D"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New New Product Industrialization Engineer - Optical Wilton, CT, US Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/new-product-industrialization-engineer-optical-j00354021"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Angebots- und Projektmanager EW Systems (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Angebots-und-Projektmanager-EW-Systems-%28wmd%29-89077/1364864055"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektleiter TLB und Informationssicherheit P-8A (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-TLB-und-Informationssicherheit-P-8A-%28mwd%29-82256/1361632455"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Project Lead Police Helicopters (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Project-Lead-Police-Helicopters-%28wmd%29-82256/1361623855"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektmanager Gefechtsstandsysteme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektmanager-Gefechtsstandsysteme-%28wmd%29-82256/1364903755"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Softwareentwickler C++ (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Softwareentwickler-C%2B%2B-%28wmd%29-73447/1364855455"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Software Entwickler (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Software-Entwickler-%28wmd%29-73447/1364861855"
-  },
   {
    "at": "2026-10-15T02:24:35+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Supply Chain Internship",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463648"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463648"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:26:25+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Junior Projektingenieur (m/w/d) bundesweit",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - DC, AC Semiconductor Device Characterization and Assessment (f/m/div) München HRC1842444_1",
+   "url": "https://jobs.infineon.com/careers/job/563808972197892"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Jetzt bewerben",
+   "url": "https://jobs.infineon.com/careers/apply?pid=563808972197892"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Find out",
+   "url": "https://www.infineon.com/cms/en/careers/application/application-students"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Discover",
+   "url": "https://www.infineon.com/cms/en/careers/students"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Diversity & Inclusion",
+   "url": "https://www.infineon.com/cms/en/careers/diversity-and-inclusion"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student / Internship – RTL Design & SPICE Simulation Automation (f/m/div) München HRC1800886 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971995411"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Application Engineer Automotive MOSFET (f/m/div) München HRC1831761",
+   "url": "https://jobs.infineon.com/careers/job/563808972150709"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - ASIC Product Marketing and Business Intelligence (f/m/div) - HRC1807752 München HRC1807752",
+   "url": "https://jobs.infineon.com/careers/job/563808972051781"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Microcontroller Communication (f/m/div) München HRC1762440",
+   "url": "https://jobs.infineon.com/careers/job/563808971864426"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Application Engineering (f/m/div) München HRC1815624",
+   "url": "https://jobs.infineon.com/careers/job/563808972073549"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Engineer Device Analysis (f/m/div) Dresden HRC1792485 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971981111"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Global Product Marketing & Management for Pressure Sensing (f/m/div) München HRC1821880",
+   "url": "https://jobs.infineon.com/careers/job/563808972115278"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Lead Management - Digital Demand Generation & Digital Transformation (f/m/div) München (Deutschland) HRC1700208",
+   "url": "https://jobs.infineon.com/careers/job/563808971493296"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Performance Marketing (f/m/div) München HRC1802906",
+   "url": "https://jobs.infineon.com/careers/job/563808972013606"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ac63ebaff727f6",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Pflichtpraktikant (m/w/d) im Bereich Operations Management – Aufbau der Prozesslandschaft",
+   "url": "https://jobs.testo.com/4443-pflichtpraktikant-m-w-d-im-bereich-operations-management-aufbau-der-prozesslandschaft/de/job.html"
+  },
+  {
+   "at": "2026-10-15T05:26:16+00:00",
+   "kind": "text",
+   "site": "UG Systems",
+   "title": "28 new text line(s), e.g. Deutsch",
+   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Splunk Solutions Engineer (Intern) - United States",
+   "url": "https://careers.cisco.com/global/en/job/2028084/Splunk-Solutions-Engineer-Intern-United-States"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2028084EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=9rzQEidYKuI8oqIW4bbJukI%2FpMXnB2KVkTAtTdIkWm4%3D"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Analyst, System Administration",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Analyst--System-Administration_R00263962?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Analyst, System Administration",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Analyst--System-Administration_R00263938?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792041839964"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019148"
+  },
+  {
+   "at": "2026-10-15T05:26:37+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019148"
+  },
+  {
+   "at": "2026-10-15T05:24:51+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=Py4p48WZprGvpj9d0ZW9yuwOkgDBGo4%2Fd%2ByAJsYlDUI%3D"
+  },
+  {
+   "at": "2026-10-15T05:24:51+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Dortmund",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Dortmund-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Dortmund-NW-44135/1445954233"
+  },
+  {
+   "at": "2026-10-15T05:24:51+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Wuppertal",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Wuppertal-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Wuppertal-NW-42103/1445958033"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T05:11:58+00:00",
+ "last_run": "2026-10-15T05:26:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408922
 }
