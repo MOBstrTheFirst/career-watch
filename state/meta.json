@@ -1,329 +1,7 @@
 {
- "alerts": 224,
+ "alerts": 240,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Algorithm and AI Senior/Staff Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "possible",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Senior Software Engineer",
-   "url": "https://jobs.thermofisher.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4aa12c72bbaccb8",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "SKF – Schweinfurt",
-   "title": "Leiter (m/w/d) Prozessentwicklung",
-   "url": "https://career.skf.com/job/Berlin-Leiter-%28mwd%29-Prozessentwicklung/1439505333"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Kaeser Kompressoren",
-   "title": "Mitarbeiter Wareneingang und kaufmännische Speditionsabwicklung (m/w/d)",
-   "url": "https://careers.kaeser.com/job/DC-%28Coburg%29-%2800011001%29-Mitarbeiter-Wareneingang-und-kaufm%C3%A4nnische-Speditionsabwicklung-%28mwd%29-DC-%28-DC-%28Coburg/1447618733"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "Kaeser Kompressoren",
-   "title": "Sachbearbeiter Service Vertrieb (m/w/d)",
-   "url": "https://careers.kaeser.com/job/NL-Frankfurt-%2800018400%29-Sachbearbeiter-Service-Vertrieb-%28mwd%29-NL-F-NL-Frankfu/1382506733"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "text",
-   "site": "LP Montagetechnik",
-   "title": "20 new text line(s), e.g. Selbstklebender Einsteckträger 20 – 50 Stück",
-   "url": "https://www.lp-montagetechnik.com/"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Junior SOC Engineer - Vulnerability Management (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Rehau-Junior-SOC-Engineer-Vulnerability-Management-%28mwd%29/1447709633"
-  },
-  {
-   "at": "2026-10-14T22:39:44+00:00",
-   "kind": "text",
-   "site": "UG Systems",
-   "title": "28 new text line(s), e.g. Deutsch",
-   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Leader, Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2027485/Leader-Solutions-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2027485EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Engineer-US Commercial, Los Angeles",
-   "url": "https://careers.cisco.com/global/en/job/2023319/Solutions-Engineer-US-Commercial-Los-Angeles"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023319EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Account Executive - Portfolio",
-   "url": "https://careers.cisco.com/global/en/job/2020743/Account-Executive-Portfolio"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020743EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Solutions Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2026736/Solutions-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2026736EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Lead Photonics Validation Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2023651/Lead-Photonics-Validation-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023651EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Principal Hardware Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2024112/Principal-Hardware-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2024112EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Tech Lead - Hardware /Embedded Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2023650/Tech-Lead-Hardware-Embedded-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023650EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Quantum Team Hardware Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/job/2023647/Quantum-Team-Hardware-Engineering-Technical-Leader"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023647EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Hardware Tech Lead -Optomechanical Engineer",
-   "url": "https://careers.cisco.com/global/en/job/2023652/Hardware-Tech-Lead-Optomechanical-Engineer"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Cisco Optical GmbH",
-   "title": "Apply Now",
-   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2023652EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=9srQFH3LYoYmSO9Pb7dYlKEdQ2grt%2FHSxRx2NRWTO4Q%3D"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Montagemitarbeiter Produktion (m/w/d) Werk Saarbrücken",
-   "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-Montagemitarbeiter-Produktion-%28mwd%29-Werk-Saarbr%C3%BCcken-SL/1435224633"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Studentische Wochenendarbeiter (m/w/d) Fertigung und Montage in Saarbrücken und Neunkirchen",
-   "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-Studentische-Wochenendarbeiter-%28mwd%29-Fertigung-und-Montage-in-Saarbr%C3%BCcken-und-Neunkirchen-SL/1433468533"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Ferienarbeiter (m/w/d) Friedrichshafen für den Zeitraum Januar - März 2027",
-   "url": "https://jobs.zf.com/job/Friedrichshafen-Ferienarbeiter-%28mwd%29-Friedrichshafen-f%C3%BCr-den-Zeitraum-Januar-M%C3%A4rz-2027-BW/1442413733"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Sales Transformation Program Lead",
-   "url": "https://jobs.zf.com/job/Warszawa-Sales-Transformation-Program-Lead-MZ-00-124/1411399833"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Ferienarbeiter (m/w/d) Friedrichshafen für den Zeitraum Oktober - Dezember 2026",
-   "url": "https://jobs.zf.com/job/Friedrichshafen-Ferienarbeiter-%28mwd%29-Friedrichshafen-f%C3%BCr-den-Zeitraum-Oktober-Dezember-2026-BW/1410653933"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Maschinen- und Anlagenführer (m/w/d)",
-   "url": "https://jobs.zf.com/job/Koblenz-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29-RP/1221039001"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "url": "https://jobs.zf.com/job/Bielefeld-Produktionsmitarbeiter-%28mwd%29-NW-33647/1414759933"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "url": "https://jobs.zf.com/job/Bielefeld-Produktionsmitarbeiter-%28mwd%29-NW-33647/1414760033"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "AI Consultant (w/m/d) Nuernberg, Frankfurt, Hamburg, Muenchen, Stuttgart + 1 Data & AI Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/348833-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Cloud DevOps Engineer Financial Services (w/m/d) Frankfurt, Hamburg, Koeln, Duesseldorf, Muenchen + 3 SaaS Solutions Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/435708-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Consultant SAP S/4HANA Utilities - Geräteverwaltung (w/m/d) Nuernberg, Frankfurt, Hamburg, Koeln, Dortmund + 5 SaaS Solutions Unbefristet Beruf",
-   "url": "https://www.capgemini.com/de-de/jobs/463876-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Microsoft Dynamics 365 Consultant (w/m/d) Nuernberg, Frankfurt, Hamburg, Koeln, Erfurt + 5 SaaS Solutions Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/359766-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Consultant SAP S/4HANA Utilities - Energiedatenmanagement (w/m/d) Stuttgart, Koeln, Hamburg, Frankfurt, Nuernberg + 5 SaaS Solutions Unbefriste",
-   "url": "https://www.capgemini.com/de-de/jobs/463871-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Salesforce Consultant (w/m/d) Karlsruhe, Ingolstadt, Berlin, Stuttgart, Koeln + 8 Business Analysis Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/413569-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Solution Architect Microsoft Dynamics 365 (w/m/d) Nuernberg, Frankfurt, Hamburg, Koeln, Erfurt + 5 Architecture Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/376257-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Consultant SAP S/4HANA Utilities - Marktkommunikation (w/m/d) Nuernberg, Frankfurt, Hamburg, Koeln, Dortmund + 5 SaaS Solutions Unbefristet Ber",
-   "url": "https://www.capgemini.com/de-de/jobs/463872-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Werkstudent Software Engineering (w/m/d) Erfurt, Muenchen, Dortmund, Ratingen, Berlin + 6 Administration Support Studentische Tätigkeiten/Praktikum St",
-   "url": "https://www.capgemini.com/de-de/jobs/389694-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Koenig & Bauer",
-   "title": "Mechatroniker:in (alle Geschlechter) (Ausbildung 2027)",
-   "url": "https://jobs.koenig-bauer.com/job/Veitsh%C3%B6chheim-Mechatronikerin-%28alle-Geschlechter%29-%28Ausbildung-2027%29/1447446033"
-  },
   {
    "at": "2026-10-14T22:39:37+00:00",
    "kind": "text",
@@ -3501,12 +3179,334 @@
    "site": "Conntec GmbH",
    "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
    "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Trainer – Electrical Power Engineering MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Application Engineer for Primary Application MEA (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To actively support Primary Applications in the Middle East, Africa, and Turkey (MEA) sales region, we are looking for a highly competent and dynamic ",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Training & Application Engineer Protection / Digital Protection Testing (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To strengthen our team in Stafford, UK, we are looking for a Training & Application Engineer Protection / Digital Protection Testing",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales & Application Engineer - US Central East (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Technical Support & Application Engineer UK (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "To support our team based in Stafford, UK we are currently looking for a Technical Support & Application Engineer (Electrical Engineering).",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Sales Engineer (f/m/x)",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "possible",
+   "site": "OMICRON electronics Deutschland",
+   "title": "Our team in New Delhi is looking for a Sales Engineer, with focus on secondary or primary devices.",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/jobs?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460656"
+  },
+  {
+   "at": "2026-10-15T00:54:51+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460656"
+  },
+  {
+   "at": "2026-10-15T00:54:25+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4aad8605d038574",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T00:54:25+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "20 new text line(s), e.g. Endkappe für Parkschiene flach / flach (Set) – 1 Set",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T00:54:25+00:00",
+   "kind": "text",
+   "site": "UG Systems",
+   "title": "28 new text line(s), e.g. Deutsch",
+   "url": "https://www.ug-systems.com/unternehmen.html#stellenangebote"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Consulting Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Partner Leader, Solutions Engineer, Splunk",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=BRbu1SwVwsevak9qn%2Bj%2Bgi6ID4dQKDGG45HIozMLpQI%3D"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "Bühler Motor",
+   "title": "Die Bühler Motor Gruppe ist ein international agierendes Unternehmen, konzentriert auf das Entwickeln,",
+   "url": "https://www.buehlermotor.de/karriere/stellenangebote.html"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Cloud Architect (w/m/d) Duesseldorf, Stuttgart, Muenchen, Nuernberg, Hamburg + 1 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/348766-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Cloud Architect Sovereign Cloud (w/m/d) Berlin, Duesseldorf, Muenchen, Hamburg, Koeln + 3 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/350583-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Cloud DevOps Engineer (w/m/d) Muenchen, Hamburg, Stuttgart, Frankfurt, Duesseldorf Cloud Infrastructure Management Unbefristet Berufserfahren",
+   "url": "https://www.capgemini.com/de-de/jobs/348768-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Business Analyst für Versicherungen (w/m/d) Berlin, Duesseldorf, Koeln, Stuttgart, Hannover + 2 Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513070-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Testautomation Expert (w/m/d) Stuttgart, Muenchen, Nuernberg, Frankfurt, Hamburg + 1 Quality Engineering & Testing Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/348858-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Cloud Architect (w/m/d) Berlin, Duesseldorf, Muenchen, Hamburg, Koeln + 2 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/342530-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "text",
+   "site": "Witron Logistik + Informatik",
+   "title": "1 new text line(s), e.g. a4aad8bc0add4386",
+   "url": "https://careers.witron.com/de/jobs"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792025610854"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019097"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019097"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:54:43+00:00",
+   "kind": "possible",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
+   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=%2FuvSIreDNkDvMvTd5KdOUfHxP4UjPJRbKp8cLt35kY4%3D"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Warehouse/Internal Logistics Operator",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Hoisting Service Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Hoisting Service Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T00:54:37+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Supply Chain Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T00:40:18+00:00",
+ "last_run": "2026-10-15T00:55:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408922
 }
