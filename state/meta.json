@@ -1,231 +1,7 @@
 {
- "alerts": 240,
+ "alerts": 254,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "text",
-   "site": "Witron Logistik + Informatik",
-   "title": "1 new text line(s), e.g. a4aa130a09d9f8b7",
-   "url": "https://careers.witron.com/de/jobs"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792017514081"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019084"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019084"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-14T22:39:37+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "BIOTRONIK – Erlangen",
-   "title": "Anmelden",
-   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=cMYB3aQn9TpeaZLICyyRntygMwd%2FbqUFBv2aKJRj038%3D"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "text",
-   "site": "Jaeger Medical – Höchberg",
-   "title": "6 new text line(s), e.g. Cookies Settings",
-   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Country Corporate Counsel - US",
-   "url": "https://careers.abb/global/en/job/JR00037454/Country-Corporate-Counsel-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Quality Assurance Internship",
-   "url": "https://www.pgcareers.com/de/en/search-results"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Meister / Techniker Servicekoordinator für die Inbetriebnahme im Sondermaschinenbau (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Werkstudent für internationale HR-IT- und Digitalisierungsprojekte (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Mechatroniker / Elektroniker – Wartung & Instandhaltung Produktionsanlagen, Bahntechnik (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Mechatroniker / Elektroniker als Servicetechniker für Schienenprüftechnik und Instandhaltung (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Maschinenbediener im Bereich Gleisbearbeitung (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Lagerist / Fachkraft für Lagerlogistik (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Thermit-Schweißer / Oberbauschweißer im Bereich Schieneninstandhaltung (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Produktionsmitarbeiter / Maschinenbediener (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "Director Business Field Track Supply (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "possible",
-   "site": "Vossloh – Nürnberg",
-   "title": "IT – 1st Level Support / IT Administration (m/w/d)",
-   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Machine and Facilities Technician Engineering / Technical Service Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Dorval, QC, CA",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27897-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Assistant Manager - Supplier Quality Purchasing Experienced and Graduates Giesecke & Devrient MS India Pvt. Ltd. Chennai, IN",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27891-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Production Supervisor Purchasing Experienced and Graduates Giesecke & Devrient MS India Pvt. Ltd. Chennai, IN",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27890-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Manual Operator (Vault Custodian) Manufacturing Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Markham, ON, CA",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27810-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Folder Operator (6 Months) Manufacturing Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Markham, ON, CA",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27811-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Client Development Director Sales Marketing Experienced and Graduates Giesecke+Devrient ePayments America, Inc. Lisle, IL, US Jackson , MS , US Minnea",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27804-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "IT/OT Technical Delivery Manager (m/f/d) IT Experienced and Graduates G+D Currency Technology GmbH Munich, DE",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27777-en-GB"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Procurement Coordinator Purchasing Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Markham, ON, CA",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27798-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Sr. System Administrator Others Experienced and Graduates Giesecke & Devrient MS India Pvt. Ltd. Gurugram, IN",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27791-en-US"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "German",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27789-de-DE"
-  },
-  {
-   "at": "2026-10-14T22:39:32+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "Principal Software Security Officer (m/f/d) Others Experienced and Graduates G+D Currency Technology GmbH Munich, DE",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27789-en-US"
-  },
   {
    "at": "2026-10-14T22:39:32+00:00",
    "kind": "new",
@@ -3501,12 +3277,236 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Supply Chain Internship",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer 2 - Diagnostics - Clifton, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Customer Service Engineer - Union 4 - XP - Brooklyn, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "possible",
+   "site": "ALTEN",
+   "title": "Quality Engineer",
+   "url": "https://careers.smartrecruiters.com/ALTEN"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028460786"
+  },
+  {
+   "at": "2026-10-15T01:09:51+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028460786"
+  },
+  {
+   "at": "2026-10-15T01:09:26+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Algorithm and AI Senior/Staff Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:26+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Senior Software Engineer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:26+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4aaee5c0cbd42e8",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T01:09:26+00:00",
+   "kind": "text",
+   "site": "LP Montagetechnik",
+   "title": "22 new text line(s), e.g. Einführungskappe für FIFO-Monorail-Schiene 40 (Set) – 1 Set",
+   "url": "https://www.lp-montagetechnik.com/"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Leader, Hardware Engineering",
+   "url": "https://careers.cisco.com/global/en/job/2015094/Leader-Hardware-Engineering"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2015094EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Sr Silicon Integrated Business Planner",
+   "url": "https://careers.cisco.com/global/en/job/2011660/Sr-Silicon-Integrated-Business-Planner"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2011660EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "ASIC DFT Technical Leader- MBIST",
+   "url": "https://careers.cisco.com/global/en/job/2018240/ASIC-DFT-Technical-Leader-MBIST"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2018240EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Sr. Technical Product Marketing Manager, AI and AgenticOps",
+   "url": "https://careers.cisco.com/global/en/job/2024135/Sr-Technical-Product-Marketing-Manager-AI-and-AgenticOps"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2024135EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "ASIC Engineer- CAD",
+   "url": "https://careers.cisco.com/global/en/job/2020819/ASIC-Engineer-CAD"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Cisco Optical GmbH",
+   "title": "Apply Now",
+   "url": "https://careers.cisco.com/global/en/hvhapply?jobSeqNo=CISCISGLOBAL2020819EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=UfDrX76fH%2FrYYCSF1gAj7xYtpVDNe0b1Ztqp5wB8YSI%3D"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "text",
+   "site": "Witron Logistik + Informatik",
+   "title": "1 new text line(s), e.g. a4aaeef9bbc89810",
+   "url": "https://careers.witron.com/de/jobs"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792026520898"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019099"
+  },
+  {
+   "at": "2026-10-15T01:09:40+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019099"
+  },
+  {
+   "at": "2026-10-15T01:09:52+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=5mZwS8W3%2BM3qFYR0fLOkZXg%2B1npPlZ0il9%2B1rHx7zxU%3D"
+  },
+  {
+   "at": "2026-10-15T01:09:52+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Quotations Support Intern - Summer 2027",
+   "url": "https://careers.abb/global/en/job/JR00046563/Quotations-Support-Intern-Summer-2027"
+  },
+  {
+   "at": "2026-10-15T01:09:52+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Sales Internship - MTY",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T01:09:52+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Dienstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T00:55:07+00:00",
+ "last_run": "2026-10-15T01:10:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408922
 }
