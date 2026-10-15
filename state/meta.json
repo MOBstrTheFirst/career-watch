@@ -1,5 +1,5 @@
 {
- "alerts": 17,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -316,12 +316,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-233/bewerben"
+  },
+  {
+   "at": "2026-10-15T23:10:16+00:00",
+   "kind": "new",
+   "site": "e.solutions GmbH",
+   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/professionals?cHash=8fb32ae23237cfb2603e3e09ef7c673bf8cf0143f4b5336d853f45c5f38d6a82",
+   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/professionals?cHash=8fb32ae23237cfb2603e3e09ef7c673bf8cf0143f4b5336d853f45c5f38d6a82"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) (Sales & Vertrieb) in 70771 Leinfelden-Echterdingen Sales & Vertrieb 70771 Leinfelden-Echterdingen vor einer ",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-90"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Produktionsmitarbeiter CNC (m/w/d) (Technik & Instandhaltung) in 95478 Kemnath Technik & Instandhaltung 95478 Kemnath vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-cnc-m-w-d"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Import / Export (m/w/d) (Büroverwaltung) in 97944 Boxberg Büroverwaltung 97944 Boxberg Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-import-export-m-w-d-1"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Sichtkontrolle (m/w/d) (Reinigung & Wartung) in 13353 Berlin Reinigung & Wartung 13353 Berlin vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-sichtkontrolle-m-w-d"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditoren- und Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74653 74653 Rechnungswesen & Finanzen 45.000,00 - 55.000,00 EUR / Jahr 7465",
+   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-11"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsaußendienst / Key Account (m/w/d) (Sales & Vertrieb) in 71229 Leonberg Sales & Vertrieb 71229 Leonberg vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/vertriebsaussendienst-key-account-m-w-d"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Montagefachkraft (m/w/d) (Technik & Instandhaltung) in 95478 Kemnath Technik & Instandhaltung 95478 Kemnath vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/montagefachkraft-m-w-d-3"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Leinfelden-Echterdingen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-leinfelden-echterdingen"
+  },
+  {
+   "at": "2026-10-15T23:09:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-90/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T23:04:17+00:00",
+ "last_run": "2026-10-15T23:10:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 5,
+ "runs": 6,
  "tg_offset": 297408924
 }
