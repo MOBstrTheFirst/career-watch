@@ -1,217 +1,7 @@
 {
- "alerts": 517,
+ "alerts": 531,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Projektmanagement Standortleitung Optronics (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Projektmanagement-Standortleitung-Optronics-%28mwd%29-73447/1364861355"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Hochfrequenz-Entwicklungsingenieur (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Hochfrequenz-Entwicklungsingenieur-%28wmd%29-89077/1364863555"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Masterarbeit System, IV & V & Test Engineering (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Masterarbeit-System%2C-IV-&-V-&-Test-Engineering-%28wmd%29-82256/1368610855"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Systemingenieur für Multiplattform Electronic Surveillance (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Systemingenieur-f%C3%BCr-Multiplattform-Electronic-Surveillance-%28mwd%29-89077/1368625755"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur für Airborne Electronic Surveillance (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-f%C3%BCr-Airborne-Electronic-Surveillance-%28wmd%29-89077/1368626955"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektleiter Gefechtsstandsysteme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-Gefechtsstandsysteme-%28wmd%29-82256/1364879055"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Teilprojektleiter Gefechtsstandsysteme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Teilprojektleiter-Gefechtsstandsysteme-%28wmd%29-82256/1364870955"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "IT-Projektmanager Mission Support Systems P-8A (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-IT-Projektmanager-Mission-Support-Systems-P-8A-%28wmd%29-82256/1361630855"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Manager Forschung & Technologie Vertrieb und Geschäftsentwicklung (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Manager-Forschung-&-Technologie-Vertrieb-und-Gesch%C3%A4ftsentwicklung-%28wmd%29-89077/1364868555"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Systemingenieur*in Transportflugzeuge (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Systemingenieurin-Transportflugzeuge-%28wmd%29-82256/1165527555"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Systemingenieur Industriedokumentation (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Systemingenieur-Industriedokumentation-%28wmd%29-82256/1346741955"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Praktikant GeoIT/Bildverarbeitung (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Praktikant-GeoITBildverarbeitung-%28wmd%29-82256/1338517555"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur Industriedokumentation (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Systemingenieur-Industriedokumentation-%28wmd%29-82256/1346741755"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Mitarbeiter im Vertriebsinnendienst / Inside Sales (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Pforzheim-Mitarbeiter-im-Vertriebsinnendienst-Inside-Sales-%28mwd%29-75179/1346780055"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Angebots- und Projektmanager EW Systems (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Angebots-und-Projektmanager-EW-Systems-%28wmd%29-89077/1361578255"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Head of IFF Project and Bids (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Head-of-IFF-Project-and-Bids-%28wmd%29-82024/1361597355"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Software Engineering (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Software-Engineering-%28wmd%29-82256/1361625655"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Mitarbeiter im Bereich Lagerlogistik in Teilzeit (w/m/d) am Standort Roth",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Mitarbeiter-im-Bereich-Lagerlogistik-in-Teilzeit-%28wmd%29-am-Standort-Roth-82256/1361622155"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Experte Digitale Fabrik - Fokus Digitalisierung und IT/OT Systeme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Experte-Digitale-Fabrik-Fokus-Digitalisierung-und-ITOT-Systeme-%28wmd%29-89077/1361575755"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Würz­burg, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/199118/projektingenieur"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Einkäufer (m/w/d) Job Hybrid Vollzeit 40.000 - 60.000 € Schwein­furt, Deutsch­land Fahrzeugtechnik Weitere Young Professionals Professionals ohne Pers",
-   "url": "https://touch.ferchau.com/de/de/job/363127/einkaeufer"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur Vali­die­rung und Quali­fi­zie­rung (m/w/d) Job Vor Ort Vollzeit 40.000 - 85.000 € Mann­heim, Deutsch­land Maschinenbau Pharma und Lifescie",
-   "url": "https://touch.ferchau.com/de/de/job/369739/ingenieur-validierung-und-qualifizierung"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur TGA (m/w/d) Job Vor Ort Vollzeit 42.000 - 80.000 € Mann­heim, Deutsch­land Anlagenbau Pharma und Lifescience Weitere Professionals Senior P",
-   "url": "https://touch.ferchau.com/de/de/job/393508/ingenieur-tga"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur (m/w/d) Medi­zin­technik Job Vor Ort Vollzeit 45.000 - 80.000 € Mann­heim, Deutsch­land Elektrotechnik Pharma und Lifescienc",
-   "url": "https://touch.ferchau.com/de/de/job/401050/entwicklungsingenieur-medizintechnik"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Termin­planer (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Würz­burg, Deutsch­land Weitere Professionals Senior Professionals ohne Personalverantwort",
-   "url": "https://touch.ferchau.com/de/de/job/435190/terminplaner"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker / Elek­tro­niker für Auto­ma­ti­sie­rung (m/w/d) Pharma Job Vor Ort Vollzeit 40.000 - 65.000 € Mann­heim, Deutsch­land Anlagenbau Elektrote",
-   "url": "https://touch.ferchau.com/de/de/job/443554/techniker-elektroniker-fuer-automatisierung-pharma"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inside Sales Specia­list (m/w/d) Job Hybrid Vollzeit 35.000 - 45.000 € Wetzlar, Deutsch­land Vertrieb Young Professionals Professionals ohne Personalv",
-   "url": "https://touch.ferchau.com/de/de/job/451561/inside-sales-specialist"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Assis­tenz (m/w/d) Job Hybrid Vollzeit 40.000 - 50.000 € Würz­burg, Deutsch­land Weitere Young Professionals Professionals ohne Personalverantwortung ",
-   "url": "https://touch.ferchau.com/de/de/job/457222/assistenz"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Werk­stu­dent Recrui­ting (m/w/d) Job Hybrid Teilzeit 12.900 - 14.400 € Schwein­furt, Deutsch­land Personal Students ohne Personalverantwortung Arbeit",
-   "url": "https://touch.ferchau.com/de/de/job/476236/werkstudent-recruiting"
-  },
-  {
-   "at": "2026-10-15T02:24:35+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "(Junior) Talent Acqui­si­tion Specia­list (m/w/d) Job Hybrid Vollzeit 40.000 - 50.000 € Schwein­furt, Deutsch­land Personal Young Professionals Profes",
-   "url": "https://touch.ferchau.com/de/de/job/477325/junior-talent-acquisition-specialist"
-  },
   {
    "at": "2026-10-15T02:24:35+00:00",
    "kind": "new",
@@ -3501,12 +3291,222 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Wuppertal",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Wuppertal-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Wuppertal-NW-42103/1445958033"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028463759"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028463759"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:49+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Speichern Strahlenschutzwerker/ -fachkraft (m/w/d) in Dresden",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:06+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4ac79da1ab969e2",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior AI Researcher, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Engineering Program Manager",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Legal Rising 3L (Intern) - United States",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Machine Learning Engineering Technical Leader",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Industry Solutions Engineer",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Senior Machine Learning Engineer, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Account Executive - Architecture-IMI (Internet and Mass Infrastructure)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Principal AI Researcher, AISWP (Hybrid)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior Equipment Engineer (Plasma)",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-Equipment-Engineer-Plasma-Kulim/24479"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=g5ri7jWgeIkEUUuxaoXQMpSeKfpEiTFwTtuj6rdD61E%3D"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New APAC Treasury Specialist Hwasung, Korea Finance",
+   "url": "https://www.asml.com/en/careers/find-your-job/apac-treasury-specialist-j00355273"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "Witron Logistik + Informatik",
+   "title": "Dokumentation zur Fehlerbehebung",
+   "url": "https://careers.witron.com/cdn-cgi/challenge-platform/help"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792042744084"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019192"
+  },
+  {
+   "at": "2026-10-15T05:41:46+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019192"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=%2Frz5xiMw5oD9sJDIEI2Bsc%2BryMOOGyxaNnX0T%2FmwGyc%3D"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "6 new text line(s), e.g. Cookies Settings",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "text",
+   "site": "Conntec GmbH",
+   "title": "1 new text line(s), e.g. Wenn heute Samstag ist, welcher Tag war gestern?*",
+   "url": "https://www.conntec.de/kontakt/"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Consultant (m/w/d) HR-Projektmanagement (HR & Personalwesen) in 74072 Heilbronn HR & Personalwesen 74072 Heilbronn vor 7 Stunden",
+   "url": "https://jobs.de.dis-ag.com/consultant-m-w-d-hr-projektmanagement"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kategorie: HR & Personalwesen",
+   "url": "https://jobs.de.dis-ag.com/suche/hr-und-personalwesen"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Heilbronn",
+   "url": "https://jobs.de.dis-ag.com/suche/in-heilbronn"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/consultant-m-w-d-hr-projektmanagement/bewerben"
+  },
+  {
+   "at": "2026-10-15T05:39:40+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auf WhatsApp teilen",
+   "url": "https://wa.me/?text=https%3A%2F%2Fjobs.de.dis-ag.com%2Fconsultant-m-w-d-hr-projektmanagement%2F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T05:26:53+00:00",
+ "last_run": "2026-10-15T05:42:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408922
 }
