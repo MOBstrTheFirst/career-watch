@@ -1,252 +1,7 @@
 {
- "alerts": 1554,
+ "alerts": 1570,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T14:39:28+00:00",
-   "kind": "text",
-   "site": "Loewe Technology",
-   "title": "1 new text line(s), e.g. a4af90d15f9b4f8b",
-   "url": "https://www.loewe.tv/de/de/job_openings"
-  },
-  {
-   "at": "2026-10-15T14:39:28+00:00",
-   "kind": "possible",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in A10 Center Wildau (2027)",
-   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
-  },
-  {
-   "at": "2026-10-15T14:39:28+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Maschineneinrichter / Mechaniker (m/w/d) Freudenstadt",
-   "url": "https://www.tempton.de/jobs/maschineneinrichter-mechaniker"
-  },
-  {
-   "at": "2026-10-15T14:39:28+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "15.10.2026 Teamassistenz (m/w/d) Ludwigsburg",
-   "url": "https://www.tempton.de/jobs/teamassistenz-11"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "AI Security Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Machine Learning Engineer II (Intern) – United States",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Senior ASIC Engineer",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "ASIC Engineering Technical Leader",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "Cisco Optical GmbH",
-   "title": "Leader, Hardware Engineering",
-   "url": "https://careers.cisco.com/global/en/search-results"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Murata Electronics Europe – Germany branch",
-   "title": "Sign In",
-   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=yHCxBedNgBAEGcAx11dt%2Feo6BvMLdJAkedLQCrErLNM%3D"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Senior Mechanical Engineer Wilton, CT, US Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/senior-mechanical-engineer-j00354362"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Gestionnaire Paie Administration du personnel F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/gestionnaire-paie-administration-du-personnel-f-h-ref-2026-28072"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable d’interventions Site Nucléaire F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-dinterventions-site-nucleaire-f-h-ref-2026-28071"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "STAGE 2027 – Technicien Bureau Etudes Mécaniques F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-2027-technicien-bureau-etudes-mecaniques-f-h-ref-2026-28070"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "STAGE 2027 – Ingénieur Bureau Etudes Mécaniques (F/H) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-2027-ingenieur-bureau-etudes-mecaniques-f-h-f-h-ref-2026-28069"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Chargé(e) de Compliance & Support Export Control – F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/chargee-de-compliance-support-export-control-f-h-ref-2026-28036"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Contrôleur CND – Déplacement UK F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/controleur-cnd-deplacement-uk-f-h-ref-2026-28063"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Inspecteur qualité site F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/inspecteur-qualite-site-f-h-ref-2026-28058"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable Qualité de la BL Constructions neuves F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-qualite-de-la-bl-constructions-neuves-f-h-ref-2026-28057"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Ingénieur Méthodes Qualité / CND F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-methodes-qualite-cnd-f-h-ref-2026-28021"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Shipping/Recieving Clerk",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Shipping-and-Recieving-Clerk_R00262114?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Engineer - Hardware Test",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Engineer---Hardware-Test_R00256404?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Production Supervisor",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Penetanguishene-Ontario-CA/Production-Supervisor_R00260318?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "Alle Filter",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792075115957"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "nächste",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019740"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Elektron Systeme und Komponenten",
-   "title": "letzte",
-   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019740"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur / Techniker als Sachverständiger anlagentechnischer Brandschutz (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Ingenieur Bauwesen / Konstruktiver Ingenieurbau (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "possible",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Senior Fullstack Developer - Data Analytics & AI (w/m/d)",
-   "url": "https://jobs.tuvsud.com/search?facetFilters=%7B%22cust_brand%22%3A%5B%22T%C3%9CV+S%C3%9CD%22%5D%2C%22jobLocationCountry%22%3A%5B%22Deutschland%22%5D%7D&locale=de_DE&searchResultView=LIST"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhalter (m/w/d) elektrisch 92242 Hirschau, Oberpfalz 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZwIRsT-instandhalter-mwd-elektrisch_92242-hirschau-oberpfalz"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90459 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1eWnGj-bilanzbuchhalter-mwd-zur-direktvermittlung_90459-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 91126 Schwabach 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2raW1U-finanzbuchhalter-mwd-zur-direktvermittlung_91126-schwabach"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 91126 Schwabach 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2n3WKe-finanzbuchhalter-mwd-zur-direktvermittlung_91126-schwabach"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90459 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10eXao-bilanzbuchhalter-mwd-zur-direktvermittlung_90459-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-15T14:39:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Controller (m/w/d) zur Direktvermittlung 90451 Nürnberg, Mittelfranken 15.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zd1yfo-controller-mwd-zur-direktvermittlung_90451-nuernberg-mittelfranken"
-  },
   {
    "at": "2026-10-15T14:39:38+00:00",
    "kind": "new",
@@ -3501,12 +3256,257 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "IT Intern - Naucalpan Plant",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Facility Building Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - MR/CT/AX - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Columbus, OH",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Save Medical Imaging Field Engineer - Yuma, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "text",
+   "site": "Biogents – Regensburg",
+   "title": "8 new text line(s), e.g. You've Got A",
+   "url": "https://www.biogents.com/"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "nächste",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p2&_search_token1152481=2028478149"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "letzte",
+   "url": "https://jobs.br.de/Jobs/All?tc1152481=p4&_search_token1152481=2028478149"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Quality Assurance Technician",
+   "url": "https://leggett.com/careers/search?posting=36569"
+  },
+  {
+   "at": "2026-10-15T17:40:12+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Slitter Operator 1st Shift",
+   "url": "https://leggett.com/careers/search?posting=36571"
+  },
+  {
+   "at": "2026-10-15T17:39:40+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "MSAT Value Stream Engineer III",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:40+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "SAP BI/BW Developer",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:40+00:00",
+   "kind": "possible",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Quality Engineer – Supplier Quality",
+   "url": "https://jobs.thermofisher.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:40+00:00",
+   "kind": "text",
+   "site": "Loewe Technology",
+   "title": "1 new text line(s), e.g. a4b098bffa2f97e3",
+   "url": "https://www.loewe.tv/de/de/job_openings"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineering Technical Leader (Remote)",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Software Engineer Technical Leader – Network Data Plane – Hypershield",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "possible",
+   "site": "Cisco Optical GmbH",
+   "title": "Engineering Product Manager - Mobility",
+   "url": "https://careers.cisco.com/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Material Handler - 3rd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Material-Handler-3rd-shift-Hillsboro/24579"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Packer - 3rd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Packer-3rd-shift-Hillsboro/24580"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "Murata Electronics Europe – Germany branch",
+   "title": "Sign In",
+   "url": "https://career5.successfactors.eu/career?career_company=C0003974859P&lang=en_GB&company=C0003974859P&site=&loginFlowRequired=true&_s.crb=%2BN5G4OG%2FnG8DaSn%2FnSU4irFqZ2dM9ZDjBzurTPdJA7c%3D"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Sourcing Lead San Diego, CA, US Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/sourcing-lead-j00354142"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "Alle Filter",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?Extended=Search&EditInPopupParam=true&popupOpen=1792085912001"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "nächste",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p2&_search_token1152481=2001019779"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "Elektron Systeme und Komponenten",
+   "title": "letzte",
+   "url": "https://recruitingapp-5537.de.umantis.com/Jobs/All?tc1152481=p1&_search_token1152481=2001019779"
+  },
+  {
+   "at": "2026-10-15T17:39:28+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "COORDENADOR DE ENGENHARIA LOGISTICA",
+   "url": "https://careers.motherson.com/en/job/coordenador-de-engenharia-logistica-z-94emfptvsavadt55odia"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "new",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "Anmelden",
+   "url": "https://career5.successfactors.eu/career?career_company=C0001096615P&lang=de_DE&company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv&loginFlowRequired=true&_s.crb=o%2FcU2zokTUwB4zKBcOZgTB2nhOALJYGH9N3b6lLOHLc%3D"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "2 new text line(s), e.g. You appear to be in the United States. Would you like to visit our US site to view products and serv",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Sales Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Sales Engineer",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Procter & Gamble - Sales Internship - Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Manufacturing Internship, Summer 2027",
+   "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-15T17:39:33+00:00",
+   "kind": "possible",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Site Digital IT Manager Internship",
+   "url": "https://www.pgcareers.com/de/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-15T17:25:22+00:00",
+ "last_run": "2026-10-15T17:40:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-14",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408922
 }
