@@ -1,5 +1,5 @@
 {
- "alerts": 112,
+ "alerts": 122,
  "commands_set": true,
  "events": [
   {
@@ -2374,12 +2374,397 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/it-onsite-support-mitarbeiter-m-w-d-17/bewerben"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Service Spezialist (Marine Antriebssysteme) (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Service-Spezialist-Marine-Antriebssysteme-w-m-d/286506"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "DevOps Engineer Den Haag Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105490/DevOps%20Engineer/Den%20Haag"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "DevOps Engineer Almere Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103836/DevOps%20Engineer/Almere"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "DevOps Engineer Rotterdam Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103830/DevOps%20Engineer/Rotterdam"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Functioneel Beheerder Den Haag Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103823/Functioneel%20Beheerder/Den%20Haag"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Functioneel Beheerder 's-Hertogenbosch Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102996/Functioneel%20Beheerder/'s-Hertogenbosch"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Software Tester Den Haag Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105496/Software%20Tester/Den%20Haag"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Data Analist Amsterdam Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103843/Data%20Analist/Amsterdam"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "DevOps Engineer 's-Hertogenbosch Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103834/DevOps%20Engineer/'s-Hertogenbosch"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Business Analist Almere Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103826/Business%20Analist/Almere"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Functioneel Applicatiebeheerder Arnhem Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102991/Functioneel%20Applicatiebeheerder/Arnhem"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Data Engineer Den Haag Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105493/Data%20Engineer/Den%20Haag"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Data Analist Utrecht Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103841/Data%20Analist/Utrecht"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "DevOps Engineer Arnhem Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103832/DevOps%20Engineer/Arnhem"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Functioneel Applicatiebeheerder Rotterdam Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-103004/Functioneel%20Applicatiebeheerder/Rotterdam"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Functioneel Beheerder Utrecht Seit 16. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102980/Functioneel%20Beheerder/Utrecht"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Ergotherapeut (m/w/d) als Aushilfe",
+   "url": "https://karriere.fresenius.de/job-detail/f5bc67a8-7854-5220-975e-4ea662559dfa/ergotherapeut-m-w-d-als-aushilfe"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Ausbildung zur Pflegefachkraft (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/da92c2b3-cac9-5940-b846-5958429f1418/ausbildung-zur-pflegefachkraft-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Oberarzt Kardiologie (m/w/d) - Intensivstation",
+   "url": "https://karriere.fresenius.de/job-detail/791b3298-840e-5f1d-ab7f-475a2ab82efa/oberarzt-kardiologie-m-w-d-intensivstation"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Facharzt Geriatrie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/e606b77f-3c72-537d-a9b6-6526dc5aa963/facharzt-geriatrie-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Studentische Hilfskraft/Praktikant im Rahmen der Praxisphase für unser Bildungszentrum (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/3c9e2697-c01e-5f2d-9832-874821a49ac2/studentische-hilfskraft-praktikant-im-rahmen-der-praxisphase-fuer-unser-bildungszentrum-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Logopäden als Aushilfe (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/d9735984-bac6-5fd5-8a5f-76ed1a648f9a/logopaeden-als-aushilfe-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Physiotherapeut (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/0b2957fb-f18a-5dc6-a420-85284f20b17a/physiotherapeut-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Allgemeinmediziner (m/w/d) für Nachtdienste",
+   "url": "https://karriere.fresenius.de/job-detail/d48d7102-e0b7-52bb-9e05-631e61ea827b/allgemeinmediziner-m-w-d-fuer-nachtdienste"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017W4jtQAC"
+  },
+  {
+   "at": "2026-10-16T07:10:23+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Facharbeiter Maschinenführer (m/w/d) bis zu 27€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000135tRTQAY"
+  },
+  {
+   "at": "2026-10-16T07:10:16+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Job Manufacturing Engineering Quality Manching Programmes (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Job-Manufacturing-Engineering-Quality-Manching-Programmes--d-f-m-_JR10434530?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T07:10:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Gabelstaplerfahrer (m/w/d) Morsbach",
+   "url": "https://www.tempton.de/jobs/gabelstaplerfahrer-812"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Bayernwerk / Bayernwerk Netz",
+   "title": "Ausbildung Elektroniker für Betriebstechnik (m/w/d) Schwandorf - Start 2027 Bayernwerk Netz GmbH Schwandorf (BY), Cham (BY), Maxhütte-Haidhof (BY), Ob",
+   "url": "https://jobs.bayernwerk.de/de/job/Ausbildung-Elektroniker-fuer-Betriebstechnik-m_w_d-Schwandorf-Start-2027-Schwandorf/244580"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 84028 Landshut, Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1w6Otw-zerspanungsmechaniker-mwd_84028-landshut-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fahrzeuglackierer (m/w/d) 84028 Landshut, Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2kdHCm-fahrzeuglackierer-mwd_84028-landshut-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metallbauer (m/w/d) 84109 Wörth an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2iEO5G-metallbauer-mwd_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenführer (m/w/d) 84032 Landshut, Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ts5wW-anlagenfuehrer-mwd_84032-landshut-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 85368 Moosburg an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zgz85u-produktionshelfer-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Technisch-kaufmännischer Mitarbeiter (m/w/d) 92263 Ebermannsdorf 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/OqKtM-technisch-kaufmaennischer-mitarbeiter-mwd_92263-ebermannsdorf"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 84109 Wörth an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZTGUln-staplerfahrer-mwd_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schlosser (m/w/d) 84032 Altdorf, Niederbayern 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1PSrAH-schlosser-mwd_84032-altdorf-niederbayern"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter in der Gießerei (m/w/d) 85368 Moosburg an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/QuKrJ-mitarbeiter-in-der-giesserei-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2muxCI-staplerfahrer-mwd_97437-hassfurt"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Qualitätsprüfer (m/w/d) 84137 Vilsbiburg 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1OcKwv-qualitaetspruefer-mwd_84137-vilsbiburg"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "KFZ - Mechatroniker (m/w/d) 84079 Bruckberg, Niederbayern 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24bTvP-kfz-mechatroniker-mwd_84079-bruckberg-niederbayern"
+  },
+  {
+   "at": "2026-10-16T07:09:22+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) 84032 Altdorf, Niederbayern 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2vuvAM-instandhalter-mwd_84032-altdorf-niederbayern"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Manufacturing Engineer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506150/manufacturing-engineer-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Manager für Projekt IT-Sicherheit (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506152/manager-fuer-projekt-it-sicherheit-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Technik Manager (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506402/technik-manager-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Data Center Operations Engineer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506492/data-center-operations-engineer-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Technischer Projekt- und Supply Manager (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506498/technischer-projekt-und-supply-manager-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Engineer Plattformbetriebssysteme (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506639/engineer-plattformbetriebssysteme-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Programm Architekt (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506642/programm-architekt-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Software System Architect (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506643/software-system-architect-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Hochfrequenz Engineering Manager (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506652/hochfrequenz-engineering-manager-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Verifikation- & Validierungsmanager (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506655/verifikation-validierungsmanager-(all-gender)"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sales Assistance (m/w/d) (Sales & Vertrieb) in 76614 Bruchsal Sales & Vertrieb 76614 Bruchsal Homeoffice möglich vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sales-assistance-m-w-d-1"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Bruchsal",
+   "url": "https://jobs.de.dis-ag.com/suche/in-bruchsal"
+  },
+  {
+   "at": "2026-10-16T07:09:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sales-assistance-m-w-d-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T06:56:00+00:00",
+ "last_run": "2026-10-16T07:10:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
