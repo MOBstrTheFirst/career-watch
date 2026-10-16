@@ -1,28 +1,7 @@
 {
- "alerts": 402,
+ "alerts": 405,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T10:25:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektriker (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000frPVJQA2"
-  },
-  {
-   "at": "2026-10-16T10:25:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kommissionierer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fqhhCQAQ"
-  },
-  {
-   "at": "2026-10-16T10:25:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker SHK (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fl6SAQAY"
-  },
   {
    "at": "2026-10-16T10:25:17+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-im-dresdner-westen/bewerben"
+  },
+  {
+   "at": "2026-10-16T14:40:23+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "EHS Specialist (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=36297"
+  },
+  {
+   "at": "2026-10-16T14:39:41+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Abschlussarbeit (Bachelor/Master) initiativ",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/abschlussarbeit-bachelor-master-initiativ-68161381"
+  },
+  {
+   "at": "2026-10-16T14:39:41+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Embedded AI Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Novi-Sad/Senior-Embedded-AI-Software-Engineer_R-10066954-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T14:25:30+00:00",
+ "last_run": "2026-10-16T14:40:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
