@@ -1,5 +1,5 @@
 {
- "alerts": 102,
+ "alerts": 112,
  "commands_set": true,
  "events": [
   {
@@ -2101,12 +2101,285 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/feinwerkmechaniker-cnc-fraeser-cnc-dreher-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "possible",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Standortleiter / Business-Unit-Leiter (m/w/d) Energie- und Infrastrukturbau",
+   "url": "https://karriere.omexom.de/"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur/Prüfer Components (m/w/d) bis zu 26€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000136Qf7QAE"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fertigungsmitarbeiter (m/w/d) bis zu 22€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000136qcyQAA"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) bis zu 23€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000137U7FQAU"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagehilfskraft (m/w/d) bis zu 22€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000013FVVxQAO"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Assistenz – Empfang/Sekretariat (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bOEStQAO"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Anlagenmechaniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bPPltQAG"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker / Elektroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bOcdHQAS"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Instandhalter (m/w/d) Elektrik bis zu 27€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jkRcsQAE"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Prüfmitarbeiter Elektronik (m/w/d) bis zu 26€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jrPrtQAE"
+  },
+  {
+   "at": "2026-10-16T06:55:13+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker (m/w/d) Hardwarelabor bis zu 26€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jrwQxQAI"
+  },
+  {
+   "at": "2026-10-16T06:54:26+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Technical Training Portfolio Manager:in Wels, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/technical-training-portfolio-managerin-1115"
+  },
+  {
+   "at": "2026-10-16T06:54:26+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "People Relations Manager:in Wels, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/people-relations-managerin-1104"
+  },
+  {
+   "at": "2026-10-16T06:54:26+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Learning & Development Manager Wels, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/learning-development-manager-1007"
+  },
+  {
+   "at": "2026-10-16T06:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Helfer - Kunststoff, Kautschuk (m/w/d) Morsbach",
+   "url": "https://www.tempton.de/jobs/helfer-kunststoff-kautschuk-117"
+  },
+  {
+   "at": "2026-10-16T06:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Fahrzeuglackierer (m/w/d) gesucht! Wächtersbach",
+   "url": "https://www.tempton.de/jobs/fahrzeuglackierer-gesucht"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior Staff Engineer, Process Engineering (Plasma)",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-Staff-Engineer-Process-Engineering-Plasma-Kulim/24457"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Logistikkoordinator (m/w/d) in Kassel und München",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Products & Systems Engineering",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "IT Business Analyst Production (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/IT-Business-Analyst-Production--m-w-x-_R00266476?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Engineer",
+   "url": "https://careers.motherson.com/en/job/engineer-7127"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/10Qv2g-produktionsmitarbeiter-mwd_97437-hassfurt"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1MrsDL-lagermitarbeiter-mwd_97437-hassfurt"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schlosser (m/w/d) Technische Instandhaltung 20459 Hamburg 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1vFTdO-schlosser-mwd-technische-instandhaltung_20459-hamburg"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WYg5V-helfer-mwd_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industrieelektriker (m/w/d) 97447 Gerolzhofen 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2csaF2-industrieelektriker-mwd_97447-gerolzhofen"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachlagerist (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/YDz9-fachlagerist-mwd_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1En5CA-industriemechaniker-mwd_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) Verpackung 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/TSdW8-helfer-mwd-verpackung_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZIud5W-produktionshelfer-mwd_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/19m8w6-produktionsmitarbeiter-mwd_97478-knetzgau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97469 Gochsheim, Unterfranken 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/mN8Ub-lagermitarbeiter-mwd_97469-gochsheim-unterfranken"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Systemadministrator (m/w/d) Infrastruktur und Teamleitung 04289 Leipzig 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Hwd3s-systemadministrator-mwd-infrastruktur-und-teamleitung_04289-leipzig"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Head of HR Business Partner (m/w/d) 89075 Ulm, Donau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZoOuMk-head-of-hr-business-partner-mwd_89075-ulm-donau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lohnbuchhalter (m/w/d) 89075 Ulm, Donau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/4PMgX-lohnbuchhalter-mwd_89075-ulm-donau"
+  },
+  {
+   "at": "2026-10-16T06:54:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "IT-Administrator (m/w/d) Infrastruktur & Virtualisierung 04289 Leipzig 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2cQ302-it-administrator-mwd-infrastruktur-und-virtualisierung_04289-leipzig"
+  },
+  {
+   "at": "2026-10-16T06:55:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Onsite-Support Mitarbeiter (m/w/d) (IT & Software) in 60486 Frankfurt am Main IT & Software 60486 Frankfurt am Main vor 8 Stunden",
+   "url": "https://jobs.de.dis-ag.com/it-onsite-support-mitarbeiter-m-w-d-17"
+  },
+  {
+   "at": "2026-10-16T06:55:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Inside Sales Manager (m/w/d) (Sales & Vertrieb) in 76412 Rastatt Sales & Vertrieb 76412 Rastatt Homeoffice möglich vor 8 Stunden",
+   "url": "https://jobs.de.dis-ag.com/inside-sales-manager-m-w-d-22"
+  },
+  {
+   "at": "2026-10-16T06:55:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-onsite-support-mitarbeiter-m-w-d-17/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T06:40:18+00:00",
+ "last_run": "2026-10-16T06:56:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
