@@ -1,21 +1,7 @@
 {
- "alerts": 467,
+ "alerts": 468,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:16:18+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektmanager Energieversorgung (m/w/d) Berufserfahrene Dresden Neu",
-   "url": "https://karriere.omexom.de/jobs/61716067/Projektmanager-Energieversorgung-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:15:51+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Supply Chain & Quality Manager - Cabin Seat (f/m/d)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Supply-Chain---Quality-Manager---Cabin-Seat---f-m-d-_JR10438193?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-16T11:15:51+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ASML – Erlangen",
    "title": "New 1st Shift Material Handler Wilton, CT, US Sourcing and Supply Chain Management",
    "url": "https://www.asml.com/en/careers/find-your-job/1st-shift-material-handler-j00354739"
+  },
+  {
+   "at": "2026-10-16T20:09:21+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Almacenista",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12731V-p-896a51f4c279082fa19c6e53b86003f9/almacenista"
+  },
+  {
+   "at": "2026-10-16T20:09:21+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Aux. Almoxarifado",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF81903X-p-072c1a6fc8ac9f009ebbb3983eacc2b8/aux-almoxarifado"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T19:55:42+00:00",
+ "last_run": "2026-10-16T20:10:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
