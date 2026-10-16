@@ -1,42 +1,7 @@
 {
- "alerts": 458,
+ "alerts": 460,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Personalsachbearbeiter Entgeltabrechnung (m/w/d) (Rechnungswesen & Finanzen) in 91207 Lauf a.d. Pegnitz Rechnungswesen & Finanzen 91207 Lauf a.d. Pegn",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-entgeltabrechnung-m-w-d-9"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Teamassistenz im Einkauf (m/w/d) (Einkauf & Supply Chain) in 38350 Helmstedt Einkauf & Supply Chain 38350 Helmstedt vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/teamassistenz-im-einkauf-m-w-d"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Lauf a.d. Pegnitz",
-   "url": "https://jobs.de.dis-ag.com/suche/in-lauf-a-d-pegnitz"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-entgeltabrechnung-m-w-d-9/bewerben"
-  },
-  {
-   "at": "2026-10-16T11:16:18+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Enterprise Account Manager (w/m/d) Smart Buildings",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/495261"
-  },
   {
    "at": "2026-10-16T11:16:18+00:00",
    "kind": "new",
@@ -3501,12 +3466,47 @@
    "site": "indie Semiconductor (TeraXion) – Nürnberg",
    "title": "IT Support Engineer Neu Aliso Viejo, CA; San Jose, CA",
    "url": "https://www.indie.inc/careers/job-opportunities?gh_jid=5248200007"
+  },
+  {
+   "at": "2026-10-16T18:54:32+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Consultant Smart Manufacturing & Physical AI (w/m/d) Dortmund, Berlin, Ingolstadt, Karlsruhe, Duesseldorf + 8 Business Analysis Unbefristet Studierend",
+   "url": "https://www.capgemini.com/de-de/jobs/571495-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T18:54:32+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Client Partner Öffentlicher Sektor Land Nordrhein-Westfalen (w/m/d) Koeln, Duesseldorf Sales & Client Management & Solution Design Unbefristet Executi",
+   "url": "https://www.capgemini.com/de-de/jobs/535903-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T18:54:32+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Superintendent, Maintenance",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Carrollton-Georgia-US/Superintendent--Maintenance_R00266229-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T18:54:32+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Coord, Launch",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Carrollton-Georgia-US/Coord--Launch_R00265281?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T18:54:32+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Engineering Student",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Engineering-Student_R00266422?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T18:40:28+00:00",
+ "last_run": "2026-10-16T18:55:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
