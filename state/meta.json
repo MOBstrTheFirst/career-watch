@@ -1,70 +1,7 @@
 {
- "alerts": 212,
+ "alerts": 216,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T03:54:49+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior Technician, Equipment Engineering (Metal Deposition)",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-Technician-Equipment-Engineering-Metal-Deposition-Kulim/24541"
-  },
-  {
-   "at": "2026-10-16T03:54:49+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Maintenance Associate Engineer (Plasma)",
-   "url": "https://jobs.ams-osram.com/en/job/Maintenance-Associate-Engineer-Plasma-Kulim/24480"
-  },
-  {
-   "at": "2026-10-16T04:09:36+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quotations Support Intern - Summer 2027",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-16T04:09:36+00:00",
-   "kind": "possible",
-   "site": "ABB – Nürnberg branch",
-   "title": "Save Quotations Support Intern - Summer 2027",
-   "url": "https://careers.abb/global/en/search-results"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Experienced Upholsterer",
-   "url": "https://leggett.com/careers/search?posting=33925"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Engineering Technician",
-   "url": "https://jobs.sanmina.com/jobs/18366283-engineering-technician"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Machinist- 2nd Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328576-machinist-2nd-shift"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Via Fill Operator (Graveyard)",
-   "url": "https://jobs.sanmina.com/jobs/18361348-via-fill-operator-graveyard"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Via Fill Operator (Swing)",
-   "url": "https://jobs.sanmina.com/jobs/18361346-via-fill-operator-swing"
-  },
   {
    "at": "2026-10-16T04:25:01+00:00",
    "kind": "new",
@@ -3501,12 +3438,75 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/it-support-engineer/bewerben"
+  },
+  {
+   "at": "2026-10-16T09:55:09+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Elektriker / Mechatroniker (w/m/d) in der Generator-Wickelei",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Elektriker-Mechatroniker-w-m-d-in-der-Generator-Wickelei/300522"
+  },
+  {
+   "at": "2026-10-16T09:55:09+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Industriemechaniker (w/m/d) in der Generator-Vormontage",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Industriemechaniker-w-m-d-in-der-Generator-Vormontage/300521"
+  },
+  {
+   "at": "2026-10-16T09:54:22+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Entwicklungsingenieur (m/w/d) - Defence München",
+   "url": "https://www.tempton.de/jobs/entwicklungsingenieur-defence-1"
+  },
+  {
+   "at": "2026-10-16T09:54:26+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "ENGINEER",
+   "url": "https://careers.motherson.com/en/job/engineer-7290"
+  },
+  {
+   "at": "2026-10-16T09:54:30+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 76287 Rheinstetten Logistik & Transport 76287 Rheinstetten Homeoffice möglich vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-91"
+  },
+  {
+   "at": "2026-10-16T09:54:30+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standortleitung Betriebliche Vorsorge (m/w/d) (Sales & Vertrieb) in 40476 Düsseldorf Sales & Vertrieb 40476 Düsseldorf Homeoffice möglich vor 11 Stund",
+   "url": "https://jobs.de.dis-ag.com/standortleitung-betriebliche-vorsorge-m-w-d"
+  },
+  {
+   "at": "2026-10-16T09:54:30+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Technischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 09366 Stollberg Einkauf & Supply Chain 09366 Stollberg vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/technischer-einkaeufer-m-w-d-60"
+  },
+  {
+   "at": "2026-10-16T09:54:30+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-91/bewerben"
+  },
+  {
+   "at": "2026-10-16T09:54:30+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "@dis-ag.com",
+   "url": "https://mailto:bewerbung-karlsruheom@dis-ag.com/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T09:40:25+00:00",
+ "last_run": "2026-10-16T09:55:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
