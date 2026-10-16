@@ -1,84 +1,7 @@
 {
- "alerts": 205,
+ "alerts": 212,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T03:09:40+00:00",
-   "kind": "possible",
-   "site": "Koenig & Bauer",
-   "title": "Praktikum Qualitäts- und Umweltmanagement",
-   "url": "https://jobs.koenig-bauer.com/search/?createNewAlert=false&q=&locationsearch=Deutschland&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:09:37+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Lübeck",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:09:37+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Live Shop Berlin Charlottenburg",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:09:37+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Berlin",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:09:37+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Düsseldorf",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:09:37+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Neumünster",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T03:24:54+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Regional Real Estate Manager",
-   "url": "https://jobs.ams-osram.com/en/job/Regional-Real-Estate-Manager-Bayan-Lepas/24394"
-  },
-  {
-   "at": "2026-10-16T03:24:54+00:00",
-   "kind": "possible",
-   "site": "ESG – Manching",
-   "title": "Projektleiter Gefechtsstandsysteme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/go/Germany/9460255/"
-  },
-  {
-   "at": "2026-10-16T03:24:54+00:00",
-   "kind": "possible",
-   "site": "ESG – Manching",
-   "title": "Praktikant GeoIT/Bildverarbeitung (w/m/d)",
-   "url": "https://jobs.hensoldt.net/go/Germany/9460255/"
-  },
-  {
-   "at": "2026-10-16T03:24:54+00:00",
-   "kind": "possible",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur Industriedokumentation (w/m/d)",
-   "url": "https://jobs.hensoldt.net/go/Germany/9460255/"
-  },
-  {
-   "at": "2026-10-16T03:24:58+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Business Development Manager - Industrial Machinery",
-   "url": "https://careers.abb/global/en/job/JR00047109/Business-Development-Manager-Industrial-Machinery"
-  },
   {
    "at": "2026-10-16T03:54:49+00:00",
    "kind": "new",
@@ -3501,12 +3424,89 @@
    "site": "Actemium Cegelec",
    "title": "Neu Dummerstorf Duales Studium Elektrotechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
    "url": "https://actemium.career.softgarden.de/jobs/68146336/Duales-Studium-Elektrotechnik-w-m-d-f%C3%BCr-2027"
+  },
+  {
+   "at": "2026-10-16T09:40:08+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Psychologe (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/56eeacde-2b11-5164-bba2-8fd0d4a91c74/psychologe-m-w-d"
+  },
+  {
+   "at": "2026-10-16T09:40:01+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Working Student (d/f/m) in Department: Supply Chain & Quality Customer Services",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Working-Student--d-f-m--in-Department--Supply-Chain---Quality-Customer-Services_JR10450127?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T09:40:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Zerspanungsmechaniker (m/w/d) Fräs-und Drehmaschinensysteme in 56410 Montabaur Montabaur",
+   "url": "https://www.tempton.de/jobs/zerspanungsmechaniker-fraes-und-drehmaschinensysteme-56410-montabaur"
+  },
+  {
+   "at": "2026-10-16T09:40:03+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New HR Operation Specialist (Housing/Fleet Operation) Hwasung, Korea Management Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/hr-operation-specialist-housingfleet-operation-j00352658"
+  },
+  {
+   "at": "2026-10-16T09:40:03+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 84094 Elsendorf in der Hallertau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1SysJd-staplerfahrer-mwd_84094-elsendorf-in-der-hallertau"
+  },
+  {
+   "at": "2026-10-16T09:40:03+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 84184 Tiefenbach, Kreis Landshut 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/FlX2c-kommissionierer-mit-staplerschein-mwd-in-tagschicht_84184-tiefenbach-kreis-landshut"
+  },
+  {
+   "at": "2026-10-16T09:40:03+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 84174 Eching, Niederbayern 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtyhLm-kommissionierer-mit-staplerschein-mwd-in-tagschicht_84174-eching-niederbayern"
+  },
+  {
+   "at": "2026-10-16T09:39:34+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197647 Praktikant Visual AI und Optische Prüfsysteme (w/m/x) Veröffentlicht: 16.10.2026 Lieferantennetzwerk Landshut Neu Lieferantennetzwerk Landshut ",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197647.html"
+  },
+  {
+   "at": "2026-10-16T09:39:34+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197624 Werkstudent Visual AI und Optische Prüfsysteme (w/m/x) Veröffentlicht: 16.10.2026 Lieferantennetzwerk Landshut Neu Lieferantennetzwerk Landshut",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197624.html"
+  },
+  {
+   "at": "2026-10-16T09:39:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Support Engineer (IT & Software) in 20457 Hamburg IT & Software 20457 Hamburg vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/it-support-engineer"
+  },
+  {
+   "at": "2026-10-16T09:39:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-support-engineer/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T09:25:31+00:00",
+ "last_run": "2026-10-16T09:40:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
