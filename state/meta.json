@@ -1,14 +1,7 @@
 {
- "alerts": 449,
+ "alerts": 450,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "(Ober-) Monteur - Energieversorgungsanlagen (m/w/d) Berufserfahrene Regensburg Neu",
-   "url": "https://karriere.omexom.de/jobs/61718212/-Ober--Monteur---Energieversorgungsanlagen-m-w-d-"
-  },
   {
    "at": "2026-10-16T11:10:10+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "ASML – Erlangen",
    "title": "New Learning Systems & Services Specialist Chandler, US Human Resources",
    "url": "https://www.asml.com/en/careers/find-your-job/learning-systems-services-specialist-j00354579"
+  },
+  {
+   "at": "2026-10-16T17:25:13+00:00",
+   "kind": "new",
+   "site": "Preh GmbH",
+   "title": "IT Application Administrator (M/F)",
+   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3954"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T17:10:42+00:00",
+ "last_run": "2026-10-16T17:25:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
