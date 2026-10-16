@@ -1,14 +1,7 @@
 {
- "alerts": 461,
+ "alerts": 463,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:16:18+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleiter Energieversorgung (m/w/d) Berufserfahrene Regensburg Neu",
-   "url": "https://karriere.omexom.de/jobs/61708372/Bauleiter-Energieversorgung-m-w-d-"
-  },
   {
    "at": "2026-10-16T11:16:18+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Test Engineer (ATE)",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T19:09:35+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Learning Service Coordinator San Diego, US Learning and Knowledge Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-learning-service-coordinator-j00354583"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T19:01:46+00:00",
+ "last_run": "2026-10-16T19:10:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 90,
+ "runs": 91,
  "tg_offset": 297408924
 }
