@@ -1,147 +1,7 @@
 {
- "alerts": 333,
+ "alerts": 340,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Orthopädietechnik Meister (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/f2e4095c-5b13-47c9-a390-022936794ac7"
-  },
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Orthopädietechnik Meister - Möglichkeit der Übernahme (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/f2e4095c-5b13-47c9-a390-022936794ac7/38fc7837-8781-47cf-8733-af4a1547b85d"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Küchenhilfe Betriebsgastronomie (w/m/d) neu Nürnberg, Deutschland Deutsche Bahn AG - DB Gastronomie Startdatum: ab sofort",
-   "url": "https://db.jobs/de-de/Suche/Kuechenhilfe-Betriebsgastronomie-w-m-d--14069594?jobId=641295"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Küchenhilfe / Spüler:in als Springer:in Betriebsgastronomie (w/m/d) neu Nürnberg, Deutschland Deutsche Bahn AG - DB Gastronomie Startdatum: ab sofort",
-   "url": "https://db.jobs/de-de/Suche/Kuechenhilfe-Spueler-in-als-Springer-in-Betriebsgastronomie-w-m-14069596?jobId=641301"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Lokrangierführer:in im Güterverkehr 2027 neu Nürnberg, Deutschland DB Cargo AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/Ausbildung-Lokrangierfuehrer-in-im-Gueterverkehr-2027-14048324?jobId=638987"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Elektroniker:in für Betriebstechnik im Cargo-Werk 2027 neu Nürnberg, Deutschland DB Cargo AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/Ausbildung-Elektroniker-in-fuer-Betriebstechnik-im-Cargo-Werk-202-14046388?jobId=639434"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium BWL Dienstleistungsmanagement 2027 (w/m/d) neu Nürnberg, München, Deutschland DB Engineering & Consulting GmbH Startdatum: 1. Oktober 2",
-   "url": "https://db.jobs/de-de/Suche/--14048442?jobId=639841"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Fachkraft für Schutz und Sicherheit 2027 (w/m/d) neu Nürnberg, Deutschland DB Sicherheit GmbH Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13955148?jobId=629974"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Elektrotechnik Projektmanagement 2027 (w/m/d) neu Nürnberg, Deutschland DB InfraGO AG Startdatum: 1. August 2027",
-   "url": "https://db.jobs/de-de/Suche/Duales-Studium-Elektrotechnik-2027-w-m-d--13954296?jobId=629119"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Bauingenieurwesen 2027 (w/m/d) neu Nürnberg, München, Deutschland DB Engineering & Consulting GmbH Startdatum: 1. Oktober 2027",
-   "url": "https://db.jobs/de-de/Suche/--13887260?jobId=625446"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Kaufmann für Mobilität und Verkehrsservice im ICE 2027 (w/m/d) neu Nürnberg, Deutschland DB Fernverkehr AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/Ausbildung-Kaufmann-fuer-Mobilitaet-und-Verkehrsservice-im-ICE-202-13985102?jobId=632674"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Zugverkehrssteuerer 2027 (w/m/d) neu Nürnberg, Deutschland DB InfraGO AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/Ausbildung-Zugverkehrssteuerer-2027-w-m-d--13887036?jobId=623547"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Mechatroniker:in im Streckennetz 2027 neu Nürnberg, Deutschland DB InfraGO AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13887278?jobId=625546"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Duales Studium Elektrotechnik und Informationstechnik 2027 (w/m/d) neu Nürnberg, Deutschland DB InfraGO AG Startdatum: 1. Oktober 2027",
-   "url": "https://db.jobs/de-de/Suche/--13887274?jobId=625537"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Industriekaufmann 2027 (w/m/d) neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13887168?jobId=624707"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Lokführer:in im ICE 2027 neu Nürnberg, Deutschland DB Fernverkehr AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13902166?jobId=628286"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Abiturientenprogramm: Ausbildung Zugverkehrssteuerer - Fachwirt:in für den Bahnbetrieb 2027 (w/m/d) neu Nürnberg, Deutschland DB InfraGO AG Startdatum",
-   "url": "https://db.jobs/de-de/Suche/--13899934?jobId=623697"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Industriekaufmann 2027 (w/m/d) neu Nürnberg, Deutschland DB InfraGO AG Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13988036?jobId=624706"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Fachkraft im Fahrbetrieb 2027 (w/m/d) neu Nürnberg, Deutschland Omnibusverkehr Franken GmbH (OVF) Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13900246?jobId=627950"
-  },
-  {
-   "at": "2026-10-16T08:39:37+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Berufskraftfahrer:in 2027 neu Nürnberg, Deutschland Omnibusverkehr Franken GmbH (OVF) Startdatum: 1. September 2027",
-   "url": "https://db.jobs/de-de/Suche/--13900244?jobId=627943"
-  },
   {
    "at": "2026-10-16T08:39:37+00:00",
    "kind": "new",
@@ -3501,12 +3361,152 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kaufmaennischer-mitarbeiter-vertragsmanagement-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-16T12:39:18+00:00",
+   "kind": "possible",
+   "site": "Landis+Gyr Germany",
+   "title": "Engineer II, Software Quality Assurance",
+   "url": "https://careers.landisgyr.com/go/View-All-Jobs-Available/4488801/?sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-16T12:39:32+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Expert Daten Management Plattform (m/w/d) bundesweit an einem unserer BWI Standorte",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-expert-daten-management-plattform-m-w-d-70904"
+  },
+  {
+   "at": "2026-10-16T12:39:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter / Elektrik (m/w/d) 74172 Neckarsulm 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/12SCgc-instandhalter-elektrik-mwd_74172-neckarsulm"
+  },
+  {
+   "at": "2026-10-16T12:39:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WIG Schweißer für die Siemens AG (m/w/d) 60329 Frankfurt am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/EcUhI-wig-schweisser-fuer-die-siemens-ag-mwd_60329-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-16T12:39:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektromonteur Schaltanlagen für die Siemens AG (m/w/d) 60329 Frankfurt am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ikQ5l-elektromonteur-schaltanlagen-fuer-die-siemens-ag-mwd_60329-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-16T12:39:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WIG Schweißer für die Siemens AG (m/w/d) 63075 Offenbach am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9fO34-wig-schweisser-fuer-die-siemens-ag-mwd_63075-offenbach-am-main"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Engineering Group, Engineering Group > Systems Engineering",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Lead architecture reviews with customers and internal teams.",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Work closely with Qualcomm engineering organizations to resolve complex technical issues.",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Bachelor's degree in Robotics, Electrical Engineering, Computer Engineering, Computer Science, or related field.",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Master's or PhD in Robotics, AI, Computer Science, or Engineering.",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field and 8+ years of Systems Engineering or related work experi",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Master's degree in Engineering, Information Systems, Computer Science, or related field and 7+ years of Systems Engineering or related work experience",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "PhD in Engineering, Information Systems, Computer Science, or related field and 6+ years of Systems Engineering or related work experience.",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Automotive- Embedded Software Applications Engineer (m/f/d) – Platform/BSP - Ingolstadt",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Automotive -Embedded Software Applications Engineer (m/f/d) – Multimedia - Ingolstadt",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "AI & Automation Specialist m/w/d) Prozessdigitalisierung",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/projektmanager-digitalisierung-und-ki-m-w-d-68147061"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "possible",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "International Accountant France (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75015 Bretten Rechnungswesen & Finanzen 75015 Bretten Homeoffice möglich vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-234"
+  },
+  {
+   "at": "2026-10-16T12:39:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-234/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T12:25:46+00:00",
+ "last_run": "2026-10-16T12:40:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
