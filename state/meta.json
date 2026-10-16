@@ -1,5 +1,5 @@
 {
- "alerts": 70,
+ "alerts": 72,
  "commands_set": true,
  "events": [
   {
@@ -1457,12 +1457,82 @@
    "site": "BWI GmbH – Nürnberg",
    "title": "Senior Team Leader Technical Operations (m/w/d) in Rostock",
    "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-team-leader-technical-operations-m-w-d-70880"
+  },
+  {
+   "at": "2026-10-16T04:54:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Patchmanagement Expert (w/m/d) IT/OT/AUT",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Patchmanagement-Expert-w-m-d-IT-OT-AUT/285247"
+  },
+  {
+   "at": "2026-10-16T04:54:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Lead Engineer Schaltanlagen (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Lead-Engineer-Schaltanlagen-w-m-d/300021"
+  },
+  {
+   "at": "2026-10-16T04:54:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "I&C Commissioning Engineer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/I-C-Commissioning-Engineer-f-m-d/299776"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Product Manager Software (w/m/d) - Produktstrategie & Agentic AI Enablement Berlin, Nuernberg, Frankfurt, Hamburg, Koeln + 8 Business Analysis ",
+   "url": "https://www.capgemini.com/de-de/jobs/570847-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Consultant IT-Sicherheit - Public Security & Safety (w/m/d) Koeln, Stuttgart, Hamburg, Frankfurt, Nuernberg + 8 Business Analysis Unbefristet Berufser",
+   "url": "https://www.capgemini.com/de-de/jobs/570890-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Consultant Data Analytics - Public Security & Safety (w/m/d) Muenchen, Stuttgart, Koeln, Hamburg, Frankfurt + 8 Business Analysis Unbefristet Berufser",
+   "url": "https://www.capgemini.com/de-de/jobs/570891-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "SIAM Consultant (w/m/d) Nuernberg, Frankfurt, Hamburg, Koeln, Luebeck + 5 Cloud Infrastructure Management Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/528413-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Enterprise Architect Insurance (w/m/d) Berlin, Frankfurt, Hamburg, Koeln, Stuttgart + 3 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/512267-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "IT Consultant Enterprise Architecture & Industrie 4.0 (w/m/d) Berlin, Wolfsburg, Nuernberg, Frankfurt, Hamburg + 9 Architecture Unbefristet Berufserfa",
+   "url": "https://www.capgemini.com/de-de/jobs/381200-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T04:54:27+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "IT Consultant Regulatorik Versicherungen (w/m/d) Berlin, Frankfurt, Hamburg, Koeln, Stuttgart + 3 Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/512259-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T04:40:23+00:00",
+ "last_run": "2026-10-16T04:55:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
