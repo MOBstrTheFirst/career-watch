@@ -1,196 +1,7 @@
 {
- "alerts": 322,
+ "alerts": 333,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T08:25:27+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Quereinsteiger im Vertrieb (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/7d0b337a-0ef1-42db-8dd9-d8d6bf30d862"
-  },
-  {
-   "at": "2026-10-16T08:25:27+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Vertriebsmitarbeiter Innendienst (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/7d0b337a-0ef1-42db-8dd9-d8d6bf30d862/0d8c9f64-1c8f-4bd9-baaf-1e2db822428e"
-  },
-  {
-   "at": "2026-10-16T08:25:27+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Vertriebsmitarbeiter (m/w/d) auf Mini-Job Basis",
-   "url": "https://headfound.hforce.ai/job/7d0b337a-0ef1-42db-8dd9-d8d6bf30d862/6fa7e1a5-9bdf-45de-804e-1863c9445ee0"
-  },
-  {
-   "at": "2026-10-16T08:25:27+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Montagemitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017VV33QAG"
-  },
-  {
-   "at": "2026-10-16T08:24:26+00:00",
-   "kind": "new",
-   "site": "Primetals Technologies Germany",
-   "title": "Testing",
-   "url": "https://careers.primetals.com/global/en/job/P-100091/Testing"
-  },
-  {
-   "at": "2026-10-16T08:24:26+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Strategischer Einkäufer – Sensorik & Handelsware (m/w/d)",
-   "url": "https://jobs.testo.com/4447-strategischer-einkaeufer-sensorik-handelsware-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-16T08:24:26+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Fahrer/Fahrerin - Personenbeförderung (m/w/d) Gummersbach",
-   "url": "https://www.tempton.de/jobs/fahrer-fahrerin-personenbefoerderung-38"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Ferti­gungs­planer (m/w/d) Job Vor Ort Vollzeit 42.000 - 50.000 € Heil­bronn, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/347734/fertigungsplaner"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Sonder­ma­schi­nenbau (m/w/d) Job Hybrid Vollzeit 50.000 - 63.000 € Künzelsau, Deutsch­land Anlagenbau Maschinenbau Weitere Professional",
-   "url": "https://touch.ferchau.com/de/de/job/399904/konstrukteur-sondermaschinenbau"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Produkt­de­si­gner (m/w/d) Job Hybrid Vollzeit 35.000 - 46.000 € Heil­bronn, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young ",
-   "url": "https://touch.ferchau.com/de/de/job/400306/technischer-produktdesigner"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Refe­rent Control­ling (m/w/d) Neu Job Hybrid Vollzeit 55.000 - 75.000 € Bochum, Deutsch­land Backoffice Professionals Senior Professionals ohne Perso",
-   "url": "https://touch.ferchau.com/de/de/job/524494/referent-controlling"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Sales Trainee (m/w/d) Pharma & Life Science Job Hybrid Vollzeit 43.000 - 44.000 € Karls­ruhe, Deutsch­land Vertrieb Young Professionals Professionals ",
-   "url": "https://touch.ferchau.com/de/de/job/458119/sales-trainee-pharma-life-science"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter in der Montage (m/w/d) in Tagschicht 84109 Wörth an der Isar 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZYmeDo-mitarbeiter-in-der-montage-mwd-in-tagschicht_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ-Mechatroniker (m/w/d) 97483 Eltmann 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/TDIQt-kfz-mechatroniker-mwd_97483-eltmann"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 85405 Nandlstadt 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/30F83-kommissionierer-mit-staplerschein-mwd-in-tagschicht_85405-nandlstadt"
-  },
-  {
-   "at": "2026-10-16T08:24:19+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 85408 Gammelsdorf 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1BQCGE-kommissionierer-mit-staplerschein-mwd-in-tagschicht_85408-gammelsdorf"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Package Design Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Package-Design-Engineer_R027022?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/medizinischer-fachangestellter-fuer-das-herzkatheterlabor-m-w-d-13951"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "SW Engineering Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/SW-Engineering-Intern_R-10064054?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Internship project for automotive RF substrates",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Nijmegen/Internship-project-for-automotive-RF-substrates_R-10067328?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Spezialist Kredit- und Vertriebssteuerung (m/w/d) (Banken & Finanzdienstleistung) in 40476 Düsseldorf Banken & Finanzdienstleistung 40476 Düsseldorf H",
-   "url": "https://jobs.de.dis-ag.com/spezialist-kredit-und-vertriebssteuerung-m-w-d"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Buchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 08340 Schwarzenberg Rechnungswesen & Finanzen 08340 Schwarzenberg vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-buchhaltung-m-w-d-28"
-  },
-  {
-   "at": "2026-10-16T08:24:37+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/spezialist-kredit-und-vertriebssteuerung-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) Produktmanagement Gasturbine / Digitalisierung & KI",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Produktmanagement-Gasturbine-Digitalisierung-KI/305521"
-  },
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Lager- und Transportarbeiter (m/w/d)",
-   "url": "https://jobs.bsh-group.de/45875-lager-und-transportarbeiter-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Qualité Fournisseur (H/F) Contract",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155937396-ingenieur-qualite-fournisseur-h-f-"
-  },
-  {
-   "at": "2026-10-16T08:40:18+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur système électronique H/F Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155938126-ingenieur-systeme-electronique-h-f"
-  },
   {
    "at": "2026-10-16T08:40:18+00:00",
    "kind": "new",
@@ -3501,12 +3312,201 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/financial-controller-m-w-d-54/bewerben"
+  },
+  {
+   "at": "2026-10-16T12:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Referent des Country Business Unit Heads (w/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525451"
+  },
+  {
+   "at": "2026-10-16T12:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F525451"
+  },
+  {
+   "at": "2026-10-16T12:24:33+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "IT Network Security Administrator/in (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Network-Security-Administrator-in--d-w-m-_JR10444319?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T12:24:33+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Praktikant im Bereich Sales Excellence (m/w/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-16T12:24:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Lagermitarbeiter (m/w/d) Vollzeit Felsberg",
+   "url": "https://www.tempton.de/jobs/lagermitarbeiter-vollzeit-7"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "TH Ingolstadt – CARISSMA / TH Ingolstadt – AImotion Bavaria",
+   "title": "Dekanatsreferent (m/w/d) Alumni und Transfer",
+   "url": "https://karriere.thi.de/jobposting/ee6fdb4b4cbdad1aa65f13b7c868235157722e250?ref=homepage"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Assis­tent Werk­stoff­prü­fung bei Siemens Energy (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 70.000 € Erlangen, Deutsch­land Weitere Youn",
+   "url": "https://touch.ferchau.com/de/de/job/524587/technischer-assistent-werkstoffpruefung-bei-siemens-energy"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Anla­gen­me­cha­niker Rohr­lei­tungsbau / Schweißer (m/w/d) Neu Job Vor Ort Vollzeit 36.000 - 42.000 € Dort­mund, Deutsch­land Anlagenbau Maschinenbau",
+   "url": "https://touch.ferchau.com/de/de/job/524584/anlagenmechaniker-rohrleitungsbau-schweisser"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "HSE Manager / Fach­kraft für Arbeits­si­cher­heit (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 65.000 € Bönen, Deutsch­land Anlagenbau Maschinenbau Pharma",
+   "url": "https://touch.ferchau.com/de/de/job/524581/hse-manager-fachkraft-fuer-arbeitssicherheit"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "System­ar­chi­tekt (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 80.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Professionals Senior Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/524578/systemarchitekt"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Obso­les­zenz Manager (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 62.500 € Kassel, Deutsch­land Elektrotechnik Informationstechnik Maschinenbau Professi",
+   "url": "https://touch.ferchau.com/de/de/job/524575/obsoleszenz-manager"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur Trans­port­sys­teme und Einsatz­pro­zesse (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 70.000 € Ober­ko­chen, Deutsch­land Elekt",
+   "url": "https://touch.ferchau.com/de/de/job/524572/entwicklungsingenieur-transportsysteme-und-einsatzprozesse"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Controller (m/w/d) mit Schwer­punkt Reporting & Fore­cas­ting Neu Job Vor Ort Vollzeit 85.000 - 115.000 € Wilhelms­haven, Deutsch­land Maschinenbau We",
+   "url": "https://touch.ferchau.com/de/de/job/524533/controller-mit-schwerpunkt-reporting-forecasting"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker (m/w/d) Neu Job Vor Ort Vollzeit 43.000 - 55.000 € Kalten­kir­chen, Deutsch­land Maschinenbau Young Professionals Professionals ohne Pe",
+   "url": "https://touch.ferchau.com/de/de/job/524566/elektroniker"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Zerspa­nungs­me­cha­niker (m/w/d) Job Vor Ort Vollzeit 40.000 - 52.000 € Frei­burg im Breisgau, Deutsch­land Maschinenbau Young Professionals Professi",
+   "url": "https://touch.ferchau.com/de/de/job/521704/zerspanungsmechaniker"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Monta­ge­mit­ar­beiter Elek­tro­me­chanik Wehr­technik (m/w/d) Neu Job Vor Ort Vollzeit 38.000 - 44.000 € Kassel, Deutsch­land Elektrotechnik Maschine",
+   "url": "https://touch.ferchau.com/de/de/job/524563/montagemitarbeiter-elektromechanik-wehrtechnik"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Regio­naler Service­tech­niker (m/w/d) in Direkt­ver­mitt­lung Neu Job Remote Vollzeit 40.000 - 55.000 € Frank­furt, Deutsch­land Direktvermittlung Ma",
+   "url": "https://touch.ferchau.com/de/de/job/524560/regionaler-servicetechniker-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur Mecha­tronik (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 75.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Professionals Senio",
+   "url": "https://touch.ferchau.com/de/de/job/524557/entwicklungsingenieur-mechatronik"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Auto­ma­ti­sie­rungs- und Digi­ta­li­sie­rungs­in­ge­nieur (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 75.000 € Siegs­dorf, Deutsch­land Elektrotechnik ",
+   "url": "https://touch.ferchau.com/de/de/job/524551/automatisierungs-und-digitalisierungsingenieur"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Einkäufer (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 60.000 € Chem­nitz, Deutsch­land Maschinenbau Young Professionals Professionals ohne ",
+   "url": "https://touch.ferchau.com/de/de/job/524542/technischer-einkaeufer"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenführer Schweissanlagen für die Siemens AG (m/w/d) 60386 Frankfurt am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZdAgt1-maschinenfuehrer-schweissanlagen-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verkäufer (m/w/d) Telekom Shop 04109 Leipzig 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/sOWCj-verkaeufer-mwd-telekom-shop_04109-leipzig"
+  },
+  {
+   "at": "2026-10-16T12:24:41+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schichtleiter Stellvertreter Logistik für die Siemens AG (m/w/d) 60386 Frankfurt am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/CPXnI-schichtleiter-stellvertreter-logistik-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-16T12:24:32+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) AI-Enablement in der Softwareentwicklung 16.10.2026 Forschung/Entwicklung/Engineering Überlingen am Bodens",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-ai-enablement-in-der-softwareentwicklung"
+  },
+  {
+   "at": "2026-10-16T12:24:32+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "PVD Equipment Technician- Nights 2",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Manufacturing/PVD-Equipment-Technician--Nights-2_R-10064405?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T12:24:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Mitarbeiter Vertragsmanagement (m/w/d) (Recht & Steuern) in 01099 Dresden Recht & Steuern 01099 Dresden vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-mitarbeiter-vertragsmanagement-m-w-d"
+  },
+  {
+   "at": "2026-10-16T12:24:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-mitarbeiter-vertragsmanagement-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T12:10:47+00:00",
+ "last_run": "2026-10-16T12:25:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
