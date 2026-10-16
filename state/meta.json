@@ -1,182 +1,7 @@
 {
- "alerts": 450,
+ "alerts": 453,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur - elektrische Energieverteilung (m/w/d) Berufseinsteiger Karlsruhe Neu",
-   "url": "https://karriere.omexom.de/jobs/61718332/Elektromonteur---elektrische-Energieverteilung-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Energieanlagen (m/w/d) Berufseinsteiger Berlin Neu",
-   "url": "https://karriere.omexom.de/jobs/63071329/Elektromonteur-Energieanlagen-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleiter Energieanlagen (m/w/d) Berufserfahrene Berlin Neu",
-   "url": "https://karriere.omexom.de/jobs/63071844/Bauleiter-Energieanlagen-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur - elektrische Energieverteilung (m/w/d) Berufserfahrene Reichenbach Neu",
-   "url": "https://karriere.omexom.de/jobs/63222989/Elektromonteur---elektrische-Energieverteilung-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Project Engineer Energieversorgung/- verteilung (w/m/d) Berufserfahrene Saarbrücken Neu",
-   "url": "https://karriere.omexom.de/jobs/63566889/Project-Engineer-Energieversorgung---verteilung-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektleiter - Elektrische Energieversorgungsanlagen (w/m/d) Berufserfahrene Mannheim Neu",
-   "url": "https://karriere.omexom.de/jobs/64123383/Projektleiter---Elektrische-Energieversorgungsanlagen-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Konstrukteur Sekundärtechnik (m/w/d) Berufserfahrene Magdeburg Neu",
-   "url": "https://karriere.omexom.de/jobs/65112758/Konstrukteur-Sekund%C3%A4rtechnik-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleitender Obermonteur (m/w/d) Berufserfahrene Dortmund Neu",
-   "url": "https://karriere.omexom.de/jobs/65679041/Bauleitender-Obermonteur-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:09:23+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Strukturmechaniker (d/m/w) für die Strukturmontage in Hamburg (Generische)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Strukturmechaniker--d-m-w--fr-die-Strukturmontage-in-Hamburg--Generische-_JR10431010?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T11:09:23+00:00",
-   "kind": "new",
-   "site": "Brunel – Nürnberg",
-   "title": "Projektmanager (w/m/d) Deutschland Bachelor Universität 0-2 Jahre Sie sind erster Ansprechpartner für unsere Kunden in allen Belangen und übernehmen s",
-   "url": "https://www.brunel.net/de-de/jobs/projektmanager-wmd-cr-063550"
-  },
-  {
-   "at": "2026-10-16T11:09:23+00:00",
-   "kind": "new",
-   "site": "Brunel – Nürnberg",
-   "title": "Entwicklungsingenieur Leistungselektronik (w/m/d) Deutschland Bachelor Fachhochschule 0-2 Jahre Als Leistungselektroniker führen Sie Untersuchungen üb",
-   "url": "https://www.brunel.net/de-de/jobs/entwicklungsingenieur-leistungselektronik-wmd-cr-050232"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "possible",
-   "site": "Capgemini Engineering",
-   "title": "Senior Business Analyst für Versicherungen (w/m/d)",
-   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung, Fürth 90762 Fürth, Bayern 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZDhPzr-finanzbuchhalter-mwd-zur-direktvermittlung-fuerth_90762-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Account Manager (m/w/d) im Softwarevertrieb zur Direktvermittlung 90403 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18ijRT-account-manager-mwd-im-softwarevertrieb-zur-direktvermittlung_90403-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Technischer Property Manager / TGA-Objektmanager (m/w/d) zur Direktvermittlung 90419 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1bmUBx-technischer-property-manager-tga-objektmanager-mwd-zur-direktvermittlung_90419-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "C#/.Net Softwareentwickler (m/w/d) Maschinenbau, zur Direktvermittlung 91058 Erlangen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2sVRky-cnet-softwareentwickler-mwd-maschinenbau-zur-direktvermittlung_91058-erlangen"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Teamleiter Mietverwaltung / Immobilien (m/w/d) zur Direktvermittlung 90419 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1UQMhO-teamleiter-mietverwaltung-immobilien-mwd-zur-direktvermittlung_90419-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Techniker (m/w/d) für die Inbetriebnahme von Sondermaschinen, Region Nürnberg/Erlangen 91058 Erlangen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2esWKh-techniker-mwd-fuer-die-inbetriebnahme-von-sondermaschinen-region-nuernbergerlangen_91058-erlangen"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "IT-Systemadministrator (m/w/d) Produktionsumfeld zur Direktvermittlung 90491 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/26ejo1-it-systemadministrator-mwd-produktionsumfeld-zur-direktvermittlung_90491-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Inside Sales Manager / Vertriebsinnendienstmitarbeiter (m/w/d) zur Direktvermittlung 91560 Heilsbronn 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1GnRGT-inside-sales-manager-vertriebsinnendienstmitarbeiter-mwd-zur-direktvermittlung_91560-heilsbronn"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker / Servicemonteur (m/w/d) zur Direktvermittlung, Nürnberg 90408 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1FnoU0-industriemechaniker-servicemonteur-mwd-zur-direktvermittlung-nuernberg_90408-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) Pharmaindustrie 13353 Berlin 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ukpym-mechatroniker-mwd-pharmaindustrie_13353-berlin"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 13629 Berlin 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1RY3yK-industriemechaniker-mwd_13629-berlin"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) 13629 Berlin 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1haINB-elektroniker-mwd_13629-berlin"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistikmitarbeiter (m/w/d) 13629 Berlin 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2iXqG5-logistikmitarbeiter-mwd_13629-berlin"
-  },
   {
    "at": "2026-10-16T11:09:34+00:00",
    "kind": "new",
@@ -3501,12 +3326,187 @@
    "site": "Preh GmbH",
    "title": "IT Application Administrator (M/F)",
    "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3954"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "El Paso 4 jobs",
+   "url": "https://jobs.sanmina.com/search/jobs/in/el-paso"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "All Jobs - less than a minute",
+   "url": "https://jobs.sanmina.com/en/search/jobs/in"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "CMM operator",
+   "url": "https://jobs.sanmina.com/jobs/18349602-cmm-operator"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Deburr Operator -2nd Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328605-deburr-operator-2nd-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector",
+   "url": "https://jobs.sanmina.com/jobs/18368686-quality-control-inspector"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Clean Room Manufacturing Technician -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328583-clean-room-manufacturing-technician-1st-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Buyer 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18368687-buyer-3-r"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Materials Planner",
+   "url": "https://jobs.sanmina.com/jobs/18368591-materials-planner"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368590-production-test-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Machinist Operator - 2nd Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328592-machinist-operator-2nd-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328607-quality-control-inspector-1st-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Driver/Material Handler -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18368458-driver-slash-material-handler-1st-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Machinist-Set up- 2nd Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328591-machinist-set-up-2nd-shift"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "File Room Clerk",
+   "url": "https://jobs.sanmina.com/jobs/18365616-file-room-clerk"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368133-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368132-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368131-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368130-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368129-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368128-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368127-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18368126-failure-analysis-technician-3-n"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Manufacturing Equip Maint Technician",
+   "url": "https://jobs.sanmina.com/jobs/18357432-manufacturing-equip-maint-technician"
+  },
+  {
+   "at": "2026-10-16T17:40:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Manager",
+   "url": "https://jobs.sanmina.com/jobs/18315477-production-manager"
+  },
+  {
+   "at": "2026-10-16T17:39:35+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "Cost Controller",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1774?c=trench"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T17:25:24+00:00",
+ "last_run": "2026-10-16T17:40:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
