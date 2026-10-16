@@ -1,21 +1,7 @@
 {
- "alerts": 453,
+ "alerts": 455,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montagemitarbeiter (m/w/d) 13629 Berlin 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z29iX73-montagemitarbeiter-mwd_13629-berlin"
-  },
-  {
-   "at": "2026-10-16T11:09:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Qualitätsprüfer (m/w/d) Fertigung 14974 Ludwigsfelde 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1tfi2Q-qualitaetspruefer-mwd-fertigung_14974-ludwigsfelde"
-  },
   {
    "at": "2026-10-16T11:09:34+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Trench Germany",
    "title": "Cost Controller",
    "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1774?c=trench"
+  },
+  {
+   "at": "2026-10-16T18:25:17+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Plant Controller",
+   "url": "https://leggett.com/careers/search?posting=36107"
+  },
+  {
+   "at": "2026-10-16T18:24:40+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Moldflow Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Production-CAE-Analyst_R00255105?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T18:10:43+00:00",
+ "last_run": "2026-10-16T18:25:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
