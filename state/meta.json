@@ -1,259 +1,7 @@
 {
- "alerts": 251,
+ "alerts": 261,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T06:39:43+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Region: Schleswig-Holstein",
-   "url": "https://jobs.de.dis-ag.com/suche/in-schleswig-holstein"
-  },
-  {
-   "at": "2026-10-16T06:39:43+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/feinwerkmechaniker-cnc-fraeser-cnc-dreher-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "possible",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Standortleiter / Business-Unit-Leiter (m/w/d) Energie- und Infrastrukturbau",
-   "url": "https://karriere.omexom.de/"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Monteur/Prüfer Components (m/w/d) bis zu 26€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000136Qf7QAE"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Fertigungsmitarbeiter (m/w/d) bis zu 22€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000136qcyQAA"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinenbediener (m/w/d) bis zu 23€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000137U7FQAU"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Montagehilfskraft (m/w/d) bis zu 22€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013FVVxQAO"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Assistenz – Empfang/Sekretariat (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bOEStQAO"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bPPltQAG"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektriker / Elektroniker (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bOcdHQAS"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Instandhalter (m/w/d) Elektrik bis zu 27€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jkRcsQAE"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Prüfmitarbeiter Elektronik (m/w/d) bis zu 26€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jrPrtQAE"
-  },
-  {
-   "at": "2026-10-16T06:55:13+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektroniker (m/w/d) Hardwarelabor bis zu 26€/Stunde",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jrwQxQAI"
-  },
-  {
-   "at": "2026-10-16T06:54:26+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "Technical Training Portfolio Manager:in Wels, Austria Internal Services Experienced Professionals",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/technical-training-portfolio-managerin-1115"
-  },
-  {
-   "at": "2026-10-16T06:54:26+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "People Relations Manager:in Wels, Austria Internal Services Experienced Professionals",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/people-relations-managerin-1104"
-  },
-  {
-   "at": "2026-10-16T06:54:26+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "Learning & Development Manager Wels, Austria Internal Services Experienced Professionals",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/learning-development-manager-1007"
-  },
-  {
-   "at": "2026-10-16T06:54:26+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Helfer - Kunststoff, Kautschuk (m/w/d) Morsbach",
-   "url": "https://www.tempton.de/jobs/helfer-kunststoff-kautschuk-117"
-  },
-  {
-   "at": "2026-10-16T06:54:26+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Fahrzeuglackierer (m/w/d) gesucht! Wächtersbach",
-   "url": "https://www.tempton.de/jobs/fahrzeuglackierer-gesucht"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior Staff Engineer, Process Engineering (Plasma)",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-Staff-Engineer-Process-Engineering-Plasma-Kulim/24457"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "possible",
-   "site": "Capgemini Engineering",
-   "title": "Logistikkoordinator (m/w/d) in Kassel und München",
-   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "possible",
-   "site": "Capgemini Engineering",
-   "title": "Products & Systems Engineering",
-   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "IT Business Analyst Production (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/IT-Business-Analyst-Production--m-w-x-_R00266476?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Engineer",
-   "url": "https://careers.motherson.com/en/job/engineer-7127"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/10Qv2g-produktionsmitarbeiter-mwd_97437-hassfurt"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1MrsDL-lagermitarbeiter-mwd_97437-hassfurt"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schlosser (m/w/d) Technische Instandhaltung 20459 Hamburg 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1vFTdO-schlosser-mwd-technische-instandhaltung_20459-hamburg"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WYg5V-helfer-mwd_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industrieelektriker (m/w/d) 97447 Gerolzhofen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2csaF2-industrieelektriker-mwd_97447-gerolzhofen"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachlagerist (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/YDz9-fachlagerist-mwd_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1En5CA-industriemechaniker-mwd_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) Verpackung 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/TSdW8-helfer-mwd-verpackung_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZIud5W-produktionshelfer-mwd_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 97478 Knetzgau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/19m8w6-produktionsmitarbeiter-mwd_97478-knetzgau"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 97469 Gochsheim, Unterfranken 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/mN8Ub-lagermitarbeiter-mwd_97469-gochsheim-unterfranken"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Systemadministrator (m/w/d) Infrastruktur und Teamleitung 04289 Leipzig 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Hwd3s-systemadministrator-mwd-infrastruktur-und-teamleitung_04289-leipzig"
-  },
-  {
-   "at": "2026-10-16T06:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Head of HR Business Partner (m/w/d) 89075 Ulm, Donau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZoOuMk-head-of-hr-business-partner-mwd_89075-ulm-donau"
-  },
   {
    "at": "2026-10-16T06:54:34+00:00",
    "kind": "new",
@@ -3501,12 +3249,264 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-telefonvertrieb-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Junior Software Developer C/C++ (all gender) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155966274-junior-software-developer-c-c-all-gender-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Energieversorgung (m/w/d) Berufserfahrene Unterschleißheim Neu",
+   "url": "https://karriere.omexom.de/jobs/65956091/Bauleiter-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Schutz- und Leittechnik-Ingenieur (w/m/d) Berufserfahrene Münster Neu",
+   "url": "https://karriere.omexom.de/jobs/66202878/Schutz--und-Leittechnik-Ingenieur-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter Energieanlagenbau (m/w/d) Berufserfahrene Sindelfingen Neu",
+   "url": "https://karriere.omexom.de/jobs/66317338/Projektleiter-Energieanlagenbau-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektmanager Energieversorgungsanlagen (m/w/d) Berufserfahrene Wetzlar Neu",
+   "url": "https://karriere.omexom.de/jobs/66824055/Projektmanager-Energieversorgungsanlagen-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Werkstattleiter Schaltschrankfertigung (w/m/d) Berufserfahrene Saarbrücken Neu",
+   "url": "https://karriere.omexom.de/jobs/66754385/Werkstattleiter-Schaltschrankfertigung-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur Sekundärtechnik (w/m/d) Berufserfahrene Saarbrücken Neu",
+   "url": "https://karriere.omexom.de/jobs/66754025/Konstrukteur-Sekund%C3%A4rtechnik-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektroniker Schaltanlagenbau (m/w/d) Berufseinsteiger Saarbrücken Neu",
+   "url": "https://karriere.omexom.de/jobs/66754665/Elektroniker-Schaltanlagenbau-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "(Ober-) Monteur (m/w/d) Berufserfahrene Magdeburg Neu",
+   "url": "https://karriere.omexom.de/jobs/66892310/-Ober--Monteur-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur Sekundärtechnik (m/w/d) Berufserfahrene Dresden Neu",
+   "url": "https://karriere.omexom.de/jobs/67407752/Konstrukteur-Sekund%C3%A4rtechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur - elektrische Energieverteilung (m/w/d) Berufserfahrene Leipzig Neu",
+   "url": "https://karriere.omexom.de/jobs/66911750/Elektromonteur---elektrische-Energieverteilung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Planungsingenieur Primärtechnik (w/m/d) Berufserfahrene Mannheim Neu",
+   "url": "https://karriere.omexom.de/jobs/67161510/Planungsingenieur-Prim%C3%A4rtechnik-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft Produktionslogistik (m/w/d) bis zu 25€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017YB2vQAG"
+  },
+  {
+   "at": "2026-10-16T10:55:20+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Xi1tVQAR"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Automotive Complaint Management (w/m/div) München HRC1845241",
+   "url": "https://jobs.infineon.com/careers/job/563808972203953"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Finde heraus",
+   "url": "https://www.infineon.com/cms/de/careers/application/application-students"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Entdecke",
+   "url": "https://www.infineon.com/cms/de/careers/students"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Media Design in Innovation Management (w/m/div) Dresden HRC1837708",
+   "url": "https://jobs.infineon.com/careers/job/563808972178925"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Facility Management (w/m/div) Villach HRC1767078",
+   "url": "https://jobs.infineon.com/careers/job/563808971901993"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Principal Engineer Software Concepts Power-Aware Automotive Computing (f/m/div) München (Deutschland) HRC1632033 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970670857"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Power Electronic Product Development Engineer Budapest HRC1759368",
+   "url": "https://jobs.infineon.com/careers/job/563808971864099"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Application Engineer for Automotive High-Voltage Discrete Power Products (f/m/div) Villach HRC1809151 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972057944"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Software Engineer – Automotive Ethernet Bangalore BTP HRC1766142",
+   "url": "https://jobs.infineon.com/careers/job/563808971905592"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Industriepraktikum - Projekt Management Support (w/m/div) Graz HRC1776278 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971906944"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Mess-, Steuer- und Regelungstechniker (w/m/div) Villach HRC1753320",
+   "url": "https://jobs.infineon.com/careers/job/563808971851972"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Circuit Simulator Frontend Development (f/m/div) Munich (Germany) + 1 more HRC1673009 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971241199"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Fachkraft - Abwassertechnik (m/w/d) Bernburg",
+   "url": "https://www.tempton.de/jobs/fachkraft-abwassertechnik"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 MAG-Schweißer (m/w/d) Uebigau-Wahrenbrück",
+   "url": "https://www.tempton.de/jobs/mag-schweisser-123"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Mechatroniker (m/w/d) Köthen",
+   "url": "https://www.tempton.de/jobs/mechatroniker-338"
+  },
+  {
+   "at": "2026-10-16T10:54:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Staplerfahrer (m/w/d) in 51545 Waldbröl Waldbröl",
+   "url": "https://www.tempton.de/jobs/staplerfahrer-51545-waldbroel"
+  },
+  {
+   "at": "2026-10-16T10:54:48+00:00",
+   "kind": "new",
+   "site": "CeramTec – Lauf",
+   "title": "Facharbeiter Masseaufbereitung ZrO2-Folien (w/m/d)",
+   "url": "https://recruitingapp-5382.de.umantis.com/Vacancies/5325/Description/1"
+  },
+  {
+   "at": "2026-10-16T10:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 44143 Dortmund 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1mMDY2-produktionshelfer-mwd_44143-dortmund"
+  },
+  {
+   "at": "2026-10-16T10:54:31+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/c5b1e9f9-479e-4b68-abe2-08df12dd5360"
+  },
+  {
+   "at": "2026-10-16T10:54:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 90571 Schwaig Rechnungswesen & Finanzen 90571 Schwaig Homeoffice möglich vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-441"
+  },
+  {
+   "at": "2026-10-16T10:54:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Schwaig",
+   "url": "https://jobs.de.dis-ag.com/suche/in-schwaig"
+  },
+  {
+   "at": "2026-10-16T10:54:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-441/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T10:40:39+00:00",
+ "last_run": "2026-10-16T10:55:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
