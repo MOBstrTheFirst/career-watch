@@ -1,182 +1,7 @@
 {
- "alerts": 195,
+ "alerts": 205,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-fuer-unser-flexteam-m-w-d-13817"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachperson-mit-weiterbildung-fuer-unser-flexteam-m-w-d-13809"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/anaesthesietechnischer-assistent-ata-fuer-unser-flexteam-m-w-d-13813"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/mfa-m-w-d-fuer-das-stationssekretariat-chirurgische-klinik-13953"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-intensiv-paediatrie-m-w-d-ki-int-2026-10-16"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-intensivstation-neonatologie-m-w-d-ki-neoint-2026-10-16"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachkraft-fuer-unser-flexteam-m-w-d-13963"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachkraft-fuer-unser-flexteam-m-w-d-13964"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-hochschulambulanz-notaufnahme-kinderklinik-m-w-d-ki-hsa-2026-10-16"
-  },
-  {
-   "at": "2026-10-16T02:24:41+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "輪班設備工程師",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/_R-10067384?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T02:39:18+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New System Build Technician (DUV Laser system) Pyeong-Taek, Korea Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/system-build-technician-duv-laser-system-j00354997"
-  },
-  {
-   "at": "2026-10-16T02:39:31+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Field Quality Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-JingAn/XMLNAME-2026-Campus---Field-Quality-Engineer_R-10064756?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T02:55:14+00:00",
-   "kind": "possible",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Zwickau (2027)",
-   "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
-  },
-  {
-   "at": "2026-10-16T02:54:57+00:00",
-   "kind": "possible",
-   "site": "AVL Software and Functions",
-   "title": "Softwareentwickler Bare-Metal und Python (w/m/d)",
-   "url": "https://jobs.avl.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T02:54:57+00:00",
-   "kind": "possible",
-   "site": "Capgemini Engineering",
-   "title": "Initiativbewerbung (w/m/d)",
-   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
-  },
-  {
-   "at": "2026-10-16T03:10:32+00:00",
-   "kind": "possible",
-   "site": "Rösler Oberflächentechnik – Untermerzbach",
-   "title": "Schülerpraktikum Technische Produktdesigner (m/w/d) 2026",
-   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
-  },
-  {
-   "at": "2026-10-16T03:10:32+00:00",
-   "kind": "possible",
-   "site": "Rösler Oberflächentechnik – Untermerzbach",
-   "title": "Schülerpraktikum Mechatroniker (m/w/d) 2026",
-   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Area Sales Manager",
-   "url": "https://careers.landisgyr.com/job/United-States-%28Remote%29-Area-Sales-Manager/1417236133"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Schnupperpraktikum (m/w/d)",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Schnupperpraktikum-%28mwd%29/1438034333"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Senior Product Engineer (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Erlangen-Senior-Product-Engineer-%28mwd%29/1417157133"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Visbek-Produktionsmitarbeiter-%28mwd%29/1201183201"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Fachkraft für Lagerlogistik (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Visbek-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29/1201183301"
-  },
-  {
-   "at": "2026-10-16T03:09:36+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Personaldisponent in Teilzeit oder Vollzeit (m/w/d) Schwäbisch Hall",
-   "url": "https://www.tempton.de/jobs/personaldisponent-teilzeit-vollzeit"
-  },
-  {
-   "at": "2026-10-16T03:09:40+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Sales Logistics Coordinator (m/f/d)",
-   "url": "https://jobs.zf.com/job/Kreuztal-Sales-Logistics-Coordinator-%28mfd%29-NW-57223/1276725601"
-  },
-  {
-   "at": "2026-10-16T03:09:40+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Logistikdisponent (m/w/d) Customer",
-   "url": "https://jobs.zf.com/job/Kreuztal-Logistikdisponent-%28mwd%29-Customer-NW-57223/1276725701"
-  },
   {
    "at": "2026-10-16T03:09:40+00:00",
    "kind": "possible",
@@ -3501,12 +3326,187 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/projektleiter-infrastrukturbau-teamleiter/bewerben"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Logistikreklamationen/Claims",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524699"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524699"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Data Engineer (m/w/d) mit Schwerpunkt Test und Testautomatisierung",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mjc4MA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Entwicklungsingenieur Elektrotechnik (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzIzNg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Senior Konstrukteur (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA5MjAyNi04MjI3NQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-16T09:25:15+00:00",
+   "kind": "possible",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Bekanntmachung: Programmdirektor Kultur (w/m/d)",
+   "url": "https://jobs.br.de/Jobs/All"
+  },
+  {
+   "at": "2026-10-16T09:24:38+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Problem Solving Coach (w/m/div.) - Qualitätsmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF283893I-problem-solving-coach-w-m-div-qualitaetsmanagement"
+  },
+  {
+   "at": "2026-10-16T09:24:38+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Entwicklungsingenieur MEMS-Prozesstechnologie (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF298579P-entwicklungsingenieur-mems-prozesstechnologie-w-m-div"
+  },
+  {
+   "at": "2026-10-16T09:24:38+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Technischer Systemberater für die Buderus Niederlassung Hamburg (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF296353T-technischer-systemberater-fuer-die-buderus-niederlassung-hamburg-w-m-div"
+  },
+  {
+   "at": "2026-10-16T09:24:38+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Technischer Systemexperte für den Buderus Vertriebsbereich Nord (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF294761D-technischer-systemexperte-fuer-den-buderus-vertriebsbereich-nord-w-m-div"
+  },
+  {
+   "at": "2026-10-16T09:24:38+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Sachbearbeiter (m/w/d) Auftragsabwicklung - Defence München",
+   "url": "https://www.tempton.de/jobs/sachbearbeiter-auftragsabwicklung-defence"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur:in (m/w/d) PEM-Brenn­stoff­zel­len­system Neu Job Hybrid Vollzeit 55.000 - 65.000 € Hamburg, Deutsch­land Elektrotechnik Luft- und Raumfahr",
+   "url": "https://touch.ferchau.com/de/de/job/524515/ingenieurin-pem-brennstoffzellensystem"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Werk­zeug­technik / Kalt­um­for­mung in Direkt­ver­mitt­lung (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Frön­den­berg, Deutsch­l",
+   "url": "https://touch.ferchau.com/de/de/job/524512/konstrukteur-werkzeugtechnik-kaltumformung-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Manager Control­ling (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 72.000 € Ingel­heim am Rhein, Deutsch­land Pharma und Lifescience Weitere Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/524509/manager-controlling"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Indus­trial Engi­neer (m/w/d) Montage Job Vor Ort Vollzeit 55.000 - 70.000 € Biberach, Deutsch­land Maschinenbau Professionals ohne Personalverantwort",
+   "url": "https://touch.ferchau.com/de/de/job/520318/industrial-engineer-montage"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­ko­or­di­nator Bau & Infra­struktur (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 75.000 € Darm­stadt, Deutsch­land Weitere Professionals ohne Per",
+   "url": "https://touch.ferchau.com/de/de/job/524500/projektkoordinator-bau-infrastruktur"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Maschi­nen­be­diener (m/w/d) Neu Job Vor Ort Vollzeit 36.000 - 48.000 € Erfurt, Deutsch­land Elektrotechnik Professionals ohne Personalverantwortung A",
+   "url": "https://touch.ferchau.com/de/de/job/524497/maschinenbediener"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter in der Steuerblockmontage (m/w/d) in Tagschicht 84109 Wörth an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZYmeDo-mitarbeiter-in-der-steuerblockmontage-mwd-in-tagschicht_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter in der Steuerblockmontage (m/w/d) in Tagschicht 84103 Postau 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/7r1SI-mitarbeiter-in-der-steuerblockmontage-mwd-in-tagschicht_84103-postau"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter in der Steuerblockmontage (m/w/d) in Tagschicht 84100 Niederaichbach 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZBGDR7-mitarbeiter-in-der-steuerblockmontage-mwd-in-tagschicht_84100-niederaichbach"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Immobilienverwalter Mietverwaltung (m/w/d) zur Direktvermittlung 90429 Nürnberg, Mittelfranken 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1JMJlz-immobilienverwalter-mietverwaltung-mwd-zur-direktvermittlung_90429-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-16T09:24:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schichtleiter Stellvertreter Logistik für die Siemens AG (m/w/d) 60386 Frankfurt am Main 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKHbkd-schichtleiter-stellvertreter-logistik-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-16T09:24:47+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Data and AI engineer | Early Career Program Beijing,Beijing,China Product Development Gepostete vor 9 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777434144"
+  },
+  {
+   "at": "2026-10-16T09:24:47+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/postdoctoral-researcher-molecular-mechanisms-of-musculoskeletal-diseases-m-f-d-13965"
+  },
+  {
+   "at": "2026-10-16T09:24:47+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Dummerstorf Duales Studium Elektrotechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/68146336/Duales-Studium-Elektrotechnik-w-m-d-f%C3%BCr-2027"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T09:10:32+00:00",
+ "last_run": "2026-10-16T09:25:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
