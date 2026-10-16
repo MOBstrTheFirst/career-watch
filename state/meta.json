@@ -1,5 +1,5 @@
 {
- "alerts": 72,
+ "alerts": 74,
  "commands_set": true,
  "events": [
   {
@@ -1527,12 +1527,40 @@
    "site": "Capgemini Engineering",
    "title": "IT Consultant Regulatorik Versicherungen (w/m/d) Berlin, Frankfurt, Hamburg, Koeln, Stuttgart + 3 Business Analysis Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/512259-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T05:10:08+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft (m/w/d) für Dokumentation und Fallbegleitung",
+   "url": "https://karriere.fresenius.de/job-detail/892e4b5f-3385-5a95-8d66-1b19689d9c59/pflegefachkraft-m-w-d-fuer-dokumentation-und-fallbegleitung"
+  },
+  {
+   "at": "2026-10-16T05:10:08+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Lögopädin (m/w/d) Weaning/Pneumologie",
+   "url": "https://karriere.fresenius.de/job-detail/69131fb6-629a-5714-aaae-6d1b95720498/loegopaedin-m-w-d-weaning-pneumologie"
+  },
+  {
+   "at": "2026-10-16T05:10:08+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Case Manager (m/w/d) für die Radiologie",
+   "url": "https://karriere.fresenius.de/job-detail/b236757d-f0ea-52d9-8e4e-2a996831ba5e/case-manager-m-w-d-fuer-die-radiologie"
+  },
+  {
+   "at": "2026-10-16T05:10:08+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Techniker (m/w/d) für Stopplearbeiten an Gashochdruckleitungen Berufserfahrene Tiefenbronn Neu",
+   "url": "https://karriere.omexom.de/jobs/66823315/Techniker-m-w-d-f%C3%BCr-Stopplearbeiten-an-Gashochdruckleitungen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T04:55:05+00:00",
+ "last_run": "2026-10-16T05:10:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
