@@ -1,112 +1,7 @@
 {
- "alerts": 300,
+ "alerts": 309,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T07:39:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Disponent Güterverkehr (m/w/d) (Logistik & Transport) in 99084 Erfurt , 99867 Gotha , 99947 Bad Langensalza , 99817 Einsenach Logistik & Transport 990",
-   "url": "https://jobs.de.dis-ag.com/disponent-gueterverkehr-m-w-d"
-  },
-  {
-   "at": "2026-10-16T07:39:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Worms",
-   "url": "https://jobs.de.dis-ag.com/suche/in-worms"
-  },
-  {
-   "at": "2026-10-16T07:39:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-in-worms-hybrides-arbeiten-remote-und-praesenz-1/bewerben"
-  },
-  {
-   "at": "2026-10-16T07:55:14+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Konstrukteur für Systemintegration (m/w/d) Rostock Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109175/Konstrukteur%20f%C3%BCr%20Systemintegration%20(m%2Fw%2Fd)/Rostock"
-  },
-  {
-   "at": "2026-10-16T07:55:14+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Functioneel Applicatiebeheerder AFAS Utrecht Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-100815/Functioneel%20Applicatiebeheerder%20AFAS/Utrecht"
-  },
-  {
-   "at": "2026-10-16T07:55:14+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Business Analist Amsterdam Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-99613/Business%20Analist/Amsterdam"
-  },
-  {
-   "at": "2026-10-16T07:55:14+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Functioneel Applicatiebeheerder Amsterdam Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-99610/Functioneel%20Applicatiebeheerder/Amsterdam"
-  },
-  {
-   "at": "2026-10-16T07:54:32+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Leitender Betriebsarzt - Facharzt für Arbeitsmedizin (m/w/d)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Nordenham/Leitender-Betriebsarzt---Facharzt-fr-Arbeitsmedizin--m-w-d-_JR10432855?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Manager, Quality Management System",
-   "url": "https://jobs.ams-osram.com/en/job/Manager-Quality-Management-System-Singapore/24571"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Sonstige Werkstudent:in Prozessoptimierung & Digitalisierung im Kundenservice Standort Essen, Hannover Arbeitszeitmodell Flexibel nach Absprache Neben",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/werkstudentin-prozessoptimierung-digitalisierung-im-kundenservice-11872"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter Siemens Energy (m/w/d) 99086 Erfurt 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZV1wmp-produktionsmitarbeiter-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kundenberater (m/w/d) Telekommunikation 46236 Bottrop 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1h1CEn-kundenberater-mwd-telekommunikation_46236-bottrop"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kundenberater (m/w/d) Telekommunikationsbranche 44793 Bochum 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zxj3X-kundenberater-mwd-telekommunikationsbranche_44793-bochum"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sales Agent (m/w/d) Telekommunikation 44793 Bochum 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZxCo6I-sales-agent-mwd-telekommunikation_44793-bochum"
-  },
-  {
-   "at": "2026-10-16T07:54:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kundenberater (m/w/d) Telekommunikationsbranche 45657 Recklinghausen, Westfalen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/dUAvP-kundenberater-mwd-telekommunikationsbranche_45657-recklinghausen-westfalen"
-  },
   {
    "at": "2026-10-16T07:54:47+00:00",
    "kind": "new",
@@ -3501,12 +3396,117 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-in-teilzeit-9/bewerben"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Logistics Coordinator (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=36465"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Leiter Fertigungslinie (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=36442"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Program Buyer",
+   "url": "https://leggett.com/careers/search?posting=36438"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "KI-Entwickler (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/2503eda7-4da8-4d14-acd3-bb1a5beee09a"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Key Account Manager Enterprise (m/w/d) Corporate Learning & AI",
+   "url": "https://headfound.hforce.ai/job/ec9d918f-9dd2-4f08-9b50-e470bdaad54d"
+  },
+  {
+   "at": "2026-10-16T11:55:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Disponent (m/w/d)  SAP",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017Yj7pQAC"
+  },
+  {
+   "at": "2026-10-16T11:54:23+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Auszubildende zur Fachkraft (m/w/d) für Lagerlogistik",
+   "url": "https://career.skf.com/job/Hamburg-Auszubildende-zur-Fachkraft-%28mwd%29-f%C3%BCr-Lagerlogistik/1448493333"
+  },
+  {
+   "at": "2026-10-16T11:54:37+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Masterarbeit im Bereich IT - Enterprise Technology Architecture",
+   "url": "https://jobs.ams-osram.com/de/job/Masterarbeit-im-Bereich-IT-Enterprise-Technology-Architecture-Regensburg/23709"
+  },
+  {
+   "at": "2026-10-16T11:54:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Mechanical Install Engineer - EXE Veldhoven, Netherlands Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/mechanical-install-engineer-exe-j00348107"
+  },
+  {
+   "at": "2026-10-16T11:54:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "SR Human Resources Generalist",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Guelph-Ontario-CA/SR-Human-Resources-Generalist_R00266392?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T11:54:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Operator wózków widłowych (m/k/d) 41065 Mönchengladbach 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/13Nm2L-operator-wozkow-widlowych-mkd_41065-moenchengladbach"
+  },
+  {
+   "at": "2026-10-16T11:54:27+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Projektassistenz (m/w/d) (Büroverwaltung) in 01067 Dresden Büroverwaltung 01067 Dresden vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/projektassistenz-m-w-d-20"
+  },
+  {
+   "at": "2026-10-16T11:54:27+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Kundenbetreuung (m/w/d) (Büroverwaltung) in 01159 Dresden Büroverwaltung 01159 Dresden vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-kundenbetreuung-m-w-d-4"
+  },
+  {
+   "at": "2026-10-16T11:54:27+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Dresden",
+   "url": "https://jobs.de.dis-ag.com/suche/in-dresden"
+  },
+  {
+   "at": "2026-10-16T11:54:27+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/projektassistenz-m-w-d-20/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T11:40:45+00:00",
+ "last_run": "2026-10-16T11:55:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
