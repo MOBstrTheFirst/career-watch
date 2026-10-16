@@ -1,21 +1,7 @@
 {
- "alerts": 446,
+ "alerts": 449,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur - elektrische Energieverteilung (m/w/d) Berufserfahrene Mannheim Neu",
-   "url": "https://karriere.omexom.de/jobs/61717622/Elektromonteur---elektrische-Energieverteilung-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Elektrotechnik / Energietechnik (m/w/d) Berufseinsteiger Wetzlar Neu",
-   "url": "https://karriere.omexom.de/jobs/61717832/Elektromonteur-Elektrotechnik-Energietechnik-m-w-d-"
-  },
   {
    "at": "2026-10-16T11:10:10+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Magna – Veitsbronn",
    "title": "Principal Sr - RF Design",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Principal-Sr---RF-Design_R00266407?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T17:10:18+00:00",
+   "kind": "new",
+   "site": "Preh GmbH",
+   "title": "Executive Assistant to the Managing Director",
+   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3953"
+  },
+  {
+   "at": "2026-10-16T17:09:16+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Learning Systems & Services Specialist Chandler, US Human Resources",
+   "url": "https://www.asml.com/en/careers/find-your-job/learning-systems-services-specialist-j00354579"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T16:55:43+00:00",
+ "last_run": "2026-10-16T17:10:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
