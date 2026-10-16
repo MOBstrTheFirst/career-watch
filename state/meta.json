@@ -1,5 +1,5 @@
 {
- "alerts": 15,
+ "alerts": 17,
  "commands_set": true,
  "events": [
   {
@@ -449,12 +449,19 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanz-bilanzbuchhalter-zur-weiterentwicklung-als-teamleitung-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-16T23:39:41+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Field Service Coordinator",
+   "url": "https://careers.abb/global/en/job/JR00047839/Field-Service-Coordinator"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T23:25:42+00:00",
+ "last_run": "2026-10-16T23:40:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 7,
+ "runs": 8,
  "tg_offset": 297408924
 }
