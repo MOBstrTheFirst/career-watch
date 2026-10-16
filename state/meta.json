@@ -1,28 +1,7 @@
 {
- "alerts": 470,
+ "alerts": 472,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:15:51+00:00",
-   "kind": "new",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Sr Manager Total Rewards EMEAI",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Berlin/Total-Rewards-EMEAI-Manager_R21098?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T11:15:28+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "System Engineer - Betrieb Plattform (m/w/d) in Berlin, Frankfurt, München, Nürnberg oder Rheinbach",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/system-engineer-betrieb-plattform-m-w-d-70896"
-  },
-  {
-   "at": "2026-10-16T11:16:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Werkstudent Recruiting (m/w/d) | DIS AG Kiel (HR & Personalwesen) in 24103 Kiel HR & Personalwesen 24103 Kiel Homeoffice möglich vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/werkstudent-recruiting-m-w-d-dis-ag-kiel"
-  },
   {
    "at": "2026-10-16T11:16:01+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Automotive Electronic Systems Engineer",
    "url": "https://leggett.com/careers/search?posting=35711"
+  },
+  {
+   "at": "2026-10-16T20:54:57+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Electrical Engineer San Diego, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-electrical-engineer-j00351757"
+  },
+  {
+   "at": "2026-10-16T20:54:57+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Technischer Architekt Salesforce (w/m/d) Erfurt, Dortmund, Ratingen, Muenchen, Karlsruhe + 9 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/401168-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T20:54:57+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Praktikum Sales Support & Angebotsmanagement (w/m/d) Retail & Distribution Stuttgart, Koeln, Hamburg, Frankfurt, Nuernberg + 7 Administration Support ",
+   "url": "https://www.capgemini.com/de-de/jobs/472417-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T20:40:36+00:00",
+ "last_run": "2026-10-16T20:55:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 97,
+ "runs": 98,
  "tg_offset": 297408924
 }
