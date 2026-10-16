@@ -1,5 +1,5 @@
 {
- "alerts": 33,
+ "alerts": 35,
  "commands_set": true,
  "events": [
   {
@@ -561,12 +561,19 @@
    "site": "Vodafone – Nürnberg",
    "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Leipzig (2027)",
    "url": "https://jobs.vodafone.com/careers?domain=vodafone.com&query=&location=Germany"
+  },
+  {
+   "at": "2026-10-16T01:25:58+00:00",
+   "kind": "new",
+   "site": "Biogents – Regensburg",
+   "title": "Positioning & application",
+   "url": "https://eu-shop.biogents.com/en/help-support/positioning-of-your-mosquito-trap"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T01:15:15+00:00",
+ "last_run": "2026-10-16T01:26:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
