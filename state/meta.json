@@ -1,14 +1,7 @@
 {
- "alerts": 144,
+ "alerts": 150,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-15T22:10:18+00:00",
-   "kind": "new",
-   "site": "SIPOS Aktorik",
-   "title": "Initiativbewerbung AUMA Service (Köln, Magdeburg, München)",
-   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Initiativbewerbung-AUMA-Service-Koeln-Magdeburg-Muenchen-de-j150.html"
-  },
   {
    "at": "2026-10-15T22:10:18+00:00",
    "kind": "new",
@@ -3361,12 +3354,159 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-29/bewerben"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Lager- und Transportarbeiter (m/w/d) Lindlar",
+   "url": "https://www.tempton.de/jobs/lager-transportarbeiter-346"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Windows Systemadministrator (m/w/d) initiativ Köln",
+   "url": "https://www.tempton.de/jobs/windows-systemadministrator-initiativ-9"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 System Engineer (m/w/d) – Klinische Kommunikations- & Rufsysteme Berlin, Hamburg, München, Köln, Frankfurt am Main, Düsseldorf",
+   "url": "https://www.tempton.de/jobs/system-engineer-klinische-kommunikations-rufsysteme-8"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 System Engineer (m/w/d) ITK, 100% remote München, Frankfurt am Main, Nürnberg, Augsburg, Regensburg, Würzburg, Gießen, Marburg, Bayreuth, P",
+   "url": "https://www.tempton.de/jobs/system-engineer-itk-100-remote-8"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Systemingenieur (m/w/d) - Defence München",
+   "url": "https://www.tempton.de/jobs/systemingenieur-defence-1"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 SAP GTS Inhouse Consultant (m/w/d) Köln",
+   "url": "https://www.tempton.de/jobs/sap-gts-inhouse-consultant-2"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 (DIREKTVERMITTLUNG) Personalsachbearbeiter Entgeltabrechnung / Payroll Specialist ab 3.800 €/Brutto Deißlingen",
+   "url": "https://www.tempton.de/jobs/direktvermittlung-personalsachbearbeiter-entgeltabrechnung-payroll-specialist-3800-euro-brutto-3"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 (DIREKTVERMITTLUNG) Personalsachbearbeiter Entgeltabrechnung / Payroll Specialist ab 3.800 €/Brutto Dauchingen",
+   "url": "https://www.tempton.de/jobs/direktvermittlung-personalsachbearbeiter-entgeltabrechnung-payroll-specialist-3800-euro-brutto-2"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 (DIREKTVERMITTLUNG) Personalsachbearbeiter Entgeltabrechnung / Payroll Specialist ab 3.800 €/Brutto Trossingen",
+   "url": "https://www.tempton.de/jobs/direktvermittlung-personalsachbearbeiter-entgeltabrechnung-payroll-specialist-3800-euro-brutto-1"
+  },
+  {
+   "at": "2026-10-16T08:10:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 (DIREKTVERMITTLUNG) Personalsachbearbeiter Entgeltabrechnung / Payroll Specialist ab 3.800 €/Brutto Villingen-Schwenningen",
+   "url": "https://www.tempton.de/jobs/direktvermittlung-personalsachbearbeiter-entgeltabrechnung-payroll-specialist-3800-euro-brutto"
+  },
+  {
+   "at": "2026-10-16T08:09:43+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 85368 Moosburg an der Isar 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1bA04K-kommissionierer-mit-staplerschein-mwd-in-tagschicht_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Schülerpraktikant (m/w/d) 16.10.2026 Sonstige Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/schuelerpraktikant-m-w-d"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom Technik – Nürnberg",
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312841"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom Technik – Nürnberg",
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/principal-devops-engineer-m-f-d-for-industrial-ai-cloud-744000153443654"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Neu Werkstudent (m/w/d) Auftragsmanagement und Finanzen Buchhaltung Möhrendorf imbus AG Studenten",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/175/werkstudent-mwd-auftragsmanagement-und-finanzen"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Assistenz(m/w/d) der Leitung (Büroverwaltung) in 76277 Rheinstetten Büroverwaltung 76277 Rheinstetten Homeoffice möglich vor 10 Stunden",
+   "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-der-leitung-20"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 86415 Mering Logistik & Transport 45.000,00 - 55.000,00 EUR / Jahr 86415 Mering Homeoffice mögl",
+   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-90"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Referent Vertriebssteuerung Firmenkunden (m/w/d) (Banken & Finanzdienstleistung) in 40476 Düsseldorf Banken & Finanzdienstleistung 40476 Düsseldorf Ho",
+   "url": "https://jobs.de.dis-ag.com/referent-vertriebssteuerung-firmenkunden-m-w-d"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 76137 Karlsruhe Büroverwaltung 76137 Karlsruhe Homeoffice möglich vor 10 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-66"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Rheinstetten",
+   "url": "https://jobs.de.dis-ag.com/suche/in-rheinstetten"
+  },
+  {
+   "at": "2026-10-16T08:09:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-der-leitung-20/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T07:55:28+00:00",
+ "last_run": "2026-10-16T08:10:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
