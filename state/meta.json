@@ -1,14 +1,7 @@
 {
- "alerts": 472,
+ "alerts": 473,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:16:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Kiel",
-   "url": "https://jobs.de.dis-ag.com/suche/in-kiel"
-  },
   {
    "at": "2026-10-16T11:16:01+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Capgemini Engineering",
    "title": "Praktikum Sales Support & Angebotsmanagement (w/m/d) Retail & Distribution Stuttgart, Koeln, Hamburg, Frankfurt, Nuernberg + 7 Administration Support ",
    "url": "https://www.capgemini.com/de-de/jobs/472417-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T21:24:25+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Mandatory Internship in Strategic Purchasing of Logistic Transport Services",
+   "url": "https://jobs.bosch.com/en/job/REF298797V-mandatory-internship-in-strategic-purchasing-of-logistic-transport-services"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T21:12:04+00:00",
+ "last_run": "2026-10-16T21:25:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 99,
+ "runs": 100,
  "tg_offset": 297408924
 }
