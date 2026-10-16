@@ -1,56 +1,7 @@
 {
- "alerts": 442,
+ "alerts": 446,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T10:54:31+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-441/bewerben"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Cyber Security",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523454"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F523454"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Werkstudent Sales Support Dortmund (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Dortmund/Werkstudent-Sales-Support-Dortmund--m-w-d-_ID15639"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Operationstechnische Assistenz (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/ae5db0e7-c17a-57da-a884-8824ec63ad97/operationstechnische-assistenz-m-w-d"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Stationsleitung - Kinder- und Jugendmedizin (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/db181749-1dce-5097-b03b-6df056459589/stationsleitung-kinder-und-jugendmedizin-m-w-d"
-  },
-  {
-   "at": "2026-10-16T11:10:10+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Elektrotechnik / Energietechnik (m/w/d) Berufseinsteiger Frankfurt am Main Neu",
-   "url": "https://karriere.omexom.de/jobs/61717327/Elektromonteur-Elektrotechnik-Energietechnik-m-w-d-"
-  },
   {
    "at": "2026-10-16T11:10:10+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Site Construction Senior Manager",
    "url": "https://www.pgcareers.com/de/en/job/R000160661/Site-Construction-Senior-Manager"
+  },
+  {
+   "at": "2026-10-16T16:55:27+00:00",
+   "kind": "possible",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Customer Service Clerk (m/f/d)",
+   "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-16T16:54:34+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Technische Assistenz Maintenance Service / Kit Support (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF298762A-technische-assistenz-maintenance-service-kit-support-w-m-div"
+  },
+  {
+   "at": "2026-10-16T16:54:34+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im Bereich Prozess- und Datenanalyse (Industrie 4.0)",
+   "url": "https://jobs.bosch.com/en/job/REF298687Q-praktikum-im-bereich-prozess-und-datenanalyse-industrie-4-0"
+  },
+  {
+   "at": "2026-10-16T16:54:34+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "MEMS Implementation Manager (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF298798A-mems-implementation-manager-w-m-div"
+  },
+  {
+   "at": "2026-10-16T16:54:34+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Freiwilliges Praktikum für Absolventen (w/m/div.) für den Bereich Nachhaltigkeit",
+   "url": "https://jobs.bosch.com/en/job/REF298751W-freiwilliges-praktikum-fuer-absolventen-w-m-div-fuer-den-bereich-nachhaltigkeit"
+  },
+  {
+   "at": "2026-10-16T16:54:41+00:00",
+   "kind": "new",
+   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
+   "title": "Site Quality Inspector Schiffbau (m/w/d) ﻿",
+   "url": "https://www.saab.com/career/job-opportunities/site-quality-inspector-schiffbau-mwd"
+  },
+  {
+   "at": "2026-10-16T16:54:41+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Principal Sr - RF Design",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Principal-Sr---RF-Design_R00266407?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T16:40:27+00:00",
+ "last_run": "2026-10-16T16:55:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
