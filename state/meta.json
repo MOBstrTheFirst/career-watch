@@ -1,140 +1,7 @@
 {
- "alerts": 280,
+ "alerts": 286,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Bruchsal",
-   "url": "https://jobs.de.dis-ag.com/suche/in-bruchsal"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/sales-assistance-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "HiL Technician (m/f/d) - Aerospace",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzI0Ng%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "HR Specialist Payroll & Time Management (SAP HCM On-Premise)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzI0NA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Chef de Produit Electrique (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155924339-ingenieur-chef-de-produit-electrique-h-f-"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Business Analist Den Haag Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-100232/Business%20Analist/Den%20Haag"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "DevOps Engineer Amsterdam Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-100744/DevOps%20Engineer/Amsterdam"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Functioneel Applicatiebeheerder AFAS Amsterdam Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-100740/Functioneel%20Applicatiebeheerder%20AFAS/Amsterdam"
-  },
-  {
-   "at": "2026-10-16T07:25:28+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Werkstudent Recruitment Vianen Seit 16. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-108465/Werkstudent%20Recruitment/Vianen"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior Engineer, QM Advanced Product Quality",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-Engineer-QM-Advanced-Product-Quality-Calamba/24561"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Haupt­buch­halter (m/w/d) Neu Job Vor Ort Vollzeit 48.000 - 55.000 € Schwä­bisch Hall, Deutsch­land Backoffice Professionals Senior Professionals ohne",
-   "url": "https://touch.ferchau.com/de/de/job/524485/hauptbuchhalter"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Assis­tenz Opera­tions (m/w/d) Neu Job Hybrid Vollzeit 46.000 - 52.000 € Bietig­heim-Bissingen, Deutsch­land Backoffice Young Professionals Profession",
-   "url": "https://touch.ferchau.com/de/de/job/524482/assistenz-operations"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Product Owner (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 85.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior Professionals o",
-   "url": "https://touch.ferchau.com/de/de/job/524479/product-owner"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) CNC-Drehen 97447 Gerolzhofen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/BTs8G-produktionsmitarbeiter-mwd-cnc-drehen_97447-gerolzhofen"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistikmitarbeiter (m/w/d) 97318 Kitzingen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z171t6A-logistikmitarbeiter-mwd_97318-kitzingen"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 97318 Kitzingen 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1jJuha-lagermitarbeiter-mwd_97318-kitzingen"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistikmitarbeiter (m/w/d) in Uffenheim 97215 Uffenheim 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/wG7AV-logistikmitarbeiter-mwd-in-uffenheim_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistiker (m/w/d) 97215 Uffenheim 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z74aK-logistiker-mwd_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-16T07:24:30+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) in 3-Schicht 91487 Vestenbergsgreuth 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1VENU9-produktionshelfer-mwd-in-3-schicht_91487-vestenbergsgreuth"
-  },
   {
    "at": "2026-10-16T07:24:30+00:00",
    "kind": "new",
@@ -3501,12 +3368,145 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/werkstudent-recruiting-m-w-d-dis-ag-kiel/bewerben"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Fachinformatiker (m/w/d) IT-Support",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzI0NQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter - Elektrische Energieversorgung (m/w/d) Berufserfahrene Münster Neu",
+   "url": "https://karriere.omexom.de/jobs/61693247/Bauleiter---Elektrische-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Energieversorgung (m/w/d) Berufserfahrene Dresden Neu",
+   "url": "https://karriere.omexom.de/jobs/61693862/Bauleiter-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur Sekundärtechnik Energieversorgung (w/m/d) Berufserfahrene Unterschleißheim Neu",
+   "url": "https://karriere.omexom.de/jobs/61695552/Konstrukteur-Sekund%C3%A4rtechnik-Energieversorgung-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur Primärtechnik Umspannwerke (m/w/d) Berufserfahrene Unterschleißheim Neu",
+   "url": "https://karriere.omexom.de/jobs/61696582/Konstrukteur-Prim%C3%A4rtechnik-Umspannwerke-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur Sekundärtechnik Energieversorgung (m/w/d) Berufserfahrene Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/61698027/Konstrukteur-Sekund%C3%A4rtechnik-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Elektrotechnik / Energietechnik (m/w/d) Berufserfahrene Wetzlar Neu",
+   "url": "https://karriere.omexom.de/jobs/61697642/Bauleiter-Elektrotechnik-Energietechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Elektrotechnik / Energietechnik (m/w/d) Berufserfahrene Frankfurt am Main Neu",
+   "url": "https://karriere.omexom.de/jobs/61698057/Bauleiter-Elektrotechnik-Energietechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter - Elektrische Energieversorgung (m/w/d) Berufserfahrene Reichenbach Neu",
+   "url": "https://karriere.omexom.de/jobs/61701467/Bauleiter---Elektrische-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Monteur Umspannwerke (m/w/d) Berufseinsteiger Bayern Neu",
+   "url": "https://karriere.omexom.de/jobs/61705867/Monteur-Umspannwerke-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Inbetriebnahmeingenieur Schutz- und Leittechnik (w/m/d) Berufserfahrene Deutschland Neu",
+   "url": "https://karriere.omexom.de/jobs/61705927/Inbetriebnahmeingenieur-Schutz--und-Leittechnik-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektmanager Energieversorgungsanlagen (w/m/d) Berufserfahrene Münster Neu",
+   "url": "https://karriere.omexom.de/jobs/61706362/Projektmanager-Energieversorgungsanlagen-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T11:25:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter elektrische Energieverteilung (m/w/d) Berufserfahrene Freiburg im Breisgau Neu",
+   "url": "https://karriere.omexom.de/jobs/61708102/Bauleiter-elektrische-Energieverteilung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:24:32+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Consultant Data & AI - Public Security & Safety (w/m/d)",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-16T11:24:32+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Senior Consultant SAP S/4HANA Utilities - Geräteverwaltung (w/m/d)",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-16T11:24:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 89584 Ehingen (Donau) 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1gAqaO-staplerfahrer-mwd_89584-ehingen-donau"
+  },
+  {
+   "at": "2026-10-16T11:24:23+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Accountant (m/w/d) (Rechnungswesen & Finanzen) in 91522 Ansbach Rechnungswesen & Finanzen 91522 Ansbach Homeoffice möglich vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/senior-accountant-m-w-d-40"
+  },
+  {
+   "at": "2026-10-16T11:24:23+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Ansbach",
+   "url": "https://jobs.de.dis-ag.com/suche/in-ansbach"
+  },
+  {
+   "at": "2026-10-16T11:24:23+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/senior-accountant-m-w-d-40/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T11:16:30+00:00",
+ "last_run": "2026-10-16T11:25:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
