@@ -1,5 +1,5 @@
 {
- "alerts": 82,
+ "alerts": 86,
  "commands_set": true,
  "events": [
   {
@@ -1660,12 +1660,40 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "IT Intern - Naucalpan Plant",
    "url": "https://www.pgcareers.com/de/en/search-results"
+  },
+  {
+   "at": "2026-10-16T06:10:10+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Homologation Antrieb Neckarsulm (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-16T06:10:10+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kommissionierer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000frvLbQAI"
+  },
+  {
+   "at": "2026-10-16T06:09:22+00:00",
+   "kind": "new",
+   "site": "Huawei Research Center Germany – Nürnberg",
+   "title": "IP Counsel Poland\\Mazowieckie-Warsaw Legal Affairs and Compliance 1.Responsible for the R&D legal matters at the ERI and its designated regional resea",
+   "url": "https://career.huawei.com/reccampportal/euportal/portal/social-recruitment-detail.html?jobId=44886&dataSource=1"
+  },
+  {
+   "at": "2026-10-16T06:09:22+00:00",
+   "kind": "new",
+   "site": "OTH Regensburg – Sensor Application Center & RF lab (+2 more)",
+   "title": "Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter (m/w/d) für den Bereich Bildungsaspirationen im ländlichen Raum in Teilzeit (50%)",
+   "url": "https://karriere.oth-regensburg.de/jobposting/b13ced98b305eea8f81ca27ada45b4d96d066ba50?ref=homepage"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T05:58:46+00:00",
+ "last_run": "2026-10-16T06:10:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
