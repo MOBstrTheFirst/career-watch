@@ -1,126 +1,7 @@
 {
- "alerts": 272,
+ "alerts": 280,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schlosser (m/w/d) 84032 Altdorf, Niederbayern 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1PSrAH-schlosser-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter in der Gießerei (m/w/d) 85368 Moosburg an der Isar 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/QuKrJ-mitarbeiter-in-der-giesserei-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 97437 Haßfurt 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2muxCI-staplerfahrer-mwd_97437-hassfurt"
-  },
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Qualitätsprüfer (m/w/d) 84137 Vilsbiburg 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1OcKwv-qualitaetspruefer-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ - Mechatroniker (m/w/d) 84079 Bruckberg, Niederbayern 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24bTvP-kfz-mechatroniker-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-16T07:09:22+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhalter (m/w/d) 84032 Altdorf, Niederbayern 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2vuvAM-instandhalter-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Manufacturing Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506150/manufacturing-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Manager für Projekt IT-Sicherheit (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506152/manager-fuer-projekt-it-sicherheit-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Technik Manager (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506402/technik-manager-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Data Center Operations Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506492/data-center-operations-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Technischer Projekt- und Supply Manager (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506498/technischer-projekt-und-supply-manager-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Engineer Plattformbetriebssysteme (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506639/engineer-plattformbetriebssysteme-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Programm Architekt (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506642/programm-architekt-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Software System Architect (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506643/software-system-architect-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Hochfrequenz Engineering Manager (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506652/hochfrequenz-engineering-manager-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Verifikation- & Validierungsmanager (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506655/verifikation-validierungsmanager-(all-gender)"
-  },
-  {
-   "at": "2026-10-16T07:09:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sales Assistance (m/w/d) (Sales & Vertrieb) in 76614 Bruchsal Sales & Vertrieb 76614 Bruchsal Homeoffice möglich vor 9 Stunden",
-   "url": "https://jobs.de.dis-ag.com/sales-assistance-m-w-d-1"
-  },
   {
    "at": "2026-10-16T07:09:52+00:00",
    "kind": "new",
@@ -3501,12 +3382,131 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-entgeltabrechnung-m-w-d-9/bewerben"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Enterprise Account Manager (w/m/d) Smart Buildings",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/495261"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F495261"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Energieversorgung (m/w/d) Berufserfahrene Regensburg Neu",
+   "url": "https://karriere.omexom.de/jobs/61708372/Bauleiter-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur (w/m/d) Berufserfahrene Münster Neu",
+   "url": "https://karriere.omexom.de/jobs/61711072/Elektromonteur-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur - Elektrische Energieverteilung (m/w/d) Berufseinsteiger Freiburg im Breisgau Neu",
+   "url": "https://karriere.omexom.de/jobs/61711017/Elektromonteur---Elektrische-Energieverteilung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur (m/w/d) Berufserfahrene Düsseldorf Neu",
+   "url": "https://karriere.omexom.de/jobs/61711117/Elektromonteur-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Monteur Energieverteilung (w/m/d) Berufserfahrene Dortmund Neu",
+   "url": "https://karriere.omexom.de/jobs/61713322/Monteur-Energieverteilung-w-m-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektmanager Energieversorgungsanlagen (m/w/d) Berufserfahrene Frankfurt am Main Neu",
+   "url": "https://karriere.omexom.de/jobs/61714067/Projektmanager-Energieversorgungsanlagen-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:16:18+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektmanager Energieversorgung (m/w/d) Berufserfahrene Dresden Neu",
+   "url": "https://karriere.omexom.de/jobs/61716067/Projektmanager-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T11:15:51+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Supply Chain & Quality Manager - Cabin Seat (f/m/d)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Supply-Chain---Quality-Manager---Cabin-Seat---f-m-d-_JR10438193?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T11:15:51+00:00",
+   "kind": "new",
+   "site": "Medical Valley Digital Health Application Center (DHAC)",
+   "title": "privacy policy",
+   "url": "https://www.medical-valley-emn.de/en/news-and-events/stellenangebote/{privacyPageURL}"
+  },
+  {
+   "at": "2026-10-16T11:15:51+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title (Senior) Director IP, Bruker Biosystems Group & BMID Group",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20060/%28senior%29-director-ip%2c-bruker-biosystems-group-%26-bmid-group/job?hub=12"
+  },
+  {
+   "at": "2026-10-16T11:15:51+00:00",
+   "kind": "new",
+   "site": "MKS Instruments (Atotech) – Feucht",
+   "title": "Sr Manager Total Rewards EMEAI",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Berlin/Total-Rewards-EMEAI-Manager_R21098?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T11:15:28+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "System Engineer - Betrieb Plattform (m/w/d) in Berlin, Frankfurt, München, Nürnberg oder Rheinbach",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/system-engineer-betrieb-plattform-m-w-d-70896"
+  },
+  {
+   "at": "2026-10-16T11:16:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Werkstudent Recruiting (m/w/d) | DIS AG Kiel (HR & Personalwesen) in 24103 Kiel HR & Personalwesen 24103 Kiel Homeoffice möglich vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/werkstudent-recruiting-m-w-d-dis-ag-kiel"
+  },
+  {
+   "at": "2026-10-16T11:16:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Kiel",
+   "url": "https://jobs.de.dis-ag.com/suche/in-kiel"
+  },
+  {
+   "at": "2026-10-16T11:16:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/werkstudent-recruiting-m-w-d-dis-ag-kiel/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T11:10:24+00:00",
+ "last_run": "2026-10-16T11:16:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
