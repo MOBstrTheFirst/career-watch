@@ -1,98 +1,7 @@
 {
- "alerts": 422,
+ "alerts": 427,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T10:39:38+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Telefonvertrieb (m/w/d) (Sales & Vertrieb) in 74653 Künzelsau Sales & Vertrieb 74653 Künzelsau vor 12 Stunden",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-telefonvertrieb-m-w-d"
-  },
-  {
-   "at": "2026-10-16T10:39:38+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Künzelsau",
-   "url": "https://jobs.de.dis-ag.com/suche/in-kuenzelsau"
-  },
-  {
-   "at": "2026-10-16T10:39:38+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-telefonvertrieb-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Junior Software Developer C/C++ (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000155966274-junior-software-developer-c-c-all-gender-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleiter Energieversorgung (m/w/d) Berufserfahrene Unterschleißheim Neu",
-   "url": "https://karriere.omexom.de/jobs/65956091/Bauleiter-Energieversorgung-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Schutz- und Leittechnik-Ingenieur (w/m/d) Berufserfahrene Münster Neu",
-   "url": "https://karriere.omexom.de/jobs/66202878/Schutz--und-Leittechnik-Ingenieur-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektleiter Energieanlagenbau (m/w/d) Berufserfahrene Sindelfingen Neu",
-   "url": "https://karriere.omexom.de/jobs/66317338/Projektleiter-Energieanlagenbau-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektmanager Energieversorgungsanlagen (m/w/d) Berufserfahrene Wetzlar Neu",
-   "url": "https://karriere.omexom.de/jobs/66824055/Projektmanager-Energieversorgungsanlagen-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Werkstattleiter Schaltschrankfertigung (w/m/d) Berufserfahrene Saarbrücken Neu",
-   "url": "https://karriere.omexom.de/jobs/66754385/Werkstattleiter-Schaltschrankfertigung-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Konstrukteur Sekundärtechnik (w/m/d) Berufserfahrene Saarbrücken Neu",
-   "url": "https://karriere.omexom.de/jobs/66754025/Konstrukteur-Sekund%C3%A4rtechnik-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektroniker Schaltanlagenbau (m/w/d) Berufseinsteiger Saarbrücken Neu",
-   "url": "https://karriere.omexom.de/jobs/66754665/Elektroniker-Schaltanlagenbau-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "(Ober-) Monteur (m/w/d) Berufserfahrene Magdeburg Neu",
-   "url": "https://karriere.omexom.de/jobs/66892310/-Ober--Monteur-m-w-d-"
-  },
-  {
-   "at": "2026-10-16T10:55:20+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Konstrukteur Sekundärtechnik (m/w/d) Berufserfahrene Dresden Neu",
-   "url": "https://karriere.omexom.de/jobs/67407752/Konstrukteur-Sekund%C3%A4rtechnik-m-w-d-"
-  },
   {
    "at": "2026-10-16T10:55:20+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/2c5232d3-1ab6-4e91-dc4e-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-16T15:40:14+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Développeur Java (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000154977569--developpeur-java-h-f-"
+  },
+  {
+   "at": "2026-10-16T15:40:14+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur conception mécanique et méthodes industrielles (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000154971859-ingenieur-conception-mecanique-et-methodes-industrielles-h-f-"
+  },
+  {
+   "at": "2026-10-16T15:39:38+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Service Manager (m/f/d)",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20093/service-manager-%28m-f-d%29/job?hub=12"
+  },
+  {
+   "at": "2026-10-16T15:39:38+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Commissioning Engineer Kaunas, Lithuania Installation / Commissioning Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/commissioning-engineer-1401"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriekaufmann (m/w/d) (Logistik & Transport) in 76829 Landau in der Pfalz Logistik & Transport 76829 Landau in der Pfalz vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-30"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännische Assistenz (m/w/d) (Büroverwaltung) in 75015 Bretten Büroverwaltung 75015 Bretten vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennische-assistenz-m-w-d-15"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) Auftragsabwicklung (Büroverwaltung) in 76646 Bruchsal Büroverwaltung 76646 Bruchsal vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-auftragsabwicklung-10"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategic Buyer (m/w/d) (Büroverwaltung) in 76437 Rastatt Büroverwaltung 76437 Rastatt vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategic-buyer-m-w-d-12"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalsachbearbeiter (m/w/d) (HR & Personalwesen) in 76530 Baden-Baden HR & Personalwesen 76530 Baden-Baden vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-m-w-d-224"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR-Business Partner (m/w/d) (HR & Personalwesen) in 76133 Karlsruhe HR & Personalwesen 76133 Karlsruhe vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/hr-business-partner-m-w-d-35"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR-Assistant (m/w/d) (HR & Personalwesen) in 76275 Ettlingen HR & Personalwesen 76275 Ettlingen vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/hr-assistant-m-w-d-28"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Einkaufssachbearbeiter (m/w/d) (Logistik & Transport) in 76530 Baden-Baden Logistik & Transport 76530 Baden-Baden vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-81"
+  },
+  {
+   "at": "2026-10-16T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-30/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T15:25:44+00:00",
+ "last_run": "2026-10-16T15:40:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
