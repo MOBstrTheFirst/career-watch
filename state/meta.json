@@ -1,5 +1,5 @@
 {
- "alerts": 27,
+ "alerts": 28,
  "commands_set": true,
  "events": [
   {
@@ -519,12 +519,26 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "SNO - PM Leader - Tech 3",
    "url": "https://www.pgcareers.com/de/en/job/R000116406/SNO-PM-Leader-Tech-3"
+  },
+  {
+   "at": "2026-10-16T00:09:31+00:00",
+   "kind": "new",
+   "site": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
+   "title": "Zur Startseite",
+   "url": "https://vag-nuernberg.job-shop.com/"
+  },
+  {
+   "at": "2026-10-16T00:09:31+00:00",
+   "kind": "new",
+   "site": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
+   "title": "View latest updates",
+   "url": "https://status.my-job-shop.com/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T00:01:26+00:00",
+ "last_run": "2026-10-16T00:10:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 10,
+ "runs": 11,
  "tg_offset": 297408924
 }
