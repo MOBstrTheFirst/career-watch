@@ -1,5 +1,5 @@
 {
- "alerts": 129,
+ "alerts": 137,
  "commands_set": true,
  "events": [
   {
@@ -2997,12 +2997,201 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/disponent-im-lkw-nahverkehr-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-16T07:40:31+00:00",
+   "kind": "new",
+   "site": "HEITEC AG",
+   "title": "Stellenbeschreibung",
+   "url": "https://www.heitec.de/karriere/stellenangebote/detail/reinigungskraft-mwd-auf-minijob-basis"
+  },
+  {
+   "at": "2026-10-16T07:40:31+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Studentische Aushilfe (w/m/d) Unterstützung der Zertifizierungsstelle ATEX",
+   "url": "https://jobs.tuv.com/de/job/Studentische-Aushilfe-w_m_d-Unterstuetzung-der-Zertifizierungsstelle-ATEX-Essen?id=21782"
+  },
+  {
+   "at": "2026-10-16T07:39:20+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Global Learning & Development Project Manager:in Marchtrenk, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/global-learning-development-project-managerin-1114"
+  },
+  {
+   "at": "2026-10-16T07:39:20+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Head of Talent Development Wels, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/head-of-talent-development-1105"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Procurement Senior Staff Specialist (Indirect Materials & Services)",
+   "url": "https://jobs.ams-osram.com/en/job/Procurement-Senior-Staff-Specialist-Indirect-Materials-Services-Bayan-Lepas/24298"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS Technical Support Engineer Dalian, China Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-technical-support-engineer-j00349587"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Applications Engineer 应用工程师-光刻方向（2027校招） Shanghai, China Applications Engineering",
+   "url": "https://www.asml.com/en/careers/find-your-job/applications-engineer--2027-j00355489"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Operator wózka widłowego (m/k/d) 01917 Kamenz 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1bbQoa-operator-wozka-widlowego-mkd_01917-kamenz"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter - Montage (m/w/d) 97421 Schweinfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1qaDkr-produktionsmitarbeiter-montage-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener Siemens Energy (m/w/d) 99086 Erfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZUOJLT-maschinenbediener-siemens-energy-mwd_99086-erfurt"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 97688 Bad Kissingen 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z29TfYk-produktionshelfer-mwd_97688-bad-kissingen"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) in Tagschicht 91472 Ipsheim 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24AQ0C-produktionshelfer-mwd-in-tagschicht_91472-ipsheim"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 97421 Schweinfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z19bqcR-staplerfahrer-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97421 Schweinfurt 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nEkLU-lagermitarbeiter-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 91315 Höchstadt an der Aisch 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/64I3L-lagermitarbeiter-mwd_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 96114 Hirschaid 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZHvzGw-staplerfahrer-mwd_96114-hirschaid"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 91074 Herzogenaurach 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/190jQc-gabelstaplerfahrer-mwd_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Facharbeiter Metallbereich (m/w/d) 96114 Hirschaid 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/13McN-facharbeiter-metallbereich-mwd_96114-hirschaid"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 97318 Kitzingen 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/y8ReB-staplerfahrer-mwd_97318-kitzingen"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91315 Höchstadt an der Aisch 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1BhlyN-produktionsmitarbeiter-mwd_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter - Montage (m/w/d) 96114 Hirschaid 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZkfFUe-produktionsmitarbeiter-montage-mwd_96114-hirschaid"
+  },
+  {
+   "at": "2026-10-16T07:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91074 Herzogenaurach 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJdinM-produktionsmitarbeiter-mwd_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-16T07:39:50+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "195146 Werkstudent Indirekte Steuern (w/m/x) Veröffentlicht: 16.10.2026 Steuern München Neu Steuern München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.195146.html"
+  },
+  {
+   "at": "2026-10-16T07:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditoren- & Debitorenbuchhalter (m/w/d) in Worms - hybrides Arbeiten (Remote & Präsenz) (Rechnungswesen & Finanzen) in 67547 Worms Rechnungswesen & ",
+   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-in-worms-hybrides-arbeiten-remote-und-praesenz-1"
+  },
+  {
+   "at": "2026-10-16T07:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Disponent Güterverkehr (m/w/d) (Logistik & Transport) in 99084 Erfurt , 99867 Gotha , 99947 Bad Langensalza , 99817 Einsenach Logistik & Transport 990",
+   "url": "https://jobs.de.dis-ag.com/disponent-gueterverkehr-m-w-d"
+  },
+  {
+   "at": "2026-10-16T07:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Worms",
+   "url": "https://jobs.de.dis-ag.com/suche/in-worms"
+  },
+  {
+   "at": "2026-10-16T07:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-in-worms-hybrides-arbeiten-remote-und-praesenz-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T07:25:42+00:00",
+ "last_run": "2026-10-16T07:40:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
