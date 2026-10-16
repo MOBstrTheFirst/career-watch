@@ -1,5 +1,5 @@
 {
- "alerts": 3,
+ "alerts": 4,
  "commands_set": true,
  "events": [
   {
@@ -15,12 +15,96 @@
    "site": "Rohde & Schwarz",
    "title": "Anforderungsingenieur / Strategischer Einkäufer Software und IT / (m/w/d)",
    "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/anforderungsingenieur-strategischer-einkaeufer-software-und-it-m-w-d_251563-1644096.html"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Construction Manager",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/construction-manager-ref-2026-28088"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Contrôleur de Gestion confirmé – Projets F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/controleur-de-gestion-confirme-projets-f-h-ref-2026-28064"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "SAP Coordinator",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/sap-coordinator-ref-2026-28087"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Préparateur Travaux Sites F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/preparateur-travaux-sites-f-h-ref-2026-28086"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Responsable commercial(e) Europe F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-commerciale-europe-f-h-ref-2026-28085"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Architecte Instrumentation SMR (Nuward) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/architecte-instrumentation-smr-nuward-f-h-ref-2026-27974"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Welding Coordinator",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/welding-coordinator-ref-2026-28083"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Technicien Responsable Suivi Physique – matières nucléaires SPAC F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-responsable-suivi-physique-matieres-nucleaires-spac-f-h-ref-2026-28067"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Acheteur Projets Site F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/acheteur-projets-site-f-h-ref-2026-28055"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Site Contract and Commercial manager",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/site-contract-and-commercial-manager-ref-2026-27364"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – Ingénieur(e) calculs mécaniques F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieure-calculs-mecaniques-f-h-ref-2026-27467"
+  },
+  {
+   "at": "2026-10-16T22:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Chaudronnier F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/chaudronnier-f-h-ref-2026-27772"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T22:04:52+00:00",
+ "last_run": "2026-10-16T22:10:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408924
 }
