@@ -1,133 +1,7 @@
 {
- "alerts": 216,
+ "alerts": 228,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Via Fill Operator (Swing)",
-   "url": "https://jobs.sanmina.com/jobs/18361345-via-fill-operator-swing"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Manufacturing Equipment Engineer 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18366051-manufacturing-equipment-engineer-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18317404-material-handler-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Supply Chain/Procurement Mgmt 3 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18366021-supply-chain-slash-procurement-mgmt-3-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Buyer 3 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365746-buyer-3-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Buyer 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365745-buyer-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Buyer 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365744-buyer-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Maintenance Mechanic 3 (N)",
-   "url": "https://jobs.sanmina.com/jobs/18365743-maintenance-mechanic-3-n"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Buyer 3 (N)",
-   "url": "https://jobs.sanmina.com/jobs/18365700-buyer-3-n"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Training Specialist 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365699-training-specialist-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "QA Engineer 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365615-qa-engineer-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "SMT Specialist 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365614-smt-specialist-2-r"
-  },
-  {
-   "at": "2026-10-16T04:25:01+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Techinical Operator 3 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18365613-techinical-operator-3-r"
-  },
-  {
-   "at": "2026-10-16T04:24:32+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Braunschweig",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T04:24:32+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Ingolstadt",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T04:24:32+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Hamburg",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-16T04:39:32+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Personalsachbearbeiter / Bürokauffrau / Mitarbeiter in Lohn und Gehalt (m/w/d) Greifswald",
-   "url": "https://www.tempton.de/jobs/personalsachbearbeiter-buerokauffrau-mitarbeiter-lohn-gehalt-10"
-  },
-  {
-   "at": "2026-10-16T04:39:25+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Senior Team Leader Technical Operations (m/w/d) in Rostock",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-team-leader-technical-operations-m-w-d-70880"
-  },
   {
    "at": "2026-10-16T04:54:53+00:00",
    "kind": "new",
@@ -3501,12 +3375,138 @@
    "site": "DIS AG",
    "title": "@dis-ag.com",
    "url": "https://mailto:bewerbung-karlsruheom@dis-ag.com/"
+  },
+  {
+   "at": "2026-10-16T10:10:00+00:00",
+   "kind": "new",
+   "site": "Preh GmbH",
+   "title": "Tooling Development Engineer",
+   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3951"
+  },
+  {
+   "at": "2026-10-16T10:10:00+00:00",
+   "kind": "possible",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Supply Chain Manager (m/f/d) Ammanford",
+   "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-16T10:10:00+00:00",
+   "kind": "possible",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Supply Chain Manager (m/f/d) Berndorf",
+   "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-16T10:09:22+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (d/m/w) im Bereich Solar Array Operations",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Werkstudent--d-m-w--im-Bereich-Solar-Array-Operations_JR10450247?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T10:09:22+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title FTIR, NIR, Raman Applications Scientist (m/f/d)",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20109/ftir%2c-nir%2c-raman-applications-scientist-%28m-f-d%29/job?hub=12"
+  },
+  {
+   "at": "2026-10-16T10:09:22+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Konstruktionsmechaniker - Schweißtechnik (m/w/d) Raunheim",
+   "url": "https://www.tempton.de/jobs/konstruktionsmechaniker-schweisstechnik-15"
+  },
+  {
+   "at": "2026-10-16T10:09:22+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Fluggerätmechaniker - Fertigungstechnik (m/w/d) Raunheim",
+   "url": "https://www.tempton.de/jobs/fluggeraetmechaniker-fertigungstechnik"
+  },
+  {
+   "at": "2026-10-16T10:09:22+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Inhouse Recruiter (m/w/d) - Defence Kassel",
+   "url": "https://www.tempton.de/jobs/inhouse-recruiter-defence"
+  },
+  {
+   "at": "2026-10-16T10:09:26+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior HF-Entwicklungsingenieur Großsignal (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-hf-entwicklungsingenieur-grosssignal-m-w-d_251563-1702593.html"
+  },
+  {
+   "at": "2026-10-16T10:09:26+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior PMO Manager Projektmanagement-Framework (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-pmo-manager-projektmanagement-framework-m-w-d_251563-1702592.html"
+  },
+  {
+   "at": "2026-10-16T10:09:26+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Business Analyst für Versicherungen (w/m/d) Berlin, Duesseldorf, Hannover, Stuttgart, Muenchen + 3 Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513062-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-16T10:09:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) Qualitätsprüfung 91315 Höchstadt an der Aisch 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/qETyU-produktionsmitarbeiter-mwd-qualitaetspruefung_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "text",
+   "site": "BIOTRONIK – Erlangen",
+   "title": "1 new text line(s), e.g. 100",
+   "url": "https://career5.successfactors.eu/career?company=C0001096615P&site=VjQtMC1hMS0zUmlLd0w3ZzJzYTJlTnloQ1hwZzNNSUV6TU9JYWVjVGlzeDF0RDdv"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Team Lead Finance Analytics Controlling / Accounting / Finance Experienced and Graduates Giesecke + Devrient Mobile Security TCD Iberia S.L. Sant Joan",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27894-en-US"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Senior Financial Controller Controlling / Accounting / Finance Experienced and Graduates Giesecke + Devrient Mobile Security TCD Iberia S.L. Sant Joan",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27895-en-US"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Logistik & Transport) in 75015 Bretten Logistik & Transport 75015 Bretten Homeoffice möglich vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-138"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Bretten",
+   "url": "https://jobs.de.dis-ag.com/suche/in-bretten"
+  },
+  {
+   "at": "2026-10-16T10:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-138/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T09:55:22+00:00",
+ "last_run": "2026-10-16T10:10:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
