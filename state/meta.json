@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 31,
  "commands_set": true,
  "events": [
   {
@@ -533,12 +533,19 @@
    "site": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
    "title": "View latest updates",
    "url": "https://status.my-job-shop.com/"
+  },
+  {
+   "at": "2026-10-16T00:54:22+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior GenAI Solution Architect (w/m/d) Hannover, Erfurt, Muenchen, Dortmund, Duesseldorf + 6 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513699-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T00:40:26+00:00",
+ "last_run": "2026-10-16T00:55:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
