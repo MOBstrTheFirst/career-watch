@@ -1,77 +1,7 @@
 {
- "alerts": 417,
+ "alerts": 422,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T10:40:19+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Facharbeiter Pulverbeschichtung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000151DCjQAM"
-  },
-  {
-   "at": "2026-10-16T10:39:24+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Produktionshelfer (m/w/d) in 51545 Waldbröl Waldbröl",
-   "url": "https://www.tempton.de/jobs/produktionshelfer-51545-waldbroel"
-  },
-  {
-   "at": "2026-10-16T10:39:24+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Lagerhelfer (m/w/d) in 51545 Waldbröl Waldbröl",
-   "url": "https://www.tempton.de/jobs/lagerhelfer-51545-waldbroel"
-  },
-  {
-   "at": "2026-10-16T10:39:24+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Lagerhelfer (m/w/d) in 56470 Bad Marienberg Bad Marienberg (Westerwald)",
-   "url": "https://www.tempton.de/jobs/lagerhelfer-56470-bad-marienberg"
-  },
-  {
-   "at": "2026-10-16T10:39:24+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Senior .NET / C# Entwickler (m/w/d) Grünheide (Mark)",
-   "url": "https://www.tempton.de/jobs/senior-net-c-entwickler"
-  },
-  {
-   "at": "2026-10-16T10:39:54+00:00",
-   "kind": "new",
-   "site": "TÜV SÜD – Nürnberg",
-   "title": "Kfz Mechatroniker / Karosseriebauer / Lackierer als Sachverständiger für Wertgutachten (w/m/d)",
-   "url": "https://jobs.tuvsud.com/job/Kfz-Mechatroniker-Karosseriebauer-Lackierer-als-Sachverst%C3%A4ndiger-f%C3%BCr-Wertgutachten-%28wmd%29/6927-de_DE"
-  },
-  {
-   "at": "2026-10-16T10:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 44143 Dortmund 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZuX9z0-maschinenbediener-mwd_44143-dortmund"
-  },
-  {
-   "at": "2026-10-16T10:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer (m/w/d) 94405 Landau an der Isar 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1cVF8K-kommissionierermwd_94405-landau-an-der-isar"
-  },
-  {
-   "at": "2026-10-16T10:39:38+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Internship: Secure Firmware Development (m/f/d)",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Secure-Firmware-Development--m-f-d-_R-10066772?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-16T10:39:38+00:00",
-   "kind": "possible",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Osnabrück",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
-  },
   {
    "at": "2026-10-16T10:39:38+00:00",
    "kind": "new",
@@ -3501,12 +3431,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/controller-m-w-d-198/bewerben"
+  },
+  {
+   "at": "2026-10-16T15:25:24+00:00",
+   "kind": "possible",
+   "site": "HEADFOUND",
+   "title": "Key Account Manager Enterprise (m/w/d) Corporate Learning & AI, B2B",
+   "url": "https://headfound.hforce.ai/jobs"
+  },
+  {
+   "at": "2026-10-16T15:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur Anla­genbau Medi­en­technik / Wasser­auf­be­rei­tung (m/w/d) Neu Job Hybrid Vollzeit 55.000 - 70.000 € Linz, Öster­reich Anlagenba",
+   "url": "https://touch.ferchau.com/de/de/job/524659/projektingenieur-anlagenbau-medientechnik-wasseraufbereitung"
+  },
+  {
+   "at": "2026-10-16T15:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­bei­ter*in Dispo­si­tion & Logistik (m/w/d) Neu Job Hybrid Vollzeit 49.000 - 56.000 € Linz, Öster­reich Anlagenbau Elektrotechnik Young Professi",
+   "url": "https://touch.ferchau.com/de/de/job/524656/mitarbeiterin-disposition-logistik"
+  },
+  {
+   "at": "2026-10-16T15:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Daten & Inno­va­tion - Python Deve­loper mit Cloud-Fokus (m/w/d) Neu Job Hybrid Vollzeit 53.000 - 75.000 € Linz, Öster­reich Anlagenbau Elektrotechnik",
+   "url": "https://touch.ferchau.com/de/de/job/524653/daten-innovation-python-developer-mit-cloud-fokus"
+  },
+  {
+   "at": "2026-10-16T15:24:35+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Telefonischer Kundenberater (m/w/d) Inbound 30159 Hannover 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1M3Oc4-telefonischer-kundenberater-mwd-inbound_30159-hannover"
+  },
+  {
+   "at": "2026-10-16T15:24:35+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Natur- und Waldführer (m/w/d) für Baumwipfelpfand in Ebrach gesucht 96157 Ebrach, Oberfranken 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/MjrVJ-natur-und-waldfuehrer-mwd-fuer-baumwipfelpfand-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-16T15:24:54+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Principal/Sr Principal Digital Validation Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Engineer_R-10065718?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T15:24:54+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Key Account Sales - GC Auto",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-JingAn/Key-Account-Sales---GC-Auto_R-10067130?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-16T15:24:54+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/928f35bb-48d2-4305-51f6-08debbd6ce98"
+  },
+  {
+   "at": "2026-10-16T15:24:54+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/2c5232d3-1ab6-4e91-dc4e-08df17a5b9ac"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T15:10:33+00:00",
+ "last_run": "2026-10-16T15:25:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
