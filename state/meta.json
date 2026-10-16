@@ -1,21 +1,7 @@
 {
- "alerts": 464,
+ "alerts": 466,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T11:16:18+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur (w/m/d) Berufserfahrene Münster Neu",
-   "url": "https://karriere.omexom.de/jobs/61711072/Elektromonteur-w-m-d-"
-  },
-  {
-   "at": "2026-10-16T11:16:18+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur - Elektrische Energieverteilung (m/w/d) Berufseinsteiger Freiburg im Breisgau Neu",
-   "url": "https://karriere.omexom.de/jobs/61711017/Elektromonteur---Elektrische-Energieverteilung-m-w-d-"
-  },
   {
    "at": "2026-10-16T11:16:18+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ASML – Erlangen",
    "title": "New Senior Learning Service Coordinator San Diego, US Learning and Knowledge Management",
    "url": "https://www.asml.com/en/careers/find-your-job/senior-learning-service-coordinator-j00354583"
+  },
+  {
+   "at": "2026-10-16T19:39:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New NXE CWW Night Technician Wilton, US Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/nxe-cww-night-technician-j00354657"
+  },
+  {
+   "at": "2026-10-16T19:39:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing Quality Engineer – Optics Wilton, US Quality",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-quality-engineer--optics-j00354942"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T19:25:33+00:00",
+ "last_run": "2026-10-16T19:40:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
