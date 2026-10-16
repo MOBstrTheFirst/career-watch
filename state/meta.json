@@ -1,5 +1,5 @@
 {
- "alerts": 36,
+ "alerts": 38,
  "commands_set": true,
  "events": [
   {
@@ -568,12 +568,26 @@
    "site": "Biogents – Regensburg",
    "title": "Positioning & application",
    "url": "https://eu-shop.biogents.com/en/help-support/positioning-of-your-mosquito-trap"
+  },
+  {
+   "at": "2026-10-16T01:56:22+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Mitarbeiter (w/m/d) im Bereich Hausverwaltung und Geländebewirtschaftung",
+   "url": "https://jobs.br.de/Vacancies/1398/Description/1"
+  },
+  {
+   "at": "2026-10-16T01:54:35+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Paint Process Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Northwood-Ohio-US/Paint-Process-Engineer_R00265972?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T01:40:12+00:00",
+ "last_run": "2026-10-16T01:56:36+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
