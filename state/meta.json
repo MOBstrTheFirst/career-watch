@@ -1,147 +1,7 @@
 {
- "alerts": 381,
+ "alerts": 385,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-16T09:40:03+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New HR Operation Specialist (Housing/Fleet Operation) Hwasung, Korea Management Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/hr-operation-specialist-housingfleet-operation-j00352658"
-  },
-  {
-   "at": "2026-10-16T09:40:03+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 84094 Elsendorf in der Hallertau 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1SysJd-staplerfahrer-mwd_84094-elsendorf-in-der-hallertau"
-  },
-  {
-   "at": "2026-10-16T09:40:03+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 84184 Tiefenbach, Kreis Landshut 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/FlX2c-kommissionierer-mit-staplerschein-mwd-in-tagschicht_84184-tiefenbach-kreis-landshut"
-  },
-  {
-   "at": "2026-10-16T09:40:03+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer mit Staplerschein (m/w/d) in Tagschicht 84174 Eching, Niederbayern 16.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtyhLm-kommissionierer-mit-staplerschein-mwd-in-tagschicht_84174-eching-niederbayern"
-  },
-  {
-   "at": "2026-10-16T09:39:34+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197647 Praktikant Visual AI und Optische Prüfsysteme (w/m/x) Veröffentlicht: 16.10.2026 Lieferantennetzwerk Landshut Neu Lieferantennetzwerk Landshut ",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197647.html"
-  },
-  {
-   "at": "2026-10-16T09:39:34+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197624 Werkstudent Visual AI und Optische Prüfsysteme (w/m/x) Veröffentlicht: 16.10.2026 Lieferantennetzwerk Landshut Neu Lieferantennetzwerk Landshut",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197624.html"
-  },
-  {
-   "at": "2026-10-16T09:39:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT Support Engineer (IT & Software) in 20457 Hamburg IT & Software 20457 Hamburg vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/it-support-engineer"
-  },
-  {
-   "at": "2026-10-16T09:39:34+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/it-support-engineer/bewerben"
-  },
-  {
-   "at": "2026-10-16T09:55:09+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Elektriker / Mechatroniker (w/m/d) in der Generator-Wickelei",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Elektriker-Mechatroniker-w-m-d-in-der-Generator-Wickelei/300522"
-  },
-  {
-   "at": "2026-10-16T09:55:09+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Industriemechaniker (w/m/d) in der Generator-Vormontage",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Industriemechaniker-w-m-d-in-der-Generator-Vormontage/300521"
-  },
-  {
-   "at": "2026-10-16T09:54:22+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "16.10.2026 Entwicklungsingenieur (m/w/d) - Defence München",
-   "url": "https://www.tempton.de/jobs/entwicklungsingenieur-defence-1"
-  },
-  {
-   "at": "2026-10-16T09:54:26+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "ENGINEER",
-   "url": "https://careers.motherson.com/en/job/engineer-7290"
-  },
-  {
-   "at": "2026-10-16T09:54:30+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 76287 Rheinstetten Logistik & Transport 76287 Rheinstetten Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-91"
-  },
-  {
-   "at": "2026-10-16T09:54:30+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standortleitung Betriebliche Vorsorge (m/w/d) (Sales & Vertrieb) in 40476 Düsseldorf Sales & Vertrieb 40476 Düsseldorf Homeoffice möglich vor 11 Stund",
-   "url": "https://jobs.de.dis-ag.com/standortleitung-betriebliche-vorsorge-m-w-d"
-  },
-  {
-   "at": "2026-10-16T09:54:30+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Technischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 09366 Stollberg Einkauf & Supply Chain 09366 Stollberg vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/technischer-einkaeufer-m-w-d-60"
-  },
-  {
-   "at": "2026-10-16T09:54:30+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-91/bewerben"
-  },
-  {
-   "at": "2026-10-16T09:54:30+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "@dis-ag.com",
-   "url": "https://mailto:bewerbung-karlsruheom@dis-ag.com/"
-  },
-  {
-   "at": "2026-10-16T10:10:00+00:00",
-   "kind": "new",
-   "site": "Preh GmbH",
-   "title": "Tooling Development Engineer",
-   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3951"
-  },
-  {
-   "at": "2026-10-16T10:10:00+00:00",
-   "kind": "possible",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Supply Chain Manager (m/f/d) Ammanford",
-   "url": "https://leggett.com/careers/search"
-  },
-  {
-   "at": "2026-10-16T10:10:00+00:00",
-   "kind": "possible",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Supply Chain Manager (m/f/d) Berndorf",
-   "url": "https://leggett.com/careers/search"
-  },
   {
    "at": "2026-10-16T10:09:22+00:00",
    "kind": "new",
@@ -3501,12 +3361,152 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/hauptbuchhalter-m-w-d-78/bewerben"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Obermonteur Elektrotechnik Fachrichtung Energie- und Gebäudetechnik (m/w/d) Berufserfahrene Ronnenberg + 1 Neu",
+   "url": "https://karriere.omexom.de/jobs/55236647/Obermonteur-Elektrotechnik-Fachrichtung-Energie--und-Geb%C3%A4udetechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektroniker Fachrichtung Energie- und Gebäudetechnik (m/w/d) Berufserfahrene Langenhagen Neu",
+   "url": "https://karriere.omexom.de/jobs/57004128/Elektroniker-Fachrichtung-Energie--und-Geb%C3%A4udetechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter im Tiefbau (m/w/d) Berufserfahrene Ronnenberg + 1 Neu",
+   "url": "https://karriere.omexom.de/jobs/66069018/Bauleiter-im-Tiefbau-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter Wasser- und Abwassertechnik (m/w/d) Berufseinsteiger Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/63416579/Projektleiter-Wasser--und-Abwassertechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektplaner Elektrotechnik (m/w/d) - Kalkulation | Netzanschluss | Erneuerbare Energien Berufseinsteiger Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/61597302/Projektplaner-Elektrotechnik-m-w-d---Kalkulation-%7C-Netzanschluss-%7C-Erneuerbare-Energien"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Servicetechniker Elektromobilität (m/w/d) Berufserfahrene Rüdersdorf bei Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/55214367/Servicetechniker-Elektromobilit%C3%A4t-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur (w/m/d) im Stahlbau Berufserfahrene Fellbach Neu",
+   "url": "https://karriere.omexom.de/jobs/61534962/Konstrukteur-w-m-d-im-Stahlbau"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektriker / Elektroniker (m/w/d) Kabeltechnik Berufseinsteiger Rostock + 7 Neu",
+   "url": "https://karriere.omexom.de/jobs/61535692/Elektriker-Elektroniker-m-w-d-Kabeltechnik-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Baukaufmann (m/w/d) Berufseinsteiger Bretten Neu",
+   "url": "https://karriere.omexom.de/jobs/55609107/Baukaufmann-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Konstrukteur (w/m/d) im Stahlbau Berufserfahrene Essen Neu",
+   "url": "https://karriere.omexom.de/jobs/61535047/Konstrukteur-w-m-d-im-Stahlbau"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Telekommunikationstechniker/ Elektriker/ Elektroniker Kabeltechnik (m/w/d) Berufserfahrene Chemnitz + 7 Neu",
+   "url": "https://karriere.omexom.de/jobs/61535887/Telekommunikationstechniker-Elektriker-Elektroniker-Kabeltechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-16T13:55:23+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Statiker/Tragwerksplaner (m/w/d) im Freileitungsbau Berufserfahrene Fellbach Neu",
+   "url": "https://karriere.omexom.de/jobs/61623837/Statiker-Tragwerksplaner-m-w-d-im-Freileitungsbau"
+  },
+  {
+   "at": "2026-10-16T13:54:38+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Stellenbörse",
+   "url": "https://db.jobs/service/search/de-de/5441588?qli=true&query=&location=&targetGroup=&sort=pubExternalDate_tdt&country=&pageNum=0"
+  },
+  {
+   "at": "2026-10-16T13:54:19+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 39326 Hohenwarsleben 16.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z17s4NH-strassenwaerter-mitarbeiter-winterdienst-mwd_39326-hohenwarsleben"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroinstallateur Photovoltaik (m/w/d) (Technik & Instandhaltung) in 44625 Herne , 44809 Bochum , 44866 Bochum , 45307 Essen Technik & Instandhaltun",
+   "url": "https://jobs.de.dis-ag.com/elektroinstallateur-photovoltaik-m-w-d"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditorenbuchhalter (m/w/d) in Dresden (Rechnungswesen & Finanzen) in 01099 Dresden Rechnungswesen & Finanzen 01099 Dresden Homeoffice möglich vor 15",
+   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-in-dresden-1"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auftragsmanager Supply Chain (m/w/d) (Büroverwaltung) in 91052 Erlangen Büroverwaltung 91052 Erlangen vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/auftragsmanager-supply-chain-m-w-d"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Herne",
+   "url": "https://jobs.de.dis-ag.com/suche/in-herne"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Essen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-essen"
+  },
+  {
+   "at": "2026-10-16T13:54:29+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/elektroinstallateur-photovoltaik-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T13:40:32+00:00",
+ "last_run": "2026-10-16T13:55:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
