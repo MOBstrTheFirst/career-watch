@@ -1,5 +1,5 @@
 {
- "alerts": 68,
+ "alerts": 70,
  "commands_set": true,
  "events": [
   {
@@ -1443,12 +1443,26 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Hamburg",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-16T04:39:32+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "16.10.2026 Personalsachbearbeiter / Bürokauffrau / Mitarbeiter in Lohn und Gehalt (m/w/d) Greifswald",
+   "url": "https://www.tempton.de/jobs/personalsachbearbeiter-buerokauffrau-mitarbeiter-lohn-gehalt-10"
+  },
+  {
+   "at": "2026-10-16T04:39:25+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Team Leader Technical Operations (m/w/d) in Rostock",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-team-leader-technical-operations-m-w-d-70880"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-16T04:25:13+00:00",
+ "last_run": "2026-10-16T04:40:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-15",
- "runs": 29,
+ "runs": 30,
  "tg_offset": 297408924
 }
