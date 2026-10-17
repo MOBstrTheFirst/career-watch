@@ -1,5 +1,5 @@
 {
- "alerts": 5,
+ "alerts": 7,
  "commands_set": true,
  "events": [
   {
@@ -113,12 +113,47 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-buchhaltung-28/bewerben"
+  },
+  {
+   "at": "2026-10-17T23:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR Generalist (m/w/d) (HR & Personalwesen) in 76287 Rheinstetten HR & Personalwesen 76287 Rheinstetten vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-79"
+  },
+  {
+   "at": "2026-10-17T23:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Supply Chain Manager (m/w/d) (Logistik & Transport) in 76131 Karlsruhe Logistik & Transport 76131 Karlsruhe vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/supply-chain-manager-m-w-d-13"
+  },
+  {
+   "at": "2026-10-17T23:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalsachbearbeiter (m/w/d) (HR & Personalwesen) in 75175 Pforzheim HR & Personalwesen 75175 Pforzheim vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-m-w-d-225"
+  },
+  {
+   "at": "2026-10-17T23:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Inside Sales Manager (m/w/d) (Büroverwaltung) in 74189 Weinsberg Büroverwaltung 74189 Weinsberg Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/inside-sales-manager-m-w-d-23"
+  },
+  {
+   "at": "2026-10-17T23:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-79/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T23:05:07+00:00",
+ "last_run": "2026-10-17T23:10:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 5,
+ "runs": 6,
  "tg_offset": 297408924
 }
