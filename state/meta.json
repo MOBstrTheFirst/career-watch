@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 52,
  "commands_set": true,
  "events": [
   {
@@ -848,12 +848,26 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-onkologische-allgemeinstation-mit-kmt-kinderklinik-m-w-d-ki-onko-2026-10-17"
+  },
+  {
+   "at": "2026-10-17T02:40:33+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Project Manager Financial Services (w/m/d) Berlin, Duesseldorf, Muenchen, Hannover, Hamburg + 3 Delivery Excellence Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513312-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T02:40:33+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Data & AI Engineer Sovereign Cloud (w/m/d) Berlin, Stuttgart, Koeln, Hamburg, Frankfurt + 5 Data & AI Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513829-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T02:25:56+00:00",
+ "last_run": "2026-10-17T02:40:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 20,
+ "runs": 21,
  "tg_offset": 297408924
 }
