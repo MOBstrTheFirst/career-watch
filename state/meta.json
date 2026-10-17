@@ -1,11 +1,40 @@
 {
- "alerts": 0,
+ "alerts": 3,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-10-17T22:09:42+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Technical Application Manager",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031687&jobId=119000"
+  },
+  {
+   "at": "2026-10-17T22:09:42+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Workplace Engineer",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884417&jobId=118161"
+  },
+  {
+   "at": "2026-10-17T22:09:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sales & Marketing Manager (m/w/d) (Büroverwaltung) in 74172 Neckarsulm Büroverwaltung 74172 Neckarsulm 1 Tage her",
+   "url": "https://jobs.de.dis-ag.com/sales-und-marketing-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-17T22:09:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sales-und-marketing-manager-m-w-d/bewerben"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T21:55:42+00:00",
+ "last_run": "2026-10-17T22:10:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
