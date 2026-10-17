@@ -1,5 +1,5 @@
 {
- "alerts": 64,
+ "alerts": 67,
  "commands_set": true,
  "events": [
   {
@@ -981,12 +981,54 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "SMD Maschinenbediener Elektroindustrie (m/w/d) 91054 Erlangen 17.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2pWb6B-smd-maschinenbediener-elektroindustrie-mwd_91054-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:10:26+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "KlinikFIT Intensivpflege",
+   "url": "https://karriere.fresenius.de/job-detail/b9fcb4ee-b3e7-5558-9895-cc0b212bc4df/klinikfit-intensivpflege"
+  },
+  {
+   "at": "2026-10-17T05:10:26+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft / Altenpfleger Intensivstation (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/3678f896-35ef-543f-9ec1-fa12a4e795b3/pflegefachkraft-altenpfleger-intensivstation-m-w-d"
+  },
+  {
+   "at": "2026-10-17T05:10:21+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) Medizintechnik 91054 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZSxUwS-elektroniker-mwd-medizintechnik_91054-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:10:21+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fertigungsmitarbeiter SMD (w/m/d) 91054 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1fQp5z-fertigungsmitarbeiter-smd-wmd_91054-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:10:21+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker Medizintechnik (m/w/d) 91052 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/wGr4G-elektroniker-medizintechnik-mwd_91052-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:10:21+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschineneinrichter SMD-Fertigung (m/w/d) 91056 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1JKJCR-maschineneinrichter-smd-fertigung-mwd_91056-erlangen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T04:55:47+00:00",
+ "last_run": "2026-10-17T05:10:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
