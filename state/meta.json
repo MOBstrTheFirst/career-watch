@@ -1,5 +1,5 @@
 {
- "alerts": 145,
+ "alerts": 147,
  "commands_set": true,
  "events": [
   {
@@ -1548,12 +1548,54 @@
    "site": "Capgemini Engineering",
    "title": "SAP Senior Consultant / Data & AI Engineer (w/m/d) Hannover, Erfurt, Muenchen, Dortmund, Duesseldorf + 6 Data & AI Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/513859-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Logistics Coordinator (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=36196"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Warehouse Logistics Apprenticeship",
+   "url": "https://leggett.com/careers/search?posting=34809"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Global Trade Apprenticeship",
+   "url": "https://leggett.com/careers/search?posting=34807"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Purchasing Manager (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=35811"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Local Driver Grapevine",
+   "url": "https://leggett.com/careers/search?posting=4241"
+  },
+  {
+   "at": "2026-10-17T14:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Truck Driver - CDL (Class A) - Dedicated",
+   "url": "https://leggett.com/careers/search?posting=4944"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T14:40:38+00:00",
+ "last_run": "2026-10-17T14:55:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
