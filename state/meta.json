@@ -1,5 +1,5 @@
 {
- "alerts": 38,
+ "alerts": 42,
  "commands_set": true,
  "events": [
   {
@@ -624,12 +624,26 @@
    "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
    "title": "B.Sc. Informatik im Fachbereich Produktentwicklung und Validierung (m/w/d) ab 01.09.2027 in Hannover",
    "url": "https://jobs.zf.com/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-17T01:55:08+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Werkstudent (w/m/d) für den Bereich Zentrale Designsteuerung und Promotion/ Bildmanagement ",
+   "url": "https://jobs.br.de/Vacancies/1400/Description/1"
+  },
+  {
+   "at": "2026-10-17T01:54:29+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Electron Optics Designer San Jose, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/electron-optics-designer-j00354868"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T01:40:41+00:00",
+ "last_run": "2026-10-17T01:55:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408924
 }
