@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -526,12 +526,47 @@
    "site": "CeramTec – Lauf",
    "title": "Datenschutz",
    "url": "https://recruitingapp-5382.de.umantis.com/Vacancies/4020/DataProtection/1"
+  },
+  {
+   "at": "2026-10-17T00:22:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Control Coordinator 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18370322-production-control-coordinator-3-n"
+  },
+  {
+   "at": "2026-10-17T00:22:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Buyer 1 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18370321-buyer-1-r"
+  },
+  {
+   "at": "2026-10-17T00:22:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Plating Operator* (Graveyard)",
+   "url": "https://jobs.sanmina.com/jobs/18370309-plating-operator-star-graveyard"
+  },
+  {
+   "at": "2026-10-17T00:22:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Plating Operator* (Swing)",
+   "url": "https://jobs.sanmina.com/jobs/18370308-plating-operator-star-swing"
+  },
+  {
+   "at": "2026-10-17T00:22:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Dry Film Operator* (Swing)",
+   "url": "https://jobs.sanmina.com/jobs/18370307-dry-film-operator-star-swing"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T00:10:25+00:00",
+ "last_run": "2026-10-17T00:23:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 11,
+ "runs": 12,
  "tg_offset": 297408924
 }
