@@ -1,5 +1,5 @@
 {
- "alerts": 68,
+ "alerts": 70,
  "commands_set": true,
  "events": [
   {
@@ -1072,12 +1072,82 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Elektroniker (m/w/d) 90542 Eckental 17.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/2gqcTR-elektroniker-mwd_90542-eckental"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 91056 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2eynUU-zerspanungsmechaniker-mwd_91056-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC Dreher (m/w/d) 91056 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zg7lWT-cnc-dreher-mwd_91056-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer (m/w/d) 91058 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2mvsjH-lagerhelfer-mwd_91058-erlangen"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker Maschineninstandhaltung (m/w/d) 91350 Gremsdorf 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/sGgrR-mechatroniker-maschineninstandhaltung-mwd_91350-gremsdorf"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 91350 Gremsdorf 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18qcqa-staplerfahrer-mwd_91350-gremsdorf"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Drehen/Bohren 91350 Gremsdorf 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/W1VNk-cnc-drehenbohren_91350-gremsdorf"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 91350 Gremsdorf 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/29tB9r-industriemechaniker-mwd_91350-gremsdorf"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechaniker (m/w/d) 91350 Gremsdorf 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2eHN5e-mechaniker-mwd_91350-gremsdorf"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 91315 Höchstadt an der Aisch 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1wdpKj-produktionshelfer-mwd_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-17T05:40:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montage (m/w/d) 91315 Höchstadt an der Aisch 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2mzSDG-montage-mwd_91315-hoechstadt-an-der-aisch"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T05:25:40+00:00",
+ "last_run": "2026-10-17T05:41:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408924
 }
