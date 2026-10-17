@@ -1,5 +1,5 @@
 {
- "alerts": 118,
+ "alerts": 121,
  "commands_set": true,
  "events": [
   {
@@ -1387,12 +1387,68 @@
    "site": "ABB – Nürnberg branch",
    "title": "Customer Account Manager",
    "url": "https://careers.abb/global/en/job/JR00045306/Customer-Account-Manager"
+  },
+  {
+   "at": "2026-10-17T09:54:34+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Knowledge Graph Engineer/Architect (w/m/d) Frankfurt, Nuernberg, Hannover, Erfurt, Muenchen + 6 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513762-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Recruiter (m/w/d) (HR & Personalwesen) in 76131 Karlsruhe HR & Personalwesen 76131 Karlsruhe vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/recruiter-m-w-d-57"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Logistik & Transport) in 76646 Bruchsal Logistik & Transport 76646 Bruchsal vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-141"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Logistik & Transport) in 76571 Gaggenau Logistik & Transport 76571 Gaggenau vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-140"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) Auftragsabwicklung (Sales & Vertrieb) in 76829 Landau in der Pfalz Sales & Vertrieb 76829 Landau in der Pfalz vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-auftragsabwicklung-11"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 76287 Rheinstetten Logistik & Transport 76287 Rheinstetten vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-92"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Karlsruhe",
+   "url": "https://jobs.de.dis-ag.com/suche/in-karlsruhe"
+  },
+  {
+   "at": "2026-10-17T09:56:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/recruiter-m-w-d-57/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T09:40:42+00:00",
+ "last_run": "2026-10-17T09:56:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
