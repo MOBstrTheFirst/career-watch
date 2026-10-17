@@ -1,5 +1,5 @@
 {
- "alerts": 137,
+ "alerts": 140,
  "commands_set": true,
  "events": [
   {
@@ -1520,12 +1520,26 @@
    "site": "Brunel – Nürnberg",
    "title": "Project Lead Technical Controlling (w/m/d) Deutschland Bachelor Universität 2-4 Jahre - Fachliche Führung der Projektaktivitäten des technischen Contr",
    "url": "https://www.brunel.net/de-de/jobs/project-lead-technical-controlling-wmd-tr-297613"
+  },
+  {
+   "at": "2026-10-17T13:25:42+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Trainee Program – Mixed-Signal IC Design for RF integrated circuits (RFIC) (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/67480167/Trainee-Program-%E2%80%93-Mixed-Signal-IC-Design-for-RF-integrated-circuits-RFIC-all-genders-?jobDbPVId=287979361&l=de"
+  },
+  {
+   "at": "2026-10-17T13:25:42+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter Ladeinfrastruktur / Elektromobilität (m/w/d) Berufserfahrene Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/67491152/Projektleiter-Ladeinfrastruktur-Elektromobilit%C3%A4t-m-w-d-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T13:10:52+00:00",
+ "last_run": "2026-10-17T13:25:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
