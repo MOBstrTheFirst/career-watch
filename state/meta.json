@@ -1,5 +1,5 @@
 {
- "alerts": 158,
+ "alerts": 159,
  "commands_set": true,
  "events": [
   {
@@ -1618,12 +1618,26 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Production Floater",
    "url": "https://leggett.com/careers/search?posting=35789"
+  },
+  {
+   "at": "2026-10-17T20:25:40+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Quality Supervisor",
+   "url": "https://leggett.com/careers/search?posting=34278"
+  },
+  {
+   "at": "2026-10-17T20:25:40+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Project Estimator",
+   "url": "https://leggett.com/careers/search?posting=35683"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T20:10:44+00:00",
+ "last_run": "2026-10-17T20:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
