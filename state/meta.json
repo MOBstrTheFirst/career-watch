@@ -1,5 +1,5 @@
 {
- "alerts": 97,
+ "alerts": 98,
  "commands_set": true,
  "events": [
   {
@@ -1324,12 +1324,26 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "Jr. Engineer",
    "url": "https://careers.motherson.com/en/job/jr-engineer-7271"
+  },
+  {
+   "at": "2026-10-17T08:25:14+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Wirtschaftsingenieur - Erneuerbare Energien (w/m/d) Deutschland Bachelor Fachhochschule 0-2 Jahre In Ihrer Position arbeiten Sie an spannenden Projekt",
+   "url": "https://www.brunel.net/de-de/jobs/wirtschaftsingenieur-erneuerbare-energien-wmd-cr-050221"
+  },
+  {
+   "at": "2026-10-17T08:25:14+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Inbetriebnehmer Elektrotechnik (w/m/d) Deutschland, Rostock Bachelor Fachhochschule 2-4 Jahre Als Inbetriebnehmer Elektrotechnik (w/m/d) sind verantwo",
+   "url": "https://www.brunel.net/de-de/jobs/inbetriebnehmer-elektrotechnik-wmd-pr-240992"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T08:10:30+00:00",
+ "last_run": "2026-10-17T08:25:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
