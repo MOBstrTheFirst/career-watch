@@ -1,5 +1,5 @@
 {
- "alerts": 7,
+ "alerts": 8,
  "commands_set": true,
  "events": [
   {
@@ -148,12 +148,19 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-79/bewerben"
+  },
+  {
+   "at": "2026-10-17T23:25:37+00:00",
+   "kind": "new",
+   "site": "F.S. Fehrer Automotive – Kitzingen",
+   "title": "[#DSR_FORM_URL_TEXT#]",
+   "url": "https://www.fehrer.com/karriere/["
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T23:10:38+00:00",
+ "last_run": "2026-10-17T23:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 6,
+ "runs": 7,
  "tg_offset": 297408924
 }
