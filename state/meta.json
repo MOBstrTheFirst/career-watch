@@ -1,5 +1,5 @@
 {
- "alerts": 62,
+ "alerts": 64,
  "commands_set": true,
  "events": [
   {
@@ -974,12 +974,19 @@
    "site": "Capgemini Engineering",
    "title": "Engagement Manager (w/m/d) Nuernberg, Hannover, Erfurt, Muenchen, Dortmund + 7 Delivery Excellence Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/516724-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T04:55:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "SMD Maschinenbediener Elektroindustrie (m/w/d) 91054 Erlangen 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2pWb6B-smd-maschinenbediener-elektroindustrie-mwd_91054-erlangen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T04:45:06+00:00",
+ "last_run": "2026-10-17T04:55:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
