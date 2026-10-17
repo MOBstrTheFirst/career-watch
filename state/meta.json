@@ -1,5 +1,5 @@
 {
- "alerts": 123,
+ "alerts": 124,
  "commands_set": true,
  "events": [
   {
@@ -1443,12 +1443,19 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/recruiter-m-w-d-57/bewerben"
+  },
+  {
+   "at": "2026-10-17T10:54:30+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Commissioning Engineer - Global Kaunas, Lithuania Installation / Commissioning Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/commissioning-engineer-global-1333"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T10:40:46+00:00",
+ "last_run": "2026-10-17T10:55:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
