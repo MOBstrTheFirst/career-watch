@@ -1,5 +1,5 @@
 {
- "alerts": 140,
+ "alerts": 142,
  "commands_set": true,
  "events": [
   {
@@ -1534,12 +1534,19 @@
    "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
    "title": "Projektleiter Ladeinfrastruktur / Elektromobilität (m/w/d) Berufserfahrene Uedem Neu",
    "url": "https://karriere.omexom.de/jobs/67491152/Projektleiter-Ladeinfrastruktur-Elektromobilit%C3%A4t-m-w-d-"
+  },
+  {
+   "at": "2026-10-17T13:40:35+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "KomponentingenjÃ¶r",
+   "url": "https://jobs.sanmina.com/jobs/18309471-komponentingenjapr"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T13:25:58+00:00",
+ "last_run": "2026-10-17T13:40:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
