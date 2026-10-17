@@ -1,5 +1,5 @@
 {
- "alerts": 103,
+ "alerts": 110,
  "commands_set": true,
  "events": [
   {
@@ -1338,12 +1338,26 @@
    "site": "Brunel – Nürnberg",
    "title": "Inbetriebnehmer Elektrotechnik (w/m/d) Deutschland, Rostock Bachelor Fachhochschule 2-4 Jahre Als Inbetriebnehmer Elektrotechnik (w/m/d) sind verantwo",
    "url": "https://www.brunel.net/de-de/jobs/inbetriebnehmer-elektrotechnik-wmd-pr-240992"
+  },
+  {
+   "at": "2026-10-17T09:09:28+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "ENGINEER",
+   "url": "https://careers.motherson.com/en/job/engineer-7124"
+  },
+  {
+   "at": "2026-10-17T09:09:28+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Sr. Engineer",
+   "url": "https://careers.motherson.com/en/job/sr-engineer-7436"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T08:55:56+00:00",
+ "last_run": "2026-10-17T09:11:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
