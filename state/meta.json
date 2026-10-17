@@ -1,5 +1,5 @@
 {
- "alerts": 57,
+ "alerts": 59,
  "commands_set": true,
  "events": [
   {
@@ -876,12 +876,26 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "JR. ENGINEER",
    "url": "https://careers.motherson.com/en/job/jr-engineer-7422"
+  },
+  {
+   "at": "2026-10-17T04:09:33+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Physical design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Physical-design-Engineer_R-10067284?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-17T04:09:33+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Memmingen",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Memmingen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Memmingen-BY-87700/1445952333"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T03:55:51+00:00",
+ "last_run": "2026-10-17T04:10:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 26,
+ "runs": 27,
  "tg_offset": 297408924
 }
