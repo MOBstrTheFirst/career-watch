@@ -1,5 +1,5 @@
 {
- "alerts": 135,
+ "alerts": 137,
  "commands_set": true,
  "events": [
   {
@@ -1513,12 +1513,19 @@
    "site": "Capgemini Engineering",
    "title": "Go-to-Market Lead Public Sector (w/m/d) Erfurt, Muenchen, Dortmund, Duesseldorf, Berlin + 6 Sales & Client Management & Solution Design Unbefristet Be",
    "url": "https://www.capgemini.com/de-de/jobs/513871-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T13:09:40+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Project Lead Technical Controlling (w/m/d) Deutschland Bachelor Universität 2-4 Jahre - Fachliche Führung der Projektaktivitäten des technischen Contr",
+   "url": "https://www.brunel.net/de-de/jobs/project-lead-technical-controlling-wmd-tr-297613"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T12:55:56+00:00",
+ "last_run": "2026-10-17T13:10:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
