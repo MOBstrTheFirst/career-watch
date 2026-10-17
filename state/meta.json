@@ -1,5 +1,5 @@
 {
- "alerts": 128,
+ "alerts": 130,
  "commands_set": true,
  "events": [
   {
@@ -1485,12 +1485,33 @@
    "site": "Qualcomm – Nürnberg office",
    "title": "• Bachelor's degree in Engineering, Information Systems, Computer Science, or related technical field.",
    "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-17T12:25:39+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Business Engineer SAP FI/CO (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzMzMA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-17T12:25:12+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Process Engineer - Instrumentation Products",
+   "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-17T12:25:12+00:00",
+   "kind": "possible",
+   "site": "ABB – Nürnberg branch",
+   "title": "Save Process Engineer - Instrumentation Products",
+   "url": "https://careers.abb/global/en/search-results"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T12:10:52+00:00",
+ "last_run": "2026-10-17T12:27:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
