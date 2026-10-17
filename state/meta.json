@@ -1,5 +1,5 @@
 {
- "alerts": 52,
+ "alerts": 53,
  "commands_set": true,
  "events": [
   {
@@ -862,12 +862,19 @@
    "site": "Capgemini Engineering",
    "title": "Senior Data & AI Engineer Sovereign Cloud (w/m/d) Berlin, Stuttgart, Koeln, Hamburg, Frankfurt + 5 Data & AI Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/513829-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T02:55:24+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - DUV Field Service Engineer - Hsinchu Hsinchu, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-hsinchu-j00344687"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T02:40:50+00:00",
+ "last_run": "2026-10-17T02:55:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 21,
+ "runs": 22,
  "tg_offset": 297408924
 }
