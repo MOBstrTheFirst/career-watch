@@ -1,5 +1,5 @@
 {
- "alerts": 59,
+ "alerts": 62,
  "commands_set": true,
  "events": [
   {
@@ -890,12 +890,96 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Memmingen",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Memmingen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Memmingen-BY-87700/1445952333"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Assembler 3 (Welder)",
+   "url": "https://jobs.sanmina.com/jobs/18370421-assembler-3-welder"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler 4 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18370411-material-handler-4-n"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler 4 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18370410-material-handler-4-n"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18370409-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Control Inspector (N)",
+   "url": "https://jobs.sanmina.com/jobs/18370408-quality-control-inspector-n"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Process Technician 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18370347-process-technician-3-r"
+  },
+  {
+   "at": "2026-10-17T04:40:37+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Control Leader 4 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18370336-production-control-leader-4-r"
+  },
+  {
+   "at": "2026-10-17T04:40:12+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Engagement Manager Public Sector (w/m/d) Hamburg, Frankfurt, Nuernberg, Hannover, Erfurt + 7 Delivery Excellence Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513768-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T04:40:12+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Pega Senior Business Architect (w/m/d) Ratingen, Muenchen, Erfurt, Hannover, Nuernberg + 5 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/379275-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T04:40:12+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior IT Consultant Retail (w/m/d) Karlsruhe, Ingolstadt, Wolfsburg, Berlin, Dortmund + 9 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/543127-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T04:40:12+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior ServiceNow Business Analyst (w/m/d) Berlin, Stuttgart, Koeln, Hamburg, Frankfurt + 5 Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/405739-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T04:40:12+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Engagement Manager (w/m/d) Nuernberg, Hannover, Erfurt, Muenchen, Dortmund + 7 Delivery Excellence Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/516724-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T04:25:36+00:00",
+ "last_run": "2026-10-17T04:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
