@@ -1,5 +1,5 @@
 {
- "alerts": 160,
+ "alerts": 164,
  "commands_set": true,
  "events": [
   {
@@ -1632,12 +1632,61 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Project Estimator",
    "url": "https://leggett.com/careers/search?posting=35683"
+  },
+  {
+   "at": "2026-10-17T21:10:43+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Dokumentation zur Fehlerbehebung",
+   "url": "https://jobs.sanmina.com/cdn-cgi/challenge-platform/help"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Mitarbeiter (m/w/d) für die Fertigungs- und Produktionskoordination – RFID",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/mitarbeiter-m-w-d-fuer-die-fertigungs-und-produktionskoordination-rfid"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Compliance Manager (m/w/d) Produkt- und Materialkonformität – RFID",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/compliance-manager-m-w-d-produkt-und-materialkonformitaet-rfid"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Mitarbeiter (m/w/d) für die Qualitätssicherung – RFID",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/mitarbeiter-m-w-d-fuer-die-qualitaetssicherung-rfid"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Personalsachbearbeiter (m/w/d) in Teil- oder Vollzeit",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/personalsachbearbeiter-m-w-d-in-teil-oder-vollzeit"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Mitarbeiter (m/w/d) für die End-Montage von RFID-Komponenten",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/montage-rfid-komponenten"
+  },
+  {
+   "at": "2026-10-17T21:09:34+00:00",
+   "kind": "new",
+   "site": "HERMOS AG",
+   "title": "Fachinformatiker/IT-Kaufleute FIS-Konfigurationen (m/w/d)",
+   "url": "https://www.hermos.com/karriere-bei-hermos/stellenportal/fachinformatiker-it-kaufleute-fis-konfigurationen-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T20:55:59+00:00",
+ "last_run": "2026-10-17T21:10:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 96,
+ "runs": 97,
  "tg_offset": 297408924
 }
