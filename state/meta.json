@@ -1,5 +1,5 @@
 {
- "alerts": 74,
+ "alerts": 90,
  "commands_set": true,
  "events": [
   {
@@ -1240,12 +1240,54 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/91a42159-f9ad-48af-ab96-08df298e6008"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Workday Learning Consultant (w/m/d) Dortmund, Lübeck, Berlin, Stuttgart, Koeln + 7 SaaS Solutions Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/570809-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "AI Solution Architect / Senior AI Engineer (w/m/d) Frankfurt, Hamburg, Koeln, Berlin, Duesseldorf + 3 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/511625-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "IT Architekt Energiesektor (w/m/d) Frankfurt, Hamburg, Koeln, Muenchen, Ratingen + 8 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/521596-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Enterprise Architect Banking (w/m/d) Hamburg, Koeln, Berlin, Duesseldorf, Muenchen + 2 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/515006-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Cybersecurity Consultant (w/m/d) Frankfurt, Nuernberg, Ratingen, Muenchen, Luebeck + 4 Cybersecurity Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/367091-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:40:17+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w(d) 91301 Forchheim, Oberfranken 17.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZDyjKQ-produktionsmitarbeiter-mwd_91301-forchheim-oberfranken"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T06:25:55+00:00",
+ "last_run": "2026-10-17T06:40:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 37,
+ "runs": 38,
  "tg_offset": 297408924
 }
