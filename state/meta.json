@@ -1,5 +1,5 @@
 {
- "alerts": 90,
+ "alerts": 91,
  "commands_set": true,
  "events": [
   {
@@ -1282,12 +1282,26 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Produktionsmitarbeiter (m/w(d) 91301 Forchheim, Oberfranken 17.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/ZDyjKQ-produktionsmitarbeiter-mwd_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-17T06:54:33+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Data & AI Engineer (w/m/d) Erfurt, Muenchen, Duesseldorf, Berlin, Stuttgart + 5 Data & AI Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513792-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-17T06:54:33+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Solution Architect (w/m/d) Koeln, Hamburg, Frankfurt, Nuernberg, Hannover + 6 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513728-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-17T06:40:57+00:00",
+ "last_run": "2026-10-17T06:55:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-16",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
