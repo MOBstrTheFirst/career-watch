@@ -1,5 +1,5 @@
 {
- "alerts": 43,
+ "alerts": 44,
  "commands_set": true,
  "events": [
   {
@@ -631,12 +631,19 @@
    "site": "FERCHAU",
    "title": "Konstruk­teur Allplan 3D (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 57.000 € Berlin, Deutsch­land Anlagenbau Professionals ohne Personalverantwortung A",
    "url": "https://touch.ferchau.com/de/de/job/524665/konstrukteur-allplan-3d"
+  },
+  {
+   "at": "2026-10-18T08:39:25+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Software Engineer Defense (w/m/d) Erfurt, Dortmund, Ratingen, Muenchen, Karlsruhe + 8 Software Engineering Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/548889-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T08:26:05+00:00",
+ "last_run": "2026-10-18T08:40:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
