@@ -1,5 +1,5 @@
 {
- "alerts": 77,
+ "alerts": 79,
  "commands_set": true,
  "events": [
   {
@@ -1128,12 +1128,26 @@
    "site": "TTTech Auto Germany",
    "title": "Material Handler (ASRS)",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Material-Handler--ASRS-_R-10067475?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-18T15:10:37+00:00",
+   "kind": "new",
+   "site": "SRAM – Schweinfurt",
+   "title": "French",
+   "url": "https://www.sram.com/en/countryregion-selection-page/UpdateCountry?countryId=50974&lang=fr&returnUrl=%2Fcompany%2Fcareers%2Fcurrent-openings"
+  },
+  {
+   "at": "2026-10-18T15:10:23+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Material Handler (ASRS)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Material-Handler--ASRS-_R-10067476?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T14:55:53+00:00",
+ "last_run": "2026-10-18T15:10:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
