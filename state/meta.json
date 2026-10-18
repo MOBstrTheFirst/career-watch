@@ -1,5 +1,5 @@
 {
- "alerts": 48,
+ "alerts": 49,
  "commands_set": true,
  "events": [
   {
@@ -785,12 +785,19 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Quality Assurance Technician/Technicien de l'assurance qualité",
    "url": "https://www.pgcareers.com/de/en/job/R000150582/Quality-Assurance-Technician-Technicien-de-l-assurance-qualité"
+  },
+  {
+   "at": "2026-10-18T11:39:40+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Strategic Buyer / Strategischer Einkauf Berlin, Germany Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/strategic-buyer--strategischer-einkauf-j00354597"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T11:26:00+00:00",
+ "last_run": "2026-10-18T11:40:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
