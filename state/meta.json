@@ -1,5 +1,5 @@
 {
- "alerts": 64,
+ "alerts": 67,
  "commands_set": true,
  "events": [
   {
@@ -897,12 +897,173 @@
    "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
    "title": "Neu Fachangestellter für Bäderbetriebe (m/w/d) Berufserfahrene",
    "url": "https://jobs.wvv.de/jobs/39449812/Fachangestellter-f%C3%BCr-B%C3%A4derbetriebe-m-w-d-"
+  },
+  {
+   "at": "2026-10-18T13:25:41+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kreditorenbuchhalter (m/w/d) bis zu 28€/h in Ergolding",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hZxIQAU"
+  },
+  {
+   "at": "2026-10-18T13:25:41+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagermitarbeiter + Staplerschein (m/w/d) bis zu 20€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000013GHVhQAO"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) mit Übernahmeoption 91567 Herrieden 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1OMbYS-lagermitarbeiter-mwd-mit-uebernahmeoption_91567-herrieden"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) Metallbranche 91567 Herrieden 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/xdfgv-industriemechaniker-mwd-metallbranche_91567-herrieden"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industrieelektriker (m/w/d) mit Übernahmeoption 91572 Bechhofen an der Heide 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/15ikj5-industrieelektriker-mwd-mit-uebernahmeoption_91572-bechhofen-an-der-heide"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- & Anlagenführer (m/w/d) 91785 Pleinfeld 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1jLeSi-maschinen-und-anlagenfuehrer-mwd_91785-pleinfeld"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen-, Anlagenführer (m/w/d) 91522 Ansbach, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/LG9PA-maschinen-anlagenfuehrer-mwd_91522-ansbach-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) Maschinenbedienung 91637 Wörnitz 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKp0nd-helfer-mwd-maschinenbedienung_91637-woernitz"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter (m/w/d) in der Produktion 91710 Gunzenhausen am Altmühlsee 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/QlrsF-mitarbeiter-mwd-in-der-produktion_91710-gunzenhausen-am-altmuehlsee"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Versandmitarbeiter / Lagerist (m/w/d) 91732 Merkendorf, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/14f1nz-versandmitarbeiter-lagerist-mwd_91732-merkendorf-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker / Elektriker Raum Feuchtwangen (m/w/d) 91555 Feuchtwangen 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1zyx2v-elektroniker-elektriker-raum-feuchtwangen-mwd_91555-feuchtwangen"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- & Anlagenführer (m/w/d) 91166 Georgensgmünd 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/28Uobk-maschinen-und-anlagenfuehrer-mwd_91166-georgensgmuend"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer (m/w/d) 91560 Heilsbronn 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2rwyDF-kommissionierer-mwd_91560-heilsbronn"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer mit Staplerschein (m/w/d) 91560 Heilsbronn 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZdjUkD-lagerhelfer-mit-staplerschein-mwd_91560-heilsbronn"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) 91154 Roth, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z27DC3Q-elektroniker-mwd_91154-roth-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) Metallbranche 91717 Wassertrüdingen 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/w9Vl0-maschinen-und-anlagenfuehrer-mwd-metallbranche_91717-wassertruedingen"
+  },
+  {
+   "at": "2026-10-18T13:24:39+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker - Instandhaltung (m/w/d) 91637 Wörnitz 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZP4FkX-industriemechaniker-instandhaltung-mwd_91637-woernitz"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Karlsruhe Bauleiter (w/m/d) Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/62126094/Bauleiter-w-m-d-"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Appenweier + 3 Obermonteur (w/m/d) Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/62134194/Obermonteur-w-m-d-"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Karlsruhe Praktikum / Abschlussarbeit Techniker oder Bachelor - Bereich Automatisierungstechnik Student/in Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/47200055/Praktikum-Abschlussarbeit-Techniker-oder-Bachelor---Bereich-Automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Stuttgart + 1 Servicetechniker (w/m/d) elektrische Energieverteilung Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/62097279/Servicetechniker-w-m-d-elektrische-Energieverteilung-"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Ludwigshafen am Rhein Obermonteur / Bauleiter (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/24406924/Obermonteur-Bauleiter-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-18T13:24:33+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Ludwigshafen am Rhein Monteur (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/24407589/Monteur-w-m-d-Elektrotechnik-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T13:11:01+00:00",
+ "last_run": "2026-10-18T13:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
