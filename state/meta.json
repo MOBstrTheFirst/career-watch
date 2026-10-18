@@ -1,5 +1,5 @@
 {
- "alerts": 69,
+ "alerts": 71,
  "commands_set": true,
  "events": [
   {
@@ -1072,12 +1072,19 @@
    "site": "Grenzebach – Asbach-Bäumenheim",
    "title": "Duales Studium Informatik für 2027",
    "url": "https://grenzebach.softgarden.io/job/66116628/Duales-Studium-Informatik-f%C3%BCr-2027-?jobDbPVId=288005811&l=de"
+  },
+  {
+   "at": "2026-10-18T13:58:29+00:00",
+   "kind": "text",
+   "site": "Rohmer + Stimpfig",
+   "title": "1 new text line(s), e.g. maßgesc",
+   "url": "https://www.rs-technology.de/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T13:55:32+00:00",
+ "last_run": "2026-10-18T13:59:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
