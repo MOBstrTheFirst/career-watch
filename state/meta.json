@@ -1,5 +1,5 @@
 {
- "alerts": 61,
+ "alerts": 64,
  "commands_set": true,
  "events": [
   {
@@ -869,12 +869,40 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Lagermitarbeiter bei vanWylick Fruchtimport GmbH (m/w/d) 91586 Lichtenau, Mittelfranken 18.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2lSsjG-lagermitarbeiter-bei-vanwylick-fruchtimport-gmbh-mwd_91586-lichtenau-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T13:10:42+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Product Manager",
+   "url": "https://leggett.com/careers/search?posting=36300"
+  },
+  {
+   "at": "2026-10-18T13:09:38+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Arbeitsvorbereiter - Steuerung (w/m/d) Deutschland Bachelor Universität 2-4 Jahre Du koordinierst die Lohnbearbeitung von zu zerspanenden Bauteilen. D",
+   "url": "https://www.brunel.net/de-de/jobs/arbeitsvorbereiter-steuerung-wmd-cr-035324"
+  },
+  {
+   "at": "2026-10-18T13:09:38+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Projektleiter TGA (w/m/d) Deutschland, Duisburg Abitur 4-6 Jahre Eigenverantwortliche Leitung und Steuerung von Projekten im Bereich Technische Gebäud",
+   "url": "https://www.brunel.net/de-de/jobs/projektleiter-tga-wmd-pr-301705"
+  },
+  {
+   "at": "2026-10-18T13:09:35+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
+   "title": "Neu Fachangestellter für Bäderbetriebe (m/w/d) Berufserfahrene",
+   "url": "https://jobs.wvv.de/jobs/39449812/Fachangestellter-f%C3%BCr-B%C3%A4derbetriebe-m-w-d-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T12:55:48+00:00",
+ "last_run": "2026-10-18T13:11:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
