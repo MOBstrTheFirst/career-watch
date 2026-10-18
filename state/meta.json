@@ -1,5 +1,5 @@
 {
- "alerts": 22,
+ "alerts": 24,
  "commands_set": true,
  "events": [
   {
@@ -505,12 +505,40 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-kinderkrankenpfleger-kinderkardiologische-station-m-w-d-ki-ke-2026-10-18"
+  },
+  {
+   "at": "2026-10-18T02:54:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "MuleSoft Architect (w/m/d) Ratingen, Muenchen, Hamburg, Koeln, Stuttgart + 5 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/379268-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-18T02:54:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior SAP EWM Consultant (w/m/d) Berlin, Duesseldorf, Hamburg, Koeln, Stuttgart + 6 SaaS Solutions Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/363383-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-18T02:54:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Cloud Transformation Manager (m/w/d) Muenchen, Duesseldorf, Koeln, Stuttgart, Luebeck + 5 Strategy & Transformation Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/379180-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-18T02:54:17+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior SAP TM Berater (w/m/d) Berlin, Duesseldorf, Koeln, Stuttgart, Hannover + 6 SaaS Solutions Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/363382-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T02:40:44+00:00",
+ "last_run": "2026-10-18T02:55:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 20,
+ "runs": 21,
  "tg_offset": 297408924
 }
