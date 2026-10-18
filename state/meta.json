@@ -1,5 +1,5 @@
 {
- "alerts": 72,
+ "alerts": 74,
  "commands_set": true,
  "events": [
   {
@@ -1093,12 +1093,33 @@
    "site": "Trenkwalder Deutschland",
    "title": "Anlagenmechaniker HKLS (m/w/d) – ab 23€/Std!",
    "url": "https://de.trenkwalder.com/jobs/a0taV000017hmPpQAI"
+  },
+  {
+   "at": "2026-10-18T14:25:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagerfachkraft (m/w/d) bis zu 21,50 €/Std. in Krefeld",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hpqjQAA"
+  },
+  {
+   "at": "2026-10-18T14:25:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kalkulator TGA/Bautechnik (m/w/d) – bis zu 30€/h!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hp18QAA"
+  },
+  {
+   "at": "2026-10-18T14:24:34+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Functional Application Manager",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884874&jobId=118576"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T14:11:12+00:00",
+ "last_run": "2026-10-18T14:25:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
