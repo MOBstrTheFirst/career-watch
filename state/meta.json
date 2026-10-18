@@ -1,5 +1,5 @@
 {
- "alerts": 55,
+ "alerts": 59,
  "commands_set": true,
  "events": [
   {
@@ -841,12 +841,40 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Day Shift Forklift Operator",
    "url": "https://www.pgcareers.com/de/en/job/R000152243/Day-Shift-Forklift-Operator"
+  },
+  {
+   "at": "2026-10-18T12:24:16+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Logistics Operator / Logistikmitarbeiter:in Berlin, Germany Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/logistics-operator--logistikmitarbeiterin-j00348101"
+  },
+  {
+   "at": "2026-10-18T12:24:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Obstbranche (m/w/d) 91586 Lichtenau, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/DiFte-staplerfahrer-obstbranche-mwd_91586-lichtenau-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T12:24:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer bei vanWylick Fruchtimport GmbH (m/w/d) 91586 Lichtenau, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zkf9Sq-staplerfahrer-bei-vanwylick-fruchtimport-gmbh-mwd_91586-lichtenau-mittelfranken"
+  },
+  {
+   "at": "2026-10-18T12:24:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter bei vanWylick Fruchtimport GmbH (m/w/d) 91586 Lichtenau, Mittelfranken 18.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2lSsjG-lagermitarbeiter-bei-vanwylick-fruchtimport-gmbh-mwd_91586-lichtenau-mittelfranken"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T12:11:07+00:00",
+ "last_run": "2026-10-18T12:25:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
