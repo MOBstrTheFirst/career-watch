@@ -1,5 +1,5 @@
 {
- "alerts": 76,
+ "alerts": 77,
  "commands_set": true,
  "events": [
   {
@@ -1121,12 +1121,19 @@
    "site": "Trenkwalder Deutschland",
    "title": "Objektleiter (m/w/d) – ab 28 €/Std!",
    "url": "https://de.trenkwalder.com/jobs/a0taV000017hTJzQAM"
+  },
+  {
+   "at": "2026-10-18T14:54:46+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Material Handler (ASRS)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Material-Handler--ASRS-_R-10067475?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T14:40:49+00:00",
+ "last_run": "2026-10-18T14:55:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
