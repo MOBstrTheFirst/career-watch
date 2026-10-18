@@ -1,5 +1,5 @@
 {
- "alerts": 44,
+ "alerts": 45,
  "commands_set": true,
  "events": [
   {
@@ -638,12 +638,19 @@
    "site": "Capgemini Engineering",
    "title": "Senior Software Engineer Defense (w/m/d) Erfurt, Dortmund, Ratingen, Muenchen, Karlsruhe + 8 Software Engineering Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/548889-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-18T10:09:32+00:00",
+   "kind": "new",
+   "site": "SGB-SMIT Group – Regensburg",
+   "title": "https://www.sgb-smit.com/de/jobs-karriere/offene-stellen?slug=de%2Fvacancies%2F30206-teamleiter-electrical-design-mwd&cHash=2f16d23788746a9dec4a87621ff6999f",
+   "url": "https://www.sgb-smit.com/de/jobs-karriere/offene-stellen?slug=de%2Fvacancies%2F30206-teamleiter-electrical-design-mwd&cHash=2f16d23788746a9dec4a87621ff6999f"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T09:59:48+00:00",
+ "last_run": "2026-10-18T10:10:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
