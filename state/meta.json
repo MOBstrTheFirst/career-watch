@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 5,
  "commands_set": true,
  "events": [
   {
@@ -57,12 +57,19 @@
    "site": "TenneT TSO",
    "title": "Operationeel Installatie Verantwoordelijke",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4930718&jobId=118841"
+  },
+  {
+   "at": "2026-10-18T22:54:34+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Solution Architect Public Security & Safety (w/m/d) Dortmund, Duesseldorf, Ingolstadt, Karlsruhe, Berlin + 8 Architecture Unbefristet Berufserf",
+   "url": "https://www.capgemini.com/de-de/jobs/570896-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T22:40:44+00:00",
+ "last_run": "2026-10-18T22:55:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 3,
+ "runs": 4,
  "tg_offset": 297408924
 }
