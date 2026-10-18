@@ -1,5 +1,5 @@
 {
- "alerts": 79,
+ "alerts": 81,
  "commands_set": true,
  "events": [
   {
@@ -1142,12 +1142,19 @@
    "site": "TTTech Auto Germany",
    "title": "Material Handler (ASRS)",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/Material-Handler--ASRS-_R-10067476?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-18T15:55:35+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Product Manager Trainee",
+   "url": "https://leggett.com/careers/search?posting=34861"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T15:40:49+00:00",
+ "last_run": "2026-10-18T15:55:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
