@@ -1,5 +1,5 @@
 {
- "alerts": 74,
+ "alerts": 76,
  "commands_set": true,
  "events": [
   {
@@ -1114,12 +1114,19 @@
    "site": "TenneT TSO",
    "title": "Functional Application Manager",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884874&jobId=118576"
+  },
+  {
+   "at": "2026-10-18T14:40:34+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Objektleiter (m/w/d) – ab 28 €/Std!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hTJzQAM"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T14:25:42+00:00",
+ "last_run": "2026-10-18T14:40:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
