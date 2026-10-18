@@ -1,5 +1,5 @@
 {
- "alerts": 24,
+ "alerts": 26,
  "commands_set": true,
  "events": [
   {
@@ -533,12 +533,19 @@
    "site": "Capgemini Engineering",
    "title": "Senior SAP TM Berater (w/m/d) Berlin, Duesseldorf, Koeln, Stuttgart, Hannover + 6 SaaS Solutions Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/363382-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-18T03:39:40+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Engineer III, Component Management",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Engineer-III%2C-Component-Management-GA-30004/1448749333"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T03:25:35+00:00",
+ "last_run": "2026-10-18T03:40:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 23,
+ "runs": 24,
  "tg_offset": 297408924
 }
