@@ -1,5 +1,5 @@
 {
- "alerts": 67,
+ "alerts": 69,
  "commands_set": true,
  "events": [
   {
@@ -1058,12 +1058,26 @@
    "site": "Actemium Cegelec",
    "title": "Neu Ludwigshafen am Rhein Monteur (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
    "url": "https://actemium.career.softgarden.de/jobs/24407589/Monteur-w-m-d-Elektrotechnik-"
+  },
+  {
+   "at": "2026-10-18T13:40:33+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Abfall- & Kreislaufwirtschaft (m/w/d) – ab 25€/Std!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hByJQAU"
+  },
+  {
+   "at": "2026-10-18T13:39:35+00:00",
+   "kind": "new",
+   "site": "Grenzebach – Asbach-Bäumenheim",
+   "title": "Duales Studium Informatik für 2027",
+   "url": "https://grenzebach.softgarden.io/job/66116628/Duales-Studium-Informatik-f%C3%BCr-2027-?jobDbPVId=288005811&l=de"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T13:25:56+00:00",
+ "last_run": "2026-10-18T13:40:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
