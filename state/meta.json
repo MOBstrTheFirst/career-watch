@@ -1,5 +1,5 @@
 {
- "alerts": 71,
+ "alerts": 72,
  "commands_set": true,
  "events": [
   {
@@ -1079,12 +1079,26 @@
    "site": "Rohmer + Stimpfig",
    "title": "1 new text line(s), e.g. maßgesc",
    "url": "https://www.rs-technology.de/"
+  },
+  {
+   "at": "2026-10-18T14:10:21+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker Haus- & Servicetechnik (m/w/d) – ab 22 €/Std!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hnVZQAY"
+  },
+  {
+   "at": "2026-10-18T14:10:21+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Anlagenmechaniker HKLS (m/w/d) – ab 23€/Std!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017hmPpQAI"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T13:59:29+00:00",
+ "last_run": "2026-10-18T14:11:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
