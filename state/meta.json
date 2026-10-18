@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 28,
  "commands_set": true,
  "events": [
   {
@@ -540,12 +540,19 @@
    "site": "Landis+Gyr Germany",
    "title": "Engineer III, Component Management",
    "url": "https://careers.landisgyr.com/job/Alpharetta-Engineer-III%2C-Component-Management-GA-30004/1448749333"
+  },
+  {
+   "at": "2026-10-18T04:09:20+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Pega Senior / Lead System Architect (w/m/d) Ratingen, Muenchen, Hamburg, Koeln, Stuttgart + 5 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/379276-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-18T03:55:45+00:00",
+ "last_run": "2026-10-18T04:10:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-17",
- "runs": 25,
+ "runs": 26,
  "tg_offset": 297408924
 }
