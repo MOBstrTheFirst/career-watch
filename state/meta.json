@@ -1,49 +1,7 @@
 {
- "alerts": 440,
+ "alerts": 446,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Operator / Anlagenführer (m/w/d) Wechselschicht",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XrAO1QAN"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Monteur (m/w/d) ab 20,00 Euro",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XUGKTQA5"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker (m/w/d) ab 23,00 Euro",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000VxFagQAF"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Chemielaborant (m/w/d) Analysen",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Vl8gHQAR"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Schlosser(m/w/d) ab 25,00 Euro",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000012K76yQAC"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Qualitätsprüfer (m/w/d) Wareneingang",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000012IHDfQAO"
-  },
   {
    "at": "2026-10-19T11:25:39+00:00",
    "kind": "new",
@@ -3501,12 +3459,54 @@
    "site": "Magna – Veitsbronn",
    "title": "2nd Shift Assembly Team Lead",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Team-Lead-2nd_R00263174?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T17:39:44+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Senior Financial Analyst - Corporate FP&A",
+   "url": "https://uscareers-bruker.icims.com/jobs/20123/senior-financial-analyst---corporate-fp%26a/job?hub=12"
+  },
+  {
+   "at": "2026-10-19T17:39:44+00:00",
+   "kind": "possible",
+   "site": "SGB-SMIT Group – Regensburg",
+   "title": "R&D Engineer",
+   "url": "https://www.sgb-smit.com/career-jobs/current-vacancies"
+  },
+  {
+   "at": "2026-10-19T17:39:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Optical Fabrication Technician CWW Front End Nights, 6:00 PM – 6:00 AM (Sunday, Monday, Tuesday, and every other Saturday) Wilton, US Manufacturin",
+   "url": "https://www.asml.com/en/careers/find-your-job/optical-fabrication-technician-cww-front-end-nights-600-pm--600-am-sunday-monday-tuesday-and-every-other-saturday-j00350752"
+  },
+  {
+   "at": "2026-10-19T17:39:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Quality Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Quality-Engineer_R00266257?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T17:39:58+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197641 Praktikant Hochvoltspeicherentwicklung (w/m/x) Veröffentlicht: 19.10.2026 Produktentwicklung München Neu Produktentwicklung München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197641.html"
+  },
+  {
+   "at": "2026-10-19T17:39:58+00:00",
+   "kind": "new",
+   "site": "toolcraft",
+   "title": "Feedback wird in einem neuen Fenster geöffnet",
+   "url": "https://tally.friendlycaptcha.com/widget-feedback?sdk_version=0.1.32&sitekey=FCMVHNAUNS3JA51L&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F141.0.0.0+Safari%2F537.36&agent_id=a_ZAEyQTBujyhY&widget_id=w_JObPRHNscpqf"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T17:26:45+00:00",
+ "last_run": "2026-10-19T17:41:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
