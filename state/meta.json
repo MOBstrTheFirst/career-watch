@@ -1,224 +1,7 @@
 {
- "alerts": 166,
+ "alerts": 177,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-18T22:10:41+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Expert Digital Finance E-Rechnung Payment (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Expert-Digital-Finance-E-Rechnung-Payment--m-w-d-_ID14553-1"
-  },
-  {
-   "at": "2026-10-18T22:10:41+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Kundenberater Service Personalwirtschaft (befr. 2 Jahre) (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Kundenberater-Service-Personalwirtschaft--befr-2-Jahre---m-w-d-_ID15527-1"
-  },
-  {
-   "at": "2026-10-18T22:10:41+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Praktikum Eventmanagement",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Praktikum-Eventmanagement_ID15623"
-  },
-  {
-   "at": "2026-10-18T22:09:28+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "ILS Technical Documentation Engineer",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ils-technical-documentation-engineer_251563-1703040.html"
-  },
-  {
-   "at": "2026-10-18T22:09:28+00:00",
-   "kind": "new",
-   "site": "emz-Hanauer",
-   "title": "[#DSR_FORM_URL_TEXT#]",
-   "url": "https://www.emz-hanauer.de/karriere/offene-stellen/["
-  },
-  {
-   "at": "2026-10-18T22:09:45+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Logistiek Medewerker Magazijn",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067017&jobId=119031"
-  },
-  {
-   "at": "2026-10-18T22:09:45+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Policy Advisor for Defence & Restoration",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4935843&jobId=118853"
-  },
-  {
-   "at": "2026-10-18T22:09:45+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Operationeel Installatie Verantwoordelijke",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4930718&jobId=118841"
-  },
-  {
-   "at": "2026-10-18T22:54:34+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Solution Architect Public Security & Safety (w/m/d) Dortmund, Duesseldorf, Ingolstadt, Karlsruhe, Berlin + 8 Architecture Unbefristet Berufserf",
-   "url": "https://www.capgemini.com/de-de/jobs/570896-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Operativer Einkäufer (m/w/d) (Logistik & Transport) in 76571 Gaggenau Logistik & Transport 76571 Gaggenau vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-146"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Auftragssachbearbeiter (m/w/d) (Büroverwaltung) in 75173 Pforzheim Büroverwaltung 75173 Pforzheim vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/auftragssachbearbeiter-m-w-d-26"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 91710 Gunzenhausen Rechnungswesen & Finanzen 91710 Gunzenhausen Homeoffice möglich vor einer S",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-340"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Recruiter (m/w/d) (HR & Personalwesen) in 75173 Pforzheim HR & Personalwesen 75173 Pforzheim vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/recruiter-m-w-d-58"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 76275 Ettlingen Logistik & Transport 76275 Ettlingen vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-95"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter (m/w/d) im Bereich Zoll & Export (Logistik & Transport) in 76646 Bruchsal Logistik & Transport 76646 Bruchsal vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-im-bereich-zoll-und-export-6"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 70771 Leinfelden-Echterdingen Rechnungswesen & Finanzen 70771 Leinfelden-Echterdingen Homeoffi",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-446"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 75175 Pforzheim Logistik & Transport 75175 Pforzheim vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-94"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Fachlagerist Pharmaindustrie (m/w/d) (Logistik & Transport) in 13353 Berlin Logistik & Transport 13353 Berlin vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/fachlagerist-pharmaindustrie-m-w-d"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 73655 Plüderhausen Rechnungswesen & Finanzen 73655 Plüderhausen Homeoffice möglich vor e",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-119"
-  },
-  {
-   "at": "2026-10-18T23:09:40+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-146/bewerben"
-  },
-  {
-   "at": "2026-10-19T00:10:26+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "Lead Manufacturing Engineer",
-   "url": "https://careers.geaerospace.com/global/en/job/R5040667/Lead-Manufacturing-Engineer"
-  },
-  {
-   "at": "2026-10-19T00:10:26+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "CNC Machinist (1st & 2nd Shift)",
-   "url": "https://careers.geaerospace.com/global/en/job/R5038928/CNC-Machinist-1st-2nd-Shift"
-  },
-  {
-   "at": "2026-10-19T00:10:26+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "Advanced Manufacturing Apprenticeship, Dowty 2027 intake",
-   "url": "https://careers.geaerospace.com/global/en/job/R5040782/Advanced-Manufacturing-Apprenticeship-Dowty-2027-intake"
-  },
-  {
-   "at": "2026-10-19T00:09:51+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Memory Layout Design Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/Memory-Layout-Design-Engineer_R027427?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T00:54:21+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Junior Technician, Equipment Engineering",
-   "url": "https://jobs.ams-osram.com/en/job/Junior-Technician-Equipment-Engineering-Calamba/24573"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Objektleiter (m/w/d) Gebäudetechnik",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014YfynQAC"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Lagerarbeiter (m/w/d) – Lager & Materiallogistik",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013rb43QAA"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kalkulator TGA/Bautechnik (m/w/d) – Teilzeit 30 Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013q3UDQAY"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Helfer Lager & Logistik (m/w/d) – 19,50 €/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013eCcxQAE"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektrotechniker (m/w/d) in Nipkendey gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013RkHRQA0"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker SHK (m/w/d) – bis zu 26€/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013RbUHQA0"
-  },
   {
    "at": "2026-10-19T01:10:39+00:00",
    "kind": "new",
@@ -3354,12 +3137,376 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kundenberater-m-w-d-in-bautzen-1/bewerben"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "(Senior) Strategy Consultant (f/m/d) - Siemens Advanta",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524215"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524215"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Experienced Function Controller (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Experienced-Function-Controller-f-m-d/305366"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Lear – Kronach",
+   "title": "Praktikum Elektronikentwicklung Sitz",
+   "url": "https://jobs.lear.com/job/Sindelfingen-Praktikum-Elektronikentwicklung-Sitz-BW-71065/1448885833"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Lear – Kronach",
+   "title": "Praktikum Elektronikentwicklung Sitz",
+   "url": "https://jobs.lear.com/job/Sindelfingen-Praktikum-Elektronikentwicklung-Sitz-BW-71065/1448885933"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "ZFA / Zahnmedizinische Fachangestellte (m/w/d) für 3500€",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XoG8FQAV"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) für 25€/Std. gesucht !",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000UpNWKQA3"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur (m/w/d) ab 21€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000UpHaFQAV"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker / Mechaniker (m/w/d) ab 26€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000T2yImQAJ"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinen- und Anlagenführer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000T2bajQAB"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fahrzeuglackierer / Industrielackierer (m/w/d) ab 24€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Ss3TpQAJ"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinen- und Anlagenführer (m/w/d) für 25€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000SgqtJQAR"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Zerspannungsmechaniker (m/w/d) ab 25€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000R6kobQAB"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker für Antriebstechnik (m/w/d) ab 25€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000QtR0kQAF"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000QjG1dQAF"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker – Maschinen und Anlagenführer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000QjDDRQA3"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechatroniker (m/w/d) – Produktion",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000QjBQ9QAN"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker - Baugruppenmontage (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Qj9LHQAZ"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenschlosser / Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000PWcmvQAD"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Marketing Manager Candidate Growth & Social Media (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017m5fBQAQ"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Anlagenbediener (m/w/d) ab 25€ / h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000PVI2LQAX"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker/Schlosser (m/w/d) für 25€/Std. gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000PSvZdQAL"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d) ab 25€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000PSXXJQA5"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d) ab 22€ / Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000MCKzEQAX"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Zerspanungsmechaniker Drehtechnik (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000HQI18QAH"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montierer (m/w/d) Schaltanlagenbau",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017m2uDQAQ"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d) ab 18€/Std. in Herne gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016if6mQAA"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lackierer (m/w/d) in Krefeld ab 20€/h",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016XxJtQAK"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) ab 22,69 €/h in Berlin gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016MD7YQAW"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Chemielaborant (m/w/d) in Bochum ab 36€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016EHWeQAO"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d) in Berlin ab 25€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014lb69QAA"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fertigungsmitarbeiter (m/w/d) in Amberg ab 21€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014kHB7QAM"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker (m/w/d)Hardwareprüfung in Amberg ab 26€/h!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014jrJzQAI"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Assistenz der Fertigungsleitung (m/w/d) ab 21€/h in Ratingen",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000144N85QAE"
+  },
+  {
+   "at": "2026-10-19T08:55:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Aluminium Schweißer (m/w/d) in Krefeld ab 25€/h",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000013wFPRQA2"
+  },
+  {
+   "at": "2026-10-19T08:54:42+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudententätigkeit/ Praktikum: Technology Development RFGaN (w/m/div) Regensburg HRC1829941",
+   "url": "https://jobs.infineon.com/careers/job/563808972142500"
+  },
+  {
+   "at": "2026-10-19T08:54:42+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Elektroniker / Mechatroniker / Industriemechaniker (m/w/d) für die Instandhaltung Deutschland, Köln Berufsausbildung Nicht zutreffend Wartung, Inspekt",
+   "url": "https://www.brunel.net/de-de/jobs/elektroniker-mechatroniker-industriemechaniker-mwd-fur-die-instandhaltung-pr-284564"
+  },
+  {
+   "at": "2026-10-19T08:54:42+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Systemadmin Linux (w/m/d) Deutschland, Bonn Bachelor Universität 0-2 Jahre Diagnose und Behebung von Störungen und Systemfehlern auf Linux-Servern. Un",
+   "url": "https://www.brunel.net/de-de/jobs/systemadmin-linux-wmd-tr-240844"
+  },
+  {
+   "at": "2026-10-19T08:54:42+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Mechaniker / Monteur (m/w/d) Kolbermoor",
+   "url": "https://www.tempton.de/jobs/mechaniker-monteur"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer in der Produktion (m/w/d) 85354 Freising, Oberbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZVhPaT-gabelstaplerfahrer-in-der-produktion-mwd_85354-freising-oberbayern"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) SIEMENS Mobility GmbH 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1uOSus-elektroniker-mwd-siemens-mobility-gmbh_92706-luhe-wildenau"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer in der Produktion (m/w/d) 85301 Schweitenkirchen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1rbrEC-gabelstaplerfahrer-in-der-produktion-mwd_85301-schweitenkirchen"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 4-Schicht 84544 Aschau am Inn 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/TMULI-produktionsmitarbeiter-mwd-4-schicht_84544-aschau-am-inn"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 4-Schicht 84544 Aschau am Inn 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z5ceGj-maschinenbediener-mwd-4-schicht_84544-aschau-am-inn"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer in der Produktion (m/w/d) 85391 Allershausen, Oberbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1CeBz0-gabelstaplerfahrer-in-der-produktion-mwd_85391-allershausen-oberbayern"
+  },
+  {
+   "at": "2026-10-19T08:54:32+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fertigungssteuerer (m/w/d) bei Siemens Mobility GmbH 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/IiAp1-fertigungssteuerer-mwd-bei-siemens-mobility-gmbh_92706-luhe-wildenau"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Functional Safety Architect Hardware (f/m/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Functional-Safety-Architect-Hardware--f-m-d-_R-10067391-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektriker Haus/-Service/-Gebäudetechnik (m/w/d) (Technik & Instandhaltung) in 45127 Essen , 47051 Duisburg , 45473 Mülheim an der Ruhr Technik & Inst",
+   "url": "https://jobs.de.dis-ag.com/elektriker-haus-service-gebaeudetechnik-m-w-d"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroniker Betriebstechnik (Technik & Instandhaltung) in 55411 Bingen Technik & Instandhaltung 55411 Bingen vor 10 Stunden",
+   "url": "https://jobs.de.dis-ag.com/elektroniker-betriebstechnik"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Duisburg",
+   "url": "https://jobs.de.dis-ag.com/suche/in-duisburg"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mülheim an der Ruhr",
+   "url": "https://jobs.de.dis-ag.com/suche/in-muelheim-an-der-ruhr"
+  },
+  {
+   "at": "2026-10-19T08:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/elektriker-haus-service-gebaeudetechnik-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T08:40:55+00:00",
+ "last_run": "2026-10-19T08:56:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 46,
+ "runs": 47,
  "tg_offset": 297408924
 }
