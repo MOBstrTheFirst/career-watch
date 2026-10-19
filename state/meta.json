@@ -1,14 +1,7 @@
 {
- "alerts": 436,
+ "alerts": 438,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Instandhalter (m/w/d) ab 25 € / Std. brutto",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000dFtlhQAC"
-  },
   {
    "at": "2026-10-19T11:25:39+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "KPIT Technologies GmbH",
    "title": "Lead Base Software SoC Engineer (m/f/d)",
    "url": "https://www.kpit.com/job-listing/"
+  },
+  {
+   "at": "2026-10-19T17:09:40+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Ausbildung Mechatroniker:in im Cargo-Werk 2027 Nürnberg, Deutschland DB Cargo AG Startdatum: 1. September 2027",
+   "url": "https://db.jobs/de-de/Suche/--14070410?jobId=639437"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T16:56:57+00:00",
+ "last_run": "2026-10-19T17:12:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
