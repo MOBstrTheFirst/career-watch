@@ -1,287 +1,7 @@
 {
- "alerts": 281,
+ "alerts": 290,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Kundendisponent",
-   "url": "https://careers.motherson.com/en/job/kundendisponent-m-w-d-cufc7p5mrhabmsxnoc2k3w"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 02627 Weißenberg, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1rX3KM-strassenwaerter-mitarbeiter-winterdienst-mwd_02627-weissenberg-sachsen"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Hochregalstaplerfahrer (m/w/d) Bestands- und Qualitätskontrolle 37293 Herleshausen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZkjX8D-hochregalstaplerfahrer-mwd-bestands-und-qualitaetskontrolle_37293-herleshausen"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Programmierer (m/w/d) 95666 Mitterteich 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1y449L-cnc-programmierer-mwd_95666-mitterteich"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker/in in Hydraulik, Pneumatik und Mechanik 95615 Marktredwitz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2bH8Iz-mechatronikerin-in-hydraulik-pneumatik-und-mechanik_95615-marktredwitz"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Wareneingang (m/w/d) 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/10XY78-mitarbeiter-wareneingang-mwd_92706-luhe-wildenau"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Personalsachbearbeiter Teilzeit (m/w/d) 95615 Marktredwitz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z3hBQF-personalsachbearbeiter-teilzeit-mwd_95615-marktredwitz"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Wareneingang (m/w/d) 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zn30jL-mitarbeiter-wareneingang-mwd_92706-luhe-wildenau"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ - Mechatroniker (m/w/d) 84137 Vilsbiburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zp60M5-kfz-mechatroniker-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schlosser (m/w/d) 85368 Moosburg an der Isar 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Inzon-schlosser-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 84079 Bruckberg, Niederbayern 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/WQtYC-lagermitarbeiter-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Fachkraft (m/w/d) 84079 Bruckberg, Niederbayern 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1uVz1W-cnc-fachkraft-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ - Mechatroniker (m/w/d) 84028 Landshut, Isar 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z19zRsl-kfz-mechatroniker-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 84109 Wörth an der Isar 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/dmCjf-produktionsmitarbeiter-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-19T07:54:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhalter (m/w/d) 85368 Moosburg an der Isar 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1GEWve-instandhalter-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-19T07:54:50+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Reginal Marketing Manager",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-JingAn/Reginal-Marketing-Manager_R-10067425?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T08:10:47+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Méthodes Industrialisation (H/F) - Secteur Défense Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156249990-ingenieur-methodes-industrialisation-h-f-secteur-defense-"
-  },
-  {
-   "at": "2026-10-19T08:10:47+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur électronique (conception) - Secteur Défense/Armement Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156246833-ingenieur-electronique-conception-secteur-defense-armement-"
-  },
-  {
-   "at": "2026-10-19T08:10:47+00:00",
-   "kind": "possible",
-   "site": "Expleo Germany",
-   "title": "Projektmanager (all genders)",
-   "url": "https://expleo-jobs-de-de.icims.com/jobs/search?ss=1"
-  },
-  {
-   "at": "2026-10-19T08:10:47+00:00",
-   "kind": "possible",
-   "site": "Expleo Germany",
-   "title": "Projektleiter (all genders)",
-   "url": "https://expleo-jobs-de-de.icims.com/jobs/search?ss=1"
-  },
-  {
-   "at": "2026-10-19T08:10:47+00:00",
-   "kind": "new",
-   "site": "CERTA Systems",
-   "title": "Product Manager Spannysteme (w/m) Büron 80 - 100 % Ab Sofort Schweiz Details",
-   "url": "https://www.erowa.com/de/karriere/offene-stellen/product-manager-spannysteme-w-m-j12594"
-  },
-  {
-   "at": "2026-10-19T08:09:42+00:00",
-   "kind": "new",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Senior Manager, Master Data Governance and Management (w/m/d)",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Berlin/Senior-Manager--Master-Data-Governance-and-Management--w-m-d-_R23346?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Übersicht",
-   "url": "https://www.rohde-schwarz.com/karriere/career-overview/career-overview_257552.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Stellenangebote",
-   "url": "https://www.rohde-schwarz.com/karriere/stellenangebote/karriere-stellenangebote_251573.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Berufseinsteigende und Berufserfahrene",
-   "url": "https://www.rohde-schwarz.com/karriere/berufseinsteigende-berufserfahrene/berufseinsteigende-berufserfahrene_252991.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Studierende",
-   "url": "https://www.rohde-schwarz.com/karriere/studierende/studierende_253005.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Schüler*innen",
-   "url": "https://www.rohde-schwarz.com/karriere/schueler-innen/schueler-innen_253003.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Kultur",
-   "url": "https://www.rohde-schwarz.com/karriere/culture/culture-overview_258170.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Events",
-   "url": "https://www.rohde-schwarz.com/karriere/events/muc-meetup_252389.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Kontakt",
-   "url": "https://www.rohde-schwarz.com/karriere/kontakt/karriere-kontakt_251575.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Project Manager Communication Intelligence (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/project-manager-communication-intelligence-m-w-d_251563-1642753.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Zeichner (m/w/d) maxmodul",
-   "url": "https://jobportal.max-boegl.de/Zeichner-mwd-maxmodul-de-j2319.html"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) für die BMW 84032 Altdorf, Niederbayern 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ajAqO-gabelstaplerfahrer-mwd-fuer-die-bmw_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) für die BMW 84030 Ergolding 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zdq2It-gabelstaplerfahrer-mwd-fuer-die-bmw_84030-ergolding"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Trockenbauer (m/w/d) 06184 Kabelsketal 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZEWvI4-trockenbauer-mwd_06184-kabelsketal"
-  },
-  {
-   "at": "2026-10-19T08:09:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Rechnungswesen (m/w/d) Logistik 47179 Duisburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/274U79-sachbearbeiter-rechnungswesen-mwd-logistik_47179-duisburg"
-  },
-  {
-   "at": "2026-10-19T08:10:00+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Live Store Frankfurt",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Frankfurt-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Live-Store-Frankfurt-HE-60313/1448853033"
-  },
-  {
-   "at": "2026-10-19T08:10:00+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Montierer Tagschicht 21,85 €/Std. (m/w/d) (Handel) in 79331 Teningen Handel 21,85 - 21,85 EUR / Stunde 79331 Teningen vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/montierer-tagschicht-2185-eur-std-m-w-d"
-  },
-  {
-   "at": "2026-10-19T08:10:00+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Teningen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-teningen"
-  },
-  {
-   "at": "2026-10-19T08:10:00+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/montierer-tagschicht-2185-eur-std-m-w-d/bewerben"
-  },
   {
    "at": "2026-10-19T08:25:50+00:00",
    "kind": "new",
@@ -3501,12 +3221,292 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-accounts-payable-2/bewerben"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Research Associate – AI Systems Engineer (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/68184491/Research-Associate-%E2%80%93-AI-Systems-Engineer-all-genders-?jobDbPVId=288091806&l=de"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "TenneT TSO GmbH Werkstudent für digitale Zusammenarbeit im SüdOstLink (m/w/d) Details",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=c47c1ec8-45c9-f111-9b60-9e890cc6b0ac"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "TenneT TSO GmbH Werkstudent Supply Chain Management IT Supply (m/w/d) Details",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=788d11f3-46c9-f111-9b60-9e890cc6b0ac"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "Werkstudent im Online Marketing (m/w/d)",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=60e554b2-84cb-f111-9b60-9e890cc6b0ac&slug=werkstudent-im-online-marketing-mwd"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "Werkstudent für digitale Zusammenarbeit im SüdOstLink (m/w/d)",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=c47c1ec8-45c9-f111-9b60-9e890cc6b0ac&slug=werkstudent-fr-digitale-zusammenarbeit-im-sdostlink-mwd"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "Werkstudent Supply Chain Management IT Supply (m/w/d)",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=788d11f3-46c9-f111-9b60-9e890cc6b0ac&slug=werkstudent-supply-chain-management-it-supply-mwd"
+  },
+  {
+   "at": "2026-10-19T11:55:32+00:00",
+   "kind": "new",
+   "site": "Webasto – Schierling",
+   "title": "Dual Student (f/m/x) Business Psychology starting 01.09.2027",
+   "url": "https://jobs.webasto.com/job/Dual-Student-%28fmx%29-Business-Psychology-starting-01_09_2027/36622-en_US"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "HUMS Technical Support Specialist (m/w/d)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/HUMS-Technical-Support-Specialist--m-w-d-_JR10439712?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Operations Manager SAP EWM (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Augsburg-Area/Operations-Manager-SAP-EWM--d-m-w-_JR10432094-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Haustechniker/Hausmeister/Facility Manager/HLSK (m/w/d)",
+   "url": "https://jobs.testo.com/4449-haustechniker-hausmeister-facility-manager-hlsk-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Heilerziehungspfleger (m/w/d) Leipzig",
+   "url": "https://www.tempton.de/jobs/heilerziehungspfleger-396"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Baubegleitung Backoffice (m/w/d) Telekom Ingolstadt",
+   "url": "https://www.tempton.de/jobs/baubegleitung-backoffice-telekom-3"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Baubegleitung Backoffice (m/w/d) Telekom Landshut",
+   "url": "https://www.tempton.de/jobs/baubegleitung-backoffice-telekom-2"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Netzplaner (m/w/d) Deutsche Telekom Weilheim",
+   "url": "https://www.tempton.de/jobs/netzplaner-deutsche-telekom-8"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Netzplaner (m/w/d) Deutsche Telekom Kempten (Allgäu)",
+   "url": "https://www.tempton.de/jobs/netzplaner-deutsche-telekom-7"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Netzplaner (m/w/d) Deutsche Telekom Gersthofen",
+   "url": "https://www.tempton.de/jobs/netzplaner-deutsche-telekom-6"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 CNC-Fachkraft/NC-Anwendungsfachmann (m/w/d) Stadt Aue-Bad Schlema",
+   "url": "https://www.tempton.de/jobs/cnc-fachkraft-nc-anwendungsfachmann-55"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Kraftfahrzeugmechaniker (m/w/d) Neukirchen",
+   "url": "https://www.tempton.de/jobs/kraftfahrzeugmechaniker-92"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Portfolio Manager Corporate Real Estate Veldhoven, Netherlands Projects, Programs and Change",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-portfolio-manager-corporate-real-estate-j00353256"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Facharbeiter (m/w/d) Maschinenbedienung 91207 Lauf an der Pegnitz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ckpAT-facharbeiter-mwd-maschinenbedienung_91207-lauf-an-der-pegnitz"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker für Siemens Energy (m/w/d) 90461 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZXawh8-industriemechaniker-fuer-siemens-energy-mwd_90461-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) 90411 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/28hHgX-elektriker-mwd_90411-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer/in (m/w/d) im Raum Nürnberg 90473 Nürnberg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/15jIHa-maschinen-und-anlagenfuehrerin-mwd-im-raum-nuernberg_90473-nuernberg"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft (m/w/d) für Lagerlogistik 90473 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1zuhW1-fachkraft-mwd-fuer-lagerlogistik_90473-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektronik Facharbeiter (m/w/d) 91058 Erlangen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZhdQKe-elektronik-facharbeiter-mwd_91058-erlangen"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Einsteller (m/w/d) Komponentenfertigung 91207 Lauf an der Pegnitz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/cPMSW-einsteller-mwd-komponentenfertigung_91207-lauf-an-der-pegnitz"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 91207 Lauf an der Pegnitz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZnebrH-zerspanungsmechaniker-mwd_91207-lauf-an-der-pegnitz"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft (m/w/d) NC Bohren 90537 Feucht 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZHglsX-fachkraft-mwd-nc-bohren_90537-feucht"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kupferschweißer (m/w/d) Siemens Energy 90461 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Ga1MW-kupferschweisser-mwd-siemens-energy_90461-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 90571 Schwaig bei Nürnberg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/mGlIp-produktionsmitarbeiter-mwd_90571-schwaig-bei-nuernberg"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d), Schweinfurt 97421 Schweinfurt 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/94VKn-industriemechaniker-mwd-schweinfurt_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Facharbeiter für die Montage/Prüfung von Motoren (m/w/d) 90441 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZgKtQa-facharbeiter-fuer-die-montagepruefung-von-motoren-mwd_90441-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d), Nürnberg 90441 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZNPyT7-elektriker-mwd-nuernberg_90441-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T11:54:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montage Einrichter (m/w/d) Herzogenaurach 91074 Herzogenaurach 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z8jAmj-montage-einrichter-mwd-herzogenaurach_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Produktionsmitarbeiter (m/w/d) (Technik & Instandhaltung) in 77815 Bühl Technik & Instandhaltung 77815 Bühl vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-m-w-d-51"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kommissionierer Logistik (m/w/d) (Logistik & Transport) in 49835 Wietmarschen Logistik & Transport 19,22 - 22,50 EUR / Monat 49835 Wietmarschen vor 13",
+   "url": "https://jobs.de.dis-ag.com/kommissionierer-logistik-m-w-d"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Produktionsmitarbeiter (m/w/d) (Technik & Instandhaltung) in 77815 Bühl Technik & Instandhaltung 77815 Bühl vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-m-w-d-50"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Zerspanungsmechaniker (m/w/d) (Technik & Instandhaltung) in 76470 Ötigheim Technik & Instandhaltung 76470 Ötigheim vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-45"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Bühl",
+   "url": "https://jobs.de.dis-ag.com/suche/in-buehl"
+  },
+  {
+   "at": "2026-10-19T11:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-m-w-d-51/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T11:40:35+00:00",
+ "last_run": "2026-10-19T11:55:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
