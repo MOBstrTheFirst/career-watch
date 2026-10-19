@@ -1,11 +1,187 @@
 {
- "alerts": 0,
+ "alerts": 4,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-10-19T22:11:28+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "EHS and Regulatory Services Lead",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19002?c=hella"
+  },
+  {
+   "at": "2026-10-19T22:11:28+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "EDI COORDINATOR (Hybrid)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19001?c=hella"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Technicien(ne) Bureau d’études dessinateur(trice) projeteur(se) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicienne-bureau-detudes-dessinateurtrice-projeteurse-f-h-ref-2026-26150"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Coordinateur maintenance opérationnelle SCS F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/coordinateur-maintenance-operationnelle-scs-f-h-ref-2026-28103"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – Ingénieur méthode utilité F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-methode-utilite-f-h-ref-2026-28047"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "VALSERVE – Responsable Calculs F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/valserve-responsable-calculs-f-h-ref-2026-28101"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "UK Cyber Business Enabler and Leader",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/uk-cyber-business-enabler-and-leader-ref-2026-28100"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "TECHNICIEN – TECHNICIENNE GESTION DONNEES TECHNIQUE F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-technicienne-gestion-donnees-technique-f-h-ref-2026-28099"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Opérateur de production mécanique polyvalent composants F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateur-de-production-mecanique-polyvalent-composants-f-h-ref-2026-28090"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Werkstudent Programmierung/Datenpflege (m/w/d)",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/werkstudent-programmierung-datenpflege-m-w-d-ref-2026-28096"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Responsable HSE (Hygiène, Sécurité, Environnement) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-hse-hygiene-securite-environnement-f-h-ref-2026-28061"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Finance Analyst",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/finance-analyst-ref-2026-28094"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Opérateur(trice) de Fabrication NZU F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateurtrice-de-fabrication-nzu-f-h-ref-2026-28091"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Technicien(ne) Méthodes (programme DOJO) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicienne-methodes-programme-dojo-f-h-ref-2026-25611"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Ingénieur Santé Sécurité Radioprotection et Environnement F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-sante-securite-radioprotection-et-environnement-f-h-ref-2026-28089"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – Développement informatique – Qualification et optimisation de code Java avec SonarQube F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-developpement-informatique-qualification-et-optimisation-de-code-java-avec-sonarqube-f-h-ref-2026-28003"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – RGPD et gouvernance des données F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-rgpd-et-gouvernance-des-donnees-f-h-ref-2026-27966"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – Chargé de missions qualité système F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-charge-de-missions-qualite-systeme-f-h-ref-2026-27984"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "CNC-Fräser (m/w/d)",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/cnc-fraser-m-w-d-ref-2026-27308"
+  },
+  {
+   "at": "2026-10-19T22:09:44+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Ingénieur Méthodes transverses produits/procédés F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-methodes-transverses-produits-procedes-f-h-ref-2026-26165"
+  },
+  {
+   "at": "2026-10-19T22:09:39+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Project Manager Nieuwbouwstations Zuid-West (Zeeland, Zuid Holland)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031668&jobId=118981"
+  },
+  {
+   "at": "2026-10-19T22:09:39+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Commissioning and Service Engineer",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5020969&jobId=118975"
+  },
+  {
+   "at": "2026-10-19T22:09:39+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Project Manager West Noord",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4944825&jobId=118865"
+  },
+  {
+   "at": "2026-10-19T22:09:39+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Adviseur Grondzaken Midden-Nederland",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4885014&jobId=118708"
+  },
+  {
+   "at": "2026-10-19T22:09:39+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Sr Mixed Signal/RF Test Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Sr-Mixed-Signal-RF-Test-Engineer_R-10067142?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T21:57:22+00:00",
+ "last_run": "2026-10-19T22:11:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
