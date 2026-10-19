@@ -1,5 +1,5 @@
 {
- "alerts": 47,
+ "alerts": 51,
  "commands_set": true,
  "events": [
   {
@@ -827,12 +827,61 @@
    "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
    "title": "Logistics Leader (m/w/d)",
    "url": "https://wlgore.jobs.hr.cloud.sap/job/Logistics-Leader-%28mwd%29/2260-en_US"
+  },
+  {
+   "at": "2026-10-19T04:54:53+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Engagement Manager - Data & AI Transformation (w/m/d) Berlin, Stuttgart, Koeln, Frankfurt, Nuernberg + 3 Delivery Excellence Unbefristet Berufserfahre",
+   "url": "https://www.capgemini.com/de-de/jobs/513758-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-19T04:54:53+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Consultant Zolltransformation & Digitalisierung (w/m/d) Berlin, Duesseldorf, Dortmund, Erfurt, Muenchen + 6 Business Analysis Unbefristet Berufserfahr",
+   "url": "https://www.capgemini.com/de-de/jobs/542311-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-19T04:54:53+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Cloud Expert Defense (m/w/d) Duesseldorf, Dortmund, Erfurt, Muenchen, Nuernberg + 5 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/542709-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-19T04:54:53+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "IT Transformation Manager Defense (w/m/d) Hannover, Erfurt, Muenchen, Dortmund, Duesseldorf + 9 Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/350131-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-19T04:54:57+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Cybersecurity Engagement Manager (m/w/d) 19.10.2026 Informationstechnologie Nonnweiler",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/cybersecurity-engagement-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-19T04:54:57+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Verification Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/IC-Verification-Engineer_R027363?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T04:54:57+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Verification Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/IC-Verification-Engineer_R027362?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T04:40:53+00:00",
+ "last_run": "2026-10-19T04:55:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 29,
+ "runs": 30,
  "tg_offset": 297408924
 }
