@@ -1,5 +1,5 @@
 {
- "alerts": 91,
+ "alerts": 95,
  "commands_set": true,
  "events": [
   {
@@ -1359,12 +1359,47 @@
    "site": "CGM (CompuGroup Medical) – Erlangen",
    "title": "PTA / PKA im Kundenservice (m/w/d)",
    "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Hannover/PTA---PKA-im-Kundenservice--m-w-d-_JR107048?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T07:01:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Pracownik produkcji (m/k/d) w przemyśle mięsnym 15€/h 95478 Kemnath 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1GCPyW-pracownik-produkcji-mkd-w-przemysle-miesnym-15euroh_95478-kemnath"
+  },
+  {
+   "at": "2026-10-19T07:01:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Operator wózka widłowego (m/k/d) 17€/h 76437 Rastatt 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZpEm0m-operator-wozka-widlowego-mkd-17euroh_76437-rastatt"
+  },
+  {
+   "at": "2026-10-19T07:01:36+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Projektleiter (m/w/d) Drohnenabwehrflugkörper 19.10.2026 Forschung/Entwicklung/Engineering Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/projektleiter-m-w-d-drohnenabwehrflugkoerper"
+  },
+  {
+   "at": "2026-10-19T07:01:36+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) für Digitalelektronik 19.10.2026 Forschung/Entwicklung/Engineering Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fuer-digitalelektronik"
+  },
+  {
+   "at": "2026-10-19T07:01:36+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Düren Bauleiter / Obermonteur (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/65719496/Bauleiter-Obermonteur-w-m-d-Elektrotechnik"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T06:55:41+00:00",
+ "last_run": "2026-10-19T07:02:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
