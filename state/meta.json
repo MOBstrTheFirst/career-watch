@@ -1,5 +1,5 @@
 {
- "alerts": 19,
+ "alerts": 22,
  "commands_set": true,
  "events": [
   {
@@ -302,12 +302,26 @@
    "site": "Broadcom – Regensburg",
    "title": "Software Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Software-Engineer_R027060-7?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T01:53:50+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Produktionsleitung crossmedial (w/m/d) mit Schwerpunkt Aktualität",
+   "url": "https://jobs.br.de/Vacancies/1334/Description/1"
+  },
+  {
+   "at": "2026-10-19T01:53:11+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Engineering Technician",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Weiwu/Engineering-Technician_R-10064004?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T01:40:36+00:00",
+ "last_run": "2026-10-19T01:54:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408924
 }
