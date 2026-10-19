@@ -1,14 +1,7 @@
 {
- "alerts": 472,
+ "alerts": 473,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:39:39+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Technolog procesu (m/k)",
-   "url": "https://careers.motherson.com/en/job/technolog-procesu-m-k-877621-20088240"
-  },
   {
    "at": "2026-10-19T11:39:39+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "TenneT TSO",
    "title": "Asset Specialist Offshore Cables HVDC",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5072528&jobId=119046"
+  },
+  {
+   "at": "2026-10-19T20:09:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Sozialassistent (m/w/d) Merseburg",
+   "url": "https://www.tempton.de/jobs/sozialassistent-64"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T19:59:35+00:00",
+ "last_run": "2026-10-19T20:12:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 91,
+ "runs": 92,
  "tg_offset": 297408924
 }
