@@ -1,56 +1,7 @@
 {
- "alerts": 419,
+ "alerts": 422,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T10:39:47+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Deine Lehrstelle bei MAGNA Presstec in Weiz!",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Weiz-AT/Deine-Lehrstelle-bei-MAGNA-Presstec-in-Weiz-_R00265352?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T10:39:47+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schiffsinspektor (m/w/d) – Technische Flottenüberwachung in der Seeschifffahrt 63814 Mainaschaff 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/cii19-schiffsinspektor-mwd-technische-flottenueberwachung-in-der-seeschifffahrt_63814-mainaschaff"
-  },
-  {
-   "at": "2026-10-19T10:39:41+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Elektroniker (m/w/d) Netzbetrieb – Mittel- und Niederspannung (Technik & Instandhaltung) in 12435 Berlin Technik & Instandhaltung 12435 Berlin vor 12 ",
-   "url": "https://jobs.de.dis-ag.com/elektroniker-m-w-d-netzbetrieb-mittel-und-niederspannung"
-  },
-  {
-   "at": "2026-10-19T10:39:41+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/elektroniker-m-w-d-netzbetrieb-mittel-und-niederspannung/bewerben"
-  },
-  {
-   "at": "2026-10-19T10:55:31+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Generator Service Engineer (f/m/d) for Rotating Equipment",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Generator-Service-Engineer-f-m-d-for-Rotating-Equipment/305162"
-  },
-  {
-   "at": "2026-10-19T10:55:31+00:00",
-   "kind": "new",
-   "site": "Webasto – Schierling",
-   "title": "Process Excellence Expert R&D (f/m/x)",
-   "url": "https://jobs.webasto.com/job/Process-Excellence-Expert-R&amp;D-%28fmx%29/36593-en_US"
-  },
-  {
-   "at": "2026-10-19T10:54:59+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence IT-Affiner Physiker (m/w/d), Mathematiker (m/w/d) oder Ingenieur (m/w/d), vorzugsweise mit Promotion 19.10.2026 Forschung/Entwicklung/En",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/it-affiner-physiker-m-w-d-mathematiker-m-w-d-oder-ingenieur-m-w-d-vorzugsweise-mit-promotion"
-  },
   {
    "at": "2026-10-19T10:54:59+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "TTTech Auto Germany",
    "title": "Entry Level DFT Design Engineer",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T15:39:30+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer Metall (m/w/d) 91732 Merkendorf, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2p32b7-produktionshelfer-metall-mwd_91732-merkendorf-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Manufacturing Operator 1",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-1_R027395-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198831 Studienabschlussarbeit Big Data und KI in der Produkt- und Prozessplanung (w/m/x) Veröffentlicht: 19.10.2026 Produktionsplanung München Neu Pro",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198831.html"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198386 Praktikant Produktion Hochvoltspeicher (w/m/x) Veröffentlicht: 19.10.2026 Prozessoptimierung München Neu Prozessoptimierung München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198386.html"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197751 Praktikant Konzernkommunikation Europa (w/m/x) Veröffentlicht: 19.10.2026 Externe Unternehmenskommunikation München Neu Externe Unternehmenskom",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197751.html"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197471 Praktikant Entwicklung elektrifizierter Automatikgetriebe (w/m/x) Veröffentlicht: 19.10.2026 Antrieb München Neu Antrieb München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197471.html"
+  },
+  {
+   "at": "2026-10-19T15:39:48+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197261 Werkstudent Gesamtfahrzeugentwicklung und Integration (w/m/x) Veröffentlicht: 19.10.2026 Gesamtfahrzeug München Neu Gesamtfahrzeug München Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197261.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T15:28:07+00:00",
+ "last_run": "2026-10-19T15:47:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
