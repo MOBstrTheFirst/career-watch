@@ -1,5 +1,5 @@
 {
- "alerts": 116,
+ "alerts": 127,
  "commands_set": true,
  "events": [
   {
@@ -2143,12 +2143,467 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/manager-finanzcontrolling-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Data Science in der V-Otto-Motoren Entwicklung",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Psychologe Sozialpädiatrisches Zentrum (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/e2988750-358d-54e2-b99a-38db6617200b/psychologe-sozialpaediatrisches-zentrum-m-w-d"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Spezialist (m/w/d) Dokumentenmanagement",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017kWJ8QAM"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagewerker (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016UojRQAS"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) – bis zu 3.350 €",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000172F01QAE"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000172HZhQAM"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d) in Allershausen ab 18,36 €/h",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000172JgLQAU"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV00001091HLQAY"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Radladerfahrer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000109AKbQAM"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "LKW-Fahrer (m/w/d) - Neustadt a. d. Saale",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000109KvUQAU"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d) – Dauernachtschicht",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010BDzAQAW"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010BTivQAG"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "LKW-Fahrer (m/w/d) - deutschlandweit",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010InrNQAS"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Truck Driver (m/w/d) – Nationwide in Germany",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010Iy21QAC"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010ZnVGQA0"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010abyLQAQ"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010b8EDQAY"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010bOneQAE"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010bQz7QAE"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "KFZ-Mechatroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010hD4nQAE"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000111uK1QAI"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012ADFFQA4"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000171oG1QAI"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000172YQrQAM"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012U0kCQAS"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014aeCFQAY"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachlagerist (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000172hcDQAQ"
+  },
+  {
+   "at": "2026-10-19T07:40:30+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montierer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014bRo2QAE"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (d/m/w) Business Operations Management Transformation in der Flugphysik",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bremen-Area/Werkstudent--d-m-w--Business-Operations-Management-Transformation-in-der-Flugphysik_JR10450518?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Automatisierung Wafertransfertools (w/m/div) Regensburg HRC1846277",
+   "url": "https://jobs.infineon.com/careers/job/563808972206277"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent – Industrial Engineering (w/m/div) Regensburg HRC1845046_1",
+   "url": "https://jobs.infineon.com/careers/job/563808972203454"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Technisches Gebäudemanagement (w/m/div) Dresden HRC1766988",
+   "url": "https://jobs.infineon.com/careers/job/563808971880480"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Labormessungen an neuartigem Synchron-Induktionsmotor (w/m/div) Augsburg HRC1808796",
+   "url": "https://jobs.infineon.com/careers/job/563808972055420"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Ausbildung Mikrotechnologe (w/m/d) 2027 Dresden (Deutschland) HRC1694054_1",
+   "url": "https://jobs.infineon.com/careers/job/563808971417794"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Reporting und Data Analytics (w/m/div) Dresden HRC1806226",
+   "url": "https://jobs.infineon.com/careers/job/563808972041836"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Assistant for Engineering Lab (f/m/div) Villach (Österreich) HRC1673693_1 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971198053"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent – Training, Education & Qualification (w/m/div) Dresden HRC1837236 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972176028"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Sales & Marketing Strategy and Operations (w/m/div) München HRC1830056",
+   "url": "https://jobs.infineon.com/careers/job/563808972143015"
+  },
+  {
+   "at": "2026-10-19T07:39:30+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Sales QC Account Management",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20135/sales-qc-account-management/job?hub=12"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Assembly Operator Precision Manufacturing /Montagemitarbeiter:in Präzisionsfertigung Berlin, Germany Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/assembly-operator-precision-manufacturing-montagemitarbeiterin-prazisionsfertigung-j00351453"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New EUV International System Install Engineer Leixlip, Ireland Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/euv-international-system-install-engineer-j00355646"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New EUV International Mechanical Install Engineer Leixlip, Ireland Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/euv-international-mechanical-install-engineer-j00355644"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New EUV UIR International Team Lead Leixlip, Ireland Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/euv-uir-international-team-lead-j00355649"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Ingenieur:in Fahrzeugprüfung (zur Qualifizierung) - Region Ostwestfalen Standort Bielefeld, Herford, Paderborn + 1 weitere Standorte A",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/ingenieurin-fahrzeugpruefung-zur-qualifizierung-region-ostwestfalen-11798"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) Bestands- und Qualitätskontrolle 37293 Herleshausen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1yHOkQ-staplerfahrer-mwd-bestands-und-qualitaetskontrolle_37293-herleshausen"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenbediener (m/w/d) für Siemens AG 92224 Amberg, Oberpfalz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1bKytW-anlagenbediener-mwd-fuer-siemens-ag_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) - 16€/Std. 92421 Schwandorf, Bayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1qet4B-staplerfahrer-mwd-16eurostd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Speditionskauffrau (m/w/d) 92421 Schwandorf, Bayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1IPDxu-speditionskauffrau-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker Wärmepumpen (m/w/d) 92421 Schwandorf, Bayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Xjy74-servicetechniker-waermepumpen-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) im Spezialmaschinenbau 92421 Schwandorf, Bayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2tkvdA-elektroniker-mwd-im-spezialmaschinenbau_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Heizungsbauer (m/w/d) 93158 Teublitz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZFJBoa-heizungsbauer-mwd_93158-teublitz"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 92521 Schwarzenfeld, Oberpfalz 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/23LxxH-produktionsmitarbeiter-mwd_92521-schwarzenfeld-oberpfalz"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 92439 Bodenwöhr 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2eQADn-maschinenbediener-mwd_92439-bodenwoehr"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) 92536 Pfreimd 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ifs8F-elektriker-mwd_92536-pfreimd"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 84032 Altdorf, Niederbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/WwqpH-lagermitarbeiter-mwd_84032-altdorf-niederbayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 84079 Bruckberg, Niederbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/prlnG-maschinenbediener-mwd_84079-bruckberg-niederbayern"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schlosser (m/w/d) 84109 Wörth an der Isar 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/QDl8x-schlosser-mwd_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) 84109 Wörth an der Isar 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/79tsJ-instandhalter-mwd_84109-woerth-an-der-isar"
+  },
+  {
+   "at": "2026-10-19T07:39:48+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "KFZ - Mechatroniker (m/w/d) 85368 Moosburg an der Isar 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/DUfWx-kfz-mechatroniker-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "possible",
+   "site": "Herzo Werke",
+   "title": "„Guten Tag, mein Name ist ... von GESS in Hamburg. Im Auftrag der Herzo Werke führen wir eine wissenschaftliche Befragung zur Zufriedenheit unserer Ku",
+   "url": "https://www.herzowerke.de/de/unternehmen/jobs/aktuelle-stellenanzeigen/"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) mit 4 Tagen Home Office (Rechnungswesen & Finanzen) in 55116 Mainz Rechnungswesen & Finanzen 55116 Mainz Homeoffice möglich v",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-mit-4-tagen-home-office-6"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Leitung mit Schwerpunkt SAP (m/w/d) (IT & Software) in 02788 Hirschfelde IT & Software 02788 Hirschfelde vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/it-leitung-mit-schwerpunkt-sap-m-w-d-1"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Praktikum HR / Personalwesen (m/w/d) (HR & Personalwesen) in 60486 Frankfurt HR & Personalwesen 60486 Frankfurt vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/praktikum-hr-personalwesen-m-w-d"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mainz",
+   "url": "https://jobs.de.dis-ag.com/suche/in-mainz"
+  },
+  {
+   "at": "2026-10-19T07:39:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-mit-4-tagen-home-office-6/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T07:25:47+00:00",
+ "last_run": "2026-10-19T07:40:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
