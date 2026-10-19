@@ -1,77 +1,7 @@
 {
- "alerts": 246,
+ "alerts": 252,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "Job search",
-   "url": "https://careers.telekom.com/jobs"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/pricing-analyst-m-f-d-744000059943985"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321329"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/career-orientation-internship-m-f-d-at-deutsche-telekom-321621"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/apprenticeship-retail-management-assistant-m-f-d-312334"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312847"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/senior-sap-cash-management-expert-m-f-d-x-744956"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321293"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-322258"
-  },
-  {
-   "at": "2026-10-19T07:24:44+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "View job",
-   "url": "https://careers.telekom.com/en/jobs/telesales-consultant-m-f-d-warsaw-3577713"
-  },
   {
    "at": "2026-10-19T07:24:44+00:00",
    "kind": "new",
@@ -3501,12 +3431,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/elektroniker-m-w-d-netzbetrieb-mittel-und-niederspannung/bewerben"
+  },
+  {
+   "at": "2026-10-19T10:55:31+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Generator Service Engineer (f/m/d) for Rotating Equipment",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Generator-Service-Engineer-f-m-d-for-Rotating-Equipment/305162"
+  },
+  {
+   "at": "2026-10-19T10:55:31+00:00",
+   "kind": "new",
+   "site": "Webasto – Schierling",
+   "title": "Process Excellence Expert R&D (f/m/x)",
+   "url": "https://jobs.webasto.com/job/Process-Excellence-Expert-R&amp;D-%28fmx%29/36593-en_US"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence IT-Affiner Physiker (m/w/d), Mathematiker (m/w/d) oder Ingenieur (m/w/d), vorzugsweise mit Promotion 19.10.2026 Forschung/Entwicklung/En",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/it-affiner-physiker-m-w-d-mathematiker-m-w-d-oder-ingenieur-m-w-d-vorzugsweise-mit-promotion"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Systems & Markets Process Specialist",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884655&jobId=118380"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Customer Service Agent (m/w/d) - in Wolfsburg 35h (Büroverwaltung) in 38442 Wolfsburg Büroverwaltung 38442 Wolfsburg vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/customer-service-agent-m-w-d-in-wolfsburg-35h"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 01189 Dresden Einkauf & Supply Chain 01189 Dresden vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-142"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Hausverwalter (m/w/d) (Bau & Immobilien) in 01219 Dresden Bau & Immobilien 01219 Dresden vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/hausverwalter-m-w-d-2"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter/in im Vertriebsinnendienst (m/w/d) (Sales & Vertrieb) in 56070 Koblenz Sales & Vertrieb 56070 Koblenz vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-in-im-vertriebsinnendienst-m-w-d-12"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Wolfsburg",
+   "url": "https://jobs.de.dis-ag.com/suche/in-wolfsburg"
+  },
+  {
+   "at": "2026-10-19T10:54:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/customer-service-agent-m-w-d-in-wolfsburg-35h/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T10:40:59+00:00",
+ "last_run": "2026-10-19T10:55:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
