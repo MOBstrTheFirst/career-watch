@@ -1,21 +1,7 @@
 {
- "alerts": 473,
+ "alerts": 475,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:39:39+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 91275 Auerbach in der Oberpfalz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Aitp4-produktionsmitarbeiter-mwd_91275-auerbach-in-der-oberpfalz"
-  },
-  {
-   "at": "2026-10-19T11:39:39+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 83458 Schneizlreuth 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2b0st0-produktionsmitarbeiter-mwd_83458-schneizlreuth"
-  },
   {
    "at": "2026-10-19T11:39:48+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "TEMPTON Technische Services",
    "title": "19.10.2026 Sozialassistent (m/w/d) Merseburg",
    "url": "https://www.tempton.de/jobs/sozialassistent-64"
+  },
+  {
+   "at": "2026-10-19T20:26:24+00:00",
+   "kind": "new",
+   "site": "SRAM – Schweinfurt",
+   "title": "Aftermarket SRAM Technical University Coordinator United States, Colorado, Colorado Springs Develop and deliver product education that supports indust",
+   "url": "https://www.sram.com/en/company/careers/current-openings/sram-technical-university-coordinator"
+  },
+  {
+   "at": "2026-10-19T20:25:15+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Controls & Automation Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Controls---Automation-Engineer_R00254986-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T20:12:02+00:00",
+ "last_run": "2026-10-19T20:26:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
