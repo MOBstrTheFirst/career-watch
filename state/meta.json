@@ -1,14 +1,7 @@
 {
- "alerts": 462,
+ "alerts": 463,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:24:44+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Ship Design Engi­neer (Ship Systems / Deck Equip­ment / Ship Inte­riors) (m/f/d) Job Hybrid Full time 60 - 115 zł Gdynia, Poland Mechanical Engineerin",
-   "url": "https://touch.ferchau.com/de/de/job/449161/ship-design-engineer-ship-systems-deck-equipment-ship-interiors"
-  },
   {
    "at": "2026-10-19T11:24:44+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Purchasing Data Specialist",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Sr-Purchasing-Data-Specialist_R00251253?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T19:25:03+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "2027 New Graduates - Account Management Trainee - Technical Background Required Beijing,Beijing,China Sales Gepostete vor 2 Monaten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777144302"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T19:12:08+00:00",
+ "last_run": "2026-10-19T19:26:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
