@@ -1,14 +1,7 @@
 {
- "alerts": 450,
+ "alerts": 451,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Metallbearbeiter (m/w/d) Köln",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011N6DNQA0"
-  },
   {
    "at": "2026-10-19T11:25:39+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "ebm-papst Zeitlauf",
    "title": "Einrichter / Anlagenbetreuer (m/w/d) für automatisierte Fertigungsanlagen",
    "url": "https://ebmpapst.csod.com/ux/ats/careersite/4/home/requisition/4043?c=ebmpapst&lang=en-US"
+  },
+  {
+   "at": "2026-10-19T18:10:09+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Master Thesis: Simplified Radio Simulator Models Luleå,Norrbotten,Sweden Technology & Research Gepostete vor 10 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777228766"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T17:56:45+00:00",
+ "last_run": "2026-10-19T18:11:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
