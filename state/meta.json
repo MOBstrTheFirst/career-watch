@@ -1,14 +1,7 @@
 {
- "alerts": 458,
+ "alerts": 460,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:24:44+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Produk­ti­ons­mit­ar­beiter (m/w/d) Fein­mon­tage / Zünder­fer­ti­gung Neu Job Vor Ort Vollzeit 38.000 - 40.000 € Schneizl­reuth, Deutsch­land Weitere",
-   "url": "https://touch.ferchau.com/de/de/job/524737/produktionsmitarbeiter-feinmontage-zuenderfertigung"
-  },
   {
    "at": "2026-10-19T11:24:44+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Master Technician (Overnights)",
    "url": "https://leggett.com/careers/search?posting=36577"
+  },
+  {
+   "at": "2026-10-19T18:54:48+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Field Service Systems/Applications Engineer",
+   "url": "https://uscareers-bruker.icims.com/jobs/20145/field-service-systems-applications-engineer/job?hub=12"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T18:41:50+00:00",
+ "last_run": "2026-10-19T18:57:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
