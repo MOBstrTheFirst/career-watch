@@ -1,5 +1,5 @@
 {
- "alerts": 46,
+ "alerts": 47,
  "commands_set": true,
  "events": [
   {
@@ -813,12 +813,26 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Mülheim/Ruhr",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/search/?createNewAlert=false&q=&locationsearch=Deutschland&locale=de_DE&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-19T04:40:37+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Product Manager - ELIXIR",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/Product-Manager-ELIXIR/2269-en_US"
+  },
+  {
+   "at": "2026-10-19T04:40:37+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Logistics Leader (m/w/d)",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/Logistics-Leader-%28mwd%29/2260-en_US"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T04:25:59+00:00",
+ "last_run": "2026-10-19T04:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
