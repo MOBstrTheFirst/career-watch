@@ -1,21 +1,7 @@
 {
- "alerts": 482,
+ "alerts": 483,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:55:32+00:00",
-   "kind": "new",
-   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
-   "title": "TenneT TSO GmbH Werkstudent Supply Chain Management IT Supply (m/w/d) Details",
-   "url": "https://ubt-career.de/de/stellenportal/detail?id=788d11f3-46c9-f111-9b60-9e890cc6b0ac"
-  },
-  {
-   "at": "2026-10-19T11:55:32+00:00",
-   "kind": "new",
-   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
-   "title": "Werkstudent im Online Marketing (m/w/d)",
-   "url": "https://ubt-career.de/de/stellenportal/detail?id=60e554b2-84cb-f111-9b60-9e890cc6b0ac&slug=werkstudent-im-online-marketing-mwd"
-  },
   {
    "at": "2026-10-19T11:55:32+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-143/bewerben"
+  },
+  {
+   "at": "2026-10-19T21:09:32+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "General Maintenance Mechanic",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01364675/General-Maintenance-Mechanic"
+  },
+  {
+   "at": "2026-10-19T21:09:32+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now General Maintenance Mechanic",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01364675EXTERNALENGLOBAL"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T20:56:50+00:00",
+ "last_run": "2026-10-19T21:11:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 95,
+ "runs": 96,
  "tg_offset": 297408924
 }
