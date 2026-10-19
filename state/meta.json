@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 55,
  "commands_set": true,
  "events": [
   {
@@ -876,12 +876,33 @@
    "site": "Broadcom – Regensburg",
    "title": "IC Verification Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/IC-Verification-Engineer_R027362?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T05:10:21+00:00",
+   "kind": "new",
+   "site": "WAREMA Renkhoff",
+   "title": "Mitarbeiter Elektronikfertigung (m/w/d)",
+   "url": "https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000156227617-mitarbeiter-elektronikfertigung-m-w-d-?trid=3668f978-a6e3-4d6f-b37f-3f777f107ea5"
+  },
+  {
+   "at": "2026-10-19T05:10:22+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Analyst, Financial Systems",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Changning-Shanghai-CN/Analyst--Financial-Systems_R00265635?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T05:09:35+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Digital Transformation Orchestrator | Early Career Program Nanjing,Jiangsu,China Product Development Hybrid Flexible Lage Gepostete vor 3 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777432152"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T04:55:49+00:00",
+ "last_run": "2026-10-19T05:10:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
