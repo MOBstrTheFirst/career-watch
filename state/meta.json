@@ -1,329 +1,7 @@
 {
- "alerts": 348,
+ "alerts": 362,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Sach­be­ar­beiter Bestel­lungen & Versand bei Siemens Energy (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 55.000 € Erlangen, Deutsch­land Backoffice Prof",
-   "url": "https://touch.ferchau.com/de/de/job/524689/sachbearbeiter-bestellungen-versand-bei-siemens-energy"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Student:in (15)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Arbeitsvorbereiter (m/w/d) bei Siemens Mobility GmbH 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZWV9HL-arbeitsvorbereiter-mwd-bei-siemens-mobility-gmbh_92706-luhe-wildenau"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Berufskraftfahrer (m/w/d) 94169 Thurmansbang 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZoQ33p-berufskraftfahrer-mwd_94169-thurmansbang"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenbediener (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/137yFE-maschinen-und-anlagenbediener-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 95326 Kulmbach 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/R07Mp-gabelstaplerfahrer-mwd_95326-kulmbach"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Einkauf (m/w/d) 09116 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1gsoD3-sachbearbeiter-einkauf-mwd_09116-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schaltschrankverdrahter (m/w/d) 09125 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZCkuCx-schaltschrankverdrahter-mwd_09125-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 09117 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z16x5B-industriemechaniker-mwd_09117-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker Vollzeit (m/w/d) 09120 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1oSufg-industriemechaniker-vollzeit-mwd_09120-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Zerspanungsmechaniker Direktvermittlung (m/w/d) 09116 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Krrw9-zerspanungsmechaniker-direktvermittlung-mwd_09116-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 09111 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1TTrmg-industriemechaniker-mwd_09111-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 09116 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/dmmsX-maschinen-und-anlagenfuehrer-mwd_09116-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer Direktvermittlung (m/w/d) 09432 Großolbersdorf 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zw7ucx-schweisser-direktvermittlung-mwd_09432-grossolbersdorf"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 09669 Frankenberg/Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1a7ns3-produktionsmitarbeiter-mwd_09669-frankenbergsachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Call Center Agent (m/w/d) 09125 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2czGnn-call-center-agent-mwd_09125-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) 09120 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z263rNq-helfer-mwd_09120-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Finanzbuchhaltung (m/w/d) (Logistik & Transport) in 04435 Markleeberg Logistik & Transport 04435 Markleeberg vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-finanzbuchhaltung-m-w-d-29"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Finanzbuchhaltung (m/w/d) (Logistik & Transport) in 04109 Leipzig Logistik & Transport 04109 Leipzig vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-finanzbuchhaltung-m-w-d-31"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Logistik & Transport) in 04571 Rötha Logistik & Transport 04571 Rötha vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-447"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Serviceassistenz (m/w/d) in Radeberg (Büroverwaltung) in 01454 Radeberg Büroverwaltung 01454 Radeberg vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/serviceassistenz-m-w-d-in-radeberg"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Markleeberg",
-   "url": "https://jobs.de.dis-ag.com/suche/in-markleeberg"
-  },
-  {
-   "at": "2026-10-19T09:24:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-finanzbuchhaltung-m-w-d-29/bewerben"
-  },
-  {
-   "at": "2026-10-19T09:40:28+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Pflegefachkraft (m/w/d) in der zentralen Notfallambulanz",
-   "url": "https://karriere.fresenius.de/job-detail/383ba62a-32c8-58e6-ab69-388c4353bcc3/pflegefachkraft-m-w-d-in-der-zentralen-notfallambulanz"
-  },
-  {
-   "at": "2026-10-19T09:40:28+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Planungsingenieur / Techniker Elektrotechnik (m/w/d) für Ladeinfrastruktur E-Mobility und Energieinfrastruktur Berufseinsteiger Fellbach Neu",
-   "url": "https://karriere.omexom.de/jobs/68179046/Planungsingenieur-Techniker-Elektrotechnik-m-w-d-f%C3%BCr-Ladeinfrastruktur-E-Mobility-und-Energieinfrastruktur"
-  },
-  {
-   "at": "2026-10-19T09:40:28+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Kalkulator Rückbau und Entkernung (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/6b9a25ae-fac1-4c22-8410-732faa8a18f2"
-  },
-  {
-   "at": "2026-10-19T09:40:28+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Kalkulator Abbruch und Industriedemontage (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/6b9a25ae-fac1-4c22-8410-732faa8a18f2/ceca8a34-7a90-439e-850c-f4c5d553a92b"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "PSL Lead Architect (d/f/m) E2E Planning and Logistics",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PSL-Lead-Architect--d-f-m--E2E-Planning-and-Logistics_JR10420098?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Fmvs1-maschinen-und-anlagenfuehrer-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Hx4qf-produktionsmitarbeiter-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Konstruktionsmechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2fURtv-krones-konstruktionsmechaniker-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 95326 Kulmbach 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/s7rp4-gabelstaplerfahrer-mwd_95326-kulmbach"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Industriemechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1pi5q6-krones-industriemechaniker-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZlF1yc-produktionshelfer-mwd_95180-berg-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - CNC Maschinenbediener (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2186qP-krones-cnc-maschinenbediener-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Industriemechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZpVYg2-krones-industriemechaniker-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Schweißer (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZENdJa-krones-schweisser-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1uSPlI-maschinenbediener-mwd_95180-berg-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Konstruktionsmechaniker Orbital Technology (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/6Ih4p-krones-konstruktionsmechaniker-orbital-technology-mwd_24941-flensburg"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z27lGjj-produktionsmitarbeiter-mwd_95180-berg-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Qualitätsprüfer (m/w/d) 93149 Nittenau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/My2nJ-krones-qualitaetspruefer-mwd_93149-nittenau"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Qualitätsprüfer (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1xR5AL-qualitaetspruefer-mwd_95180-berg-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:39:33+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - Qualitätsprüfer (m/w/d) 93149 Nittenau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/dw1iz-krones-qualitaetspruefer-mwd_93149-nittenau"
-  },
-  {
-   "at": "2026-10-19T09:40:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Ersatzteilmanagement (m/w/d) (Logistik & Transport) in 04720 Großweitzschen Logistik & Transport 04720 Großweitzschen vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-ersatzteilmanagement-m-w-d-1"
-  },
-  {
-   "at": "2026-10-19T09:40:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mechatroniker (m/w/d) (Technik & Instandhaltung) in 89073 Ulm Technik & Instandhaltung 89073 Ulm vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-44"
-  },
-  {
-   "at": "2026-10-19T09:40:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Großweitzschen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-grossweitzschen"
-  },
   {
    "at": "2026-10-19T09:40:01+00:00",
    "kind": "new",
@@ -3501,12 +3179,334 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/betriebstechniker-haustechniker-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-19T13:41:42+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Data Domain Manager (m/w/d) Project Excellence Digitalization",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Domain-Manager-m-w-d-Project-Excellence-Digitalization/304484"
+  },
+  {
+   "at": "2026-10-19T13:41:42+00:00",
+   "kind": "possible",
+   "site": "Expleo Germany",
+   "title": "Testmanager Versicherung (all genders) - Vollzeit",
+   "url": "https://expleo-jobs-de-de.icims.com/jobs/search?ss=1"
+  },
+  {
+   "at": "2026-10-19T13:41:42+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "APMOKAMA PRAKTIKA KOMANDOS ASISTENČIŲ SKYRIUJE (M/F/D)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/18997?c=hella"
+  },
+  {
+   "at": "2026-10-19T13:41:42+00:00",
+   "kind": "new",
+   "site": "SRAM – Schweinfurt",
+   "title": "Manufacturing CNC-Fräser für Prototypen (m/w/d) Germany, Schweinfurt Durch die Fertigung von Muster- und Prototypenteilen für unsere Fahrradkomponente",
+   "url": "https://www.sram.com/en/company/careers/current-openings/cnc-fraser-fur-prototypen-mwd"
+  },
+  {
+   "at": "2026-10-19T13:41:42+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Biologielaborant (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017oY3bQAE"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "IT-Server-Administrator für Unix/Linux-Infrastrukturen (m/w/d)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/IT-Server-Administrator-fr-Unix-Linux-Infrastrukturen--m-w-d-_JR10417390-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "(Senior) DevOps Engineer (d/f/m) – Platform Engineering for Safety-Critical Software",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/DevOps---QA-Engineer--m-f-d----Infrastructure-and-Quality-for-Safety-Critical-Software_JR10365952-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Junior System-Ingenieur/in Satellitennavigation - Galileo PRS Anwendungen (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Junior-System-Ingenieur-in-Satellitennavigation---Galileo-PRS-Anwendungen--d-f-m-_JR10435077-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager Product Quality Management (f/m/div) München HRC1835804 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972175685"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer System Application Engineering Acoustics (f/m/div) München HRC1801827",
+   "url": "https://jobs.infineon.com/careers/job/563808972030822"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Specialist Product Quality Management for Radio Frequency products (f/m/div) Bukarest HRC1511060 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808969062045"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Specialist Product Quality Management (f/m/div) Bukarest HRC1695073 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971432281"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Product Quality Management (f/m/div) Bukarest HRC1508005 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808969002441"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Product Quality Management Malakka HRC1744429",
+   "url": "https://jobs.infineon.com/careers/job/563808971901747"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "FuSa and Cyber Security Quality Management San Jose, CA HRC1793208",
+   "url": "https://jobs.infineon.com/careers/job/563808971972481"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Functional Safety and Cyber Security Quality Manager (f/m/div) Bukarest HRC1720187 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971725346"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager Quality Management Ipoh HRC1812343",
+   "url": "https://jobs.infineon.com/careers/job/563808972087951"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Project Manager Quality Management Malakka HRC1838950",
+   "url": "https://jobs.infineon.com/careers/job/563808972186005"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Power Module Product Quality Hardware Engineer El Segundo, CA + 1 more HRC1595223",
+   "url": "https://jobs.infineon.com/careers/job/563808970251462"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager, Foundry Quality Management Hsinchu + 1 more HRC1803522",
+   "url": "https://jobs.infineon.com/careers/job/563808972037040"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Controller International (m/w/d)",
+   "url": "https://jobs.testo.com/4451-controller-international-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-19T13:39:46+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Softwaretester / Informatiker (m/w/d) Erlangen",
+   "url": "https://www.tempton.de/jobs/softwaretester-informatiker-2"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Integrated Optics Researcher Veldhoven, Netherlands Research and Technology Development",
+   "url": "https://www.asml.com/en/careers/find-your-job/integrated-optics-researcher-j00353526"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Mechatronics Engineer Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-mechatronics-engineer-j00354323"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Mechatronics Engineer Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-mechatronics-engineer-j00354017"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Transition & Process Improvement Expert, Global Business Services",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Transition---Process-Improvement-Expert--Global-Business-Services_R00266686?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Transition & Process Improvement Expert, Global Business Services",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Aurora-Ontario-CA/Transition---Process-Improvement-Expert--Global-Business-Services_R00266685-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Heizungsbauer/Anlagenmechaniker SHK (m/w/d) 94529 Aicha vorm Wald 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1D0tvL-heizungsbaueranlagenmechaniker-shk-mwd_94529-aicha-vorm-wald"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) 94529 Aicha vorm Wald 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1JNHph-elektriker-mwd_94529-aicha-vorm-wald"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Maschinenbediener (m/w/d) 94124 Büchlberg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1dRSk8-cnc-maschinenbediener-mwd_94124-buechlberg"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kaufmännischer Sachbearbeiter - Auftragsabwicklung und Rechnungsstellung (m/w/d) 90530 Wendelstein, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ymsE8-kaufmaennischer-sachbearbeiter-auftragsabwicklung-und-rechnungsstellung-mwd_90530-wendelstein-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Kreditorenbuchhaltung in Teilzeit (m/w/d) 90482 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ivi6J-sachbearbeiter-kreditorenbuchhaltung-in-teilzeit-mwd_90482-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Techniker (m/w/d) Gebäudetechnik und Instandhaltung (m/w/d) 90537 Feucht 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2bkmpa-techniker-mwd-gebaeudetechnik-und-instandhaltung-mwd_90537-feucht"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter internationale Logistik für Siemens (m/w/d) 90441 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2v0PAM-sachbearbeiter-internationale-logistik-fuer-siemens-mwd_90441-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Vertriebsingenieur (m/w/d) Mess- und Prüftechnik 91058 Erlangen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/NjB3R-vertriebsingenieur-mwd-mess-und-prueftechnik_91058-erlangen"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Immobilienmanager (m/w/d) 90431 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2eWYVQ-immobilienmanager-mwd_90431-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Archivar – Unternehmensarchiv (m/w/d) zur Direktvermittlung, Herzogenaurach 91074 Herzogenaurach 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18t25S-archivar-unternehmensarchiv-mwd-zur-direktvermittlung-herzogenaurach_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Wirtschaftsprüfer (m/w/d), Frankfurt am Main 60327 Frankfurt am Main 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2q2XOf-wirtschaftspruefer-mwd-frankfurt-am-main_60327-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Vertriebsmitarbeiter Außendienst / DACH (m/w/d) zur Direktvermittlung 90518 Altdorf bei Nürnberg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtfkE1-vertriebsmitarbeiter-aussendienst-dach-mwd-zur-direktvermittlung_90518-altdorf-bei-nuernberg"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Steuerberater (m/w/d), Frankfurt am Main 60327 Frankfurt am Main 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/gew1G-steuerberater-mwd-frankfurt-am-main_60327-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung 91058 Erlangen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1DtYbU-servicetechniker-mwd-zur-direktvermittlung_91058-erlangen"
+  },
+  {
+   "at": "2026-10-19T13:39:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kreditprüfer (m/w/d) zur Direktvermittlung 90409 Nürnberg, Mittelfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z11kpGE-kreditpruefer-mwd-zur-direktvermittlung_90409-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-19T13:40:10+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "ATMC Fab Associate",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Manufacturing/ATMC-Fab-Associate_R-10066829?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:40:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76412 Rastatt Bau & Immobilien 76412 Rastatt Homeoffice möglich vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-10"
+  },
+  {
+   "at": "2026-10-19T13:40:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Rastatt",
+   "url": "https://jobs.de.dis-ag.com/suche/in-rastatt"
+  },
+  {
+   "at": "2026-10-19T13:40:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-10/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T13:26:39+00:00",
+ "last_run": "2026-10-19T13:41:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
