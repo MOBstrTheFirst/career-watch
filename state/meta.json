@@ -1,5 +1,5 @@
 {
- "alerts": 78,
+ "alerts": 86,
  "commands_set": true,
  "events": [
   {
@@ -1163,12 +1163,166 @@
    "site": "Diehl Defence (+5 more)",
    "title": "Diehl Defence Fachteamleiter (m/w/d) Business Applications 19.10.2026 Informationstechnologie Nonnweiler",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-business-applications"
+  },
+  {
+   "at": "2026-10-19T06:40:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Strategischer Einkauf",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516674"
+  },
+  {
+   "at": "2026-10-19T06:40:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F516674"
+  },
+  {
+   "at": "2026-10-19T06:40:38+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Senior Sachverständige*r Elektro- und Leittechnik Kerntechnik (m/w/d)",
+   "url": "https://jobs.tuv.com/de/job/Senior-Sachverstaendiger-Elektro-und-Leittechnik-Kerntechnik-m_w_d-Koeln?id=21749"
+  },
+  {
+   "at": "2026-10-19T06:39:32+00:00",
+   "kind": "new",
+   "site": "MKS Instruments (Atotech) – Feucht",
+   "title": "Senior Project Manager (m/w/d)",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Feucht/Senior-Project-Manager--m-w-d-_R23427?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "possible",
+   "site": "TÜV NORD EnSys",
+   "title": "Student:in (16)",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 72636 Frickenhausen, Württemberg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZBTO5B-staplerfahrer-mwd_72636-frickenhausen-wuerttemberg"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 72760 Reutlingen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1VjW7A-lagermitarbeiter-mwd_72760-reutlingen"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter (m/w/d) 70174 Stuttgart 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zkbf3Y-sachbearbeiter-mwd_70174-stuttgart"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Reinigung Produktion Kleinteile 71272 Renningen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2cKmya-reinigung-produktion-kleinteile_71272-renningen"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) Betriebstechnik 71272 Renningen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1LklLq-elektroniker-mwd-betriebstechnik_71272-renningen"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft Lagerlogistik (m/w/d) 71272 Renningen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2gDKiy-fachkraft-lagerlogistik-mwd_71272-renningen"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 74321 Bietigheim-Bissingen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z81RqI-produktionsmitarbeiter-mwd_74321-bietigheim-bissingen"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 94330 Salching 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Jv4PL-produktionsmitarbeiter-mwd_94330-salching"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer/-in (m/w/d) 94315 Straubing 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1UuC0y-schweisser-in-mwd_94315-straubing"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker/-in für Betriebstechnik (m/w/d) 94469 Deggendorf 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1cpYNz-elektroniker-in-fuer-betriebstechnik-mwd_94469-deggendorf"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 93086 Wörth an der Donau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/rV87g-industriemechaniker-mwd_93086-woerth-an-der-donau"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Vertriebsassistent Sales Office (m/w/d) 94315 Straubing 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/CUFhp-vertriebsassistent-sales-office-mwd_94315-straubing"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker/in (m/w/d) - Automatisierungstechnik 94315 Straubing 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ptEU2-elektronikerin-mwd-automatisierungstechnik_94315-straubing"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) mit Übernahmeoption 93086 Wörth an der Donau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18eY4w-maschinen-und-anlagenfuehrer-mwd-mit-uebernahmeoption_93086-woerth-an-der-donau"
+  },
+  {
+   "at": "2026-10-19T06:39:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kfz-Elektriker (m/w/d) mit Übernahmeoption 94315 Straubing 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/9jWDX-kfz-elektriker-mwd-mit-uebernahmeoption_94315-straubing"
+  },
+  {
+   "at": "2026-10-19T06:39:41+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Werkstudent (m/w/d) im Bereich Mergers & Acquisitions 19.10.2026 Sonstige Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/werkstudent-m-w-d-im-bereich-mergers-acquisitions"
+  },
+  {
+   "at": "2026-10-19T06:39:41+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "SEMICONDUCTOR EQUIPMENT TECHNICIAN",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/SEMICONDUCTOR-EQUIPMENT-TECHNICIAN_R-10067481?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T06:26:00+00:00",
+ "last_run": "2026-10-19T06:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
