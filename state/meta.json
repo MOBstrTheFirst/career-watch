@@ -1,161 +1,7 @@
 {
- "alerts": 362,
+ "alerts": 374,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T09:40:01+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-ersatzteilmanagement-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-19T09:55:59+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Head of Regional Asset Management (w/m/d)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525937"
-  },
-  {
-   "at": "2026-10-19T09:55:59+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F525937"
-  },
-  {
-   "at": "2026-10-19T09:55:59+00:00",
-   "kind": "new",
-   "site": "TÜV Rheinland – Nürnberg",
-   "title": "Auditoren & Berater Junior Sachverständige*r für die Möbelprüfung (w/m/d)",
-   "url": "https://jobs.tuv.com/de/job/Junior-Sachverstaendiger-fuer-die-Moebelpruefung-w_m_d-Nuernberg?id=21824"
-  },
-  {
-   "at": "2026-10-19T09:55:59+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Planungsingenieur Elektrotechnik (m/w/d) für Ladeinfrastruktur E-Mobility und Energieinfrastruktur Berufseinsteiger Fellbach Neu",
-   "url": "https://karriere.omexom.de/jobs/68179526/Planungsingenieur-Elektrotechnik-m-w-d-f%C3%BCr-Ladeinfrastruktur-E-Mobility-und-Energieinfrastruktur"
-  },
-  {
-   "at": "2026-10-19T09:54:50+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Master Thesis within Logistics and Supply Chain Study for Helicopter Engines",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/Master-Thesis-within-Logistics-and-Supply-Chain-Study-for-Helicopter-Engines_JR10447337?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T09:54:50+00:00",
-   "kind": "new",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Project Manager (m/f/d)",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Feucht/Project-Manager--m-f-d-_R23528?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Product Safety Engineer Tooling Veldhoven, Netherlands EHS",
-   "url": "https://www.asml.com/en/careers/find-your-job/product-safety-engineer-tooling-j00342309"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Bauleiter (m/w/d) TGA Hamburg",
-   "url": "https://jobportal.max-boegl.de/Bauleiter-mwd-TGA-Hamburg-de-j2284.html"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fertigungsmitarbeiter bei Raumedic (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1uu0tz-fertigungsmitarbeiter-bei-raumedic-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroinstallateur (m/w/d) 95030 Hof, Saale 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2afMN3-elektroinstallateur-mwd_95030-hof-saale"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montagemitarbeiter (m/w/d) 95030 Hof, Saale 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZnX7CG-montagemitarbeiter-mwd_95030-hof-saale"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 95444 Bayreuth 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/lvJ2H-maschinen-und-anlagenfuehrer-mwd_95444-bayreuth"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verfahrensmechaniker (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/72Osw-verfahrensmechaniker-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionskraft (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1oBLbS-produktionskraft-mwd_95233-helmbrechts-oberfranken"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 95615 Marktredwitz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/RUtGH-maschinenbediener-mwd_95615-marktredwitz"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 95448 Bayreuth 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2auqql-mechatroniker-mwd_95448-bayreuth"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 95131 Schwarzenbach a Wald 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1nVqNf-maschinenbediener-mwd_95131-schwarzenbach-a-wald"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fräser (m/w/d) 95030 Hof, Saale 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZL7iEV-fraeser-mwd_95030-hof-saale"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 95028 Hof, Saale 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z15xvrj-maschinen-und-anlagenfuehrer-mwd_95028-hof-saale"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Kommissionierung / Verpackung (m/w/d) 91257 Pegnitz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/80zEz-mitarbeiter-kommissionierung-verpackung-mwd_91257-pegnitz"
-  },
-  {
-   "at": "2026-10-19T09:54:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 95030 Hof, Saale 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/D1wL3-mechatroniker-mwd_95030-hof-saale"
-  },
   {
    "at": "2026-10-19T09:54:34+00:00",
    "kind": "new",
@@ -3501,12 +3347,166 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-10/bewerben"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Praktikant*in/Abschlussarbeit - Automatisierte Montage mit Machine-Learning-Modellen und Sensorfeedback (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/63884569/Praktikant-in-Abschlussarbeit-Automatisierte-Montage-mit-Machine-Learning-Modellen-und-Sensorfeedback-all-genders-?jobDbPVId=288161956&l=de"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektriker Kabelmontage (m/w/d) Berufserfahrene Ronnenberg Neu",
+   "url": "https://karriere.omexom.de/jobs/66155348/Elektriker-Kabelmontage-m-w-d-"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Ausbildung zum Fachinformatiker für Systemintegration (m/w/d) für 2027 Auszubildende/ Lernende Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/66809935/Ausbildung-zum-Fachinformatiker-f%C3%BCr-Systemintegration-m-w-d-f%C3%BCr-2027"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Prozess- und Qualitätsmanager (w/m/d) Berufserfahrene Walsrode + 7 Neu",
+   "url": "https://karriere.omexom.de/jobs/60323640/Prozess--und-Qualit%C3%A4tsmanager-w-m-d-"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Inbetriebnahmemonteur (m/w/d) Straubenhardt Berufseinsteiger Straubenhardt Neu",
+   "url": "https://karriere.omexom.de/jobs/24223776/Inbetriebnahmemonteur-m-w-d-Straubenhardt"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektriker (m/w/d) Straubenhardt Berufseinsteiger Straubenhardt Neu",
+   "url": "https://karriere.omexom.de/jobs/63061034/Elektriker-m-w-d-Straubenhardt"
+  },
+  {
+   "at": "2026-10-19T13:56:35+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter (m/w/d) Rohrleitungsbau / Tiefbau / Leitungsbau Berufserfahrene Ubstadt-Weiher Neu",
+   "url": "https://karriere.omexom.de/jobs/68190611/Projektleiter-m-w-d-Rohrleitungsbau-Tiefbau-Leitungsbau"
+  },
+  {
+   "at": "2026-10-19T13:54:37+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Working Student within Airbus Procurement Processes and Governance Management (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student-within-Airbus-Procurement-Processes-and-Governance-Management--d-m-w-_JR10450046?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:54:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Technischer Einkäufer (m/w/d) Bielefeld",
+   "url": "https://www.tempton.de/jobs/technischer-einkaeufer-14"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Mechatronics Engineer Wilton, CT, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/mechatronics-engineer-j00351505"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Disponent (m/w/d) 01665 Klipphausen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2esRFp-disponent-mwd_01665-klipphausen"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kunststoffmonteur (m/w/d) 01665 Klipphausen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z3TRx6-kunststoffmonteur-mwd_01665-klipphausen"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 01665 Klipphausen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/woQDE-industriemechaniker-mwd_01665-klipphausen"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker Automatisierungstechnik (m/w/d) 01665 Klipphausen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18Pkke-elektroniker-automatisierungstechnik-mwd_01665-klipphausen"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Werkzeugmechaniker (m/w/d) 01877 Bischofswerda 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zz3lbr-werkzeugmechaniker-mwd_01877-bischofswerda"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Assistenz der Geschäftsleitung (m/w/d) 01129 Dresden 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z26jJPU-assistenz-der-geschaeftsleitung-mwd_01129-dresden"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter Reinraum (m/w/d) 01109 Dresden 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZSqfsm-montagemitarbeiter-reinraum-mwd_01109-dresden"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer für das Umland gesucht (m/w/d) 01936 Königsbrück 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Jah6L-schweisser-fuer-das-umland-gesucht-mwd_01936-koenigsbrueck"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Fachkraft (m/w/d) 94474 Vilshofen an der Donau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1UWhpV-cnc-fachkraft-mwd_94474-vilshofen-an-der-donau"
+  },
+  {
+   "at": "2026-10-19T13:54:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) Bereich CNC/Zerspanung 94474 Vilshofen an der Donau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1XQrKg-produktionshelfer-mwd-bereich-cnczerspanung_94474-vilshofen-an-der-donau"
+  },
+  {
+   "at": "2026-10-19T13:55:28+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Product Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Senior-Product-Engineer_R-10064214?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T13:55:28+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Frankfurt am Main Duales Studium Elektrotechnik (w/m/d) Auszubildende/ Lernende Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/55446722/Duales-Studium-Elektrotechnik-w-m-d-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T13:41:56+00:00",
+ "last_run": "2026-10-19T13:56:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
