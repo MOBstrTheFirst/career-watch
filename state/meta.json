@@ -1,413 +1,7 @@
 {
- "alerts": 177,
+ "alerts": 189,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektrotechniker (m/w/d) – bis zu 26€/Std!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013RLVzQAO"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kommissionierer (m/w/d) bis zu 18 €/Std. in Siegenburg",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013AEidQAG"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Technischer Sachbearbeiter (m/w/d) bis zu 22€/Std. in Berlin",
-   "url": "https://de.trenkwalder.com/jobs/a0taV00001304UPQAY"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker SHK (m/w/d) gesucht – bis zu  24€/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000012zhL5QAI"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Fachlagerist (m/w/d) bis zu 21,50 €/Std. in Krefeld",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000012zPcaQAE"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter Finanzen (m/w/d) in Cottbus / Remote!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011xljQQAQ"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter Finanzen (m/w/d) bis zu 28 €/h gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011xb47QAA"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "IT Sachbearbeiter (m/w/d) – bis zu 28 €/h! Augsburg",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011FRjcQAG"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektriker (m/w/d) gesucht – bis zu 27 €/Std. in Gera",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011EDnXQAW"
-  },
-  {
-   "at": "2026-10-19T01:10:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kaufmännischer Sachbearbeiter (m/w/d) – bis zu 22,00 €/h!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000010swzOQAQ"
-  },
-  {
-   "at": "2026-10-19T01:24:36+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Software Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Software-Engineer_R027061?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T01:39:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Software Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Software-Engineer_R027060-7?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T01:53:50+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "Produktionsleitung crossmedial (w/m/d) mit Schwerpunkt Aktualität",
-   "url": "https://jobs.br.de/Vacancies/1334/Description/1"
-  },
-  {
-   "at": "2026-10-19T01:53:11+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Engineering Technician",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Tianjin-Weiwu/Engineering-Technician_R-10064004?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T02:09:36+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "Proposal Manager Market Harborough, United Kingdom | Breda, The Netherlands Sales Experienced Professionals",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/proposal-manager-1396"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Spezialist Transport Steuerer (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wurster-Nordseek%C3%BCste-Spezialist-Transport-Steuerer-%28wmd%29-27639/1353567955"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Fachkraft zur Bedienung einer SMD-Bestückungslinie (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Fachkraft-zur-Bedienung-einer-SMD-Best%C3%BCckungslinie-%28wmd%29-89077/1326543555"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Teamleitung Ground & Naval Electronics (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Teamleitung-Ground-&-Naval-Electronics-%28wmd%29-73447/1168074655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur Fighter Radar (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-Fighter-Radar-%28wmd%29-89077/1354932955"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "SAP FI Application Manager (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-SAP-FI-Application-Manager-%28wmd%29-89077/1350549555"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Betriebswirtschaftslehre\" (w/m/d), Fürstenfeldbruck, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Duales-Studium-Betriebswirtschaftslehre-%28wmd%29%2C-F%C3%BCrstenfeldbruck%2C-Start-2027-82256/1362070655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektleiter Special Mission Aircraft",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-Special-Mission-Aircraft-82256/1362041355"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektmanager Special Mission Aircraft",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektmanager-Special-Mission-Aircraft-82256/1362042355"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Experte Logistische Beratung für Kampfflugzeuge (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Experte-Logistische-Beratung-f%C3%BCr-Kampfflugzeuge-%28wmd%29-82256/1362047655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Expert Solutions Engineering Mission Aircraft",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Expert-Solutions-Engineering-Mission-Aircraft-82256/1362043655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Testingenieur Verifikation, Validierung und Simulation - MDOCore (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Testingenieur-Verifikation%2C-Validierung-und-Simulation-MDOCore-%28wmd%29-89077/1362106555"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Head of CoC Information Security & Cyber Resilience (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Head-of-CoC-Information-Security-&-Cyber-Resilience-%28wmd%29-82256/1362055155"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "GSE-Experte (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wurster-Nordseek%C3%BCste-GSE-Experte-%28wmd%29-27639/1362084955"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Data Scientist MDOCore Datalake (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Data-Scientist-MDOCore-Datalake-%28wmd%29-89077/1362101955"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Export Control (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Export-Control-%28wmd%29-89077/1353568655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Experte Datenmanagement Marinesysteme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Hamburg-Experte-Datenmanagement-Marinesysteme-%28wmd%29-22335/1353585355"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur - Software Helicopter Crew Solutions (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Systemingenieur-Software-Helicopter-Crew-Solutions-%28wmd%29-82256/1356608655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur Fighter Radar (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-Fighter-Radar-%28wmd%29-89077/1354929155"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Qualitätsingenieur mit Schwerpunkt Software-QA (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Qualit%C3%A4tsingenieur-mit-Schwerpunkt-Software-QA-%28wmd%29-89077/1356547255"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Cyber Security Control Assurance Specialist (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Cyber-Security-Control-Assurance-Specialist-%28wmd%29-82024/1362019855"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Systemingenieur - Elektronik Helicopter Crew Solutions (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Systemingenieur-Elektronik-Helicopter-Crew-Solutions-%28wmd%29-82256/1356612255"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Data Scientist MDOCore Datalake (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Data-Scientist-MDOCore-Datalake-%28wmd%29-82024/1362096655"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Spezialist für Airborne Electronic Attack Systems (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Spezialist-f%C3%BCr-Airborne-Electronic-Attack-Systems-%28wmd%29-89077/1362109155"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "DevOps Engineer MDOCore (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-DevOps-Engineer-MDOCore-%28wmd%29-89077/1362103855"
-  },
-  {
-   "at": "2026-10-19T02:10:12+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Data Engineer / Software Developer MDOCore Datalake (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Data-Engineer-Software-Developer-MDOCore-Datalake-%28wmd%29-89077/1362105555"
-  },
-  {
-   "at": "2026-10-19T02:25:38+00:00",
-   "kind": "new",
-   "site": "Rösler Oberflächentechnik – Untermerzbach",
-   "title": "Produktionsmitarbeiter Verfahrensmittel (m/w/d)",
-   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Produktionsmitarbeiter-Verfahrensmittel-%28mwd%29-BY-96190/1418537733"
-  },
-  {
-   "at": "2026-10-19T02:24:30+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Verfahrensmechaniker / Maschinenführer (m/w/d) Kunststoffaufbereitung",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Verfahrensmechaniker-Maschinenf%C3%BChrer-%28mwd%29-Kunststoffaufbereitung/1418751233"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Engineer, Process Engineering",
-   "url": "https://jobs.ams-osram.com/en/job/Engineer-Process-Engineering-Calamba/24409"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Trans­port- und Logis­tik­planer Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 50.000 - 70.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik We",
-   "url": "https://touch.ferchau.com/de/de/job/242442/transport-und-logistikplaner-automotive"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Planungs­in­ge­nieur Produk­tions- und Monta­ge­pro­zesse (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Masch",
-   "url": "https://touch.ferchau.com/de/de/job/348445/planungsingenieur-produktions-und-montageprozesse"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­ent­wickler C++ (m/w/d) Job Hybrid Vollzeit 65.000 - 85.000 € Dorn­birn, Öster­reich Anlagenbau Fahrzeugtechnik Maschinenbau Professionals S",
-   "url": "https://touch.ferchau.com/de/de/job/399940/softwareentwickler-c"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Ener­gie­ma­nager (m/w/d) Job Vor Ort Vollzeit 55.000 - 60.000 € Siegen, Deutsch­land Green Jobs & Projects 1 Weitere Professionals Senior Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/445432/energiemanager"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur Ener­gie­technik (m/w/d) Job Hybrid Vollzeit 48.000 - 65.000 € Rheine, Deutsch­land Green Jobs & Projects 1 Anlagenbau Elektrotechnik Weite",
-   "url": "https://touch.ferchau.com/de/de/job/465223/ingenieur-energietechnik"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Mechanik (m/w/d) Defence Job Hybrid Vollzeit 60.000 - 75.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals ohne Per",
-   "url": "https://touch.ferchau.com/de/de/job/487405/konstrukteur-mechanik-defence"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Elek­trik (m/w/d) Defence Job Vor Ort Vollzeit 60.000 - 75.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/487420/konstrukteur-elektrik-defence"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "SPS Program­mierer (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Dorn­birn, Öster­reich Elektrotechnik Weitere Young Professionals Professionals ohne ",
-   "url": "https://touch.ferchau.com/de/de/job/491230/sps-programmierer"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Werk­stu­dent Recrui­ting (m/w/d) Job Hybrid Teilzeit 15.000 - 17.000 € Erfurt, Deutsch­land Personal Students Young Professionals ohne Personalverant",
-   "url": "https://touch.ferchau.com/de/de/job/497215/werkstudent-recruiting"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Country Manager DACH (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 150.000 - 230.000 € Offen­burg, Deutsch­land Direktvermittlung Backoffice Exe",
-   "url": "https://touch.ferchau.com/de/de/job/500965/country-manager-dach-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Prüf­feld­tech­niker Elek­tro­technik (m/w/d) Job Vor Ort Vollzeit 49.000 - 56.000 € Wien, Öster­reich Elektrotechnik Young Professionals Professional",
-   "url": "https://touch.ferchau.com/de/de/job/505183/prueffeldtechniker-elektrotechnik"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Fach­in­for­ma­tiker Anwen­dungs­ent­wick­lung (m/w/d) Job Vor Ort Vollzeit 45.000 - 58.000 € Kassel, Deutsch­land Informationstechnik Weitere Profess",
-   "url": "https://touch.ferchau.com/de/de/job/506782/fachinformatiker-anwendungsentwicklung"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Legal Counsel (m/w/d) Job Hybrid Vollzeit 50.000 - 60.000 € Gummers­bach, Deutsch­land Backoffice Young Professionals Professionals ohne Personalveran",
-   "url": "https://touch.ferchau.com/de/de/job/516646/legal-counsel"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Elek­tro­technik Schalt­schrankbau (m/w/d) Job Hybrid Vollzeit 58.800 - 77.000 € Wien, Öster­reich Elektrotechnik Professionals Senior ",
-   "url": "https://touch.ferchau.com/de/de/job/516742/projektleiter-elektrotechnik-schaltschrankbau"
-  },
-  {
-   "at": "2026-10-19T02:25:22+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mess­tech­niker (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Walters­hausen, Deutsch­land Fahrzeugtechnik Professionals ohne Personalverantwortung A",
-   "url": "https://touch.ferchau.com/de/de/job/516919/messtechniker"
-  },
   {
    "at": "2026-10-19T02:25:22+00:00",
    "kind": "new",
@@ -3501,12 +3095,418 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/elektriker-haus-service-gebaeudetechnik-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Servicekraft (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Servicekraft-w-m-d/305348"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Live Communication Markt Deutschland mit dem Schwerpunkt Eventmarketing (w/m/d) WS 2026 gesucht",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Patientenfahrdienst & Logistik (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/2a9ecc28-9369-57ed-810c-52f56347d865/mitarbeiter-patientenfahrdienst-logistik-m-w-d"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Berufskraftfahrer / Güterfahrdienstpersonal (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/5308a1e9-cb69-503f-a63d-94a7887ebfcd/berufskraftfahrer-gueterfahrdienstpersonal-m-w-d"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Kaufmännische Teamassistenz / Projektassistenz (m/w/d) in Teilzeit Berufseinsteiger Fellbach Neu",
+   "url": "https://karriere.omexom.de/jobs/68177311/Kaufm%C3%A4nnische-Teamassistenz-Projektassistenz-m-w-d-in-Teilzeit"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d) in Ratingen ab 21 €/h",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jksa2QAA"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Inbetriebsetzer (m/w/d) in Amberg ab 25€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jnoxzQAA"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) in Ratingen ab 21 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jkKH2QAM"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Verdrahter (m/w/d) Elektrofertigung ab 22,33 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jSHLzQAO"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) Abkantpresse ab 22,33 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jRWKOQA4"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) ab 22,33 €/h in Frankfurt gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000jRV66QAG"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) ab 22€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000j0MwhQAE"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CNC-Anlagenbediener (m/w/d) Schweißtechnik ab 22,33 €/h",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000hupxHQAQ"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Werkstudent (m/w/d) Recht / Legal ab 15€ / Std. gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fglMHQAY"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Lagermitarbeiter (m/w/d) 20,35 € / Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ffz1VQAQ"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Konstruktionsmechaniker (m/w/d) Schweißtechnik",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ffVxtQAE"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Anlagenmechaniker (m/w/d) Schweißtechnik",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ffUybQAE"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d) Schweißtechnik",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ffQdFQAU"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft für Metalltechnik (m/w/d) 21,42 €/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fezrbQAA"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechatroniker/ Elektroniker (m/w/d) in Nürnberg gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fTBtKQAW"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Gießer (m/w/d) in Frankfurt ab 20,43 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fSz8zQAC"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagemitarbeiter (m/w/d) in Frankfurt ab 21€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fSj7RQAS"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CNC-Maschinenbediener (m/w/d) in Frankfurt gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fS5unQAC"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Gießer (m/w/d) in Frankfurt ab 20,43 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fRlCvQAK"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker (m/w/d) in Frankfurt ab 22€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fRkOvQAK"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industrieelektriker (m/w/d) in Frankfurt ab 22€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fRYArQAO"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Verdrahter (m/w/d) in Falkensee ab 25€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fR1gcQAC"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Instandhalter (m/w/d) in Amberg ab 27€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eVZIbQAO"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Instandhalter (m/w/d) in Amberg ab 27€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eWBWoQAO"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Gerätemonteur (m/w/d) in Berlin ab 22€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000erFzZQAU"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter Credit Management (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000016sesXQAQ"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kommissionierer (m/w/d) in Frankfurt ab 21 €/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000dcCcnQAE"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Inbetriebsetzer (m/w/d) in Regensburg ab 25€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000c4sVRQAY"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker / Mechatroniker (m/w/d) ab 25€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bfCfqQAE"
+  },
+  {
+   "at": "2026-10-19T09:10:53+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Inbetriebsetzungstechniker (m/w/d) Wegberg ab 25€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000b01i4QAA"
+  },
+  {
+   "at": "2026-10-19T09:10:27+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T09:10:27+00:00",
+   "kind": "possible",
+   "site": "SKZ Kunststoff-Zentrum – Würzburg",
+   "title": "Studentische Hilfskraft Schülerlabor ''Kreislaufwirtschaft''",
+   "url": "https://karriere.skz.de/de"
+  },
+  {
+   "at": "2026-10-19T09:10:27+00:00",
+   "kind": "possible",
+   "site": "SKZ Kunststoff-Zentrum – Würzburg",
+   "title": "Zur Unterstützung des SKZ Lab suchen wir eine studentische Hilfskraft (HiWi)!",
+   "url": "https://karriere.skz.de/de"
+  },
+  {
+   "at": "2026-10-19T09:10:27+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "19.10.2026 Montagemitarbeiter (m/w/d) Aying",
+   "url": "https://www.tempton.de/jobs/montagemitarbeiter-167"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Du bist Immatrikulierter Studentin / Student und suchst nach einer spannenden Möglichkeit, praktische Erfahrungen zu sammeln? Dann bist du bei uns gen",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Wir bieten regelmäßig Pflichtpraktika an, die dir die Chance geben, Einblicke in unsere Arbeitswelt zu gewinnen und wertvolle Kenntnisse für dein Stud",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Praktikumsplätze für Schüler bieten wir in zwei Berufsfeldern an:",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Für ein Schülerpraktikum bewerben dich bitte ca. zwei bis drei Monate bevor das Praktikum beginnt. Deine Bewerbung sollte folgende Punkte beinhalten:",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Zeitraum, im dem das Praktikum absolviert werden kann",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Project Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Jiading-Qu-Shanghai-CN/Project-Manager_R00266477?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "EHS-Experte (m/w/d) bei Siemens Mobility 80997 München 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1e5F4X-ehs-experte-mwd-bei-siemens-mobility_80997-muenchen"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) 09117 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/9WLCL-monteur-mwd_09117-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer Verpackung (m/w/d) 09390 Gornsdorf 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2rJPk2-helfer-verpackung-mwd_09390-gornsdorf"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) 09481 Elterlein 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZxAkXI-helfer-mwd_09481-elterlein"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenführer (m/w/d) 09669 Frankenberg/Sachsen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/NhtXr-maschinenfuehrer-mwd_09669-frankenbergsachsen"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer Elektroindustrie (m/w/d) 09390 Gornsdorf 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1RspdV-helfer-elektroindustrie-mwd_09390-gornsdorf"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschineneinrichter CAD-Programme (m/w/d) 09113 Chemnitz, Sachsen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/16fLfd-maschineneinrichter-cad-programme-mwd_09113-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) für die Montage 85354 Freising, Oberbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/eMHCi-produktionsmitarbeiter-mwd-fuer-die-montage_85354-freising-oberbayern"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) für die Montage 85301 Schweitenkirchen 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1T4de5-produktionsmitarbeiter-mwd-fuer-die-montage_85301-schweitenkirchen"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter Bremsen (m/w/d) 93128 Regenstauf 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jn5TY-montagemitarbeiter-bremsen-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) für die Montage 85391 Allershausen, Oberbayern 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Po5ro-produktionsmitarbeiter-mwd-fuer-die-montage_85391-allershausen-oberbayern"
+  },
+  {
+   "at": "2026-10-19T09:09:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroprüfer (m/w/d) bei Siemens Mobility / bis zu 29,08 €/Std. 92706 Luhe-Wildenau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z121IYz-elektropruefer-mwd-bei-siemens-mobility-bis-zu-2908-eurostd_92706-luhe-wildenau"
+  },
+  {
+   "at": "2026-10-19T09:10:49+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Sales Manager (m/w/d) im Außendienst - Software Vertrieb",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Bochum/Sales-Manager--m-w-d--im-Auendienst---Software-Vertrieb_JR110288?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T08:56:02+00:00",
+ "last_run": "2026-10-19T09:11:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
