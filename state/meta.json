@@ -1,5 +1,5 @@
 {
- "alerts": 11,
+ "alerts": 15,
  "commands_set": true,
  "events": [
   {
@@ -169,12 +169,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Memory Layout Design Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Bangalore-Electronic-City---S1/Memory-Layout-Design-Engineer_R027427?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T00:54:21+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Junior Technician, Equipment Engineering",
+   "url": "https://jobs.ams-osram.com/en/job/Junior-Technician-Equipment-Engineering-Calamba/24573"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T00:40:46+00:00",
+ "last_run": "2026-10-19T00:55:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
