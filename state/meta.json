@@ -1,175 +1,7 @@
 {
- "alerts": 203,
+ "alerts": 210,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T06:09:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC - Bediener (m/w/d) 04288 Leipzig 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1yecpu-cnc-bediener-mwd_04288-leipzig"
-  },
-  {
-   "at": "2026-10-19T06:09:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) 04435 Schkeuditz 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1t7vUS-elektroniker-mwd_04435-schkeuditz"
-  },
-  {
-   "at": "2026-10-19T06:09:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kraftfahrzeug-Lackierer (m/w/d) 04319 Leipzig 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/q1tLu-kraftfahrzeug-lackierer-mwd_04319-leipzig"
-  },
-  {
-   "at": "2026-10-19T06:09:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "LKW Testfahrer (m/w/d) 89073 Ulm, Donau 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1EfknY-lkw-testfahrer-mwd_89073-ulm-donau"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "possible",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Maschinenführer (m/w/d) - Extrusion",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "PCB Designer (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156231640-pcb-designer-all-gender-"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Train Manager (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156232449-train-manager-all-gender-"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Bauleiter Glasfaserausbau (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156232649-bauleiter-glasfaserausbau-all-gender-"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Technischer Sachbearbeiter / Projektassistenz (m/w/d) - Viersen Berufseinsteiger Mönchengladbach + 1 Neu",
-   "url": "https://karriere.omexom.de/jobs/68168656/Technischer-Sachbearbeiter-Projektassistenz-m-w-d---Viersen"
-  },
-  {
-   "at": "2026-10-19T06:25:46+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Technischer Sachbearbeiter / Projektassistenz (m/w/d) - Uedem Berufserfahrene Uedem + 1 Neu",
-   "url": "https://karriere.omexom.de/jobs/68168521/Technischer-Sachbearbeiter-Projektassistenz-m-w-d---Uedem"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Internship - Development of a flexible robot hardware system architecture (f/m/div) Langen (Frankfurt am Main) HRC1819326_1",
-   "url": "https://jobs.infineon.com/careers/job/563808972098778"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Pflichtpraktikum im Bereich Human Resources",
-   "url": "https://jobs.bosch.com/en/job/REF298271P-pflichtpraktikum-im-bereich-human-resources"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Mandatory Internship Controlling - Focus BU Strategy & Digitalization",
-   "url": "https://jobs.bosch.com/en/job/REF298478B-mandatory-internship-controlling-focus-bu-strategy-digitalization"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Werkstudent im Bereich Market Research (w/m/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF298252H-werkstudent-im-bereich-market-research-w-m-div"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "GE HealthCare – Wendelstein",
-   "title": "Advanced Technician - DI",
-   "url": "https://careers.gehealthcare.com/global/en/job/R4045106/Advanced-Technician-DI"
-  },
-  {
-   "at": "2026-10-19T06:24:39+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "19.10.2026 Niederlassungsleiter Personaldienstleistung (m/w/d) Herford",
-   "url": "https://www.tempton.de/jobs/niederlassungsleiter-personaldienstleistung-40"
-  },
-  {
-   "at": "2026-10-19T06:24:37+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Leiter Stra­te­gi­scher Einkauf (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 80.000 € Schkeu­ditz, Deutsch­land Backoffice Professionals Senior Profession",
-   "url": "https://touch.ferchau.com/de/de/job/524668/leiter-strategischer-einkauf"
-  },
-  {
-   "at": "2026-10-19T06:24:37+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Projektleiter Genehmigungsplanung – Infrastruktur (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3055"
-  },
-  {
-   "at": "2026-10-19T06:24:37+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 71272 Renningen 19.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z97vAY-industriemechaniker-mwd_71272-renningen"
-  },
-  {
-   "at": "2026-10-19T06:24:53+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Fachteamleiter (m/w/d) Business Applications 19.10.2026 Informationstechnologie Röthenbach a.d. Pegnitz",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-business-applications2"
-  },
-  {
-   "at": "2026-10-19T06:24:53+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Fachteamleiter (m/w/d) Business Applications 19.10.2026 Informationstechnologie Überlingen am Bodensee",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-business-applications3"
-  },
-  {
-   "at": "2026-10-19T06:24:53+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Fachteamleiter (m/w/d) Business Applications 19.10.2026 Informationstechnologie Nonnweiler",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-business-applications"
-  },
-  {
-   "at": "2026-10-19T06:40:38+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Strategischer Einkauf",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516674"
-  },
-  {
-   "at": "2026-10-19T06:40:38+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F516674"
-  },
   {
    "at": "2026-10-19T06:40:38+00:00",
    "kind": "new",
@@ -3501,12 +3333,180 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-finanzbuchhaltung-m-w-d-29/bewerben"
+  },
+  {
+   "at": "2026-10-19T09:40:28+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft (m/w/d) in der zentralen Notfallambulanz",
+   "url": "https://karriere.fresenius.de/job-detail/383ba62a-32c8-58e6-ab69-388c4353bcc3/pflegefachkraft-m-w-d-in-der-zentralen-notfallambulanz"
+  },
+  {
+   "at": "2026-10-19T09:40:28+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Planungsingenieur / Techniker Elektrotechnik (m/w/d) für Ladeinfrastruktur E-Mobility und Energieinfrastruktur Berufseinsteiger Fellbach Neu",
+   "url": "https://karriere.omexom.de/jobs/68179046/Planungsingenieur-Techniker-Elektrotechnik-m-w-d-f%C3%BCr-Ladeinfrastruktur-E-Mobility-und-Energieinfrastruktur"
+  },
+  {
+   "at": "2026-10-19T09:40:28+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Kalkulator Rückbau und Entkernung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/6b9a25ae-fac1-4c22-8410-732faa8a18f2"
+  },
+  {
+   "at": "2026-10-19T09:40:28+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Kalkulator Abbruch und Industriedemontage (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/6b9a25ae-fac1-4c22-8410-732faa8a18f2/ceca8a34-7a90-439e-850c-f4c5d553a92b"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "PSL Lead Architect (d/f/m) E2E Planning and Logistics",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/PSL-Lead-Architect--d-f-m--E2E-Planning-and-Logistics_JR10420098?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Fmvs1-maschinen-und-anlagenfuehrer-mwd_95233-helmbrechts-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 95233 Helmbrechts, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Hx4qf-produktionsmitarbeiter-mwd_95233-helmbrechts-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Konstruktionsmechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2fURtv-krones-konstruktionsmechaniker-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 95326 Kulmbach 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/s7rp4-gabelstaplerfahrer-mwd_95326-kulmbach"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Industriemechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1pi5q6-krones-industriemechaniker-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZlF1yc-produktionshelfer-mwd_95180-berg-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - CNC Maschinenbediener (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2186qP-krones-cnc-maschinenbediener-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Industriemechaniker (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZpVYg2-krones-industriemechaniker-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Schweißer (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZENdJa-krones-schweisser-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1uSPlI-maschinenbediener-mwd_95180-berg-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Konstruktionsmechaniker Orbital Technology (m/w/d) 24941 Flensburg 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/6Ih4p-krones-konstruktionsmechaniker-orbital-technology-mwd_24941-flensburg"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z27lGjj-produktionsmitarbeiter-mwd_95180-berg-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Qualitätsprüfer (m/w/d) 93149 Nittenau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/My2nJ-krones-qualitaetspruefer-mwd_93149-nittenau"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Qualitätsprüfer (m/w/d) 95180 Berg, Oberfranken 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1xR5AL-qualitaetspruefer-mwd_95180-berg-oberfranken"
+  },
+  {
+   "at": "2026-10-19T09:39:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krones - Qualitätsprüfer (m/w/d) 93149 Nittenau 19.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/dw1iz-krones-qualitaetspruefer-mwd_93149-nittenau"
+  },
+  {
+   "at": "2026-10-19T09:40:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Ersatzteilmanagement (m/w/d) (Logistik & Transport) in 04720 Großweitzschen Logistik & Transport 04720 Großweitzschen vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-ersatzteilmanagement-m-w-d-1"
+  },
+  {
+   "at": "2026-10-19T09:40:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mechatroniker (m/w/d) (Technik & Instandhaltung) in 89073 Ulm Technik & Instandhaltung 89073 Ulm vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-44"
+  },
+  {
+   "at": "2026-10-19T09:40:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Großweitzschen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-grossweitzschen"
+  },
+  {
+   "at": "2026-10-19T09:40:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-ersatzteilmanagement-m-w-d-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T09:25:45+00:00",
+ "last_run": "2026-10-19T09:40:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
