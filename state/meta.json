@@ -1,35 +1,7 @@
 {
- "alerts": 475,
+ "alerts": 478,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:39:48+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "194556 Praktikant Unternehmenskommunikation BMW Group Werk Landshut (w/m/x) Veröffentlicht: 19.10.2026 Interne Unternehmenskommunikation Landshut Neu ",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.194556.html"
-  },
-  {
-   "at": "2026-10-19T11:39:48+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Copy of Manager Regulatory Affairs and Audit Management (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/ce7efd40-95c6-4021-b21f-5f5c21c955e2?cHash=90b3b20f72ecc9f8f21393872639e524c11b80bd135b62848b284573ce26707c"
-  },
-  {
-   "at": "2026-10-19T11:39:48+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Copy of Manager Regulatory Affairs and Audit Management (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/9ead91d6-e28c-45c1-b3d3-2e831c5c3fff?cHash=fc7032f163f7ae49bf9912cabd3b553a07aed4eefca29a85bf9e31ebd252c074"
-  },
-  {
-   "at": "2026-10-19T11:39:48+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Manager Regulatory Affairs and Audit Management (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/97bcbd2b-7b99-4bf6-b1f9-bab31179aa53?cHash=f006978b685634c55fe5a9b8943c2402b4fef964eb62797363aa4fa9a69bd60f"
-  },
   {
    "at": "2026-10-19T11:39:48+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Magna – Veitsbronn",
    "title": "Controls & Automation Engineer",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Controls---Automation-Engineer_R00254986-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T20:39:52+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New System Domain Architecture Lead Engineer San Jose, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/system-domain-architecture-lead-engineer-j00355345"
+  },
+  {
+   "at": "2026-10-19T20:40:09+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 71034 Böblingen Einkauf & Supply Chain 71034 Böblingen vor 22 Stunden",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-147"
+  },
+  {
+   "at": "2026-10-19T20:40:09+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Böblingen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-boeblingen"
+  },
+  {
+   "at": "2026-10-19T20:40:09+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-147/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T20:26:40+00:00",
+ "last_run": "2026-10-19T20:41:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
