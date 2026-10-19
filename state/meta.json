@@ -1,14 +1,7 @@
 {
- "alerts": 456,
+ "alerts": 458,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:24:44+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Chemiker (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 65.000 € Berlin, Deutsch­land Pharma und Lifescience Weitere Professionals ohne Personalverantwortu",
-   "url": "https://touch.ferchau.com/de/de/job/524743/chemiker"
-  },
   {
    "at": "2026-10-19T11:24:44+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Sasse Elektronik",
    "title": "Software Project Lead Medizintechnik (m/w/d) Schwabach Vollzeit Festanstellung",
    "url": "https://seleon.jobs.personio.de/job/2849732"
+  },
+  {
+   "at": "2026-10-19T18:41:33+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Master Technician (Overnights)",
+   "url": "https://leggett.com/careers/search?posting=36577"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T18:27:01+00:00",
+ "last_run": "2026-10-19T18:41:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
