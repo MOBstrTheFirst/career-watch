@@ -1,28 +1,7 @@
 {
- "alerts": 428,
+ "alerts": 430,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Chemikant / Operator (m/w/d) Chemie",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013GBzsQAG"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker (m/w/d) Sanitär",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k4IArQAM"
-  },
-  {
-   "at": "2026-10-19T11:25:39+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Monteure (m/w/d) Baugruppen",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k11NlQAI"
-  },
   {
    "at": "2026-10-19T11:25:39+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/projektcontroller-m-w-d-16/bewerben"
+  },
+  {
+   "at": "2026-10-19T16:09:30+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "IT MES Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Mesa-Arizona-US/IT-MES-Engineer_R00266264?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T16:09:30+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Chargé d'approvisionnement",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Kenitra-MA/Charg-d-approvisionnement_R00251907?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-19T16:10:00+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Software Engineer – i.MX Multimedia",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Suzhou/Senior-Software-Engineer----iMX-Multimedia_R-10066599?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-19T15:57:02+00:00",
+ "last_run": "2026-10-19T16:11:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-18",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
