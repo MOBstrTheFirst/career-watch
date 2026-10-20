@@ -1,5 +1,5 @@
 {
- "alerts": 57,
+ "alerts": 59,
  "commands_set": true,
  "events": [
   {
@@ -659,12 +659,19 @@
    "site": "ASML – Erlangen",
    "title": "New Supplier Quality Engineer Singapore, Singapore Design Engineering and Architecture",
    "url": "https://www.asml.com/en/careers/find-your-job/supplier-quality-engineer-j00344363"
+  },
+  {
+   "at": "2026-10-20T04:09:34+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Sales Engineer",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sales-engineer_251563-1703680.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T03:56:34+00:00",
+ "last_run": "2026-10-20T04:11:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 25,
+ "runs": 26,
  "tg_offset": 297408924
 }
