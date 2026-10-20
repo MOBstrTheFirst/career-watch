@@ -1,21 +1,7 @@
 {
- "alerts": 525,
+ "alerts": 528,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:24:59+00:00",
-   "kind": "possible",
-   "site": "Maschinenfabrik Reinhausen",
-   "title": "Werkstudent im Bereich Elektrotechnik (Produktpflege) (m/w/d)",
-   "url": "https://www.reinhausen.com/career/jobs"
-  },
-  {
-   "at": "2026-10-20T11:24:35+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Associate AI Architect Defense (w/m/d) Ingolstadt, Karlsruhe, Erfurt, Muenchen, Nuernberg + 8 Architecture Unbefristet Studierende/Absolvent*innen",
-   "url": "https://www.capgemini.com/de-de/jobs/510688-de_DE+sap_btp"
-  },
   {
    "at": "2026-10-20T11:24:35+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ABB – Nürnberg branch",
    "title": "Nuclear Qualification Coordinator",
    "url": "https://careers.abb/global/en/job/JR00049361/Nuclear-Qualification-Coordinator"
+  },
+  {
+   "at": "2026-10-20T17:40:50+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Grounds Technician",
+   "url": "https://leggett.com/careers/search?posting=36593"
+  },
+  {
+   "at": "2026-10-20T17:39:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Janitor - C Shift",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Liberty-Missouri-US/Janitor---C-Shift_R00266857?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T17:26:04+00:00",
+ "last_run": "2026-10-20T17:41:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
