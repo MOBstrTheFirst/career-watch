@@ -1,147 +1,7 @@
 {
- "alerts": 419,
+ "alerts": 428,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Wirtschaftsingenieur / Controller (m/w/d) Teisnach",
-   "url": "https://www.tempton.de/jobs/wirtschaftsingenieur-controller-1"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Lifecycle Engineer (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreut",
-   "url": "https://www.tempton.de/jobs/lifecycle-engineer-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Techniker (m/w/d) - Elektrotechnik Bernburg",
-   "url": "https://www.tempton.de/jobs/techniker-elektrotechnik-8"
-  },
-  {
-   "at": "2026-10-20T08:40:25+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Praktikant *in (d/m/w) Strategy & Business Development - Pflichtpraktikum",
-   "url": "https://jobs.ams-osram.com/de/job/Praktikant-in-d_m_w-Strategy-Business-Development-Pflichtpraktikum-Garching/24544"
-  },
-  {
-   "at": "2026-10-20T08:40:25+00:00",
-   "kind": "possible",
-   "site": "Capgemini Engineering",
-   "title": "Go-to-Market Lead SAP (w/m/d)",
-   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
-  },
-  {
-   "at": "2026-10-20T08:40:25+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Senior Engineer Emerging Accelerators (m/w/d) bundesweit an einem BWI Standort",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-engineer-emerging-accelerators-m-w-d-70939"
-  },
-  {
-   "at": "2026-10-20T08:40:25+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Bahntechnik Ingenieur:in Bahninfrastruktur - Graz Standort Graz Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD Mobilität Gm",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/ingenieurin-bahninfrastruktur-graz-11975"
-  },
-  {
-   "at": "2026-10-20T08:40:25+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 73553 Alfdorf 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1CtnId-produktionsmitarbeiter-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-20T08:56:38+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "SPS Programmierer/ Inbetriebnehmer (m/w/d) Düsseldorf Seit 20. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-107446/SPS%20Programmierer%2FInbetriebnehmer%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
-  },
-  {
-   "at": "2026-10-20T08:56:38+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter HR – Junior (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017wpGyQAI"
-  },
-  {
-   "at": "2026-10-20T08:56:38+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Montierer / Prüfer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017x4hNQAQ"
-  },
-  {
-   "at": "2026-10-20T08:56:38+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Technischer Sterilisationsassistent (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014BcdWQAS"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Abschlussthesis* Software-Repository und GitOps-Infrastruktur",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=421"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Praktikum* Technische Dokumentation Ausbildungsumgebung Fluglotsen",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=425"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Praktikum* Softwareentwicklung iTafel & Web-Anwendungen",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=426"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Werkstudent* IT-Infrastruktur & Verkabelungsdokumentation",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=423"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Werkstudent* Unterstützung Ausbildungsumgebung Fluglotsen",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=422"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Abschlussthesis* Virtuelles Air Traffic Service-Environment",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=419"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Abschlussthesis* Backup-Konzept Virtualisierungsumgebung",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=420"
-  },
-  {
-   "at": "2026-10-20T08:54:53+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Industrielackierer (m/w/d) Mühldorf",
-   "url": "https://www.tempton.de/jobs/industrielackierer-83"
-  },
   {
    "at": "2026-10-20T08:54:53+00:00",
    "kind": "new",
@@ -3501,12 +3361,152 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-121/bewerben"
+  },
+  {
+   "at": "2026-10-20T13:40:36+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Pflegefachkraft oder Medizinische Fachangestellte (m/w/d) für die Dialyse",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schrobenhausen-Germany/Pflegefachkraft-oder-Medizinische-Fachangestellte--m-w-d--fr-die-Dialyse_R0267298-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:40:36+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "SPS-Programmierer / Automatisierungstechniker (m/w/d) Gütersloh Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109274/SPS-Programmierer%20%2F%20Automatisierungstechniker%20(m%2Fw%2Fd)/G%C3%BCtersloh"
+  },
+  {
+   "at": "2026-10-20T13:40:36+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Elektrokonstrukteur (m/w/d) Geilenkirchen Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109270/Elektrokonstrukteur%20(m%2Fw%2Fd)/Geilenkirchen"
+  },
+  {
+   "at": "2026-10-20T13:40:36+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Sachbearbeiter Einkauf (m/w/d) Neuss Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-107006/Sachbearbeiter%20Einkauf%20(m%2Fw%2Fd)/Neuss"
+  },
+  {
+   "at": "2026-10-20T13:40:36+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mechatroniker (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/f77f182d-1f43-5e40-ad30-bbe0f6209783/mechatroniker-m-w-d"
+  },
+  {
+   "at": "2026-10-20T13:39:45+00:00",
+   "kind": "new",
+   "site": "Innok Robotics – Regenstauf",
+   "title": "Junior Accountant / Accounting Manager (m/w/d)",
+   "url": "https://www.innok-robotics.de/karriere/job/junior-accountant-accounting-manager-mwd?hsLang=de"
+  },
+  {
+   "at": "2026-10-20T13:39:45+00:00",
+   "kind": "new",
+   "site": "Innok Robotics – Regenstauf",
+   "title": "Werkstudent Accounting (m/w/d)",
+   "url": "https://www.innok-robotics.de/karriere/job/werkstudent-accounting-mwd?hsLang=de"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Lead IT Architect IT-Service Module einsatznahe IT (m/w/d) bundesweit",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/lead-it-architect-it-service-module-einsatznahe-it-m-w-d-70927"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in / Schadengutachter:in (Zörbig) Standort Zörbig Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜ",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-schadengutachterin-zoerbig--11835"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter: in / Schadengutachter: in Standort Münster, Osnabrück Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellscha",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerter-in-schadengutachter-in-11902"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in /Schadengutachter:in (Hildesheim) Standort Hildesheim Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellsc",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-schadengutachterin-hildesheim--11750"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter (Olpe) Standort Olpe Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD Autoservice GmbH",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerter-olpe--11833"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in (Siegen) Standort Siegen Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD Autoservice Gmb",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-siegen--11837"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in (Lüdenscheid) Standort Lüdenscheid Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD Autos",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-luedenscheid--11827"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in (Hagen) Standort Hagen Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD Autoservice GmbH",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-hagen--11829"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Fahrzeugbewerter:in /Schadengutachter:in (Braunschweig) Standort Braunschweig Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gese",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-schadengutachterin-braunschweig--11821"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Messtechniker",
+   "url": "https://careers.motherson.com/en/job/messtechniker-m-w-d-7450"
+  },
+  {
+   "at": "2026-10-20T13:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzanalyst (m/w/d) - Controlling, Reporting und Power BI 35108 Allendorf (Eder) 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z29KQHw-finanzanalyst-mwd-controlling-reporting-und-power-bi_35108-allendorf-eder"
+  },
+  {
+   "at": "2026-10-20T13:41:54+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198802 Praktikant Serien-Prozessoptimierung Montage (w/m/x) Veröffentlicht: 20.10.2026 Montage München Neu Montage München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198802.html"
+  },
+  {
+   "at": "2026-10-20T13:41:54+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198276 Praktikant Direkter Einkauf Hochvolt-Speicher-Peripherien (w/m/x) Veröffentlicht: 20.10.2026 Direkter Einkauf München Neu Direkter Einkauf Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198276.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T13:26:12+00:00",
+ "last_run": "2026-10-20T13:42:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
