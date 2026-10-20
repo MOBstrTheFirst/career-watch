@@ -1,280 +1,7 @@
 {
- "alerts": 462,
+ "alerts": 472,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 97904 Dorfprozelten 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jY6VR-produktionsmitarbeiter-mwd_97904-dorfprozelten"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 97318 Kitzingen 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/StR8W-produktionshelfer-mwd_97318-kitzingen"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter/in (m/w/d) 97359 Schwarzach am Main 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2nf8a5-produktionsmitarbeiterin-mwd_97359-schwarzach-am-main"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bäcker (m/w/d) 97209 Veitshöchheim 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/E0WzA-baecker-mwd_97209-veitshoechheim"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter/in (m/w/d) 97199 Ochsenfurt, Unterfranken 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1VzTie-produktionsmitarbeiterin-mwd_97199-ochsenfurt-unterfranken"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Zerspanungsmechaniker (m/w/d) 97877 Wertheim am Main 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1a1TFN-zerspanungsmechaniker-mwd_97877-wertheim-am-main"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bürokauffrau (m/w/d) 63857 Waldaschaff 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2rAQoc-buerokauffrau-mwd_63857-waldaschaff"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Landmaschinenmechatroniker (m/w/d) 97080 Würzburg 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zo54yA-landmaschinenmechatroniker-mwd_97080-wuerzburg"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter/in (m/w/d) 97218 Gerbrunn 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/loM6v-lagermitarbeiterin-mwd_97218-gerbrunn"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitaribeiter (m/w/d) 97337 Dettelbach 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZVa9AJ-lagermitaribeiter-mwd_97337-dettelbach"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer Metallbranche (m/w/d) 97080 Würzburg 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2siTPh-produktionshelfer-metallbranche-mwd_97080-wuerzburg"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 97318 Kitzingen 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1yXvaq-mechatroniker-mwd_97318-kitzingen"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 97318 Kitzingen 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZetBU7-staplerfahrer-mwd_97318-kitzingen"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bürokauffrau (m/w/d) 97294 Unterpleichfeld 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z3cNUF-buerokauffrau-mwd_97294-unterpleichfeld"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroinstallateur (m/w/d) 97076 Würzburg 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/24N8UA-elektroinstallateur-mwd_97076-wuerzburg"
-  },
-  {
-   "at": "2026-10-20T09:39:43+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "Partner Executive",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Shanghai-China/Partner-Executive_71007817-2?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Gruppe (Senior) AI Security Engineer (m/w/d) 20.10.2026 Informationstechnologie Nürnberg",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/senior-ai-security-engineer-m-w-d"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198321 Working Student International Trainings and Events (f/m/x) Veröffentlicht: 20.10.2026 Vertriebswegeentwicklung München Neu Vertriebswegeentwick",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198321.html"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197902 Praktikant Data & AI Engineering E/E-Integration Antrieb (w/m/x) Veröffentlicht: 20.10.2026 Antrieb München Neu Antrieb München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197902.html"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197039 Thesis Driving Scenario Quality Assessment (f/m/x) Veröffentlicht: 20.10.2026 Forschung / Vorentwicklung München Neu Forschung / Vorentwicklung",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197039.html"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "196294 Praktikant Optimierungsalgorithmen und KI-Agenten für die Fahrwerksauslegung (w/m/x) Veröffentlicht: 20.10.2026 Forschung / Vorentwicklung Münc",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196294.html"
-  },
-  {
-   "at": "2026-10-20T09:39:38+00:00",
-   "kind": "new",
-   "site": "toolcraft",
-   "title": "Mitarbeiter Empfang und Telefonzentrale in Teilzeit (befristet) m/w/d Georgensgmünd Frei ab sofort",
-   "url": "https://www.toolcraft.de/karriere/stellenanzeige/mitarbeiter-empfang-und-telefonzentrale-in-teilzeit-befristet"
-  },
-  {
-   "at": "2026-10-20T09:56:34+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Elektroniker Mittelspannungs- und Transformatorentechnik (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/53dfece9-2250-42f2-b0c3-57a99b704847"
-  },
-  {
-   "at": "2026-10-20T09:56:34+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Elektroniker Mittelspannungs- und Transformatorentechnik (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/53dfece9-2250-42f2-b0c3-57a99b704847/edfc223f-0927-43bf-83f7-cd74aab2c1d2"
-  },
-  {
-   "at": "2026-10-20T09:56:34+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Haustechniker (m/w/d) Elektro",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017y0NBQAY"
-  },
-  {
-   "at": "2026-10-20T09:56:34+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter (m/w/d) Disposition",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017xtqLQAQ"
-  },
-  {
-   "at": "2026-10-20T09:56:34+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektriker (m/w/d) – auch ohne deutsche Berufsausbildung",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017xc1XQAQ"
-  },
-  {
-   "at": "2026-10-20T09:55:21+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Werkstudent (m/w/d) Personal",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Nordenham/Praktikant--m-w-d--in-der-Personalabteilung-am-Standort-Nordenham_JR10386648?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T09:55:21+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Rangierer / LKW-Fahrer (m/w/d) Hanau",
-   "url": "https://www.tempton.de/jobs/rangierer-lkw-fahrer"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Senior IT Engineer Business Applications (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Senior-IT-Engineer-Business-Applications--m-w-x-_R00266902?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Industriekletterer / Servicetechniker (m/w/d) FISAT Level 1 oder Level 2",
-   "url": "https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Manager",
-   "url": "https://careers.motherson.com/en/job/manager-7442"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Manager",
-   "url": "https://careers.motherson.com/en/job/manager-7380"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Quereinsteiger (m/w/d) Montage Produktion 74673 Mulfingen, Jagst 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ESMa1-quereinsteiger-mwd-montage-produktion_74673-mulfingen-jagst"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bäcker (m/w/d) 97297 Waldbüttelbrunn 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/rQIGe-baecker-mwd_97297-waldbuettelbrunn"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Vertriebsinnendienst Backoffice (m/w/d) 97892 Kreuzwertheim 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/11pCoo-sachbearbeiter-vertriebsinnendienst-backoffice-mwd_97892-kreuzwertheim"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Koch (m/w/d) 97753 Karlstadt, Main 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/IPhPH-koch-mwd_97753-karlstadt-main"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachkraft für Lagerlogistik (m/w/d) 97080 Würzburg 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZeRsbs-fachkraft-fuer-lagerlogistik-mwd_97080-wuerzburg"
-  },
-  {
-   "at": "2026-10-20T09:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montagehelfer (m/w/d) 97854 Steinfeld bei Lohr am Main 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/17cDoO-montagehelfer-mwd_97854-steinfeld-bei-lohr-am-main"
-  },
   {
    "at": "2026-10-20T09:54:54+00:00",
    "kind": "new",
@@ -3501,12 +3228,285 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-236/bewerben"
+  },
+  {
+   "at": "2026-10-20T14:40:25+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Product Owner – AI Forge Source-to-Contract Solutions (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Product-Owner-AI-Forge-Source-to-Contract-Solutions-f-m-d/305739"
+  },
+  {
+   "at": "2026-10-20T14:40:25+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Sachverständige*r für Schaden- und Wertgutachten (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Sachverstaendiger-fuer-Schaden-und-Wertgutachten-w_m_d-Wesel?id=21927"
+  },
+  {
+   "at": "2026-10-20T14:40:25+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Studentische Hilfskraft - Datenmanagement, Automatisierung & Qualitätsmanagement (m/w/d)",
+   "url": "https://jobs.tuv.com/de/job/Studentische-Hilfskraft-Datenmanagement-Automatisierung-Qualitaetsmanagement-m_w_d-Koeln?id=21781"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Konstruktionsmechaniker (m/w/d) im Stahlbau Horst (Holstein)",
+   "url": "https://www.tempton.de/jobs/konstruktionsmechaniker-stahlbau-2"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Produktionsmitarbeiter (w/m/d) Polysilicium-Reinigung Burghausen",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-w-m-d-polysilicium-reinigung-3"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Produktionsmitarbeiter (w/m/d) Polysilicium-Reinigung Simbach a.Inn",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-w-m-d-polysilicium-reinigung-2"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Produktionsmitarbeiter (w/m/d) Polysilicium-Reinigung Mühldorf",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-w-m-d-polysilicium-reinigung-1"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Produktionsmitarbeiter (w/m/d) Polysilicium-Reinigung Altötting",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-w-m-d-polysilicium-reinigung"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenführer (w/m/d) für FSH Mühldorf",
+   "url": "https://www.tempton.de/jobs/anlagenfuehrer-w-m-d-fsh-3"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenführer (w/m/d) für FSH Simbach a.Inn",
+   "url": "https://www.tempton.de/jobs/anlagenfuehrer-w-m-d-fsh-2"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenführer (w/m/d) für FSH Altötting",
+   "url": "https://www.tempton.de/jobs/anlagenfuehrer-w-m-d-fsh-1"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenführer (w/m/d) für FSH Burghausen",
+   "url": "https://www.tempton.de/jobs/anlagenfuehrer-w-m-d-fsh"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenfahrer (w/m/d) Simbach a.Inn",
+   "url": "https://www.tempton.de/jobs/anlagenfahrer-w-m-d-3"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenfahrer (w/m/d) Mühldorf",
+   "url": "https://www.tempton.de/jobs/anlagenfahrer-w-m-d-2"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenfahrer (w/m/d) Altötting",
+   "url": "https://www.tempton.de/jobs/anlagenfahrer-w-m-d-1"
+  },
+  {
+   "at": "2026-10-20T14:39:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenfahrer (w/m/d) Burghausen",
+   "url": "https://www.tempton.de/jobs/anlagenfahrer-w-m-d"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Associate Engineer, Equipment Engineering",
+   "url": "https://jobs.ams-osram.com/en/job/Associate-Engineer-Equipment-Engineering-Calamba/24570"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "- copy",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1777?c=trench"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "INGENIEUR PRODUIT TRAVERSEES HAUTE TENSION (F/H/D) – CDI",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1776?c=trench"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Operátor ve výrobě",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Ceske-Velenice-CZ/Opertor-ve-vrob_R00266156-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montage (m/w/d) 93128 Regenstauf 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2kju5K-montage-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter (m/w/d) 93128 Regenstauf 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jn5TY-montagemitarbeiter-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lackierer Siemens Energy (m/w/d) 99086 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/14KnmK-lackierer-siemens-energy-mwd_99086-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachlagerist (m/w/d) 99310 Arnstadt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcNykl-fachlagerist-mwd_99310-arnstadt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer Siemens Energy (m/w/d) 99086 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z22tRrY-schweisser-siemens-energy-mwd_99086-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 99091 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/kgvGs-industriemechaniker-mwd_99091-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter (m/w/d) 99085 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/yJqhn-sachbearbeiter-mwd_99085-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kundenberater (m/w/d) 99085 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1EleC-kundenberater-mwd_99085-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker Siemens Energy (m/w/d) 99086 Erfurt 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZHOvr5-elektroniker-siemens-energy-mwd_99086-erfurt"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) Siemens 95478 Kemnath 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1d4p0t-industriemechaniker-mwd-siemens_95478-kemnath"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) für Siemens 95478 Kemnath 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1fYOEz-lagermitarbeiter-mwd-fuer-siemens_95478-kemnath"
+  },
+  {
+   "at": "2026-10-20T14:39:28+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) Siemens 95478 Kemnath 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z19ayNb-mechatroniker-mwd-siemens_95478-kemnath"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Requirements & KI Engineer (m/w/d) SCM 20.10.2026 Einkauf/Logistik/Materialwirtschaft Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/requirements-ki-engineer-m-w-d-scm"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Trade Compliance Advisor | Early Career Program Stockholm,Stockholm,Sweden Recht, Patente und Compliance Gepostete vor 28 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777231289"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Hardwareentwickler Embedded Systems (m/w/d) (IT & Software) in 89075 Ulm IT & Software 89075 Ulm vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/hardwareentwickler-embedded-systems-m-w-d"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Leiter Inbetriebnahme (m/w/d) - Raum Maintal - Direktvermittlung (Technik & Instandhaltung) in 63477 Maintal Technik & Instandhaltung 63477 Maintal vo",
+   "url": "https://jobs.de.dis-ag.com/leiter-inbetriebnahme-m-w-d-raum-maintal-direktvermittlung"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lagermitarbeiter (m/w/d) Krefeld (Technik & Instandhaltung) in 47798 Krefeld Technik & Instandhaltung 16,50 - 17,55 EUR / Stunde 47798 Krefeld vor 16 ",
+   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-krefeld"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Retail & Pricing Analyst (m/w/d) (Digital) in 65760 Eschborn Digital 65760 Eschborn vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/retail-und-pricing-analyst-m-w-d"
+  },
+  {
+   "at": "2026-10-20T14:40:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/hardwareentwickler-embedded-systems-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T14:25:58+00:00",
+ "last_run": "2026-10-20T14:40:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
