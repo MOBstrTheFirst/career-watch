@@ -1,5 +1,5 @@
 {
- "alerts": 37,
+ "alerts": 42,
  "commands_set": true,
  "events": [
   {
@@ -491,12 +491,68 @@
    "site": "ASML – Erlangen",
    "title": "New CS - HMI Technical Support Engineer - Hsinchu Hsinchu, Taiwan Customer Support",
    "url": "https://www.asml.com/en/careers/find-your-job/cs-hmi-technical-support-engineer-hsinchu-j00355492"
+  },
+  {
+   "at": "2026-10-20T02:11:19+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Produktionsmitarbeiter (m/w/d) keramische Schleifkörper",
+   "url": "https://careers.rosler.com/stellen/job/Bad-Staffelstein-Produktionsmitarbeiter-%28mwd%29-keramische-Schleifk%C3%B6rper-BY-96231/1408861033"
+  },
+  {
+   "at": "2026-10-20T02:11:19+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Servicemonteur (m/w/d)",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Servicemonteur-%28mwd%29-BY-96190/1283657901"
+  },
+  {
+   "at": "2026-10-20T02:11:19+00:00",
+   "kind": "new",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Projektkoordinator (m/w/d) Serviceleistungen",
+   "url": "https://careers.rosler.com/stellen/job/Untermerzbach-Projektkoordinator-%28mwd%29-Serviceleistungen-BY-96190/1369106133"
+  },
+  {
+   "at": "2026-10-20T02:09:47+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing- Material handler- Linkou Linkou, Taiwan Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-material-handler-linkou-j00350125"
+  },
+  {
+   "at": "2026-10-20T02:09:47+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Fachspezialist I2D Lead - Planung, Risikomanagement und S/4-HANA (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Fachspezialist-I2D-Lead-Planung%2C-Risikomanagement-und-S4-HANA-%28wmd%29-89077/1369068755"
+  },
+  {
+   "at": "2026-10-20T02:09:47+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Technischer Projektleiter (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Kiel-Technischer-Projektleiter-%28wmd%29-24114/1369111255"
+  },
+  {
+   "at": "2026-10-20T02:09:47+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Teamleiter Maritime Information Modeling (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Teamleiter-Maritime-Information-Modeling-%28wmd%29-26389/1369114055"
+  },
+  {
+   "at": "2026-10-20T02:10:08+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Erlangen",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Erlangen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Erlangen-BY-91052/1408664033"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T01:56:58+00:00",
+ "last_run": "2026-10-20T02:11:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408924
 }
