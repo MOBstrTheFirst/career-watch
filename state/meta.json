@@ -1,5 +1,5 @@
 {
- "alerts": 100,
+ "alerts": 109,
  "commands_set": true,
  "events": [
   {
@@ -1261,12 +1261,173 @@
    "site": "Axsol – Würzburg",
    "title": "4 new text line(s), e.g. 11-50 employees",
    "url": "https://join.com/companies/axsol"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Entwicklungsingenieur (w/m/d) Mechanik und Konstruktion für Elektromotoren",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526090"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526090"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Entwicklungsingenieur (w/m/d) Mechanik und Simulation für Elektromotoren",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526089"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526089"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Detailkonstrukteur (w/m/d) - Elektromotoren",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526087"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526087"
+  },
+  {
+   "at": "2026-10-20T06:41:56+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Ingenieur*in als Sachverständige*r Aufzüge, Förder- und Maschinentechnik (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Ingenieurin-als-Sachverstaendiger-Aufzuege-Foerder-und-Maschinentechnik-w_m_d-Groebenzell?id=16713"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Planungskoordinator (m/w/d) Infrastruktur",
+   "url": "https://jobportal.max-boegl.de/Planungskoordinator-mwd-Infrastruktur-de-j2318.html"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "de engineering – Bayreuth",
+   "title": "Strategischer Asset Manager Netzentwicklung (m/w/d)",
+   "url": "https://deengineering.hr4you.org/job/view/3123"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "de engineering – Bayreuth",
+   "title": "Strategischer Asset Manager Netzentwicklung (m/w/d)",
+   "url": "https://deengineering.hr4you.org/job/view/3124"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Packer (m/w/d) 85570 Markt Schwaben 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZeXt76-packer-mwd_85570-markt-schwaben"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 85764 Oberschleißheim 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/a7n7O-lagermitarbeiter-mwd_85764-oberschleissheim"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 82110 Germering, Oberbayern 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1i4vfl-mechatroniker-mwd_82110-germering-oberbayern"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maler und Lackierer (m/w/d) 85748 Garching bei München 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJYqcK-maler-und-lackierer-mwd_85748-garching-bei-muenchen"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kfz - Mechatroniker (m/w/d) 80331 München 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ue2mq-kfz-mechatroniker-mwd_80331-muenchen"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 85221 Dachau 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1W8Wkd-maschinenbediener-mwd_85221-dachau"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verfahrensmechaniker (m/w/d) 85757 Karlsfeld bei München 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/wzvul-verfahrensmechaniker-mwd_85757-karlsfeld-bei-muenchen"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metallbauer (m/w/d) 85764 Oberschleißheim 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZfT8pA-metallbauer-mwd_85764-oberschleissheim"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 82110 Germering, Oberbayern 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/286qhO-lagermitarbeiter-mwd_82110-germering-oberbayern"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 85757 Karlsfeld bei München 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2mzkRm-maschinenbediener-mwd_85757-karlsfeld-bei-muenchen"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer - Holzbearbeitung (m/w/d) 80331 München 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/vDQcj-helfer-holzbearbeitung-mwd_80331-muenchen"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maler und Lackierer (m/w/d) 85221 Dachau 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZqA2Y-maler-und-lackierer-mwd_85221-dachau"
+  },
+  {
+   "at": "2026-10-20T06:39:54+00:00",
+   "kind": "new",
+   "site": "Innomotics GmbH (ex-Siemens Large Drives) / Innomotics – Bad Neustadt motor plant",
+   "title": "Werkstudent (w/m/d) EHS Arbeitssicherheit",
+   "url": "https://jobs.innomotics.com/job/Berlin-Werkstudent-%28wmd%29-EHS-Arbeitssicherheit-13629/1449251233"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T06:27:38+00:00",
+ "last_run": "2026-10-20T06:42:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
