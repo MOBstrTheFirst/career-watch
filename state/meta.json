@@ -1,245 +1,7 @@
 {
- "alerts": 226,
+ "alerts": 238,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-19T22:11:28+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "EDI COORDINATOR (Hybrid)",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19001?c=hella"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien(ne) Bureau d’études dessinateur(trice) projeteur(se) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicienne-bureau-detudes-dessinateurtrice-projeteurse-f-h-ref-2026-26150"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Coordinateur maintenance opérationnelle SCS F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/coordinateur-maintenance-operationnelle-scs-f-h-ref-2026-28103"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur méthode utilité F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-methode-utilite-f-h-ref-2026-28047"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "VALSERVE – Responsable Calculs F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/valserve-responsable-calculs-f-h-ref-2026-28101"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "UK Cyber Business Enabler and Leader",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/uk-cyber-business-enabler-and-leader-ref-2026-28100"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "TECHNICIEN – TECHNICIENNE GESTION DONNEES TECHNIQUE F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-technicienne-gestion-donnees-technique-f-h-ref-2026-28099"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Opérateur de production mécanique polyvalent composants F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateur-de-production-mecanique-polyvalent-composants-f-h-ref-2026-28090"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Werkstudent Programmierung/Datenpflege (m/w/d)",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/werkstudent-programmierung-datenpflege-m-w-d-ref-2026-28096"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable HSE (Hygiène, Sécurité, Environnement) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-hse-hygiene-securite-environnement-f-h-ref-2026-28061"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Finance Analyst",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/finance-analyst-ref-2026-28094"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Opérateur(trice) de Fabrication NZU F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateurtrice-de-fabrication-nzu-f-h-ref-2026-28091"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien(ne) Méthodes (programme DOJO) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicienne-methodes-programme-dojo-f-h-ref-2026-25611"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Ingénieur Santé Sécurité Radioprotection et Environnement F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-sante-securite-radioprotection-et-environnement-f-h-ref-2026-28089"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Développement informatique – Qualification et optimisation de code Java avec SonarQube F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-developpement-informatique-qualification-et-optimisation-de-code-java-avec-sonarqube-f-h-ref-2026-28003"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – RGPD et gouvernance des données F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-rgpd-et-gouvernance-des-donnees-f-h-ref-2026-27966"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Chargé de missions qualité système F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-charge-de-missions-qualite-systeme-f-h-ref-2026-27984"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "CNC-Fräser (m/w/d)",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/cnc-fraser-m-w-d-ref-2026-27308"
-  },
-  {
-   "at": "2026-10-19T22:09:44+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Ingénieur Méthodes transverses produits/procédés F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-methodes-transverses-produits-procedes-f-h-ref-2026-26165"
-  },
-  {
-   "at": "2026-10-19T22:09:39+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Project Manager Nieuwbouwstations Zuid-West (Zeeland, Zuid Holland)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031668&jobId=118981"
-  },
-  {
-   "at": "2026-10-19T22:09:39+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Commissioning and Service Engineer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5020969&jobId=118975"
-  },
-  {
-   "at": "2026-10-19T22:09:39+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Project Manager West Noord",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4944825&jobId=118865"
-  },
-  {
-   "at": "2026-10-19T22:09:39+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Adviseur Grondzaken Midden-Nederland",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4885014&jobId=118708"
-  },
-  {
-   "at": "2026-10-19T22:09:39+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Sr Mixed Signal/RF Test Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Sr-Mixed-Signal-RF-Test-Engineer_R-10067142?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-19T22:26:42+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Press Tender",
-   "url": "https://leggett.com/careers/search?posting=36579"
-  },
-  {
-   "at": "2026-10-19T22:26:42+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Purchasing Agent",
-   "url": "https://leggett.com/careers/search?posting=36583"
-  },
-  {
-   "at": "2026-10-19T22:54:53+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Optical Fabrication Tech CWW Front End Days Wilton, CT, US Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/optical-fabrication-tech-cww-front-end-days-j00353178"
-  },
-  {
-   "at": "2026-10-19T22:54:53+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Optical Fabrication Tech CWW Front End Days Wilton, CT, US Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/optical-fabrication-tech-cww-front-end-days-j00351665"
-  },
-  {
-   "at": "2026-10-19T22:54:53+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Engagement Manager Financial Services (w/m/d) Hannover, Hamburg, Koeln, Stuttgart, Berlin + 3 Delivery Excellence Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/542607-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-19T23:10:03+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Werkstudent GIS – Infrastrukturplanung (m/w/d)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4883733&jobId=117589"
-  },
-  {
-   "at": "2026-10-19T23:10:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 73732 Esslingen am Neckar Rechnungswesen & Finanzen 73732 Esslingen am Neckar Homeoffice mögli",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-344"
-  },
-  {
-   "at": "2026-10-19T23:10:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 73033 Göppingen Rechnungswesen & Finanzen 73033 Göppingen Homeoffice möglich vor einer S",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-120"
-  },
-  {
-   "at": "2026-10-19T23:10:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76829 Landau in der Pfalz Bau & Immobilien 76829 Landau in der Pfalz Homeoffice möglich vor einer Stund",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-13"
-  },
-  {
-   "at": "2026-10-19T23:10:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76316 Malsch Bau & Immobilien 76316 Malsch Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-12"
-  },
   {
    "at": "2026-10-19T23:10:03+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/it-administrator-m-w-d-30/bewerben"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "BT Architect and Security Lead (d/m/w)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA5MjAyNi04MTg1OA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Logistik Support Ingenieur (m/w/d) Defence",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzM2OQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Systemadministrator Cloud & Virtualisierung (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA5MjAyNi04MTQ0MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Schlosser (m/w/d) - Stahlbau & Montage (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzM3Mw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Elektrotechniker/ Elektroingenieur (m/w/d) Defence",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzM2OA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Oberbauleiter Bahnbau (m/w/d) Hannover Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109238/Oberbauleiter%20Bahnbau%20(m%2Fw%2Fd)/Hannover"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Krones AG / Syskron (Krones group) – Neutraubling",
+   "title": "Date 16. October 2026 Mandatory Internship - IT Project Management (all genders) Division Digitalization, Project and Process Management Company Syskr",
+   "url": "https://www.krones.com/en/career/job-detail.php?job=72216"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Steuerfachangestellter (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/a0accf69-bf7b-4cfe-be59-e15895485822"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Finance Specialist (m/w/d) Buchhaltung & Automatisierung",
+   "url": "https://headfound.hforce.ai/job/a0accf69-bf7b-4cfe-be59-e15895485822/0c3fc611-aacc-4cac-92f8-710e5782de37"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Allrounder (m/w/d) in der Buchhaltung",
+   "url": "https://headfound.hforce.ai/job/a0accf69-bf7b-4cfe-be59-e15895485822/cc8bd671-0795-4b60-b716-a2e37b68008c"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "(Finanz-)Buchhalter (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/a0accf69-bf7b-4cfe-be59-e15895485822/d12f5043-48ad-4366-876e-91559fdf076b"
+  },
+  {
+   "at": "2026-10-20T09:26:36+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft für Medizinprodukteaufbereitung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000011k6ZBQAY"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "(Senior) Engineer Production Films (w/m/div) Dresden HRC1822717",
+   "url": "https://jobs.infineon.com/careers/job/563808972121255"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Concept Engineer (f/m/div) München HRC1739621",
+   "url": "https://jobs.infineon.com/careers/job/563808971806251"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager Production Management Penang HRC1686053",
+   "url": "https://jobs.infineon.com/careers/job/563808971417743"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Equipment Engineering DSC Wuxi + 1 more HRC1701141",
+   "url": "https://jobs.infineon.com/careers/job/563808971490135"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior /Staff Engineer, Product Engineering Singapur HRC1801245",
+   "url": "https://jobs.infineon.com/careers/job/563808972023559"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Analog Verification Methodology (f/m/div) Munich (Germany) + 1 more HRC1629694 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970723894"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Process Integration for Wide Bandgap Power Technologies (w/m/div) Villach HRC1625660",
+   "url": "https://jobs.infineon.com/careers/job/563808970566835"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Test Data Analytics Singapur HRC1695372 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971422321"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Bangalore BTP HRC1830859 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972187495"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Engineer Unit Process Engineering Batam HRC1785552",
+   "url": "https://jobs.infineon.com/careers/job/563808972069669"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "OTH Regensburg – Sensor Application Center & RF lab (+2 more)",
+   "title": "Informatikerin / Informatiker (m/w/d) für die Betreuung des Labors \"Netzwerktechnik\"",
+   "url": "https://karriere.oth-regensburg.de/jobposting/adbd4d1523b30255881359a58caa68213187d0d90?ref=homepage"
+  },
+  {
+   "at": "2026-10-20T09:24:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Anlagenmechaniker - Sanitär-, Heizungs- und Klimatechnik (m/w/d) Staßfurt",
+   "url": "https://www.tempton.de/jobs/anlagenmechaniker-sanitaer-heizungs-klimatechnik-232"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­tech­niker Elek­tro­technik (m/w/d) Neu Job Hybrid Vollzeit 49.000 - 65.000 € Linz, Öster­reich Elektrotechnik Professionals Senior Profession",
+   "url": "https://touch.ferchau.com/de/de/job/524872/projekttechniker-elektrotechnik"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter (m/w/d) Neu Job Hybrid Vollzeit 62.610 - 72.000 € Linz, Öster­reich Elektrotechnik Professionals Senior Professionals ohne Personalvera",
+   "url": "https://touch.ferchau.com/de/de/job/524866/projektleiter"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter - Stamm­da­ten­pflege (m/w/d) Neu Job Vor Ort Vollzeit 35.000 - 42.000 € Berlin, Deutsch­land Backoffice Professionals Senior Profes",
+   "url": "https://touch.ferchau.com/de/de/job/524869/sachbearbeiter-stammdatenpflege"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Deve­lo­p­ment Engi­neer Combus­tion & Perfor­mance (m/w/d) Neu Job Vor Ort Vollzeit 65.000 - 85.000 € Inns­bruck, Öster­reich Maschinenbau Profession",
+   "url": "https://touch.ferchau.com/de/de/job/524863/development-engineer-combustion-performance"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Creo (m/w/d) Neu Job Hybrid Vollzeit 42.000 - 62.000 € St. Martin im Mühl­kreis, Öster­reich Maschinenbau Professionals Senior Professio",
+   "url": "https://touch.ferchau.com/de/de/job/524860/konstrukteur-creo"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Busi­ness Analyst Input Manage­ment (m/w/d) Neu Job Hybrid Vollzeit 80.000 - 125.000 € Hannover, Deutsch­land Backoffice Professionals Senior Professi",
+   "url": "https://touch.ferchau.com/de/de/job/524851/business-analyst-input-management"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bauüber­wa­cher (m/w/d) Groß­pro­jekte in Berlin Neu Job Vor Ort Vollzeit 80.000 - 90.000 € Berlin, Deutsch­land Anlagenbau Weitere Professionals Seni",
+   "url": "https://touch.ferchau.com/de/de/job/524854/bauueberwacher-grossprojekte-in-berlin"
+  },
+  {
+   "at": "2026-10-20T09:24:29+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "IT Solution Consultant - HR Tools Bundeswehr (m/w/d) in Bonn.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/it-solution-consultant-hr-tools-bundeswehr-m-w-d-70943"
+  },
+  {
+   "at": "2026-10-20T09:24:56+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Project Manager Go-to-Market (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Project-Manager-Go-to-Market--m-w-d-_JR110457?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T09:24:56+00:00",
+   "kind": "new",
+   "site": "toolcraft",
+   "title": "Fachhelfer Montage/Finish/Schleifen | Additive Fertigung m/w/d Georgensgmünd Frei ab sofort",
+   "url": "https://www.toolcraft.de/karriere/stellenanzeige/fachhelfer-montage-finish-schleifen-additive-fertigung"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T09:12:12+00:00",
+ "last_run": "2026-10-20T09:26:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
