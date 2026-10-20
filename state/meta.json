@@ -1,5 +1,5 @@
 {
- "alerts": 34,
+ "alerts": 35,
  "commands_set": true,
  "events": [
   {
@@ -470,12 +470,19 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Gestionnaire de secteur, Ventes et éducation & Beauté spécialisée / Specialty Beauty Territory Sales & Education Manager",
    "url": "https://www.pgcareers.com/de/en/job/R000154160/Gestionnaire-de-secteur-Ventes-et-éducation-Beauté-spécialisée-Specialty-Beauty-Territory-Sales-Education-Manager"
+  },
+  {
+   "at": "2026-10-20T01:39:47+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Intercompany General Accountant Mexico City,Mexico City,Mexico Finanzwesen Gepostete vor 6 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777360510"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T01:26:39+00:00",
+ "last_run": "2026-10-20T01:41:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
