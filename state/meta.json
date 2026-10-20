@@ -1,21 +1,7 @@
 {
- "alerts": 536,
+ "alerts": 539,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Material Handler",
-   "url": "https://jobs.sanmina.com/jobs/18375877-material-handler"
-  },
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Process Technician",
-   "url": "https://jobs.sanmina.com/jobs/18372757-process-technician"
-  },
   {
    "at": "2026-10-20T11:40:29+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ASML – Erlangen",
    "title": "New Production Planner Wilton, CT, US Planning",
    "url": "https://www.asml.com/en/careers/find-your-job/production-planner-j00355469"
+  },
+  {
+   "at": "2026-10-20T19:09:45+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Technician Engineering",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Technician-Engineering_R00266979?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T19:10:34+00:00",
+   "kind": "possible",
+   "site": "TTTech Auto Germany",
+   "title": "Experienced System Validation Engineer (m/f/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T18:55:57+00:00",
+ "last_run": "2026-10-20T19:11:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
