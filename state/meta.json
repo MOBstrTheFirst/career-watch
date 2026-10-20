@@ -1,5 +1,5 @@
 {
- "alerts": 75,
+ "alerts": 81,
  "commands_set": true,
  "events": [
   {
@@ -778,12 +778,61 @@
    "site": "ABB – Nürnberg branch",
    "title": "Save Electrification Services Application Engineer",
    "url": "https://careers.abb/global/en/search-results"
+  },
+  {
+   "at": "2026-10-20T05:56:24+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/331?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/331?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-20T05:54:44+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Market Development Specialist – AI Data Center Solutions",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/market-development-specialist-ai-data-center-solutions_251563-1703745.html"
+  },
+  {
+   "at": "2026-10-20T05:54:44+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Director, North America Wireless Market Development",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-north-america-wireless-market-development_251563-1703744.html"
+  },
+  {
+   "at": "2026-10-20T05:54:44+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "GET",
+   "url": "https://careers.motherson.com/en/job/get-7382"
+  },
+  {
+   "at": "2026-10-20T05:54:44+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Operator wózka widłowego (m/k/d) 16,08€/h 39126 Magdeburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/F6RK6-operator-wozka-widlowego-mkd-1608euroh_39126-magdeburg"
+  },
+  {
+   "at": "2026-10-20T05:54:43+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Pflichtpraktikant (m/w/d) Program Management & Delivery Monitoring 20.10.2026 Sonstige Laupheim",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/pflichtpraktikant-m-w-d-program-management-delivery-monitoring"
+  },
+  {
+   "at": "2026-10-20T05:54:43+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Pflichtpraktikant (m/w/d) Wirtschaftsinformatik / Informatik für die Produktion 20.10.2026 Produktion Laupheim",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/pflichtpraktikant-m-w-d-wirtschaftsinformatik-informatik-fuer-die-produktion"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T05:41:43+00:00",
+ "last_run": "2026-10-20T05:56:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
