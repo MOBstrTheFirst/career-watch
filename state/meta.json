@@ -1,5 +1,5 @@
 {
- "alerts": 151,
+ "alerts": 155,
  "commands_set": true,
  "events": [
   {
@@ -2045,12 +2045,96 @@
    "site": "toolcraft",
    "title": "Sachbearbeiter Verwaltung und Disposition | Spritzguss m/w/d Georgensgmünd Frei ab sofort",
    "url": "https://www.toolcraft.de/karriere/stellenanzeige/sachbearbeiter-verwaltung-und-disposition-spritzguss"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Werkstudent*in (all genders)- Automatisierte Datensammlung und Verarbeitung von Geoinformationen, Objekt- und Marktdaten",
+   "url": "https://iisfraunhofer.softgarden.io/job/68202896/Werkstudent-in-all-genders-Automatisierte-Datensammlung-und-Verarbeitung-von-Geoinformationen,-Objekt-und-Marktdaten?jobDbPVId=288207336&l=de"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "Pflegehelfer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "Pflegefachkraft (m/w/d) Teilzeit",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "Pflegeassistent (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "OTA (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-20T07:48:01+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "OP-Schwester (m/w/d) Teilzeit",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-20T07:46:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Datenmanagement (m/w/d) 60329 Frankfurt am Main 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1EzvXf-sachbearbeiter-datenmanagement-mwd_60329-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-20T07:46:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenbediener (m/w/d) 06842 Dessau-Roßlau 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2g4Dur-anlagenbediener-mwd_06842-dessau-rosslau"
+  },
+  {
+   "at": "2026-10-20T07:46:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Studenten Lebensmittelindustrie (m/w/d) 06785 Oranienbaum-Wörlitz 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2uE69x-studenten-lebensmittelindustrie-mwd_06785-oranienbaum-woerlitz"
+  },
+  {
+   "at": "2026-10-20T07:46:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Key Account Manager (m/w/d) (Sales & Vertrieb) in 42103 Wuppertal Sales & Vertrieb 42103 Wuppertal Homeoffice möglich vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/key-account-manager-m-w-d-18"
+  },
+  {
+   "at": "2026-10-20T07:46:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Wuppertal",
+   "url": "https://jobs.de.dis-ag.com/suche/in-wuppertal"
+  },
+  {
+   "at": "2026-10-20T07:46:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/key-account-manager-m-w-d-18/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T07:42:08+00:00",
+ "last_run": "2026-10-20T07:48:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
