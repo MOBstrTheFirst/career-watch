@@ -1,14 +1,7 @@
 {
- "alerts": 520,
+ "alerts": 521,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:25:45+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Teamleiter Service Elektromobilität (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/d470d926-cb0e-4f17-b0ce-c6bfa4ed0ff2"
-  },
   {
    "at": "2026-10-20T11:25:45+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Vishay Semiconductor – Selb",
    "title": "Read more",
    "url": "https://jobs.vishay.com/jobs/130-inspector-de-calidad-2"
+  },
+  {
+   "at": "2026-10-20T17:10:39+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Firmware Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Firmware-Engineer-2_R026980?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T16:56:07+00:00",
+ "last_run": "2026-10-20T17:10:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
