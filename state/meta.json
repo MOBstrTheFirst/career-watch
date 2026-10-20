@@ -1,5 +1,5 @@
 {
- "alerts": 17,
+ "alerts": 22,
  "commands_set": true,
  "events": [
   {
@@ -386,12 +386,26 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "HR Manager",
    "url": "https://leggett.com/careers/search?posting=36585"
+  },
+  {
+   "at": "2026-10-20T00:39:58+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Design Implementation Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Implementation-Engineer_R027424?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T00:39:58+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "ASIC Package Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Package-Design-Engineer_R027439?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T00:27:01+00:00",
+ "last_run": "2026-10-20T00:41:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 11,
+ "runs": 12,
  "tg_offset": 297408924
 }
