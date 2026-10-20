@@ -1,217 +1,7 @@
 {
- "alerts": 406,
+ "alerts": 419,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T08:41:58+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker (m/w/d) für Kältetechnik in München ab 20€/h !",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014RMZXQA4"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Airframe Design Approver (d/f/m)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Airframe-Design-Approver--d-f-m-_JR10441625?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Praktikum* Backup- und Update-Management für virtuelle Systeme",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=424"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "(Junior) Fachspezialist:in Elektrotechnik 50Hz (w/m/d) neu Nürnberg, München, Deutschland DB InfraGO (ehemals Station & Services) Startdatum: ab sofor",
-   "url": "https://db.jobs/de-de/Suche/-Junior-Fachspezialist-in-Elektrotechnik-50Hz-w-m-d--14069580?jobId=639930"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Safety Ingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth, Friedrichsh",
-   "url": "https://www.tempton.de/jobs/safety-ingenieur-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Bildverarbeitungsingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt,",
-   "url": "https://www.tempton.de/jobs/bildverarbeitungsingenieur-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Technischer Redakteur (m/w/d) Elektrotechnik Deggendorf, Teisnach",
-   "url": "https://www.tempton.de/jobs/technischer-redakteur-elektrotechnik-1"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Inbetriebnahmeingenieur Automatisierung (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Freiburg im Breisgau, Bayreuth",
-   "url": "https://www.tempton.de/jobs/inbetriebnahmeingenieur-automatisierung-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Systemintegrator Automatisierung (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingol",
-   "url": "https://www.tempton.de/jobs/systemintegrator-automatisierung-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Exportsachbearbeiter Zoll (m/w/d) Köln",
-   "url": "https://www.tempton.de/jobs/exportsachbearbeiter-zoll-2"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 SCADA‑Ingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth, Friedrichsha",
-   "url": "https://www.tempton.de/jobs/scada-ingenieur-initiativbewerbung-13"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 SPS‑Programmierer (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreuth",
-   "url": "https://www.tempton.de/jobs/sps-programmierer-initiativbewerbung-7"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 EPLAN Konstrukteur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreut",
-   "url": "https://www.tempton.de/jobs/eplan-konstrukteur-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Robotikingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreuth,",
-   "url": "https://www.tempton.de/jobs/robotikingenieur-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Automatisierungsingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, ",
-   "url": "https://www.tempton.de/jobs/automatisierungsingenieur-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Testingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth, Friedrichshafe",
-   "url": "https://www.tempton.de/jobs/testingenieur-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Qualitätsmanager (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreuth,",
-   "url": "https://www.tempton.de/jobs/qualitaetsmanager-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Embedded Software Entwickler (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth,",
-   "url": "https://www.tempton.de/jobs/embedded-software-entwickler-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Leiter Automatiserungstechnik (m/w/d) Produktionstechnik Regensburg",
-   "url": "https://www.tempton.de/jobs/leiter-automatiserungstechnik-produktionstechnik-3"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Systemingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreuth, ",
-   "url": "https://www.tempton.de/jobs/systemingenieur-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Konstrukteur (m/w/d) Solidworks 3D CAD Schwaig b.Nürnberg",
-   "url": "https://www.tempton.de/jobs/konstrukteur-solidworks-3d-cad-2"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Hardwareentwickler (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayreut",
-   "url": "https://www.tempton.de/jobs/hardwareentwickler-initiativbewerbung-6"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Technischer Projektmanager Vertrieb (m/w/d) Nürnberg",
-   "url": "https://www.tempton.de/jobs/technischer-projektmanager-vertrieb-2"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Techniker Systemtest / Systemadministration (m/w/d) Defense Deggendorf, Regen, Teisnach",
-   "url": "https://www.tempton.de/jobs/techniker-systemtest-systemadministration-defense-3"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Integrationsingenieur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, Bayr",
-   "url": "https://www.tempton.de/jobs/integrationsingenieur-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Technischer Projektleiter (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth, Fr",
-   "url": "https://www.tempton.de/jobs/technischer-projektleiter-initiativbewerbung-1"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Technischer Redakteur (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Bayreuth, Friedr",
-   "url": "https://www.tempton.de/jobs/technischer-redakteur-initiativbewerbung-5"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Hardwareentwickler (m/w/d) Funktechnik Berlin",
-   "url": "https://www.tempton.de/jobs/hardwareentwickler-funktechnik-2"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Cyber Security Specialist (m/w/d) – Initiativbewerbung München, Stuttgart, Nürnberg, Mannheim, Augsburg, Freiburg im Breisgau, Ingolstadt, ",
-   "url": "https://www.tempton.de/jobs/cyber-security-specialist-initiativbewerbung-1"
-  },
-  {
-   "at": "2026-10-20T08:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Projektmanager Maschinenbau (m/w/d) Oberhausen, Bocholt, Emmerich",
-   "url": "https://www.tempton.de/jobs/projektmanager-maschinenbau-2"
-  },
   {
    "at": "2026-10-20T08:40:07+00:00",
    "kind": "new",
@@ -3501,12 +3291,222 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Produktionsmitarbeiter (m/w/d) 07549 Gera 20.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1I7Ovg-produktionsmitarbeiter-mwd_07549-gera"
+  },
+  {
+   "at": "2026-10-20T13:25:54+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Director of Hospitality",
+   "url": "https://leggett.com/careers/search?posting=36587"
+  },
+  {
+   "at": "2026-10-20T13:25:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Senior Strategic Buyer – Dienstleistungseinkauf (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV00001809NxQAI"
+  },
+  {
+   "at": "2026-10-20T13:25:00+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Sales Engineer Product",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-20T13:25:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Berufskraftfahrer (m/w/d) Fernverkehr Heilbronn",
+   "url": "https://www.tempton.de/jobs/berufskraftfahrer-fernverkehr-3"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "possible",
+   "site": "Trench Germany",
+   "title": "Student*in (noch eingeschrieben) (12)",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home?c=trench"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Fein­werk­me­cha­niker Repa­ra­tur­werk­statt (m/w/d) Job Vor Ort Vollzeit 42.000 - 50.000 € Röder­mark, Deutsch­land Elektrotechnik Maschinenbau Youn",
+   "url": "https://touch.ferchau.com/de/de/job/523729/feinwerkmechaniker-reparaturwerkstatt"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter Mikro­sys­tem­technik (m/w/d) Neu Job Vor Ort Vollzeit 35.000 - 45.000 € Dresden, Deutsch­land Weitere Young Professionals Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/524947/mitarbeiter-mikrosystemtechnik"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Baustoff­prüfer (m/w/d) Neu Job Vor Ort Vollzeit 38.000 - 52.000 € Hamburg, Deutsch­land Weitere Professionals Senior Professionals ohne Personalveran",
+   "url": "https://touch.ferchau.com/de/de/job/524941/baustoffpruefer"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bauleiter HKLS (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 65.000 € Moritz­burg, Deutsch­land Anlagenbau Weitere Professionals Senior Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/524944/bauleiter-hkls"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur Steck­ver­bin­dungen Auto­mo­tive (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 70.000 € Wald­krai­burg, Deutsch­land Fahrzeugte",
+   "url": "https://touch.ferchau.com/de/de/job/524938/entwicklungsingenieur-steckverbindungen-automotive"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT Busi­ness Consul­tant SAP SD (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 100.000 € Heil­bronn, Deutsch­land Weitere Professionals Senior Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/524935/it-business-consultant-sap-sd"
+  },
+  {
+   "at": "2026-10-20T13:25:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer (m/w/d) 13629 Berlin 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZI614B-kommissionierer-mwd_13629-berlin"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Mitarbeiter Produktion (m/w/d) 20.10.2026 Produktion Laupheim",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/mitarbeiter-produktion-m-w-d2"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Python Developer with leadership skills Kraków,Kraków,Poland Product Development Gepostete vor einem Tag",
+   "url": "https://jobs.ericsson.com/careers/job/563121777199792"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Digital Verification Engineer, Crypto & Security",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Senior-Digital-Verification-Engineer_R-10063407?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Digital Verification Engineer, Crypto & Security",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Verification-Engineer_R-10062786-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Senior IT-Projektmanager (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Senior-IT-Projektmanager--m-w-d-_JR110098?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Cloud Platform Engineer (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Cloud-Platform-Engineer--m-w-d-_JR109997?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Cloud Database Engineer (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Cloud-Database-Engineer--m-w-d-_JR107416-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Senior IT System Engineer Enterprise Applications (m/f/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/IT-System-Engineer-Web-Applications--m-f-d-_JR109943-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "DLP-Security Specialist (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/DLP-Security-Specialist--m-w-d-_JR107748?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Lead Engineer Corporate Applications (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Lead-Engineer-Corporate-Applications--m-w-d-_JR110268?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Senior DevOps Engineer (m/w/d) Cloud Native & Kubernetes",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/DevOps-Engineer--m-w-d--Service-Owner-Telepport_JR109844-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "DevOps Engineer (m/w/d) SonarQube",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/DevOps-Engineer--m-w-d--SonarQube_JR109843?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "M365 Engineer SharePoint & Purview (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Solution-Engineer-M365-Content-Services--m-w-d-_JR109840?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "IT System Engineer (m/w/d) M365 Teams",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/IT-System-Engineer--m-w-d--M365-Teams_JR110307?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "IT Business Partner (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/IT-Business-Partner--m-w-d-_JR109427-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 60486 Frankfurt am Main Rechnungswesen & Finanzen 60486 Frankfurt am Main vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-121"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsmitarbeiter im Außendienst (m/w/d) (Sales & Vertrieb) in 75179 Pforzheim Sales & Vertrieb 75179 Pforzheim Homeoffice möglich vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-im-aussendienst-m-w-d-10"
+  },
+  {
+   "at": "2026-10-20T13:25:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-121/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T13:10:48+00:00",
+ "last_run": "2026-10-20T13:26:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
