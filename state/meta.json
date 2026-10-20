@@ -1,154 +1,7 @@
 {
- "alerts": 307,
+ "alerts": 319,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maler und Lackierer (m/w/d) 85748 Garching bei München 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJYqcK-maler-und-lackierer-mwd_85748-garching-bei-muenchen"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kfz - Mechatroniker (m/w/d) 80331 München 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ue2mq-kfz-mechatroniker-mwd_80331-muenchen"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 85221 Dachau 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1W8Wkd-maschinenbediener-mwd_85221-dachau"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verfahrensmechaniker (m/w/d) 85757 Karlsfeld bei München 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/wzvul-verfahrensmechaniker-mwd_85757-karlsfeld-bei-muenchen"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer (m/w/d) 85764 Oberschleißheim 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZfT8pA-metallbauer-mwd_85764-oberschleissheim"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 82110 Germering, Oberbayern 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/286qhO-lagermitarbeiter-mwd_82110-germering-oberbayern"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 85757 Karlsfeld bei München 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2mzkRm-maschinenbediener-mwd_85757-karlsfeld-bei-muenchen"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer - Holzbearbeitung (m/w/d) 80331 München 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/vDQcj-helfer-holzbearbeitung-mwd_80331-muenchen"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maler und Lackierer (m/w/d) 85221 Dachau 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZqA2Y-maler-und-lackierer-mwd_85221-dachau"
-  },
-  {
-   "at": "2026-10-20T06:39:54+00:00",
-   "kind": "new",
-   "site": "Innomotics GmbH (ex-Siemens Large Drives) / Innomotics – Bad Neustadt motor plant",
-   "title": "Werkstudent (w/m/d) EHS Arbeitssicherheit",
-   "url": "https://jobs.innomotics.com/job/Berlin-Werkstudent-%28wmd%29-EHS-Arbeitssicherheit-13629/1449251233"
-  },
-  {
-   "at": "2026-10-20T06:55:00+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Bilanzbuchhalter (m/w/d) Essen",
-   "url": "https://www.tempton.de/jobs/bilanzbuchhalter-52"
-  },
-  {
-   "at": "2026-10-20T06:54:37+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Associate Engineer, Test Product Engineering",
-   "url": "https://jobs.ams-osram.com/en/job/Associate-Engineer-Test-Product-Engineering-Calamba/24310"
-  },
-  {
-   "at": "2026-10-20T06:54:37+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New D&E - YieldStar C# Software Engineer - Linkou Linkou, Taiwan Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/de-yieldstar-c-software-engineer-linkou-j00354282"
-  },
-  {
-   "at": "2026-10-20T06:54:37+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Kaufmännischer Bereich Werkstudent:in Büromanagement Standort Hamburg Arbeitszeitmodell Teilzeit Nebenjob Gesellschaft DMT Engineering Surveying GmbH ",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/werkstudentin-bueromanagement-11630"
-  },
-  {
-   "at": "2026-10-20T06:54:37+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer (m/w/d) Teilzeit 83684 Tegernsee 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1gdjIr-verkaeufer-mwd-teilzeit_83684-tegernsee"
-  },
-  {
-   "at": "2026-10-20T06:54:37+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Ladenleitung Verkauf (m/w/d) Vollzeit 83684 Tegernsee 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2wUjtc-ladenleitung-verkauf-mwd-vollzeit_83684-tegernsee"
-  },
-  {
-   "at": "2026-10-20T06:54:53+00:00",
-   "kind": "new",
-   "site": "Herzo Werke",
-   "title": "Zertifikate",
-   "url": "https://www.herzowerke.de/de/unternehmen/jobs/aktuelle-stellenanzeigen/de/leistungen/waerme/Zertifikate"
-  },
-  {
-   "at": "2026-10-20T06:54:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Business Intelligence Specialist (m/w/d) (IT & Software) in 02979 Elsterheide IT & Software 02979 Elsterheide vor 8 Stunden",
-   "url": "https://jobs.de.dis-ag.com/business-intelligence-specialist-m-w-d"
-  },
-  {
-   "at": "2026-10-20T06:54:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Elsterheide",
-   "url": "https://jobs.de.dis-ag.com/suche/in-elsterheide"
-  },
-  {
-   "at": "2026-10-20T06:54:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Region: Brandenburg",
-   "url": "https://jobs.de.dis-ag.com/suche/in-brandenburg"
-  },
-  {
-   "at": "2026-10-20T06:54:53+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/business-intelligence-specialist-m-w-d/bewerben"
-  },
   {
    "at": "2026-10-20T07:11:43+00:00",
    "kind": "new",
@@ -3501,12 +3354,159 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-449/bewerben"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Field Service Techniker (w/m/d) für Schaltgeräte/-anlagen",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526460"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526460"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "SAP Software License Manager (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SAP-Software-License-Manager-f-m-d/298969"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Mitarbeiter (m/w/d) der mechanischen Integration",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA5MjAyNi04MjA2Mw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Elektroingenieur Inbetriebnahme (m/w/d) Landshut Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102257/Elektroingenieur%20Inbetriebnahme%20(m%2Fw%2Fd)/Landshut"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Ausbildung zum Leitungsbauer für Infrastrukturtechnik 2027 (m/w/d) Auszubildende/ Lernende Kalbe (Milde) + 4 Neu",
+   "url": "https://karriere.omexom.de/jobs/68213671/Ausbildung-zum-Leitungsbauer-f%C3%BCr-Infrastrukturtechnik-2027-m-w-d-"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Ausbildung zum Elektroniker für Betriebstechnik 2027 (m/w/d) Auszubildende/ Lernende Genthin + 1 Neu",
+   "url": "https://karriere.omexom.de/jobs/67563367/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-2027-m-w-d-"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Ausbildung zum Elektroniker für Betriebstechnik 2027 (m/w/d) Auszubildende/ Lernende Kalbe (Milde) + 4 Neu",
+   "url": "https://karriere.omexom.de/jobs/68213556/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-2027-m-w-d-"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Teamleiter Service Elektromobilität (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/d470d926-cb0e-4f17-b0ce-c6bfa4ed0ff2"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Teamleiter Elektrotechnik Ladeinfrastruktur (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/d470d926-cb0e-4f17-b0ce-c6bfa4ed0ff2/04be6d2b-8cba-49b9-9c55-af9c322c26f2"
+  },
+  {
+   "at": "2026-10-20T11:25:45+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Teamleiter Elektrotechnik Ladeinfrastruktur (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/d470d926-cb0e-4f17-b0ce-c6bfa4ed0ff2/687a8331-578d-4c89-89d4-f917211d12b3"
+  },
+  {
+   "at": "2026-10-20T11:24:59+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "PHD Thesis: Quantum Sensing for Navigation (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PHD-Thesis--Quantum-Sensing-for-Navigation--d-f-m-_JR10416564?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T11:24:59+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "IT Backup Expert (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/IT-Backup-Expert--d-f-m-_JR10446122?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T11:24:59+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Werkstudent im Bereich Elektrotechnik (Produktpflege) (m/w/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-20T11:24:35+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Associate AI Architect Defense (w/m/d) Ingolstadt, Karlsruhe, Erfurt, Muenchen, Nuernberg + 8 Architecture Unbefristet Studierende/Absolvent*innen",
+   "url": "https://www.capgemini.com/de-de/jobs/510688-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-20T11:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Ersatz­teil­ver­käufer Indus­trie (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 55.000 € Hamburg, Deutsch­land Maschinenbau Young Professionals Profession",
+   "url": "https://touch.ferchau.com/de/de/job/524890/ersatzteilverkaeufer-industrie"
+  },
+  {
+   "at": "2026-10-20T11:24:35+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur Leit- und Siche­rungs­technik/ETCS (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 80.000 € Stutt­gart, Deutsch­land Weitere Professional",
+   "url": "https://touch.ferchau.com/de/de/job/524887/projektingenieur-leit-und-sicherungstechnik-etcs"
+  },
+  {
+   "at": "2026-10-20T11:24:45+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Dualen Studierenden Bachelor of Engineering (m/w/d) Elektrotechnik ab August 2027 19.10.2026 Forschung/Entwicklung/Engineering Frankfur",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/dualen-studierenden-bachelor-of-engineering-m-w-d-elektrotechnik-ab-august-20272"
+  },
+  {
+   "at": "2026-10-20T11:24:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerreferent (m/w/d) (Recht & Steuern) in 80687 München Recht & Steuern 80687 München vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/steuerreferent-m-w-d-12"
+  },
+  {
+   "at": "2026-10-20T11:24:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: München",
+   "url": "https://jobs.de.dis-ag.com/suche/in-muenchen"
+  },
+  {
+   "at": "2026-10-20T11:24:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/steuerreferent-m-w-d-12/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T11:10:57+00:00",
+ "last_run": "2026-10-20T11:26:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
