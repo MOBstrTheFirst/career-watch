@@ -1,21 +1,7 @@
 {
- "alerts": 531,
+ "alerts": 533,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:24:45+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerreferent (m/w/d) (Recht & Steuern) in 80687 München Recht & Steuern 80687 München vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/steuerreferent-m-w-d-12"
-  },
-  {
-   "at": "2026-10-20T11:24:45+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: München",
-   "url": "https://jobs.de.dis-ag.com/suche/in-muenchen"
-  },
   {
    "at": "2026-10-20T11:24:45+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "TenneT TSO",
    "title": "Senior strategisch communicatieadviseur",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067026&jobId=119040"
+  },
+  {
+   "at": "2026-10-20T18:25:46+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Sr. EHS Specialist",
+   "url": "https://leggett.com/careers/search?posting=36595"
+  },
+  {
+   "at": "2026-10-20T18:24:43+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Field Applications Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Remote-Location/Field-Applications-Engineer_R027179?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T18:11:14+00:00",
+ "last_run": "2026-10-20T18:26:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
