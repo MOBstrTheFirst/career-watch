@@ -1,126 +1,7 @@
 {
- "alerts": 496,
+ "alerts": 505,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T10:57:17+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "ABSCHLUSSARBEIT MIT VORPRAKTIKUM IM BEREICH CAE / FEM / MKS",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19011?c=hella"
-  },
-  {
-   "at": "2026-10-20T10:57:17+00:00",
-   "kind": "new",
-   "site": "TÜV Rheinland – Nürnberg",
-   "title": "Ingenieure & Technik Senior Sachverständige*r Elektro- und Leittechnik Kerntechnik (w/m/d)",
-   "url": "https://jobs.tuv.com/de/job/Senior-Sachverstaendiger-Elektro-und-Leittechnik-Kerntechnik-w_m_d-Koeln?id=21749"
-  },
-  {
-   "at": "2026-10-20T10:57:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter Logistik (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000017y5htQAA"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Lead Principal Test Engineering (f/m/div) München HRC1844484 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972202326"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Bangalore BTP HRC1822303",
-   "url": "https://jobs.infineon.com/careers/job/563808972123713"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Team Lead Principal Test Engineer (f/m/div) Bukarest HRC1709285 Hybrid Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971617532"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Product & Test Engineering Malakka HRC1719253",
-   "url": "https://jobs.infineon.com/careers/job/563808971810707"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Engineer Test Engineering Singapur HRC1750289",
-   "url": "https://jobs.infineon.com/careers/job/563808971834490"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Product Engineering Wuxi HRC1638471 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971200518"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Test Development Malakka HRC1740330",
-   "url": "https://jobs.infineon.com/careers/job/563808971810703"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Test Engineering Bangalore HRC1657999 Hybrid Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971026669"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Test Engineering Malakka HRC1758172",
-   "url": "https://jobs.infineon.com/careers/job/563808971873396"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Test Engineering Malakka HRC1758420",
-   "url": "https://jobs.infineon.com/careers/job/563808971873397"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Engineer Test Engineering Penang (Malaysia) HRC1525167",
-   "url": "https://jobs.infineon.com/careers/job/563808969197425"
-  },
-  {
-   "at": "2026-10-20T10:55:02+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "20.10.2026 Finanzbuchhalter (m/w/d) Essen",
-   "url": "https://www.tempton.de/jobs/finanzbuchhalter-141"
-  },
-  {
-   "at": "2026-10-20T10:54:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer Nachtschicht (m/w/d) 84079 Bruckberg, Niederbayern 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2sXlAV-kommissionierer-nachtschicht-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-20T10:54:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektrische Fertigung in Tagschicht (m/w/d) 84034 Landshut, Isar 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZXuWRV-elektrische-fertigung-in-tagschicht-mwd_84034-landshut-isar"
-  },
   {
    "at": "2026-10-20T10:54:41+00:00",
    "kind": "new",
@@ -3501,12 +3382,131 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-in-teilzeit-5/bewerben"
+  },
+  {
+   "at": "2026-10-20T15:55:31+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Maschinenbauingenieur (w/m/d) im mechanischen Prüffeld für Hochspannungsprodukte",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Maschinenbauingenieur-w-m-d-im-mechanischen-Pr-ffeld-f-r-Hochspannungsprodukte/305058"
+  },
+  {
+   "at": "2026-10-20T15:55:31+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Aerospace Tig Welder 3rd Shift",
+   "url": "https://careers.geaerospace.com/global/en/job/R5037302/Aerospace-Tig-Welder-3rd-Shift"
+  },
+  {
+   "at": "2026-10-20T15:55:31+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Lead Person",
+   "url": "https://leggett.com/careers/search?posting=36589"
+  },
+  {
+   "at": "2026-10-20T15:55:03+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 CNC-Dreher (m/w/d) Horst (Holstein)",
+   "url": "https://www.tempton.de/jobs/cnc-dreher-239"
+  },
+  {
+   "at": "2026-10-20T15:54:34+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Process Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Process-Engineer-Hillsboro/24460"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mechatroniker / Elektroniker für Betriebstechnik (m/w/d) – Prüf- und Anlagentech (Produktion & Fertigung) in 23879 Mölln Produktion & Fertigung 23879 ",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-elektroniker-fuer-betriebstechnik-m-w-d-pruef-und-anlagentech"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mölln",
+   "url": "https://jobs.de.dis-ag.com/suche/in-moelln"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-elektroniker-fuer-betriebstechnik-m-w-d-pruef-und-anlagentech/bewerben"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Talent-Acquisition-Manager (m/w/d)",
+   "url": "https://isk-personal.de/jobs/talent-acquisition-manager-m-w-d-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Mechatroniker (m/w/d) Lokomotivenservice für SIEMENS",
+   "url": "https://isk-personal.de/jobs/mechatroniker-m-w-d-lokomotivenservice-fuer-siemens-muenchen"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Servicetechniker (m/w/d) im Außendienst Raum Köln in Direktvermittlung",
+   "url": "https://isk-personal.de/jobs/servicetechniker-m-w-d-im-aussendienst-raum-koeln-in-direktvermittlung-koeln-2"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Inbetriebnahmeingenieur (m/w/d) Hochspannungs-Feldleitgeräte und HGÜ",
+   "url": "https://isk-personal.de/jobs/inbetriebnahmeingenieur-m-w-d-hochspannungs-feldleitgeraete-und-hgue-forchheim-oberfranken-2"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Industriemechaniker (m/w/d) mit Reisebereitschaft Direktvermittlung",
+   "url": "https://isk-personal.de/jobs/industriemechaniker-m-w-d-mit-reisebereitschaft-direktvermittlung-gelsenkirchen-2"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Kfz-Prüfingenieur (m/w/d) zur Direktvermittlung",
+   "url": "https://isk-personal.de/jobs/kfz-pruefingenieur-m-w-d-zur-direktvermittlung-fuerth-bayern-3"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Industrieelektroniker (m/w/d) mit Reisebereitschaft Direktvermittlung",
+   "url": "https://isk-personal.de/jobs/industrieelektroniker-m-w-d-mit-reisebereitschaft-direktvermittlung-gelsenkirchen-2"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Ingenieur (m/w/d) Steuerung FACTS SVC Anlagen",
+   "url": "https://isk-personal.de/jobs/ingenieur-m-w-d-steuerung-facts-svc-anlagen-erlangen-2"
+  },
+  {
+   "at": "2026-10-20T15:55:43+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Servicetechniker (m/w/d) im Außendienst Raum Regensburg in Direktvermittlung",
+   "url": "https://isk-personal.de/jobs/servicetechniker-m-w-d-im-aussendienst-raum-regensburg-in-direktvermittlung-regensburg-2"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T15:40:47+00:00",
+ "last_run": "2026-10-20T15:55:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
