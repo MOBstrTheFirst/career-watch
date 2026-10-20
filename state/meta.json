@@ -1,147 +1,7 @@
 {
- "alerts": 391,
+ "alerts": 401,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Project Manager Malakka HRC1831021",
-   "url": "https://jobs.infineon.com/careers/job/563808972163214"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Project Manager Project Management Malakka HRC1350962",
-   "url": "https://jobs.infineon.com/careers/job/563808966968988"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "dSPACE – Ingolstadt",
-   "title": "Projektleiter (m/w/d) ADAS/AD Testsysteme und HIL-Simulation",
-   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38193&t=Projektleiter+%28m%2Fw%2Fd%29+ADAS%2FAD+Testsysteme+und+HIL-Simulation"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
-   "title": "Site Quality Inspector Schiffbau (m/w/d) - Piping & Mechanical ﻿",
-   "url": "https://www.saab.com/career/job-opportunities/site-quality-inspector-schiffbau-mwd---piping--mechanical"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Area Sales Manager - UK Trade Aftermarket",
-   "url": "https://jobs.ams-osram.com/en/job/Area-Sales-Manager-UK-Trade-Aftermarket-Leeds/24623"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Business Development Manager Data Analytics (m/w/d)",
-   "url": "https://jobs.zf.com/job/Passau-Business-Development-Manager-Data-Analytics-%28mwd%29-BY-94034/1449308633"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Labor­mit­ar­beiter Chemie/Biotech­no­logie (m/w/d) Job Vor Ort Vollzeit 50.000 - 68.000 € Frank­furt, Deutsch­land Pharma und Lifescience Weitere You",
-   "url": "https://touch.ferchau.com/de/de/job/513574/labormitarbeiter-chemie-biotechnologie"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Vorrich­tungsbau (m/w/d) Neu Job Vor Ort Vollzeit 51.000 - 61.000 € Berlin, Deutsch­land Maschinenbau Professionals Senior Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/524845/konstrukteur-vorrichtungsbau"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Kauf­män­ni­scher Sach­be­ar­beiter Zoll (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Marburg, Deutsch­land Pharma und Lifescience Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/524809/kaufmaennischer-sachbearbeiter-zoll"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Programmierer Lackierung (m/w/d)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Meerane-DE/Programmierer-Lackierung--m-w-d-_R00265574?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Management Referent im CIHBw (m/w/d) vor Ort im Cyber Innovation Hub in Berlin",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/management-referent-im-cihbw-m-w-d-70935"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 73553 Alfdorf 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1K1e2X-produktionsmitarbeiter-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektromonteur Fokus Montage (m/w/d) 41065 Mönchengladbach 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2k5q9Q-elektromonteur-fokus-montage-mwd_41065-moenchengladbach"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenführer (m/w/d) 73553 Alfdorf 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zsbgcl-anlagenfuehrer-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenführer (m/w/d) 73553 Alfdorf 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1PkoR5-anlagenfuehrer-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Betriebselektriker (m/w/d) 41844 Wegberg 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z21DPC5-betriebselektriker-mwd_41844-wegberg"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker / Schlosser (m/w/d) für Siemens 47829 Krefeld 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1O6OpL-industriemechaniker-schlosser-mwd-fuer-siemens_47829-krefeld"
-  },
-  {
-   "at": "2026-10-20T08:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Fräser Metallindustrie (m/w/d) 47829 Krefeld 20.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/15dY1e-cnc-fraeser-metallindustrie-mwd_47829-krefeld"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Auszubildender (m/w/d) zum Technischen Produktdesigner ab September 2027 20.10.2026 Sonstige Überlingen am Bodensee",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/auszubildender-m-w-d-zum-technischen-produktdesigner-ab-september-2027"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Engineering Project Manager",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-JingAn/Engineering-Project-Manager_R-10067402?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-20T08:24:57+00:00",
    "kind": "new",
@@ -3501,12 +3361,152 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-31/bewerben"
+  },
+  {
+   "at": "2026-10-20T13:06:40+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur production aéronautique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000151340886-ingenieur-production-aeronautique-h-f-"
+  },
+  {
+   "at": "2026-10-20T13:06:40+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Studentische Aushilfskraft (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/7d1f9ff5-5671-5c44-b93d-a876c40a9b31/studentische-aushilfskraft-m-w-d"
+  },
+  {
+   "at": "2026-10-20T13:06:40+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Oberarzt Innere Medizin / Gastroenterologie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/005ac3f3-32ef-501d-b845-65184bad924c/oberarzt-innere-medizin-gastroenterologie-m-w-d"
+  },
+  {
+   "at": "2026-10-20T13:05:37+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Data Analyst for Procurement (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Augsburg-Area/Data-Analyst-for-Procurement--d-f-m-_JR10430466-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:05:37+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Internship in divisional strategy AD",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-in-divisional-strategy-AD_JR10449873?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Vacuum System Engineer Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/vacuum-system-engineer-j00353209"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lead Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Lead-Engineer_R00265588?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Master Data Governor and Architect",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Timisoara-RO/Master-Data-Governor-and-Architect_R00236738?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "infra fürth",
+   "title": "Initiativbewerbung",
+   "url": "https://www.infra-fuerth.de/die-infra/karriere/jobs-stellenausschreibungen/f/initiativbewerbung"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Fahrzeugtechnik Ingenieur:in Fahrzeugprüfung (zur Qualifizierung) - Region Nord-Ostsee Standort Eckernförde, Heide, Husum + 5 weitere Standorte Arbeit",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/ingenieurin-fahrzeugpruefung-zur-qualifizierung-region-nord-ostsee-11983"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur Elektrotechnik als Sachverständiger für Gebäudetechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/job/Ingenieur-Elektrotechnik-als-Sachverst%C3%A4ndiger-f%C3%BCr-Geb%C3%A4udetechnik-%28wmd%29/675-de_DE"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur Elektrotechnik als Sachverständiger für Gebäudetechnik (w/m/d)",
+   "url": "https://jobs.tuvsud.com/job/Ingenieur-Elektrotechnik-als-Sachverst%C3%A4ndiger-f%C3%BCr-Geb%C3%A4udetechnik-%28wmd%29/673-de_DE"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 99427 Weimar, Thüringen 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1oDqtn-industriemechaniker-mwd_99427-weimar-thueringen"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Teamleiter Logistik (m/w/d) 39126 Magdeburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2i1yEz-teamleiter-logistik-mwd_39126-magdeburg"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Logistiker (m/w/d) 39126 Magdeburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/N6Kqa-logistiker-mwd_39126-magdeburg"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) 07554 Brahmenau 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z6BbJS-helfer-mwd_07554-brahmenau"
+  },
+  {
+   "at": "2026-10-20T13:05:31+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 07549 Gera 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2d2lLl-produktionsmitarbeiter-mwd_07549-gera"
+  },
+  {
+   "at": "2026-10-20T13:05:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsmitarbeiter (m/w/d) (Sales & Vertrieb) in 76316 Malsch Sales & Vertrieb 76316 Malsch Homeoffice möglich vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-59"
+  },
+  {
+   "at": "2026-10-20T13:05:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Malsch",
+   "url": "https://jobs.de.dis-ag.com/suche/in-malsch"
+  },
+  {
+   "at": "2026-10-20T13:05:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-59/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T12:55:51+00:00",
+ "last_run": "2026-10-20T13:06:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
