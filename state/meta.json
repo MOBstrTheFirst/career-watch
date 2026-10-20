@@ -1,21 +1,7 @@
 {
- "alerts": 546,
+ "alerts": 547,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur (m/w/d) Berufserfahrene Kalbe (Milde) + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/68214676/Elektromonteur-m-w-d-"
-  },
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Tiefbauer (m/w/d) Berufserfahrene Kalbe (Milde) + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/68214246/Tiefbauer-m-w-d-"
-  },
   {
    "at": "2026-10-20T11:40:02+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ams OSRAM – Regensburg",
    "title": "Packer - 2nd shift",
    "url": "https://jobs.ams-osram.com/en/job/Packer-2nd-shift-Hillsboro/24636"
+  },
+  {
+   "at": "2026-10-20T20:40:44+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Installation Engineer - Linear Accelerators - N/NE - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-28404/Installation-Engineer-Linear-Accelerators-N-NE-Field-Travel"
+  },
+  {
+   "at": "2026-10-20T20:40:44+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Installation Engineer - Linear Accelerators - N/NE - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR28404EXTERNALENGLOBAL"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T20:25:52+00:00",
+ "last_run": "2026-10-20T20:41:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
