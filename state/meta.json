@@ -1,259 +1,7 @@
 {
- "alerts": 379,
+ "alerts": 391,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T08:09:47+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Wittlich Softwareingenieur: in (w/m/d) Automatisierungstechnik Berufserfahrene Ingenieure und technische Berufe",
-   "url": "https://actemium.career.softgarden.de/jobs/29677518/Softwareingenieur-in-w-m-d-Automatisierungstechnik"
-  },
-  {
-   "at": "2026-10-20T08:09:47+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Tax Manager / Senior Tax Specialist (all gender) – Umsatzsteuer & Ertragsteuer",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507231/tax-manager-senior-tax-specialist-(all-gender)-%E2%80%93-umsatzsteuer-ertragsteuer"
-  },
-  {
-   "at": "2026-10-20T08:09:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker (m/w/d) (Produktion & Fertigung) in 25421 Pinneberg Produktion & Fertigung 25421 Pinneberg vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-46"
-  },
-  {
-   "at": "2026-10-20T08:09:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-46/bewerben"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "possible",
-   "site": "Audi AG",
-   "title": "Praktikum – Künstliche Intelligenz in der Produktionsplanung und Fertigung (w/m/d)",
-   "url": "https://careers.audi.com/"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Projektleiter (m/w/d) Tiefbau",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzQxMA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Elektrotechniker (m/w/d) Serienbetreuung",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzM3MA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Afag Automation",
-   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008624?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008624?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Afag Automation",
-   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008627?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008627?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Vorarbeiter / Teamleiter Reinigung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000147ByPQAU"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektroniker (m/w/d) Sicherheitsbeleuchtung",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013wXkgQAE"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker im Außendienst (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013dRe1QAE"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter SAP Instandhaltung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000012cQ4iQAE"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mitarbeiter (m/w/d) Lagerplatzkonsolidierung",
-   "url": "https://de.trenkwalder.com/jobs/a0taV00001275ZBQAY"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Technischer Hausmeister / Facility Manager (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000113HJQQA2"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektroplaner (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000113zfNQAQ"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Projektleiter (m/w/d) Heizung-Klima-Lüftung-Sanitär",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000010ORhhQAG"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Schlosser / Schweißer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000kEOU3QAO"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Koordinator internationale Fachkräftegewinnung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013yMGNQA2"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Vorarbeiter Stahlbau (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k1DFlQAM"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektroniker / Mechatroniker (m/w/d) im Außendienst",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011EC6fQAG"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker HKLS (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011E7wcQAC"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Sachbearbeiter Logistik (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000iZCjeQAG"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Objektleiter Technisches Gebäudemanagement (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000iYCyRQAW"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker (m/w/d) für Kältetechnik in Hamburg ab 20€/h !",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000011Am7BQAS"
-  },
-  {
-   "at": "2026-10-20T08:26:43+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kinderkrankenschwester (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000gBU5pQAG"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Project Manager Design System (f/m/div) München HRC1839053 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972196745"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Team Assistant (f/m/div) München HRC1831173",
-   "url": "https://jobs.infineon.com/careers/job/563808972179275"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Project Manager Design Bangalore BTP HRC1720431 Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971792095"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Lead Principal Engineer - Digital Design Bangalore BTP HRC1794869",
-   "url": "https://jobs.infineon.com/careers/job/563808972064497"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Project Engineer Chip Development Kulim + 1 more HRC1767647",
-   "url": "https://jobs.infineon.com/careers/job/563808971882411"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Manager / Senior Manager - Test Hardware Design and Manufacturing Singapur HRC1743513",
-   "url": "https://jobs.infineon.com/careers/job/563808971810110"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Lead Principal Engineer Design Bangalore BTP HRC1716496 Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971792094"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Project Manager OSAT Ipoh HRC1509942",
-   "url": "https://jobs.infineon.com/careers/job/563808969050021"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Project Manager Bangalore BTP HRC1732666 Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971792449"
-  },
-  {
-   "at": "2026-10-20T08:24:57+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal / Lead Principal Engineer - Analog Design Singapur HRC1581989",
-   "url": "https://jobs.infineon.com/careers/job/563808970261105"
-  },
   {
    "at": "2026-10-20T08:24:57+00:00",
    "kind": "new",
@@ -3501,12 +3249,264 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/metallbauer-m-w-d-13/bewerben"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Projektmanager Technische Gebäudeausrüstung (w/m/d) im Facility Management",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526109"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526109"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Field Service Technician (m/w/d) Hauptleittechnik im Außendienst",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Field-Service-Technician-m-w-d-Hauptleittechnik-im-Au-endienst/305018"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Werkstudent – Quality Management (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schweinfurt-Germany/Werkstudent---Quality-Management--m-w-d-_R0270661?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Umweltingenieur (m/w/d) Würzburg Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109266/Umweltingenieur%20(m%2Fw%2Fd)/W%C3%BCrzburg"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Baustellenleiter Elektrotechnik Umspannwerke (m/w/d) Pforzheim Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109265/Baustellenleiter%20Elektrotechnik%20Umspannwerke%20(m%2Fw%2Fd)/Pforzheim"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Contract- and Claim Manager (m/w/d) München Seit 20. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-106618/Contract-%20and%20Claim%20Manager%20(m%2Fw%2Fd)/M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mitarbeiter (m/w/d) Materialversorgung und Logistik",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017myjhQAA"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mitarbeiter (m/w/d) Wareneingang und Lagerlogistik",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017pe5JQAQ"
+  },
+  {
+   "at": "2026-10-20T12:55:39+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017ptaeQAA"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Specialist Package Layout (w/m/d) Regensburg + 1 more HRC1806125 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972054587"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Praktika, Werkstudententätigkeiten und Abschlussarbeiten am Standort Warstein Warstein, Deutschland 563808972253188 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972253188"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Specialist Package Technology Development Penang (Malaysia) HRC1576208",
+   "url": "https://jobs.infineon.com/careers/job/563808970160255"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer, Power Electronics System Application Engineering Pune HRC1746893",
+   "url": "https://jobs.infineon.com/careers/job/563808971982296"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer, EMC Materials and Package Definition Singapur HRC1750599",
+   "url": "https://jobs.infineon.com/careers/job/563808971835766"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Tax & Accounting Senior Specialist (f/m/div) Bukarest HRC1821730 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972114990"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff / Senior Staff Engineer Package Technology Development Singapur HRC1704009",
+   "url": "https://jobs.infineon.com/careers/job/563808971509908"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Specialist Application Engineer, Embedded Software Pune HRC1746876",
+   "url": "https://jobs.infineon.com/careers/job/563808971982005"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Specialist Material and Production Logistic Planning Batam (Indonesien) HRC1690792",
+   "url": "https://jobs.infineon.com/careers/job/563808971402575"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Module Package Technology Development/Definition Senior Staff or Principal Engineer – Based in Taiwan Shanghai HRC1849338",
+   "url": "https://jobs.infineon.com/careers/job/563808972245263"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Specialist Product Management Livonia, MI HRC1783232 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971968330"
+  },
+  {
+   "at": "2026-10-20T12:54:44+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Project Engineer II Grand Rapids, Michigan Engineering Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/project-engineer-ii-1"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lehrstelle Elektrotechnik bei Magna Powertrain (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lannach-AT/Lehrstelle-Elektrotechnik-bei-Magna-Powertrain--m-w-x-_R00265356?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lehrstelle Prozesstechnik bei Magna Powertrain (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lannach-AT/Lehrstelle-Prozesstechnik-bei-Magna-Powertrain--m-w-x-_R00265364?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lehrstelle Maschinenbautechnik bei Magna Powertrain (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lannach-AT/Lehrstelle-Maschinenbautechnik-bei-Magna-Powertrain--m-w-x-_R00265360?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Ingenieur für Inspektionen im Bereich Erneuerbare Energien (w/m/d)",
+   "url": "https://jobs.tuvsud.com/job/Ingenieur-f%C3%BCr-Inspektionen-im-Bereich-Erneuerbare-Energien-%28wmd%29/3866-de_DE"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "TÜV SÜD – Nürnberg",
+   "title": "Bauingenieur / Architekt als Sachverständiger im Hochbau (w/m/d)",
+   "url": "https://jobs.tuvsud.com/job/Bauingenieur-Architekt-als-Sachverst%C3%A4ndiger-im-Hochbau-%28wmd%29/828-de_DE"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener Lackieren (m/w/d) 92237 Sulzbach-Rosenberg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/N6zj6-maschinenbediener-lackieren-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 07551 Gera 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z14ySd0-produktionsmitarbeiter-mwd_07551-gera"
+  },
+  {
+   "at": "2026-10-20T12:54:33+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 07554 Gera 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1z8z94-produktionsmitarbeiter-mwd_07554-gera"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Frankfurt am Main Duales Studium Elektrotechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/68218861/Duales-Studium-Elektrotechnik-w-m-d-f%C3%BCr-2027"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriekaufmann (m/w/d) (Büroverwaltung) in 75013 Bretten Büroverwaltung 75013 Bretten Homeoffice möglich vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-31"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Office Manager (m/w/d) (Büroverwaltung) in 75196 Remchingen Büroverwaltung 75196 Remchingen Homeoffice möglich vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/office-manager-m-w-d-51"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Referent Vertriebsmanagement (m/w/d) (Banken & Finanzdienstleistung) in 40476 Düsseldorf Banken & Finanzdienstleistung 40476 Düsseldorf Homeoffice mög",
+   "url": "https://jobs.de.dis-ag.com/referent-vertriebsmanagement-m-w-d-1"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Lagerorganisation (m/w/d) (Logistik & Transport) in 65929 Frankfurt am Main Logistik & Transport 65929 Frankfurt am Main vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-lagerorganisation-m-w-d"
+  },
+  {
+   "at": "2026-10-20T12:54:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-31/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T12:41:04+00:00",
+ "last_run": "2026-10-20T12:55:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
