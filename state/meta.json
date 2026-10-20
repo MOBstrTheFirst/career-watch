@@ -1,5 +1,5 @@
 {
- "alerts": 35,
+ "alerts": 37,
  "commands_set": true,
  "events": [
   {
@@ -477,12 +477,26 @@
    "site": "Ericsson (Antenna Systems) – Regensburg",
    "title": "Intercompany General Accountant Mexico City,Mexico City,Mexico Finanzwesen Gepostete vor 6 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777360510"
+  },
+  {
+   "at": "2026-10-20T01:56:43+00:00",
+   "kind": "new",
+   "site": "e.solutions GmbH",
+   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Studierende/en?cHash=22bd3f5b3221e67a51551d1d18a400527aee2515168acbe1c067fa361a26149f",
+   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Studierende/en?cHash=22bd3f5b3221e67a51551d1d18a400527aee2515168acbe1c067fa361a26149f"
+  },
+  {
+   "at": "2026-10-20T01:54:54+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - HMI Technical Support Engineer - Hsinchu Hsinchu, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-hmi-technical-support-engineer-hsinchu-j00355492"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T01:41:42+00:00",
+ "last_run": "2026-10-20T01:56:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
