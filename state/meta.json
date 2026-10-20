@@ -1,14 +1,7 @@
 {
- "alerts": 556,
+ "alerts": 559,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T12:09:34+00:00",
-   "kind": "possible",
-   "site": "KPIT Technologies GmbH",
-   "title": "HIL Test Automation Engineer (m/f/d)",
-   "url": "https://www.kpit.com/job-listing/"
-  },
   {
    "at": "2026-10-20T12:09:34+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "RF System Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California--San-Jose---1730-Fox-Drive/RF-System-Engineer_R027112?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T21:34:31+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Automic Principal Support Engineer (ICB5)",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Automic--Principal-Support-Engineer--ICB5-_R027229?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T21:25:48+00:00",
+ "last_run": "2026-10-20T21:35:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 98,
+ "runs": 99,
  "tg_offset": 297408924
 }
