@@ -1,5 +1,5 @@
 {
- "alerts": 52,
+ "alerts": 55,
  "commands_set": true,
  "events": [
   {
@@ -631,12 +631,33 @@
    "site": "Magna – Veitsbronn",
    "title": "Data Annotation Intern",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Changning-Shanghai-CN/Data-Annotation-Intern_R00266679?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T02:56:43+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Global Forecast-to-Manufacture Value Stream Lead",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/Global-Forecast-to-Manufacture-Value-Stream-Lead/2272-en_US"
+  },
+  {
+   "at": "2026-10-20T02:54:47+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Technician, Facility HVAC",
+   "url": "https://jobs.ams-osram.com/en/job/Technician-Facility-HVAC-Calamba/24305"
+  },
+  {
+   "at": "2026-10-20T02:54:47+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Account Manager Automotive (w/m/d) Muenchen, Nuernberg, Karlsruhe, Stuttgart Sales & Client Management & Solution Design Unbefristet Berufser",
+   "url": "https://www.capgemini.com/de-de/jobs/558807-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T02:41:53+00:00",
+ "last_run": "2026-10-20T02:57:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 20,
+ "runs": 21,
  "tg_offset": 297408924
 }
