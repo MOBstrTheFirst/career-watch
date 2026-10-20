@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 34,
  "commands_set": true,
  "events": [
   {
@@ -435,12 +435,47 @@
    "site": "Broadcom – Regensburg",
    "title": "NPI Material Planner",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Korea-Seoul-HiBrand/NPI-Material-Planner_R027467?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T01:26:21+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "Logistics Material Flow Analyst (Night Shift)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19003?c=hella"
+  },
+  {
+   "at": "2026-10-20T01:24:27+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Líder de Laboratório",
+   "url": "https://careers.motherson.com/en/job/lider-de-laboratorio-1792435816111"
+  },
+  {
+   "at": "2026-10-20T01:24:54+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Master Thesis: Understanding quality aspects of cloud gaming and remote controlled vehicles Luleå,Norrbotten,Sweden Technology & Research Telearbeit G",
+   "url": "https://jobs.ericsson.com/careers/job/563121777284382"
+  },
+  {
+   "at": "2026-10-20T01:24:54+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "P2P Buyer",
+   "url": "https://careers.abb/global/en/job/JR00050665/P2P-Buyer"
+  },
+  {
+   "at": "2026-10-20T01:24:54+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Gestionnaire de secteur, Ventes et éducation & Beauté spécialisée / Specialty Beauty Territory Sales & Education Manager",
+   "url": "https://www.pgcareers.com/de/en/job/R000154160/Gestionnaire-de-secteur-Ventes-et-éducation-Beauté-spécialisée-Specialty-Beauty-Territory-Sales-Education-Manager"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T01:11:44+00:00",
+ "last_run": "2026-10-20T01:26:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
