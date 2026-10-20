@@ -1,203 +1,7 @@
 {
- "alerts": 253,
+ "alerts": 263,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T02:09:47+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Fachspezialist I2D Lead - Planung, Risikomanagement und S/4-HANA (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Fachspezialist-I2D-Lead-Planung%2C-Risikomanagement-und-S4-HANA-%28wmd%29-89077/1369068755"
-  },
-  {
-   "at": "2026-10-20T02:09:47+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Technischer Projektleiter (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Kiel-Technischer-Projektleiter-%28wmd%29-24114/1369111255"
-  },
-  {
-   "at": "2026-10-20T02:09:47+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Teamleiter Maritime Information Modeling (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Teamleiter-Maritime-Information-Modeling-%28wmd%29-26389/1369114055"
-  },
-  {
-   "at": "2026-10-20T02:10:08+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Erlangen",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Erlangen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Erlangen-BY-91052/1408664033"
-  },
-  {
-   "at": "2026-10-20T02:24:49+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Field Service Representative I",
-   "url": "https://careers.landisgyr.com/job/Kirkland-Field-Service-Representative-I-WA-98033/1439811733"
-  },
-  {
-   "at": "2026-10-20T02:24:49+00:00",
-   "kind": "new",
-   "site": "SKF – Schweinfurt",
-   "title": "Ausbildung - Fachkraft für Lagerlogistik (m/w/d) - 2027",
-   "url": "https://career.skf.com/job/Schweinfurt-Ausbildung-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-2027/1398114433"
-  },
-  {
-   "at": "2026-10-20T02:24:39+00:00",
-   "kind": "possible",
-   "site": "AVL Software and Functions",
-   "title": "Technischer Redakteur / Content Development Architect (m/w/d)",
-   "url": "https://jobs.avl.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-20T02:24:39+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Learning Service Coordinator Tokyo, Japan Learning and Knowledge Management",
-   "url": "https://www.asml.com/en/careers/find-your-job/learning-service-coordinator-j00350759"
-  },
-  {
-   "at": "2026-10-20T02:24:39+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Meister mit Werkstattleitung (m/w/d)",
-   "url": "https://jobs.zf.com/job/Urbach-Meister-mit-Werkstattleitung-%28mwd%29-BW-73660/1398157233"
-  },
-  {
-   "at": "2026-10-20T02:24:39+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Lagermitarbeiter (m/w/d) im Bereich Aftermarket - befristet auf 12 Monaten",
-   "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-Lagermitarbeiter-%28mwd%29-im-Bereich-Aftermarket-befristet-auf-12-Monaten-SL-66117/1253890601"
-  },
-  {
-   "at": "2026-10-20T02:25:05+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "IC Design Manager",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/IC-Design-Technical-Lead_R026272-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T02:25:05+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-intensivstation-neurochirurgie-m-w-d-kk-ni-gkp-2026-11-05"
-  },
-  {
-   "at": "2026-10-20T02:25:05+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/operationstechnischer-assistent-neurochirurgie-m-w-d-kk-nc-op-ota-2026-11-05"
-  },
-  {
-   "at": "2026-10-20T02:25:05+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-op-neurochirurgie-m-w-d-kk-nc-op-gkp-2026-11-05"
-  },
-  {
-   "at": "2026-10-20T02:41:34+00:00",
-   "kind": "new",
-   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
-   "title": "Senior Pricing Specialist",
-   "url": "https://wlgore.jobs.hr.cloud.sap/job/Senior-Pricing-Specialist/1875-en_US"
-  },
-  {
-   "at": "2026-10-20T02:39:23+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Data Annotation Intern",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Changning-Shanghai-CN/Data-Annotation-Intern_R00266679?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T02:56:43+00:00",
-   "kind": "new",
-   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
-   "title": "Global Forecast-to-Manufacture Value Stream Lead",
-   "url": "https://wlgore.jobs.hr.cloud.sap/job/Global-Forecast-to-Manufacture-Value-Stream-Lead/2272-en_US"
-  },
-  {
-   "at": "2026-10-20T02:54:47+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Technician, Facility HVAC",
-   "url": "https://jobs.ams-osram.com/en/job/Technician-Facility-HVAC-Calamba/24305"
-  },
-  {
-   "at": "2026-10-20T02:54:47+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "(Senior) Account Manager Automotive (w/m/d) Muenchen, Nuernberg, Karlsruhe, Stuttgart Sales & Client Management & Solution Design Unbefristet Berufser",
-   "url": "https://www.capgemini.com/de-de/jobs/558807-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-20T03:54:31+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Supplier Quality Engineer Singapore, Singapore Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/supplier-quality-engineer-j00344363"
-  },
-  {
-   "at": "2026-10-20T04:09:34+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Sales Engineer",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sales-engineer_251563-1703680.html"
-  },
-  {
-   "at": "2026-10-20T04:24:55+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Field Service Technician (Entry Level) - Oklahoma City / Edmond / Guthrie, OK",
-   "url": "https://www.pgcareers.com/de/en/job/R000161220/Field-Service-Technician-Entry-Level-Oklahoma-City-Edmond-Guthrie-OK"
-  },
-  {
-   "at": "2026-10-20T04:41:30+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Intern REU Consumer Intelligence (m/w/d)",
-   "url": "https://jobs.bsh-group.de/45908-intern-reu-consumer-intelligence-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-20T04:39:37+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "AI Java Developer (w/m/d) Muenchen, Nuernberg Software Engineering Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/535567-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-20T05:09:27+00:00",
-   "kind": "possible",
-   "site": "Trench Germany",
-   "title": "Lehrling Werkstofftechnik - Werkstoffprüfung (m/w/d)",
-   "url": "https://trench.csod.com/ux/ats/careersite/1/home?c=trench"
-  },
-  {
-   "at": "2026-10-20T05:09:46+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Real Estate Project Manager",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Real-Estate-Project-Manager_R-10067305?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-20T05:26:41+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Working Student (f/m/d) - Real-Time Inference on Embedded & Edge Systems",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524442"
-  },
-  {
-   "at": "2026-10-20T05:26:41+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524442"
-  },
   {
    "at": "2026-10-20T05:26:41+00:00",
    "kind": "new",
@@ -3501,12 +3305,208 @@
    "site": "toolcraft",
    "title": "Mitarbeiter Empfang und Telefonzentrale in Teilzeit (befristet) m/w/d Georgensgmünd Frei ab sofort",
    "url": "https://www.toolcraft.de/karriere/stellenanzeige/mitarbeiter-empfang-und-telefonzentrale-in-teilzeit-befristet"
+  },
+  {
+   "at": "2026-10-20T09:56:34+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker Mittelspannungs- und Transformatorentechnik (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/53dfece9-2250-42f2-b0c3-57a99b704847"
+  },
+  {
+   "at": "2026-10-20T09:56:34+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker Mittelspannungs- und Transformatorentechnik (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/53dfece9-2250-42f2-b0c3-57a99b704847/edfc223f-0927-43bf-83f7-cd74aab2c1d2"
+  },
+  {
+   "at": "2026-10-20T09:56:34+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Haustechniker (m/w/d) Elektro",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017y0NBQAY"
+  },
+  {
+   "at": "2026-10-20T09:56:34+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Disposition",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017xtqLQAQ"
+  },
+  {
+   "at": "2026-10-20T09:56:34+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker (m/w/d) – auch ohne deutsche Berufsausbildung",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017xc1XQAQ"
+  },
+  {
+   "at": "2026-10-20T09:55:21+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (m/w/d) Personal",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Nordenham/Praktikant--m-w-d--in-der-Personalabteilung-am-Standort-Nordenham_JR10386648?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T09:55:21+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "20.10.2026 Rangierer / LKW-Fahrer (m/w/d) Hanau",
+   "url": "https://www.tempton.de/jobs/rangierer-lkw-fahrer"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Senior IT Engineer Business Applications (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Senior-IT-Engineer-Business-Applications--m-w-x-_R00266902?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Industriekletterer / Servicetechniker (m/w/d) FISAT Level 1 oder Level 2",
+   "url": "https://jobportal.max-boegl.de/Industriekletterer-Servicetechniker-mwd-FISAT-Level-1-oder-de-j2240.html"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Manager",
+   "url": "https://careers.motherson.com/en/job/manager-7442"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Manager",
+   "url": "https://careers.motherson.com/en/job/manager-7380"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Quereinsteiger (m/w/d) Montage Produktion 74673 Mulfingen, Jagst 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ESMa1-quereinsteiger-mwd-montage-produktion_74673-mulfingen-jagst"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bäcker (m/w/d) 97297 Waldbüttelbrunn 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/rQIGe-baecker-mwd_97297-waldbuettelbrunn"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Vertriebsinnendienst Backoffice (m/w/d) 97892 Kreuzwertheim 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/11pCoo-sachbearbeiter-vertriebsinnendienst-backoffice-mwd_97892-kreuzwertheim"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Koch (m/w/d) 97753 Karlstadt, Main 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/IPhPH-koch-mwd_97753-karlstadt-main"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft für Lagerlogistik (m/w/d) 97080 Würzburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZeRsbs-fachkraft-fuer-lagerlogistik-mwd_97080-wuerzburg"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagehelfer (m/w/d) 97854 Steinfeld bei Lohr am Main 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/17cDoO-montagehelfer-mwd_97854-steinfeld-bei-lohr-am-main"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gärtner (m/w/d) 97209 Veitshöchheim 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/yN5J7-gaertner-mwd_97209-veitshoechheim"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 97483 Eltmann 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/HO9EU-staplerfahrer-mwd_97483-eltmann"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter (m/w/d) 97877 Wertheim am Main 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1RKDJh-montagemitarbeiter-mwd_97877-wertheim-am-main"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) 97070 Würzburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1o4vSA-elektroniker-mwd_97070-wuerzburg"
+  },
+  {
+   "at": "2026-10-20T09:54:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Hausmeister in Teilzeit (m/w/d) 97353 Wiesentheid 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24jV0x-hausmeister-in-teilzeit-mwd_97353-wiesentheid"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "ELDS Fabrication Machine Operator- 2nd shift",
+   "url": "https://careers.abb/global/en/job/JR00023178/ELDS-Fabrication-Machine-Operator-2nd-shift"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "ELDS MV SWGR Production Operator 2nd shift",
+   "url": "https://careers.abb/global/en/job/JR00026308/ELDS-MV-SWGR-Production-Operator-2nd-shift"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "ELSP Production Operator 2nd Shift",
+   "url": "https://careers.abb/global/en/job/JR00049014/ELSP-Production-Operator-2nd-Shift"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sales Manager (m/w/d) Logistik (Sales & Vertrieb) in 01723 Wilsdruff Sales & Vertrieb 01723 Wilsdruff vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sales-manager-m-w-d-logistik"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Wilsdruff",
+   "url": "https://jobs.de.dis-ag.com/suche/in-wilsdruff"
+  },
+  {
+   "at": "2026-10-20T09:54:42+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sales-manager-m-w-d-logistik/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T09:42:04+00:00",
+ "last_run": "2026-10-20T09:56:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
