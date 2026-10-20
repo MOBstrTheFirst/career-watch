@@ -1,5 +1,5 @@
 {
- "alerts": 50,
+ "alerts": 52,
  "commands_set": true,
  "events": [
   {
@@ -617,12 +617,26 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-op-neurochirurgie-m-w-d-kk-nc-op-gkp-2026-11-05"
+  },
+  {
+   "at": "2026-10-20T02:41:34+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Senior Pricing Specialist",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/Senior-Pricing-Specialist/1875-en_US"
+  },
+  {
+   "at": "2026-10-20T02:39:23+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Data Annotation Intern",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Changning-Shanghai-CN/Data-Annotation-Intern_R00266679?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T02:26:56+00:00",
+ "last_run": "2026-10-20T02:41:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408924
 }
