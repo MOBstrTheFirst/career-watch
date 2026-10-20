@@ -1,11 +1,152 @@
 {
- "alerts": 0,
+ "alerts": 6,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-10-20T22:09:35+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Alternant soudage F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/alternant-soudage-f-h-ref-2026-28112"
+  },
+  {
+   "at": "2026-10-20T22:09:35+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Infirmier en santé au travail F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/infirmier-en-sante-au-travail-f-h-ref-2026-28111"
+  },
+  {
+   "at": "2026-10-20T22:09:35+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Opérateur tourneur en milieu nucléaire F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateur-tourneur-en-milieu-nucleaire-f-h-ref-2026-28107"
+  },
+  {
+   "at": "2026-10-20T22:09:35+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Ingénieur R&D futur Responsable technique Mécanisme de Commande de Grappe (MCG) F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-rd-futur-responsable-technique-mecanisme-de-commande-de-grappe-mcg-f-h-ref-2026-25119"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Tier 1 Account CTO Toronto,Ontario,Canada Sales Gepostete vor 20 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121774641894"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Design-Engineer_R027473?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/IC-Design-Engineer_R027470-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Adviseur grondzaken regio Noord-Holland",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031674&jobId=118987"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Senior Data & Analytics Product Management Analyst",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067019&jobId=119033"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Senior Data-Driven Transformation Advisor",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067018&jobId=119032"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Omgevingsmanager Midden Nederland",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031680&jobId=118993"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Servicecoördinator",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5031676&jobId=118989"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Senior Developer",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4925445&jobId=118825"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/342545bb-4247-4750-dd65-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/5f27de6d-534d-40ea-dd66-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/39ed01d8-4788-47b7-dd67-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/fd776d92-435a-4976-460b-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/ff1147cb-2841-42fb-460c-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/403a891c-a099-419c-460d-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-20T22:09:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/61473d9f-2e02-4097-460e-08df2eb1eacc"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T21:56:01+00:00",
+ "last_run": "2026-10-20T22:10:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
