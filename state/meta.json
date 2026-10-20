@@ -654,10 +654,12 @@
    "url": "https://www.capgemini.com/de-de/jobs/558807-de_DE+sap_btp"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-10-20T02:57:01+00:00",
+ "last_missing_parts": [
+  3
+ ],
+ "last_run": "2026-10-20T03:12:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 21,
+ "runs": 22,
  "tg_offset": 297408924
 }
