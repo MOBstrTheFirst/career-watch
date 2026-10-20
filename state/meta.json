@@ -1,5 +1,5 @@
 {
- "alerts": 25,
+ "alerts": 28,
  "commands_set": true,
  "events": [
   {
@@ -421,12 +421,26 @@
    "site": "Capgemini Engineering",
    "title": "Software Engineer (w/m/d) Hamburg, Frankfurt, Nuernberg, Hannover, Erfurt + 8 Software Engineering Unbefristet Studierende/Absolvent*innen",
    "url": "https://www.capgemini.com/de-de/jobs/526437-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-20T01:09:33+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New UIR OP Manager Taichung, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/uir-op-manager-j00344198"
+  },
+  {
+   "at": "2026-10-20T01:10:04+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "NPI Material Planner",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Korea-Seoul-HiBrand/NPI-Material-Planner_R027467?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T00:53:55+00:00",
+ "last_run": "2026-10-20T01:11:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
