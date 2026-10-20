@@ -1,21 +1,7 @@
 {
- "alerts": 533,
+ "alerts": 534,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:24:45+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/steuerreferent-m-w-d-12/bewerben"
-  },
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "possible",
-   "site": "Audi AG",
-   "title": "Praktikum – Digitalisierung & AI im Customer Care (m/w/d)",
-   "url": "https://careers.audi.com/"
-  },
   {
    "at": "2026-10-20T11:40:29+00:00",
    "kind": "possible",
@@ -3501,12 +3487,26 @@
    "site": "Broadcom – Regensburg",
    "title": "Field Applications Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NC-Remote-Location/Field-Applications-Engineer_R027179?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T18:39:29+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Packer - 3rd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Packer-3rd-shift-Hillsboro/24633"
+  },
+  {
+   "at": "2026-10-20T18:39:29+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Packer - 3rd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Packer-3rd-shift-Hillsboro/24634"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T18:26:05+00:00",
+ "last_run": "2026-10-20T18:40:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
