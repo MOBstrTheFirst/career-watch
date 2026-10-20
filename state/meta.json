@@ -1,5 +1,5 @@
 {
- "alerts": 42,
+ "alerts": 50,
  "commands_set": true,
  "events": [
   {
@@ -547,12 +547,82 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Erlangen",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Erlangen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Erlangen-BY-91052/1408664033"
+  },
+  {
+   "at": "2026-10-20T02:24:49+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Field Service Representative I",
+   "url": "https://careers.landisgyr.com/job/Kirkland-Field-Service-Representative-I-WA-98033/1439811733"
+  },
+  {
+   "at": "2026-10-20T02:24:49+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Ausbildung - Fachkraft für Lagerlogistik (m/w/d) - 2027",
+   "url": "https://career.skf.com/job/Schweinfurt-Ausbildung-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-2027/1398114433"
+  },
+  {
+   "at": "2026-10-20T02:24:39+00:00",
+   "kind": "possible",
+   "site": "AVL Software and Functions",
+   "title": "Technischer Redakteur / Content Development Architect (m/w/d)",
+   "url": "https://jobs.avl.com/search/?createNewAlert=false&q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-20T02:24:39+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Learning Service Coordinator Tokyo, Japan Learning and Knowledge Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/learning-service-coordinator-j00350759"
+  },
+  {
+   "at": "2026-10-20T02:24:39+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Meister mit Werkstattleitung (m/w/d)",
+   "url": "https://jobs.zf.com/job/Urbach-Meister-mit-Werkstattleitung-%28mwd%29-BW-73660/1398157233"
+  },
+  {
+   "at": "2026-10-20T02:24:39+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Lagermitarbeiter (m/w/d) im Bereich Aftermarket - befristet auf 12 Monaten",
+   "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-Lagermitarbeiter-%28mwd%29-im-Bereich-Aftermarket-befristet-auf-12-Monaten-SL-66117/1253890601"
+  },
+  {
+   "at": "2026-10-20T02:25:05+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Manager",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/IC-Design-Technical-Lead_R026272-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T02:25:05+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-intensivstation-neurochirurgie-m-w-d-kk-ni-gkp-2026-11-05"
+  },
+  {
+   "at": "2026-10-20T02:25:05+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/operationstechnischer-assistent-neurochirurgie-m-w-d-kk-nc-op-ota-2026-11-05"
+  },
+  {
+   "at": "2026-10-20T02:25:05+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-op-neurochirurgie-m-w-d-kk-nc-op-gkp-2026-11-05"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T02:11:30+00:00",
+ "last_run": "2026-10-20T02:26:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
