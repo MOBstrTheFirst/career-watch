@@ -1,5 +1,5 @@
 {
- "alerts": 155,
+ "alerts": 162,
  "commands_set": true,
  "events": [
   {
@@ -2129,12 +2129,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/key-account-manager-m-w-d-18/bewerben"
+  },
+  {
+   "at": "2026-10-20T07:56:51+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Working Student – Applied mathematical optimization (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/68186201/Working-Student-%E2%80%93-Applied-mathematical-optimization-all-genders-?jobDbPVId=288207831&l=de"
+  },
+  {
+   "at": "2026-10-20T07:56:51+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Bayreuth",
+   "title": "Busfahrer (m/w/d)",
+   "url": "https://jobs.stadtwerke-bayreuth.de/Busfahrer-mwd-de-j113.html"
+  },
+  {
+   "at": "2026-10-20T07:56:51+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Gesundheits- und Krankenpfleger (m/w/d) Psychiatrie",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000e8NwTQAU"
+  },
+  {
+   "at": "2026-10-20T07:56:51+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Gesundheits- und Krankenpfleger (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000bOSkDQAW"
+  },
+  {
+   "at": "2026-10-20T07:54:53+00:00",
+   "kind": "new",
+   "site": "Semikron Danfoss",
+   "title": "Architect (m/f/d) Domain IoT",
+   "url": "https://jobs.danfoss.com/job/Architect-%28mfd%29-Domain-IoT/51523-en_GB"
+  },
+  {
+   "at": "2026-10-20T07:54:53+00:00",
+   "kind": "new",
+   "site": "dSPACE – Ingolstadt",
+   "title": "Embedded Software Engineer (m/w/d) Autonomous Driving",
+   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38192&t=Embedded+Software+Engineer+%28m%2Fw%2Fd%29+Autonomous+Driving"
+  },
+  {
+   "at": "2026-10-20T07:54:24+00:00",
+   "kind": "new",
+   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
+   "title": "CIS Technician Paderborn (m/f/d) ﻿",
+   "url": "https://www.saab.com/career/job-opportunities/cis-technician-paderborn-mfd"
+  },
+  {
+   "at": "2026-10-20T07:54:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Projektassistenz (m/w/d) – hybrides Home Office Modell (Büroverwaltung) in 65203 Wiesbaden Büroverwaltung 65203 Wiesbaden Homeoffice möglich vor 9 Stu",
+   "url": "https://jobs.de.dis-ag.com/projektassistenz-m-w-d-hybrides-home-office-modell"
+  },
+  {
+   "at": "2026-10-20T07:54:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Wiesbaden",
+   "url": "https://jobs.de.dis-ag.com/suche/in-wiesbaden"
+  },
+  {
+   "at": "2026-10-20T07:54:44+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/projektassistenz-m-w-d-hybrides-home-office-modell/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T07:48:16+00:00",
+ "last_run": "2026-10-20T07:57:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
