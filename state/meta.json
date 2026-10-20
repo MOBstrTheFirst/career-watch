@@ -1,63 +1,7 @@
 {
- "alerts": 280,
+ "alerts": 287,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T06:09:55+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/sps-programmierer-m-w-d-in-direktvermittlung-2/bewerben"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "SW TEST ENGINEER (FBL)",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19006?c=hella"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Data Engineer Business Intelligence (m/w/d) (befr. bis 31.08.2028)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Data-Engineer-Business-Intelligence--m-w-d---befr-bis-31082028-_ID15587-1"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Bayreuth",
-   "title": "Koordinator Arbeitsschutz (m/w/d)",
-   "url": "https://jobs.stadtwerke-bayreuth.de/Koordinator-Arbeitsschutz-mwd-de-j145.html"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinenbediener (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ToH6mQAF"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinen- und Anlagenführer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XJH0cQAH"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Lagermitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XKbmnQAD"
-  },
-  {
-   "at": "2026-10-20T06:27:21+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Monteur (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ZOCqRQAX"
-  },
   {
    "at": "2026-10-20T06:27:21+00:00",
    "kind": "new",
@@ -3501,12 +3445,68 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/drg-kodierfachkraft-m-w-d-13977"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) kaufmännischer Bereich für Locomotives (Modifications & Upgrades)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526348"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526348"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Project Manager (Electrical) - Nuclear Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000139081739-project-manager-electrical-nuclear-"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "possible",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "studentische Mitarbeitende, Praktika, Ausbildungsplätze und Traineestellen",
+   "url": "https://jobs.bureauveritas.com/de/de/search-results"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft Alterspsychiatrie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/b4147218-b264-512f-85f4-593e067563f4/pflegefachkraft-alterspsychiatrie-m-w-d"
+  },
+  {
+   "at": "2026-10-20T10:41:00+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Telefondienst",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017xreuQAA"
+  },
+  {
+   "at": "2026-10-20T10:39:58+00:00",
+   "kind": "possible",
+   "site": "Sill Optics",
+   "title": "ERP-Anwendungsbetreuer (m/w/d)",
+   "url": "https://www.silloptics.de/unternehmen/karriere/jobangebote"
+  },
+  {
+   "at": "2026-10-20T10:39:37+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verkaufskraft (m/w/d) Weihnachtssaison 20099 Hamburg 20.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z5zCak-verkaufskraft-mwd-weihnachtssaison_20099-hamburg"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T10:26:10+00:00",
+ "last_run": "2026-10-20T10:41:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
