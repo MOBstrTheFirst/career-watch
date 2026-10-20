@@ -1,14 +1,7 @@
 {
- "alerts": 544,
+ "alerts": 546,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T11:40:29+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Anästhesietechnische Assistenz (ATA) (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/0929ed0d-7e17-57fa-bba9-a2f96f1c31ab/anaesthesietechnische-assistenz-ata-m-w-d"
-  },
   {
    "at": "2026-10-20T11:40:29+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Senior Buyer",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Milton-Ontario-CA/Senior-Buyer_R00266985?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-20T20:24:37+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Packer - 2nd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Packer-2nd-shift-Hillsboro/24636"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T20:10:51+00:00",
+ "last_run": "2026-10-20T20:25:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-19",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
