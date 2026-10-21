@@ -1,5 +1,5 @@
 {
- "alerts": 46,
+ "alerts": 51,
  "commands_set": true,
  "events": [
   {
@@ -785,12 +785,390 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/0040f54b-f847-4ad8-4629-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T02:25:40+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Quality Engineer - Energy Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000131839835-quality-engineer-energy-"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Exportkontrolle/-compliance (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Projektleiter-Exportkontrolle-compliance-%28wmd%29-89077/1350684755"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Development Engineer FPGA/ASIC (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Development-Engineer-FPGAASIC-%28mwd%29-89077/1340943255"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektmanager Selfprotection Ground (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Projektmanager-Selfprotection-Ground-%28wmd%29-82024/1325906955"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Systemingenieur EuroDASS Serie (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Systemingenieur-EuroDASS-Serie-%28wmd%29-89077/1365364855"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Softwareingenieur im Bereich Bildverarbeitung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Softwareingenieur-im-Bereich-Bildverarbeitung-%28wmd%29-73447/1365398055"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Customer Project Manager Survivability (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Customer-Project-Manager-Survivability-%28wmd%29-82024/1365363355"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Engineering Digitalisation and Data Manager (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Engineering-Digitalisation-and-Data-Manager-%28wmd%29-89077/1369234655"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Entwicklungsingenieur Hochfrequenzmodule und analoge Schaltungstechnik (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Entwicklungsingenieur-Hochfrequenzmodule-und-analoge-Schaltungstechnik-%28wmd%29-89077/1369251855"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Branding & Corporate Design (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Branding-&-Corporate-Design-%28mwd%29-89077/1365397355"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Lead Expert Cyber Resilience (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Lead-Expert-Cyber-Resilience-%28mwd%29-82256/1369202355"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Software Developer for EW Ground Support (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Software-Developer-for-EW-Ground-Support-%28mwd%29-89077/1353748255"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"Informatik - Angewandte Informatik\" (w/m/d), Ulm, Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Informatik-Angewandte-Informatik-%28wmd%29%2C-Ulm%2C-Start-2027-89077/1353734655"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Praktikant IT-Netzwerk Management (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Praktikant-IT-Netzwerk-Management-%28wmd%29-82256/1326782555"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"Informatik - Angewandte Informatik\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Duales-Studium-Informatik-Angewandte-Informatik-%28wmd%29%2C-Start-2027-73447/1353710155"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Engineering Projektleiter für Airborne für Electronic Warfare Systeme (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Engineering-Projektleiter-f%C3%BCr-Airborne-f%C3%BCr-Electronic-Warfare-Systeme-%28wmd%29-89077/1353666155"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"Elektro- und Informationstechnik - Nachrichtentechnik\" (w/m/d), Ulm, Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Elektro-und-Informationstechnik-Nachrichtentechnik-%28wmd%29%2C-Ulm%2C-Start-2027-89077/1353723755"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"Wirtschaftsinformatik\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Wirtschaftsinformatik-%28wmd%29%2C-Start-2027-89077/1353740155"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Ausbildung: \"Fachinformatiker/in Systemintegration\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Fachinformatikerin-Systemintegration-%28wmd%29%2C-Start-2027-89077/1353726255"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Ausbildung: \"Kaufmann-/frau für Büromanagement\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Kaufmann-frau-f%C3%BCr-B%C3%BCromanagement-%28wmd%29%2C-Start-2027-89077/1353717855"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Professional Field Operations Drohnenabwehr (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Hamburg-Professional-Field-Operations-Drohnenabwehr-%28mwd%29-22335/1369178055"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Ausbildung: \"Mechatronik\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Ausbildung-Mechatronik-%28wmd%29%2C-Start-2027-73447/1353713555"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"IT-Security\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-IT-Security-%28wmd%29%2C-Start-2027-89077/1353737155"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Ausbildung: \"Industriemechanik\" (w/m/d), Start 2027 - Ulm",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Industriemechanik-%28wmd%29%2C-Start-2027-Ulm-89077/1353732755"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Finance Accountant Process Specialist (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Finance-Accountant-Process-Specialist-%28wmd%29-89077/1353693555"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Duales Studium: \"Wirtschaftsingenieurwesen\" (w/m/d), Start 2027",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Wirtschaftsingenieurwesen-%28wmd%29%2C-Start-2027-89077/1353741355"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Arbeits­vor­be­reiter (m/w/d) Job Vor Ort Vollzeit 36.000 - 60.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals ohne Personal",
+   "url": "https://touch.ferchau.com/de/de/job/17695/arbeitsvorbereiter"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Produkt­de­si­gner (m/w/d) Job Vor Ort Vollzeit 30.000 - 48.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/44595/technischer-produktdesigner"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Maschi­nen­technik (m/w/d) Job Vor Ort Vollzeit 36.000 - 60.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/45450/techniker-maschinentechnik"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Auto­ma­ti­sie­rungs­technik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Heil­bronn, Deutsch­land Elektrotechnik Informationstechnik Wei",
+   "url": "https://touch.ferchau.com/de/de/job/47894/techniker-automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Schweiß­fach­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals ohne Perso",
+   "url": "https://touch.ferchau.com/de/de/job/75081/schweissfachingenieur"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Hard­ware­ent­wickler (m/w/d) Job Vor Ort Vollzeit 40.000 - 70.000 € Rostock, Deutsch­land Elektrotechnik Informationstechnik Weitere Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/97538/hardwareentwickler"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Quality Assurance Specia­list (m/w/d) Pharma Job Hybrid Vollzeit 50.000 - 75.000 € Wies­baden, Deutsch­land Pharma und Lifescience Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/102752/quality-assurance-specialist-pharma"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Prozes­s­in­ge­nieur Verfah­rens­technik (m/w/d) Job Hybrid Vollzeit 48.000 - 70.000 € Hamburg, Deutsch­land Anlagenbau Elektrotechnik Young Professio",
+   "url": "https://touch.ferchau.com/de/de/job/107202/prozessingenieur-verfahrenstechnik"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Netz­werk­tech­niker (m/w/d) Job Hybrid Vollzeit 35.000 - 48.000 € Heil­bronn, Deutsch­land Informationstechnik Young Professionals Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/123137/netzwerktechniker"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker/Elek­tro­tech­niker Inbe­trieb­nahme (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Künzelsau, Deutsch­land Elektrotechnik Informations",
+   "url": "https://touch.ferchau.com/de/de/job/126611/elektroniker-elektrotechniker-inbetriebnahme"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter phar­ma­zeu­ti­sche Quali­täts­si­che­rung (m/w/d) Job Vor Ort Vollzeit 40.000 - 60.000 € Gießen, Deutsch­land Anlagenbau Weitere Young P",
+   "url": "https://touch.ferchau.com/de/de/job/129194/mitarbeiter-pharmazeutische-qualitaetssicherung"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Hard­ware­ent­wickler (m/w/d) Medical Devices Job Vor Ort Vollzeit 52.000 - 69.000 € Frei­burg im Breisgau, Deutsch­land Elektrotechnik Informationste",
+   "url": "https://touch.ferchau.com/de/de/job/133233/hardwareentwickler-medical-devices"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler (m/w/d) Java Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Profes",
+   "url": "https://touch.ferchau.com/de/de/job/133512/softwareentwickler-java"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler (m/w/d) PHP Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Profess",
+   "url": "https://touch.ferchau.com/de/de/job/137198/softwareentwickler-php"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Versuchs­in­ge­nieur Mobi­lity (m/w/d) Job Hybrid Vollzeit 55.000 - 76.000 € München, Deutsch­land Elektrotechnik Fahrzeugtechnik Informationstechnik ",
+   "url": "https://touch.ferchau.com/de/de/job/137569/versuchsingenieur-mobility"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker - Service Hotline (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Ludwigs­burg, Deutsch­land Anlagenbau Maschinenbau Weitere Young Professio",
+   "url": "https://touch.ferchau.com/de/de/job/143258/techniker-service-hotline"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "System­ad­mi­nis­trator Windows (m/w/d) Job Hybrid Vollzeit 35.000 - 50.000 € Heil­bronn, Deutsch­land Informationstechnik Young Professionals Profess",
+   "url": "https://touch.ferchau.com/de/de/job/148287/systemadministrator-windows"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler (m/w/d) C++ Indus­tri­elle Bild­ver­ar­bei­tung Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Elekt",
+   "url": "https://touch.ferchau.com/de/de/job/149832/softwareentwickler-c-industrielle-bildverarbeitung"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Netz­werk­tech­niker (m/w/d) IT Secu­rity Job Vor Ort Vollzeit 35.000 - 55.000 € Wies­baden, Deutsch­land Informationstechnik Weitere Professionals oh",
+   "url": "https://touch.ferchau.com/de/de/job/154439/netzwerktechniker-it-security"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­kon­struk­teur (m/w/d) Hard­ware­planer Job Vor Ort Vollzeit 50.000 - 80.000 € Frei­burg im Breisgau, Deutsch­land Elektrotechnik Maschinenba",
+   "url": "https://touch.ferchau.com/de/de/job/157638/elektrokonstrukteur-hardwareplaner"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bauzeichner (m/w/d) Hoch- oder Tiefbau Job Vor Ort Vollzeit 36.000 - 45.000 € Hamburg, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/158865/bauzeichner-hoch-oder-tiefbau"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Junior Soft­ware­ent­wickler (m/w/d) Embedded Systems Job Vor Ort Vollzeit 48.000 - 62.000 € Frei­burg im Breisgau, Deutsch­land Elektrotechnik Young ",
+   "url": "https://touch.ferchau.com/de/de/job/159451/junior-softwareentwickler-embedded-systems"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bauleiter Indus­trie (m/w/d) Job Vor Ort Vollzeit 55.000 - 80.000 € Hamburg, Deutsch­land Anlagenbau Elektrotechnik Weitere Professionals Senior Profe",
+   "url": "https://touch.ferchau.com/de/de/job/159739/bauleiter-industrie"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­kon­struk­teur EPLAN (m/w/d) Job Hybrid Vollzeit 52.000 - 65.000 € Heil­bronn, Deutsch­land Anlagenbau Elektrotechnik Maschinenbau Profession",
+   "url": "https://touch.ferchau.com/de/de/job/164625/elektrokonstrukteur-eplan"
+  },
+  {
+   "at": "2026-10-21T02:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­ma­nager Pharma (m/w/d) Job Vor Ort Vollzeit 55.000 - 100.000 € Marburg, Deutsch­land Weitere Professionals ohne Personalverantwortung Analyse",
+   "url": "https://touch.ferchau.com/de/de/job/165228/projektmanager-pharma"
+  },
+  {
+   "at": "2026-10-21T02:24:48+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-intensiv-hno-klinik-m-w-d-13992"
+  },
+  {
+   "at": "2026-10-21T02:24:48+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-pflegefachmann-allgemeinstation-hno-klinik-m-w-d-13993"
+  },
+  {
+   "at": "2026-10-21T02:24:48+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pharmazeutisch-kaufmaennischer-angestellter-pka-m-w-d-13997"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T02:12:29+00:00",
+ "last_run": "2026-10-21T02:25:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
