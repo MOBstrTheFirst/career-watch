@@ -1,5 +1,5 @@
 {
- "alerts": 21,
+ "alerts": 22,
  "commands_set": true,
  "events": [
   {
@@ -197,12 +197,19 @@
    "site": "ASML – Erlangen",
    "title": "New Senior Tech Support Generalist (Tesla R&D EUV & DUV) Austin, TX, US Customer Support",
    "url": "https://www.asml.com/en/careers/find-your-job/senior-tech-support-generalist-tesla-rd-euv-duv-j00355365"
+  },
+  {
+   "at": "2026-10-21T23:55:35+00:00",
+   "kind": "new",
+   "site": "Vishay Semiconductor – Selb",
+   "title": "Read more",
+   "url": "https://jobs.vishay.com/jobs/account-development-engineer"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T23:41:49+00:00",
+ "last_run": "2026-10-21T23:56:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
