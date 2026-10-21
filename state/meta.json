@@ -1,5 +1,5 @@
 {
- "alerts": 23,
+ "alerts": 27,
  "commands_set": true,
  "events": [
   {
@@ -428,12 +428,75 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/1d84783b-68c6-4bbe-4625-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T00:16:30+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Elektroniker / Sicherheitstechniker - Gebiet Frankfurt (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF298992T-elektroniker-sicherheitstechniker-gebiet-frankfurt-w-m-div"
+  },
+  {
+   "at": "2026-10-21T00:16:30+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im internationalen Vertrieb für Lenksysteme",
+   "url": "https://jobs.bosch.com/en/job/REF298522E-praktikum-im-internationalen-vertrieb-fuer-lenksysteme"
+  },
+  {
+   "at": "2026-10-21T00:16:30+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum - Fertigung internationaler Fertigungsverbund Düse",
+   "url": "https://jobs.bosch.com/en/job/REF298977K-praktikum-fertigung-internationaler-fertigungsverbund-duese"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "new",
+   "site": "Nokia – Nürnberg",
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40945?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40945?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "new",
+   "site": "Nokia – Nürnberg",
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40839?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40839?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "new",
+   "site": "Nokia – Nürnberg",
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40958?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40958?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "possible",
+   "site": "TÜV NORD EnSys",
+   "title": "Student:in (2)",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "possible",
+   "site": "TÜV NORD EnSys",
+   "title": "Civil & Mining Engineering (5)",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
+  },
+  {
+   "at": "2026-10-21T00:16:33+00:00",
+   "kind": "possible",
+   "site": "TÜV NORD EnSys",
+   "title": "Industrial Engineering (4)",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T00:08:56+00:00",
+ "last_run": "2026-10-21T00:17:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
