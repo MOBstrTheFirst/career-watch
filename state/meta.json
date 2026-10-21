@@ -1,56 +1,7 @@
 {
- "alerts": 554,
+ "alerts": 568,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Internship - Machine Learning and Data Analytics Singapur HRC1777323_1 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971910116"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "dSPACE – Ingolstadt",
-   "title": "Account Manager (m/w/d) University Program",
-   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38194&t=Account+Manager+%28m%2Fw%2Fd%29+University+Program"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "Medical Valley Digital Health Application Center (DHAC)",
-   "title": "Internationalization Healthcare Market",
-   "url": "https://www.medical-valley-emn.de/en/services/internationalization"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Projektingenieur:in S-Bahnausbau Nordbayern neu Nürnberg, Deutschland DB InfraGO AG Startdatum: ab sofort",
-   "url": "https://db.jobs/de-de/Suche/Projektingenieur-in-S-Bahnausbau-Nordbayern-14071732?jobId=641869"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "Thomann",
-   "title": "Digital Portfolio Manager (m/w/d)",
-   "url": "https://jobs.thomann.de/karriere/Digital-Portfolio-Manager-mwd-de-j517.html"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 KFZ-Mechatroniker (m/w/d) 25€/h Fürth",
-   "url": "https://www.tempton.de/jobs/kfz-mechatroniker-25-euro-pro-stunde"
-  },
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Elektriker für die Anlagenmontage (m/w/d) Jena",
-   "url": "https://www.tempton.de/jobs/elektriker-anlagenmontage"
-  },
   {
    "at": "2026-10-21T10:54:58+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-buchhaltung-m-w-d-ideal-fuer-berufseinsteiger/bewerben"
+  },
+  {
+   "at": "2026-10-21T15:42:47+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/328?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/328?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-21T15:42:47+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Experte AI/Machine Learning (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-21T15:42:09+00:00",
+   "kind": "possible",
+   "site": "Medical Valley Digital Health Application Center (DHAC)",
+   "title": "Researchers",
+   "url": "https://www.medical-valley-emn.de/en/news-and-events/stellenangebote/"
+  },
+  {
+   "at": "2026-10-21T15:42:09+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "3 new text line(s), e.g. 2026-10-21 15:39:37 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T15:42:23+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Category Purchaser",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12711K-p-6acbb6e08c7b077b0da4b2f450b2ed72/category-purchaser"
+  },
+  {
+   "at": "2026-10-21T15:42:23+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Software Engineer, Controls Systems San Diego, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-software-engineer-controls-systems-j00348392"
+  },
+  {
+   "at": "2026-10-21T15:42:23+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Team Lead - 2nd Shift",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Team-Lead---2nd-Shift_R00267082?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T15:28:15+00:00",
+ "last_run": "2026-10-21T15:43:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
