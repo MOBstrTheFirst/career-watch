@@ -1,5 +1,5 @@
 {
- "alerts": 71,
+ "alerts": 74,
  "commands_set": true,
  "events": [
   {
@@ -1429,12 +1429,33 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/7b3db9d8-0cef-442c-462d-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T04:54:31+00:00",
+   "kind": "new",
+   "site": "OTH Regensburg – Sensor Application Center & RF lab (+2 more)",
+   "title": "Bibliothekarin / Bibliothekar (m/w/d) für digitale Bibliotheksdienste und Open Access",
+   "url": "https://karriere.oth-regensburg.de/jobposting/adf158070d39b487805030b5af320e1f1883bc6e0?ref=homepage"
+  },
+  {
+   "at": "2026-10-21T04:54:31+00:00",
+   "kind": "new",
+   "site": "OTH Regensburg – Sensor Application Center & RF lab (+2 more)",
+   "title": "Bibliothekarin / Bibliothekar (m/w/d) für Forschungsdatenmanagement und Open Access",
+   "url": "https://karriere.oth-regensburg.de/jobposting/32683a136e331f7357c09f2cb88445533995097d0?ref=homepage"
+  },
+  {
+   "at": "2026-10-21T04:54:40+00:00",
+   "kind": "new",
+   "site": "S+S Regeltechnik – Nürnberg",
+   "title": "Mein Konto Einloggen",
+   "url": "https://account.spluss.de/?locale=de&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzcGx1c3MtcmVnZWx0ZWNobmlrLm15c2hvcGlmeS5jb20iLCJmbGFncyI6W10sImV4cCI6MTc5MzE2MzE4OSwibmJmIjoxNzkyNTU4Mzg5fQ.uoJqeFnKNGj6dZlJOBa6jK5vshbSFOF7_zEKAsg7NTc&consent_id=819c8f86-4050-416d-a681-9dafd71f1464&consent=a0m0p0"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T04:38:50+00:00",
+ "last_run": "2026-10-21T04:55:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
