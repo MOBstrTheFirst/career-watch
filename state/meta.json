@@ -1,35 +1,7 @@
 {
- "alerts": 718,
+ "alerts": 721,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montierer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZEAbMB-montierer-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1DAKsI-schweisser-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) Montage Maschinenbedienung Verpackung 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1JSQJF-produktionsmitarbeiter-mwd-montage-maschinenbedienung-verpackung_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 97469 Gochsheim, Unterfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1gQdlT-gabelstaplerfahrer-mwd_97469-gochsheim-unterfranken"
-  },
   {
    "at": "2026-10-21T12:26:27+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "ASML – Erlangen",
    "title": "New Office Operations Manager Washington DC, DC, US Management Support",
    "url": "https://www.asml.com/en/careers/find-your-job/office-operations-manager-j00355094"
+  },
+  {
+   "at": "2026-10-21T20:42:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/75a222a5-250e-5c80-8800-24e67bd1b109/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
+  },
+  {
+   "at": "2026-10-21T20:42:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Praktikum (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/1f70dbef-3acc-5648-9d78-10e81fa27cf7/praktikum-m-w-d"
+  },
+  {
+   "at": "2026-10-21T20:42:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "FSJ (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/ba73eb8c-8000-5131-a01a-3ccb62052800/fsj-m-w-d"
+  },
+  {
+   "at": "2026-10-21T20:42:15+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 20:39:42 UTC",
+   "url": "https://www.fuehlersysteme.de"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T20:27:48+00:00",
+ "last_run": "2026-10-21T20:42:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 90,
+ "runs": 91,
  "tg_offset": 297408924
 }
