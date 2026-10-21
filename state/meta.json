@@ -1,14 +1,7 @@
 {
- "alerts": 747,
+ "alerts": 748,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:25:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 60311 Frankfurt Rechnungswesen & Finanzen 60311 Frankfurt Homeoffice möglich vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-347"
-  },
   {
    "at": "2026-10-21T12:25:44+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Dolby Germany GmbH",
    "title": "Head of Automotive Business m/f/d",
    "url": "https://careers.dolby.com/job/Nuernberg-Head-of-Automotive-Business-mfd/1394372300"
+  },
+  {
+   "at": "2026-10-21T21:25:57+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Cloud Optimization Engineer - FinOps San Diego, CA, US IT",
+   "url": "https://www.asml.com/en/careers/find-your-job/cloud-optimization-engineer-finops-j00353399"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T21:11:18+00:00",
+ "last_run": "2026-10-21T21:29:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
