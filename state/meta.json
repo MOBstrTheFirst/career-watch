@@ -1,245 +1,7 @@
 {
- "alerts": 469,
+ "alerts": 487,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T09:25:48+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Technischer Sachbearbeiter (m/w/d) – ab 20 €/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000188cUQQAY"
-  },
-  {
-   "at": "2026-10-21T09:25:48+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Einkäufer (m/w/d) Maschinenbau",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000015s7E1QAI"
-  },
-  {
-   "at": "2026-10-21T09:25:48+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Datenerfasser (m/w/d) in Köln",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013nLHBQA2"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Werkstudententätigkeit: Prüfmittelmanagement und technische Stammdatenpflege",
-   "url": "https://jobs.bosch.com/en/job/REF297912G-werkstudententaetigkeit-pruefmittelmanagement-und-technische-stammdatenpflege"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Pflichtpraktikum im Bereich Human Resources",
-   "url": "https://jobs.bosch.com/en/job/REF176053W-pflichtpraktikum-im-bereich-human-resources"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Master Thesis Battery Aging Optimization for Vehicle-to-X Applications",
-   "url": "https://jobs.bosch.com/en/job/REF299035T-master-thesis-battery-aging-optimization-for-vehicle-to-x-applications"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im Bereich Digital Engineering im Sondermaschinenbau",
-   "url": "https://jobs.bosch.com/en/job/REF299038W-praktikum-im-bereich-digital-engineering-im-sondermaschinenbau"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum Konstruktion und technische Projektleitung im Sondermaschinenbau",
-   "url": "https://jobs.bosch.com/en/job/REF299034H-praktikum-konstruktion-und-technische-projektleitung-im-sondermaschinenbau"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im Bereich Supply Chain Planning",
-   "url": "https://jobs.bosch.com/en/job/REF299031D-praktikum-im-bereich-supply-chain-planning"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Bruker – Erlangen",
-   "title": "Title General Ledger Specialist with German (m/f/d)",
-   "url": "https://internationalcareers-bruker.icims.com/jobs/20106/general-ledger-specialist-with-german-%28m-f-d%29/job?hub=12"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "Brunel – Nürnberg",
-   "title": "IT-Servicetechniker (w/m/d) Deutschland, Kassel Berufsausbildung Nicht zutreffend Betreuung von Anwendern im Second-Level-Support bei technischen Frag",
-   "url": "https://www.brunel.net/de-de/jobs/it-servicetechniker-wmd-tr-285120"
-  },
-  {
-   "at": "2026-10-21T09:25:10+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Fachkraft - Lagerlogistik (m/w/d) Dresden",
-   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-512"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Head of IT Digital Employee Experience Veldhoven, Netherlands IT",
-   "url": "https://www.asml.com/en/careers/find-your-job/head-of-it-digital-employee-experience-j00337821"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Arbeits­vor­be­rei­tung (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Berlin, Deutsch­land Anlagenbau Maschinenbau Young Professionals Profession",
-   "url": "https://touch.ferchau.com/de/de/job/525049/arbeitsvorbereitung"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "CAM-Program­mierer (m/w/d) Neu Job Vor Ort Vollzeit 42.000 - 55.000 € Jena, Deutsch­land Weitere Professionals ohne Personalverantwortung Arbeits­weis",
-   "url": "https://touch.ferchau.com/de/de/job/525046/cam-programmierer"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker/Inge­nieur Tuner Produc­tion (m/w/d) Neu Job Vor Ort Vollzeit 70.000 - 80.000 € Nürn­berg, Deutsch­land Elektrotechnik Professionals Senior",
-   "url": "https://touch.ferchau.com/de/de/job/525043/techniker-ingenieur-tuner-production"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Team­leiter (m/w/d) Vertriebs­in­nen­dienst Neu Job Hybrid Vollzeit 65.000 - 80.000 € Ulm, Deutsch­land Vertrieb Professionals Senior Professionals mi",
-   "url": "https://touch.ferchau.com/de/de/job/525040/teamleiter-vertriebsinnendienst"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektromonteur Siemens AG (m/w/d) 09116 Chemnitz, Sachsen 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/KHRxp-elektromonteur-siemens-ag-mwd_09116-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lackierer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1CtLG7-lackierer-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T09:24:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kraftfahrer (m/w/d) Schwerlastverkehr 28309 Bremen 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1VjwmJ-kraftfahrer-mwd-schwerlastverkehr_28309-bremen"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "Schmitt + Sohn Aufzüge",
-   "title": "Technischer Trainer (m/w/d) Schwerpunkt Mechanik in Nürnberg",
-   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/technischer-trainer-mwd-schwerpunkt-mechanik-in-nuernberg-1533"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "Schmitt + Sohn Aufzüge",
-   "title": "Technischer Trainer (m/w/d) Schwerpunkt Elektrik in Nürnberg",
-   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/technischer-trainer-mwd-schwerpunkt-elektrik-in-nuernberg-1534"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebsmitarbeiter (m/w/d) (Logistik & Transport) in 56727 Mayen Logistik & Transport 56727 Mayen vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-60"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Controller (m/w/d) – HGB-Reporting & Forecasting (Rechnungswesen & Finanzen) in 40476 Düsseldorf Rechnungswesen & Finanzen 40476 Düsseldorf Homeoffice",
-   "url": "https://jobs.de.dis-ag.com/controller-m-w-d-hgb-reporting-und-forecasting"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Teamassistenz (m/w/d) (Büroverwaltung) in 76448 Durmersheim Büroverwaltung 76448 Durmersheim Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-133"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Mayen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-mayen"
-  },
-  {
-   "at": "2026-10-21T09:25:26+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-60/bewerben"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "new",
-   "site": "Main-Donau Netzgesellschaft / N-ERGIE",
-   "title": "Systemadministrator Kommunikationssysteme (m/w/d)",
-   "url": "https://karriere.n-ergie.de/jobs/systemadministrator-kommunikationssysteme-m-w-d/494fd961-8e06-42e7-b3bc-8eb6c5c8b82a"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "text",
-   "site": "Vierling Production",
-   "title": "14 new text line(s), e.g. Attention Required! | Cloudflare",
-   "url": "https://vierling-production.workwise.io/en/jobsuche"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "new",
-   "site": "TÜV Rheinland – Nürnberg",
-   "title": "Ingenieure & Technik Mitarbeiter*in Sales Support / Vertriebsunterstützung (w/m/d)",
-   "url": "https://jobs.tuv.com/de/job/Mitarbeiterin-Sales-Support-_-Vertriebsunterstuetzung-w_m_d-Aachen?id=21233"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Senior Director (m/f/d) - Digital & AI Manufacturing, Supply Chain & Quality Transformation",
-   "url": "https://karriere.fresenius.de/job-detail/6aa15611-9da4-5a55-be9b-172b37840f18/senior-director-m-f-d-digital-ai-manufacturing-supply-chain-quality-transformation"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Vertriebsmitarbeiter im Innendienst - Inside Sales (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/83d67361-dbca-4541-aa3a-4193ea294a4a"
-  },
-  {
-   "at": "2026-10-21T09:39:20+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Werkzeugprüfer / Lagermitarbeiter (m/w/d) ab 17,54 €/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000188vs1QAA"
-  },
-  {
-   "at": "2026-10-21T09:38:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Betriebselektriker (m/w/d) Frankfurt am Main",
-   "url": "https://www.tempton.de/jobs/betriebselektriker-22"
-  },
   {
    "at": "2026-10-21T09:38:07+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "Schabmüller Automobiltechnik – Berching",
    "title": "IT Standortkoordinator (m*w*d) Berching | Vollzeit | 21.10.2026 Details",
    "url": "https://schabmueller.onlyfy.jobs/de/job/bkpwjrr0rwr2o94qudih27vjlanx1k4"
+  },
+  {
+   "at": "2026-10-21T14:42:56+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "IT System Engineer (w/m/d) für Energie- und Leittechnik",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/IT-System-Engineer-w-m-d-f-r-Energie-und-Leittechnik/304545"
+  },
+  {
+   "at": "2026-10-21T14:42:56+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Senior Digital CG Image Artist (f/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-21T14:42:56+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Qualifizierungsberatung Weiterbildung (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-21T14:42:56+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Supply Chain International - xKD-Projekte (m/w/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-21T14:42:51+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "11 new text line(s), e.g. fuehlersysteme.de | 522: Connection timed out",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Manager (Gen) AI & Data Strategy (w/m/d) Berlin, Frankfurt am Main, Hamburg, Köln, München + 1 Architecture, Data & AI, Products & Systems En",
+   "url": "https://www.capgemini.com/de-de/jobs/5012341101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Manager /Director Justiz (w/m/d) Berlin, Frankfurt, Hamburg, Köln, München + 1 Strategy & Transformation Vollzeit Professionals",
+   "url": "https://www.capgemini.com/de-de/jobs/4794339101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Manager (Gen) AI & Data Scientist | AI Garage (w/m/d) Berlin, Frankfurt am Main, Hamburg, Köln, München + 1 Creative & Design, Data & AI, Pro",
+   "url": "https://www.capgemini.com/de-de/jobs/5012345101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Director Public Sector - EU Institutionen (w/m/d) Berlin, Frankfurt am Main, Hamburg, Köln, München + 1 Strategy & Transformation Vollzeit Pr",
+   "url": "https://www.capgemini.com/de-de/jobs/4703872101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Director Public Sector, Health & GKV (w/m/d) Berlin, Frankfurt, Hamburg, Köln, München + 1 Strategy & Transformation Vollzeit Professionals",
+   "url": "https://www.capgemini.com/de-de/jobs/4794366101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Consultant (Gen) AI & Data Scientist | AI Garage (w/m/d) Berlin, Frankfurt am Main, Hamburg, Köln, München + 1 Creative & Design, Data & AI, Pr",
+   "url": "https://www.capgemini.com/de-de/jobs/4100638101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Consultant (Gen) AI & Data Strategy (w/m/d) Berlin, Frankfurt am Main, Hamburg, Köln, München + 1 Architecture, Data & AI, Products & Systems E",
+   "url": "https://www.capgemini.com/de-de/jobs/4100659101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Manufacturing Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Shepherdsville-Kentucky-US/Manufacturing-Engineer_R00267072?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Maintenance Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/New-Hudson-Michigan-US/Maintenance-Supervisor_R00243657?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerverwalter (m/w/d) 73527 Schwäbisch Gmünd 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1UUlrf-lagerverwalter-mwd_73527-schwaebisch-gmuend"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 73447 Oberkochen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1W3lnJ-lagermitarbeiter-mwd_73447-oberkochen"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Feinpolierer (m/w/d) 73447 Oberkochen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z5IwyD-feinpolierer-mwd_73447-oberkochen"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft Lagerlogistik (m/w/d) 92224 Amberg, Oberpfalz 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Kee8J-fachkraft-lagerlogistik-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) Folienproduktion 92237 Sulzbach-Rosenberg 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10Jmrw-maschinenbediener-mwd-folienproduktion_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer - 20,62 €/h brutto (m/w/d) 92237 Sulzbach-Rosenberg 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2ijjb7-produktionshelfer-2062-euroh-brutto-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Replizieren (m/w/d) 92237 Sulzbach-Rosenberg 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/9a97W-mitarbeiter-replizieren-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Maschinenbediener (m/w/d) 92237 Sulzbach-Rosenberg 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/UI8Jo-cnc-maschinenbediener-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenführer (m/w/d) 92318 Neumarkt in der Oberpfalz 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1vKjyF-anlagenfuehrer-mwd_92318-neumarkt-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Fahrzeugabwicklung (m/w/d) 92367 Pilsach 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/nD3HB-mitarbeiter-fahrzeugabwicklung-mwd_92367-pilsach"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 91275 Auerbach in der Oberpfalz 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z23PoA4-maschinenbediener-mwd_91275-auerbach-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer Foliendruck (m/w/d) 91244 Reichenschwand 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ILMtB-produktionshelfer-foliendruck-mwd_91244-reichenschwand"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "SMD-Bediener (m/w/d) für Siemens AG 92224 Amberg, Oberpfalz 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2gQRwo-smd-bediener-mwd-fuer-siemens-ag_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerverwalter (m/w/d) 73527 Schwäbisch Gmünd 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1rGnAE-lagerverwalter-mwd_73527-schwaebisch-gmuend"
+  },
+  {
+   "at": "2026-10-21T14:42:15+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 06577 Heldrungen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2w3kAK-produktionshelfer-mwd_06577-heldrungen"
+  },
+  {
+   "at": "2026-10-21T14:42:21+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 37073 Göttingen Rechnungswesen & Finanzen 37073 Göttingen vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-350"
+  },
+  {
+   "at": "2026-10-21T14:42:21+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 75031 Eppingen Einkauf & Supply Chain 75031 Eppingen Homeoffice möglich vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-149"
+  },
+  {
+   "at": "2026-10-21T14:42:21+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 34117 Kassel Rechnungswesen & Finanzen 34117 Kassel Homeoffice möglich vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-349"
+  },
+  {
+   "at": "2026-10-21T14:42:21+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Göttingen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-goettingen"
+  },
+  {
+   "at": "2026-10-21T14:42:21+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-350/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T14:27:18+00:00",
+ "last_run": "2026-10-21T14:43:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
