@@ -1,21 +1,7 @@
 {
- "alerts": 635,
+ "alerts": 639,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T11:40:42+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "192561 Werkstudent Fuhrparkmanagement BMW M Brand Experience (w/m/x) Veröffentlicht: 21.10.2026 Events München Neu Events München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192561.html"
-  },
-  {
-   "at": "2026-10-21T11:40:42+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Marketing & Commercial Activation Manager (m/w/d) (Digital) in 65760 Eschborn Digital 65760 Eschborn Homeoffice möglich vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/marketing-und-commercial-activation-manager-m-w-d"
-  },
   {
    "at": "2026-10-21T11:40:42+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "FuehlerSysteme eNET International",
    "title": "2 new text line(s), e.g. 2026-10-21 17:39:38 UTC",
    "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T17:58:00+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "1st Shift Team Assembler",
+   "url": "https://leggett.com/careers/search?posting=36599"
+  },
+  {
+   "at": "2026-10-21T17:57:39+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 17:54:46 UTC",
+   "url": "https://www.fuehlersysteme.de"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T17:43:12+00:00",
+ "last_run": "2026-10-21T17:58:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
