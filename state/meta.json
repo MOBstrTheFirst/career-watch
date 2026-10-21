@@ -1,217 +1,7 @@
 {
- "alerts": 487,
+ "alerts": 500,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T09:38:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Windows Systemadministrator (m/w/d) Hannover",
-   "url": "https://www.tempton.de/jobs/windows-systemadministrator-4"
-  },
-  {
-   "at": "2026-10-21T09:38:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Lagermitarbeiter (m/w/d) ab 15,33€/h Vollzeit Aurach",
-   "url": "https://www.tempton.de/jobs/lagermitarbeiter-15-33-euro-pro-stunde-vollzeit"
-  },
-  {
-   "at": "2026-10-21T09:38:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Betriebselektroniker (m/w/d) Frankfurt am Main",
-   "url": "https://www.tempton.de/jobs/betriebselektroniker-5"
-  },
-  {
-   "at": "2026-10-21T09:38:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Staplerfahrer (m/w/d) Vollzeit ab 16,08€/h Aurach",
-   "url": "https://www.tempton.de/jobs/staplerfahrer-vollzeit-16-08-euro-pro-stunde"
-  },
-  {
-   "at": "2026-10-21T09:38:16+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Internship - Ontology (m/f/d)",
-   "url": "https://jobs.ams-osram.com/en/job/Internship-Ontology-m_f_d-Premstaetten/24542"
-  },
-  {
-   "at": "2026-10-21T09:38:16+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Fahrzeugtechnik Fahrzeugbewerter:in / Schadengutachter:in (Lübeck) Standort Lübeck Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜ",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-schadengutachterin-luebeck--11511"
-  },
-  {
-   "at": "2026-10-21T09:38:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Maschinenbediener (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QqWT1-cnc-maschinenbediener-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T09:38:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhalter (m/w/d) 84094 Elsendorf in der Hallertau 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2sg6Of-instandhalter-mwd_84094-elsendorf-in-der-hallertau"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198919 Werkstudent Versuch Antriebsentwicklung BMW M (w/m/x) Veröffentlicht: 21.10.2026 Antrieb München Neu Antrieb München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198919.html"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198916 Praktikant Antriebsentwicklung und Antriebsabsicherung (w/m/x) Veröffentlicht: 21.10.2026 Antrieb München Neu Antrieb München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198916.html"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "190822 Praktikant Produktmanagement Vertriebsregion (w/m/x) Veröffentlicht: 21.10.2026 Produktmanagement München Neu Produktmanagement München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.190822.html"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "182267 Principal Engineer for Automotive Camera Signal Processing (f/m/x) Veröffentlicht: 21.10.2026 Softwareentwicklung Automotive Ulm Neu Softwareen",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.182267.html"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "Mitsubishi – Erlangen",
-   "title": "Mitarbeiter Service und Sales Koordination (m/w/d)",
-   "url": "https://mitsubishielectric-jobs.de/jobs/Mitarbeiter-Service-und-Sales-Koordination-mwd-de-j3379.html"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Industriemechaniker Baugruppenmontage (m/w/d) (Produktion & Fertigung) in 79336 Herbolzheim Produktion & Fertigung 79336 Herbolzheim vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/industriemechaniker-baugruppenmontage-m-w-d-3"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Herbolzheim",
-   "url": "https://jobs.de.dis-ag.com/suche/in-herbolzheim"
-  },
-  {
-   "at": "2026-10-21T09:39:03+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/industriemechaniker-baugruppenmontage-m-w-d-3/bewerben"
-  },
-  {
-   "at": "2026-10-21T09:55:29+00:00",
-   "kind": "text",
-   "site": "Vierling Production",
-   "title": "1 new text line(s), e.g. 20.127.214.167",
-   "url": "https://vierling-production.workwise.io/en/jobsuche"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "#DIGITALCAMPUS Scrum Master (d/f/m)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--DIGITALCAMPUS-Scrum-Master--d-f-m-_JR10427548-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "#DIGITALCAMPUS Data / Business Analysts (d/f/m)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--DIGITALCAMPUS-Data---Business-Analysts--d-f-m-_JR10429620-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "#DIGITALCAMPUS Data / Business Analysts (d/f/m)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--DIGITALCAMPUS-Data---Business-Analysts--d-f-m-_JR10429621-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "Vishay Semiconductor – Selb",
-   "title": "Read more",
-   "url": "https://jobs.vishay.com/jobs/acheteur-h-f"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Sachbearbeiter - Einkauf (m/w/d) Jena",
-   "url": "https://www.tempton.de/jobs/sachbearbeiter-einkauf-51"
-  },
-  {
-   "at": "2026-10-21T09:54:55+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Mitarbeiter Forderungsmanagement (m/w/d) Essen",
-   "url": "https://www.tempton.de/jobs/mitarbeiter-forderungsmanagement-1"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Darbo metodų inžinierius (-ė)",
-   "url": "https://careers.motherson.com/en/job/darbo-metod-ininierius-vcbyuzmbrua3rviqu9nmjw"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ksmse-schweisser-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) in Uffenheim 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/26XI3W-gabelstaplerfahrer-mwd-in-uffenheim_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2aXcXf-lagermitarbeiter-mwd_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) in Uffenheim 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Soges-staplerfahrer-mwd-in-uffenheim_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZR1lrI-staplerfahrer-mwd_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter m/w/d 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1LfMR3-lagermitarbeiter-mwd_97215-uffenheim"
-  },
   {
    "at": "2026-10-21T09:55:23+00:00",
    "kind": "new",
@@ -3501,12 +3291,222 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-350/bewerben"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Technischer Zeichner EMSR (m/w/d) Krefeld Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-106641/Technischer%20Zeichner%20EMSR%20(m%2Fw%2Fd)/Krefeld"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Elektrokonstrukteur (m/w/d) Krefeld Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-106642/Elektrokonstrukteur%20(m%2Fw%2Fd)/Krefeld"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektingenieur EMSR (m/w/d) Krefeld Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105309/Projektingenieur%20EMSR%20(m%2Fw%2Fd)/Krefeld"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Electrical Engineer (m/w/d) Krefeld Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105310/Electrical%20Engineer%20(m%2Fw%2Fd)/Krefeld"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102195/Bauleiter%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Servicetechniker Sicherheitstechnik (m/w/d) Essen Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-104211/Servicetechniker%20Sicherheitstechnik%20(m%2Fw%2Fd)/Essen"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Inbetriebnahme-Ingenieur (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102197/Inbetriebnahme-Ingenieur%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Energieversorgungsanlagen (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-100525/Projektleiter%20Energieversorgungsanlagen%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Energietechnik (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-100526/Projektleiter%20Energietechnik%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Mittelspannung (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-100527/Projektleiter%20Mittelspannung%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "SPS Programmierer (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-102199/SPS%20Programmierer%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T14:57:56+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Weld Engineer",
+   "url": "https://leggett.com/careers/search?posting=36597"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Ground Segment Systems Engineer (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Ground-Segment-Systems-Engineer--d-f-m-_JR10407783?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "text",
+   "site": "Rundfunk-Betriebstechnik (RBT)",
+   "title": "2 new text line(s), e.g. . Alle Rechte vorbehalten. Theme:",
+   "url": "https://www.rbt-nbg.de/aktuell/stellenangebote/"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "3 new text line(s), e.g. 2026-10-21 14:54:37 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Produktionsmitarbeiter (m/w/d) Schrobenhausen",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-908"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Gabelstaplerfahrer (m/w/d) Schweitenkirchen",
+   "url": "https://www.tempton.de/jobs/gabelstaplerfahrer-818"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Disponent - Lager (m/w/d) Ingolstadt",
+   "url": "https://www.tempton.de/jobs/disponent-lager-9"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Mechatroniker (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/mechatroniker-344"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Disponent - Güterverkehr (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/disponent-gueterverkehr-8"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Industriekaufmann (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/industriekaufmann-75"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Baugeräteführer (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/baugeraetefuehrer-20"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Finanzbuchhalter (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/finanzbuchhalter-142"
+  },
+  {
+   "at": "2026-10-21T14:57:16+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Controller (m/w/d) Münchsmünster",
+   "url": "https://www.tempton.de/jobs/controller-31"
+  },
+  {
+   "at": "2026-10-21T14:56:58+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Werkstudent Key Account Management (w/m/d) Berlin, Stuttgart, Koeln, Muenchen Administration Support Studentische Tätigkeiten/Praktikum Studierende/Ab",
+   "url": "https://www.capgemini.com/de-de/jobs/427847-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-21T14:56:58+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "SAP S/4HANA Program Manager (w/m/d) Koeln, Hamburg, Frankfurt, Nuernberg, Hannover + 6 Delivery Excellence Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/517079-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-21T14:56:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "FH-Pflichtpraktikant im Bereich Produktdefinition & Benchmark (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Produktdefinition---Benchmark--m-w-x-_R00267032?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T14:56:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verkaufskraft (m/w/d) Weihnachtssaison 82319 Seewiesen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2a7jtf-verkaufskraft-mwd-weihnachtssaison_82319-seewiesen"
+  },
+  {
+   "at": "2026-10-21T14:56:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) Allershausen 21,97€ 85391 Allershausen, Oberbayern 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1UfVyy-staplerfahrer-mwd-allershausen-2197euro_85391-allershausen-oberbayern"
+  },
+  {
+   "at": "2026-10-21T14:57:30+00:00",
+   "kind": "text",
+   "site": "Jaeger Medical – Höchberg",
+   "title": "45 new text line(s), e.g. Ausbildung zur Fachkraft für Lagerlogistik (m/w/d) | Germany",
+   "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T14:43:12+00:00",
+ "last_run": "2026-10-21T14:58:10+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
