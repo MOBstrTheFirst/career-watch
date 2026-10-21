@@ -1,14 +1,7 @@
 {
- "alerts": 744,
+ "alerts": 747,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:25:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Werkstattleiter Kfz / Nfz (m/w/d) (Logistik & Transport) in 79211 Denzlingen Logistik & Transport 79211 Denzlingen vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/werkstattleiter-kfz-nfz-m-w-d"
-  },
   {
    "at": "2026-10-21T12:25:44+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "ASML – Erlangen",
    "title": "New Senior Laser & Optics Design Engineer San Diego, US Research and Technology Development",
    "url": "https://www.asml.com/en/careers/find-your-job/senior-laser-optics-design-engineer-j00354418"
+  },
+  {
+   "at": "2026-10-21T21:11:02+00:00",
+   "kind": "new",
+   "site": "Dolby Germany GmbH",
+   "title": "Head of Automotive Business m/f/d",
+   "url": "https://careers.dolby.com/job/Nuernberg-Head-of-Automotive-Business-mfd/1394372300"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T20:56:29+00:00",
+ "last_run": "2026-10-21T21:11:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
