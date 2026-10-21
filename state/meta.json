@@ -1,5 +1,5 @@
 {
- "alerts": 79,
+ "alerts": 83,
  "commands_set": true,
  "events": [
   {
@@ -1471,12 +1471,33 @@
    "site": "DEPRAG Schulz",
    "title": "Konstrukteur* Zuführtechnik für Automation",
    "url": "https://www.deprag.com/de/unternehmen/jobs-karriere/stellenangebote/konstrukteur-zufuehrtechnik-fuer-automation.html"
+  },
+  {
+   "at": "2026-10-21T05:41:12+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Ausbildung als Medizinische Fachangestellte (m/w/d) für die Dialyse",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schwandorf-Germany/Ausbildung-als-Medizinische-Fachangestellte--m-w-d--fr-die-Dialyse_R0257968?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T05:39:54+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Elektroniker für Wareneingangskontrolle (m/w/d) Chemnitz",
+   "url": "https://www.tempton.de/jobs/elektroniker-wareneingangskontrolle"
+  },
+  {
+   "at": "2026-10-21T05:40:09+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "ADAS-Customer Quality Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Yokohama-Kanagawa-JP/ADAS-Customer-Quality-Engineer_R00266882?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T05:26:08+00:00",
+ "last_run": "2026-10-21T05:41:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
