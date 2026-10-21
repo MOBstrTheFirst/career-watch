@@ -1,14 +1,7 @@
 {
- "alerts": 631,
+ "alerts": 635,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T11:40:42+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197707 Praktikant Business Intelligence und Datenanalyse (w/m/x) Veröffentlicht: 21.10.2026 Aftersales Vertrieb München Neu Aftersales Vertrieb Münche",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197707.html"
-  },
   {
    "at": "2026-10-21T11:40:42+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Senior Federal Account Manager",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-MD-Remote-Location/Senior-Federal-Account-Manager_R027223?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:42:45+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 17:39:38 UTC",
+   "url": "https://www.fuehlersysteme.de"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T17:28:08+00:00",
+ "last_run": "2026-10-21T17:43:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
