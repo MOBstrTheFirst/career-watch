@@ -1,259 +1,7 @@
 {
- "alerts": 255,
+ "alerts": 263,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektmanager Selfprotection Ground (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Projektmanager-Selfprotection-Ground-%28wmd%29-82024/1325906955"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Systemingenieur EuroDASS Serie (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Systemingenieur-EuroDASS-Serie-%28wmd%29-89077/1365364855"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Softwareingenieur im Bereich Bildverarbeitung (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Softwareingenieur-im-Bereich-Bildverarbeitung-%28wmd%29-73447/1365398055"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Customer Project Manager Survivability (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Customer-Project-Manager-Survivability-%28wmd%29-82024/1365363355"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Engineering Digitalisation and Data Manager (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Engineering-Digitalisation-and-Data-Manager-%28wmd%29-89077/1369234655"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Entwicklungsingenieur Hochfrequenzmodule und analoge Schaltungstechnik (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Entwicklungsingenieur-Hochfrequenzmodule-und-analoge-Schaltungstechnik-%28wmd%29-89077/1369251855"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Branding & Corporate Design (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Branding-&-Corporate-Design-%28mwd%29-89077/1365397355"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Lead Expert Cyber Resilience (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Lead-Expert-Cyber-Resilience-%28mwd%29-82256/1369202355"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Software Developer for EW Ground Support (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Software-Developer-for-EW-Ground-Support-%28mwd%29-89077/1353748255"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Informatik - Angewandte Informatik\" (w/m/d), Ulm, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Informatik-Angewandte-Informatik-%28wmd%29%2C-Ulm%2C-Start-2027-89077/1353734655"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Praktikant IT-Netzwerk Management (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Praktikant-IT-Netzwerk-Management-%28wmd%29-82256/1326782555"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Informatik - Angewandte Informatik\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Duales-Studium-Informatik-Angewandte-Informatik-%28wmd%29%2C-Start-2027-73447/1353710155"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Engineering Projektleiter für Airborne für Electronic Warfare Systeme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-Engineering-Projektleiter-f%C3%BCr-Airborne-f%C3%BCr-Electronic-Warfare-Systeme-%28wmd%29-89077/1353666155"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Elektro- und Informationstechnik - Nachrichtentechnik\" (w/m/d), Ulm, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Elektro-und-Informationstechnik-Nachrichtentechnik-%28wmd%29%2C-Ulm%2C-Start-2027-89077/1353723755"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Wirtschaftsinformatik\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Wirtschaftsinformatik-%28wmd%29%2C-Start-2027-89077/1353740155"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: \"Fachinformatiker/in Systemintegration\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Fachinformatikerin-Systemintegration-%28wmd%29%2C-Start-2027-89077/1353726255"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: \"Kaufmann-/frau für Büromanagement\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Kaufmann-frau-f%C3%BCr-B%C3%BCromanagement-%28wmd%29%2C-Start-2027-89077/1353717855"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Professional Field Operations Drohnenabwehr (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Hamburg-Professional-Field-Operations-Drohnenabwehr-%28mwd%29-22335/1369178055"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: \"Mechatronik\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Ausbildung-Mechatronik-%28wmd%29%2C-Start-2027-73447/1353713555"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"IT-Security\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-IT-Security-%28wmd%29%2C-Start-2027-89077/1353737155"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: \"Industriemechanik\" (w/m/d), Start 2027 - Ulm",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Industriemechanik-%28wmd%29%2C-Start-2027-Ulm-89077/1353732755"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Finance Accountant Process Specialist (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Finance-Accountant-Process-Specialist-%28wmd%29-89077/1353693555"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Wirtschaftsingenieurwesen\" (w/m/d), Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Wirtschaftsingenieurwesen-%28wmd%29%2C-Start-2027-89077/1353741355"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Arbeits­vor­be­reiter (m/w/d) Job Vor Ort Vollzeit 36.000 - 60.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals ohne Personal",
-   "url": "https://touch.ferchau.com/de/de/job/17695/arbeitsvorbereiter"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Produkt­de­si­gner (m/w/d) Job Vor Ort Vollzeit 30.000 - 48.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Young Profession",
-   "url": "https://touch.ferchau.com/de/de/job/44595/technischer-produktdesigner"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker Maschi­nen­technik (m/w/d) Job Vor Ort Vollzeit 36.000 - 60.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Young Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/45450/techniker-maschinentechnik"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker Auto­ma­ti­sie­rungs­technik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Heil­bronn, Deutsch­land Elektrotechnik Informationstechnik Wei",
-   "url": "https://touch.ferchau.com/de/de/job/47894/techniker-automatisierungstechnik"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Schweiß­fach­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Rostock, Deutsch­land Anlagenbau Maschinenbau Weitere Professionals ohne Perso",
-   "url": "https://touch.ferchau.com/de/de/job/75081/schweissfachingenieur"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Hard­ware­ent­wickler (m/w/d) Job Vor Ort Vollzeit 40.000 - 70.000 € Rostock, Deutsch­land Elektrotechnik Informationstechnik Weitere Young Profession",
-   "url": "https://touch.ferchau.com/de/de/job/97538/hardwareentwickler"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Quality Assurance Specia­list (m/w/d) Pharma Job Hybrid Vollzeit 50.000 - 75.000 € Wies­baden, Deutsch­land Pharma und Lifescience Young Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/102752/quality-assurance-specialist-pharma"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Prozes­s­in­ge­nieur Verfah­rens­technik (m/w/d) Job Hybrid Vollzeit 48.000 - 70.000 € Hamburg, Deutsch­land Anlagenbau Elektrotechnik Young Professio",
-   "url": "https://touch.ferchau.com/de/de/job/107202/prozessingenieur-verfahrenstechnik"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Netz­werk­tech­niker (m/w/d) Job Hybrid Vollzeit 35.000 - 48.000 € Heil­bronn, Deutsch­land Informationstechnik Young Professionals Professionals ohne",
-   "url": "https://touch.ferchau.com/de/de/job/123137/netzwerktechniker"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­niker/Elek­tro­tech­niker Inbe­trieb­nahme (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Künzelsau, Deutsch­land Elektrotechnik Informations",
-   "url": "https://touch.ferchau.com/de/de/job/126611/elektroniker-elektrotechniker-inbetriebnahme"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mitar­beiter phar­ma­zeu­ti­sche Quali­täts­si­che­rung (m/w/d) Job Vor Ort Vollzeit 40.000 - 60.000 € Gießen, Deutsch­land Anlagenbau Weitere Young P",
-   "url": "https://touch.ferchau.com/de/de/job/129194/mitarbeiter-pharmazeutische-qualitaetssicherung"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Hard­ware­ent­wickler (m/w/d) Medical Devices Job Vor Ort Vollzeit 52.000 - 69.000 € Frei­burg im Breisgau, Deutsch­land Elektrotechnik Informationste",
-   "url": "https://touch.ferchau.com/de/de/job/133233/hardwareentwickler-medical-devices"
-  },
-  {
-   "at": "2026-10-21T02:24:42+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­ent­wickler (m/w/d) Java Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Profes",
-   "url": "https://touch.ferchau.com/de/de/job/133512/softwareentwickler-java"
-  },
   {
    "at": "2026-10-21T02:24:42+00:00",
    "kind": "new",
@@ -3501,12 +3249,264 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Eduroam",
    "url": "https://www.med.fau.de/fakultaet/intern/eduroam"
+  },
+  {
+   "at": "2026-10-21T10:10:40+00:00",
+   "kind": "text",
+   "site": "Vierling Production",
+   "title": "8 new text line(s), e.g. 503 - Wartungsarbeiten - Workwise",
+   "url": "https://vierling-production.workwise.io/en/jobsuche"
+  },
+  {
+   "at": "2026-10-21T10:10:40+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/82296c1c-b5fa-5343-8cc7-2a0cbb336646/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
+  },
+  {
+   "at": "2026-10-21T10:10:12+00:00",
+   "kind": "new",
+   "site": "Innok Robotics – Regenstauf",
+   "title": "Werkstudent*in (m/w/d)",
+   "url": "https://www.innok-robotics.de/karriere/job/werkstudentin-mwd?hsLang=de"
+  },
+  {
+   "at": "2026-10-21T10:10:12+00:00",
+   "kind": "new",
+   "site": "Innok Robotics – Regenstauf",
+   "title": "Pflichtpraktikum (m/w/d)",
+   "url": "https://www.innok-robotics.de/karriere/job/pflichtpraktikum-mwd?hsLang=de"
+  },
+  {
+   "at": "2026-10-21T10:10:12+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Disponent im Bereich Einkauf (m/w/d) Jena",
+   "url": "https://www.tempton.de/jobs/disponent-bereich-einkauf"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Learning Designer - (2 years Contract)",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5136S-p-c8a2860ed80012b7d716ba7c4b269a87/learning-designer-2-years-contract-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Legal Counsel",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10889B-p-1ea06111c247840d0f5bf46d8d4f63fa/legal-counsel"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Líder de Línea SMT (Temporal)",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10210U-p-4bb51d6da410f97d5365c79d3cddc94f/lider-de-linea-smt-temporal-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "LMA Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10937K-p-1a53e6260c52e8db770da7ce60ccc5e0/lma-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Logistics 4.0 Process Manager (m/w/d)",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5769N-p-3cdae6c979ba52c5ae3aef6959c6fd2b/logistics-40-process-manager-m-w-d-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Logistics Specialist - stage finalizzato contratto sostituzione maternità",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10612N-p-8167e93a99a23e0a2842f83c58947ba7/logistics-specialist-stage-finalizzato-contratto-sostituzione-maternita"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Magacioner",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12663J-p-43190e9e2bf293bd57e880054c167084/magacioner"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Engineer",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5647B-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-engineer"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Engineer",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF4617F-p-c3bd97ec08ab12f50a7af846b90850db/maintenance-engineer"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8831E-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF6925N-p-72c8b436fb85a3206ba5acec71cf75c6/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8552F-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF4728J-p-c3bd97ec08ab12f50a7af846b90850db/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8807N-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF6924X-p-72c8b436fb85a3206ba5acec71cf75c6/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF11571X-p-91755d9ef8e90d9b2b86d626e138a5a8/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF2358T-p-3e46174f63ea4d48f655cf7dd7da09ba/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF2356K-p-3e46174f63ea4d48f655cf7dd7da09ba/maintenance-technician"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician I/II Days (B Shift)",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12121F-p-a5663db50cae9df6abafbd43da9a85c0/maintenance-technician-i-ii-days-b-shift-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance Technician I/II Nights (D Shift)",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12122D-p-a5663db50cae9df6abafbd43da9a85c0/maintenance-technician-i-ii-nights-d-shift-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Maintenance technician Machining",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12489U-p-bdefdd86b130bf0bbdea54fea1d0600c/maintenance-technician-machining"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Manager Technology Field",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5545G-p-a09ca7b82e527a4da88c556bbbf48956/manager-technology-field-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert - REF9091H",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF9091H-p-4e6604d096c566866162061220c5ad6b/mandatory-internship-application-engineering-excellence---power-bi-and-efficiency-expert-ref9091h"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Mandatory Internship - Product Management",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10823F-p-3cdae6c979ba52c5ae3aef6959c6fd2b/mandatory-internship-product-management-"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Mandatory Internship - Software Engineering & HMI Design - REF6497T",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF6497T-p-ee4186cb88dcf1723b3117bf3234975b/mandatory-internship-software-engineering-hmi-design-ref6497t"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Manufacturing Data Analytics Engineer",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF9566X-p-15e22d2b7370bb658d094e320599b09d/manufacturing-data-analytics-engineer"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Marketing Analyst",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF11918X-p-041dd504de36a3c1ecb11830b296c270/marketing-analyst"
+  },
+  {
+   "at": "2026-10-21T10:10:16+00:00",
+   "kind": "new",
+   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
+   "title": "Leiter Installationsprojekte & Service (m/w/d) Fertigung Full Time Grafenrheinfeld More Details",
+   "url": "https://www.trips-group.com/de/jobs/leiter-installationsprojekte-service-m-w-d"
+  },
+  {
+   "at": "2026-10-21T10:10:37+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/1a9e0027-87c2-4cfc-4636-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T10:10:37+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/50a60574-47e9-4de8-4637-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T10:10:37+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/c209448f-5e16-4f1d-4638-08df2eb1eacc"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T09:56:00+00:00",
+ "last_run": "2026-10-21T10:10:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
