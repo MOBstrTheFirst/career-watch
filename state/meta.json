@@ -1,77 +1,7 @@
 {
- "alerts": 568,
+ "alerts": 580,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T10:54:58+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Mechatroniker (m/w/d) Jena",
-   "url": "https://www.tempton.de/jobs/mechatroniker-340"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
-   "title": "Information Security and EMSEC / TEMPEST Engineer (m/w/d) ﻿",
-   "url": "https://www.saab.com/career/job-opportunities/information-security-and-emsec--tempest-engineer-mwd"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "A. Eberle GmbH",
-   "title": "weiterlesen",
-   "url": "https://www.a-eberle.de/stellenangebote/it-systemadministratorin-m-w-d-2"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Coordinateur maintenance opérationnelle F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/coordinateur-maintenance-operationnelle-f-h-ref-2026-28103"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "INGENIEUR D’AFFAIRES F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-daffaires-f-h-ref-2026-28120"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur Modélisation & Analyse Dynamique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-modelisation-analyse-dynamique-f-h-ref-2026-28066"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur Analyse mécanique par éléments finis F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-analyse-mecanique-par-elements-finis-f-h-ref-2026-28068"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "STAGE PMO PROJET F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-pmo-projet-f-h-ref-2026-28116"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stagiaire Ingénieur Aménagement et Optimisation des Postes de Travail Industriels H/F F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stagiaire-ingenieur-amenagement-et-optimisation-des-postes-de-travail-industriels-h-f-f-h-ref-2026-28115"
-  },
-  {
-   "at": "2026-10-21T10:55:45+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bauleiter Elek­tro­technik Bahn­in­fra­struktur (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 70.000 € Grimma, Deutsch­land Anlagenbau Elektrotechnik Masch",
-   "url": "https://touch.ferchau.com/de/de/job/525055/bauleiter-elektrotechnik-bahninfrastruktur"
-  },
   {
    "at": "2026-10-21T10:55:45+00:00",
    "kind": "new",
@@ -3501,12 +3431,82 @@
    "site": "Magna – Veitsbronn",
    "title": "Team Lead - 2nd Shift",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Team-Lead---2nd-Shift_R00267082?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:57:14+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "AI, Data & Digital Transformation Expert (f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/AI--Data---Digital-Transformation-Expert--f-m-_JR10451800?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:57:14+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "AI, Data & Digital Transformation Lead (f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/AI--Data---Digital-Transformation-Lead--f-m-_JR10451812?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:57:14+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "3 new text line(s), e.g. 2026-10-21 15:54:33 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "Operational Buyer",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1781?c=trench"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "APQP Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Vecses-HU/APQP-Engineer_R00267026?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "IT Systems Engineer – Secure Messaging (m/w/d) bundesweit an einem unserer BWI Standorte",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/it-systems-engineer-secure-messaging-m-w-d-71004"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Gyártástechnológus mérnök (Műszerfal terület)",
+   "url": "https://careers.motherson.com/en/job/gyartastechnologus-mernok-mszerfal-terulet-gyartastechnologus4"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) 35510 Butzbach 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z5bSNe-elektriker-mwd_35510-butzbach"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 35789 Weilmünster 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2oWtVB-produktionsmitarbeiter-mwd_35789-weilmuenster"
+  },
+  {
+   "at": "2026-10-21T15:57:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Techniker Hardwareentwicklung (m/w/d), Direktvermittlung 60388 Frankfurt am Main 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2oNlar-techniker-hardwareentwicklung-mwd-direktvermittlung_60388-frankfurt-am-main"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T15:43:02+00:00",
+ "last_run": "2026-10-21T15:58:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
