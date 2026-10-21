@@ -1,56 +1,7 @@
 {
- "alerts": 686,
+ "alerts": 698,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Strategischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 46045 Oberhausen Einkauf & Supply Chain 46045 Oberhausen Homeoffice möglich vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-145"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-w-m-d-bei-einem-internationalen-dienstleister-hybrides-arbeiten-1/bewerben"
-  },
-  {
-   "at": "2026-10-21T12:25:30+00:00",
-   "kind": "new",
-   "site": "Brose – Würzburg (drives & e-motors)",
-   "title": "Praktikant Prozess- und Qualitätsmanagement (m/w/d) Deutschland, Würzburg Quality, Quality Assurance Internships",
-   "url": "https://www.brose.com/de-de/karriere/job-praktikant-prozess--und-qualitaetsmanagement-9526.html"
-  },
-  {
-   "at": "2026-10-21T12:25:30+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Senior Projektplaner (m/w/d) – Projektsteuerung Rostock Seit 21. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109323/Senior%20Projektplaner%20(m%2Fw%2Fd)%20%E2%80%93%20Projektsteuerung/Rostock"
-  },
-  {
-   "at": "2026-10-21T12:25:30+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Bauzeichner (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/825a8af8-7723-4471-aea2-75fa790d83f5/f59e0024-ca1f-4848-b4eb-e0263e77cd29"
-  },
-  {
-   "at": "2026-10-21T12:25:05+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Product Engineer / Solution Architect (m/w/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF236475G-product-engineer-solution-architect-m-w-div"
-  },
-  {
-   "at": "2026-10-21T12:25:05+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Pflichtpraktikum in der Logistikplanung - Digitalisierung und Fabrikplanung",
-   "url": "https://jobs.bosch.com/en/job/REF299106D-pflichtpraktikum-in-der-logistikplanung-digitalisierung-und-fabrikplanung"
-  },
   {
    "at": "2026-10-21T12:25:05+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "FuehlerSysteme eNET International",
    "title": "2 new text line(s), e.g. 2026-10-21 19:09:52 UTC",
    "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T19:27:33+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Logistikmanager Customer Service im Bereich Luftfahrt (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzUxNg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-21T19:29:17+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 19:24:58 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T19:26:58+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Mechanic - 2nd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Mechanic-2nd-shift-Hillsboro/24647"
+  },
+  {
+   "at": "2026-10-21T19:26:58+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Mechanic - 2nd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Mechanic-2nd-shift-Hillsboro/24648"
+  },
+  {
+   "at": "2026-10-21T19:26:58+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Applications Engineering Manager Austin, US Applications Engineering",
+   "url": "https://www.asml.com/en/careers/find-your-job/applications-engineering-manager-j00346842"
+  },
+  {
+   "at": "2026-10-21T19:27:20+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Field Application Engineer - Microcontrollers",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/USA-home-based/Field-Application-Engineer---Microcontrollers_R-10067335?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T19:27:20+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Manual Operator I (VIP) - 6 Months Contract Manufacturing Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Markham, ON, CA",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27922-en-US"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T19:12:49+00:00",
+ "last_run": "2026-10-21T19:29:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
