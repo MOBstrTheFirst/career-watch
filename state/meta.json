@@ -1,5 +1,5 @@
 {
- "alerts": 98,
+ "alerts": 105,
  "commands_set": true,
  "events": [
   {
@@ -1737,12 +1737,61 @@
    "site": "CGM (CompuGroup Medical) – Erlangen",
    "title": "Service Owner ITSM (m/w/d) - Matrix42 & AnyDesk",
    "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Service-Owner-ITSM--m-w-d----Matrix42---AnyDesk_JR110370?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T06:40:41+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Stationsleitung  Pneumologie/ Schlaflabor (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/c0a061ae-11a4-5324-b564-d4b2e102f5ca/stationsleitung-pneumologie-schlaflabor-m-w-d"
+  },
+  {
+   "at": "2026-10-21T06:40:41+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Stationsleitung (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/bf9a0c59-9074-58ef-94dd-4d43c3a71b22/stationsleitung-m-w-d"
+  },
+  {
+   "at": "2026-10-21T06:40:41+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Aluminiumschweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000186xRjQAI"
+  },
+  {
+   "at": "2026-10-21T06:39:35+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Gas- und Wasserinstallateur (m/w/d) Darmstadt",
+   "url": "https://www.tempton.de/jobs/gas-wasserinstallateur-160"
+  },
+  {
+   "at": "2026-10-21T06:39:45+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior AI and GenAI Architect (d/m/f)",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-AI-and-GenAI-Architect-d_m_f-Carnaxide/24148"
+  },
+  {
+   "at": "2026-10-21T06:39:45+00:00",
+   "kind": "new",
+   "site": "TH Ingolstadt – CARISSMA / TH Ingolstadt – AImotion Bavaria",
+   "title": "Mitarbeiter (m/w/d) Studienberatung",
+   "url": "https://karriere.thi.de/jobposting/6afaacb132e0835fe7921bbe23b3e98a794c16890?ref=homepage"
+  },
+  {
+   "at": "2026-10-21T06:39:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 97688 Bad Kissingen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/dfLB4-produktionshelfer-mwd_97688-bad-kissingen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T06:26:15+00:00",
+ "last_run": "2026-10-21T06:40:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
