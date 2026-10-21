@@ -1,21 +1,7 @@
 {
- "alerts": 748,
+ "alerts": 750,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:25:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 60311 Frankfurt Rechnungswesen & Finanzen 60311 Frankfurt Homeoffice möglich vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-346"
-  },
-  {
-   "at": "2026-10-21T12:25:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Werkstattleiter Hubarbeitsbühnen (m/w/d) (Logistik & Transport) in 77746 Schutterwald Logistik & Transport 77746 Schutterwald vor 14 Stunden",
-   "url": "https://jobs.de.dis-ag.com/werkstattleiter-hubarbeitsbuehnen-m-w-d"
-  },
   {
    "at": "2026-10-21T12:25:44+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ASML – Erlangen",
    "title": "New Cloud Optimization Engineer - FinOps San Diego, CA, US IT",
    "url": "https://www.asml.com/en/careers/find-your-job/cloud-optimization-engineer-finops-j00353399"
+  },
+  {
+   "at": "2026-10-21T21:40:40+00:00",
+   "kind": "text",
+   "site": "Innoventis GmbH",
+   "title": "7 new text line(s), e.g. Oops, an error occurred!",
+   "url": "https://www.innoventis.de/de/karriere"
+  },
+  {
+   "at": "2026-10-21T21:40:40+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Director of Algorithms Engineering - Physics San Jose, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/director-of-algorithms-engineering-physics-j00353511"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T21:29:00+00:00",
+ "last_run": "2026-10-21T21:41:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
