@@ -1,210 +1,7 @@
 {
- "alerts": 500,
+ "alerts": 536,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montierer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1hpQV7-montierer-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2ocXJI-gabelstaplerfahrer-mwd_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistikmitarbeiter (m/w/d) 97215 Uffenheim 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1O0eoJ-logistikmitarbeiter-mwd_97215-uffenheim"
-  },
-  {
-   "at": "2026-10-21T09:55:45+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Chief Network Architect",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/JPN-Tokyo-Tamachi-Station/Chief-Network-Architect_R027466-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T09:55:45+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Internationale Patienten",
-   "url": "https://www.uk-erlangen.de/international-office"
-  },
-  {
-   "at": "2026-10-21T09:55:45+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Eduroam",
-   "url": "https://www.med.fau.de/fakultaet/intern/eduroam"
-  },
-  {
-   "at": "2026-10-21T10:10:40+00:00",
-   "kind": "text",
-   "site": "Vierling Production",
-   "title": "8 new text line(s), e.g. 503 - Wartungsarbeiten - Workwise",
-   "url": "https://vierling-production.workwise.io/en/jobsuche"
-  },
-  {
-   "at": "2026-10-21T10:10:40+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/82296c1c-b5fa-5343-8cc7-2a0cbb336646/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
-  },
-  {
-   "at": "2026-10-21T10:10:12+00:00",
-   "kind": "new",
-   "site": "Innok Robotics – Regenstauf",
-   "title": "Werkstudent*in (m/w/d)",
-   "url": "https://www.innok-robotics.de/karriere/job/werkstudentin-mwd?hsLang=de"
-  },
-  {
-   "at": "2026-10-21T10:10:12+00:00",
-   "kind": "new",
-   "site": "Innok Robotics – Regenstauf",
-   "title": "Pflichtpraktikum (m/w/d)",
-   "url": "https://www.innok-robotics.de/karriere/job/pflichtpraktikum-mwd?hsLang=de"
-  },
-  {
-   "at": "2026-10-21T10:10:12+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Disponent im Bereich Einkauf (m/w/d) Jena",
-   "url": "https://www.tempton.de/jobs/disponent-bereich-einkauf"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Learning Designer - (2 years Contract)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5136S-p-c8a2860ed80012b7d716ba7c4b269a87/learning-designer-2-years-contract-"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Legal Counsel",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10889B-p-1ea06111c247840d0f5bf46d8d4f63fa/legal-counsel"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Líder de Línea SMT (Temporal)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10210U-p-4bb51d6da410f97d5365c79d3cddc94f/lider-de-linea-smt-temporal-"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "LMA Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10937K-p-1a53e6260c52e8db770da7ce60ccc5e0/lma-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Logistics 4.0 Process Manager (m/w/d)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5769N-p-3cdae6c979ba52c5ae3aef6959c6fd2b/logistics-40-process-manager-m-w-d-"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Logistics Specialist - stage finalizzato contratto sostituzione maternità",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF10612N-p-8167e93a99a23e0a2842f83c58947ba7/logistics-specialist-stage-finalizzato-contratto-sostituzione-maternita"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Magacioner",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12663J-p-43190e9e2bf293bd57e880054c167084/magacioner"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Engineer",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF5647B-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-engineer"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Engineer",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF4617F-p-c3bd97ec08ab12f50a7af846b90850db/maintenance-engineer"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8831E-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF6925N-p-72c8b436fb85a3206ba5acec71cf75c6/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8552F-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF4728J-p-c3bd97ec08ab12f50a7af846b90850db/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF8807N-p-8d6cc4541b50090fe9d9d67ba3026bce/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF6924X-p-72c8b436fb85a3206ba5acec71cf75c6/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF11571X-p-91755d9ef8e90d9b2b86d626e138a5a8/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF2358T-p-3e46174f63ea4d48f655cf7dd7da09ba/maintenance-technician"
-  },
-  {
-   "at": "2026-10-21T10:10:16+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Maintenance Technician",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF2356K-p-3e46174f63ea4d48f655cf7dd7da09ba/maintenance-technician"
-  },
   {
    "at": "2026-10-21T10:10:16+00:00",
    "kind": "new",
@@ -3501,12 +3298,215 @@
    "site": "Jaeger Medical – Höchberg",
    "title": "45 new text line(s), e.g. Ausbildung zur Fachkraft für Lagerlogistik (m/w/d) | Germany",
    "url": "https://www.jaegerrdx.com/intl/en/join-our-team-jaeger-medical"
+  },
+  {
+   "at": "2026-10-21T15:12:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Infrastrukturplanung (m|w|d) Essen Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109350/Projektleiter%20Infrastrukturplanung%20(m%7Cw%7Cd)/Essen"
+  },
+  {
+   "at": "2026-10-21T15:12:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter (m/w/d) Düsseldorf Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109349/Bauleiter%20(m%2Fw%2Fd)/D%C3%BCsseldorf"
+  },
+  {
+   "at": "2026-10-21T15:12:56+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Servicetechniker Kältetechnik (m/w/d) Gelsenkirchen Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109348/Servicetechniker%20K%C3%A4ltetechnik%20(m%2Fw%2Fd)/Gelsenkirchen"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "3 new text line(s), e.g. 2026-10-21 15:09:38 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Business & Pricing Analyst (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Erlangen-Business-&-Pricing-Analyst-%28mwd%29/1449751933"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Produktionsmitarbeiter ab 18,08 Euro (m/w/d) Speinshart",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-18-08-euro"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Baubegleiter / Technischer Baukoordinator Glasfaserausbau (m/w/d) Nürnberg",
+   "url": "https://www.tempton.de/jobs/baubegleiter-technischer-baukoordinator-glasfaserausbau"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Sachbearbeiter Einkauf und Beschaffung (m/w/d) in Teilzeit Teisnach",
+   "url": "https://www.tempton.de/jobs/sachbearbeiter-einkauf-beschaffung-teilzeit"
+  },
+  {
+   "at": "2026-10-21T15:12:26+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Vertriebsleiter Softwarevertrieb (m/w/d) I DACH & Europa Regensburg",
+   "url": "https://www.tempton.de/jobs/vertriebsleiter-softwarevertrieb-i-dach-europa"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Financial Analyst",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Duncan-South-Carolina-US/Financial-Analyst_R00267076?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 77948 Friesenheim, Baden 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1lKS9u-gabelstaplerfahrer-mwd_77948-friesenheim-baden"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) mit Übernahmeoption 77933 Lahr, Schwarzwald 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2769u4-produktionsmitarbeiter-mwd-mit-uebernahmeoption_77933-lahr-schwarzwald"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 06642 Nebra (Unstrut) 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2s5nwo-staplerfahrer-mwd_06642-nebra-unstrut"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Senior Systemadministrator (m/w/d) 35321 Laubach, Hessen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1LVBfV-senior-systemadministrator-mwd_35321-laubach-hessen"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schiffsinspektor (m/w/d) 63814 Mainaschaff 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/cii19-schiffsinspektor-mwd_63814-mainaschaff"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektrotechniker Qualitätssicherung (m/w/d) 60388 Frankfurt am Main 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/W1XmI-elektrotechniker-qualitaetssicherung-mwd_60388-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer (m/w/d) 79224 Umkirch 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z26IqfM-lagerhelfer-mwd_79224-umkirch"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) 77933 Lahr, Schwarzwald 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1uyety-elektriker-mwd_77933-lahr-schwarzwald"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lackierer (m/w/d) 77971 Kippenheim 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Pau0E-lackierer-mwd_77971-kippenheim"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 77933 Lahr, Schwarzwald 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1A1WTz-staplerfahrer-mwd_77933-lahr-schwarzwald"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) im Schaltschrankbau 77652 Offenburg 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iM5OQ-elektriker-mwd-im-schaltschrankbau_77652-offenburg"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer/ Maschinenbediener (m/w/d) 77933 Lahr, Schwarzwald 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Eb5Df-produktionshelfer-maschinenbediener-mwd_77933-lahr-schwarzwald"
+  },
+  {
+   "at": "2026-10-21T15:12:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer/ Maschinenbediener (m/w/d) 77933 Lahr, Schwarzwald 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZPkxvV-produktionshelfer-maschinenbediener-mwd_77933-lahr-schwarzwald"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Americas Mass Market US Central Region Leader",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Americas-Mass-Market-US-Central-Region-Leader_R-10064545?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Distribution Business Manager",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Distribution-Business-Manager_R-10065838?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) (Sales & Vertrieb) in 89129 Langenau Sales & Vertrieb 89129 Langenau vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-93"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditoren-/Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 34117 Kassel Rechnungswesen & Finanzen 34117 Kassel Homeoffice möglich vor 17 S",
+   "url": "https://jobs.de.dis-ag.com/kreditoren-debitorenbuchhalter-m-w-d-10"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Langenau",
+   "url": "https://jobs.de.dis-ag.com/suche/in-langenau"
+  },
+  {
+   "at": "2026-10-21T15:12:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-93/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T14:58:10+00:00",
+ "last_run": "2026-10-21T15:13:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
