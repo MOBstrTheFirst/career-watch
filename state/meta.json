@@ -1,70 +1,7 @@
 {
- "alerts": 620,
+ "alerts": 626,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T11:26:06+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Sachbearbeiter (m/w/d) Voranlieferung Windkraft in Teilzeit (20h/Woche)",
-   "url": "https://jobportal.max-boegl.de/Sachbearbeiter-mwd-Voranlieferung-Windkraft-in-Teilzeit-20-de-j2310.html"
-  },
-  {
-   "at": "2026-10-21T11:26:06+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Civil & Mining Engineering Projektbearbeitung Vermessung/CAD/GIS (m/w/d) Standort Leipzig Arbeitszeitmodell Vollzeit Anstellung – befristet Gesellscha",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/projektbearbeitung-vermessung-cad-gis-m-w-d--11911"
-  },
-  {
-   "at": "2026-10-21T11:26:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcbdNS-staplerfahrer-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-21T11:40:24+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Technologe (m/w/d) Produktionstechnologie, Digitalisierung und OT-Netzwerke",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522069"
-  },
-  {
-   "at": "2026-10-21T11:40:24+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F522069"
-  },
-  {
-   "at": "2026-10-21T11:39:43+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Ingenieur Prozessintegration (w/m/d) Dresden HRC1854055",
-   "url": "https://jobs.infineon.com/careers/job/563808972253234"
-  },
-  {
-   "at": "2026-10-21T11:39:43+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Process Integration_6290 Shanghai + 1 more HRC1386290",
-   "url": "https://jobs.infineon.com/careers/job/563808967207684"
-  },
-  {
-   "at": "2026-10-21T11:39:43+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Unit Process Development Plating Malakka HRC1849138",
-   "url": "https://jobs.infineon.com/careers/job/563808972243657"
-  },
-  {
-   "at": "2026-10-21T11:39:43+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer Process Integration Kulim HRC1655415",
-   "url": "https://jobs.infineon.com/careers/job/563808970878129"
-  },
   {
    "at": "2026-10-21T11:39:43+00:00",
    "kind": "new",
@@ -3501,12 +3438,75 @@
    "site": "Broadcom – Regensburg",
    "title": "Staff R&D Engineer Mechanical",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Ottawa-March-Road/Staff-R-D-Engineer-Mechanical_R027483?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:12:34+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "3 new text line(s), e.g. 2026-10-21 17:09:38 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T17:12:03+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Upgrade Install and Relocation Engineer - EUV N Phoenix, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-euv-j00354028"
+  },
+  {
+   "at": "2026-10-21T17:12:03+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Upgrade Install and Relocation Engineer - EUV Austin, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-euv-j00347707"
+  },
+  {
+   "at": "2026-10-21T17:12:03+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sr Tooling Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Sr-Tooling-Engineer_R00247897-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:14:33+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "R&D Senior Engineer Software",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Senior-Engineer-Software_R027486?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:14:33+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "R&D Staff Engineer Software",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Staff-Engineer-Software_R027485?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:14:33+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Software Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Software-Engineer_R-10067400?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:14:33+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Software Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Software-Engineer_R-10067398?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T17:14:33+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Software Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Software-Engineer_R-10067399?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T16:58:12+00:00",
+ "last_run": "2026-10-21T17:14:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
