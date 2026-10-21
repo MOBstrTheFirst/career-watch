@@ -1,154 +1,7 @@
 {
- "alerts": 362,
+ "alerts": 376,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T07:39:48+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Asystentka Biura (K / M)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/d37f061c-5685-4adf-a9ce-9b3613659246?cHash=83cc32299fbadb4a9ef87abbbac716bd087433b846a4a54fe48f4b255ee9e092"
-  },
-  {
-   "at": "2026-10-21T07:39:48+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bürokaufmann (m/w/d) (Büroverwaltung) in 76280 Rheinstetten Büroverwaltung 76280 Rheinstetten Homeoffice möglich vor 9 Stunden",
-   "url": "https://jobs.de.dis-ag.com/buerokaufmann-m-w-d-11"
-  },
-  {
-   "at": "2026-10-21T07:39:48+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/buerokaufmann-m-w-d-11/bewerben"
-  },
-  {
-   "at": "2026-10-21T07:55:56+00:00",
-   "kind": "new",
-   "site": "Preh GmbH",
-   "title": "Customer & Production Planner",
-   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3940"
-  },
-  {
-   "at": "2026-10-21T07:55:56+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektleitung Umspannwerke (m/w/d) Berufserfahrene Halberstadt Neu",
-   "url": "https://karriere.omexom.de/jobs/68233586/Projektleitung-Umspannwerke-m-w-d-"
-  },
-  {
-   "at": "2026-10-21T07:55:56+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Abschnittbauleiter (m/w/d) in Wilhelmshaven ab 30€/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000187gAHQAY"
-  },
-  {
-   "at": "2026-10-21T07:55:03+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Feuerwehrmann/-frau Werkfeuerwehr (d/m/w) - Befristet",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Feuerwehrmann--frau-Werkfeuerwehr--d-m-w----Befristet_JR10449812?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T07:55:03+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Systemtechniker (m/w/d) Wiesbaden",
-   "url": "https://www.tempton.de/jobs/systemtechniker-2"
-  },
-  {
-   "at": "2026-10-21T07:55:03+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 IT Monitoring Specialist (m/w/d) Wolfsburg",
-   "url": "https://www.tempton.de/jobs/it-monitoring-specialist-2"
-  },
-  {
-   "at": "2026-10-21T07:55:03+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Junior Netzwerkadministrator (m/w/d) Frankfurt am Main",
-   "url": "https://www.tempton.de/jobs/junior-netzwerkadministrator-3"
-  },
-  {
-   "at": "2026-10-21T07:55:01+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Werkstudent Culture & Change (m/w/d) ab sofort in Bonn.",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/werkstudent-culture-change-m-w-d-70980"
-  },
-  {
-   "at": "2026-10-21T07:55:01+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Leitung Instandhaltung",
-   "url": "https://careers.motherson.com/en/job/leitung-instandhaltung-m-w-d-7272"
-  },
-  {
-   "at": "2026-10-21T07:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Product Manager SAFe für Siemens (m/w/d) 91058 Erlangen 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zvim1T-product-manager-safe-fuer-siemens-mwd_91058-erlangen"
-  },
-  {
-   "at": "2026-10-21T07:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Telefonischer Kundeberater (m/w/d) Direktvermittlung 06110 Halle (Saale) 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z13RBlE-telefonischer-kundeberater-mwd-direktvermittlung_06110-halle-saale"
-  },
-  {
-   "at": "2026-10-21T07:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Call Center Agent (m/w/d) Direktvermittlung 06110 Halle (Saale) 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/phKVc-call-center-agent-mwd-direktvermittlung_06110-halle-saale"
-  },
-  {
-   "at": "2026-10-21T07:54:51+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Göttingen",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/G%C3%B6ttingen-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-G%C3%B6ttingen-NI-37073/1449710433"
-  },
-  {
-   "at": "2026-10-21T07:54:51+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Quality Specialist - SDS (Space & Defense) Projects",
-   "url": "https://careers.abb/global/en/job/JR00036079/Quality-Specialist-SDS-Space-Defense-Projects"
-  },
-  {
-   "at": "2026-10-21T07:54:51+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Production Supervisor",
-   "url": "https://careers.abb/global/en/job/JR00046132/Production-Supervisor"
-  },
-  {
-   "at": "2026-10-21T07:54:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Front Office Agent (m/w/d) (Büroverwaltung) in 75175 Pforzheim Büroverwaltung 75175 Pforzheim Homeoffice möglich vor 9 Stunden",
-   "url": "https://jobs.de.dis-ag.com/front-office-agent-m-w-d-4"
-  },
-  {
-   "at": "2026-10-21T07:54:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/front-office-agent-m-w-d-4/bewerben"
-  },
-  {
-   "at": "2026-10-21T08:10:27+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Project Engineer (f/m/d) Auxiliary Power Supply",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Engineer-f-m-d-Auxiliary-Power-Supply/305603"
-  },
   {
    "at": "2026-10-21T08:10:27+00:00",
    "kind": "new",
@@ -3501,12 +3354,159 @@
    "site": "Grenzebach – Asbach-Bäumenheim",
    "title": "Werkstudent im Bereich Business Applications (m/w/d)",
    "url": "https://grenzebach.softgarden.io/job/68248141/Werkstudent-im-Bereich-Business-Applications-m-w-d-?jobDbPVId=288340446&l=de"
+  },
+  {
+   "at": "2026-10-21T12:55:49+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Projektmanagement",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526429"
+  },
+  {
+   "at": "2026-10-21T12:55:49+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526429"
+  },
+  {
+   "at": "2026-10-21T12:55:49+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "TenneT TSO GmbH Werkstudent im Bereich Asset Risk Management (m/w/d) Details",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=ae86e455-bdcc-f111-9b60-9e890cc6b0ac"
+  },
+  {
+   "at": "2026-10-21T12:55:49+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "Werkstudent im Bereich Asset Risk Management (m/w/d)",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=ae86e455-bdcc-f111-9b60-9e890cc6b0ac&slug=werkstudent-im-bereich-asset-risk-management-mwd"
+  },
+  {
+   "at": "2026-10-21T12:55:18+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Fertigungsplaner/Fertigungssteuerer (all genders) in der mechanischen Fertigung",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Calden-AH-Technik/Fertigungsplaner-Fertigungssteuerer--all-genders--in-der-mechanischen-Fertigung_JR10450948-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T12:55:18+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Mitarbeiter (m/w/d) der Arbeitsvorbereitung in der mechanischen Fertigung",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Calden-AH-Technik/Mitarbeiter--m-w-d--der-Arbeitsvorbereitung-in-der-mechanischen-Fertigung_JR10439731?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "Working Student (m/f/d) in Humanoid Robotics",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1780?c=trench"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Business Analyst Defense (w/m/d) Stuttgart Business Analysis Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/506089-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Industriemechaniker (m/w/d) Werksinstandhaltung Sengenthal",
+   "url": "https://jobportal.max-boegl.de/Industriemechaniker-mwd-Werksinstandhaltung-Sengenthal-de-j2124.html"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerist (m/w/d) 53639 Königswinter 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/SxDP5-lagerist-mwd_53639-koenigswinter"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) 53639 Königswinter 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/QQ8FO-maschinen-und-anlagenfuehrer-mwd_53639-koenigswinter"
+  },
+  {
+   "at": "2026-10-21T12:56:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) 53797 Lohmar, Rheinland 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/WWVYd-elektroniker-mwd_53797-lohmar-rheinland"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence System Safety Engineer (m/w/d) 21.10.2026 Forschung/Entwicklung/Engineering Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/system-safety-engineer-m-w-d5"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Fachteamleiter (m/w/d) AI Product Enablement 21.10.2026 Informationstechnologie Überlingen am Bodensee, Markdorf",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-ai-product-enablement"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Software Embedded Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/Software-Embedded-Engineer_R-10066584-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "possible",
+   "site": "Vossloh – Nürnberg",
+   "title": "Werkstoffprüfer / ZfP-Prüfer im Bahnbereich (m/w/d) - Außendienst ab Ihrem Wohnort in Voll- oder Teilzeit",
+   "url": "https://vossloh.wd3.myworkdayjobs.com/Vossloh_External_Careers?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroingenieur/Elektromeister (m/w/d) (Produktion & Fertigung) in 01237 Dresden Produktion & Fertigung 01237 Dresden vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/elektroingenieur-elektromeister-m-w-d"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Controller (m/w/d) (Rechnungswesen & Finanzen) in 60311 Frankfurt Rechnungswesen & Finanzen 60311 Frankfurt Homeoffice möglich vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/controller-m-w-d-200"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Logistikplaner Warehousing & Prozessoptimierung (m/w/d) (Logistik & Transport) in 06366 Raum Köthen - Bitterfeld Logistik & Transport 06366 Raum Köthe",
+   "url": "https://jobs.de.dis-ag.com/logistikplaner-warehousing-und-prozessoptimierung-m-w-d"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Fahrzeugankauf / Gebrauchtwagenmanagement (m/w/d) (Sales & Vertrieb) in 10243 Berlin Sales & Vertrieb 10243 Berlin Homeoffice möglich v",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-fahrzeugankauf-gebrauchtwagenmanagement-m-w-d"
+  },
+  {
+   "at": "2026-10-21T12:55:48+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/elektroingenieur-elektromeister-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T12:41:43+00:00",
+ "last_run": "2026-10-21T12:56:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
