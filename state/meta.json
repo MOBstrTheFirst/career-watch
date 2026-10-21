@@ -1,28 +1,7 @@
 {
- "alerts": 706,
+ "alerts": 710,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "E2E Test­ma­nager (m/w/d) Neu Job Remote Vollzeit 60.000 - 75.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/525082/e2e-testmanager"
-  },
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "RPA & Power Plat­form Specia­list (m/w/d) Neu Job Remote Vollzeit 50.000 - 65.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Se",
-   "url": "https://touch.ferchau.com/de/de/job/525085/rpa-power-platform-specialist"
-  },
-  {
-   "at": "2026-10-21T12:26:27+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Rohr­lei­tungs­kon­struk­teur / System­ko­or­di­nator (m/w/d) Neu Job Hybrid Vollzeit 54.000 - 63.000 € Wismar, Deutsch­land Schiffbau und Meerestechn",
-   "url": "https://touch.ferchau.com/de/de/job/525070/rohrleitungskonstrukteur-systemkoordinator"
-  },
   {
    "at": "2026-10-21T12:26:27+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "TTTech Auto Germany",
    "title": "SoC Verification Engineer",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/SoC-Verification-Engineer_R-10067210?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T19:57:21+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 19:54:46 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T19:56:50+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing Group Leader, Optics- Milling, Grinding, Polishing (MGP) Compressed Work Week (CWW) Front End Nights Wilton, US Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-group-leader-optics-milling-grinding-polishing-mgp-compressed-work-week-cww-front-end-nights-j00352858"
+  },
+  {
+   "at": "2026-10-21T19:57:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "NFC FW Architect",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/NFC-FW-Architect_R-10064282-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T19:42:52+00:00",
+ "last_run": "2026-10-21T19:57:36+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 87,
+ "runs": 88,
  "tg_offset": 297408924
 }
