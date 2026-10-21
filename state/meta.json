@@ -1,189 +1,7 @@
 {
- "alerts": 316,
+ "alerts": 331,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T06:40:41+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Stationsleitung  Pneumologie/ Schlaflabor (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/c0a061ae-11a4-5324-b564-d4b2e102f5ca/stationsleitung-pneumologie-schlaflabor-m-w-d"
-  },
-  {
-   "at": "2026-10-21T06:40:41+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Stationsleitung (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/bf9a0c59-9074-58ef-94dd-4d43c3a71b22/stationsleitung-m-w-d"
-  },
-  {
-   "at": "2026-10-21T06:40:41+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Aluminiumschweißer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000186xRjQAI"
-  },
-  {
-   "at": "2026-10-21T06:39:35+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Gas- und Wasserinstallateur (m/w/d) Darmstadt",
-   "url": "https://www.tempton.de/jobs/gas-wasserinstallateur-160"
-  },
-  {
-   "at": "2026-10-21T06:39:45+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Senior AI and GenAI Architect (d/m/f)",
-   "url": "https://jobs.ams-osram.com/en/job/Senior-AI-and-GenAI-Architect-d_m_f-Carnaxide/24148"
-  },
-  {
-   "at": "2026-10-21T06:39:45+00:00",
-   "kind": "new",
-   "site": "TH Ingolstadt – CARISSMA / TH Ingolstadt – AImotion Bavaria",
-   "title": "Mitarbeiter (m/w/d) Studienberatung",
-   "url": "https://karriere.thi.de/jobposting/6afaacb132e0835fe7921bbe23b3e98a794c16890?ref=homepage"
-  },
-  {
-   "at": "2026-10-21T06:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 97688 Bad Kissingen 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/dfLB4-produktionshelfer-mwd_97688-bad-kissingen"
-  },
-  {
-   "at": "2026-10-21T06:55:09+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Heizungsbauer (m/w/d) Darmstadt",
-   "url": "https://www.tempton.de/jobs/heizungsbauer-6"
-  },
-  {
-   "at": "2026-10-21T06:55:09+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Heizungsmonteur (m/w/d) Darmstadt",
-   "url": "https://www.tempton.de/jobs/heizungsmonteur-4"
-  },
-  {
-   "at": "2026-10-21T06:54:35+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Die/Layer Attach Process Development Staff Engineer",
-   "url": "https://jobs.ams-osram.com/en/job/Die_Layer-Attach-Process-Development-Staff-Engineer-Bayan-Lepas/24642"
-  },
-  {
-   "at": "2026-10-21T06:54:35+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Wire Bond Process Engineer",
-   "url": "https://jobs.ams-osram.com/en/job/Wire-Bond-Process-Engineer-Bayan-Lepas/24605"
-  },
-  {
-   "at": "2026-10-21T06:54:35+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "FH-Pflichtpraktikant im Bereich Energy (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Energy--m-w-x-_R00266950?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T06:54:35+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montagemitarbeiter BMW Group (m/w/d) 84130 Dingolfing 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1AFjb2-montagemitarbeiter-bmw-group-mwd_84130-dingolfing"
-  },
-  {
-   "at": "2026-10-21T06:54:35+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "BMW sucht DICH! 84130 Dingolfing 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZkhyFG-bmw-sucht-dich_84130-dingolfing"
-  },
-  {
-   "at": "2026-10-21T06:55:04+00:00",
-   "kind": "new",
-   "site": "Dräxlmaier – Ingolstadt",
-   "title": "Werkstudent Sales Elektrik (m/w/d) - SoSe 2027",
-   "url": "https://d-career.org/Draexlmaier/job/Vilsbiburg-Werkstudent-Sales-Elektrik-%28mwd%29-SoSe-2027-84137/1449684433"
-  },
-  {
-   "at": "2026-10-21T06:55:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Channel Marketing Manager (m/w/d) (Digital) in 65760 Eschborn Digital 65760 Eschborn Homeoffice möglich vor 8 Stunden",
-   "url": "https://jobs.de.dis-ag.com/senior-channel-marketing-manager-m-w-d"
-  },
-  {
-   "at": "2026-10-21T06:55:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Eschborn",
-   "url": "https://jobs.de.dis-ag.com/suche/in-eschborn"
-  },
-  {
-   "at": "2026-10-21T06:55:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/senior-channel-marketing-manager-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-21T07:09:37+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IISB",
-   "title": "Werkstudent - Lebensdauertest (all genders)",
-   "url": "https://jobs.fraunhofer.de/job/Erlangen-Werkstudent-Lebensdauertest-%28all-genders%29-91058/1449688233"
-  },
-  {
-   "at": "2026-10-21T07:09:37+00:00",
-   "kind": "new",
-   "site": "Brunel – Nürnberg",
-   "title": "Personalreferentin (w/m/d) Deutschland Bachelor Universität 2-4 Jahre Beratung und Betreuung von Führungskräften in allen personalrelevanten Fragestel",
-   "url": "https://www.brunel.net/de-de/jobs/personalreferentin-wmd-tr-281362"
-  },
-  {
-   "at": "2026-10-21T07:09:37+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Anlagenmechaniker (m/w/d) Frankfurt am Main",
-   "url": "https://www.tempton.de/jobs/anlagenmechaniker-91"
-  },
-  {
-   "at": "2026-10-21T07:09:37+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Produktionsmitarbeiter (m/w/d) Reinraum Heilbronn",
-   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-reinraum-2"
-  },
-  {
-   "at": "2026-10-21T07:09:40+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Koordinator (m/w/d) Raum- und Flächenmanagement",
-   "url": "https://jobportal.max-boegl.de/Koordinator-mwd-Raum-und-Flaechenmanagement-de-j2268.html"
-  },
-  {
-   "at": "2026-10-21T07:09:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer (m/w/d) 67663 Kaiserslautern 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1I9vQy-metallbauer-mwd_67663-kaiserslautern"
-  },
-  {
-   "at": "2026-10-21T07:09:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 67677 Enkenbach-Alsenborn 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/XEEbm-industriemechaniker-mwd_67677-enkenbach-alsenborn"
-  },
-  {
-   "at": "2026-10-21T07:09:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 55294 Bodenheim, Rhein 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZpE8a-staplerfahrer-mwd_55294-bodenheim-rhein"
-  },
   {
    "at": "2026-10-21T07:09:40+00:00",
    "kind": "new",
@@ -3501,12 +3319,194 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Mitarbeiter Lager- und Versand (m/w/d) 93444 Bad Kötzting 21.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/2qVDgq-mitarbeiter-lager-und-versand-mwd_93444-bad-koetzting"
+  },
+  {
+   "at": "2026-10-21T12:10:48+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Program Manager – Project Digitalization & Data Integration (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Program-Manager-Project-Digitalization-Data-Integration-f-m-d/305377"
+  },
+  {
+   "at": "2026-10-21T12:10:48+00:00",
+   "kind": "new",
+   "site": "Brose Fahrzeugteile",
+   "title": "Praktikant Prozess- und Qualitätsmanagement (m/w/d) Deutschland, Würzburg Quality, Quality Assurance Internships",
+   "url": "https://www.brose.com/de-de/karriere/job-praktikant-prozess--und-qualitaetsmanagement-9526.html"
+  },
+  {
+   "at": "2026-10-21T12:10:48+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Senior Document Manager (m/w/d) – Technische Dokumentation Rostock Seit 21. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109320/Senior%20Document%20Manager%20(m%2Fw%2Fd)%20%E2%80%93%20Technische%20Dokumentation/Rostock"
+  },
+  {
+   "at": "2026-10-21T12:10:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Ingenieur Produkttechnik (w/m/d) Dresden HRC1854073",
+   "url": "https://jobs.infineon.com/careers/job/563808972253231"
+  },
+  {
+   "at": "2026-10-21T12:10:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Unit Process Engineering Malakka HRC1786267",
+   "url": "https://jobs.infineon.com/careers/job/563808971955067"
+  },
+  {
+   "at": "2026-10-21T12:10:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Engineer Bangalore BTP HRC1813728",
+   "url": "https://jobs.infineon.com/careers/job/563808972125579"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Strategischer Einkäufer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/strategischer-einkaeufer-m-w-d_251563-1704771.html"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Einkäufer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/einkaeufer-m-w-d_251563-1704770.html"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Entwicklungsingenieur (m/w/d) elektrische und optische Verbindungstechnik",
+   "url": "https://jobs.avl.com/job/Neuenstadt-am-Kocher-Entwicklungsingenieur-%28mwd%29-elektrische-und-optische-Verbindungstechnik/1449858033"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Palettierer (m/w/d) Produktion 06493 Harzgerode 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1mo4bA-palettierer-mwd-produktion_06493-harzgerode"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Ingenieur Elektrotechnik Medizingerätehersteller (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1aMmnn-ingenieur-elektrotechnik-medizingeraetehersteller-mwd_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener m/w/d 91346 Wiesenttal, Fränk Schweiz 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24JJEP-maschinenbediener-mwd_91346-wiesenttal-fraenk-schweiz"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker in Bamberg 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2dSow6-industriemechaniker-in-bamberg_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Materialdisponent bei Siemens! (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Dkenk-materialdisponent-bei-siemens-mwd_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jdEga-maschinenbediener-mwd_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhaltungsmecharoniker (m/w/d) 91362 Pretzfeld 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1yIMyB-instandhaltungsmecharoniker-mwd_91362-pretzfeld"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WIG-Schweißer (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1HRrqr-wig-schweisser-mwd_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-21T12:11:24+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagefacharbeiter m|w|d für die Automobilbranche 91315 Höchstadt an der Aisch 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/6f9jH-montagefacharbeiter-moderwoderd-fuer-die-automobilbranche_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/4350d2c3-fc66-4666-67d4-08df0c9384b6"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/52e8d557-4784-47c9-67d5-08df0c9384b6"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/e49f8471-4805-4fcb-67d6-08df0c9384b6"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/2a4ecee5-9f4f-4a56-ad1b-08df298e6008"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/49376e2e-891a-4a98-ad1c-08df298e6008"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (w/m/d) bei einem internationalen Dienstleister - hybrides Arbeiten (Rechnungswesen & Finanzen) in 60311 Frankfurt am Main Rechnungswesen &",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-w-m-d-bei-einem-internationalen-dienstleister-hybrides-arbeiten-1"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 46045 Oberhausen Einkauf & Supply Chain 46045 Oberhausen Homeoffice möglich vor 14 Stunden",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-145"
+  },
+  {
+   "at": "2026-10-21T12:10:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-w-m-d-bei-einem-internationalen-dienstleister-hybrides-arbeiten-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T11:55:39+00:00",
+ "last_run": "2026-10-21T12:11:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
