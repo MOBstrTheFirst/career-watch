@@ -1,245 +1,7 @@
 {
- "alerts": 218,
+ "alerts": 230,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Import / Export (m/w/d) (Büroverwaltung) in 74072 Heilbronn Büroverwaltung 74072 Heilbronn Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-import-export-m-w-d-2"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Customer Service (m/w/d) (Büroverwaltung) in 76547 Sinzheim Büroverwaltung 76547 Sinzheim Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/customer-service-m-w-d-37"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kaufmännische Assistenz (m/w/d) (Büroverwaltung) in 76133 Karlsruhe Büroverwaltung 76133 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/kaufmaennische-assistenz-m-w-d-16"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 71287 Weissach Rechnungswesen & Finanzen 71287 Weissach Homeoffice möglich vor einer",
-   "url": "https://jobs.de.dis-ag.com/senior-debitorenbuchhalter-m-w-d-3"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Bau & Immobilien) in 70597 Stuttgart Bau & Immobilien 70597 Stuttgart Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-345"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kreditoren- und Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74523 Schwäbisch Hall Rechnungswesen & Finanzen 74523 Schwäbisch Hall Homeo",
-   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-13"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Technical Sales Manager / Vertriebsingenieur (m/w/d) (Sales & Vertrieb) in 71229 Leonberg Sales & Vertrieb 71229 Leonberg vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/technical-sales-manager-vertriebsingenieur-m-w-d"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76533 Baden-Baden Bau & Immobilien 76533 Baden-Baden Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-14"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Lohnbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 73663 Berglen Rechnungswesen & Finanzen 73663 Berglen Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/lohnbuchhalter-m-w-d-109"
-  },
-  {
-   "at": "2026-10-20T23:09:44+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-96/bewerben"
-  },
-  {
-   "at": "2026-10-20T23:25:35+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Shopfloor Manufacturing Engineer (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156483649-shopfloor-manufacturing-engineer-all-gender-"
-  },
-  {
-   "at": "2026-10-20T23:25:35+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Projektmanager Installation & Inbetriebnahme – Railway (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156483289-projektmanager-installation-inbetriebnahme-railway-all-gender-"
-  },
-  {
-   "at": "2026-10-20T23:40:32+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Project Leader - Manufacturing Engineering (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156483749-project-leader-manufacturing-engineering-all-gender-"
-  },
-  {
-   "at": "2026-10-20T23:40:32+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Aerospace Transfer of Work Manager Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156491029-aerospace-transfer-of-work-manager-"
-  },
-  {
-   "at": "2026-10-20T23:40:32+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Technical Approver for Engineering for Services (EfS) (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000156484379-technical-approver-for-engineering-for-services-efs-all-gender-"
-  },
-  {
-   "at": "2026-10-20T23:54:28+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Senior AI Applications Engineer - Columbia, MD",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-ai-applications-engineer-columbia-md_251563-1704512.html"
-  },
-  {
-   "at": "2026-10-21T00:08:42+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "Lead Electrical Manufacturing Engineer",
-   "url": "https://careers.geaerospace.com/global/en/job/R5040592/Lead-Electrical-Manufacturing-Engineer"
-  },
-  {
-   "at": "2026-10-21T00:08:42+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "GE Turboshaft Engines (T700) - Depot Subject Matter Expert Shop Floor (w/m/x)",
-   "url": "https://careers.geaerospace.com/global/en/job/R5040266/GE-Turboshaft-Engines-T700-Depot-Subject-Matter-Expert-Shop-Floor-w-m-x"
-  },
-  {
-   "at": "2026-10-21T00:08:42+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "Production Technician 4 (Core & Coil)",
-   "url": "https://careers.geaerospace.com/global/en/job/R5039296/Production-Technician-4-Core-Coil"
-  },
-  {
-   "at": "2026-10-21T00:07:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/51b1dbbb-8f5e-4fa9-de86-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-21T00:07:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/0d9f58f3-1e9d-4e31-4623-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-21T00:07:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/0bbb295b-1184-4432-4624-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-21T00:07:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/1d84783b-68c6-4bbe-4625-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-21T00:16:30+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Elektroniker / Sicherheitstechniker - Gebiet Frankfurt (w/m/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF298992T-elektroniker-sicherheitstechniker-gebiet-frankfurt-w-m-div"
-  },
-  {
-   "at": "2026-10-21T00:16:30+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im internationalen Vertrieb für Lenksysteme",
-   "url": "https://jobs.bosch.com/en/job/REF298522E-praktikum-im-internationalen-vertrieb-fuer-lenksysteme"
-  },
-  {
-   "at": "2026-10-21T00:16:30+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum - Fertigung internationaler Fertigungsverbund Düse",
-   "url": "https://jobs.bosch.com/en/job/REF298977K-praktikum-fertigung-internationaler-fertigungsverbund-duese"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "new",
-   "site": "Nokia – Nürnberg",
-   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40945?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
-   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40945?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "new",
-   "site": "Nokia – Nürnberg",
-   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40839?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
-   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40839?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "new",
-   "site": "Nokia – Nürnberg",
-   "title": "https://jobs.nokia.com/en/sites/CX_1/job/40958?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
-   "url": "https://jobs.nokia.com/en/sites/CX_1/job/40958?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Student:in (2)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Civil & Mining Engineering (5)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-21T00:16:33+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Industrial Engineering (4)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-21T00:40:02+00:00",
-   "kind": "new",
-   "site": "Qualcomm – Nürnberg office",
-   "title": "Principal, Technical Standards – RISC-V SW - Qualcomm - Europe Munich, Germany Technical Standards Engineering Gepostete vor 4 Monaten",
-   "url": "https://careers.qualcomm.com/careers/job/446719425631"
-  },
-  {
-   "at": "2026-10-21T00:54:51+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Praktikum - Human Resources (People & Organization) (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/309bb2eb-b011-4831-a48f-826cde3bdfa2?cHash=5580e07e12e76f574327f6a3ccc9dd5d2739d802f7a8c775966c559aa2c7e49a"
-  },
   {
    "at": "2026-10-21T01:09:44+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/vertriebsassistenz-m-w-d-65/bewerben"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Einkäufer (m/w/d) Bauwesen",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzQ4Mw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Senior C++ Softwareentwickler | Embedded Systems & Softwarearchitektur (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzQ4OQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Projektleiter (m/w/d) Konstruktion",
+   "url": "https://headfound.hforce.ai/job/999bfe18-6d5c-493d-a1b7-9a2e1480eb8e"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Projektmanager (m/w/d) Konstruktion",
+   "url": "https://headfound.hforce.ai/job/999bfe18-6d5c-493d-a1b7-9a2e1480eb8e/2f7c3e83-81aa-433f-8009-d6e15660c405"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Bauzeichner Tragwerksplanung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/825a8af8-7723-4471-aea2-75fa790d83f5"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Konstrukteur Tragwerksplanung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/825a8af8-7723-4471-aea2-75fa790d83f5/9804eb9b-e9f0-4ef3-a214-de4867332860"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montierer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000187YpTQAU"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Technischer Sachbearbeiter (m/w/d) – ab 20 €/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000188cUQQAY"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Einkäufer (m/w/d) Maschinenbau",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000015s7E1QAI"
+  },
+  {
+   "at": "2026-10-21T09:25:48+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Datenerfasser (m/w/d) in Köln",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000013nLHBQA2"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Werkstudententätigkeit: Prüfmittelmanagement und technische Stammdatenpflege",
+   "url": "https://jobs.bosch.com/en/job/REF297912G-werkstudententaetigkeit-pruefmittelmanagement-und-technische-stammdatenpflege"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Pflichtpraktikum im Bereich Human Resources",
+   "url": "https://jobs.bosch.com/en/job/REF176053W-pflichtpraktikum-im-bereich-human-resources"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Master Thesis Battery Aging Optimization for Vehicle-to-X Applications",
+   "url": "https://jobs.bosch.com/en/job/REF299035T-master-thesis-battery-aging-optimization-for-vehicle-to-x-applications"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im Bereich Digital Engineering im Sondermaschinenbau",
+   "url": "https://jobs.bosch.com/en/job/REF299038W-praktikum-im-bereich-digital-engineering-im-sondermaschinenbau"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum Konstruktion und technische Projektleitung im Sondermaschinenbau",
+   "url": "https://jobs.bosch.com/en/job/REF299034H-praktikum-konstruktion-und-technische-projektleitung-im-sondermaschinenbau"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im Bereich Supply Chain Planning",
+   "url": "https://jobs.bosch.com/en/job/REF299031D-praktikum-im-bereich-supply-chain-planning"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title General Ledger Specialist with German (m/f/d)",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20106/general-ledger-specialist-with-german-%28m-f-d%29/job?hub=12"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "IT-Servicetechniker (w/m/d) Deutschland, Kassel Berufsausbildung Nicht zutreffend Betreuung von Anwendern im Second-Level-Support bei technischen Frag",
+   "url": "https://www.brunel.net/de-de/jobs/it-servicetechniker-wmd-tr-285120"
+  },
+  {
+   "at": "2026-10-21T09:25:10+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Fachkraft - Lagerlogistik (m/w/d) Dresden",
+   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-512"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Head of IT Digital Employee Experience Veldhoven, Netherlands IT",
+   "url": "https://www.asml.com/en/careers/find-your-job/head-of-it-digital-employee-experience-j00337821"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Arbeits­vor­be­rei­tung (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Berlin, Deutsch­land Anlagenbau Maschinenbau Young Professionals Profession",
+   "url": "https://touch.ferchau.com/de/de/job/525049/arbeitsvorbereitung"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "CAM-Program­mierer (m/w/d) Neu Job Vor Ort Vollzeit 42.000 - 55.000 € Jena, Deutsch­land Weitere Professionals ohne Personalverantwortung Arbeits­weis",
+   "url": "https://touch.ferchau.com/de/de/job/525046/cam-programmierer"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker/Inge­nieur Tuner Produc­tion (m/w/d) Neu Job Vor Ort Vollzeit 70.000 - 80.000 € Nürn­berg, Deutsch­land Elektrotechnik Professionals Senior",
+   "url": "https://touch.ferchau.com/de/de/job/525043/techniker-ingenieur-tuner-production"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Team­leiter (m/w/d) Vertriebs­in­nen­dienst Neu Job Hybrid Vollzeit 65.000 - 80.000 € Ulm, Deutsch­land Vertrieb Professionals Senior Professionals mi",
+   "url": "https://touch.ferchau.com/de/de/job/525040/teamleiter-vertriebsinnendienst"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektromonteur Siemens AG (m/w/d) 09116 Chemnitz, Sachsen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/KHRxp-elektromonteur-siemens-ag-mwd_09116-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lackierer (m/w/d) 73453 Abtsgmünd 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1CtLG7-lackierer-mwd_73453-abtsgmuend"
+  },
+  {
+   "at": "2026-10-21T09:24:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kraftfahrer (m/w/d) Schwerlastverkehr 28309 Bremen 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1VjwmJ-kraftfahrer-mwd-schwerlastverkehr_28309-bremen"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "Schmitt + Sohn Aufzüge",
+   "title": "Technischer Trainer (m/w/d) Schwerpunkt Mechanik in Nürnberg",
+   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/technischer-trainer-mwd-schwerpunkt-mechanik-in-nuernberg-1533"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "Schmitt + Sohn Aufzüge",
+   "title": "Technischer Trainer (m/w/d) Schwerpunkt Elektrik in Nürnberg",
+   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/technischer-trainer-mwd-schwerpunkt-elektrik-in-nuernberg-1534"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsmitarbeiter (m/w/d) (Logistik & Transport) in 56727 Mayen Logistik & Transport 56727 Mayen vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-60"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Controller (m/w/d) – HGB-Reporting & Forecasting (Rechnungswesen & Finanzen) in 40476 Düsseldorf Rechnungswesen & Finanzen 40476 Düsseldorf Homeoffice",
+   "url": "https://jobs.de.dis-ag.com/controller-m-w-d-hgb-reporting-und-forecasting"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Teamassistenz (m/w/d) (Büroverwaltung) in 76448 Durmersheim Büroverwaltung 76448 Durmersheim Homeoffice möglich vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-133"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mayen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-mayen"
+  },
+  {
+   "at": "2026-10-21T09:25:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/vertriebsmitarbeiter-m-w-d-60/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T09:10:44+00:00",
+ "last_run": "2026-10-21T09:26:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 46,
+ "runs": 47,
  "tg_offset": 297408924
 }
