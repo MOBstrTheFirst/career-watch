@@ -1,5 +1,5 @@
 {
- "alerts": 63,
+ "alerts": 66,
  "commands_set": true,
  "events": [
   {
@@ -1331,12 +1331,54 @@
    "site": "ESG – Manching",
    "title": "Ausbildung: \"Elektroniker*in für Geräte und Systeme\" (w/m/d), Start 2027",
    "url": "https://jobs.hensoldt.net/job/Ulm-Ausbildung-Elektronikerin-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29%2C-Start-2027-89077/1353674955"
+  },
+  {
+   "at": "2026-10-21T03:55:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Prüfer/ Montierer (m/w/d) in Kemnath ab 27€ gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000c5q05QAA"
+  },
+  {
+   "at": "2026-10-21T03:55:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fertigungsmitarbeiter (m/w/d) ab 23€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000hixovQAA"
+  },
+  {
+   "at": "2026-10-21T03:55:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "SMT Maschinenbediener (m/w/d) in Berlin ab 22,50€",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010sfTtQAI"
+  },
+  {
+   "at": "2026-10-21T03:55:27+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fertigungsmitarbeiter (m/w/d) ab 23€/Std.",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000g6wltQAA"
+  },
+  {
+   "at": "2026-10-21T03:54:31+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Information Security Governance Manager (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Information-Security-Governance-Manager-%28wmd%29-89077/1365403855"
+  },
+  {
+   "at": "2026-10-21T03:54:31+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Professional Field Operations Drohnenabwehr (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Professional-Field-Operations-Drohnenabwehr-%28mwd%29-82256/1369175055"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T03:40:49+00:00",
+ "last_run": "2026-10-21T03:55:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 24,
+ "runs": 25,
  "tg_offset": 297408924
 }
