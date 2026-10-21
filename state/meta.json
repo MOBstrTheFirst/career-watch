@@ -1,5 +1,5 @@
 {
- "alerts": 9,
+ "alerts": 11,
  "commands_set": true,
  "events": [
   {
@@ -71,12 +71,33 @@
    "site": "ABB – Nürnberg branch",
    "title": "Pharmaceutical/Biotechnology Segment Leader",
    "url": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader"
+  },
+  {
+   "at": "2026-10-21T22:26:09+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Global Solution Architect - NetOps - Remote",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Remote-Location/Global-Solution-Architect---NetOps---Remote_R027400?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T22:26:09+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Global Solution Architect - ValueOps - Remote",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-OH-Remote-Location/Global-Solution-Architect---ValueOps---Remote_R027399?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T22:26:09+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Global Solution Architect - Automation - Remote",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Remote-Location/Global-Solution-Architect---Automation---Remote_R027402?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T22:20:18+00:00",
+ "last_run": "2026-10-21T22:26:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 2,
+ "runs": 3,
  "tg_offset": 297408924
 }
