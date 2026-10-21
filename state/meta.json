@@ -1,5 +1,5 @@
 {
- "alerts": 18,
+ "alerts": 21,
  "commands_set": true,
  "events": [
   {
@@ -176,12 +176,33 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-67/bewerben"
+  },
+  {
+   "at": "2026-10-21T23:25:26+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Field Service Engineer - YieldStar (YS) Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/field-service-engineer-yieldstar-ys-j00352541"
+  },
+  {
+   "at": "2026-10-21T23:25:26+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS System Engineering Integration (Tesla R&D DUV & EUV) Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-system-engineering-integration-tesla-rd-duv-euv-j00354857"
+  },
+  {
+   "at": "2026-10-21T23:25:26+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Tech Support Generalist (Tesla R&D EUV & DUV) Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-tech-support-generalist-tesla-rd-euv-duv-j00355365"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T23:13:44+00:00",
+ "last_run": "2026-10-21T23:27:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 6,
+ "runs": 7,
  "tg_offset": 297408924
 }
