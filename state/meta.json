@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 53,
  "commands_set": true,
  "events": [
   {
@@ -1163,12 +1163,26 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/pharmazeutisch-kaufmaennischer-angestellter-pka-m-w-d-13997"
+  },
+  {
+   "at": "2026-10-21T02:40:30+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "MEH Engineer Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000131116238-meh-engineer"
+  },
+  {
+   "at": "2026-10-21T02:40:30+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Mechanic",
+   "url": "https://leggett.com/careers/search?posting=27594"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T02:25:54+00:00",
+ "last_run": "2026-10-21T02:40:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408924
 }
