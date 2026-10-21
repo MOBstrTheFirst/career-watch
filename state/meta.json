@@ -1,35 +1,7 @@
 {
- "alerts": 600,
+ "alerts": 614,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T11:10:45+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "ENGINEER",
-   "url": "https://careers.motherson.com/en/job/engineer-7416"
-  },
-  {
-   "at": "2026-10-21T11:25:37+00:00",
-   "kind": "new",
-   "site": "e.solutions GmbH",
-   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals?cHash=41163983b97d334500ea9a6aad8f552416f5d9f76e73003c1388389afd3114a1",
-   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals?cHash=41163983b97d334500ea9a6aad8f552416f5d9f76e73003c1388389afd3114a1"
-  },
-  {
-   "at": "2026-10-21T11:25:37+00:00",
-   "kind": "new",
-   "site": "Maschinenfabrik Niehoff",
-   "title": "Werkstudent (m/w/d) im Bereich Technische Planung",
-   "url": "https://www.niehoff-gmbh.info/de/karriere/niehoff-als-arbeitgeber-stellenangebote/stellenangebote-2/werkstudent-mw-w-d-im-bereich-technische-planung"
-  },
-  {
-   "at": "2026-10-21T11:24:37+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Praktikum \"Entwicklung von Kommunikationsmodulen im Bereich Aktive Antennen\" (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Praktikum--Entwicklung-von-Kommunikationsmodulen-im-Bereich-Aktive-Antennen---d-m-w-_JR10441617-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-21T11:24:37+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Trench Germany",
    "title": "Operational Excellence Intern",
    "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1778?c=trench"
+  },
+  {
+   "at": "2026-10-21T16:42:44+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 16:39:39 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T16:42:26+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Operational Planner Malta, US Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/operational-planner-j00354645"
+  },
+  {
+   "at": "2026-10-21T16:42:50+00:00",
+   "kind": "new",
+   "site": "S+S Regeltechnik – Nürnberg",
+   "title": "Mein Konto Einloggen",
+   "url": "https://account.spluss.de/?locale=de&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzcGx1c3MtcmVnZWx0ZWNobmlrLm15c2hvcGlmeS5jb20iLCJmbGFncyI6W10sImV4cCI6MTc5MzIwNTUyMCwibmJmIjoxNzkyNjAwNzIwfQ.mY7vrV-1I9AgK5jyK1uWeWY1CUEJ0TJjobv2PbRdZsA&consent_id=062c1d4d-4436-41c9-adf0-6d5be3e0e573&consent=a0m0p0"
+  },
+  {
+   "at": "2026-10-21T16:42:50+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Data Center Tender/Quotation Specialist",
+   "url": "https://careers.abb/global/en/job/JR00046314/Data-Center-Tender-Quotation-Specialist"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T16:28:07+00:00",
+ "last_run": "2026-10-21T16:43:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
