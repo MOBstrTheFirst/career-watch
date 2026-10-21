@@ -1,154 +1,7 @@
 {
- "alerts": 679,
+ "alerts": 686,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T12:10:14+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Ingenieur Produkttechnik (w/m/d) Dresden HRC1854073",
-   "url": "https://jobs.infineon.com/careers/job/563808972253231"
-  },
-  {
-   "at": "2026-10-21T12:10:14+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Unit Process Engineering Malakka HRC1786267",
-   "url": "https://jobs.infineon.com/careers/job/563808971955067"
-  },
-  {
-   "at": "2026-10-21T12:10:14+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Bangalore BTP HRC1813728",
-   "url": "https://jobs.infineon.com/careers/job/563808972125579"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Strategischer Einkäufer (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/strategischer-einkaeufer-m-w-d_251563-1704771.html"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Einkäufer (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/einkaeufer-m-w-d_251563-1704770.html"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Entwicklungsingenieur (m/w/d) elektrische und optische Verbindungstechnik",
-   "url": "https://jobs.avl.com/job/Neuenstadt-am-Kocher-Entwicklungsingenieur-%28mwd%29-elektrische-und-optische-Verbindungstechnik/1449858033"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Palettierer (m/w/d) Produktion 06493 Harzgerode 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1mo4bA-palettierer-mwd-produktion_06493-harzgerode"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Ingenieur Elektrotechnik Medizingerätehersteller (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1aMmnn-ingenieur-elektrotechnik-medizingeraetehersteller-mwd_91301-forchheim-oberfranken"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener m/w/d 91346 Wiesenttal, Fränk Schweiz 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z24JJEP-maschinenbediener-mwd_91346-wiesenttal-fraenk-schweiz"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker in Bamberg 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2dSow6-industriemechaniker-in-bamberg_91301-forchheim-oberfranken"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Materialdisponent bei Siemens! (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Dkenk-materialdisponent-bei-siemens-mwd_91301-forchheim-oberfranken"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jdEga-maschinenbediener-mwd_91301-forchheim-oberfranken"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhaltungsmecharoniker (m/w/d) 91362 Pretzfeld 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1yIMyB-instandhaltungsmecharoniker-mwd_91362-pretzfeld"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "WIG-Schweißer (m/w/d) 91301 Forchheim, Oberfranken 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1HRrqr-wig-schweisser-mwd_91301-forchheim-oberfranken"
-  },
-  {
-   "at": "2026-10-21T12:11:24+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Montagefacharbeiter m|w|d für die Automobilbranche 91315 Höchstadt an der Aisch 21.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/6f9jH-montagefacharbeiter-moderwoderd-fuer-die-automobilbranche_91315-hoechstadt-an-der-aisch"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/4350d2c3-fc66-4666-67d4-08df0c9384b6"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/52e8d557-4784-47c9-67d5-08df0c9384b6"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/e49f8471-4805-4fcb-67d6-08df0c9384b6"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/2a4ecee5-9f4f-4a56-ad1b-08df298e6008"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/49376e2e-891a-4a98-ad1c-08df298e6008"
-  },
-  {
-   "at": "2026-10-21T12:10:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (w/m/d) bei einem internationalen Dienstleister - hybrides Arbeiten (Rechnungswesen & Finanzen) in 60311 Frankfurt am Main Rechnungswesen &",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-w-m-d-bei-einem-internationalen-dienstleister-hybrides-arbeiten-1"
-  },
   {
    "at": "2026-10-21T12:10:50+00:00",
    "kind": "new",
@@ -3501,12 +3354,159 @@
    "site": "FuehlerSysteme eNET International",
    "title": "2 new text line(s), e.g. 2026-10-21 19:02:09 UTC",
    "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "hier.",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/datenschutz"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Initiativbewerbung, Standort Villingen-Schwenningen",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Initiativbewerbung-Standort-Villingen-Schwenningen-de-j148.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Praxissemester / Thesis / Technikerarbeit Fehlermöglichkeits- und Einflussanalyse (FMEA) in der Zerspanung",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Praxissemester-Thesis-Technikerarbeit-Fehlermoeglichkeits--de-j147.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Betriebspraktikum für Umschüler m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Betriebspraktikum-fuer-Umschueler-mwd-de-j75.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Initiativbewerbung, Standort Müllheim",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Initiativbewerbung-Standort-Muellheim-de-j56.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "DH-Studium Informatik-Informationstechnik - ab 2028 wieder verfügbar",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/DH-Studium-Informatik-Informationstechnik-ab-2028-wieder-v-de-j53.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "DH-Studium Elektrotechnik - ab 2028 wieder verfügbar",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/DH-Studium-Elektrotechnik-ab-2028-wieder-verfuegbar-de-j52.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Praxissemester/ Thesis im Bereich Research & Development SAGE - Smart actuator for green energies",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Praxissemester-Thesis-im-Bereich-Research-Development-SAGE-de-j43.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Ausbildung Fachlagerist m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Ausbildung-Fachlagerist-mwd-de-j47.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Prozessoptimierer im Bereich CNC & Zerspanung m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Prozessoptimierer-im-Bereich-CNC-Zerspanung-mwd-de-j118.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Praxissemester / Thesis Mechanical Development (allgemein)",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Praxissemester-Thesis-Mechanical-Development-allgemein-de-j121.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Praxissemester / Thesis im Bereich Supply Chain Management",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Praxissemester-Thesis-im-Bereich-Supply-Chain-Management-de-j120.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "HSE Manager & Fachkraft für Arbeitssicherheit (m/w/d)",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/HSE-Manager-Fachkraft-fuer-Arbeitssicherheit-mwd-de-j116.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Teamleitung m/w/d Toolstore",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Teamleitung-mwd-Toolstore-de-j100.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "CNC-Maschineneinrichter m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/CNC-Maschineneinrichter-mwd-de-j97.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Ausbildung Fachkraft für Lagerlogistik m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Ausbildung-Fachkraft-fuer-Lagerlogistik-mwd-de-j46.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "DH-Studium Wirtschaftsingenieurwesen - ab 2028 wieder verfügbar",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/DH-Studium-Wirtschaftsingenieurwesen-ab-2028-wieder-verfue-de-j55.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "DH-Studium Maschinenbau - ab 2028 wieder verfügbar",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/DH-Studium-Maschinenbau-ab-2028-wieder-verfuegbar-de-j54.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Ausbildung Industriemechaniker m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Ausbildung-Industriemechaniker-mwd-de-j51.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Ausbildung Industriekaufmann m/w/d",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Ausbildung-Industriekaufmann-mwd-de-j50.html"
+  },
+  {
+   "at": "2026-10-21T19:12:29+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 19:09:52 UTC",
+   "url": "https://www.fuehlersysteme.de"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T19:05:13+00:00",
+ "last_run": "2026-10-21T19:12:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 84,
+ "runs": 85,
  "tg_offset": 297408924
 }
