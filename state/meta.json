@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -491,12 +491,19 @@
    "site": "TÜV NORD EnSys",
    "title": "Industrial Engineering (4)",
    "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
+  },
+  {
+   "at": "2026-10-21T00:40:02+00:00",
+   "kind": "new",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "Principal, Technical Standards – RISC-V SW - Qualcomm - Europe Munich, Germany Technical Standards Engineering Gepostete vor 4 Monaten",
+   "url": "https://careers.qualcomm.com/careers/job/446719425631"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T00:25:57+00:00",
+ "last_run": "2026-10-21T00:40:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 11,
+ "runs": 12,
  "tg_offset": 297408924
 }
