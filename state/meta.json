@@ -1,5 +1,5 @@
 {
- "alerts": 105,
+ "alerts": 112,
  "commands_set": true,
  "events": [
   {
@@ -1786,12 +1786,89 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Produktionshelfer (m/w/d) 97688 Bad Kissingen 21.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/dfLB4-produktionshelfer-mwd_97688-bad-kissingen"
+  },
+  {
+   "at": "2026-10-21T06:55:09+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Heizungsbauer (m/w/d) Darmstadt",
+   "url": "https://www.tempton.de/jobs/heizungsbauer-6"
+  },
+  {
+   "at": "2026-10-21T06:55:09+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "21.10.2026 Heizungsmonteur (m/w/d) Darmstadt",
+   "url": "https://www.tempton.de/jobs/heizungsmonteur-4"
+  },
+  {
+   "at": "2026-10-21T06:54:35+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Die/Layer Attach Process Development Staff Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Die_Layer-Attach-Process-Development-Staff-Engineer-Bayan-Lepas/24642"
+  },
+  {
+   "at": "2026-10-21T06:54:35+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Wire Bond Process Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Wire-Bond-Process-Engineer-Bayan-Lepas/24605"
+  },
+  {
+   "at": "2026-10-21T06:54:35+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "FH-Pflichtpraktikant im Bereich Energy (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Energy--m-w-x-_R00266950?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-21T06:54:35+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter BMW Group (m/w/d) 84130 Dingolfing 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1AFjb2-montagemitarbeiter-bmw-group-mwd_84130-dingolfing"
+  },
+  {
+   "at": "2026-10-21T06:54:35+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "BMW sucht DICH! 84130 Dingolfing 21.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZkhyFG-bmw-sucht-dich_84130-dingolfing"
+  },
+  {
+   "at": "2026-10-21T06:55:04+00:00",
+   "kind": "new",
+   "site": "Dräxlmaier – Ingolstadt",
+   "title": "Werkstudent Sales Elektrik (m/w/d) - SoSe 2027",
+   "url": "https://d-career.org/Draexlmaier/job/Vilsbiburg-Werkstudent-Sales-Elektrik-%28mwd%29-SoSe-2027-84137/1449684433"
+  },
+  {
+   "at": "2026-10-21T06:55:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Channel Marketing Manager (m/w/d) (Digital) in 65760 Eschborn Digital 65760 Eschborn Homeoffice möglich vor 8 Stunden",
+   "url": "https://jobs.de.dis-ag.com/senior-channel-marketing-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-21T06:55:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Eschborn",
+   "url": "https://jobs.de.dis-ag.com/suche/in-eschborn"
+  },
+  {
+   "at": "2026-10-21T06:55:04+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/senior-channel-marketing-manager-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T06:40:56+00:00",
+ "last_run": "2026-10-21T06:55:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
