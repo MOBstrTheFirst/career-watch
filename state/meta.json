@@ -1,49 +1,7 @@
 {
- "alerts": 589,
+ "alerts": 600,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T11:10:35+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Pflegefachkraft Geriatrie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/df5868c1-abbb-5d99-9371-50f428377724/pflegefachkraft-geriatrie-m-w-d"
-  },
-  {
-   "at": "2026-10-21T11:09:54+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "21.10.2026 Qualitätsprüfer Wareneingang und Messtechnik (m/w/d) Lauf an der Pegnitz",
-   "url": "https://www.tempton.de/jobs/qualitaetspruefer-wareneingang-messtechnik"
-  },
-  {
-   "at": "2026-10-21T11:10:45+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Machine Learning Engineer",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Timisoara-RO/Machine-Learning-Engineer_R00259007?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T11:10:45+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Management Referent im IT-Security Bereich (m/w/d) in München",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/management-referent-im-it-security-bereich-m-w-d-70967"
-  },
-  {
-   "at": "2026-10-21T11:10:45+00:00",
-   "kind": "new",
-   "site": "ebm-papst Zeitlauf",
-   "title": "Qualitätstechniker (m/w/d) Wareneingang Elektronik & Lieferantenqualität PG3",
-   "url": "https://ebmpapst.csod.com/ux/ats/careersite/4/home/requisition/3831?c=ebmpapst&lang=en-US"
-  },
-  {
-   "at": "2026-10-21T11:10:45+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "Engineer",
-   "url": "https://careers.motherson.com/en/job/engineer-7128"
-  },
   {
    "at": "2026-10-21T11:10:45+00:00",
    "kind": "new",
@@ -3501,12 +3459,54 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/700db2fa-8b8b-4012-dd24-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-21T16:27:52+00:00",
+   "kind": "new",
+   "site": "University of Bayreuth – power electronics / mechatronics / BayBatt (+1 more)",
+   "title": "Key Account Manager E-Commerce & Onlinehandel (m/w/d)",
+   "url": "https://ubt-career.de/de/stellenportal/detail?id=f4d14311-5acd-f111-9b60-9e890cc6b0ac&slug=key-account-manager-e-commerce-onlinehandel-mwd"
+  },
+  {
+   "at": "2026-10-21T16:27:52+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Java / Quarkus Entwickler (m/w/d) - Versicherungsanwendungen",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzUzOA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-21T16:27:52+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "PROJECT MANAGER - SENSORS",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19023?c=hella"
+  },
+  {
+   "at": "2026-10-21T16:27:33+00:00",
+   "kind": "text",
+   "site": "FuehlerSysteme eNET International",
+   "title": "2 new text line(s), e.g. 2026-10-21 16:24:34 UTC",
+   "url": "https://www.fuehlersysteme.de"
+  },
+  {
+   "at": "2026-10-21T16:27:24+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Vacuum Systems Engineer Wilton, CT, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/vacuum-systems-engineer-j00351740"
+  },
+  {
+   "at": "2026-10-21T16:27:24+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "Operational Excellence Intern",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1778?c=trench"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-21T16:13:34+00:00",
+ "last_run": "2026-10-21T16:28:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
