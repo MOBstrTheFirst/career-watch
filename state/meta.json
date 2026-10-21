@@ -1,5 +1,5 @@
 {
- "alerts": 21,
+ "alerts": 23,
  "commands_set": true,
  "events": [
   {
@@ -379,12 +379,61 @@
    "site": "Rohde & Schwarz",
    "title": "Senior AI Applications Engineer - Columbia, MD",
    "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-ai-applications-engineer-columbia-md_251563-1704512.html"
+  },
+  {
+   "at": "2026-10-21T00:08:42+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Lead Electrical Manufacturing Engineer",
+   "url": "https://careers.geaerospace.com/global/en/job/R5040592/Lead-Electrical-Manufacturing-Engineer"
+  },
+  {
+   "at": "2026-10-21T00:08:42+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "GE Turboshaft Engines (T700) - Depot Subject Matter Expert Shop Floor (w/m/x)",
+   "url": "https://careers.geaerospace.com/global/en/job/R5040266/GE-Turboshaft-Engines-T700-Depot-Subject-Matter-Expert-Shop-Floor-w-m-x"
+  },
+  {
+   "at": "2026-10-21T00:08:42+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Production Technician 4 (Core & Coil)",
+   "url": "https://careers.geaerospace.com/global/en/job/R5039296/Production-Technician-4-Core-Coil"
+  },
+  {
+   "at": "2026-10-21T00:07:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/51b1dbbb-8f5e-4fa9-de86-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-21T00:07:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/0d9f58f3-1e9d-4e31-4623-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T00:07:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/0bbb295b-1184-4432-4624-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-21T00:07:50+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/1d84783b-68c6-4bbe-4625-08df2eb1eacc"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-20T23:55:44+00:00",
+ "last_run": "2026-10-21T00:08:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-20",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
