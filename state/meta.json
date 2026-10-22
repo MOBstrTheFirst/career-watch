@@ -1,5 +1,5 @@
 {
- "alerts": 27,
+ "alerts": 31,
  "commands_set": true,
  "events": [
   {
@@ -232,12 +232,26 @@
    "site": "Broadcom – Regensburg",
    "title": "Fab Assistant",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Depot-Road/Fab-Assistant_R027479-2?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T00:40:11+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS System Engineering Metrology (Tesla R&D DUV & EUV) Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-system-engineering-metrology-tesla-rd-duv-euv-j00354858"
+  },
+  {
+   "at": "2026-10-22T00:39:53+00:00",
+   "kind": "possible",
+   "site": "Qualcomm – Nürnberg office",
+   "title": "interim engineering intern - systems",
+   "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T00:23:21+00:00",
+ "last_run": "2026-10-22T00:41:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 11,
+ "runs": 12,
  "tg_offset": 297408924
 }
