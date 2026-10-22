@@ -1,49 +1,7 @@
 {
- "alerts": 408,
+ "alerts": 412,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T09:10:20+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-81/bewerben"
-  },
-  {
-   "at": "2026-10-22T09:25:33+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Offermanager (w/m/d) strategische Großkunden",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Offermanager-w-m-d-strategische-Gro-kunden/304975"
-  },
-  {
-   "at": "2026-10-22T09:25:33+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Mitarbeiter/Quereinsteiger (m/w/d) Medizinprodukteaufbereitung",
-   "url": "https://karriere.fresenius.de/job-detail/9186be11-f18f-5ac1-8567-b9591a88335d/mitarbeiter-quereinsteiger-m-w-d-medizinprodukteaufbereitung"
-  },
-  {
-   "at": "2026-10-22T09:25:33+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Energieinfrastruktur (m/w/d) Berufserfahrene Halberstadt Neu",
-   "url": "https://karriere.omexom.de/jobs/68268306/Elektromonteur-Energieinfrastruktur-m-w-d-"
-  },
-  {
-   "at": "2026-10-22T09:25:33+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Leiter Technologie und Industrialisierung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018JLwTQAW"
-  },
-  {
-   "at": "2026-10-22T09:25:46+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Produktionsmitarbeiter Vollzeit (m/w/d) Friedrichsdorf",
-   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-vollzeit-29"
-  },
   {
    "at": "2026-10-22T09:26:21+00:00",
    "kind": "new",
@@ -3501,12 +3459,57 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/callcenter-agent-m-w-d-inbound-start-ab-november-2026/bewerben"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Mechanical Install Engineer - EUV Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/mechanical-install-engineer-euv-j00348061"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Manager Strategy & Transformation Berlin, Frankfurt, Hamburg, Köln, München + 1 Strategy & Transformation Vollzeit Professionals",
+   "url": "https://www.capgemini.com/de-de/jobs/5013716101+greenhousegermaninvent"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Baumaschinist (m/w/d) Verkehrswegebau",
+   "url": "https://jobportal.max-boegl.de/Baumaschinist-mwd-Verkehrswegebau-de-j2288.html"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Oberflächenbearbeitung (m/w/d) 85110 Kipfenberg, Oberbayern 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Si3ot-mitarbeiter-oberflaechenbearbeitung-mwd_85110-kipfenberg-oberbayern"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Ladenleitung (m/w/d) 77652 Offenburg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/rCUrD-ladenleitung-mwd_77652-offenburg"
+  },
+  {
+   "at": "2026-10-22T14:39:52+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Verkauf (m/w/d) in Teilzeit auf 25h 77652 Offenburg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/FWX9G-mitarbeiter-verkauf-mwd-in-teilzeit-auf-25h_77652-offenburg"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-10-22T14:31:08+00:00",
+ "last_missing_parts": [
+  1,
+  4
+ ],
+ "last_run": "2026-10-22T14:52:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
