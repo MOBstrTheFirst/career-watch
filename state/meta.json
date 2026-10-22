@@ -1,21 +1,7 @@
 {
- "alerts": 226,
+ "alerts": 241,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T22:10:20+00:00",
-   "kind": "text",
-   "site": "Innoventis GmbH",
-   "title": "10 new text line(s), e.g. 500 Internal Server Error",
-   "url": "https://www.innoventis.de/de/karriere"
-  },
-  {
-   "at": "2026-10-21T22:10:20+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Upgrade Install and Relocation Generalist - EUV (SRC/DL) Austin, US Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-generalist-euv-srcdl-j00348402"
-  },
   {
    "at": "2026-10-21T22:10:20+00:00",
    "kind": "new",
@@ -3312,12 +3298,215 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/disponent-m-w-d-98/bewerben"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Projektleitung (w/m/d) Rail Solutions",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526775"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526775"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Projektleitung (w/m/d) Rail Solutions",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526774"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526774"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Senior Solution Architect (f/m/d) IT/OT Security Platforms",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526772"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526772"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "PLM Process Manager (f/m/d) R&D eMobility",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526333"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526333"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Working Student (f/m/d) - AI agent development",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-AI-agent-development/305800"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter Energieinfrastruktur (m/w/d) Berufserfahrene Halberstadt Neu",
+   "url": "https://karriere.omexom.de/jobs/68269306/Projektleiter-Energieinfrastruktur-m-w-d-"
+  },
+  {
+   "at": "2026-10-22T09:55:38+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Fachplaner (m/w/d) Elektrotechnik",
+   "url": "https://headfound.hforce.ai/job/da359218-2ff0-431c-afc4-b040d0cd6395/5b1e28f3-c45f-4af8-a985-5ee3f41f97f4"
+  },
+  {
+   "at": "2026-10-22T09:55:32+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Arbeitsvorbereiter zivile Montage/MRO (all genders)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Calden-AH-Technik/Arbeitsvorbereiter-zivile-Montage-MRO--all-genders-_JR10451000?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T09:55:32+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Ladenbauer / Montagemitarbeiter (m/w/d)",
+   "url": "https://www.tempton.de/jobs/ladenbauer-montagemitarbeiter"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Learn more Angle Right",
+   "url": "https://careers.ams-osram.com/en/guidelines-use-ai"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Materialdisponent (m/w/d) in München und Kassel Wolfsburg Products & Systems Engineering Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/562472-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 73447 Oberkochen 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1JikDN-maschinenbediener-mwd_73447-oberkochen"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "possible",
+   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
+   "title": "Projektingenieur / Senior Schaltanlagenkonstrukteur Sekundärtechnik/Umspannwerke (m/w/d)",
+   "url": "https://www.trips-group.com/de/jobangebote/"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "possible",
+   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
+   "title": "Leiter SIVACON Fertigung und Produktmangement NSHV/MCC (m/w/d)",
+   "url": "https://www.trips-group.com/de/jobangebote/"
+  },
+  {
+   "at": "2026-10-22T09:55:07+00:00",
+   "kind": "possible",
+   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
+   "title": "Werkstudent Kalkulation (m/w/d)",
+   "url": "https://www.trips-group.com/de/jobangebote/"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "OEM Territory Representative (OTR-EMEA)",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/ESP-Barcelona-Remote-Location/OEM-Territory-Representative--OTR-EMEA-_R027171?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Senior-Design-Engineer_R-10067060?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Working Student (f/m/d) Marketing and Communications",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Tech---Brand-Experience_R-10063737?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Düsseldorf Referent Marketing & Go-to-Market (w/m/d) Berufserfahrene Marketing und Kommunikation",
+   "url": "https://actemium.career.softgarden.de/jobs/68270031/Referent-Marketing-Go-to-Market-w-m-d-"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinenschlosser (m/w/d) (Produktion & Fertigung) in 89250 Senden Produktion & Fertigung 89250 Senden vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/maschinenschlosser-m-w-d"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Lohnbuchhaltung (m/w/d) (HR & Personalwesen) in 34117 Kassel HR & Personalwesen 34117 Kassel Homeoffice möglich vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-lohnbuchhaltung-m-w-d-7"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Leiter Qualitätsmanagement (m/w/d) (Produktion & Fertigung) in 31134 Hildesheim Produktion & Fertigung 31134 Hildesheim Homeoffice möglich vor 11 Stun",
+   "url": "https://jobs.de.dis-ag.com/leiter-qualitaetsmanagement-m-w-d-2"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Senden",
+   "url": "https://jobs.de.dis-ag.com/suche/in-senden"
+  },
+  {
+   "at": "2026-10-22T09:55:16+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/maschinenschlosser-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T09:42:33+00:00",
+ "last_run": "2026-10-22T09:55:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
