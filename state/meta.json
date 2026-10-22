@@ -1,14 +1,7 @@
 {
- "alerts": 492,
+ "alerts": 493,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:24:59+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "HR Payroll Mitar­beiter (m/w/d) Job Vor Ort Vollzeit 45.000 - 60.000 € Oster­holz-Scharm­beck, Deutsch­land Personal Professionals Senior Professional",
-   "url": "https://touch.ferchau.com/de/de/job/511024/hr-payroll-mitarbeiter"
-  },
   {
    "at": "2026-10-22T10:24:59+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "PC&L Manager",
    "url": "https://careers.motherson.com/en/job/pcl-manager-i4cjgpjisyyltzcglurbxg"
+  },
+  {
+   "at": "2026-10-22T19:55:31+00:00",
+   "kind": "new",
+   "site": "Ranovus – Nürnberg",
+   "title": "Senior Analog ASIC Design Engineer",
+   "url": "https://ranovus.bamboohr.com/careers/85"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T19:39:31+00:00",
+ "last_run": "2026-10-22T20:07:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
