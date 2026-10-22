@@ -1,5 +1,5 @@
 {
- "alerts": 45,
+ "alerts": 46,
  "commands_set": true,
  "events": [
   {
@@ -666,12 +666,19 @@
    "site": "FERCHAU",
    "title": "Leiter Papier­her­stel­lung (m/w/d) in Direkt­ver­mitt­lung Job Vor Ort Vollzeit 80.000 - 100.000 € Leipzig, Deutsch­land Direktvermittlung Maschinenb",
    "url": "https://touch.ferchau.com/de/de/job/503191/leiter-papierherstellung-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-22T02:55:24+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "IT Internship",
+   "url": "https://jobs.ams-osram.com/en/job/IT-Internship-George-Town/24639"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T02:42:29+00:00",
+ "last_run": "2026-10-22T02:56:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 21,
+ "runs": 22,
  "tg_offset": 297408924
 }
