@@ -1,28 +1,7 @@
 {
- "alerts": 493,
+ "alerts": 495,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:24:59+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Produkt­de­si­gner (m/w/d) Neu Job Vor Ort Vollzeit 35.000 - 45.000 € Bad Essen, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Young",
-   "url": "https://touch.ferchau.com/de/de/job/525232/technischer-produktdesigner"
-  },
-  {
-   "at": "2026-10-22T10:24:59+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­in­ge­nieur (m/w/d) CAPEX Neu Job Vor Ort Vollzeit 65.000 - 90.000 € Mann­heim, Deutsch­land Anlagenbau Maschinenbau Pharma und Lifescience Pr",
-   "url": "https://touch.ferchau.com/de/de/job/525226/projektingenieur-capex"
-  },
-  {
-   "at": "2026-10-22T10:24:59+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Super­visor Ferti­gung (m/w/d) Neu Job Vor Ort Vollzeit 46.000 - 51.000 € Magde­burg, Deutsch­land Elektrotechnik Fahrzeugtechnik Maschinenbau Profess",
-   "url": "https://touch.ferchau.com/de/de/job/525223/supervisor-fertigung"
-  },
   {
    "at": "2026-10-22T10:24:59+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Ranovus – Nürnberg",
    "title": "Senior Analog ASIC Design Engineer",
    "url": "https://ranovus.bamboohr.com/careers/85"
+  },
+  {
+   "at": "2026-10-22T20:36:01+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Data Scientist III,",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01361174/Data-Scientist-III"
+  },
+  {
+   "at": "2026-10-22T20:36:01+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Data Scientist III,",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01361174EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-22T20:24:49+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Estagiário(a) de Recursos Humanos / Transformação Digital de RH",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82096H-p-1e70193106bb08de94991c1f552c78ec/estagiario-a-de-recursos-humanos-transformacao-digital-de-rh"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T20:07:21+00:00",
+ "last_run": "2026-10-22T20:36:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
