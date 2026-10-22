@@ -1,203 +1,7 @@
 {
- "alerts": 241,
+ "alerts": 251,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-21T22:10:20+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Devenez chaudronnier – Opérateur soudeur : formation & CDI dès le 1er jour F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/devenez-chaudronnier-operateur-soudeur-formation-cdi-des-le-1er-jour-f-h-ref-2026-28039"
-  },
-  {
-   "at": "2026-10-21T22:10:20+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Agent de conditionnement & d’expédition F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/agent-de-conditionnement-dexpedition-f-h-ref-2026-28124"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Forward Deployed Engineer - Kubernetes",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TN-Remote-Location/Forward-Deployed-Engineer---Kubernetes_R027412?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Principal Forward Deployed Engineer – AI & Developer Platform",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CAN-Ontario-Remote-Location/Principal-Forward-Deployed-Engineer---AI---Developer-Platform_R027411?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Support Officer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067007&jobId=119021"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Systems & Markets Policy Advisor",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884858&jobId=118563"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Principal Hardware & IC Functional Safety Architect",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Hardware---IC-Functional-Safety-Architect_R-10067377?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:10:49+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Pharmaceutical/Biotechnology Segment Leader",
-   "url": "https://careers.abb/global/en/job/JR00050404/Pharmaceutical-Biotechnology-Segment-Leader"
-  },
-  {
-   "at": "2026-10-21T22:26:09+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Global Solution Architect - NetOps - Remote",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Remote-Location/Global-Solution-Architect---NetOps---Remote_R027400?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:26:09+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Global Solution Architect - ValueOps - Remote",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-OH-Remote-Location/Global-Solution-Architect---ValueOps---Remote_R027399?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:26:09+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Global Solution Architect - Automation - Remote",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Remote-Location/Global-Solution-Architect---Automation---Remote_R027402?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T22:40:01+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Senior Software Engineer - Quality Assurance",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Software-Engineer---Quality-Assurance_R027442?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 74072 Heilbronn Büroverwaltung 74072 Heilbronn Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-67"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Luftfracht Export Specialist (m/w/d) (Logistik & Transport) in 70794 Filderstadt Logistik & Transport 70794 Filderstadt vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/luftfracht-export-specialist-m-w-d"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Gehaltsbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 72072 Tübingen Rechnungswesen & Finanzen 72072 Tübingen Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/gehaltsbuchhalter-m-w-d-10"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76698 Ubstadt-Weiher Bau & Immobilien 76698 Ubstadt-Weiher Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-16"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Luftfracht Export (m/w/d) (Logistik & Transport) in 70771 Leinfelden-Echterdingen Logistik & Transport 70771 Leinfelden-Echterdingen vo",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-luftfracht-export-m-w-d-5"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Strategischer Einkäufer (m/w/d) (Büroverwaltung) in 74172 Neckarsulm Büroverwaltung 74172 Neckarsulm Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-146"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) (Büroverwaltung) in 74348 Lauffen am Neckar Büroverwaltung 74348 Lauffen am Neckar Homeoffice möglich vor ein",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-94"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76137 Karlsruhe Bau & Immobilien 76137 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-15"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Einkaufssachbearbeiter (m/w/d) (Büroverwaltung) in 76136 Malsch Büroverwaltung 76136 Malsch Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-84"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Technischer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 76131 Karlsruhe Einkauf & Supply Chain 76131 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/technischer-einkaeufer-m-w-d-61"
-  },
-  {
-   "at": "2026-10-21T23:10:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-67/bewerben"
-  },
-  {
-   "at": "2026-10-21T23:25:26+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Field Service Engineer - YieldStar (YS) Austin, TX, US Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/field-service-engineer-yieldstar-ys-j00352541"
-  },
-  {
-   "at": "2026-10-21T23:25:26+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS System Engineering Integration (Tesla R&D DUV & EUV) Austin, TX, US Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-system-engineering-integration-tesla-rd-duv-euv-j00354857"
-  },
-  {
-   "at": "2026-10-21T23:25:26+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Senior Tech Support Generalist (Tesla R&D EUV & DUV) Austin, TX, US Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/senior-tech-support-generalist-tesla-rd-euv-duv-j00355365"
-  },
-  {
-   "at": "2026-10-21T23:55:35+00:00",
-   "kind": "new",
-   "site": "Vishay Semiconductor – Selb",
-   "title": "Read more",
-   "url": "https://jobs.vishay.com/jobs/account-development-engineer"
-  },
-  {
-   "at": "2026-10-22T00:11:51+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "NPI Intern",
-   "url": "https://careers.geaerospace.com/global/en/job/R5037560/NPI-Intern"
-  },
   {
    "at": "2026-10-22T00:11:51+00:00",
    "kind": "new",
@@ -3501,12 +3305,208 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/maschinenschlosser-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Werkstudent (w/m/d) für die Entwicklung von Heißgaspfad-Komponenten großer Gasturbinen",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-f-r-die-Entwicklung-von-Hei-gaspfad-Komponenten-gro-er-Gasturbinen/305878"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Product Cybersecurity Architect (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Product-Cybersecurity-Architect-f-m-d/304543"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "Afag Automation",
+   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012484?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012484?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "HSE-Manager / Fachkraft für Arbeitssicherheit (m/w/d) Berufseinsteiger Oldenburg Neu",
+   "url": "https://karriere.omexom.de/jobs/68270411/HSE-Manager-Fachkraft-f%C3%BCr-Arbeitssicherheit-m-w-d-"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Teamleiter Elektronikfertigung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektrotechniker / Elektroingenieur für Serienfertigung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f/1a478c46-6002-4d3e-9a93-ec40d7671608"
+  },
+  {
+   "at": "2026-10-22T10:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Gruppenleiter Elektronikfertigung (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f/42beb81c-8401-4875-b040-498e9944c772"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Machine Learning and AI (f/m/div) München HRC1854950 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972253498"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Industriepraktikum - Softwareentwicklung für KI und Maschinelles Lernen (w/m/div) Villach HRC1834472",
+   "url": "https://jobs.infineon.com/careers/job/563808972165821"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Artificial Intelligence and Machine Learning (Finance) Singapur HRC1691766 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971385843"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Working Student - Finance and Controlling Automotive (f/m/div) München HRC1817915",
+   "url": "https://jobs.infineon.com/careers/job/563808972090579"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - AI Research, Development, and Implementation in Wafer Technology Samut Prakan HRC1817255_1",
+   "url": "https://jobs.infineon.com/careers/job/563808972078932"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Failure Analysis (AI Modelling and Digitalisation) Singapur HRC1690536 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971373238"
+  },
+  {
+   "at": "2026-10-22T10:10:34+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Messtechniker (Energietechnik) (m/w/d) Hann. Münden",
+   "url": "https://www.tempton.de/jobs/messtechniker-energietechnik-2"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Production Worker Waferproduction (m/w/f) Angle Right",
+   "url": "https://jobs.ams-osram.com/en/job/Produktionsmitarbeiterin-Waferfertigung/20466"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Production Worker Waferproduction - Nightshift (m/f/d) Angle Right",
+   "url": "https://jobs.ams-osram.com/en/job/Produktionsmitarbeiterin-Waferfertigung-Nachtschicht/19250"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "First Level Maintenance Technician (FLM) (m/f/d) Angle Right",
+   "url": "https://jobs.ams-osram.com/en/job/First-Level-Maintenance-Technician-FLM/19164"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter (m/w/d) 72622 Nürtingen 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/28ugTj-sachbearbeiter-mwd_72622-nuertingen"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sourcing Manager (m/w/d) 73447 Oberkochen 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/yChWF-sourcing-manager-mwd_73447-oberkochen"
+  },
+  {
+   "at": "2026-10-22T10:12:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 73447 Oberkochen 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZRidST-maschinenbediener-mwd_73447-oberkochen"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/b50e51ca-c20f-41e9-dcd3-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/351cca71-2f44-4003-ae0c-08df298e6008"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/2d57273e-dc10-427d-ae0d-08df298e6008"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/0cdd3ef9-1e6e-4b4b-465e-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/7e32d58c-7dd5-4220-465f-08df2eb1eacc"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinen- und Anlagenführer Textilproduktion (m/w/d) (Technik & Instandhaltung) in 89542 Herbrechtingen Technik & Instandhaltung 89542 Herbrechtingen",
+   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-textilproduktion-m-w-d"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Herbrechtingen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-herbrechtingen"
+  },
+  {
+   "at": "2026-10-22T10:10:11+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-textilproduktion-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T09:55:54+00:00",
+ "last_run": "2026-10-22T10:13:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
