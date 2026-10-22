@@ -1,5 +1,5 @@
 {
- "alerts": 18,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -281,12 +281,19 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/maschinenbediener-verpackung-m-w-d-1800-eur-verhandelbar/bewerben"
+  },
+  {
+   "at": "2026-10-22T23:55:06+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Technical Trainer / Certified Instructor (VCI) – VMware Cloud Foundation (VCF)",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/SGP-Robinson-Road-SO/Technical-Trainer---Certified-Instructor--VCI----VMware-Cloud-Foundation--VCF-_R027493?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T23:40:48+00:00",
+ "last_run": "2026-10-22T23:59:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 7,
+ "runs": 8,
  "tg_offset": 297408924
 }
