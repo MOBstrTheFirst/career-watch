@@ -1,21 +1,7 @@
 {
- "alerts": 477,
+ "alerts": 479,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:28:11+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Inventurhelfer (m/w/d) Jessen",
-   "url": "https://www.tempton.de/jobs/inventurhelfer-1"
-  },
-  {
-   "at": "2026-10-22T10:28:11+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 CNC-Dreher (m/w/d) ab 22€/Std Triftern",
-   "url": "https://www.tempton.de/jobs/cnc-dreher-22-euro-std-2"
-  },
   {
    "at": "2026-10-22T10:28:11+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Material Handler (3rd)",
    "url": "https://leggett.com/careers/search?posting=36613"
+  },
+  {
+   "at": "2026-10-22T18:41:01+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Leitender Oberarzt Gastroenterologie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/dde3abf5-da2f-5ac8-bf6f-719ba9e477a8/leitender-oberarzt-gastroenterologie-m-w-d"
+  },
+  {
+   "at": "2026-10-22T18:40:35+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Fluggerätelektroniker (m/w/d) A400M",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Fluggertelektroniker--m-w-d--A400M_JR10449546-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T18:27:38+00:00",
+ "last_run": "2026-10-22T18:41:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
