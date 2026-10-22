@@ -1,5 +1,5 @@
 {
- "alerts": 62,
+ "alerts": 65,
  "commands_set": true,
  "events": [
   {
@@ -827,12 +827,26 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-kieferchirurgischer-op-m-w-d-2026-11-09-chz-kc-op-gkp"
+  },
+  {
+   "at": "2026-10-22T05:26:09+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Bayreuth",
+   "title": "Werkstudent (m/w/d) Fernwärme und Wärmecontracting",
+   "url": "https://jobs.stadtwerke-bayreuth.de/Werkstudent-mwd-Fernwaerme-und-Waermecontracting-de-j146.html"
+  },
+  {
+   "at": "2026-10-22T05:25:22+00:00",
+   "kind": "new",
+   "site": "SINTEC Informatik – Nürnberg / Erlangen",
+   "title": "Service Management Specialist (m/w/d) - ID: 361",
+   "url": "https://www.sintec.de/karriere/jobs/Service-Management-Specialist-mwd-ID-361-de-j361.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T05:13:31+00:00",
+ "last_run": "2026-10-22T05:26:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
