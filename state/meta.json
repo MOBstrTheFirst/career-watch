@@ -1,5 +1,5 @@
 {
- "alerts": 50,
+ "alerts": 53,
  "commands_set": true,
  "events": [
   {
@@ -680,12 +680,19 @@
    "site": "Intel – Nürnberg",
    "title": "Senior Software Development Engineer (Contract Position)",
    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Senior-Software-Development-Engineer--Contract-Position-_JR0287775?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T04:25:13+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Field Service Technician",
+   "url": "https://careers.abb/global/en/job/JR00040272/Senior-Field-Service-Technician"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T04:11:11+00:00",
+ "last_run": "2026-10-22T04:25:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 27,
+ "runs": 28,
  "tg_offset": 297408924
 }
