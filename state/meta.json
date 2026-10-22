@@ -1,28 +1,7 @@
 {
- "alerts": 461,
+ "alerts": 464,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:12:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter (m/w/d) 72622 Nürtingen 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/28ugTj-sachbearbeiter-mwd_72622-nuertingen"
-  },
-  {
-   "at": "2026-10-22T10:12:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sourcing Manager (m/w/d) 73447 Oberkochen 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/yChWF-sourcing-manager-mwd_73447-oberkochen"
-  },
-  {
-   "at": "2026-10-22T10:12:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 73447 Oberkochen 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZRidST-maschinenbediener-mwd_73447-oberkochen"
-  },
   {
    "at": "2026-10-22T10:10:11+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Magna – Veitsbronn",
    "title": "HVAC Technician",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Etobicoke-Ontario-CA/HVAC-Technician_R00234345?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:56:00+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "AI Engineer – Agentic Development Platform",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/AI-Engineer-Agentic-Development-Platform/305557"
+  },
+  {
+   "at": "2026-10-22T16:54:44+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "3rd Shift Press Operator",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/XMLNAME-3rd-Shift-Press-Operator_R00262014-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:54:44+00:00",
+   "kind": "text",
+   "site": "ACS Industrietechnik",
+   "title": "64 new text line(s), e.g. Home",
+   "url": "https://www.acs-industrietechnik.de/index.php/karriere"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T16:40:54+00:00",
+ "last_run": "2026-10-22T16:57:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
