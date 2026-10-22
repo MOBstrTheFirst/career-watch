@@ -1,21 +1,7 @@
 {
- "alerts": 464,
+ "alerts": 466,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/b50e51ca-c20f-41e9-dcd3-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/351cca71-2f44-4003-ae0c-08df298e6008"
-  },
   {
    "at": "2026-10-22T10:10:11+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ACS Industrietechnik",
    "title": "64 new text line(s), e.g. Home",
    "url": "https://www.acs-industrietechnik.de/index.php/karriere"
+  },
+  {
+   "at": "2026-10-22T17:17:32+00:00",
+   "kind": "new",
+   "site": "Leonhard Kurz / KURZ Digital Solutions",
+   "title": "Praktikant Human Resources (m/w/d)",
+   "url": "https://leonhardkurz.hr4you.org/job/view/1029/praktikant-human-resources-m-w-d?page_lang=de"
+  },
+  {
+   "at": "2026-10-22T17:10:10+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "CoE Field Service Operations Manager — Data Center Division",
+   "url": "https://careers.abb/global/en/job/JR00049611/CoE-Field-Service-Operations-Manager-—-Data-Center-Division"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T16:57:16+00:00",
+ "last_run": "2026-10-22T17:18:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
