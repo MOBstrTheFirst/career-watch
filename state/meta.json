@@ -1,14 +1,7 @@
 {
- "alerts": 476,
+ "alerts": 477,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:28:11+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Microsoft Dynamics 365 Business Central Entwickler (m/w/d) Essen",
-   "url": "https://www.tempton.de/jobs/microsoft-dynamics-365-business-central-entwickler"
-  },
   {
    "at": "2026-10-22T10:28:11+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Ramboll – Nürnberg",
    "title": "Go to job",
    "url": "https://www.ramboll.com/careers/8c945072-9656-4f17-ab74-08df298e6008"
+  },
+  {
+   "at": "2026-10-22T18:25:25+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Material Handler (3rd)",
+   "url": "https://leggett.com/careers/search?posting=36613"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T18:10:52+00:00",
+ "last_run": "2026-10-22T18:27:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
