@@ -1,5 +1,5 @@
 {
- "alerts": 108,
+ "alerts": 115,
  "commands_set": true,
  "events": [
   {
@@ -1457,12 +1457,124 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-hybrides-arbeiten-31/bewerben"
+  },
+  {
+   "at": "2026-10-22T07:10:37+00:00",
+   "kind": "possible",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) – Digitalization & Finance",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&listFilterMode=1&folderRecordsPerPage=20"
+  },
+  {
+   "at": "2026-10-22T07:10:37+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechatroniker für Instandhaltung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018HqI1QAK"
+  },
+  {
+   "at": "2026-10-22T07:12:41+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Industriemechaniker (m/w/d) Göttingen",
+   "url": "https://www.tempton.de/jobs/industriemechaniker-664"
+  },
+  {
+   "at": "2026-10-22T07:12:41+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Schweißer - Konstruktionstechnik (m/w/d) Hann. Münden",
+   "url": "https://www.tempton.de/jobs/schweisser-konstruktionstechnik-7"
+  },
+  {
+   "at": "2026-10-22T07:12:41+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Industriemechaniker (m/w/d) Hann. Münden",
+   "url": "https://www.tempton.de/jobs/industriemechaniker-663"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Oberflächenbeschichter (m/w/d) 73553 Alfdorf 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZwkOJw-oberflaechenbeschichter-mwd_73553-alfdorf"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenführer (m/w/d) 96146 Altendorf, Kreis Bamberg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZhrUld-maschinenfuehrer-mwd_96146-altendorf-kreis-bamberg"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenführer (m/w/d) im Schichtsystem in Altendorf gesucht 96146 Altendorf, Kreis Bamberg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1p6DNy-anlagenfuehrer-mwd-im-schichtsystem-in-altendorf-gesucht_96146-altendorf-kreis-bamberg"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91438 Bad Windsheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2b8Itd-produktionsmitarbeiter-mwd_91438-bad-windsheim"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 04720 Döbeln 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dzGCh-maschinenbediener-mwd_04720-doebeln"
+  },
+  {
+   "at": "2026-10-22T07:10:10+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Account Executive - West Enterprise",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Texas-United-States-of-America/Account-Executive---West-Enterprise_71007856?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T07:10:31+00:00",
+   "kind": "new",
+   "site": "Grenzebach – Asbach-Bäumenheim",
+   "title": "Ausbildung zum Industriekaufmann (m/w/d) 2027",
+   "url": "https://grenzebach.softgarden.io/job/65989913/Ausbildung-zum-Industriekaufmann-m-w-d-2027?jobDbPVId=288392801&l=de"
+  },
+  {
+   "at": "2026-10-22T07:10:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellte (m/w/d) außerhalb der Steuerberatung (Rechnungswesen & Finanzen) in 58452 Witten Rechnungswesen & Finanzen 58452 Witten Homeoffi",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-m-w-d-ausserhalb-der-steuerberatung-39"
+  },
+  {
+   "at": "2026-10-22T07:10:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Debitorenbuchhalter (m/w/d) - hybrides Arbeiten (Rechnungswesen & Finanzen) in 47057 Duisburg Rechnungswesen & Finanzen 47057 Duisburg Homeoffice mögl",
+   "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-hybrides-arbeiten-23"
+  },
+  {
+   "at": "2026-10-22T07:10:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Witten",
+   "url": "https://jobs.de.dis-ag.com/suche/in-witten"
+  },
+  {
+   "at": "2026-10-22T07:10:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-m-w-d-ausserhalb-der-steuerberatung-39/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T06:56:31+00:00",
+ "last_run": "2026-10-22T07:12:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
