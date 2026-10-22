@@ -1,21 +1,7 @@
 {
- "alerts": 469,
+ "alerts": 472,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/7e32d58c-7dd5-4220-465f-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Maschinen- und Anlagenführer Textilproduktion (m/w/d) (Technik & Instandhaltung) in 89542 Herbrechtingen Technik & Instandhaltung 89542 Herbrechtingen",
-   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-textilproduktion-m-w-d"
-  },
   {
    "at": "2026-10-22T10:10:11+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Magna – Veitsbronn",
    "title": "Materials Team Leader",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Birmingham-Alabama-US/Materials-Team-Leader_R00266776-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T17:54:31+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Senior Manager, Transformation Capability & Community",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Sao-Paulo-So-Paulo-BR/Senior-Manager--Transformation-Capability---Community_R00266252?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T17:55:00+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Operating Engineer High Voltage Primary Systems [EU-Resident]",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4506860&jobId=115647"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T17:41:07+00:00",
+ "last_run": "2026-10-22T17:55:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
