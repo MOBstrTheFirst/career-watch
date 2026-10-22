@@ -1,5 +1,5 @@
 {
- "alerts": 82,
+ "alerts": 90,
  "commands_set": true,
  "events": [
   {
@@ -1058,12 +1058,47 @@
    "site": "Ericsson (Antenna Systems) – Regensburg",
    "title": "EDA Ecosystem Technical Project Manager Austin,Texas,United States Product Development Hybrid Flexible Lage Gepostete vor 7 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121775003749"
+  },
+  {
+   "at": "2026-10-22T06:25:30+00:00",
+   "kind": "new",
+   "site": "dSPACE – Ingolstadt",
+   "title": "Project Controller (m/f)",
+   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38196&t=Project+Controller+%28m%2Ff%29"
+  },
+  {
+   "at": "2026-10-22T06:25:30+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Support Process & Maintenance Engineer Wafertest Probecards (w/m/div)",
+   "url": "https://jobs.bosch.com/en/job/REF290216S-support-process-maintenance-engineer-wafertest-probecards-w-m-div"
+  },
+  {
+   "at": "2026-10-22T06:25:08+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Industrial Engineering Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Industrial-Engineering-Engineer-Bayan-Lepas/24595"
+  },
+  {
+   "at": "2026-10-22T06:25:08+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur Anla­genbau (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Fried­richs­hafen, Deutsch­land Anlagenbau Maschinenbau Weitere Profess",
+   "url": "https://touch.ferchau.com/de/de/job/400777/projektingenieur-anlagenbau"
+  },
+  {
+   "at": "2026-10-22T06:25:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter - Lebensmittelbereich (m/w/d) 96135 Stegaurach 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1RwsR4-produktionsmitarbeiter-lebensmittelbereich-mwd_96135-stegaurach"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T06:10:59+00:00",
+ "last_run": "2026-10-22T06:25:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
