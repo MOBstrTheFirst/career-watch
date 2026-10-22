@@ -1,224 +1,7 @@
 {
- "alerts": 412,
+ "alerts": 426,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Process Engineer (Tooling) Eindhoven, Netherlands Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/process-engineer-tooling-j00351096"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mitar­beiter Wartungs­ma­nage­ment (m/w/d) Job Hybrid Vollzeit 48.000 - 58.000 € Bremen, Deutsch­land Schiffbau und Meerestechnik Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/520312/mitarbeiter-wartungsmanagement"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Service­tech­niker (m/w/d) Tor- und Türan­lagen Neu Job Vor Ort Vollzeit 40.000 - 50.000 € Bürstadt, Deutsch­land Anlagenbau Elektrotechnik Weitere Yo",
-   "url": "https://touch.ferchau.com/de/de/job/525211/servicetechniker-tor-und-tueranlagen"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Steu­er­fach­spe­zia­list (m/w/d) Job Hybrid Vollzeit 80.000 - 100.000 € Linz, Öster­reich Elektrotechnik Professionals Senior Professionals ohne Pers",
-   "url": "https://touch.ferchau.com/de/de/job/521041/steuerfachspezialist"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Redak­teur Betriebs­füh­rungs­pläne (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Bremen, Deutsch­land Schiffbau und Meerestechnik Youn",
-   "url": "https://touch.ferchau.com/de/de/job/490117/technischer-redakteur-betriebsfuehrungsplaene"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Admi­nis­trator IT-Infra­struktur (m/w/d) Job Hybrid Vollzeit 50.000 - 70.000 € Lemwerder, Deutsch­land Informationstechnik Professionals Senior Profe",
-   "url": "https://touch.ferchau.com/de/de/job/508114/administrator-it-infrastruktur"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "System- und Netz­werk­ad­mi­nis­trator (m/w/d) Job Hybrid Vollzeit 35.000 - 60.000 € Olden­burg, Deutsch­land Informationstechnik Weitere Young Profes",
-   "url": "https://touch.ferchau.com/de/de/job/446218/system-und-netzwerkadministrator"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Rohr­lei­tungsbau (m/w/d) Job Hybrid Vollzeit 48.000 - 58.000 € Groß­enkneten, Deutsch­land Maschinenbau Young Professionals Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/515212/konstrukteur-rohrleitungsbau"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur Energie- und Umwelt­technik (m/w/d) Job Vor Ort Vollzeit 50.000 - 60.000 € Lemwerder, Deutsch­land Green Jobs & Projects 1 Maschinenbau Sch",
-   "url": "https://touch.ferchau.com/de/de/job/485434/ingenieur-energie-und-umwelttechnik"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Termin­planer (m/w/d) Job Vor Ort Vollzeit 48.000 - 60.000 € Papen­burg, Deutsch­land Schiffbau und Meerestechnik Young Professionals Professionals oh",
-   "url": "https://touch.ferchau.com/de/de/job/505471/terminplaner"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker Konstruk­tion (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Aurich, Deutsch­land Maschinenbau Schiffbau und Meerestechnik Young Profession",
-   "url": "https://touch.ferchau.com/de/de/job/514216/techniker-konstruktion"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "PLM & CAx Admi­nis­trator (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 65.000 € Emden, Deutsch­land Schiffbau und Meerestechnik Weitere Young Professional",
-   "url": "https://touch.ferchau.com/de/de/job/525208/plm-cax-administrator"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Anla­genbau & Verfah­rens­technik (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Sulingen, Deutsch­land Personal Professionals Senior P",
-   "url": "https://touch.ferchau.com/de/de/job/521710/projektleiter-anlagenbau-verfahrenstechnik"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Spezia­list Arbeits­vor­be­rei­tung (m/w/d) Neu Job Hybrid Vollzeit 44.600 - 50.000 € Weiz, Öster­reich Anlagenbau Elektrotechnik Maschinenbau Profess",
-   "url": "https://touch.ferchau.com/de/de/job/525205/spezialist-arbeitsvorbereitung"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­triker, Elek­tro­niker (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 50.000 € Stutt­gart, Deutsch­land Weitere Young Professionals Professionals ohne",
-   "url": "https://touch.ferchau.com/de/de/job/525202/elektriker-elektroniker"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur Erneu­er­bare Ener­gien & Netz­sys­teme (m/w/d) Job Vor Ort Vollzeit 65.000 - 75.000 € Neumarkt in der Ober­pfalz, Deutsch­land Elektrotech",
-   "url": "https://touch.ferchau.com/de/de/job/524173/ingenieur-erneuerbare-energien-netzsysteme"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Mitar­beiter Quali­täts­si­che­rung (m/w/d) Neu Job Vor Ort Vollzeit 42.000 - 47.000 € Hamburg, Deutsch­land Maschinenbau Pharma und Lifescience Weite",
-   "url": "https://touch.ferchau.com/de/de/job/525199/mitarbeiter-qualitaetssicherung"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Prüf­stands­ent­wick­lung bei Siemens Energy (m/w/d) Neu Job Vor Ort Vollzeit 75.000 - 85.000 € Nürn­berg, Deutsch­land Anlagenbau Profe",
-   "url": "https://touch.ferchau.com/de/de/job/525193/konstrukteur-pruefstandsentwicklung-bei-siemens-energy"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bauleiter Elek­tro­technik (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 60.000 € Stutt­gart, Deutsch­land Elektrotechnik Weitere Professionals Senior Prof",
-   "url": "https://touch.ferchau.com/de/de/job/525196/bauleiter-elektrotechnik"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Service­tech­niker Sonder­ma­schi­nenbau (m/w/d) Neu Job Vor Ort Vollzeit 36.000 - 50.000 € Jena, Deutsch­land Elektrotechnik Fahrzeugtechnik Professi",
-   "url": "https://touch.ferchau.com/de/de/job/525190/servicetechniker-sondermaschinenbau"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Manu­fac­tu­ring Engi­neer bei Siemens Energy (m/w/d) Neu Job Vor Ort Vollzeit 70.000 - 85.000 € Nürn­berg, Deutsch­land Anlagenbau Professionals ohne",
-   "url": "https://touch.ferchau.com/de/de/job/525184/manufacturing-engineer-bei-siemens-energy"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Mecha­nical Design bei Siemens Energy (m/w/d) Neu Job Vor Ort Vollzeit 70.000 - 85.000 € Nürn­berg, Deutsch­land Maschinenbau Profession",
-   "url": "https://touch.ferchau.com/de/de/job/525178/konstrukteur-mechanical-design-bei-siemens-energy"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Student:in (13)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 73453 Abtsgmünd 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2sRaOj-staplerfahrer-mwd_73453-abtsgmuend"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 27572 Bremerhaven 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ErNHU-lagermitarbeiter-mwd_27572-bremerhaven"
-  },
-  {
-   "at": "2026-10-22T09:26:21+00:00",
-   "kind": "possible",
-   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
-   "title": "Mitarbeiter für Sauberkeit und Ordnung (m/w/d)",
-   "url": "https://www.trips-group.com/de/jobangebote/"
-  },
-  {
-   "at": "2026-10-22T09:25:17+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Operativer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 76275 Ettlingen Einkauf & Supply Chain 76275 Ettlingen Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-150"
-  },
-  {
-   "at": "2026-10-22T09:25:17+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Teamleiter (m/w/d) (Produktion & Fertigung) in 89143 Blaubeuren Produktion & Fertigung 89143 Blaubeuren vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/teamleiter-m-w-d-5"
-  },
-  {
-   "at": "2026-10-22T09:25:17+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75181 Pforzheim Rechnungswesen & Finanzen 75181 Pforzheim Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-351"
-  },
-  {
-   "at": "2026-10-22T09:25:17+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Ettlingen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-ettlingen"
-  },
-  {
-   "at": "2026-10-22T09:25:17+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-150/bewerben"
-  },
   {
    "at": "2026-10-22T09:42:19+00:00",
    "kind": "new",
@@ -3501,15 +3284,229 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Mitarbeiter Verkauf (m/w/d) in Teilzeit auf 25h 77652 Offenburg 22.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/FWX9G-mitarbeiter-verkauf-mwd-in-teilzeit-auf-25h_77652-offenburg"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/320?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/320?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Head of Process and Tools (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Head-of-Process-and-Tools-w-m-d/298836"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Analyst (f/m/d) Sales Intelligence & AI",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Analyst-f-m-d-Sales-Intelligence-AI/305302"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "Preh GmbH",
+   "title": "Automation and Control Engineer (M/F)",
+   "url": "https://career.preh.com/en/job-openings/current-job-offers.html?yid=3956"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Senior Structural Design Engineer Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157157907-senior-structural-design-engineer"
+  },
+  {
+   "at": "2026-10-22T15:10:33+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industrieelektriker – Betriebstechnik (m/w/d) / Siemens AG",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018MyzhQAC"
+  },
+  {
+   "at": "2026-10-22T15:11:13+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent im Bereich Strategic Procurement Armament, Electronic Warfare and Drones (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Werkstudent-im-Bereich-Strategic-Procurement-Armament--Electronic-Warfare-and-Drones--d-m-w-_JR10445169?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T15:11:13+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Prozessingenieur (w/m/d) Optik Deutschland, Göttingen Bachelor Universität 2-4 Jahre Entwicklung und Planung von Fertigungsprozessen im Prototypenbau ",
+   "url": "https://www.brunel.net/de-de/jobs/prozessingenieur-wmd-optik-tr-289925"
+  },
+  {
+   "at": "2026-10-22T15:11:13+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Elektriker (m/w/d) in Angermünde Angermünde",
+   "url": "https://www.tempton.de/jobs/elektriker-angermuende"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Pulverbeschichter (m/w/d) 79336 Herbolzheim, Breisgau 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/54MjB-pulverbeschichter-mwd_79336-herbolzheim-breisgau"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verfahrensmechaniker- Bauteile (m/w/d) 77975 Ringsheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1KkBzy-verfahrensmechaniker-bauteile-mwd_77975-ringsheim"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verfahrensmechaniker- Bauteile (m/w/d) 77975 Ringsheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/220wND-verfahrensmechaniker-bauteile-mwd_77975-ringsheim"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Werkzeugmechaniker Kunststoffindustrie (m/w/d) 77975 Ringsheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2dkkNR-werkzeugmechaniker-kunststoffindustrie-mwd_77975-ringsheim"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker / CNC- Dreher/ CNC- Fräser Metallbranche (m/w/d) 77971 Kippenheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1buGfG-zerspanungsmechaniker-cnc-dreher-cnc-fraeser-metallbranche-mwd_77971-kippenheim"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker / Maschineneinrichter (m/w/d) 77971 Kippenheim 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZTN1Yy-industriemechaniker-maschineneinrichter-mwd_77971-kippenheim"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Installateur für Sanitärtechnik (m/w/d) 77977 Rust, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZTqvXO-installateur-fuer-sanitaertechnik-mwd_77977-rust-baden"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) 77977 Rust, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zjweq8-elektroniker-mwd_77977-rust-baden"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker Instandhaltung 18 EUR (m/w/d) 92224 Amberg, Oberpfalz 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1xHXj0-industriemechaniker-instandhaltung-18-eur-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Hochregallager ab 17€/brutto (m/w/d) 92237 Sulzbach-Rosenberg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1UB3WX-staplerfahrer-hochregallager-ab-17eurobrutto-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter Werkzeug- und Musterfertigung (m/w/d) 92224 Amberg, Oberpfalz 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2p6daE-produktionsmitarbeiter-werkzeug-und-musterfertigung-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) 92224 Amberg, Oberpfalz 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/928sv-monteur-mwd_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechaniker (m/w/d) 92237 Sulzbach-Rosenberg 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nvXUk-mechaniker-mwd_92237-sulzbach-rosenberg"
+  },
+  {
+   "at": "2026-10-22T15:09:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker Schaltschrankbau (m/w/d) 92253 Schnaittenbach 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZArIcu-elektroniker-schaltschrankbau-mwd_92253-schnaittenbach"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Manufacturing Operator 2",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-2_R027460?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Principal Analog Design Engineer – BMS Production Support",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Toulouse/Principal-Analog-Design-Engineer_R-10065876?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Wien IT-Administrator (w/m/d) Berufserfahrene IT",
+   "url": "https://actemium.career.softgarden.de/jobs/68282641/IT-Administrator-w-m-d-"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännische Assistenz (m/w/d) (Büroverwaltung) in 34117 Kassel Büroverwaltung 34117 Kassel vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennische-assistenz-m-w-d-17"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) in Ottendorf-Okrilla (Logistik & Transport) in 01458 Ottendorf-Okrilla Logistik & Transport 01458 Ottendorf-Okrilla vor 1",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-in-ottendorf-okrilla"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Buchhaltung & Digitalisierung (m/w/d) (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München vor 17 Stund",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-buchhaltung-und-digitalisierung-m-w-d"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinen- und Anlagenführer (m/w/d) (Produktion & Fertigung) in 95100 Selb Produktion & Fertigung 95100 Selb vor 17 Stunden",
+   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-m-w-d-43"
+  },
+  {
+   "at": "2026-10-22T15:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennische-assistenz-m-w-d-17/bewerben"
   }
  ],
- "last_missing_parts": [
-  1,
-  4
- ],
- "last_run": "2026-10-22T14:52:43+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-10-22T15:11:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
