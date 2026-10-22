@@ -1,5 +1,5 @@
 {
- "alerts": 130,
+ "alerts": 145,
  "commands_set": true,
  "events": [
   {
@@ -1779,12 +1779,215 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-456/bewerben"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Servicetechniker (w/m/d) für Brandmeldesysteme",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526507"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526507"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Abschlussarbeit Optimierung Radiallüfter-Gehäuse Gefriergeräte (m/w/d)",
+   "url": "https://jobs.bsh-group.de/45943-abschlussarbeit-optimierung-radialluefter-gehaeuse-gefriergeraete-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Stellvertretende Leitung (m/w/d) der Tagesklinik",
+   "url": "https://karriere.fresenius.de/job-detail/2dd1f5e7-0971-53b7-8754-aece302ece91/stellvertretende-leitung-m-w-d-der-tagesklinik"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "MFA / Medizinische Fachangestellte (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/c39827c7-e90b-5f33-8107-d0713caa9e98/mfa-medizinische-fachangestellte-m-w-d"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Praxismanager für unser MVZ (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/7b083f5a-a821-55be-82b7-11f7503d0ceb/praxismanager-fuer-unser-mvz-m-w-d"
+  },
+  {
+   "at": "2026-10-22T07:41:04+00:00",
+   "kind": "possible",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechatroniker / Elektriker (m/w/d) Instandhaltung",
+   "url": "https://de.trenkwalder.com/jobs"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "possible",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Werkstudent* Systemadministration Ausbildungsumgebung Fluglotsen",
+   "url": "https://jobs.dfs.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12&btn_dosearch="
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Global Learning & Development Manager (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Erlangen-Global-Learning-&-Development-Manager-%28mwd%29/1450147733"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Kaufmännischer Mitarbeiter (m/w/d) in der Buchhaltung ab 20,00€ Baesweiler",
+   "url": "https://www.tempton.de/jobs/kaufmaennischer-mitarbeiter-buchhaltung-20-00-euro"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Maschinen- u. Anlagenführer (m/w/d) Hann. Münden",
+   "url": "https://www.tempton.de/jobs/maschinen-u-anlagenfuehrer"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Fachkraft für Lagerlogistik (m/w/d) Bad Bentheim",
+   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-514"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Lagermitarbeiter in 2 Schicht (m/w/d) Köln",
+   "url": "https://www.tempton.de/jobs/lagermitarbeiter-2-schicht-1"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Fachkraft für Lagerlogistik (m/w/d) Witzenhausen",
+   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-513"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Lagermitarbeiter in 2 Schicht (m/w/d) Wesseling",
+   "url": "https://www.tempton.de/jobs/lagermitarbeiter-2-schicht"
+  },
+  {
+   "at": "2026-10-22T07:40:33+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Projektleiter (m/w/d) Bauingenieurswesen Regensburg",
+   "url": "https://www.tempton.de/jobs/projektleiter-bauingenieurswesen"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New HMI - D&E Software Engineer - Product Security & ADP - Hsinchu, Taiwan Hsinchu, Taiwan Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/hmi-de-software-engineer-product-security-adp-hsinchu-taiwan-j00354374"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/BMiDl-gabelstaplerfahrer-mwd_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer (m/w/d) Versand Philippsburg 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1bRx8K-kommissionierer-mwd-versand-philippsburg_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Hochregalstaplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Oit71-hochregalstaplerfahrer-mwd_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Personalsachbearbeiter (m/w/d) - Entgeltabrechnung von Lohnempfängern 90471 Nürnberg, Mittelfranken 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZDrtG5-personalsachbearbeiter-mwd-entgeltabrechnung-von-lohnempfaengern_90471-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verpacker (m/w/d) Versand 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/w6PhV-verpacker-mwd-versand_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/C2ten-lagerhelfer-mwd_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:39:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ruKnH-staplerfahrer-mwd_76661-philippsburg-baden"
+  },
+  {
+   "at": "2026-10-22T07:42:53+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "175320 Praktikum im Bereich Vertrieb/Versicherungen Veröffentlicht: 22.10.2026 Versicherungen München Neu Versicherungen München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.175320.html"
+  },
+  {
+   "at": "2026-10-22T07:42:53+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IVI – Application Center Ingolstadt",
+   "title": "Projektkoordinator*in Autonomes Fahren im ÖPNV",
+   "url": "https://jobs.fraunhofer.de/job/Dresden-Projektkoordinatorin-Autonomes-Fahren-im-%C3%96PNV-01069/1450135333"
+  },
+  {
+   "at": "2026-10-22T07:42:53+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IVI – Application Center Ingolstadt",
+   "title": "Entwickler*in Autonomes Fahren im ÖPNV",
+   "url": "https://jobs.fraunhofer.de/job/Dresden-Entwicklerin-Autonomes-Fahren-im-%C3%96PNV-01069/1450149333"
+  },
+  {
+   "at": "2026-10-22T07:42:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 37073 Göttingen Rechnungswesen & Finanzen 37073 Göttingen Homeoffice möglich vor 9 Stunden",
+   "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-146"
+  },
+  {
+   "at": "2026-10-22T07:42:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-146/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T07:25:52+00:00",
+ "last_run": "2026-10-22T07:43:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
