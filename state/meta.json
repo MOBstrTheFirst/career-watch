@@ -1,5 +1,5 @@
 {
- "alerts": 34,
+ "alerts": 36,
  "commands_set": true,
  "events": [
   {
@@ -260,12 +260,54 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "1st Shift Material Handler",
    "url": "https://leggett.com/careers/search?posting=36607"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Prüfingenieur / Prüftechniker - Umweltsimulation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/pruefingenieur-prueftechniker-umweltsimulation-m-w-d_251563-1691203.html"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Software-Entwicklungsingenieur & Projektmanager EMV-Messtechnik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/software-entwicklungsingenieur-projektmanager-emv-messtechnik-m-w-d_251563-1684995.html"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "FPGA & Embedded Software Developer - Communication Systems (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/fpga-embedded-software-developer-communication-systems-m-f-d_251563-1628652.html"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Oracle Contract/ Pricing Specialist San Diego, CA, US Finance",
+   "url": "https://www.asml.com/en/careers/find-your-job/oracle-contract-pricing-specialist-j00349535"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS System Engineering Lead (Tesla R&D DUV & EUV) Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-system-engineering-lead-tesla-rd-duv-euv-j00354859"
+  },
+  {
+   "at": "2026-10-22T01:25:35+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Cleanroom Assembly Technician - CWW Nights Wilton, CT, US Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/cleanroom-assembly-technician-cww-nights-j00354882"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T01:11:18+00:00",
+ "last_run": "2026-10-22T01:26:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
