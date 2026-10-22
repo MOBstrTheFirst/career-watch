@@ -1,126 +1,7 @@
 {
- "alerts": 426,
+ "alerts": 434,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T09:42:19+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Software Architect OT (f/m/d)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Software-Architect-OT-f-m-d/304567"
-  },
-  {
-   "at": "2026-10-22T09:42:19+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektleiter/ Bauleiter im Kabelleitungstiefbau (m/w/d) Berufserfahrene Halberstadt Neu",
-   "url": "https://karriere.omexom.de/jobs/68268706/Projektleiter-Bauleiter-im-Kabelleitungstiefbau-m-w-d-"
-  },
-  {
-   "at": "2026-10-22T09:42:19+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Facharbeiter Pulverbeschichtung (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018JUzlQAG"
-  },
-  {
-   "at": "2026-10-22T09:40:27+00:00",
-   "kind": "possible",
-   "site": "dSPACE – Ingolstadt",
-   "title": "Student assistants (6)",
-   "url": "https://www.dspace.com/en/inc/home/career/jobfinder.cfm"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "ams OSRAM – Regensburg",
-   "title": "Category Procurement Specialist - Direct Material (d/m/f)",
-   "url": "https://jobs.ams-osram.com/en/job/Category-Procurement-Specialist-Direct-Material-d_m_f-Regensburg/24514"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "ebm-papst Zeitlauf",
-   "title": "Werkstudent im Bereich Production Engineering (m/w/d)",
-   "url": "https://ebmpapst.csod.com/ux/ats/careersite/4/home/requisition/4030?c=ebmpapst&lang=en-US"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Warenannahme / Transport (m/w/d) 93055 Regensburg 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2dHhaE-mitarbeiter-warenannahme-transport-mwd_93055-regensburg"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 27572 Bremerhaven 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2b6rgs-staplerfahrer-mwd_27572-bremerhaven"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer (m/w/d) 89520 Heidenheim an der Brenz 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QEDxF-kommissionierer-mwd_89520-heidenheim-an-der-brenz"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer (m/w/d) 89520 Heidenheim an der Brenz 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z28ExuH-kommissionierer-mwd_89520-heidenheim-an-der-brenz"
-  },
-  {
-   "at": "2026-10-22T09:40:28+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "Account Executive - Public Sector",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Federal-District-Brazil/Account-Executive---Public-Sector_71007773?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T09:40:50+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "194276 Praktikant Cross-Industry Collaboration (w/m/x) Veröffentlicht: 22.10.2026 Neue Technologien München Neu Neue Technologien München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.194276.html"
-  },
-  {
-   "at": "2026-10-22T09:40:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Disponent (m/w/d) (Logistik & Transport) in 77855 Achern Logistik & Transport 77855 Achern vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/disponent-m-w-d-98"
-  },
-  {
-   "at": "2026-10-22T09:40:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Achern",
-   "url": "https://jobs.de.dis-ag.com/suche/in-achern"
-  },
-  {
-   "at": "2026-10-22T09:40:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/disponent-m-w-d-98/bewerben"
-  },
-  {
-   "at": "2026-10-22T09:55:38+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Projektleitung (w/m/d) Rail Solutions",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526775"
-  },
-  {
-   "at": "2026-10-22T09:55:38+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526775"
-  },
   {
    "at": "2026-10-22T09:55:38+00:00",
    "kind": "new",
@@ -3501,12 +3382,133 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kaufmaennische-assistenz-m-w-d-17/bewerben"
+  },
+  {
+   "at": "2026-10-22T15:31:16+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Sales Manager (w/m/div.) für die Neukundenakquise in der Sicherheitstechnik",
+   "url": "https://jobs.bosch.com/en/job/REF299003Q-sales-manager-w-m-div-fuer-die-neukundenakquise-in-der-sicherheitstechnik"
+  },
+  {
+   "at": "2026-10-22T15:31:16+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Production Industrialization & Maintenance Technician (m/f/d)",
+   "url": "https://jobs.testo.com/4453-production-industrialization-maintenance-technician-m-f-d/de/job.html"
+  },
+  {
+   "at": "2026-10-22T15:31:16+00:00",
+   "kind": "new",
+   "site": "Thomann",
+   "title": "Sales Coordinator im Bereich Studio (m/w/d)",
+   "url": "https://jobs.thomann.de/karriere/Sales-Coordinator-im-Bereich-Studio-mwd-de-j299.html"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
+   "title": "Security Manager (m/w/d) ﻿",
+   "url": "https://www.saab.com/career/job-opportunities/security-manager-mwd"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter Vermie­tung Apart­ments / Immo­bi­li­en­wirt­schaft (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Berlin, Deutsch­land Backoffi",
+   "url": "https://touch.ferchau.com/de/de/job/525346/sachbearbeiter-vermietung-apartments-immobilienwirtschaft"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Supplier Quality Specia­list (m/w/d) Neu Job Hybrid Vollzeit 53.000 - 63.000 € Graz, Öster­reich Elektrotechnik Fahrzeugtechnik Maschinenbau Professio",
+   "url": "https://touch.ferchau.com/de/de/job/525352/supplier-quality-specialist"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter Tech­ni­scher Vertrieb (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 70.000 € Wolfs­berg, Öster­reich Anlagenbau Maschinenbau Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/525349/projektleiter-technischer-vertrieb"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Netz­werk­ad­mi­nis­trator (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior P",
+   "url": "https://touch.ferchau.com/de/de/job/525340/netzwerkadministrator"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Manager Sales- & Recrui­ting-Stra­tegy (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 75.000 € Gummers­bach, Deutsch­land Personal Professionals Senior Prof",
+   "url": "https://touch.ferchau.com/de/de/job/525133/manager-sales-recruiting-strategy"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­ar­chi­tekt (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Bautzen, Deutsch­land Weitere Professionals Senior Professionals ohne Personalv",
+   "url": "https://touch.ferchau.com/de/de/job/525337/projektarchitekt"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Arbeits­vor­be­reiter und Projekt­ein­käufer (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 70.000 € Wolperts­hausen, Deutsch­land Maschinenbau Pharma und ",
+   "url": "https://touch.ferchau.com/de/de/job/525334/arbeitsvorbereiter-und-projekteinkaeufer"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Full-Stack C# Soft­ware­ent­wickler:in (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 65.000 € Poing, Deutsch­land Informationstechnik Young Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/525331/full-stack-c-softwareentwicklerin"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Assis­tenz Innen­dienst Technik (m/w/d) Neu Job Vor Ort Vollzeit 49.000 - 53.000 € Hamburg, Deutsch­land Weitere Professionals ohne Personalverantwort",
+   "url": "https://touch.ferchau.com/de/de/job/525325/assistenz-innendienst-technik"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Arbeits­vor­be­rei­tung (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Papen­burg, Deutsch­land Maschinenbau Schiffbau und Meerestechnik We",
+   "url": "https://touch.ferchau.com/de/de/job/484741/techniker-arbeitsvorbereitung"
+  },
+  {
+   "at": "2026-10-22T15:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur Elek­tro­technik (m/w/d) Job Hybrid Vollzeit 50.000 - 65.000 € Lemwerder, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Professional",
+   "url": "https://touch.ferchau.com/de/de/job/484462/ingenieur-elektrotechnik"
+  },
+  {
+   "at": "2026-10-22T15:25:06+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Industrielackierer (m/w/d) 22.10.2026 Produktion Nonnweiler",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/industrielackierer-m-w-d"
+  },
+  {
+   "at": "2026-10-22T15:25:06+00:00",
+   "kind": "new",
+   "site": "Baumüller",
+   "title": "Mehr erfahren",
+   "url": "https://www.baumueller.com/de/unternehmen/karriere/stellenangebote/werkstattmitarbeiter-wickelei-m-w-d"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-10-22T15:11:27+00:00",
+ "last_missing_parts": [
+  1
+ ],
+ "last_run": "2026-10-22T15:37:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
