@@ -1,35 +1,7 @@
 {
- "alerts": 472,
+ "alerts": 476,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Herbrechtingen",
-   "url": "https://jobs.de.dis-ag.com/suche/in-herbrechtingen"
-  },
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-textilproduktion-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-22T10:25:29+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Elektroniker / Mechatroniker für Baugruppenmontage und Instandsetzung (w/m/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MjY5NA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-22T10:28:11+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 CNC-Dreher (m/w/d) ab 22€/Std Hofkirchen, Markt",
-   "url": "https://www.tempton.de/jobs/cnc-dreher-22-euro-std-3"
-  },
   {
    "at": "2026-10-22T10:28:11+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "TenneT TSO",
    "title": "Operating Engineer High Voltage Primary Systems [EU-Resident]",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4506860&jobId=115647"
+  },
+  {
+   "at": "2026-10-22T18:09:55+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Software Developer Marchtrenk, Austria Development / Software / IT Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/software-developer-110"
+  },
+  {
+   "at": "2026-10-22T18:09:55+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Application Service Engineer Marchtrenk, Austria Internal Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/application-service-engineer-26"
+  },
+  {
+   "at": "2026-10-22T18:09:55+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Site Administrator - Helsingborg Helsingborg, Sweden Project Management Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/site-administrator-helsingborg-1393"
+  },
+  {
+   "at": "2026-10-22T18:10:03+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/8c945072-9656-4f17-ab74-08df298e6008"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T17:55:49+00:00",
+ "last_run": "2026-10-22T18:10:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
