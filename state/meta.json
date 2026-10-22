@@ -1,147 +1,7 @@
 {
- "alerts": 443,
+ "alerts": 452,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T09:55:07+00:00",
-   "kind": "possible",
-   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
-   "title": "Projektingenieur / Senior Schaltanlagenkonstrukteur Sekundärtechnik/Umspannwerke (m/w/d)",
-   "url": "https://www.trips-group.com/de/jobangebote/"
-  },
-  {
-   "at": "2026-10-22T09:55:07+00:00",
-   "kind": "possible",
-   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
-   "title": "Leiter SIVACON Fertigung und Produktmangement NSHV/MCC (m/w/d)",
-   "url": "https://www.trips-group.com/de/jobangebote/"
-  },
-  {
-   "at": "2026-10-22T09:55:07+00:00",
-   "kind": "possible",
-   "site": "Trips GmbH / ingeniou.s – Grafenrheinfeld",
-   "title": "Werkstudent Kalkulation (m/w/d)",
-   "url": "https://www.trips-group.com/de/jobangebote/"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "OEM Territory Representative (OTR-EMEA)",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/ESP-Barcelona-Remote-Location/OEM-Territory-Representative--OTR-EMEA-_R027171?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Senior Software Product Manager - Embedded & Real-Time Systems (Automotive) (f/m/d)",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Senior-Software-Product-Manager---Embedded---Real-Time-Systems--Automotive-_R-10064753?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Senior Design Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Senior-Design-Engineer_R-10067060?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Working Student (f/m/d) Marketing and Communications",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--Tech---Brand-Experience_R-10063737?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Düsseldorf Referent Marketing & Go-to-Market (w/m/d) Berufserfahrene Marketing und Kommunikation",
-   "url": "https://actemium.career.softgarden.de/jobs/68270031/Referent-Marketing-Go-to-Market-w-m-d-"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Maschinenschlosser (m/w/d) (Produktion & Fertigung) in 89250 Senden Produktion & Fertigung 89250 Senden vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/maschinenschlosser-m-w-d"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Lohnbuchhaltung (m/w/d) (HR & Personalwesen) in 34117 Kassel HR & Personalwesen 34117 Kassel Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-lohnbuchhaltung-m-w-d-7"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Leiter Qualitätsmanagement (m/w/d) (Produktion & Fertigung) in 31134 Hildesheim Produktion & Fertigung 31134 Hildesheim Homeoffice möglich vor 11 Stun",
-   "url": "https://jobs.de.dis-ag.com/leiter-qualitaetsmanagement-m-w-d-2"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Senden",
-   "url": "https://jobs.de.dis-ag.com/suche/in-senden"
-  },
-  {
-   "at": "2026-10-22T09:55:16+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/maschinenschlosser-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) für die Entwicklung von Heißgaspfad-Komponenten großer Gasturbinen",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-f-r-die-Entwicklung-von-Hei-gaspfad-Komponenten-gro-er-Gasturbinen/305878"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Product Cybersecurity Architect (f/m/d)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Product-Cybersecurity-Architect-f-m-d/304543"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "Afag Automation",
-   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012484?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012484?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "HSE-Manager / Fachkraft für Arbeitssicherheit (m/w/d) Berufseinsteiger Oldenburg Neu",
-   "url": "https://karriere.omexom.de/jobs/68270411/HSE-Manager-Fachkraft-f%C3%BCr-Arbeitssicherheit-m-w-d-"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Teamleiter Elektronikfertigung (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Elektrotechniker / Elektroingenieur für Serienfertigung (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f/1a478c46-6002-4d3e-9a93-ec40d7671608"
-  },
-  {
-   "at": "2026-10-22T10:10:50+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Gruppenleiter Elektronikfertigung (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/9612c27b-675d-452a-8ed1-9accdc79c71f/42beb81c-8401-4875-b040-498e9944c772"
-  },
   {
    "at": "2026-10-22T10:10:34+00:00",
    "kind": "new",
@@ -3501,12 +3361,152 @@
    "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
    "title": "Electromechanical Field Service Technician III Engineering / Technical Service Experienced and Graduates Giesecke+Devrient Currency Technology America",
    "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27907-en-US"
+  },
+  {
+   "at": "2026-10-22T16:12:08+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/335?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/335?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-22T16:12:08+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Siedlungswasserwirtschaft (m/w/d) Wien Seit 22. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109385/Projektleiter%20Siedlungswasserwirtschaft%20(m%2Fw%2Fd)/Wien"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Specialist Engineer Failure Analysis (f/m/div) München HRC1840854",
+   "url": "https://jobs.infineon.com/careers/job/563808972256856"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Failure Analysis Engineer Penang (Malaysia) HRC1700115",
+   "url": "https://jobs.infineon.com/careers/job/563808971490149"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Engineer Failure Analysis Kulim HRC1831290",
+   "url": "https://jobs.infineon.com/careers/job/563808972150033"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Your Next Career Opportunity at Infineon Padova – Categorie Protette (ex art.1 L.68 /99) (f/m/div) Padua (Padova) (Italien) 130394 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970663601"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Board Level Reliability Samut Prakan HRC1803691",
+   "url": "https://jobs.infineon.com/careers/job/563808972020564"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principle Engineer for early failure mechanisms, methodologies and tools (f/m/div) Villach + 3 more HRC1792713 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971969317"
+  },
+  {
+   "at": "2026-10-22T16:15:47+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Addetto amministrativo Ufficio Risorse Umane (m/f/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-22T16:09:38+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Human Resource Coordinator",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Alto-Michigan-US/Human-Resource-Coordinator_R00267293-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:09:38+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "IT Team Lead",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Southfield-Michigan-US/IT-Team-Lead_R00265820?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Engineering Coordinator",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/Engineering-Coordinator_R-10067259?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Engineering Test Operations Specialist",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/Engineering-Test-Operations-Specialist_R-10067261?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "Gerresheimer Regensburg",
+   "title": "Técnico Electromecánico - Cuarto Limpio",
+   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/70d4ebf0-4d12-4daf-81a8-6dab390c32c0?cHash=02c77eaf3dc6b3963b932642eded701e76066d66699a96d322a2e1a4279b45ad"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/8ea2aed1-791c-4a09-d9a8-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/ad718573-58e9-4d59-dd27-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/21b90d95-8816-428e-dd28-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/0c2588ca-4008-4277-dd29-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "DEU - TRG JT Region Nord (IT & Software) in 30159 Hannover IT & Software 30159 Hannover vor 18 Stunden",
+   "url": "https://jobs.de.dis-ag.com/deu-trg-jt-region-nord"
+  },
+  {
+   "at": "2026-10-22T16:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/deu-trg-jt-region-nord/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T16:04:03+00:00",
+ "last_run": "2026-10-22T16:16:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
