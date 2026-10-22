@@ -1,14 +1,7 @@
 {
- "alerts": 467,
+ "alerts": 469,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T10:10:11+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/0cdd3ef9-1e6e-4b4b-465e-08df2eb1eacc"
-  },
   {
    "at": "2026-10-22T10:10:11+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Memory System Designer and Place and Route Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Austin---River-Place-B7/Memory-System-Designer-and-Place-and-Route-Engineer_R027237?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T17:39:51+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Materials Team Leader",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Birmingham-Alabama-US/Materials-Team-Leader_R00266776-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T17:25:53+00:00",
+ "last_run": "2026-10-22T17:41:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
