@@ -1,476 +1,7 @@
 {
- "alerts": 330,
+ "alerts": 353,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T07:12:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Schweißer - Konstruktionstechnik (m/w/d) Hann. Münden",
-   "url": "https://www.tempton.de/jobs/schweisser-konstruktionstechnik-7"
-  },
-  {
-   "at": "2026-10-22T07:12:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Industriemechaniker (m/w/d) Hann. Münden",
-   "url": "https://www.tempton.de/jobs/industriemechaniker-663"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Oberflächenbeschichter (m/w/d) 73553 Alfdorf 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZwkOJw-oberflaechenbeschichter-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenführer (m/w/d) 96146 Altendorf, Kreis Bamberg 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZhrUld-maschinenfuehrer-mwd_96146-altendorf-kreis-bamberg"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenführer (m/w/d) im Schichtsystem in Altendorf gesucht 96146 Altendorf, Kreis Bamberg 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1p6DNy-anlagenfuehrer-mwd-im-schichtsystem-in-altendorf-gesucht_96146-altendorf-kreis-bamberg"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 91438 Bad Windsheim 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2b8Itd-produktionsmitarbeiter-mwd_91438-bad-windsheim"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 04720 Döbeln 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dzGCh-maschinenbediener-mwd_04720-doebeln"
-  },
-  {
-   "at": "2026-10-22T07:10:10+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "Account Executive - West Enterprise",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Texas-United-States-of-America/Account-Executive---West-Enterprise_71007856?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T07:10:31+00:00",
-   "kind": "new",
-   "site": "Grenzebach – Asbach-Bäumenheim",
-   "title": "Ausbildung zum Industriekaufmann (m/w/d) 2027",
-   "url": "https://grenzebach.softgarden.io/job/65989913/Ausbildung-zum-Industriekaufmann-m-w-d-2027?jobDbPVId=288392801&l=de"
-  },
-  {
-   "at": "2026-10-22T07:10:31+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellte (m/w/d) außerhalb der Steuerberatung (Rechnungswesen & Finanzen) in 58452 Witten Rechnungswesen & Finanzen 58452 Witten Homeoffi",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-m-w-d-ausserhalb-der-steuerberatung-39"
-  },
-  {
-   "at": "2026-10-22T07:10:31+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Debitorenbuchhalter (m/w/d) - hybrides Arbeiten (Rechnungswesen & Finanzen) in 47057 Duisburg Rechnungswesen & Finanzen 47057 Duisburg Homeoffice mögl",
-   "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-hybrides-arbeiten-23"
-  },
-  {
-   "at": "2026-10-22T07:10:31+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Witten",
-   "url": "https://jobs.de.dis-ag.com/suche/in-witten"
-  },
-  {
-   "at": "2026-10-22T07:10:31+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-m-w-d-ausserhalb-der-steuerberatung-39/bewerben"
-  },
-  {
-   "at": "2026-10-22T07:25:35+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Project Lead (f/m/D) – SAP Master Data Governance",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Lead-f-m-D-SAP-Master-Data-Governance/305609"
-  },
-  {
-   "at": "2026-10-22T07:25:35+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Ärztlicher Leiter / Facharzt (m/w/d) für Innere Medizin und Nephrologie",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Ludwigshafen-Germany/rztlicher-Leiter---Facharzt--m-w-d--fr-Innere-Medizin-und-Nephrologie_R0275003?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T07:25:35+00:00",
-   "kind": "new",
-   "site": "CARIAD",
-   "title": "Apprenticeship, Internship & Academic Programs (f/m/d)",
-   "url": "https://jobs.volkswagen-group.com/cariad/job/Berlin-Apprenticeship%2C-Internship-&-Academic-Programs-%28fmd%29-10587/1450128533"
-  },
-  {
-   "at": "2026-10-22T07:25:35+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "IT-Spezialist Produktions-IT & Systemintegration (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzUyMQ%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Ingenieur Produkttechnik (w/m/d) Dresden HRC1854069",
-   "url": "https://jobs.infineon.com/careers/job/563808972253232"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer, Product Engineering General Trias HRC1793302",
-   "url": "https://jobs.infineon.com/careers/job/563808971968635"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior / Staff Engineer - Product Engineer Singapur HRC1634633",
-   "url": "https://jobs.infineon.com/careers/job/563808970809989"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior/Staff Engineer Product Engineering Kulim HRC1818367",
-   "url": "https://jobs.infineon.com/careers/job/563808972097720"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Product Engineering Malakka HRC1699427",
-   "url": "https://jobs.infineon.com/careers/job/563808971615106"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Engineer / Senior Engineer Product Engineering Singapur HRC1745463",
-   "url": "https://jobs.infineon.com/careers/job/563808971834447"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff IC Product Engineer Ottawa (Kanata) HRC1731402 Hybrid Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808971774436"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff engineer Product Engineering Kulim HRC1811819",
-   "url": "https://jobs.infineon.com/careers/job/563808972058264"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Product Engineering Kulim HRC1813183",
-   "url": "https://jobs.infineon.com/careers/job/563808972069557"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Facharbeiter für Geräte und System (m/w/d) Hann. Münden",
-   "url": "https://www.tempton.de/jobs/facharbeiter-geraete-system"
-  },
-  {
-   "at": "2026-10-22T07:25:30+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Facharbeiter (m/w/d) Verbindungssysteme / Kabelfertigung Hann. Münden",
-   "url": "https://www.tempton.de/jobs/facharbeiter-verbindungssysteme-kabelfertigung-5"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Arbeits­vor­be­reiter (m/w/d) Neu Job Vor Ort Vollzeit 48.000 - 58.000 € Jena, Deutsch­land Weitere Professionals ohne Personalverantwortung Analyse A",
-   "url": "https://touch.ferchau.com/de/de/job/525145/arbeitsvorbereiter"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "PMO & Trans­for­ma­tion Specia­list (m/w/d) Job Vor Ort Vollzeit 50.000 - 62.500 € Kassel, Deutsch­land Informationstechnik Luft- und Raumfahrttechnik",
-   "url": "https://touch.ferchau.com/de/de/job/522418/pmo-transformation-specialist"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Elek­tro­technik (m/w/d) - Robotik & Leis­tungs­elek­tronik Neu Job Vor Ort Vollzeit 65.000 - 75.000 € Düssel­dorf, Deutsch­",
-   "url": "https://touch.ferchau.com/de/de/job/525136/entwicklungsingenieur-elektrotechnik-robotik-leistungselektronik"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Projektmanagement Assistenz (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3126"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Einrichter (m/w/d) 96114 Hirschaid 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZODYeG-einrichter-mwd_96114-hirschaid"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerarbeiter (m/w/d) 19,28 €/h mit Gabelstaplerschein 96114 Hirschaid 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z58rfq-lagerarbeiter-mwd-1928-euroh-mit-gabelstaplerschein_96114-hirschaid"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer 19,88 EUR/Std. (m/w/d) 96114 Hirschaid 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZABFWN-staplerfahrer-1988-eurstd-mwd_96114-hirschaid"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Set-Up Operator Bereich Montage/Schleifen (m/w/d) 96114 Hirschaid 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/rzR6P-set-up-operator-bereich-montageschleifen-mwd_96114-hirschaid"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 73553 Alfdorf 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1v2OFT-maschinen-und-anlagenfuehrer-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 73553 Alfdorf 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/12k6Sa-maschinen-und-anlagenfuehrer-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-22T07:24:58+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Oberflächenbeschichter (m/w/d) 73553 Alfdorf 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2pfdMs-oberflaechenbeschichter-mwd_73553-alfdorf"
-  },
-  {
-   "at": "2026-10-22T07:25:24+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 92353 Postbauer-Heng Rechnungswesen & Finanzen 92353 Postbauer-Heng Homeoffice möglich vor 9 S",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-456"
-  },
-  {
-   "at": "2026-10-22T07:25:24+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Technischen Betriebsleiter als Mitglied der Geschäftsleitung (m/w/d) (Bau & Immobilien) in 21075 Hamburg Bau & Immobilien 21075 Hamburg vor 9 Stunden",
-   "url": "https://jobs.de.dis-ag.com/technischen-betriebsleiter-als-mitglied-der-geschaeftsleitung-m-w-d"
-  },
-  {
-   "at": "2026-10-22T07:25:24+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Postbauer-Heng",
-   "url": "https://jobs.de.dis-ag.com/suche/in-postbauer-heng"
-  },
-  {
-   "at": "2026-10-22T07:25:24+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-456/bewerben"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Servicetechniker (w/m/d) für Brandmeldesysteme",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526507"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526507"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Abschlussarbeit Optimierung Radiallüfter-Gehäuse Gefriergeräte (m/w/d)",
-   "url": "https://jobs.bsh-group.de/45943-abschlussarbeit-optimierung-radialluefter-gehaeuse-gefriergeraete-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Stellvertretende Leitung (m/w/d) der Tagesklinik",
-   "url": "https://karriere.fresenius.de/job-detail/2dd1f5e7-0971-53b7-8754-aece302ece91/stellvertretende-leitung-m-w-d-der-tagesklinik"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "MFA / Medizinische Fachangestellte (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/c39827c7-e90b-5f33-8107-d0713caa9e98/mfa-medizinische-fachangestellte-m-w-d"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Praxismanager für unser MVZ (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/7b083f5a-a821-55be-82b7-11f7503d0ceb/praxismanager-fuer-unser-mvz-m-w-d"
-  },
-  {
-   "at": "2026-10-22T07:41:04+00:00",
-   "kind": "possible",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker / Elektriker (m/w/d) Instandhaltung",
-   "url": "https://de.trenkwalder.com/jobs"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "possible",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Werkstudent* Systemadministration Ausbildungsumgebung Fluglotsen",
-   "url": "https://jobs.dfs.de/index.php?ac=search_result&search_criterion_channel%5B%5D=12&btn_dosearch="
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Global Learning & Development Manager (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Erlangen-Global-Learning-&-Development-Manager-%28mwd%29/1450147733"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Kaufmännischer Mitarbeiter (m/w/d) in der Buchhaltung ab 20,00€ Baesweiler",
-   "url": "https://www.tempton.de/jobs/kaufmaennischer-mitarbeiter-buchhaltung-20-00-euro"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Maschinen- u. Anlagenführer (m/w/d) Hann. Münden",
-   "url": "https://www.tempton.de/jobs/maschinen-u-anlagenfuehrer"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Fachkraft für Lagerlogistik (m/w/d) Bad Bentheim",
-   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-514"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Lagermitarbeiter in 2 Schicht (m/w/d) Köln",
-   "url": "https://www.tempton.de/jobs/lagermitarbeiter-2-schicht-1"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Fachkraft für Lagerlogistik (m/w/d) Witzenhausen",
-   "url": "https://www.tempton.de/jobs/fachkraft-lagerlogistik-513"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Lagermitarbeiter in 2 Schicht (m/w/d) Wesseling",
-   "url": "https://www.tempton.de/jobs/lagermitarbeiter-2-schicht"
-  },
-  {
-   "at": "2026-10-22T07:40:33+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "22.10.2026 Projektleiter (m/w/d) Bauingenieurswesen Regensburg",
-   "url": "https://www.tempton.de/jobs/projektleiter-bauingenieurswesen"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New HMI - D&E Software Engineer - Product Security & ADP - Hsinchu, Taiwan Hsinchu, Taiwan Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/hmi-de-software-engineer-product-security-adp-hsinchu-taiwan-j00354374"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/BMiDl-gabelstaplerfahrer-mwd_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer (m/w/d) Versand Philippsburg 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1bRx8K-kommissionierer-mwd-versand-philippsburg_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Hochregalstaplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Oit71-hochregalstaplerfahrer-mwd_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Personalsachbearbeiter (m/w/d) - Entgeltabrechnung von Lohnempfängern 90471 Nürnberg, Mittelfranken 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZDrtG5-personalsachbearbeiter-mwd-entgeltabrechnung-von-lohnempfaengern_90471-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verpacker (m/w/d) Versand 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/w6PhV-verpacker-mwd-versand_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/C2ten-lagerhelfer-mwd_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-22T07:39:56+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 76661 Philippsburg, Baden 22.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ruKnH-staplerfahrer-mwd_76661-philippsburg-baden"
-  },
   {
    "at": "2026-10-22T07:42:53+00:00",
    "kind": "new",
@@ -3501,15 +3032,481 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/einkaeufer-m-w-d-operativer-und-strategischer-einkauf/bewerben"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/315?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/315?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Herzogenaurach HQ",
+   "title": "Manager Global Payroll & Time Management Governance (d/f/m)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Manager-Global-Payroll-&-Time-Management-Governance-%28dfm%29-91074/1450343333"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Technischer Redakteur (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzU2Nw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Entwicklungsingenieur Elektrotechnik (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzU3MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "IT-Fachthemenkoordinator (m/w/d) eData",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzU3Mg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Material Handler (2nd Shift)",
+   "url": "https://leggett.com/careers/search?posting=36609"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/a78679ba-66a4-58f5-9df2-912b56985b8f/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/efcef84b-c911-5de0-b38c-42b77e9283a7/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Medizincontrolling / Kodierfachkraft / Profiler (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/c20ec0b5-708c-59f3-b03f-19cc9de429f1/mitarbeiter-medizincontrolling-kodierfachkraft-profiler-m-w-d"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Webasto – Schierling",
+   "title": "Strategy Project Manager Sustainability - Climate (f/m/x)",
+   "url": "https://jobs.webasto.com/job/Strategy-Project-Manager-Sustainability-Climate-%28fmx%29/36684-en_US"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechaniker (m/w/d) Übernahmeoption",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018LuA9QAK"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagemitarbeiter / Quereinsteiger (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018JWOrQAO"
+  },
+  {
+   "at": "2026-10-22T13:25:49+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Helfer (m/w/d) Poolstelle",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fM5cXQAS"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Export Compliance Officer (d/w/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Export-Compliance-Officer--d-w-m-_JR10450181?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Lagerhelfer (D/M/W) mit Staplertätigkeit für die Airbus Logistik GmbH",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Mitarbeiter-im-Housekeeping--D-M-W--fr-Lagerarbeiten-bei-der-Airbus-Logisitk-GmbH_JR10436602?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Working Student (d/f/m) - Agile SW Development - Project Support",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-Student---Agile-SW-Development---Project-Support--d-m-w-_JR10442727-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Engineer Digital Design (f/m/div) Munich + 1 more HRC1844855 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972210403"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff / Principal Engineer - Digital Design Singapur HRC1849699",
+   "url": "https://jobs.infineon.com/careers/job/563808972244601"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Engineer for Digital Design (f/m/div) Kork HRC1630363 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808970749031"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior/ Staff Engineer - Digital Design Singapur HRC1673278",
+   "url": "https://jobs.infineon.com/careers/job/563808971200977"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Engineer Digital Design Bangalore HRC1669261 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971195910"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Engineer / Senior Engineer Digital Design Singapur HRC1839436",
+   "url": "https://jobs.infineon.com/careers/job/563808972187888"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Engineer Digital Design (f/m/div) Zurich HRC1648998 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970824343"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Engineer Digital Design Irvine + 3 more HRC1528156 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808969279503"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Engineer Backend Design (f/m/div) Netanya (Israel) HRC1643698 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970762645"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Digital Design Engineer (f/m/div) Valencia G91519120 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971263194"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff / Senior Staff Engineer - Digital Design Singapur HRC1453832",
+   "url": "https://jobs.infineon.com/careers/job/563808968539297"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Technical Sales Manager - Explosives Trace Detection (ETD) (m/f/d)",
+   "url": "https://germancareers-bruker.icims.com/jobs/20168/technical-sales-manager---explosives-trace-detection-%28etd%29-%28m-f-d%29/job?hub=12"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schwabach",
+   "title": "Ausschreibung: Mitarbeiter/in Netzdokumentation (m/w/d) pdf 6.6MB",
+   "url": "https://www.stadtwerke-schwabach.de/Ueber-uns/Karriere/Stellenangebote/Stellenangebote/2600327-Netzdokumentation-Stadtwerke-lang.pdf"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Thomann",
+   "title": "Product Manager Studio (m/w/d)",
+   "url": "https://jobs.thomann.de/karriere/Product-Manager-Studio-mwd-de-j518.html"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "Thomann",
+   "title": "Product Management Assistant Studio (m/w/d)",
+   "url": "https://jobs.thomann.de/karriere/Product-Management-Assistant-Studio-mwd-de-j519.html"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Zerspanungsmechaniker (m/w/d) Weiler-Simmerberg",
+   "url": "https://www.tempton.de/jobs/zerspanungsmechaniker-464"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Fertigungsmechaniker (m/w/d) Weiler-Simmerberg",
+   "url": "https://www.tempton.de/jobs/fertigungsmechaniker-4"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Heizungsableser (m/w/d) Kerpen",
+   "url": "https://www.tempton.de/jobs/heizungsableser"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Schlosserhelfer (m/w/d) Leipzig",
+   "url": "https://www.tempton.de/jobs/schlosserhelfer-53"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Sanitärhelfer (m/w/d) Leipzig",
+   "url": "https://www.tempton.de/jobs/sanitaerhelfer-2"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Elektrohelfer (m/w/d) Leipzig",
+   "url": "https://www.tempton.de/jobs/elektrohelfer-161"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Maschineneinrichter (allgemein) (m/w/d) Gummersbach",
+   "url": "https://www.tempton.de/jobs/maschineneinrichter-allgemein-18"
+  },
+  {
+   "at": "2026-10-22T13:30:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "22.10.2026 Medizinischer Fachangestellter (m/w/d) Nürnberg",
+   "url": "https://www.tempton.de/jobs/medizinischer-fachangestellter-24"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Solutioning Manager SAP Transformation & AI (w/m/d) Berlin, Dortmund, Duesseldorf, Erfurt, Frankfurt am Main + 7 SaaS Solutions Unbefristet Berufserfa",
+   "url": "https://www.capgemini.com/de-de/jobs/582128-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Konstrukteur Automatisierung & Robotics (w/m/d) in Oberkochen Stuttgart Products & Systems Engineering Befristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/582139-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Technical Program Liaison Manager (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Technical-Program-Liaison-Manager--m-w-x-_R00265019-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Projektmanager Produktion (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Projektmanager-Produktion--m-w-x-_R00265018-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Projektmanager SCM (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Projektmanager-SCM--m-w-x-_R00265017-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Modul Controller (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Modul-Controller--m-w-x-_R00265021-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Mitarbeiter Program Assistance (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Mitarbeiter-Program-Assistance--m-w-x-_R00265015-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Mitarbeiter Project Management Office (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Mitarbeiter-Project-Management-Office--m-w-x-_R00265014-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production HiLo Driver (First Shift)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Sterling-Heights-Michigan-US/Production-HiLo-Driver--First-Shift-_R00267118?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Manufacturing Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holly-Michigan-US/Manufacturing-Engineer_R00266778?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Pracovník interní logistiky - manipulant",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Ceske-Velenice-CZ/Pracovnk-intern-logistiky---manipulant_R00266388?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lead, Production",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holly-Michigan-US/Lead--Production_R00266785?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Spezialist Lieferantenqualitat / Supplier Quality Assurance (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/Spezialist-Lieferantenqualitat---Supplier-Quality-Assurance--m-w-x-_R00267199-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "GET",
+   "url": "https://careers.motherson.com/en/job/get-7470"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 06577 Oberheldrungen 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2w3kAK-produktionshelfer-mwd_06577-oberheldrungen"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Telefonischer Kundenberater (m/w/d) Direktvermittlung 06110 Halle (Saale) 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z13RBlE-telefonischer-kundenberater-mwd-direktvermittlung_06110-halle-saale"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 35510 Butzbach 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/sb485-gabelstaplerfahrer-mwd_35510-butzbach"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenführer (m/w/d) Papierverarbeitung 06792 Sandersdorf, Sachsen-Anhalt 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1wOIc6-anlagenfuehrer-mwd-papierverarbeitung_06792-sandersdorf-sachsen-anhalt"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) 99086 Erfurt 22.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1UuaYx-monteur-mwd_99086-erfurt"
+  },
+  {
+   "at": "2026-10-22T13:29:13+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Account Executive - Private Sector",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Sao-Paulo-Brazil/Account-Executive---Private-Sector_71007774?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation BUYER (Nyírbátor/Debrecen) 22.10.2026 Einkauf/Logistik/Materialwirtschaft Debrecen",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/buyer-nyirbator-debrecen"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) für elektrooptische Systeme mit Schwerpunkt Infrarotsensorik, gerne mit Promotion 22.10.2026 Forschung/Ent",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fuer-elektrooptische-systeme-mit-schwerpunkt-infrarotsensorik-gerne-mit-promotion"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Fachteamleiter (m/w/d) IT-Hardware und Netzwerkkomponenten für Luftverteidigungssysteme 22.10.2026 Forschung/Entwicklung/Engineering Röt",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-it-hardware-und-netzwerkkomponenten-fuer-luftverteidigungssysteme3"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Duális képzés (Nyírbátor) 22.10.2026 Sonstige Nyírbátor",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/dualis-kepzes-nyirbator"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Fachteamleiter (m/w/d) IT-Hardware und Netzwerkkomponenten für Luftverteidigungssysteme 22.10.2026 Forschung/Entwicklung/Engineering Übe",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachteamleiter-m-w-d-it-hardware-und-netzwerkkomponenten-fuer-luftverteidigungssysteme"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Metall Praktikant / Werkstudent (m/w/d) Human Resources 22.10.2026 Human Resources/Personal Germany, Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/praktikant-werkstudent-m-w-d-human-resources"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Fertigungsplaner / Fertigungsingenieur (m/w/d) im Bereich Teilefertigung (Zerspanung) 22.10.2026 Produktion Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fertigungsplaner-fertigungsingenieur-m-w-d-im-bereich-teilefertigung-zerspanung"
+  },
+  {
+   "at": "2026-10-22T13:25:19+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Qualitätsinspektor (m/w/d) im Bereich Qualitätsmanagement und Auftragsabwicklung 22.10.2026 Qualitätsmanagement Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/qualitaetsinspektor-m-w-d-im-bereich-qualitaetsmanagement-und-auftragsabwicklung"
   }
  ],
- "last_missing_parts": [
-  2,
-  3
- ],
- "last_run": "2026-10-22T13:07:37+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-10-22T13:31:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
