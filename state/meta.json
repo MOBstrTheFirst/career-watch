@@ -1,5 +1,5 @@
 {
- "alerts": 14,
+ "alerts": 17,
  "commands_set": true,
  "events": [
   {
@@ -204,12 +204,89 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-zoll-m-w-d-4/bewerben"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Praktikant Projektkommunikation Netzausbau (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5072525&jobId=119043"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinenbediener Verpackung (m/w/d) 18,00 € verhandelbar (Technik & Instandhaltung) in 99427 Weimar Technik & Instandhaltung 99427 Weimar vor einer S",
+   "url": "https://jobs.de.dis-ag.com/maschinenbediener-verpackung-m-w-d-1800-eur-verhandelbar"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) (Einkauf & Supply Chain) in 74193 Schwaigern Einkauf & Supply Chain 74193 Schwaigern Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-151"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Export & Customs Specialist (m/w/d) (Logistik & Transport) in 72800 Eningen unter Achalm Logistik & Transport 72800 Eningen unter Achalm vor einer Stu",
+   "url": "https://jobs.de.dis-ag.com/export-und-customs-specialist-m-w-d"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Teamassistenz (m/w/d) (Büroverwaltung) in 76137 Karlsruhe Büroverwaltung 76137 Karlsruhe Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-134"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 77848 Achern Bau & Immobilien 77848 Achern Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-17"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 73732 Esslingen am Neckar Rechnungswesen & Finanzen 73732 Esslingen am Neckar Homeoffice",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-123"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "RT Berlin (IT & Software) in 50170 Kerpen IT & Software 50170 Kerpen vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/rt-berlin"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Qualitätsprüfung (m/w/d) bis 21€/Stunde (Produktion & Fertigung) in 29345 Unterlüß Produktion & Fertigung 29345 Unterlüß vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-qualitaetspruefung-m-w-d-bis-21eur-stunde"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsinnendienstmitarbeiter (m/w/d) (Sales & Vertrieb) in 76137 Karlsruhe Sales & Vertrieb 76137 Karlsruhe Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-30"
+  },
+  {
+   "at": "2026-10-22T23:18:32+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/maschinenbediener-verpackung-m-w-d-1800-eur-verhandelbar/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T23:06:31+00:00",
+ "last_run": "2026-10-22T23:18:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 4,
+ "runs": 5,
  "tg_offset": 297408924
 }
