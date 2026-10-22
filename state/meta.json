@@ -1,5 +1,5 @@
 {
- "alerts": 53,
+ "alerts": 56,
  "commands_set": true,
  "events": [
   {
@@ -687,12 +687,26 @@
    "site": "ABB – Nürnberg branch",
    "title": "Senior Field Service Technician",
    "url": "https://careers.abb/global/en/job/JR00040272/Senior-Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-22T04:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New EUV Field Service Engineer (Kumamoto jasm) Kumamoto, Japan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/euv-field-service-engineer-kumamoto-jasm-j00343846"
+  },
+  {
+   "at": "2026-10-22T04:40:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "ECU Embedded Software Engineer-Radar",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Yokohama-Kanagawa-JP/ECU-Embedded-Software-Leader-Radar-2_R00255904?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T04:25:55+00:00",
+ "last_run": "2026-10-22T04:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
