@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 40,
  "commands_set": true,
  "events": [
   {
@@ -316,12 +316,103 @@
    "site": "ams OSRAM – Regensburg",
    "title": "Senior Project Engineer (Hookup)",
    "url": "https://jobs.ams-osram.com/en/job/Senior-Project-Engineer-Hookup-Kulim/24487"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Trainer für Radarsysteme TRML-4D (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Kiel-Trainer-f%C3%BCr-Radarsysteme-TRML-4D-%28wmd%29-24145/1364765555"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Divisional Controlling",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Divisional-Controlling-73447/1362230555"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "System Ingenieur für das FCAS Radar (CFSN, 6 Gen Fighter Radar) (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-System-Ingenieur-f%C3%BCr-das-FCAS-Radar-%28CFSN%2C-6-Gen-Fighter-Radar%29-%28wmd%29-89077/1365525955"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Praktikant Corporate Marketing (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Praktikant-Corporate-Marketing-%28wmd%29-89077/1365554255"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur luftgestützte Aufklärung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-luftgest%C3%BCtzte-Aufkl%C3%A4rung-%28wmd%29-89077/1365567455"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Lead System Architect Space (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Immenstaad-Lead-System-Architect-Space-%28wmd%29-88090/1365575355"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Abteilungsleiter Spectrum Dominance Embedded Software (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Abteilungsleiter-Spectrum-Dominance-Embedded-Software-%28wmd%29-89077/1365527155"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Technical Project Manager Space (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Immenstaad-Technical-Project-Manager-Space-%28wmd%29-88090/1365577355"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Jurist/Syndikus für Export-Compliance Governance (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-JuristSyndikus-f%C3%BCr-Export-Compliance-Governance-%28wmd%29-89077/1340860855"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur - Training Means (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Immenstaad-Systemingenieur-Training-Means-%28wmd%29-88090/1362234655"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Experte Informationssicherheit (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Kiel-Senior-Experte-Informationssicherheit-%28mwd%29-24114/1362220555"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "ILS Engineer (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-ILS-Engineer-%28wmd%29-89077/1369377355"
+  },
+  {
+   "at": "2026-10-22T02:10:02+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Masterarbeit: Luftfahrtkonforme Miniaturisierung von IMA-Modulen",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Masterarbeit-Luftfahrtkonforme-Miniaturisierung-von-IMA-Modulen-82256/1369315255"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T01:57:07+00:00",
+ "last_run": "2026-10-22T02:11:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-21",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
