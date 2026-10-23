@@ -1,5 +1,5 @@
 {
- "alerts": 37,
+ "alerts": 39,
  "commands_set": true,
  "events": [
   {
@@ -813,12 +813,26 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Auxiliar de Produção | Louveira/SP",
    "url": "https://www.pgcareers.com/de/en/job/R000153689/Auxiliar-de-Produção-Louveira-SP"
+  },
+  {
+   "at": "2026-10-23T02:40:45+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "MATERIALS HANDLER (M/F/D)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19032?c=hella"
+  },
+  {
+   "at": "2026-10-23T02:39:59+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Systems Engineer - Automotive",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chongqing/Senior-Systems-Engineer---Automotive_R-10062651-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T02:33:23+00:00",
+ "last_run": "2026-10-23T02:41:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408924
 }
