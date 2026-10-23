@@ -1,203 +1,7 @@
 {
- "alerts": 296,
+ "alerts": 304,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent im Bereich Airborne Radar Systems (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-im-Bereich-Airborne-Radar-Systems-%28wmd%29-89077/1365642555"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Personal- und Vergütungspolitik (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Werkstudent-Personal-und-Verg%C3%BCtungspolitik-%28wmd%29-82024/1344166255"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: Fachinformatiker*in Systemintegration (w/m/d), Koblenz, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Koblenz-Ausbildung-Fachinformatikerin-Systemintegration-%28wmd%29%2C-Koblenz%2C-Start-2027-56073/1358745855"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Team Lead Integrated Product Support Landsystems (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Koblenz-Team-Lead-Integrated-Product-Support-Landsystems-%28wmd%29-56073/1358757655"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Export Control Manager (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Export-Control-Manager-%28wmd%29-82256/1362284255"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Informatik\" (w/m/d), Fürstenfeldbruck, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Duales-Studium-Informatik-%28wmd%29%2C-F%C3%BCrstenfeldbruck%2C-Start-2027-82256/1358745255"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Embedded Systems\" (w/m/d), Immenstaad, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Immenstaad-Duales-Studium-Embedded-Systems-%28wmd%29%2C-Immenstaad%2C-Start-2027-88090/1358751255"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Elektro- und Informationstechnik - Nachrichtentechnik\" (w/m/d), Taufkirchen, 2027",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Duales-Studium-Elektro-und-Informationstechnik-Nachrichtentechnik-%28wmd%29%2C-Taufkirchen%2C-2027-82024/1358751855"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Master Expert Systems Engineering (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Master-Expert-Systems-Engineering-%28wmd%29-82256/1332478455"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Hardwareentwickler (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Hardwareentwickler-%28wmd%29-82256/1336327855"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Data Science & künstliche Intelligenz\" (w/m/d), Ulm, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Duales-Studium-Data-Science-&-k%C3%BCnstliche-Intelligenz-%28wmd%29%2C-Ulm%2C-Start-2027-89077/1358753755"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"IT-Security\" (w/m/d), Immenstaad, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Immenstaad-Duales-Studium-IT-Security-%28wmd%29%2C-Immenstaad%2C-Start-2027-88090/1358749955"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Software Entwickler (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Software-Entwickler-%28wmd%29-82256/1358822055"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Technische Informatik\" (w/m/d), Fürstenfeldbruck, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Duales-Studium-Technische-Informatik-%28wmd%29%2C-F%C3%BCrstenfeldbruck%2C-Start-2027-82256/1358745655"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Elektriker / Industrieelektriker / Mechatroniker (m/w/d) - Herstellung & Instandhaltung",
-   "url": "https://jobs.hensoldt.net/job/Friedberg-Elektriker-Industrieelektriker-Mechatroniker-%28mwd%29-Herstellung-&-Instandhaltung-86316/1358740355"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Mechaniker / Industriemechaniker / Mechatroniker (m/w/d) - Herstellung & Instandhaltung",
-   "url": "https://jobs.hensoldt.net/job/Friedberg-Mechaniker-Industriemechaniker-Mechatroniker-%28mwd%29-Herstellung-&-Instandhaltung-86316/1358740755"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Embedded Systems\" (w/m/d), Taufkirchen, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Duales-Studium-Embedded-Systems-%28wmd%29%2C-Taufkirchen%2C-Start-2027-82024/1358752555"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: Fachinformatiker*in Systemintegration (w/m/d), Wilhelmshaven, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Ausbildung-Fachinformatikerin-Systemintegration-%28wmd%29%2C-Wilhelmshaven%2C-Start-2027-26389/1358748455"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Duales Studium: \"Informatik\" (w/m/d), Fürstenfeldbruck, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Duales-Studium-Informatik-%28wmd%29%2C-F%C3%BCrstenfeldbruck%2C-Start-2027-82256/1358744455"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Ausbildung: Fachinformatiker*in Systemintegration (w/m/d), Fürstenfeldbruck, Start 2027",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Ausbildung-Fachinformatikerin-Systemintegration-%28wmd%29%2C-F%C3%BCrstenfeldbruck%2C-Start-2027-82256/1358743855"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Senior Expert Konfigurations- und Datenmanagement (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Senior-Expert-Konfigurations-und-Datenmanagement-%28wmd%29-26389/1358733455"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Intern",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Hefei-City-Anhui-CN/Intern_R00267147?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Product Engineer",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Hefei-City-Anhui-CN/Product-Engineer_R00266873?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T02:10:07+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Commercial Account Executive (Australia, NSW, Remote)",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/AUS-Sydney--Pitt-St/Commercial-Account-Executive--Australia--NSW--Remote-_R027387-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T02:33:07+00:00",
-   "kind": "possible",
-   "site": "Rösler Oberflächentechnik – Untermerzbach",
-   "title": "Monteur Neumaschinenmontage - Strahltechnik (m/w/d)",
-   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
-  },
-  {
-   "at": "2026-10-23T02:25:36+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Technical Implementation Manager",
-   "url": "https://careers.landisgyr.com/job/Noida-Technical-Implementation-Manager-UP/1429930333"
-  },
-  {
-   "at": "2026-10-23T02:25:36+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Sr Financial Analyst",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Sr-Financial-Analyst-GA-30004/1440978233"
-  },
-  {
-   "at": "2026-10-23T02:25:36+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Specialist Real Estate Management (m/w/d)",
-   "url": "https://www.rehau.jobs/job/Rehau-Specialist-Real-Estate-Management-%28mwd%29/1396097833"
-  },
   {
    "at": "2026-10-23T02:24:32+00:00",
    "kind": "new",
@@ -3501,12 +3305,208 @@
    "site": "Actemium Cegelec",
    "title": "Neu Deutschland + 1 Servicetechniker / Mechatroniker (w/m/d) Anlagenbau Berufserfahrene Ingenieure und technische Berufe",
    "url": "https://actemium.career.softgarden.de/jobs/67737827/Servicetechniker-Mechatroniker-w-m-d-Anlagenbau-"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Intégrateur Systèmes de drônes (F/H) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157456439-ingenieur-integrateur-systemes-de-drones-f-h-"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Medizin & Gesundheit Arbeitsmediziner*in, Betriebsmediziner*in oder Arzt/Ärztin in Weiterbildung (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Arbeitsmedizinerin-Betriebsmedizinerin-oder-Arzt_Aerztin-in-Weiterbildung-w_m_d-Saarbruecken?id=21724"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Training & Weiterbildung Sozialpädagoge*in (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Sozialpaedagogein-w_m_d-Lehnitz?id=21693"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Technischer Zeichner / Technischer Systemplaner (m/w/d) Verkehrswege Berufserfahrene Rostock Neu",
+   "url": "https://karriere.omexom.de/jobs/68112286/Technischer-Zeichner-Technischer-Systemplaner-m-w-d-Verkehrswege"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) Quereinsteiger",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fSVSgQAO"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinen- und Anlagenführer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000150BEdQAM"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinen- und Anlagenbediener (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaPDoQAM"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018ViAvQAK"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Eletroniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000QEkM1QAL"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018Ug39QAC"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Koch (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000017CA0gQAG"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VXIjQAO"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagemitarbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k22sIQAQ"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fertigungsmitarbeiter (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000k2YrhQAE"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CNC-Fräser (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014RnoHQAS"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CNC-Dreher (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000010wHSzQAM"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000javjDQAQ"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VWUjQAO"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CAM-Programmierer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014T0JfQAK"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Staplerfahrer (m/w/d) bis zu 3.350€ brutto/Monat gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VTevQAG"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VScPQAW"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VQh3QAG"
+  },
+  {
+   "at": "2026-10-23T12:06:45+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VHM1QAO"
+  },
+  {
+   "at": "2026-10-23T11:54:54+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Helfer Produktion Kunststoff (m/w/d) Annweiler am Trifels",
+   "url": "https://www.tempton.de/jobs/helfer-produktion-kunststoff-1"
+  },
+  {
+   "at": "2026-10-23T11:55:07+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198697 Praktikant Konzepte und Grundauslegung elektrische Antriebsmaschine (w/m/x) Veröffentlicht: 23.10.2026 Antrieb München Neu Antrieb München Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198697.html"
+  },
+  {
+   "at": "2026-10-23T11:55:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Recruiting Specialist (m/w/d) (Reinigung & Wartung) in 44649 Herne Reinigung & Wartung 44649 Herne Homeoffice möglich vor 13 Stunden",
+   "url": "https://jobs.de.dis-ag.com/recruiting-specialist-m-w-d-5"
+  },
+  {
+   "at": "2026-10-23T11:55:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Servicemitarbeiter Unternehmenskunden (m/w/d) (Banken & Finanzdienstleistung) in 41472 Neuss Banken & Finanzdienstleistung 41472 Neuss Homeoffice mögl",
+   "url": "https://jobs.de.dis-ag.com/servicemitarbeiter-unternehmenskunden-m-w-d"
+  },
+  {
+   "at": "2026-10-23T11:55:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/recruiting-specialist-m-w-d-5/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T11:41:14+00:00",
+ "last_run": "2026-10-23T12:07:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
