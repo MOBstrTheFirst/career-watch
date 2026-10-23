@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 41,
  "commands_set": true,
  "events": [
   {
@@ -827,12 +827,61 @@
    "site": "TTTech Auto Germany",
    "title": "Senior Systems Engineer - Automotive",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chongqing/Senior-Systems-Engineer---Automotive_R-10062651-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "FIT Supervisor",
+   "url": "https://jobs.sanmina.com/jobs/18355927-fit-supervisor"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "1 Assembler 2 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18389779-1-assembler-2-r"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 1 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18389714-production-test-technician-1-n"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Sr NPI Engineer (N)",
+   "url": "https://jobs.sanmina.com/jobs/18389668-sr-npi-engineer-n"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Control Supervisor 1 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18389602-production-control-supervisor-1-r"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Sr Program Administrator (R)",
+   "url": "https://jobs.sanmina.com/jobs/18389443-sr-program-administrator-r"
+  },
+  {
+   "at": "2026-10-23T03:05:11+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Business Process Analyst 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18389376-business-process-analyst-3-n"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T02:41:03+00:00",
+ "last_run": "2026-10-23T03:05:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
