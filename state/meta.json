@@ -1,182 +1,7 @@
 {
- "alerts": 360,
+ "alerts": 371,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Externer Beschaffer (w/m/d) für Fertigungsmittel",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526902"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526902"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) – Project Management, Program Management Office",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Project-Management-Program-Management-Office/305985"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Mechaniker (m/w/d) im Schichtbetrieb",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Mechaniker--m-w-d--im-Schichtbetrieb_R0267668?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
-   "title": "Supply Chain Operations Intern – US – Summer 2027",
-   "url": "https://careers.geaerospace.com/global/en/job/R5029660/Supply-Chain-Operations-Intern-US-Summer-2027"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Bauleiter Elektrotechnik (m/w/d) Mülheim an der Ruhr Fertigungstechnik & Maschinenbau Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzYwMg%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Spécialiste électronique hardware – Aéronautique (F/H) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157409814-specialiste-electronique-hardware-aeronautique-f-h-"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Responsable de Lot – Conception Hardware H/F Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157409060-responsable-de-lot-conception-hardware-h-f"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Spécialiste - Ingénieur Electronique RF/HF (F/H) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157405995-specialiste-ingenieur-electronique-rf-hf-f-h-"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "ROFA Industrial Automation – Bodenwöhr",
-   "title": "Firma: Rofa AG Standort: Kolbermoor Kategorie: Auszubildende und Schüler Ausbildung zum Technischen Produktdesigner (m/w/d) Start 2028",
-   "url": "https://karriere.rofa-group.com/jobs/ausbildung-zum-technischen-produktdesigner-m-w-d-start-2028"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Corporate Communications & PR Manager (m/w/d) – Group",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013JPjgQAG"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Group AI Learning Manager (m/w/d) in Teilzeit",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018ScEzQAK"
-  },
-  {
-   "at": "2026-10-23T08:26:23+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Lagermitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018MXTKQA4"
-  },
-  {
-   "at": "2026-10-23T08:25:10+00:00",
-   "kind": "new",
-   "site": "GE HealthCare – Wendelstein",
-   "title": "Technology Director - Ultrasound & Bioinstrumentation",
-   "url": "https://careers.gehealthcare.com/global/en/job/R4045613/Technology-Director-Ultrasound-Bioinstrumentation"
-  },
-  {
-   "at": "2026-10-23T08:25:10+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "23.10.2026 Payroll-Specialist / Lohnbuchaltung (m/w/d) Schloß Holte-Stukenbrock",
-   "url": "https://www.tempton.de/jobs/payroll-specialist-lohnbuchaltung"
-  },
-  {
-   "at": "2026-10-23T08:25:10+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "23.10.2026 CAM-Programmierer / Fertigungstechnologe (m/w/d) Kemnath",
-   "url": "https://www.tempton.de/jobs/cam-programmierer-fertigungstechnologe"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "EHS Engi­neer (m/w/d) in Direkt­ver­mitt­lung Neu Job Vor Ort Vollzeit 70.000 - 90.000 € Dresden, Deutsch­land Direktvermittlung Anlagenbau Elektrotec",
-   "url": "https://touch.ferchau.com/de/de/job/525379/ehs-engineer-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Plant Controller (m/w/d) Neu Job Vor Ort Vollzeit 65.000 - 85.000 € Sonne­berg, Deutsch­land Backoffice Professionals Senior Professionals ohne Person",
-   "url": "https://touch.ferchau.com/de/de/job/525376/plant-controller"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bezirks­leiter Bäckerei / Fili­al­ma­nage­ment (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 45.000 - 54.000 € Cottbus, Deutsch­land Direktvermi",
-   "url": "https://touch.ferchau.com/de/de/job/512362/bezirksleiter-baeckerei-filialmanagement-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Leiter Elek­tro­kon­struk­tion Anla­genbau (m/w/d) in Direkt­ver­mitt­lung Job Vor Ort Vollzeit 60.000 - 75.000 € Chem­nitz, Deutsch­land Direktvermit",
-   "url": "https://touch.ferchau.com/de/de/job/507433/leiter-elektrokonstruktion-anlagenbau-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­in­ge­nieur / Auto­ma­ti­sie­rungs­in­ge­nieur (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 60.000 - 75.000 € Wils­druff, Deutsch­land",
-   "url": "https://touch.ferchau.com/de/de/job/521866/elektroingenieur-automatisierungsingenieur-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Vorarbeiter (m/w/d) Umschlagplätze Windkraft",
-   "url": "https://jobportal.max-boegl.de/Vorarbeiter-mwd-Umschlagplaetze-Windkraft-de-j721.html"
-  },
-  {
-   "at": "2026-10-23T08:25:07+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Werkzeugmacher (m/w/d) für BMW 84028 Landshut, Isar 23.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2tQEbX-werkzeugmacher-mwd-fuer-bmw_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-23T08:25:09+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-mfa-hochschulambulanz-hno-klinik-m-w-d-14017"
-  },
-  {
-   "at": "2026-10-23T08:25:09+00:00",
-   "kind": "possible",
-   "site": "Baumüller",
-   "title": "Elektriker / Servicetechniker (m/w/d) für DGUV-V3 Prüfungen Kennziffer 940",
-   "url": "https://www.baumueller.com/de/unternehmen/karriere/stellenangebote"
-  },
   {
    "at": "2026-10-23T08:40:58+00:00",
    "kind": "new",
@@ -3501,12 +3326,187 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-bereich-strysack-burmeister/bewerben"
+  },
+  {
+   "at": "2026-10-23T14:10:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Chef de projet Conception mécanique Naval (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157485729-chef-de-projet-conception-mecanique-naval-h-f-"
+  },
+  {
+   "at": "2026-10-23T14:10:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Chef de Projet Méthodes Industrialisation F/H Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157484741-chef-de-projet-methodes-industrialisation-f-h"
+  },
+  {
+   "at": "2026-10-23T14:10:45+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Bahntechnik (m/w/d) Köln Seit 23. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109409/Bauleiter%20Bahntechnik%20(m%2Fw%2Fd)/K%C3%B6ln"
+  },
+  {
+   "at": "2026-10-23T14:10:45+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Gleisbau (m/w/d) Köln Seit 23. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109407/Bauleiter%20Gleisbau%20(m%2Fw%2Fd)/K%C3%B6ln"
+  },
+  {
+   "at": "2026-10-23T14:10:45+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Werkstudent im Bereich Engineering Support (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/f8245408-2cf2-42b1-abdb-7f345d92b1d4"
+  },
+  {
+   "at": "2026-10-23T14:09:41+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Software Development Engineer for Flight Physics Capabilities / Loads & Aeroelastics (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Software-Development-Engineer-for-Flight-Physics-Capabilities---Loads---Aeroelastics----d-f-m-_JR10450460-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T14:09:41+00:00",
+   "kind": "new",
+   "site": "Ranovus – Nürnberg",
+   "title": "Optoelectronics Wafer Test Engineering",
+   "url": "https://ranovus.bamboohr.com/careers/86"
+  },
+  {
+   "at": "2026-10-23T14:09:41+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Systemingenieur Maschinenbau (m/w/d) Ulm, Biberach an der Riß",
+   "url": "https://www.tempton.de/jobs/systemingenieur-maschinenbau"
+  },
+  {
+   "at": "2026-10-23T14:09:51+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "MRO Clerk",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Duncan-South-Carolina-US/MRO-Clerk_R00267435?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T14:09:51+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "BMW sucht DICH! 84130 Dingolfing 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ednh9-bmw-sucht-dich_84130-dingolfing"
+  },
+  {
+   "at": "2026-10-23T14:09:51+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Näher/in (m/w/d) 84130 Dingolfing 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZaeTMc-naeherin-mwd_84130-dingolfing"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Engineer (m/w/d) Konstruktion rotierende Maschinen 23.10.2026 Forschung/Entwicklung/Engineering Dresden, Gilching",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/engineer-m-w-d-konstruktion-rotierende-maschinen"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Projekt-Einkäufer Batteriesysteme (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/505105/projekt-einkaeufer-batteriesysteme-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Supply Officer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/505881/supply-officer-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 42697 Solingen Rechnungswesen & Finanzen 42697 Solingen Homeoffice mögli",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-14"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Assistenz (m/w/d) Kanzlei (Recht & Steuern) in 64293 Darmstadt Recht & Steuern 64293 Darmstadt vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-kanzlei"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 40789 Monheim am Rhein Rechnungswesen & Finanzen 40789 Monheim am Rhein ",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-13"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Product Manager (m/w/d) Consumables (Sales & Vertrieb) in 69123 Heidelberg Sales & Vertrieb 69123 Heidelberg vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/product-manager-m-w-d-consumables"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter in Teilzeit (m/w/d) (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-in-teilzeit-m-w-d"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellte (m/w/d) in Voll- oder Teilzeit mit DATEV (Rechnungswesen & Finanzen) in 55124 Mainz Rechnungswesen & Finanzen 55124 Mainz Homeof",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-m-w-d-in-voll-oder-teilzeit-mit-datev"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 40721 Hilden Rechnungswesen & Finanzen 40721 Hilden Homeoffice möglich v",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-12"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Schadensachbearbeiter (m/w/d) Kompositversicherung | Hausrat, Wohngebäude & Haftpflicht (Rechnungswesen & Finanzen) in 20095 Hamburg Rechnungswesen & ",
+   "url": "https://jobs.de.dis-ag.com/schadensachbearbeiter-m-w-d-kompositversicherung-hausrat-wohngebaeude-und-haftpflicht"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-m-w-d-239"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Solingen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-solingen"
+  },
+  {
+   "at": "2026-10-23T14:19:36+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-14/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T14:02:00+00:00",
+ "last_run": "2026-10-23T14:19:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
