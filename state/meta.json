@@ -1,5 +1,5 @@
 {
- "alerts": 194,
+ "alerts": 204,
  "commands_set": true,
  "events": [
   {
@@ -2458,12 +2458,124 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich/bewerben"
+  },
+  {
+   "at": "2026-10-23T09:10:43+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Herzogenaurach HQ",
+   "title": "Project Manager HR Strategie (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Project-Manager-HR-Strategie-%28dmw%29-91074/1422729633"
+  },
+  {
+   "at": "2026-10-23T09:10:43+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Projektassistenz als Stabsstelle der Pflegedirektion (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/c24c02a9-a323-5130-aee4-69e3a2aea8bd/projektassistenz-als-stabsstelle-der-pflegedirektion-m-w-d"
+  },
+  {
+   "at": "2026-10-23T09:10:43+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Maschinenbediener (m/w/d) bis zu 22€/Stunde",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018T7nRQAS"
+  },
+  {
+   "at": "2026-10-23T09:09:49+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Testability Engineer Eurodrone (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Testability-Engineer-Eurodrone--d-w-m-_JR10437660?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T09:12:34+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Specialist Customs Compliance",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lannach-AT/Specialist-Customs-Compliance_R00267158-5?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T09:12:34+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Engineer",
+   "url": "https://careers.motherson.com/en/job/engineer-7423"
+  },
+  {
+   "at": "2026-10-23T09:12:34+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 41460 Neuss 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1JAeDL-produktionsmitarbeiter-mwd_41460-neuss"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) FPGA-Design 23.10.2026 Forschung/Entwicklung/Engineering Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fpga-design3"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Kreditorenbuchhalter / Accountant – SAP (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507106/kreditorenbuchhalter-accountant-%E2%80%93-sap-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Kreditorenbuchhalter (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507120/kreditorenbuchhalter-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Project Manager Aerospace (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507255/project-manager-aerospace-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Technischer Projektmanager/Projektingenieur (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507256/technischer-projektmanager-projektingenieur-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "BIM Content Developer / Autodesk Application Specialist (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507257/bim-content-developer-autodesk-application-specialist-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 47798 Krefeld Rechnungswesen & Finanzen 47798 Krefeld Homeoffice möglich",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-1"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Krefeld",
+   "url": "https://jobs.de.dis-ag.com/suche/in-krefeld"
+  },
+  {
+   "at": "2026-10-23T09:10:10+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T09:06:11+00:00",
+ "last_run": "2026-10-23T09:16:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
