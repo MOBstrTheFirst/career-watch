@@ -1,28 +1,7 @@
 {
- "alerts": 452,
+ "alerts": 457,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:54:47+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Controls Monter (k/m/n) 23.10.2026 Produktion Poland",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/monter-k-m-n"
-  },
-  {
-   "at": "2026-10-23T11:20:03+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Mitarbeiter Auftragsabwicklung / Project Order Manager (w/m/d)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Mitarbeiter-Auftragsabwicklung-Project-Order-Manager-w-m-d/297531"
-  },
-  {
-   "at": "2026-10-23T11:20:03+00:00",
-   "kind": "new",
-   "site": "e.solutions GmbH",
-   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/tel:+4984583332-100?cHash=ef97fb73db08f09fd0a631ef360c92777cd9a3713b60496395daffc1a5b5a5a7",
-   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/tel:+4984583332-100?cHash=ef97fb73db08f09fd0a631ef360c92777cd9a3713b60496395daffc1a5b5a5a7"
-  },
   {
    "at": "2026-10-23T11:20:03+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "ABB – Nürnberg branch",
    "title": "Sales Development Leader - MidWest",
    "url": "https://careers.abb/global/en/job/JR00050993/Sales-Development-Leader-MidWest"
+  },
+  {
+   "at": "2026-10-23T21:25:44+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "MTQI-Qualitätsinspektor (d/m/w) Passive Geräte",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzI4MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-23T21:24:42+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Production Supervisor",
+   "url": "https://careers.motherson.com/en/job/production-supervisor-kqpt6t4wqnk-vrqkivmydg"
+  },
+  {
+   "at": "2026-10-23T21:34:25+00:00",
+   "kind": "new",
+   "site": "Gerresheimer Regensburg",
+   "title": "Operador de Manejo de Materiales | Hombre sentado",
+   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/c4a68d88-009c-478c-8946-da0d3e5a916d?cHash=c2642ddb757c17700244e972d24ddb7c6bcb92f453de716d5811cdb765832995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T21:12:15+00:00",
+ "last_run": "2026-10-23T21:34:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
