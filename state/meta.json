@@ -1,11 +1,96 @@
 {
- "alerts": 0,
+ "alerts": 4,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-10-23T22:10:38+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Ausbildung Elektroniker:in m/w/d für Betriebstechnik",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Ausbildung-Elektronikerin-mwd-fuer-Betriebstechnik-de-j49.html"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Senior Project Manager – Responsable programme Industriel F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/senior-project-manager-responsable-programme-industriel-f-h-ref-2026-26940"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Alternance – Ingénieur(e) Support Projet Digitalisation & Conformité F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/alternance-ingenieure-support-projet-digitalisation-conformite-f-h-ref-2026-27853"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Overall Industrial Architect & Systems Integration Manager F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/overall-industrial-architect-systems-integration-manager-f-h-ref-2026-28157"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Fabricator",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/fabricator-ref-2026-28158"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Technischer Projektleiter Bautechnik (m/w/d)",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technischer-projektleiter-bautechnik-m-w-d-ref-2026-26806"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Lead Welder",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/lead-welder-ref-2026-28153"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Welder",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/welder-ref-2026-28152"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Technicien d’intervention Auto sur sites nucléaires F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-dintervention-auto-sur-sites-nucleaires-f-h-ref-2026-28118"
+  },
+  {
+   "at": "2026-10-23T22:10:16+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Elektroingenieur (m/w/d)",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/elektroingenieur-m-w-d-ref-2026-28150"
+  },
+  {
+   "at": "2026-10-23T22:10:06+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Principal Physical Verification Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Principal-Physical-Verification-Engineer_R027476-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T22:10:06+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Product Planning Manager",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Product-Planning-Manager_R-10066181?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T21:59:01+00:00",
+ "last_run": "2026-10-23T22:10:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
