@@ -1,119 +1,7 @@
 {
- "alerts": 398,
+ "alerts": 406,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Schweinfurt",
-   "title": "Machine Operator (m/w/d)",
-   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Machine-Operator-%28mwd%29-97421/1282748001"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Lear – Kronach",
-   "title": "Ausbildung zum Werkzeugmechaniker (m/w/d) Fachrichtung Stanz- und Umformtechnik 2027",
-   "url": "https://jobs.lear.com/job/Bersenbr%C3%BCck-Ausbildung-zum-Werkzeugmechaniker-%28mwd%29-Fachrichtung-Stanz-und-Umformtechnik-2027-NI-49593/1450680033"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Medizinische Fachangestellte (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/fd0dd80c-9f5c-5c40-b3cd-6fbddfd60b81/medizinische-fachangestellte-m-w-d"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Citrix Architect (m/f/d)",
-   "url": "https://karriere.fresenius.de/job-detail/3084aeef-1fa8-5bd8-b3b9-7c97687bcd92/citrix-architect-m-f-d"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Medizinische Fachangestellte / MFA (m/w/d) Große Bleichen",
-   "url": "https://karriere.fresenius.de/job-detail/000ee7b9-569b-576b-b45b-403bd4d42d1b/medizinische-fachangestellte-mfa-m-w-d-grosse-bleichen"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleiter / Obermonteur (m/w/d) Berufserfahrene Grafenrheinfeld + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/62192349/Bauleiter-Obermonteur-m-w-d-"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Energietechnik (m/w/d) Berufserfahrene Grafenrheinfeld + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/62197134/Elektromonteur-Energietechnik-m-w-d-"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Industriemechaniker (m/w/d) bis zu 26€/Stunde gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018U5GWQA0"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Wareneingangsmitarbeiter (m/w/d) bis zu 23€/Stunde gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018UFJ3QAO"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Kommissionierer (m/w/d) bis zu 21€/Stunde gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018U5OXQA0"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsmitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018U1RNQA0"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenfahrer / Operator  (m/w/d) Chemie",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018Tlo1QAC"
-  },
-  {
-   "at": "2026-10-23T10:07:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenfahrer (m/w/d) Chemie",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018Tlo2QAC"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New M&A Analyst Veldhoven, Netherlands Strategy",
-   "url": "https://www.asml.com/en/careers/find-your-job/ma-analyst-j00344949"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Patentanwalt (m/w/d)",
-   "url": "https://jobs.zf.com/job/Friedrichshafen-Patentanwalt-%28mwd%29-BW-88046/1450683833"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Lead Antriebs­technik (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 70.000 - 80.000 € Dresden, Deutsch­land Direktvermittlung Elek",
-   "url": "https://touch.ferchau.com/de/de/job/522589/technischer-lead-antriebstechnik-in-direktvermittlung"
-  },
   {
    "at": "2026-10-23T09:55:07+00:00",
    "kind": "new",
@@ -3501,12 +3389,124 @@
    "site": "OSB AG",
    "title": "Projekteinkäufer Batteriesysteme (all gender)",
    "url": "https://www.alten-consulting.de/karriere/stelle/505105/projekteinkaeufer-batteriesysteme-(all-gender)"
+  },
+  {
+   "at": "2026-10-23T15:26:05+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Ingenieur Qualitätssicherung (m/w/d) Luftfahrt",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzYzNQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-23T15:26:05+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Dokumentenmanager E/I (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzYzNA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-23T15:26:05+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Naval - Qualité (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157509829-ingenieur-naval-qualite-h-f-"
+  },
+  {
+   "at": "2026-10-23T15:26:05+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur en Conception Mécanique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157510679-ingenieur-en-conception-mecanique-h-f-"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IAM Engi­neer / Iden­tity & Access Manage­ment Specia­list (m/w/d) Neu Job Vor Ort Vollzeit 70.000 - 80.000 € Immenstaad am Bodensee, Deutsch­land Inf",
+   "url": "https://touch.ferchau.com/de/de/job/525556/iam-engineer-identity-access-management-specialist"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lead Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Lead-Engineer_R00256952?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Senior Design Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Senior-Design-Engineer_R00257408?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Design Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Design-Engineer_R00265927?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lead CAE Analyst",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Lead-CAE-Analyst_R00265915?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Engineering Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Engineering-Manager_R00265090?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Faserverbundfertigung mit Weiterqualifizierung zum Prüfer (m/w/d) 91183 Abenberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/150j5t-mitarbeiter-faserverbundfertigung-mit-weiterqualifizierung-zum-pruefer-mwd_91183-abenberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Koch (m/w/d) Teildienst Rheinmetall 29345 Unterlüß 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1fwNeM-koch-mwd-teildienst-rheinmetall_29345-unterluess"
+  },
+  {
+   "at": "2026-10-23T15:25:05+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Qualitätsprüfer (m/w/d) Rheinmetall 29345 Unterlüß 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Sf7de-qualitaetspruefer-mwd-rheinmetall_29345-unterluess"
+  },
+  {
+   "at": "2026-10-23T15:36:13+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "(Senior) Key Account Manager (m/w/d) Dentalsysteme",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz--Maria-Trost-25/Key-Account-Manager--m-w-d--Dentalsysteme_JR110237?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T15:36:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Wirtschaftsprüfungsassistenz (m/w/d) mit DATEV- und HGB-Kenntnissen (Rechnungswesen & Finanzen) in 65189 Wiesbaden Rechnungswesen & Finanzen 65189 Wie",
+   "url": "https://jobs.de.dis-ag.com/wirtschaftspruefungsassistenz-m-w-d-mit-datev-und-hgb-kenntnissen"
+  },
+  {
+   "at": "2026-10-23T15:36:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/wirtschaftspruefungsassistenz-m-w-d-mit-datev-und-hgb-kenntnissen/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T15:10:51+00:00",
+ "last_run": "2026-10-23T15:36:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
