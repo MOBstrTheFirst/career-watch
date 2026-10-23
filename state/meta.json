@@ -1,5 +1,5 @@
 {
- "alerts": 24,
+ "alerts": 25,
  "commands_set": true,
  "events": [
   {
@@ -323,12 +323,19 @@
    "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
    "title": "Intern en Planeación de Materiales",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12415V-p-e6e9b67e50fdea9f5e98b1a45f245c2f/intern-en-planeacion-de-materiales"
+  },
+  {
+   "at": "2026-10-23T01:40:35+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Werkstudent (w/m/d) in der Redaktion Dokumentationen",
+   "url": "https://jobs.br.de/Vacancies/1388/Description/1"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T01:26:30+00:00",
+ "last_run": "2026-10-23T01:49:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
