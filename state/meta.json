@@ -1,5 +1,5 @@
 {
- "alerts": 21,
+ "alerts": 23,
  "commands_set": true,
  "events": [
   {
@@ -295,12 +295,33 @@
    "site": "M-net Telekommunikations",
    "title": "Marketing Manager CRM B2B (m/w/d)",
    "url": "https://m-net.csod.com/ux/ats/careersite/6/home/requisition/395?c=m-net"
+  },
+  {
+   "at": "2026-10-23T00:49:39+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Product Sales Executive, MR- CO,WY, UT, NM",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30144/Product-Sales-Executive-MR-CO-WY-UT-NM"
+  },
+  {
+   "at": "2026-10-23T00:49:39+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Product Sales Executive, MR- CO,WY, UT, NM",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR30144EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-23T00:40:39+00:00",
+   "kind": "new",
+   "site": "GE HealthCare – Wendelstein",
+   "title": "Program Coordinator - Schenectady, NY/ On Site",
+   "url": "https://careers.gehealthcare.com/global/en/job/R4045241/Program-Coordinator-Schenectady-NY-On-Site"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T00:26:15+00:00",
+ "last_run": "2026-10-23T00:50:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 10,
+ "runs": 11,
  "tg_offset": 297408924
 }
