@@ -1,182 +1,7 @@
 {
- "alerts": 437,
+ "alerts": 441,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "possible",
-   "site": "softgate",
-   "title": "Werkstudent",
-   "url": "https://join.com/companies/softgate"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Project Ontwikkelaar",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5020958&jobId=118964"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Werkstudent (m/w/d) KI-Agenten & Multi-Agenten-Systeme im HR",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/D%C3%BCsseldorf-Werkstudent-%28mwd%29-KI-Agenten-&-Multi-Agenten-Systeme-im-HR-NW-40474/1450697733"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "text",
-   "site": "ZSI Technology – Altdorf",
-   "title": "6 new text line(s), e.g. Heilsbronn, Deutschland",
-   "url": "https://join.com/companies/zsis"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "text",
-   "site": "Axsol – Würzburg",
-   "title": "3 new text line(s), e.g. Würzburg, Deutschland",
-   "url": "https://join.com/companies/axsol"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "IPTE Germany",
-   "title": "Technischer Projektleiter für Testsysteme und Prüftechnik (m/w/d) IPTE DE - Heroldsberg",
-   "url": "https://www.ipte.com/jobs/detail/technischer-projektleiter-fuer-testsysteme-und-prueftechnik-mwd"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Terminplaner im Energieanlagenbau / HGÜ- und Kraftwerksprojekte (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/504949/terminplaner-im-energieanlagenbau-hgue-und-kraftwerksprojekte-(all-gender)"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Hardwareentwickler (all gender) – Elektronikentwicklung & EMV",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507258/hardwareentwickler-(all-gender)-%E2%80%93-elektronikentwicklung-emv"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "(Senior) Java Backend Entwickler (m/w/d) – Spring Boot & IoT",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507259/(senior)-java-backend-entwickler-(m-w-d)-%E2%80%93-spring-boot-iot"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/36a2760c-2d86-4a30-ad5a-08df298e6008"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Lohnbuchhalter (m/w/d) (HR & Personalwesen) in 80687 Gauting HR & Personalwesen 80687 Gauting Homeoffice möglich vor 12 Stunden",
-   "url": "https://jobs.de.dis-ag.com/lohnbuchhalter-m-w-d-110"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 41460 Neuss Rechnungswesen & Finanzen 41460 Neuss Homeoffice möglich vor",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-7"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 41539 Dormagen Rechnungswesen & Finanzen 41539 Dormagen Homeoffice mögli",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-6"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Gauting",
-   "url": "https://jobs.de.dis-ag.com/suche/in-gauting"
-  },
-  {
-   "at": "2026-10-23T10:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/lohnbuchhalter-m-w-d-110/bewerben"
-  },
-  {
-   "at": "2026-10-23T10:40:52+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Schweinfurt",
-   "title": "Machine Operator (m/w/d)",
-   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Machine-Operator-%28mwd%29-97421/1448844733"
-  },
-  {
-   "at": "2026-10-23T10:40:08+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Schwabach",
-   "title": "Stellenausschreibung pdf 2.7MB",
-   "url": "https://www.stadtwerke-schwabach.de/Ueber-uns/Karriere/Stellenangebote/Stellenangebote/261023-techLeiter-Stadtwerke-langeVersion-WEB.pdf"
-  },
-  {
-   "at": "2026-10-23T10:40:08+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Schwabach",
-   "title": "Stellenausschreibung pdf 0.9MB",
-   "url": "https://www.stadtwerke-schwabach.de/Ueber-uns/Karriere/Stellenangebote/Stellenangebote/261023-techAssistenz-Stadtwerke-langeVersion-WEB.pdf"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Service Coordinator_EUV Upgrade (1Y Contract) Hwasung, Korea Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/service-coordinator-euv-upgrade-1y-contract-j00355000"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Polierer:in optische Präzisionsfertigung / Optical precision polisher Berlin, Germany Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/poliererin-optische-prazisionsfertigung--optical-precision-polisher-j00355988"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Produktionsmitarbeiter:in chemische Prozesse / Production operator – chemical processes Berlin, Germany Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/produktionsmitarbeiterin-chemische-prozesse--production-operator--chemical-processes-j00355990"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Produktionsmitarbeiter:in Messtechnik / Qualitätskontrolle / Production operator metrology / quality control Berlin, Germany Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/produktionsmitarbeiterin-messtechnik--qualitatskontrolle--production-operator-metrology--quality-control-j00356119"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Montagemitarbeiter:in Präzisionsfertigung / Assembly operator precision manufacturing Berlin, Germany Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/montagemitarbeiterin-prazisionsfertigung--assembly-operator-precision-manufacturing-j00356093"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Produktionsmitarbeiter:in Nanostrukturierung & Lithografie / Production operator – nanostructuring & lithography Berlin, Germany Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/produktionsmitarbeiterin-nanostrukturierung-lithografie--production-operator--nanostructuring-lithography-j00355996"
-  },
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Head of Financial Projects & Analysis (m/w/d)",
-   "url": "https://jobs.zf.com/job/Friedrichshafen-Head-of-Financial-Projects-&-Analysis-%28mwd%29-BW-88046/1450707433"
-  },
   {
    "at": "2026-10-23T10:40:01+00:00",
    "kind": "new",
@@ -3501,12 +3326,187 @@
    "site": "Magna – Veitsbronn",
    "title": "Generalist, Human Resources - Victor",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Victor-Iowa-US/Generalist--Human-Resources---Victor_R00267493-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Certified Welding Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18393534-certified-welding-engineer"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Quality Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18393533-quality-engineer"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Metrology Supervisor",
+   "url": "https://jobs.sanmina.com/jobs/18393532-metrology-supervisor"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Fabrication Manager",
+   "url": "https://jobs.sanmina.com/jobs/18393531-fabrication-manager"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Operations Manager",
+   "url": "https://jobs.sanmina.com/jobs/18393529-operations-manager"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Automation Technician 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18393528-automation-technician-3-r"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Process Engineer - 2nd Shift",
+   "url": "https://jobs.sanmina.com/jobs/18393527-process-engineer-2nd-shift"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 1 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18393526-production-test-technician-1-n"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Automation Technician 4 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18393525-automation-technician-4-r"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Automation Engineer 2 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18393524-automation-engineer-2-r"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Automation Technician 4 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18393523-automation-technician-4-r"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Program Manager",
+   "url": "https://jobs.sanmina.com/jobs/18328830-program-manager"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Manufacturing Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18328602-manufacturing-engineer"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "CNC Machining Production Manager",
+   "url": "https://jobs.sanmina.com/jobs/18328599-cnc-machining-production-manager"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "CNC Programmer",
+   "url": "https://jobs.sanmina.com/jobs/18328575-cnc-programmer"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Metrology Quality Technician",
+   "url": "https://jobs.sanmina.com/jobs/18328569-metrology-quality-technician"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler",
+   "url": "https://jobs.sanmina.com/jobs/18328590-material-handler"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Lead Systems Design Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18393316-lead-systems-design-engineer"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18393236-production-test-technician-3-n"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Inventory Control Analyst",
+   "url": "https://jobs.sanmina.com/jobs/18355272-inventory-control-analyst"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler 2 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18393233-material-handler-2-n"
+  },
+  {
+   "at": "2026-10-23T19:55:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Receiving Supervisor",
+   "url": "https://jobs.sanmina.com/jobs/18331733-receiving-supervisor"
+  },
+  {
+   "at": "2026-10-23T20:05:23+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Dynamic Systems and Servo Analysis Researcher Wilton, US Research and Technology Development",
+   "url": "https://www.asml.com/en/careers/find-your-job/dynamic-systems-and-servo-analysis-researcher-j00350854"
+  },
+  {
+   "at": "2026-10-23T20:05:23+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New SAP Coordinator Austin, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/sap-coordinator-j00354934"
+  },
+  {
+   "at": "2026-10-23T19:54:53+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Mechanical Engineer Supporting ASIC Test",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Mechanical-Engineer-Supporting-ASIC-Test_R027501?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T19:51:28+00:00",
+ "last_run": "2026-10-23T20:05:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
