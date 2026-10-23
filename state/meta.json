@@ -1,63 +1,7 @@
 {
- "alerts": 445,
+ "alerts": 452,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "Rieter Ingolstadt",
-   "title": "Mitarbeiter Produktionsplanung (m/w/d)",
-   "url": "https://live.solique.ch/rieter/en/internet/jobs/Mitarbeiter-Produktionsplanung-mwd---4090712"
-  },
-  {
-   "at": "2026-10-23T10:39:46+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Teamleitung Abschalt- & Inbetriebnahmeplanung (m/w/d)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4340288&jobId=115261"
-  },
-  {
-   "at": "2026-10-23T10:39:46+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
-   "title": "Neu Sachbearbeiter Energiedatenmanagement (m/w/d) Berufserfahrene",
-   "url": "https://jobs.wvv.de/jobs/68300103/Sachbearbeiter-Energiedatenmanagement-m-w-d-"
-  },
-  {
-   "at": "2026-10-23T10:55:54+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Montagemitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018UYn8QAG"
-  },
-  {
-   "at": "2026-10-23T10:54:50+00:00",
-   "kind": "possible",
-   "site": "Semikron Danfoss",
-   "title": "Junior Service Application Engineer (m/f/d)",
-   "url": "https://jobs.danfoss.com/search/?q=semikron+danfoss&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
-  },
-  {
-   "at": "2026-10-23T10:54:50+00:00",
-   "kind": "new",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Working Student (m/f/d) Data Scientist and Programmer",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Berlin/Working-Student--m-f-d--Data-Scientist-and-Programmer_R23518?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T10:54:50+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "23.10.2026 Sachbearbeiter - Arbeitsvorbereitung (m/w/d) Glaubitz",
-   "url": "https://www.tempton.de/jobs/sachbearbeiter-arbeitsvorbereitung-3"
-  },
-  {
-   "at": "2026-10-23T10:54:40+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Backoffice (m/w/d) 40549 Düsseldorf 23.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Khacx-sachbearbeiter-backoffice-mwd_40549-duesseldorf"
-  },
   {
    "at": "2026-10-23T10:54:47+00:00",
    "kind": "new",
@@ -3501,12 +3445,68 @@
    "site": "Broadcom – Regensburg",
    "title": "IC Design Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027375-5?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:12:02+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Maintenance Controls Technician",
+   "url": "https://leggett.com/careers/search?posting=36617"
+  },
+  {
+   "at": "2026-10-23T21:10:42+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Magna Engineered Glass: Senior Design Engineer (DE 3)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holland-Michigan-US/Magna-Engineered-Glass--Senior-Design-Engineer--DE-3-_R00242281?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Change Manager Riyadh,Riyadh,Saudi Arabia Service Delivery Gepostete vor 8 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777349665"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Agile Leader",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-PA-Pittsburgh-Holiday-Drive/Agile-Leader_R027441?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027377-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027376-4?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Manager – Export Control and Sanctions Compliance",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Senior-Manager---Regional-Lead---Export-Control-and-Sanctions-Compliance_R-10060190-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T21:11:00+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Sales Development Leader - MidWest",
+   "url": "https://careers.abb/global/en/job/JR00050993/Sales-Development-Leader-MidWest"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T20:53:27+00:00",
+ "last_run": "2026-10-23T21:12:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
