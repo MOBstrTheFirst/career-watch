@@ -1,21 +1,7 @@
 {
- "alerts": 435,
+ "alerts": 436,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Weld Technician",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Weld-Technician_R00267392?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "IT Application Manager Java (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/IT-Application-Engineer-MES--m-w-x-_R00267399-6?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-23T10:24:49+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "TTTech Auto Germany",
    "title": "Supply Chain Planning & Analytics Internship",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Student-Intern---Non-Technical_R-10064559?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:24:50+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/IC-Design-Engineer_R027374-4?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:24:50+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Solution Engineer - ValueOps",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-OH-Remote-Location/Solution-Engineer---ValueOps_R027294?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T19:07:16+00:00",
+ "last_run": "2026-10-23T19:31:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
