@@ -1,5 +1,5 @@
 {
- "alerts": 188,
+ "alerts": 194,
  "commands_set": true,
  "events": [
   {
@@ -2374,12 +2374,96 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/projektmanager-m-w-d-tga-elt/bewerben"
+  },
+  {
+   "at": "2026-10-23T08:55:58+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Sales Manager (m/w/d) FACTS - SynCon",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Sales-Manager-m-w-d-FACTS-SynCon/289171"
+  },
+  {
+   "at": "2026-10-23T09:05:51+00:00",
+   "kind": "new",
+   "site": "SPIE Automation – Haßfurt / SPIE Deutschland – Nürnberg",
+   "title": "Technischer Systemplaner Revit | BIM m/w/d Kulmbach SPIE Wiegel: Industriebetriebe brauchen zuverlässige Technik und starke Menschen, damit ihre Anlag",
+   "url": "https://spie.de/karriere/detail/Technischer-Systemplaner-Revit--BIM-m-w-d-2026-2022"
+  },
+  {
+   "at": "2026-10-23T09:05:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Fertigungssteuerer / Produktionstechnologe (m/w/d) Luhe-Wildenau",
+   "url": "https://www.tempton.de/jobs/fertigungssteuerer-produktionstechnologe"
+  },
+  {
+   "at": "2026-10-23T09:05:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Mitarbeiter für die Reifenmontage (m/w/d) Düsseldorf",
+   "url": "https://www.tempton.de/jobs/mitarbeiter-reifenmontage"
+  },
+  {
+   "at": "2026-10-23T09:05:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Gabelstaplerfahrer (m/w/d) Rennerod",
+   "url": "https://www.tempton.de/jobs/gabelstaplerfahrer-819"
+  },
+  {
+   "at": "2026-10-23T08:54:56+00:00",
+   "kind": "possible",
+   "site": "ebm-papst Zeitlauf",
+   "title": "Students (41)",
+   "url": "https://ebmpapst.csod.com/ux/ats/careersite/4/home?c=ebmpapst&lang=en-US"
+  },
+  {
+   "at": "2026-10-23T08:54:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Schmelzbetrieb (m/w/d) 58239 Schwerte 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z22flwU-staplerfahrer-schmelzbetrieb-mwd_58239-schwerte"
+  },
+  {
+   "at": "2026-10-23T08:54:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Schmelzbetrieb (m/w/d) 58452 Witten 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZWJuY2-staplerfahrer-schmelzbetrieb-mwd_58452-witten"
+  },
+  {
+   "at": "2026-10-23T08:54:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Schmelzbetrieb (m/w/d) 44135 Dortmund 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/lQqY9-staplerfahrer-schmelzbetrieb-mwd_44135-dortmund"
+  },
+  {
+   "at": "2026-10-23T08:54:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 40476 Düsseldorf Rechnungswesen & Finanzen 40476 Düsseldorf Homeoffice m",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich"
+  },
+  {
+   "at": "2026-10-23T08:54:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR-Fachkräfte (m/w/d) für die Rüstungsbranche | Personal, Recruiting & Payroll (HR & Personalwesen) in 34117 Kassel HR & Personalwesen 34117 Kassel Ho",
+   "url": "https://jobs.de.dis-ag.com/hr-fachkraefte-m-w-d-fuer-die-ruestungsbranche-personal-recruiting-und-payroll"
+  },
+  {
+   "at": "2026-10-23T08:54:45+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T08:41:13+00:00",
+ "last_run": "2026-10-23T09:06:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
