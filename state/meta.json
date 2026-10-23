@@ -1,5 +1,5 @@
 {
- "alerts": 58,
+ "alerts": 63,
  "commands_set": true,
  "events": [
   {
@@ -1009,12 +1009,68 @@
    "site": "ebm-papst Zeitlauf",
    "title": "Students (43)",
    "url": "https://ebmpapst.csod.com/ux/ats/careersite/4/home?c=ebmpapst&lang=en-US"
+  },
+  {
+   "at": "2026-10-23T05:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Working Student (f/m/d) Distributed Computing",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526626"
+  },
+  {
+   "at": "2026-10-23T05:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526626"
+  },
+  {
+   "at": "2026-10-23T05:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Wareneingangsklärung & Reklamationsbearbeitung",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526293"
+  },
+  {
+   "at": "2026-10-23T05:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526293"
+  },
+  {
+   "at": "2026-10-23T05:40:42+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Hauptnachtwache (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/8c666353-9eeb-5edf-beb8-351fa2368222/hauptnachtwache-m-w-d"
+  },
+  {
+   "at": "2026-10-23T05:40:03+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 Hotelfachmann (m/w/d) Weimar",
+   "url": "https://www.tempton.de/jobs/hotelfachmann"
+  },
+  {
+   "at": "2026-10-23T05:39:32+00:00",
+   "kind": "new",
+   "site": "Saab Medav Technologies / Saab Deutschland / Saab Sensor Systems Germany",
+   "title": "23 October 2026 Saab Q3 results 2026: Positioned to capture growing demand",
+   "url": "https://www.saab.com/newsroom/press-releases/2026/saab-q3-results-2026positioned-to-capture-growing-demand"
+  },
+  {
+   "at": "2026-10-23T05:47:00+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Teamleiter (m/w/d) internationale Offset-Projekte 23.10.2026 Vertrieb/Kundenservice Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/teamleiter-m-w-d-internationale-offset-projekte"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T05:26:04+00:00",
+ "last_run": "2026-10-23T05:47:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 29,
+ "runs": 30,
  "tg_offset": 297408924
 }
