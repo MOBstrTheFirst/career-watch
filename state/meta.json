@@ -1,14 +1,7 @@
 {
- "alerts": 457,
+ "alerts": 458,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T11:20:03+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Medizinische Fachangestellte (m/w/d) für die nephrologische Praxis",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Bielefeld-Germany/Medizinische-Fachangestellte--m-w-d--fr-die-nephrologische-Praxis_R0274570-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-23T11:20:03+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Gerresheimer Regensburg",
    "title": "Operador de Manejo de Materiales | Hombre sentado",
    "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/c4a68d88-009c-478c-8946-da0d3e5a916d?cHash=c2642ddb757c17700244e972d24ddb7c6bcb92f453de716d5811cdb765832995"
+  },
+  {
+   "at": "2026-10-23T21:39:48+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Electrical Systems Manager, Alexandria Plant",
+   "url": "https://www.pgcareers.com/de/en/job/R000159227/Electrical-Systems-Manager-Alexandria-Plant"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T21:34:44+00:00",
+ "last_run": "2026-10-23T21:49:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
