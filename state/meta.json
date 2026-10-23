@@ -1,14 +1,7 @@
 {
- "alerts": 428,
+ "alerts": 430,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:24:47+00:00",
-   "kind": "possible",
-   "site": "Maschinenfabrik Reinhausen",
-   "title": "Projektsteuerer (m/w/d)",
-   "url": "https://www.reinhausen.com/career/jobs"
-  },
   {
    "at": "2026-10-23T10:24:47+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "TGW Logistics – Regensburg",
    "title": "Electrical Installer I Grand Rapids, Michigan Customer Care / Services Experienced Professionals",
    "url": "https://www.tgw-group.com/en/career/jobs/detail/electrical-installer-i"
+  },
+  {
+   "at": "2026-10-23T18:09:44+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Marketing Content Intern Grand Rapids, Michigan Customer Care / Services Students",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/marketing-content-intern"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T17:55:53+00:00",
+ "last_run": "2026-10-23T18:21:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
