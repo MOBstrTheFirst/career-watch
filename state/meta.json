@@ -1,5 +1,5 @@
 {
- "alerts": 265,
+ "alerts": 276,
  "commands_set": true,
  "events": [
   {
@@ -3368,12 +3368,103 @@
    "site": "Diehl Defence (+5 more)",
    "title": "Diehl Controls Monter (k/m/n) 23.10.2026 Produktion Poland",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/monter-k-m-n"
+  },
+  {
+   "at": "2026-10-23T11:20:03+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Mitarbeiter Auftragsabwicklung / Project Order Manager (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Mitarbeiter-Auftragsabwicklung-Project-Order-Manager-w-m-d/297531"
+  },
+  {
+   "at": "2026-10-23T11:20:03+00:00",
+   "kind": "new",
+   "site": "e.solutions GmbH",
+   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/tel:+4984583332-100?cHash=ef97fb73db08f09fd0a631ef360c92777cd9a3713b60496395daffc1a5b5a5a7",
+   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/tel:+4984583332-100?cHash=ef97fb73db08f09fd0a631ef360c92777cd9a3713b60496395daffc1a5b5a5a7"
+  },
+  {
+   "at": "2026-10-23T11:20:03+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Medizinische Fachangestellte (m/w/d) für die nephrologische Praxis",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Bielefeld-Germany/Medizinische-Fachangestellte--m-w-d--fr-die-nephrologische-Praxis_R0274570-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T11:20:03+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Bauleiter Erdbau & Tiefbau (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/e064185e-ce9c-43b3-8d90-441c9c313827"
+  },
+  {
+   "at": "2026-10-23T11:09:53+00:00",
+   "kind": "new",
+   "site": "Bayernwerk / Bayernwerk Netz",
+   "title": "Ingenieur Systemstabilität / Dynamische Netzsimulation (m/w/d) Bayernwerk Netz GmbH Regensburg (BY), München (BY)",
+   "url": "https://jobs.bayernwerk.de/de/job/Ingenieur-Systemstabilitaet-_-Dynamische-Netzsimulation-m_w_d-Regensburg/840"
+  },
+  {
+   "at": "2026-10-23T11:09:53+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "IT Project & Program Manager (m/w/d) in Hamburg",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/it-project-program-manager-m-w-d-71039"
+  },
+  {
+   "at": "2026-10-23T11:09:53+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Projektmanagement-Experte Material & Logistik für Siemens (m/w/d) 91058 Erlangen 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z12bCTq-projektmanagement-experte-material-und-logistik-fuer-siemens-mwd_91058-erlangen"
+  },
+  {
+   "at": "2026-10-23T11:09:53+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91077 Neunkirchen am Brand 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1olkGx-produktionsmitarbeiter-mwd_91077-neunkirchen-am-brand"
+  },
+  {
+   "at": "2026-10-23T11:09:51+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Teamleitung Europäische Governance (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067000&jobId=119014"
+  },
+  {
+   "at": "2026-10-23T11:09:51+00:00",
+   "kind": "new",
+   "site": "Vossloh – Nürnberg",
+   "title": "Elektroniker / Elektriker (m/w/d) für Sondermaschinenbau",
+   "url": "https://vossloh.wd3.myworkdayjobs.com/de-DE/Vossloh_External_Careers/job/Hamburg/Elektriker--m-w-d-_JR102456-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T11:09:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter / SAP Key User (m/w/d) mit Systemeinführung (Rechnungswesen & Finanzen) in 65185 Wiesbaden Rechnungswesen & Finanzen 65185 Wiesbaden ",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-sap-key-user-m-w-d-mit-systemeinfuehrung"
+  },
+  {
+   "at": "2026-10-23T11:09:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 40667 Meerbusch Rechnungswesen & Finanzen 40667 Meerbusch Homeoffice mög",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-8"
+  },
+  {
+   "at": "2026-10-23T11:09:51+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-sap-key-user-m-w-d-mit-systemeinfuehrung/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T10:56:10+00:00",
+ "last_run": "2026-10-23T11:20:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
