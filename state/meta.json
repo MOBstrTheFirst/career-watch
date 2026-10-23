@@ -1,14 +1,7 @@
 {
- "alerts": 441,
+ "alerts": 442,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:40:01+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Sonstige Konzerndatenschutzbeauftragte:r Standort Essen, Hamburg, Hannover Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gesellschaft TÜV NORD A",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/konzerndatenschutzbeauftragter-12011"
-  },
   {
    "at": "2026-10-23T10:40:01+00:00",
    "kind": "new",
@@ -3501,12 +3494,21 @@
    "site": "Broadcom – Regensburg",
    "title": "Mechanical Engineer Supporting ASIC Test",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Mechanical-Engineer-Supporting-ASIC-Test_R027501?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T20:22:49+00:00",
+   "kind": "text",
+   "site": "Birkholz Elektronische Geräte – Heßdorf",
+   "title": "5 new text line(s), e.g. {{iframe_title}}",
+   "url": "https://www.birkholz.eu/karriere"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-10-23T20:05:40+00:00",
+ "last_missing_parts": [
+  1
+ ],
+ "last_run": "2026-10-23T20:34:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
