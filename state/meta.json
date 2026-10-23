@@ -1,5 +1,5 @@
 {
- "alerts": 63,
+ "alerts": 65,
  "commands_set": true,
  "events": [
   {
@@ -1065,12 +1065,19 @@
    "site": "Diehl Defence (+5 more)",
    "title": "Diehl Defence Teamleiter (m/w/d) internationale Offset-Projekte 23.10.2026 Vertrieb/Kundenservice Überlingen am Bodensee",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/teamleiter-m-w-d-internationale-offset-projekte"
+  },
+  {
+   "at": "2026-10-23T05:54:52+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CSCM In-Fab Logistics Planner Pyeong-Taek, Korea Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/cscm-in-fab-logistics-planner-j00355751"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T05:47:14+00:00",
+ "last_run": "2026-10-23T05:56:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
