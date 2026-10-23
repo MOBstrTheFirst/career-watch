@@ -1,126 +1,7 @@
 {
- "alerts": 288,
+ "alerts": 296,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T23:18:32+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "RT Berlin (IT & Software) in 50170 Kerpen IT & Software 50170 Kerpen vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/rt-berlin"
-  },
-  {
-   "at": "2026-10-22T23:18:32+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Qualitätsprüfung (m/w/d) bis 21€/Stunde (Produktion & Fertigung) in 29345 Unterlüß Produktion & Fertigung 29345 Unterlüß vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-qualitaetspruefung-m-w-d-bis-21eur-stunde"
-  },
-  {
-   "at": "2026-10-22T23:18:32+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebsinnendienstmitarbeiter (m/w/d) (Sales & Vertrieb) in 76137 Karlsruhe Sales & Vertrieb 76137 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-30"
-  },
-  {
-   "at": "2026-10-22T23:18:32+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/maschinenbediener-verpackung-m-w-d-1800-eur-verhandelbar/bewerben"
-  },
-  {
-   "at": "2026-10-22T23:55:06+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Technical Trainer / Certified Instructor (VCI) – VMware Cloud Foundation (VCF)",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/SGP-Robinson-Road-SO/Technical-Trainer---Certified-Instructor--VCI----VMware-Cloud-Foundation--VCF-_R027493?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T00:10:03+00:00",
-   "kind": "new",
-   "site": "M-net Telekommunikations",
-   "title": "Marketing Manager CRM B2B (m/w/d)",
-   "url": "https://m-net.csod.com/ux/ats/careersite/6/home/requisition/395?c=m-net"
-  },
-  {
-   "at": "2026-10-23T00:49:39+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Product Sales Executive, MR- CO,WY, UT, NM",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30144/Product-Sales-Executive-MR-CO-WY-UT-NM"
-  },
-  {
-   "at": "2026-10-23T00:49:39+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
-   "title": "Apply now Product Sales Executive, MR- CO,WY, UT, NM",
-   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR30144EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-23T00:40:39+00:00",
-   "kind": "new",
-   "site": "GE HealthCare – Wendelstein",
-   "title": "Program Coordinator - Schenectady, NY/ On Site",
-   "url": "https://careers.gehealthcare.com/global/en/job/R4045241/Program-Coordinator-Schenectady-NY-On-Site"
-  },
-  {
-   "at": "2026-10-23T01:25:04+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Intern en Planeación de Materiales",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12415V-p-e6e9b67e50fdea9f5e98b1a45f245c2f/intern-en-planeacion-de-materiales"
-  },
-  {
-   "at": "2026-10-23T01:40:35+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "Werkstudent (w/m/d) in der Redaktion Dokumentationen",
-   "url": "https://jobs.br.de/Vacancies/1388/Description/1"
-  },
-  {
-   "at": "2026-10-23T01:54:28+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Cymer - Field Service Engineer - Linkou Linkou, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cymer-field-service-engineer-linkou-j00338369"
-  },
-  {
-   "at": "2026-10-23T01:54:28+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - NPI Project Manager - Tainan Tainan, Taiwan Projects, Programs and Change",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-npi-project-manager-tainan-j00354746"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektmanager Integrated Product Support Sanität (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektmanager-Integrated-Product-Support-Sanit%C3%A4t-%28wmd%29-82256/1362310855"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Sales Manager Poland & Baltics (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Sales-Manager-Poland-&-Baltics-%28wmd%29-82024/1362312355"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "System Architekt für Vorentwicklung TRx-4D Produktfamilie (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-System-Architekt-f%C3%BCr-Vorentwicklung-TRx-4D-Produktfamilie-%28wmd%29-89077/1365641955"
-  },
-  {
-   "at": "2026-10-23T02:17:26+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent - PMO (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Immenstaad-Werkstudent-PMO-%28mwd%29-88090/1362338455"
-  },
   {
    "at": "2026-10-23T02:17:26+00:00",
    "kind": "new",
@@ -3501,12 +3382,131 @@
    "site": "Actemium Cegelec",
    "title": "Neu Kavelstorf Praktikum (w/m/d) Elektrotechnik Schüler/in Handwerk, Dienstleistung und Fertigung",
    "url": "https://actemium.career.softgarden.de/jobs/67542347/Praktikum-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Facharzt (m/w/d) für Innere Medizin und Nephrologie",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Salzgitter-Germany/Facharzt--m-w-d--fr-Innere-Medizin-und-Nephrologie_R0273446?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Trassenplaner Freileitung (m/w/d) München Seit 23. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109395/Trassenplaner%20Freileitung%20(m%2Fw%2Fd)/M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektleiter Softwareeinführung (m/w/d) Hannover Seit 23. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109396/Projektleiter%20Softwareeinf%C3%BChrung%20(m%2Fw%2Fd)/Hannover"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Logopäde – Minijob (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/34d88019-746e-5879-a8c2-c1724ce58b2c/logopaede-minijob-m-w-d"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Internist (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/abbdc7e2-46cc-52cb-ad37-aa20c21e7119/internist-m-w-d"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018VFIbQAO"
+  },
+  {
+   "at": "2026-10-23T11:40:55+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018V8U1QAK"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Specialist Infrastructure Management (w/m/div) Warstein HRC1673616 Vor Ort",
+   "url": "https://jobs.infineon.com/careers/job/563808971229626"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Infineon Technologies Bipolar GmbH & Co. KG",
+   "url": "https://www.infineon.com/careers/our-locations/warstein"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Spezialist Gebäudeautomation & Dienstleistungsmanagement (w/m/div) München HRC1491872 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808968904570"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Assistenz Projekt Hook Up (m/w/d) Dresden HRC1817793",
+   "url": "https://jobs.infineon.com/careers/job/563808972125333"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Industriepraktikum - Digitalisierung, Entwicklungsprozesse & Product Lifecycle Management (w/m/div) Villach HRC1660823 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971058277"
+  },
+  {
+   "at": "2026-10-23T11:40:14+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - Produktmanagement im Bereich Zahlungskartenlösungen (w/m/div) Mch CAMP HRC1855013",
+   "url": "https://jobs.infineon.com/careers/job/563808972253592"
+  },
+  {
+   "at": "2026-10-23T11:39:57+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Bautzen + 1 Schlosser / Monteur (w/m/d) mit Schweißkenntnissen Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/65125918/Schlosser-Monteur-w-m-d-mit-Schwei%C3%9Fkenntnissen-"
+  },
+  {
+   "at": "2026-10-23T11:39:57+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Bautzen + 1 Montagefachkraft (w/m/d) - Vorrichtung & Schweißtechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/64672374/Montagefachkraft-w-m-d---Vorrichtung-Schwei%C3%9Ftechnik"
+  },
+  {
+   "at": "2026-10-23T11:39:57+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Deutschland + 1 Bauleitung (w/m/d) Anlagenbau / Bitumenindustrie Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67375050/Bauleitung-w-m-d-Anlagenbau-Bitumenindustrie"
+  },
+  {
+   "at": "2026-10-23T11:39:57+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Deutschland + 1 Servicetechniker / Mechatroniker (w/m/d) Anlagenbau Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67737827/Servicetechniker-Mechatroniker-w-m-d-Anlagenbau-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T11:32:39+00:00",
+ "last_run": "2026-10-23T11:41:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
