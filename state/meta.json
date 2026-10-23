@@ -1,5 +1,5 @@
 {
- "alerts": 29,
+ "alerts": 37,
  "commands_set": true,
  "events": [
   {
@@ -540,12 +540,285 @@
    "site": "Broadcom – Regensburg",
    "title": "Commercial Account Executive (Australia, NSW, Remote)",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/AUS-Sydney--Pitt-St/Commercial-Account-Executive--Australia--NSW--Remote-_R027387-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T02:33:07+00:00",
+   "kind": "possible",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Monteur Neumaschinenmontage - Strahltechnik (m/w/d)",
+   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
+  },
+  {
+   "at": "2026-10-23T02:25:36+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Technical Implementation Manager",
+   "url": "https://careers.landisgyr.com/job/Noida-Technical-Implementation-Manager-UP/1429930333"
+  },
+  {
+   "at": "2026-10-23T02:25:36+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Sr Financial Analyst",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Sr-Financial-Analyst-GA-30004/1440978233"
+  },
+  {
+   "at": "2026-10-23T02:25:36+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Specialist Real Estate Management (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Rehau-Specialist-Real-Estate-Management-%28mwd%29/1396097833"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Berufsorientierungspraktikum für Soldaten auf Zeit (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Berufsorientierungspraktikum-f%C3%BCr-Soldaten-auf-Zeit-%28wmd%29-89077/1369483255"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleitung Logistik (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/K%C3%B6ln-Projektleitung-Logistik-%28wmd%29-50676/1369459355"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler (m/w/d) Frontend Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Pr",
+   "url": "https://touch.ferchau.com/de/de/job/67393/softwareentwickler-frontend"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "System Engi­neer (m/w/d) Netz­werk Job Vor Ort Vollzeit 42.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Young Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/68452/system-engineer-netzwerk"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler C# (m/w/d) Job Vor Ort Vollzeit 45.000 - 60.000 € Lübeck, Deutsch­land Elektrotechnik Informationstechnik Young Professionals Pr",
+   "url": "https://touch.ferchau.com/de/de/job/81560/softwareentwickler-c"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­tester / Soft­ware Test Engi­neer (m/w/d) Job Vor Ort Vollzeit 42.000 - 65.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik You",
+   "url": "https://touch.ferchau.com/de/de/job/133507/softwaretester-software-test-engineer"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter Gebäu­de­technik (m/w/d) Job Vor Ort Vollzeit 60.000 - 70.000 € München, Deutsch­land Anlagenbau Young Professionals Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/160288/projektleiter-gebaeudetechnik"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Entwick­lungs­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 50.000 - 70.000 € Itzehoe, Deutsch­land Fahrzeugtechnik Maschinenbau Young Professionals Profes",
+   "url": "https://touch.ferchau.com/de/de/job/175326/entwicklungsingenieur"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Maschi­nenbau (m/w/d) Job Vor Ort Vollzeit 48.000 - 68.000 € Kiel, Deutsch­land Fahrzeugtechnik Maschinenbau Schiffbau und Meerestechnik Yo",
+   "url": "https://touch.ferchau.com/de/de/job/189907/techniker-maschinenbau"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Labo­rant Zell­kultur (m/w/d) Job Vor Ort Vollzeit 40.000 - 45.000 € Biberach an der Riß, Deutsch­land Pharma und Lifescience Weitere Students Young P",
+   "url": "https://touch.ferchau.com/de/de/job/191322/laborant-zellkultur"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "DevOps Engi­neer (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Professionals Pr",
+   "url": "https://touch.ferchau.com/de/de/job/200915/devops-engineer"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Chemi­kant / Produk­ti­ons­mit­ar­beiter (m/w/d) Job Vor Ort Vollzeit 40.000 - 50.000 € Wies­baden, Deutsch­land Pharma und Lifescience Weitere Young ",
+   "url": "https://touch.ferchau.com/de/de/job/204795/chemikant-produktionsmitarbeiter"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler C++ (m/w/d) Job Hybrid Vollzeit 50.000 - 65.000 € Hamburg, Deutsch­land Elektrotechnik Informationstechnik Weitere Young Profess",
+   "url": "https://touch.ferchau.com/de/de/job/215937/softwareentwickler-c"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Maschinen- und Anla­genbau (m/w/d) Job Vor Ort Vollzeit 40.000 - 65.000 € Witten­burg, Deutsch­land Anlagenbau Maschinenbau Weitere Youn",
+   "url": "https://touch.ferchau.com/de/de/job/218511/konstrukteur-maschinen-und-anlagenbau"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker (m/w/d) Elek­tro­technik Job Hybrid Vollzeit 45.000 - 60.000 € Stutt­gart, Deutsch­land Elektrotechnik Informationstechnik Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/236859/techniker-elektrotechnik"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Elek­tro­technik (m/w/d) Job Hybrid Vollzeit 53.200 - 70.000 € Wien, Öster­reich Elektrotechnik Professionals ohne Personalverantwortung",
+   "url": "https://touch.ferchau.com/de/de/job/240398/konstrukteur-elektrotechnik"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler (m/w/d) Android iOS Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young",
+   "url": "https://touch.ferchau.com/de/de/job/242702/softwareentwickler-android-ios"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Webent­wickler (m/w/d) Java Job Vor Ort Vollzeit 48.000 - 70.000 € Frei­burg im Breisgau, Deutsch­land Informationstechnik Weitere Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/243702/webentwickler-java"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Labor­helfer - Pharma (m/w/d) Job Vor Ort Vollzeit 35.000 - 39.000 € Biberach an der Riß, Deutsch­land Pharma und Lifescience Weitere Students Young P",
+   "url": "https://touch.ferchau.com/de/de/job/244162/laborhelfer-pharma"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Vali­da­tion Manager - Compu­ter­sys­teme (m/w/d) Job Vor Ort Vollzeit 53.000 - 80.000 € Biberach an der Riß, Deutsch­land Pharma und Lifescience Weit",
+   "url": "https://touch.ferchau.com/de/de/job/245654/validation-manager-computersysteme"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Ferti­gungs­steuerer (m/w/d) Arbeits­vor­be­rei­tung Job Hybrid Vollzeit 50.000 - 65.000 € Villingen-Schwen­ningen, Deutsch­land Weitere Young Profess",
+   "url": "https://touch.ferchau.com/de/de/job/250838/fertigungssteuerer-arbeitsvorbereitung"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Buch­halter (m/w/d) Job Vor Ort Vollzeit 34.000 - 50.000 € Karls­ruhe, Deutsch­land Backoffice Young Professionals Professionals ohne Personalverantwo",
+   "url": "https://touch.ferchau.com/de/de/job/255611/buchhalter"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Specia­list Batch Record Review - Pharma (m/w/d) Job Hybrid Vollzeit 44.000 - 65.000 € Biberach an der Riß, Deutsch­land Anlagenbau Pharma und Lifesci",
+   "url": "https://touch.ferchau.com/de/de/job/258449/specialist-batch-record-review-pharma"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­kon­struk­teur (m/w/d) Job Hybrid Vollzeit 45.000 - 65.000 € Köln, Deutsch­land Anlagenbau Elektrotechnik Fahrzeugtechnik Professionals ohne ",
+   "url": "https://touch.ferchau.com/de/de/job/268976/elektrokonstrukteur"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Assis­tent - Mikro­bio­logie (m/w/d) Job Vor Ort Vollzeit 45.000 - 53.000 € Biberach an der Riß, Deutsch­land Pharma und Lifescience Wei",
+   "url": "https://touch.ferchau.com/de/de/job/272311/technischer-assistent-mikrobiologie"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Termin­planer (m/w/d) Job Vor Ort Vollzeit 50.000 - 70.000 € Bruns­büttel, Deutsch­land Anlagenbau Maschinenbau Young Professionals Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/276310/terminplaner"
+  },
+  {
+   "at": "2026-10-23T02:24:32+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur Mecha­tronik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Elms­horn, Deutsch­land Anlagenbau Elektrotechnik Maschinenbau Young Profession",
+   "url": "https://touch.ferchau.com/de/de/job/283793/ingenieur-mechatronik"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-medizinischer-fachangestellter-endoskopie-hno-klinik-m-w-d-14000"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-medizinischer-fachangestellter-operationstechnischer-assistent-op-hno-klinik-m-w-d-14004"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Electrical & Installation Engineer",
+   "url": "https://careers.abb/global/en/job/JR00049491/Senior-Electrical-Installation-Engineer"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Service Technical Sales Specialist",
+   "url": "https://careers.abb/global/en/job/JR00037638/Service-Technical-Sales-Specialist"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Buyer",
+   "url": "https://careers.abb/global/en/job/JR00050352/Buyer"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "SALES MANAGER",
+   "url": "https://www.pgcareers.com/de/en/job/R000160589/SALES-MANAGER"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Auxiliar de Produção PCD | Louveira/SP",
+   "url": "https://www.pgcareers.com/de/en/job/R000156517/Auxiliar-de-Produção-PCD-Louveira-SP"
+  },
+  {
+   "at": "2026-10-23T02:25:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Auxiliar de Produção | Louveira/SP",
+   "url": "https://www.pgcareers.com/de/en/job/R000153689/Auxiliar-de-Produção-Louveira-SP"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T02:17:47+00:00",
+ "last_run": "2026-10-23T02:33:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
