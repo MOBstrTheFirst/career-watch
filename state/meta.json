@@ -1,5 +1,5 @@
 {
- "alerts": 82,
+ "alerts": 89,
  "commands_set": true,
  "events": [
   {
@@ -1268,12 +1268,173 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-459/bewerben"
+  },
+  {
+   "at": "2026-10-23T07:04:33+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Senior AI Architect (f/m/d) – Manufacturing",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524575"
+  },
+  {
+   "at": "2026-10-23T07:04:33+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524575"
+  },
+  {
+   "at": "2026-10-23T07:04:33+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "SYSTEM ENGINEER - Sign on bonus",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19033?c=hella"
+  },
+  {
+   "at": "2026-10-23T07:04:33+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft für Lagerlogistik (m/w/d) / Siemens AG",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018SMBlQAO"
+  },
+  {
+   "at": "2026-10-23T06:54:50+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "23.10.2026 IT-Support & IT Client Administrator (m/w/d) Dornstadt",
+   "url": "https://www.tempton.de/jobs/it-support-it-client-administrator"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Student Maintainer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Rychnov-Nad-Knenou-CZ/Student-Maintainer_R00267185?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "FH-Pflichtpraktikant im Bereich Public Funding & Research Cooperations (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Public-Funding---Research-Cooperations--m-w-x-_R00267351?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Fachkraft (m/w/d) 95100 Selb 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1RmEmB-cnc-fachkraft-mwd_95100-selb"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 92421 Schwandorf, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1I8w3A-mechatroniker-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Abkanter (m/w/d) 22,00 €/h + Fahrgeld mit Chance auf Übernahme 92421 Schwandorf, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/24tF2k-abkanter-mwd-2200-euroh-fahrgeld-mit-chance-auf-uebernahme_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lackierer (m/w/d) 92421 Schwandorf, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtsRjE-lackierer-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) 92442 Wackersdorf 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1g1QVr-monteur-mwd_92442-wackersdorf"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schreiner (m/w/d) 92439 Bodenwöhr 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2sCnK9-schreiner-mwd_92439-bodenwoehr"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Erodierer (m/w/d) 92507 Nabburg 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2e9t9H-erodierer-mwd_92507-nabburg"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Konstruktionsmonteur (m/w/d) 92521 Schwarzenfeld, Oberpfalz 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1L2O2x-konstruktionsmonteur-mwd_92521-schwarzenfeld-oberpfalz"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Messtechniker (m/w/d) 92442 Wackersdorf 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iWzBT-messtechniker-mwd_92442-wackersdorf"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerleiter (m/w/d) 92431 Neunburg vorm Wald 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ysHUO-lagerleiter-mwd_92431-neunburg-vorm-wald"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerist (m/w/d) 92442 Wackersdorf 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/11nCRS-lagerist-mwd_92442-wackersdorf"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 92421 Schwandorf, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZTg3bj-mechatroniker-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Abkanter (m/w/d) 22,00 €/h + Fahrgeld mit Chance auf Übernahme 92421 Schwandorf, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9Lbvf-abkanter-mwd-2200-euroh-fahrgeld-mit-chance-auf-uebernahme_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Tischler (m/w/d) 91220 Schnaittach 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2c1aou-tischler-mwd_91220-schnaittach"
+  },
+  {
+   "at": "2026-10-23T06:54:58+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Haushälterin (m/w/d) 90762 Fürth, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/L5RA5-haushaelterin-mwd_90762-fuerth-bayern"
+  },
+  {
+   "at": "2026-10-23T06:55:23+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "PDK Deck Developer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/PDK-Deck-Developer_R-10067119?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T06:40:49+00:00",
+ "last_run": "2026-10-23T07:04:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
