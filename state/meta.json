@@ -1,56 +1,7 @@
 {
- "alerts": 414,
+ "alerts": 419,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198514 Werkstudent Agiles Prozessmanagement im Einkauf- und Lieferantennetzwerk (w/m/x) Veröffentlicht: 23.10.2026 Indirekter Einkauf München Neu Indi",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198514.html"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198132 Praktikant Regelungsalgorithmen für Fahrsimulatoren (w/m/x) Veröffentlicht: 23.10.2026 Forschung / Vorentwicklung München Neu Forschung / Voren",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198132.html"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "196940 Praktikant Operative Steuerungstechnik Automatisierung und Digitalisierung (w/m/x) Veröffentlicht: 23.10.2026 Prozessoptimierung Irlbach-Straßk",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196940.html"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 41515 Grevenbroich Rechnungswesen & Finanzen 41515 Grevenbroich Homeoffi",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-5"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 34117 Kassel Büroverwaltung 34117 Kassel Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-68"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter (m/w/d) - Hybrides Arbeiten möglich (Rechnungswesen & Finanzen) in 41812 Erkelenz Rechnungswesen & Finanzen 41812 Erkelenz Homeoffice mögli",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-hybrides-arbeiten-moeglich-4"
-  },
-  {
-   "at": "2026-10-23T09:55:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Teamassistenz Technische Betriebsführung (m/w/d) (Büroverwaltung) in 24103 Kiel Büroverwaltung 24103 Kiel vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/teamassistenz-technische-betriebsfuehrung-m-w-d"
-  },
   {
    "at": "2026-10-23T09:55:15+00:00",
    "kind": "new",
@@ -3501,14 +3452,61 @@
    "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
    "title": "Entwicklungsingenieur Statik/Festigkeit Composite - Design Task Responsible (d/m/w)",
    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Entwicklungsingenieur-Statik-Festigkeit-Composite---Design-Task-Responsible--d-m-w-_JR10429894?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T16:56:36+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Mechanical Engineer - Research Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-mechanical-engineer-research-j00352851"
+  },
+  {
+   "at": "2026-10-23T16:56:36+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Optical Fabrication CNC Technician Back End Days 6am – 6pm ( Thursday, Friday, Saturday, alternate Wednesday) Wilton, US Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/optical-fabrication-cnc-technician-back-end-days-6am--6pm-thursday-friday-saturday-alternate-wednesday-j00354468"
+  },
+  {
+   "at": "2026-10-23T16:56:52+00:00",
+   "kind": "new",
+   "site": "indie Semiconductor (TeraXion) – Nürnberg",
+   "title": "HOPP Industrialization Engineer Neu Schlieren, Switzerland",
+   "url": "https://www.indie.inc/careers/job-opportunities?gh_jid=5273807007"
+  },
+  {
+   "at": "2026-10-23T16:56:52+00:00",
+   "kind": "possible",
+   "site": "Broadcom – Regensburg",
+   "title": "Core Distributed Systems Database Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T16:56:52+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Principal SoC Verification Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Principal-SoC-Verification-Engineer_R-10066960?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T16:56:52+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Static Timing Analysis Design Engineer / Physical Design",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Static-Timing-Analysis-Design-Engineer---Physical-Design_R-10067309?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T16:56:52+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Technical Business Developer – Grid Automation",
+   "url": "https://careers.abb/global/en/job/JR00039399/Senior-Technical-Business-Developer-Grid-Automation"
   }
  ],
- "last_missing_parts": [
-  4
- ],
- "last_run": "2026-10-23T16:37:51+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-10-23T17:05:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
