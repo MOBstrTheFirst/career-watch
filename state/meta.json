@@ -1,5 +1,5 @@
 {
- "alerts": 19,
+ "alerts": 21,
  "commands_set": true,
  "events": [
   {
@@ -288,12 +288,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Technical Trainer / Certified Instructor (VCI) – VMware Cloud Foundation (VCF)",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/SGP-Robinson-Road-SO/Technical-Trainer---Certified-Instructor--VCI----VMware-Cloud-Foundation--VCF-_R027493?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T00:10:03+00:00",
+   "kind": "new",
+   "site": "M-net Telekommunikations",
+   "title": "Marketing Manager CRM B2B (m/w/d)",
+   "url": "https://m-net.csod.com/ux/ats/careersite/6/home/requisition/395?c=m-net"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-22T23:59:25+00:00",
+ "last_run": "2026-10-23T00:10:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
