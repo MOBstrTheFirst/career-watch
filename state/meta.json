@@ -1,63 +1,7 @@
 {
- "alerts": 406,
+ "alerts": 408,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Appli­ka­ti­ons­ma­nager PLM (m/w/d) Neu Job Hybrid Vollzeit 61.000 - 71.000 € Kassel, Deutsch­land Fahrzeugtechnik Informationstechnik Maschinenbau P",
-   "url": "https://touch.ferchau.com/de/de/job/525388/applikationsmanager-plm"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­niker Gebäu­de­technik (m/w/d) Neu Job Vor Ort Vollzeit 42.000 - 47.000 € Bleckede, Deutsch­land Elektrotechnik Young Professionals Professio",
-   "url": "https://touch.ferchau.com/de/de/job/525397/elektroniker-gebaeudetechnik"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "System­in­ge­nieur Cyber­se­cu­rity (m/w/d) Neu Job Hybrid Vollzeit 63.000 - 70.500 € Kassel, Deutsch­land Elektrotechnik Fahrzeugtechnik Informations",
-   "url": "https://touch.ferchau.com/de/de/job/525394/systemingenieur-cybersecurity"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware Engi­neer (m/w/d) Neu Job Vor Ort Vollzeit 80.000 - 125.000 € Köln, Deutsch­land Informationstechnik Weitere Professionals Senior Profession",
-   "url": "https://touch.ferchau.com/de/de/job/525385/software-engineer"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­n­in­ge­nieur Konstruk­tion Elek­tro­technik (m/w/d) Neu Job Hybrid Vollzeit 55.000 - 65.000 € Horne­burg, Deutsch­land Elektrotechnik Young ",
-   "url": "https://touch.ferchau.com/de/de/job/525382/elektroningenieur-konstruktion-elektrotechnik"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Junior Accountant, Finance/Business Services",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Belgrade-RS/Junior-Accountant--Finance-Business-Services_R00267202?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Personalsachbearbeiter (m/w/d) 93086 Wörth an der Donau 23.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/HeavK-personalsachbearbeiter-mwd_93086-woerth-an-der-donau"
-  },
-  {
-   "at": "2026-10-23T09:55:07+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Privatkundenberater Bank (m/w/d) 93055 Regensburg 23.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1tMa8X-privatkundenberater-bank-mwd_93055-regensburg"
-  },
   {
    "at": "2026-10-23T09:55:07+00:00",
    "kind": "new",
@@ -3501,12 +3445,68 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/wirtschaftspruefungsassistenz-m-w-d-mit-datev-und-hgb-kenntnissen/bewerben"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Information Technology",
+   "url": "https://jobs.bosch.com/en/job/DE00619415-junior-managers-program-trainee-start-your-leadership-journey-in-information-technology"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Sales Mobility",
+   "url": "https://jobs.bosch.com/en/job/REF38394P-junior-managers-program-trainee-start-your-leadership-journey-in-sales-mobility"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Purchasing",
+   "url": "https://jobs.bosch.com/en/job/DE00619343-junior-managers-program-trainee-start-your-leadership-journey-in-purchasing"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum in der Fertigungsplanung von Niederdrucksensoren",
+   "url": "https://jobs.bosch.com/en/job/REF289351Q-praktikum-in-der-fertigungsplanung-von-niederdrucksensoren"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Technischer Sachbearbeiter im Customer Care Center (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF299116I-technischer-sachbearbeiter-im-customer-care-center-w-m-div"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Außendienstmitarbeiter für das Verkaufsgebiet Hagen, Ennepetal, Schalksmühle, Werdohl, Meinerzhagen und Lüdenscheid (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF299113Y-aussendienstmitarbeiter-fuer-das-verkaufsgebiet-hagen-ennepetal-schalksmuehle-werdohl-meinerzhagen-und-luedenscheid-w-m-div"
+  },
+  {
+   "at": "2026-10-23T15:39:55+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Graduate Specialist Program (Trainee) - Fertigung mit Schwerpunkt Digitalisierung",
+   "url": "https://jobs.bosch.com/en/job/REF273525Q-graduate-specialist-program-trainee-fertigung-mit-schwerpunkt-digitalisierung"
+  },
+  {
+   "at": "2026-10-23T15:39:33+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Program Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Program-Manager_R00267465?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T15:36:31+00:00",
+ "last_run": "2026-10-23T15:41:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
