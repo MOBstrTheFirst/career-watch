@@ -1,14 +1,7 @@
 {
- "alerts": 433,
+ "alerts": 434,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "ACM_ADAS_セールス・アドミニストレーター （営業アシスタント・営業事務）",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF9558C-p-ca876a154ecc6f61aaaaf3224f5fbb9f/acm-adas-%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%A2%E3%83%89%E3%83%9F%E3%83%8B%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E5%96%B6%E6%A5%AD%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E5%96%B6%E6%A5%AD%E4%BA%8B%E5%8B%99"
-  },
   {
    "at": "2026-10-23T10:24:49+00:00",
    "kind": "text",
@@ -3501,12 +3494,19 @@
    "site": "ASML – Erlangen",
    "title": "New Factory Shift Planner Wilton, US Planning",
    "url": "https://www.asml.com/en/careers/find-your-job/factory-shift-planner-j00348923"
+  },
+  {
+   "at": "2026-10-23T18:40:29+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "EMEA Procurement Operations Leader (m/f/d) - Hybrid",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/EMEA-Procurement-Operations-Leader-%28mfd%29-Hybrid/2273-en_US"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T18:36:57+00:00",
+ "last_run": "2026-10-23T18:50:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
