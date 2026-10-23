@@ -1,175 +1,7 @@
 {
- "alerts": 276,
+ "alerts": 283,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-22T22:19:07+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Herzogenaurach HQ",
-   "title": "IT Solutions Architect (d/m/w)",
-   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-IT-Solutions-Architect-%28dmw%29-91074/1445957233"
-  },
-  {
-   "at": "2026-10-22T22:17:10+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Schülerpraktikum technisch in Lenzkirch/Titisee (m/w/d)",
-   "url": "https://jobs.testo.com/4445-schuelerpraktikum-technisch-in-lenzkirch-titisee-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-22T22:09:36+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "GM New Mobility Sales Specialist",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12405W-p-ba1274da199ea7ea13f4f4187eae9121/gm-new-mobility-sales-specialist"
-  },
-  {
-   "at": "2026-10-22T22:09:36+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien d’intervention Soudeur Automatique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-dintervention-soudeur-automatique-f-h-ref-2026-28138"
-  },
-  {
-   "at": "2026-10-22T22:09:36+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur Bureau Etudes Mécaniques (F/H)",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-bureau-etudes-mecaniques-f-h-ref-2026-28069"
-  },
-  {
-   "at": "2026-10-22T22:09:36+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Product Engineer",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineer_R00267227?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T22:10:02+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "IT/OT SOC Analist",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5077691&jobId=119069"
-  },
-  {
-   "at": "2026-10-22T22:10:02+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Test Engineer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4944823&jobId=118863"
-  },
-  {
-   "at": "2026-10-22T22:10:02+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "AMS Verif",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sophia-Antipolis-Valbonne/AMS-Verif_R-10067279?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T22:10:02+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "AMS Verification",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/AMS-Verification_R-10067281?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T22:31:17+00:00",
-   "kind": "new",
-   "site": "Bruker – Erlangen",
-   "title": "Title West TSM-Spatial Proteomics",
-   "url": "https://uscareers-bruker.icims.com/jobs/20069/west-tsm-spatial-proteomics/job?hub=12"
-  },
-  {
-   "at": "2026-10-22T22:24:39+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Upgrade Install and Relocation Engineer - EUV Chandler, US Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-euv-j00348838"
-  },
-  {
-   "at": "2026-10-22T22:24:39+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Arbeitsschutz/ Arbeitssicherheit Konzernbeauftragte:r Arbeitssicherheit und Gesundheitsschutz Standort Essen, Hamburg, Hannover Arbeitszeitmodell Voll",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/konzernbeauftragter-arbeitssicherheit-und-gesundheitsschutz-11995"
-  },
-  {
-   "at": "2026-10-22T22:40:05+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Sr. Facility Manager",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Sr-Facility-Manager_R027492?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T22:40:05+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Design Verification Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R027496?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Semiconductor Equipment Maintenance Technician - Cleans/EPI",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Manufacturing/Semiconductor-Equipment-Maintenance-Technician---Cleans-EPI_R-10066548?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Semiconductor Maintenance Technician – Cleans/EPI",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10065765?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Zoll (m/w/d) (Büroverwaltung) in 75031 Eppingen Büroverwaltung 75031 Eppingen Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-zoll-m-w-d-4"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Junior Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75175 Pforzheim Rechnungswesen & Finanzen 75175 Pforzheim Homeoffice möglich vor einer ",
-   "url": "https://jobs.de.dis-ag.com/junior-bilanzbuchhalter-m-w-d-16"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Junior Bilanzbuchhalter (m/w/d) (Produktion & Fertigung) in 70178 Stuttgart Produktion & Fertigung 70178 Stuttgart Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/junior-bilanzbuchhalter-m-w-d-15"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Steuerberatung (m/w/d) (Rechnungswesen & Finanzen) in 70499 Weilimdorf Rechnungswesen & Finanzen 70499 Weilimdorf Homeoffice möglich vor e",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-steuerberatung-m-w-d-1"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 76532 Baden-Baden Rechnungswesen & Finanzen 76532 Baden-Baden Homeoffice möglich vor ein",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-94"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Financial Controller (m/w/d) (Rechnungswesen & Finanzen) in 77654 Offenburg Rechnungswesen & Finanzen 77654 Offenburg Homeoffice möglich vor einer Stu",
-   "url": "https://jobs.de.dis-ag.com/financial-controller-m-w-d-36"
-  },
-  {
-   "at": "2026-10-22T23:02:14+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerberater (m/w/d) (Rechnungswesen & Finanzen) in 76133 Karlsruhe Rechnungswesen & Finanzen 76133 Karlsruhe Homeoffice möglich vor einer Stunde",
-   "url": "https://jobs.de.dis-ag.com/steuerberater-m-w-d-16"
-  },
   {
    "at": "2026-10-22T23:02:14+00:00",
    "kind": "new",
@@ -3459,12 +3291,222 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-sap-key-user-m-w-d-mit-systemeinfuehrung/bewerben"
+  },
+  {
+   "at": "2026-10-23T11:25:00+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Spezialsachbearbeiter Asset Manager Kraftwerk (w/m/d) Deutschland, Herford Berufsausbildung 2-4 Jahre Durchführung von Wartungs‑, Prüf‑ und Instandhal",
+   "url": "https://www.brunel.net/de-de/jobs/spezialsachbearbeiter-asset-manager-kraftwerk-wmd-tr-279375"
+  },
+  {
+   "at": "2026-10-23T11:25:00+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Konstrukteur / Entwicklungsingenieur Maschinenbau (w/m/d) Deutschland, Bielefeld Bachelor Fachhochschule 2-4 Jahre Weiterentwicklung bestehender Masch",
+   "url": "https://www.brunel.net/de-de/jobs/konstrukteur-entwicklungsingenieur-maschinenbau-wmd-pr-278529"
+  },
+  {
+   "at": "2026-10-23T11:25:00+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Konstrukteur EPLAN (w/m/d) Deutschland, Leinefelde Bachelor Fachhochschule 0-2 Jahre Erstellen von Stromlaufplänen und Konstruktionszeichnungen in EPL",
+   "url": "https://www.brunel.net/de-de/jobs/konstrukteur-eplan-wmd-tr-225747"
+  },
+  {
+   "at": "2026-10-23T11:25:00+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Qualitätsvorausplaner / Qualitätstechniker (w/m/d) Deutschland Bachelor Fachhochschule 4-6 Jahre Bearbeitung und Begleitung von EMPB-/PPF-Prozessen Er",
+   "url": "https://www.brunel.net/de-de/jobs/qualitatsvorausplaner-qualitatstechniker-wmd-pr-301627"
+  },
+  {
+   "at": "2026-10-23T11:25:00+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "System Engineer OT Security (w/m/d) Deutschland, Frankfurt Am Main Bachelor Fachhochschule 4-6 Jahre Durchführung von Schwachstellenanalysen und Siche",
+   "url": "https://www.brunel.net/de-de/jobs/system-engineer-ot-security-wmd-tr-303064"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "DevOps Engineer (w/m/d) Berlin, Stuttgart, Koeln, Hamburg, Frankfurt + 8 SaaS Solutions Unbefristet Studierende/Absolvent*innen",
+   "url": "https://www.capgemini.com/de-de/jobs/542731-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "CeramTec – Lauf",
+   "title": "Facharbeiter Produktion (w/m/d)",
+   "url": "https://recruitingapp-5382.de.umantis.com/Vacancies/5833/Description/1"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Betriebselektriker (m/w/d) zur Direktvermittlung 91575 Windsbach 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2gnOBy-betriebselektriker-mwd-zur-direktvermittlung_91575-windsbach"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bauherrenvertreter / Projektleiter Hochbau (m/w/d) zur Direktvermittlung 90419 Nürnberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Jinng-bauherrenvertreter-projektleiter-hochbau-mwd-zur-direktvermittlung_90419-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lohn- und Gehaltsbuchalter (m/w/d) zur Direktvermittlung, Nürnberg 90411 Nürnberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/YCOsL-lohn-und-gehaltsbuchalter-mwd-zur-direktvermittlung-nuernberg_90411-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) 90425 Nürnberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/YNvGz-bilanzbuchhalter-mwd_90425-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Steuerberater (m/w/d) 90482 Nürnberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2o8JtA-steuerberater-mwd_90482-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Entwicklungsingenieur Kabeltechnik (m/w/d) zur Direktvermittlung 91575 Windsbach 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1zOHs3-entwicklungsingenieur-kabeltechnik-mwd-zur-direktvermittlung_91575-windsbach"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "IT-Projektmanager / Netzwerkspezialist (m/w/d) zur Direktvermittlung, Nürnberg 90473 Nürnberg, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZPkPLC-it-projektmanager-netzwerkspezialist-mwd-zur-direktvermittlung-nuernberg_90473-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bauleiter / Projektleiter Hochbau (m/w/d) zur Direktvermittlung, Erlangen 91058 Erlangen 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z28rf7h-bauleiter-projektleiter-hochbau-mwd-zur-direktvermittlung-erlangen_91058-erlangen"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) / Service-Außendienst zur Direktvermittlung, Fürth 90762 Fürth, Bayern 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z26xNoo-elektriker-mwd-service-aussendienst-zur-direktvermittlung-fuerth_90762-fuerth-bayern"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lohn- und Gehaltsbuchhalter (m/w/d) zur Direktvermittlung 91207 Lauf an der Pegnitz 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2qyfmy-lohn-und-gehaltsbuchhalter-mwd-zur-direktvermittlung_91207-lauf-an-der-pegnitz"
+  },
+  {
+   "at": "2026-10-23T11:24:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Teamleiter Elektrotechnik (m/w/d) zur Direktvermittlung 90530 Wendelstein, Mittelfranken 23.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2cg21A-teamleiter-elektrotechnik-mwd-zur-direktvermittlung_90530-wendelstein-mittelfranken"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Kavelstorf Quereinsteiger (w/m/d) im Bereich Elektrotechnik/Anlagenbau Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/65228701/Quereinsteiger-w-m-d-im-Bereich-Elektrotechnik-Anlagenbau"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Alt Mölln SPS-Programmierer/ Softwareingenieur (w/m/d) Berufserfahrene IT-Softwareentwicklung",
+   "url": "https://actemium.career.softgarden.de/jobs/66911580/SPS-Programmierer-Softwareingenieur-w-m-d-"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Peine Elektromonteur (w/m/d) Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/65992788/Elektromonteur-w-m-d-"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Hannover Bauleitender Monteur /Obermonteur (w/m/d) industrielle Elektrotechnik/Energieversorgung Berufserfahrene Handwerk, Dienstleistung und Fert",
+   "url": "https://actemium.career.softgarden.de/jobs/64611663/Bauleitender-Monteur-Obermonteur-w-m-d-industrielle-Elektrotechnik-Energieversorgung"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Hannover Ausbildung zum Elektroniker für Betriebstechnik (w/m/d) für 2027 Auszubildende/ Lernende Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67869192/Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-w-m-d-f%C3%BCr-2027"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Dresden Planungsingenieur (w/m/d) Elektrotechnik / Automatisierungstechnik für Infrastrukturprojekte Berufserfahrene Ingenieure und technische Ber",
+   "url": "https://actemium.career.softgarden.de/jobs/66044973/Planungsingenieur-w-m-d-Elektrotechnik-Automatisierungstechnik-f%C3%BCr-Infrastrukturprojekte"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Berlin Projektingenieur / Techniker Brandmelde-, Sicherheitstechnik und Datennetze (w/m/d) Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67371235/Projektingenieur-Techniker-Brandmelde-,-Sicherheitstechnik-und-Datennetze-w-m-d-"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Berlin Projektleitung (w/m/d) Modernisierung & Service Berufserfahrene Führungskräfte",
+   "url": "https://actemium.career.softgarden.de/jobs/66563348/Projektleitung-w-m-d-Modernisierung-Service-"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Berlin Planungsingenieur Elektrotechnik / Elektroplanung (w/m/d) Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67370635/Planungsingenieur-Elektrotechnik-Elektroplanung-w-m-d-"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Berlin Elektroniker / Mechatroniker (w/m/d) für Service & Modernisierung Berlin | Regionale Einsätze statt bundesweiter Montage Berufserfahrene Ha",
+   "url": "https://actemium.career.softgarden.de/jobs/66607428/Elektroniker-Mechatroniker-w-m-d-f%C3%BCr-Service-Modernisierung-Berlin-%7C-Regionale-Eins%C3%A4tze-statt-bundesweiter-Montage"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Serviceassistenz Unternehmenskunden (m/w/d) (Banken & Finanzdienstleistung) in 40476 Düsseldorf Banken & Finanzdienstleistung 40476 Düsseldorf Homeoff",
+   "url": "https://jobs.de.dis-ag.com/serviceassistenz-unternehmenskunden-m-w-d"
+  },
+  {
+   "at": "2026-10-23T11:24:49+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/serviceassistenz-unternehmenskunden-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T11:20:22+00:00",
+ "last_run": "2026-10-23T11:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
