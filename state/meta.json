@@ -1,28 +1,7 @@
 {
- "alerts": 436,
+ "alerts": 437,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Electronic Engineer Automotive Actuators (m,w,d)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Weiz-AT/Electronic-Engineer-Automotive-Actuators--m-w-d-_R00267373?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "IT-Application Engineer MES (m/w/x)",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/IT-Application-Engineer-MES--m-w-x-_R00267394-5?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-23T10:24:49+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker Ventilmontage (m/w/d) 93149 Nittenau 23.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iX7an-industriemechaniker-ventilmontage-mwd_93149-nittenau"
-  },
   {
    "at": "2026-10-23T10:24:49+00:00",
    "kind": "possible",
@@ -3501,12 +3480,33 @@
    "site": "Broadcom – Regensburg",
    "title": "Solution Engineer - ValueOps",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-OH-Remote-Location/Solution-Engineer---ValueOps_R027294?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:39:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Maintenance Facilities Technician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Clair-Michigan-US/Maintenance-Facilities-Technician_R00267491?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:39:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sustainability and Energy Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bowling-Green-Kentucky-US/Sustainability-and-Energy-Manager_R00251314?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-23T19:39:37+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Generalist, Human Resources - Victor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Victor-Iowa-US/Generalist--Human-Resources---Victor_R00267493-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T19:31:26+00:00",
+ "last_run": "2026-10-23T19:51:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
