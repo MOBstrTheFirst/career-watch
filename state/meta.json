@@ -1,5 +1,5 @@
 {
- "alerts": 23,
+ "alerts": 24,
  "commands_set": true,
  "events": [
   {
@@ -316,12 +316,19 @@
    "site": "GE HealthCare – Wendelstein",
    "title": "Program Coordinator - Schenectady, NY/ On Site",
    "url": "https://careers.gehealthcare.com/global/en/job/R4045241/Program-Coordinator-Schenectady-NY-On-Site"
+  },
+  {
+   "at": "2026-10-23T01:25:04+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Intern en Planeación de Materiales",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12415V-p-e6e9b67e50fdea9f5e98b1a45f245c2f/intern-en-planeacion-de-materiales"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-23T01:03:43+00:00",
+ "last_run": "2026-10-23T01:26:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-22",
- "runs": 12,
+ "runs": 13,
  "tg_offset": 297408924
 }
