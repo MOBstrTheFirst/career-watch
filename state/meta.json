@@ -1,5 +1,5 @@
 {
- "alerts": 71,
+ "alerts": 72,
  "commands_set": true,
  "events": [
   {
@@ -603,12 +603,19 @@
    "site": "Sanmina – Gunzenhausen",
    "title": "Production Test Technician 1 (N)",
    "url": "https://jobs.sanmina.com/jobs/18393776-production-test-technician-1-n"
+  },
+  {
+   "at": "2026-10-24T11:33:12+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "SMT Production Manager",
+   "url": "https://careers.motherson.com/en/job/smt-production-manager-6442"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T11:25:54+00:00",
+ "last_run": "2026-10-24T11:34:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
