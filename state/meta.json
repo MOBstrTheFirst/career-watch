@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 6,
  "commands_set": true,
  "events": [
   {
@@ -8,12 +8,103 @@
    "site": "Birkholz Elektronische Geräte – Heßdorf",
    "title": "2 new text line(s), e.g. info",
    "url": "https://www.birkholz.eu/karriere"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Senior Field Service Technician",
+   "url": "https://careers.abb/global/en/job/JR00051378/Senior-Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Referent Personalentwicklung (m/w/d) (HR & Personalwesen) in 45892 Gelsenkirchen HR & Personalwesen 45892 Gelsenkirchen Homeoffice möglich vor einer S",
+   "url": "https://jobs.de.dis-ag.com/referent-personalentwicklung-m-w-d"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditoren- und Debitorenbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74523 Schwäbisch Hall Rechnungswesen & Finanzen 74523 Schwäbisch Hall Homeo",
+   "url": "https://jobs.de.dis-ag.com/kreditoren-und-debitorenbuchhalter-m-w-d-14"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 74722 Buchen Büroverwaltung 74722 Buchen Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-69"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 71032 Böblingen Rechnungswesen & Finanzen 71032 Böblingen vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-463"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Supply Chain Manager (m/w/d) (Logistik & Transport) in 77855 Achern Logistik & Transport 77855 Achern Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/supply-chain-manager-m-w-d-14"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 70794 Filderstadt Rechnungswesen & Finanzen 70794 Filderstadt Homeoffice möglich vor einer Stu",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-462"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Import / Export (m/w/d) (Büroverwaltung) in 74653 Künzelsau Büroverwaltung 74653 Künzelsau Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-import-export-m-w-d-3"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Assistenz(m/w/d) der Leitung (Büroverwaltung) in 76199 Karlsruhe Büroverwaltung 76199 Karlsruhe Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-der-leitung-21"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) - hybrides Arbeiten (Logistik & Transport) in 47441 Moers Logistik & Transport 47441 Moers Homeoffice möglich vor einer S",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-hybrides-arbeiten-14"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Kreditorenbuchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 76829 Landau in der Pfalz Rechnungswesen & Finanzen 76829 Landau in der Pf",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-kreditorenbuchhaltung-m-w-d-11"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Gelsenkirchen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-gelsenkirchen"
+  },
+  {
+   "at": "2026-10-24T23:40:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/referent-personalentwicklung-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T23:26:02+00:00",
+ "last_run": "2026-10-24T23:40:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 7,
+ "runs": 8,
  "tg_offset": 297408924
 }
