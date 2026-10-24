@@ -1,5 +1,5 @@
 {
- "alerts": 72,
+ "alerts": 73,
  "commands_set": true,
  "events": [
   {
@@ -610,12 +610,26 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "SMT Production Manager",
    "url": "https://careers.motherson.com/en/job/smt-production-manager-6442"
+  },
+  {
+   "at": "2026-10-24T12:09:56+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Qualitätsprüfer Elektronik (w/m/d) Deutschland, Mannheim Bachelor Fachhochschule 2-4 Jahre Durchführung von Warenausgangsprüfungen an elektronischen B",
+   "url": "https://www.brunel.net/de-de/jobs/qualitatsprufer-elektronik-wmd-tr-303137"
+  },
+  {
+   "at": "2026-10-24T12:09:56+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "IT Systems Specialist (w/m/d) Deutschland, Kiel Bachelor Universität 2-4 Jahre Technisch anspruchsvolle Systemingenieur-Rolle mit Schwerpunkt IT-Syste",
+   "url": "https://www.brunel.net/de-de/jobs/it-systems-specialist-wmd-tr-289253"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T11:56:05+00:00",
+ "last_run": "2026-10-24T12:11:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
