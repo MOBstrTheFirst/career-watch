@@ -1,5 +1,5 @@
 {
- "alerts": 63,
+ "alerts": 65,
  "commands_set": true,
  "events": [
   {
@@ -505,12 +505,26 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "EXECUTIVE",
    "url": "https://careers.motherson.com/en/job/executive-7136"
+  },
+  {
+   "at": "2026-10-24T08:40:05+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "24.10.2026 Berufskraftfahrer (m/w/d) Waren",
+   "url": "https://www.tempton.de/jobs/berufskraftfahrer-130"
+  },
+  {
+   "at": "2026-10-24T08:40:05+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "24.10.2026 Sandstrahler (m/w/d) Gransee",
+   "url": "https://www.tempton.de/jobs/sandstrahler-13"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T08:25:55+00:00",
+ "last_run": "2026-10-24T08:40:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
