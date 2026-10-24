@@ -1,5 +1,5 @@
 {
- "alerts": 67,
+ "alerts": 70,
  "commands_set": true,
  "events": [
   {
@@ -519,12 +519,96 @@
    "site": "TEMPTON Technische Services",
    "title": "24.10.2026 Sandstrahler (m/w/d) Gransee",
    "url": "https://www.tempton.de/jobs/sandstrahler-13"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Tool Crib Coordinator",
+   "url": "https://jobs.sanmina.com/jobs/18394583-tool-crib-coordinator"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Maintenance Equipment Technician",
+   "url": "https://jobs.sanmina.com/jobs/18383670-maintenance-equipment-technician"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "CNC Machinist",
+   "url": "https://jobs.sanmina.com/jobs/18394580-cnc-machinist"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Failure Analysis Engineer 1 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18394572-failure-analysis-engineer-1-r"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 2 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18394554-production-test-technician-2-r"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Global Logistics & Audit Analyst",
+   "url": "https://jobs.sanmina.com/jobs/18394542-global-logistics-and-audit-analyst"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Global Logistics & Audit Supervisor",
+   "url": "https://jobs.sanmina.com/jobs/18394538-global-logistics-and-audit-supervisor"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Operation Manager",
+   "url": "https://jobs.sanmina.com/jobs/18394474-operation-manager"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Sr Lean Specialist (R)",
+   "url": "https://jobs.sanmina.com/jobs/18394473-sr-lean-specialist-r"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Process Technician 2 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18394435-process-technician-2-n"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Program Manager 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18394278-program-manager-3-n"
+  },
+  {
+   "at": "2026-10-24T10:40:30+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Test Technician 1 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18393776-production-test-technician-1-n"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T10:26:02+00:00",
+ "last_run": "2026-10-24T10:40:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
