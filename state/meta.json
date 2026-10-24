@@ -1,5 +1,5 @@
 {
- "alerts": 76,
+ "alerts": 79,
  "commands_set": true,
  "events": [
   {
@@ -708,12 +708,26 @@
    "site": "Trenkwalder Deutschland",
    "title": "Produktionshelfer (m/w/d) bis zu 3.350€ brutto/Monat!",
    "url": "https://de.trenkwalder.com/jobs/a0taV000018c2uwQAA"
+  },
+  {
+   "at": "2026-10-24T13:25:37+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "JIRA Engineer (m/w/d) Berufserfahrene Deutschland Neu",
+   "url": "https://karriere.omexom.de/jobs/67627112/JIRA-Engineer-m-w-d-"
+  },
+  {
+   "at": "2026-10-24T13:25:13+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Hamburg Praktikant (w/m/d) / Abschlussarbeit Elektrotechnik Student/in Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/66311453/Praktikant-w-m-d-Abschlussarbeit-Elektrotechnik"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-24T13:10:44+00:00",
+ "last_run": "2026-10-24T13:25:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-23",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
