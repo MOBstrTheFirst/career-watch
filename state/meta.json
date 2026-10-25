@@ -1,5 +1,5 @@
 {
- "alerts": 7,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -99,12 +99,33 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/referent-personalentwicklung-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-25T01:09:53+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Intern en Ingeniería Industrial",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF9752D-p-37eec4e0496c8c99a4f7aac743c1a278/intern-en-ingenieria-industrial"
+  },
+  {
+   "at": "2026-10-25T01:09:53+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Képzés-fejlesztési gyakornok",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF11809F-p-8a382fa43050cffd695163cf446512b0/kepzes-fejlesztesi-gyakornok"
+  },
+  {
+   "at": "2026-10-25T01:09:53+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Lead/Specialist IE",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF12431N-p-544194bbf42f44e33dcb895f7dd694f0/lead-specialist-ie"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T00:56:34+00:00",
+ "last_run": "2026-10-25T01:10:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
