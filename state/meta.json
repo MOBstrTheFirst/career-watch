@@ -1,5 +1,5 @@
 {
- "alerts": 43,
+ "alerts": 44,
  "commands_set": true,
  "events": [
   {
@@ -666,12 +666,19 @@
    "site": "OSB AG",
    "title": "Elektrokonstrukteur / EPLAN-Spezialist (all gender)",
    "url": "https://www.alten-consulting.de/karriere/stelle/506024/elektrokonstrukteur-eplan-spezialist-(all-gender)"
+  },
+  {
+   "at": "2026-10-25T11:25:32+00:00",
+   "kind": "text",
+   "site": "Persystems GmbH",
+   "title": "2 new text line(s), e.g. Simulation und Inverter für elektrische Antriebe | Persystems",
+   "url": "https://www.persystems.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T11:10:59+00:00",
+ "last_run": "2026-10-25T11:25:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
