@@ -1,5 +1,5 @@
 {
- "alerts": 53,
+ "alerts": 55,
  "commands_set": true,
  "events": [
   {
@@ -869,12 +869,54 @@
    "site": "Actemium Cegelec",
    "title": "Neu Frankfurt am Main Elektriker (w/m/d) DGUV V3 Prüfung Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
    "url": "https://actemium.career.softgarden.de/jobs/47484420/Elektriker-w-m-d-DGUV-V3-Pr%C3%BCfung"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Auszubildende*r (all genders) zum / zur Mechatroniker*in ab 09/2027",
+   "url": "https://iisfraunhofer.softgarden.io/job/66196088/Auszubildende-r-all-genders-zum-zur-Mechatroniker-in-ab-09-2027?jobDbPVId=288686478&l=de"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Straßenbauer (m/w/d) Berufserfahrene Ronnenberg Neu",
+   "url": "https://karriere.omexom.de/jobs/65494176/Stra%C3%9Fenbauer-m-w-d-"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Vorarbeiter Straßenbau (m/w/d) Berufserfahrene Ronnenberg Neu",
+   "url": "https://karriere.omexom.de/jobs/65493901/Vorarbeiter-Stra%C3%9Fenbau-m-w-d-"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Produktionsleiter (m/w/d) Berufserfahrene Rüdersdorf bei Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/66308948/Produktionsleiter-m-w-d-"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Leiter Schaltanlagenfertigung (m/w/d) Berufserfahrene Rüdersdorf bei Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/66308843/Leiter-Schaltanlagenfertigung-m-w-d-"
+  },
+  {
+   "at": "2026-10-25T14:55:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Technischer Systemplaner (m/w/d) Berufseinsteiger Rüdersdorf bei Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/66309593/Technischer-Systemplaner-m-w-d-"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T14:40:48+00:00",
+ "last_run": "2026-10-25T14:56:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
