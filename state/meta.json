@@ -1,5 +1,5 @@
 {
- "alerts": 50,
+ "alerts": 51,
  "commands_set": true,
  "events": [
   {
@@ -785,12 +785,19 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Brand Management Intern - Interlomas",
    "url": "https://www.pgcareers.com/de/en/job/R000156351/Brand-Management-Intern-Interlomas"
+  },
+  {
+   "at": "2026-10-25T13:40:37+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Technischer Sachbearbeiter Service (m/w/d)  bis zu 25€/h!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018ej1JQAQ"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T13:26:11+00:00",
+ "last_run": "2026-10-25T13:40:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
