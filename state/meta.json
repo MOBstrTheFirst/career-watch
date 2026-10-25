@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -540,12 +540,47 @@
    "site": "Brunel – Nürnberg",
    "title": "Security Engineer (w/m/d) Deutschland, Kiel Bachelor Universität 2-4 Jahre Mitwirkung an der sicheren Entwicklung und Weiterentwicklung von IT-Plattfo",
    "url": "https://www.brunel.net/de-de/jobs/security-engineer-wmd-tr-285070"
+  },
+  {
+   "at": "2026-10-25T07:40:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Oberarzt Mund-, Kiefer- und Gesichtschirurgie  (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/fc476cdc-c996-52d9-8021-b992ec27117c/oberarzt-mund-kiefer-und-gesichtschirurgie-m-w-d"
+  },
+  {
+   "at": "2026-10-25T07:40:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Oberarzt Kinderchirurgie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/25190f39-7692-5d7c-9dad-96b81edf6809/oberarzt-kinderchirurgie-m-w-d"
+  },
+  {
+   "at": "2026-10-25T07:40:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Arzt in Weiterbildung (m/w/d) in der Klinik für Psychiatrie, Psychotherapie und Psychosomatik",
+   "url": "https://karriere.fresenius.de/job-detail/f68d1a15-6050-54e9-be30-3464251084c4/arzt-in-weiterbildung-m-w-d-in-der-klinik-fuer-psychiatrie-psychotherapie-und-psychosomatik"
+  },
+  {
+   "at": "2026-10-25T07:40:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Freiwilliges Soziales Jahr / FSJ (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/e4fe1b29-079a-5080-b0ac-6b482d504b8a/freiwilliges-soziales-jahr-fsj-m-w-d"
+  },
+  {
+   "at": "2026-10-25T07:40:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Psychologe Kinderonkologisches Zentrum (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/010572ed-c8ab-5f0d-b97f-c2ea0a62f253/psychologe-kinderonkologisches-zentrum-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T07:25:46+00:00",
+ "last_run": "2026-10-25T07:41:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
