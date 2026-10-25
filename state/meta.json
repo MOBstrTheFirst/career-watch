@@ -1,5 +1,5 @@
 {
- "alerts": 68,
+ "alerts": 71,
  "commands_set": true,
  "events": [
   {
@@ -932,12 +932,19 @@
    "site": "Maschinenfabrik Reinhausen",
    "title": "Prozessplaner Logistik (m/w/d)",
    "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-25T21:10:08+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Human Resources Internship - Interlomas",
+   "url": "https://www.pgcareers.com/de/en/job/R000157247/Human-Resources-Internship-Interlomas"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T20:56:07+00:00",
+ "last_run": "2026-10-25T21:16:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 96,
+ "runs": 97,
  "tg_offset": 297408924
 }
