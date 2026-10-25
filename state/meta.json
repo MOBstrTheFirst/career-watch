@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 27,
  "commands_set": true,
  "events": [
   {
@@ -526,12 +526,26 @@
    "site": "S+S Regeltechnik – Nürnberg",
    "title": "Mein Konto Einloggen",
    "url": "https://account.spluss.de/?locale=de&region_country=US&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJzcGx1c3MtcmVnZWx0ZWNobmlrLm15c2hvcGlmeS5jb20iLCJmbGFncyI6W10sImV4cCI6MTc5MzUwNjA5NSwibmJmIjoxNzkyOTAxMjk1fQ.lVJoB68zBRF-kcVK3avDNpa2CWTMTMv0ahWOL4cmiuE&consent_id=87321e46-6bc5-4d55-bfc6-c2b42ce943d0&consent=a0m0p0"
+  },
+  {
+   "at": "2026-10-25T07:09:39+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Operativer Einkäufer (w/m/d) Deutschland, Rendsburg Bachelor Universität 2-4 Jahre Verantwortung für den vollständigen Purchase-to-Pay-Prozess, von de",
+   "url": "https://www.brunel.net/de-de/jobs/operativer-einkaufer-wmd-tr-288710"
+  },
+  {
+   "at": "2026-10-25T07:09:39+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Security Engineer (w/m/d) Deutschland, Kiel Bachelor Universität 2-4 Jahre Mitwirkung an der sicheren Entwicklung und Weiterentwicklung von IT-Plattfo",
+   "url": "https://www.brunel.net/de-de/jobs/security-engineer-wmd-tr-285070"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T06:55:53+00:00",
+ "last_run": "2026-10-25T07:11:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
