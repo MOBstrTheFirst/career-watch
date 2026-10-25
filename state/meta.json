@@ -1,5 +1,5 @@
 {
- "alerts": 12,
+ "alerts": 16,
  "commands_set": true,
  "events": [
   {
@@ -162,12 +162,159 @@
    "site": "Schiederwerk GmbH",
    "title": "Werkstudent (m/w/d) Marketing",
    "url": "https://www.schiederwerk.de/de/stellenangebot/werkstudent-m-w-d-marketing-2"
+  },
+  {
+   "at": "2026-10-25T02:24:55+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Staff Engineer, Software Development",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Staff-Engineer%2C-Software-Development-GA-30004/1410560233"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur für Laser-Elektronik (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Systemingenieur-f%C3%BCr-Laser-Elektronik-%28wmd%29-73447/1164442155"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Export Compliance Officer (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Export-Compliance-Officer-%28wmd%29-89077/1340889555"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Expert Maritime Systems Engineering (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Senior-Expert-Maritime-Systems-Engineering-%28wmd%29-26389/1340895855"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Lagerist / Fachkraft für Lagerlogistik (m/w/d) - Materialwirtschaft & Logistik",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Lagerist-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-Materialwirtschaft-&-Logistik-82256/1341359455"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Testsystem-Entwicklung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Projektleiter-Testsystem-Entwicklung-%28wmd%29-89077/1164279955"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Professional IT Betrieb & Administration / IT-Systemintegrator",
+   "url": "https://jobs.hensoldt.net/job/K%C3%B6ln-Professional-IT-Betrieb-&-Administration-IT-Systemintegrator-50676/1362601155"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Expert IT Betrieb & Administration / IT-Systemintegrator (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/K%C3%B6ln-Expert-IT-Betrieb-&-Administration-IT-Systemintegrator-%28wmd%29-50676/1362601755"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Software Entwickler (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Software-Entwickler-%28wmd%29-73447/1354188755"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "HF-Entwicklungsingenieur für Antennenelemente/-aperturen (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-HF-Entwicklungsingenieur-f%C3%BCr-Antennenelemente-aperturen-%28wmd%29-89077/1359024055"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektmanager (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Pforzheim-Projektmanager-%28mwd%29-75179/1359105855"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Integrated Product Support Sanität (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-Integrated-Product-Support-Sanit%C3%A4t-%28wmd%29-82256/1362543455"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Global Mobility (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Global-Mobility-%28wmd%29-89077/1365932155"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent im Akustiklabor (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Werkstudent-im-Akustiklabor-%28mwd%29-82024/1365893055"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur für Radar Environmental Simulator (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-f%C3%BCr-Radar-Environmental-Simulator-%28wmd%29-89077/1365917055"
+  },
+  {
+   "at": "2026-10-25T02:25:05+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "Finanzbuchhalter:in",
+   "url": "https://jobs.koenig-bauer.com/job/Stuttgart-Finanzbuchhalterin/1420829833"
+  },
+  {
+   "at": "2026-10-25T02:25:09+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Duales Studium Informatik (B.Sc.) in München (m/w/d) 2027",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/M%C3%BCnchen-Duales-Studium-Informatik-%28B_Sc_%29-in-M%C3%BCnchen-%28mwd%29-2027-BY-80992/1410288133"
+  },
+  {
+   "at": "2026-10-25T02:25:09+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Duales Studium Informatik (B.Sc.) in Nürnberg (m/w/d) 2027 - Network Rollout Automation",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/N%C3%BCrnberg-Duales-Studium-Informatik-%28B_Sc_%29-in-N%C3%BCrnberg-%28mwd%29-2027-Network-Rollout-Automation-BY-90449/1410285633"
+  },
+  {
+   "at": "2026-10-25T02:25:09+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Duales Studium Informatik (B.Sc.) in Nürnberg (m/w/d) 2027 - Quality- & Performance-Automation",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/N%C3%BCrnberg-Duales-Studium-Informatik-%28B_Sc_%29-in-N%C3%BCrnberg-%28mwd%29-2027-Quality-&-Performance-Automation-BY-90449/1410284133"
+  },
+  {
+   "at": "2026-10-25T02:25:09+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Duales Studium Data Science und Scientific Computing (B.Sc.) deutschlandweit (m/w/d) 2027",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/M%C3%BCnchen-Duales-Studium-Data-Science-und-Scientific-Computing-%28B_Sc_%29-deutschlandweit-%28mwd%29-2027-BY-80992/1410279133"
+  },
+  {
+   "at": "2026-10-25T02:25:09+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Duales Studium Elektro- und Informationstechnik (B.Sc.) in Hamburg (m/w/d) 2027",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Hamburg-Duales-Studium-Elektro-und-Informationstechnik-%28B_Sc_%29-in-Hamburg-%28mwd%29-2027-HH-20457/1410292033"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T02:10:57+00:00",
+ "last_run": "2026-10-25T02:25:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-24",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408924
 }
