@@ -1,315 +1,7 @@
 {
- "alerts": 297,
+ "alerts": 315,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsfachkraft BASF SE  (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaNezQAE"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Quereinsteiger (m/w/d) bei Roche ab 20€-26,50€/h",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaMxRQAU"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "MTA / BTA in der Produktion Roche 20€-26,50€/h (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaMPeQAM"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mitarbeiter in der Verpackung 22€-26,50€/h (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaJI1QAM"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Mechatroniker (m/w/d) bei Roche",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eaEDvQAM"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinen- und Anlagenführer (m/w/d) Roche  21,00 - 24,50€/h",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eZp8nQAC"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsmitarbeiter Verpackung Roche (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eZd2oQAC"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsmitarbeiter (m/w/d) Roche Diagnostics",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eZbsEQAS"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Quereinsteiger (m/w/d) Roche 20€-26,50€/h",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eZN5xQAG"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsmitarbeiter Verpackung 20€-26,50€/h (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000eXtzaQAC"
-  },
-  {
-   "at": "2026-10-26T09:25:52+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "MFA (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ZTzVSQA1"
-  },
-  {
-   "at": "2026-10-26T09:24:47+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Praktikum \"Entwurf eines analogen Power Limiters für robuste Ka-Band HF-Systeme in der Raumfahrt \" (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Praktikum--Entwurf-eines-analogen-Power-Limiters-fr-robuste-Ka-Band-HF-Systeme-in-der-Raumfahrt----d-m-w-_JR10447649-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T09:24:47+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Aerodynamic Design & Analysis Engineer (d/f/m)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Aerodynamic-Design---Analysis-Engineer--d-f-m-_JR10439988?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T09:24:47+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Electronic Warfare Developer (d/m/f)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Electronic-Warfare-Developer--d-m-f-_JR10446773?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T09:24:47+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Werkstudent Qualitätsmanagement – Prozessoptimierung mit KI (w/m/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF276419K-werkstudent-qualitaetsmanagement-prozessoptimierung-mit-ki-w-m-div"
-  },
-  {
-   "at": "2026-10-26T09:24:47+00:00",
-   "kind": "text",
-   "site": "Telemeter Electronic",
-   "title": "2 new text line(s), e.g. © 2026 Telemeter Electronic GmbH.",
-   "url": "https://telemeter.info/de/stellenanzeigen"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Consul­tant PMO / Projekt­coach (m/w/d) Neu Job Remote Vollzeit 90.000 - 110.000 € München, Deutsch­land Backoffice Professionals Senior Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/525580/consultant-pmo-projektcoach"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­niker Elek­tro­do­ku­men­ta­tion / EPLAN (m/w/d) Neu Job Vor Ort Vollzeit 52.000 - 68.000 € Nordenham, Deutsch­land Weitere Professionals Senior ",
-   "url": "https://touch.ferchau.com/de/de/job/525586/techniker-elektrodokumentation-eplan"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Auto­ma­tion & Control Systems Engi­neer (m/f/d) Neu Job Remote Full time 130 - 160 zł Warsaw, Poland Electrical Engineering Professionals Senior Prof",
-   "url": "https://touch.ferchau.com/de/de/job/525583/automation-control-systems-engineer"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Kfm. Projekt­as­sis­tenz Technik / Logistik (m/w/d) Neu Job Vor Ort Vollzeit 48.000 - 60.000 € Sulingen, Deutsch­land Personal Professionals Senior Pr",
-   "url": "https://touch.ferchau.com/de/de/job/525574/kfm-projektassistenz-technik-logistik"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Buch­halter (m/w/d) Neu Job Hybrid Vollzeit 55.000 - 67.000 € Köln, Deutsch­land Backoffice Professionals Senior Professionals ohne Personalverantwort",
-   "url": "https://touch.ferchau.com/de/de/job/525568/buchhalter"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bauleiter Rohr­lei­tungs- & Anla­genbau (m/w/d) Neu Job Vor Ort Vollzeit 65.000 - 80.000 € Sulingen, Deutsch­land Personal Professionals Senior Profes",
-   "url": "https://touch.ferchau.com/de/de/job/525571/bauleiter-rohrleitungs-anlagenbau"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 93073 Neutraubling 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1tggkG-lagermitarbeiter-mwd_93073-neutraubling"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Serviceberater Kfz (m/w/d) 94209 Regen 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/GVMva-serviceberater-kfz-mwd_94209-regen"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Karosserieinstandsetzer (m/w/d) 94474 Vilshofen an der Donau 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcgaKQ-karosserieinstandsetzer-mwd_94474-vilshofen-an-der-donau"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kfz-Mechatroniker Nutzfahrzeugtechnik (m/w/d) 94474 Vilshofen an der Donau 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1tuM8a-kfz-mechatroniker-nutzfahrzeugtechnik-mwd_94474-vilshofen-an-der-donau"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 94405 Landau an der Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1VcTT2-produktionsmitarbeiter-mwd_94405-landau-an-der-isar"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 93055 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZxQQ7a-gabelstaplerfahrer-mwd_93055-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Rzeźnik (m/k/d) 09569 Oederan 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/211f55-rzeznik-mkd_09569-oederan"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer Handwerk (m/w/d) 84069 Schierling 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z23BfQk-verkaeufer-handwerk-mwd_84069-schierling"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Logistik (m/w/d) 93053 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZL2j8N-mitarbeiter-logistik-mwd_93053-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) für die Automobilbranche 93055 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WIO6X-produktionsmitarbeiter-mwd-fuer-die-automobilbranche_93055-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 93055 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZUBdNH-staplerfahrer-mwd_93055-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Dozent Erwachsenenbildung (m/w/d) 93055 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/7tNki-dozent-erwachsenenbildung-mwd_93055-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) für die Automobilbranche 93055 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Qqxrw-produktionsmitarbeiter-mwd-fuer-die-automobilbranche_93055-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Projektingenieur Verkehrsanlagen Schienen (m/w/d) 93059 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Hadq4-projektingenieur-verkehrsanlagen-schienen-mwd_93059-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:24:34+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Projektingenieur Verkehrsanlagen Straßen (m/w/d) 93059 Regensburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z17gejH-projektingenieur-verkehrsanlagen-strassen-mwd_93059-regensburg"
-  },
-  {
-   "at": "2026-10-26T09:25:12+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Personalsachbearbeiter Entgelt (m/w/d) (Rechnungswesen & Finanzen) in 91052 Erlangen Rechnungswesen & Finanzen 91052 Erlangen Homeoffice möglich vor 1",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-entgelt-m-w-d-4"
-  },
-  {
-   "at": "2026-10-26T09:25:12+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Servicetechniker (m/w/d) – 2–3 Übernachtungen/Woche, bis 4.200€, Direktvermittlung! (Technik & Instandhaltung) in 66111 Saarbrücken Technik & Instandh",
-   "url": "https://jobs.de.dis-ag.com/servicetechniker-m-w-d-2-3-uebernachtungen-woche-bis-4-200eur-direktvermittlung"
-  },
-  {
-   "at": "2026-10-26T09:25:12+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-entgelt-m-w-d-4/bewerben"
-  },
-  {
-   "at": "2026-10-26T09:51:21+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Geotechnical Engineer Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157755846-geotechnical-engineer"
-  },
-  {
-   "at": "2026-10-26T09:51:21+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Duales Studium - Elektrotechnik (Bachelor of Engineering) 2027 Auszubildende/ Lernende Berlin Neu",
-   "url": "https://karriere.omexom.de/jobs/68036112/Duales-Studium---Elektrotechnik-Bachelor-of-Engineering-2027"
-  },
-  {
-   "at": "2026-10-26T09:39:39+00:00",
-   "kind": "new",
-   "site": "Hans Weber Maschinenfabrik – Kronach",
-   "title": "https://www.hansweber.de/jobs-karriere/fuer-berufserfahrene/{$footerXingUrl}",
-   "url": "https://www.hansweber.de/jobs-karriere/fuer-berufserfahrene/{$footerXingUrl}"
-  },
-  {
-   "at": "2026-10-26T09:39:39+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gießereihelfer (m/w/d) für die Automobilbranche 42489 Wülfrath 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1UXmNO-giessereihelfer-mwd-fuer-die-automobilbranche_42489-wuelfrath"
-  },
   {
    "at": "2026-10-26T09:39:39+00:00",
    "kind": "new",
@@ -3501,12 +3193,320 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-47/bewerben"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Data Analytics Engineer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Analytics-Engineer-f-m-d/305686"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Business & Administration Geschäftsfeldleiter*in - Immissionsschutz von Industrieanlagen (w/m/d) (390003)",
+   "url": "https://jobs.tuv.com/de/job/Geschaeftsfeldleiterin-Immissionsschutz-von-Industrieanlagen-w_m_d-390003-Bad-Muskau?id=21953"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Betriebsleiter Energieversorgung (m/w/d) Berufserfahrene Halberstadt + 2 Neu",
+   "url": "https://karriere.omexom.de/jobs/66974390/Betriebsleiter-Energieversorgung-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Sachbearbeiter Entgeltabrechnung (m/w/d) Berufserfahrene Magdeburg Neu",
+   "url": "https://karriere.omexom.de/jobs/66936670/Sachbearbeiter-Entgeltabrechnung-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Ausbildung zum Tiefbaufacharbeiter (m/w/d) – Schwerpunkt: Leitungsbauarbeiten für Infrastrukturtechnik Auszubildende/ Lernende Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/66674068/Ausbildung-zum-Tiefbaufacharbeiter-m-w-d-%E2%80%93-Schwerpunkt-Leitungsbauarbeiten-f%C3%BCr-Infrastrukturtechnik"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Glasfasermonteur (m/w/d) Berufserfahrene Nordhorn Neu",
+   "url": "https://karriere.omexom.de/jobs/66991355/Glasfasermonteur-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Rohrnetzmonteur Gas/ Wasser (m/w/d) Berufserfahrene Nordhorn Neu",
+   "url": "https://karriere.omexom.de/jobs/66649298/Rohrnetzmonteur-Gas-Wasser-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Tiefbauer (m/w/d) Berufseinsteiger Nordhorn Neu",
+   "url": "https://karriere.omexom.de/jobs/66575528/Tiefbauer-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur (m/w/d) Berufserfahrene Nordhorn Neu",
+   "url": "https://karriere.omexom.de/jobs/62365344/Elektromonteur-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:56+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Rohrleitungsbauer Gas / Wasser (m/w/d) Berufserfahrene Nordhorn Neu",
+   "url": "https://karriere.omexom.de/jobs/62258969/Rohrleitungsbauer-Gas-Wasser-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Senior Generative AI/Agentic AI Engineer (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Ulm-Area/Senior-Generative-AI-Agentic-AI-Engineer--d-f-m-_JR10433766-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "WTD 81 – Bundeswehr test centre for IT & electronics (+1 more)",
+   "title": "Offizierin / Offizier in der Heeres~flugabwehr~truppe",
+   "url": "https://www.bundeswehrkarriere.de/offizierin-offizier-in-der-heeresflugabwehrtruppe-m-w-d-1119"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "WTD 81 – Bundeswehr test centre for IT & electronics (+1 more)",
+   "title": "Soldatin/Soldat in der Heeres~flugabwehr~truppe ",
+   "url": "https://www.bundeswehrkarriere.de/soldatin-soldat-in-der-heeresflugabwehrtruppe-m-w-d-1118"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "Zuken E3 – Erlangen",
+   "title": "Software Development Remote, Germany Software Engineer (f/m/d) Software Development",
+   "url": "https://www.zuken.com/de/career/software-engineer_2610"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "IT Support Technician Grand Rapids, Michigan Development / Software / IT Recent Graduates",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/it-support-technician"
+  },
+  {
+   "at": "2026-10-26T14:40:01+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Software Test Engineer I Grand Rapids, Michigan Development / Software / IT Recent Graduates",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/software-test-engineer-i"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Business Development Manager– AI Data Center Solutions",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/business-development-manager-ai-data-center-solutions_251563-1703745.html"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Physics Machine Learning Engineer Veldhoven, Netherlands Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/physics-machine-learning-engineer-j00351998"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Production Engineer TWINSCAN Factory Veldhoven, Netherlands Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/production-engineer-twinscan-factory-j00350460"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT-Busi­ness Engi­neer (m/w/d) Neu Job Hybrid Vollzeit 90.000 - 120.000 € Köln, Deutsch­land Backoffice Professionals Senior Professionals ohne Person",
+   "url": "https://touch.ferchau.com/de/de/job/525664/it-business-engineer"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Quali­täts­tech­niker ZfP und Schweiß­technik (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 80.000 € Aachen, Deutsch­land Anlagenbau Maschinenbau Professi",
+   "url": "https://touch.ferchau.com/de/de/job/525673/qualitaetstechniker-zfp-und-schweisstechnik"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT-Projekt­ma­nager und Netz­werk­ad­mi­nis­trator (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 75.000 € Grassau, Deutsch­land Elektrotechnik Young Profe",
+   "url": "https://touch.ferchau.com/de/de/job/525667/it-projektmanager-und-netzwerkadministrator"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Ausfüh­rungs­pla­nung Kabel­trasse (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Berlin, Deutsch­land Backoffice Professionals Senior Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/525661/ausfuehrungsplanung-kabeltrasse"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Netz­werk- und System­ad­mi­nis­trator (m/w/d) Neu Job Vor Ort Teilzeit 45.000 - 65.000 € Grassau, Deutsch­land Elektrotechnik Young Professionals Pro",
+   "url": "https://touch.ferchau.com/de/de/job/525658/netzwerk-und-systemadministrator"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Senior Analog Desi­gner (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 80.000 - 110.000 € Dresden, Deutsch­land Direktvermittlung Elektrotechnik ",
+   "url": "https://touch.ferchau.com/de/de/job/496066/senior-analog-designer-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­ma­nager Digi­ta­li­sie­rung & Data Solu­tions (m/w/d) Neu Job Hybrid Vollzeit 75.000 - 95.000 € Berlin, Deutsch­land Informationstechnik Prof",
+   "url": "https://touch.ferchau.com/de/de/job/525652/projektmanager-digitalisierung-data-solutions"
+  },
+  {
+   "at": "2026-10-26T14:40:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) Papierverarbeitung 95703 Plößberg, Oberpfalz 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1rgups-maschinenbediener-mwd-papierverarbeitung_95703-ploessberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Electrical Engineer (Debrecen) 26.10.2026 Sonstige Debrecen",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/electrical-engineer-debrecen"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Aviation Embedded Software Tester (Debrecen) 26.10.2026 Sonstige Debrecen",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/embedded-software-tester-debrecen"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Senior Engineer (m/w/d) Leistungselektronik 26.10.2026 Forschung/Entwicklung/Engineering Markdorf",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/senior-engineer-m-w-d-leistungselektronik"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Produktdesigner (m/w/d) 26.10.2026 Forschung/Entwicklung/Engineering, Produktion Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/produktdesigner-m-w-d"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Manufacturing Operator 3",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Manufacturing-Operator-3_R027482?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Mfg Operator 1",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Mfg-Operator-1_R027406?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199138 Praktikant Rohstoffmanagement im indirekten Einkauf (w/m/x) Veröffentlicht: 26.10.2026 Rohstoffmanagement München Neu Rohstoffmanagement Münche",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199138.html"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199065 Praktikant Digitale Transformation und Enablement (w/m/x) Veröffentlicht: 26.10.2026 Beratung / Organisation München Neu Beratung / Organisatio",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199065.html"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "196947 Kfz-Mechatroniker (w/m/x) Veröffentlicht: 26.10.2026 Aftersales Service und Garantie Hannover Neu Aftersales Service und Garantie Hannover Hann",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196947.html"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "196392 Praktikant Materialsteuerung und Logistikplanung (w/m/x) Veröffentlicht: 26.10.2026 Supply Chain Management Dingolfing Neu Supply Chain Managem",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196392.html"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Head of Architecture (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Koblenz/Head-of-Architecture_JR110108?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Wittlich Hardwareplaner:in / Projektleiter:in (w/m/d) Elektrotechnik Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/52855969/Hardwareplaner-in-Projektleiter-in-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "KSB – Pegnitz",
+   "title": "Werkstudent (m/w/d) SAP S/4 HANA Business Transformation",
+   "url": "https://ksb.wd3.myworkdayjobs.com/de-DE/KSB_ExternalCareerSite/job/Frankenthal/Werkstudent--m-w-d--SAP-S-4-HANA-Business-Transformation_JR_31341-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Infrastrukturadministrator (m/w/d) (IT & Software) in 16356 Werneuchen IT & Software 16356 Werneuchen vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/it-infrastrukturadministrator-m-w-d-1"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Microsoft 365 Administrator (m/w/d) (IT & Software) in 12247 Berlin IT & Software 12247 Berlin vor 15 Stunden",
+   "url": "https://jobs.de.dis-ag.com/microsoft-365-administrator-m-w-d-2"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Werneuchen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-werneuchen"
+  },
+  {
+   "at": "2026-10-26T14:40:25+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-infrastrukturadministrator-m-w-d-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T14:22:07+00:00",
+ "last_run": "2026-10-26T14:41:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
