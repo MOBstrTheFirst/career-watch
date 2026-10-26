@@ -1,5 +1,5 @@
 {
- "alerts": 15,
+ "alerts": 18,
  "commands_set": true,
  "events": [
   {
@@ -302,12 +302,40 @@
    "site": "Broadcom – Regensburg",
    "title": "RF IC Design and System Simulation Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Korea-Seoul-HiBrand/RF-IC-Design-and-System-Simulation-Engineer_R027505?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T02:24:52+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Verfahrensmechaniker / Maschinenführer als Anlagenbediener (m/w/d) Schlauchextrusion",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Verfahrensmechaniker-Maschinenf%C3%BChrer-als-Anlagenbediener-%28mwd%29-Schlauchextrusion/1410853633"
+  },
+  {
+   "at": "2026-10-26T02:24:52+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Produktionshelfer (m/w/d) Schlauchextrusion",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Produktionshelfer-%28mwd%29-Schlauchextrusion/1421164633"
+  },
+  {
+   "at": "2026-10-26T02:25:13+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Praktikant (m/w/d) Entwicklung Fahrerassistenzsysteme (ADAS)",
+   "url": "https://jobs.avl.com/job/Wolfsburg-Praktikant-%28mwd%29-Entwicklung-Fahrerassistenzsysteme-%28ADAS%29/1410826633"
+  },
+  {
+   "at": "2026-10-26T02:25:13+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "B.Eng. Mechatronik (m/w/d) - Stammbereich Produktentwicklung Messtechnik ab 01.09.2027 in Hannover",
+   "url": "https://jobs.zf.com/job/Hannover-B_Eng_-Mechatronik-%28mwd%29-Stammbereich-Produktentwicklung-Messtechnik-ab-01_09_2027-in-Hannover-NI-30453/1421099633"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T02:12:50+00:00",
+ "last_run": "2026-10-26T02:25:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
