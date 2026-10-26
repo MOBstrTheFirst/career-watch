@@ -1,5 +1,5 @@
 {
- "alerts": 18,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -330,12 +330,19 @@
    "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
    "title": "B.Eng. Mechatronik (m/w/d) - Stammbereich Produktentwicklung Messtechnik ab 01.09.2027 in Hannover",
    "url": "https://jobs.zf.com/job/Hannover-B_Eng_-Mechatronik-%28mwd%29-Stammbereich-Produktentwicklung-Messtechnik-ab-01_09_2027-in-Hannover-NI-30453/1421099633"
+  },
+  {
+   "at": "2026-10-26T02:39:46+00:00",
+   "kind": "new",
+   "site": "GE HealthCare – Wendelstein",
+   "title": "Senior Staff AI Application Engineer",
+   "url": "https://careers.gehealthcare.com/global/en/job/R4045713/Senior-Staff-AI-Application-Engineer"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T02:25:46+00:00",
+ "last_run": "2026-10-26T02:40:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
