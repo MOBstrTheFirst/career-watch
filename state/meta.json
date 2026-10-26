@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 54,
  "commands_set": true,
  "events": [
   {
@@ -918,12 +918,75 @@
    "site": "DIS AG",
    "title": "Schweißer in der Rüstungsindustrie (m/w/d) (Produktion & Fertigung) in 29345 Unterlüß Produktion & Fertigung 29345 Unterlüß vor 8 Stunden",
    "url": "https://jobs.de.dis-ag.com/schweisser-in-der-ruestungsindustrie-m-w-d"
+  },
+  {
+   "at": "2026-10-26T07:35:25+00:00",
+   "kind": "new",
+   "site": "Kaeser Kompressoren",
+   "title": "Mitarbeiter Empfang / Telefonzentrale (m/w/d)",
+   "url": "https://careers.kaeser.com/job/Werk-Coburg-%2800010001%29-Mitarbeiter-Empfang-Telefonzentrale-%28mwd%29-Werk-Werk-Cobur/1451053133"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bohrhelfer (m/w/d) Geotechnik - ideal für Quereinsteiger (m/w/d) 06110 Halle (Saale) 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/epUNI-bohrhelfer-mwd-geotechnik-ideal-fuer-quereinsteiger-mwd_06110-halle-saale"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenmechaniker Heizung und Sanitär (m/w/d) 06184 Kabelsketal 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2gHCbr-anlagenmechaniker-heizung-und-sanitaer-mwd_06184-kabelsketal"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Angajat Reciclare (m/w/d) 06188 Landsberg bei Halle, Saale 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/10XUqv-angajat-reciclare-mwd_06188-landsberg-bei-halle-saale"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektrohelfer (m/w/d) Kabelverlegung 06193 Petersberg bei Halle, Saale 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/sSPoN-elektrohelfer-mwd-kabelverlegung_06193-petersberg-bei-halle-saale"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 95666 Mitterteich 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zwnrbl-industriemechaniker-mwd_95666-mitterteich"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenführer (m/w/d) 92637 Weiden in der Oberpfalz 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1NWnTf-maschinenfuehrer-mwd_92637-weiden-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 95615 Marktredwitz 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z14sweq-industriemechaniker-mwd_95615-marktredwitz"
+  },
+  {
+   "at": "2026-10-26T07:25:09+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Lagerverwaltung (m/w/d) 95478 Kemnath 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2m2sVR-mitarbeiter-lagerverwaltung-mwd_95478-kemnath"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T07:15:22+00:00",
+ "last_run": "2026-10-26T07:35:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408924
 }
