@@ -1,133 +1,7 @@
 {
- "alerts": 188,
+ "alerts": 198,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Trafo­sta­tionen (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Linz, Öster­reich Green Jobs & Projects 1 Anlagenbau Elektrotechnik Prof",
-   "url": "https://touch.ferchau.com/de/de/job/517768/projektleiter-trafostationen"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Test­ma­nager IT / OT (m/w/d) Job Hybrid Vollzeit 75.000 - 80.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Informationstechnik Professionals Senior",
-   "url": "https://touch.ferchau.com/de/de/job/517789/testmanager-it-ot"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Tiefbau & Infra­struktur (m/w/d) Job Hybrid Vollzeit 60.000 - 90.000 € Linz, Öster­reich Green Jobs & Projects 1 Backoffice Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/517810/projektleiter-tiefbau-infrastruktur"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Indus­trie­me­cha­niker (m/w/d) Job Vor Ort Vollzeit 40.000 - 45.000 € Hamburg, Deutsch­land Anlagenbau Elektrotechnik Maschinenbau Young Professional",
-   "url": "https://touch.ferchau.com/de/de/job/517825/industriemechaniker"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Baulei­tender Ober­mon­teur Elek­tro­technik (m/w/d) Job Vor Ort Vollzeit 45.000 - 68.000 € Dort­mund, Deutsch­land Elektrotechnik Professionals Senio",
-   "url": "https://touch.ferchau.com/de/de/job/517840/bauleitender-obermonteur-elektrotechnik"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ma­nager Bahn­sys­teme (m/w/d) Job Hybrid Vollzeit 70.000 - 80.000 € Wien, Öster­reich Informationstechnik Weitere Professionals Senior Profes",
-   "url": "https://touch.ferchau.com/de/de/job/517849/projektmanager-bahnsysteme"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Werk­stu­dent Vertrieb (m/w/d) Job Vor Ort Teilzeit 13.400 - 16.400 € Lübeck, Deutsch­land Vertrieb Students Young Professionals ohne Personalverantwo",
-   "url": "https://touch.ferchau.com/de/de/job/517858/werkstudent-vertrieb"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ver­wal­tung (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Biblis, Deutsch­land Anlagenbau Informationstechnik Weitere Young Professionals Pr",
-   "url": "https://touch.ferchau.com/de/de/job/517879/projektverwaltung"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Supply Chain Perfor­mance (m/w/d) Job Vor Ort Vollzeit 60.000 - 65.000 € Nürn­berg, Deutsch­land Luft- und Raumfahrttechnik Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/517891/projektleiter-supply-chain-performance"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Quali­täts­ma­nager Auto­mo­tive (m/w/d) Job Vor Ort Vollzeit 70.000 - 85.000 € Neuburg an der Donau, Deutsch­land Backoffice Professionals ohne Perso",
-   "url": "https://touch.ferchau.com/de/de/job/517894/qualitaetsmanager-automotive"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Verwal­tungs­in­for­ma­tiker (m/w/d) Job Vor Ort Vollzeit 51.000 - 60.000 € Rosen­heim, Deutsch­land Informationstechnik Professionals ohne Personalve",
-   "url": "https://touch.ferchau.com/de/de/job/517912/verwaltungsinformatiker"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Senior Data Engi­neer (m/w/d) Job Vor Ort Vollzeit 75.000 - 95.000 € Dresden, Deutsch­land Informationstechnik Weitere Young Professionals Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/517918/senior-data-engineer"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "SAP FI/CO Modul­be­treuer (m/w/d) Job Vor Ort Vollzeit 70.000 - 90.000 € Wasser­burg am Inn, Deutsch­land Informationstechnik Professionals Senior Pro",
-   "url": "https://touch.ferchau.com/de/de/job/517924/sap-fi-co-modulbetreuer"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT Supporter (m/w/d) Job Hybrid Vollzeit 45.000 - 58.000 € Hamburg, Deutsch­land Informationstechnik Weitere Young Professionals Professionals ohne Pe",
-   "url": "https://touch.ferchau.com/de/de/job/517927/it-supporter"
-  },
-  {
-   "at": "2026-10-26T03:25:15+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/ausbildung-zum-tierpfleger-fachrichtung-forschung-und-klinik-m-w-d-14009"
-  },
-  {
-   "at": "2026-10-26T03:25:15+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/leitung-fuer-den-bereich-einkauf-m-w-d-14010"
-  },
-  {
-   "at": "2026-10-26T03:25:15+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/assistenzarzt-strahlenklinik-m-w-d-14013"
-  },
-  {
-   "at": "2026-10-26T03:25:15+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/stationsleitung-wachsaal-frauenklinik-m-w-d-fk-ws-sl-2026-10-26"
-  },
   {
    "at": "2026-10-26T03:55:36+00:00",
    "kind": "new",
@@ -3501,12 +3375,138 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/qualitaetspruefer-m-w-d-6/bewerben"
+  },
+  {
+   "at": "2026-10-26T11:25:44+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Terminplaner (m/w/d) - Infrastruktur | 100% Remote",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY3MA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-26T11:25:44+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Senior Cloud & AI Platform Engineer (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY1Ng%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-26T11:25:44+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Entwicklungsingenieur Bremssysteme Radbremse (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY1Mg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-26T11:25:52+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Werkstudent im Marketing (m/w/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-26T11:25:52+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d)",
+   "url": "https://career.skf.com/job/Berlin-Ausbildung-zum-Industriemechaniker-%28mwd%29/1451178833"
+  },
+  {
+   "at": "2026-10-26T11:25:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "26.10.2026 Pädagoge (m/w/d) Integration Koblenz",
+   "url": "https://www.tempton.de/jobs/paedagoge-integration"
+  },
+  {
+   "at": "2026-10-26T11:25:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "26.10.2026 Pädagoge (m/w/d) Bad Ems",
+   "url": "https://www.tempton.de/jobs/paedagoge-25"
+  },
+  {
+   "at": "2026-10-26T11:25:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "26.10.2026 HEP (m/w/d) besondere Wohnform Cochem",
+   "url": "https://www.tempton.de/jobs/hep-besondere-wohnform"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Inbetriebnahmeingenieur Elektrotechnik & Hochspannung (m/w/d) (w/m/d) in Kassel",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "possible",
+   "site": "Capgemini Engineering",
+   "title": "Studentische Tätigkeiten/Praktikum (15)",
+   "url": "https://www.capgemini.com/de-de/karriere/jobs/?country_code=de-de&country_name=Germany&size=15"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sicher­heits­in­ge­nieur (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 75.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Professionals Senior Professional",
+   "url": "https://touch.ferchau.com/de/de/job/525622/sicherheitsingenieur"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Arbeits­vor­be­reiter Trieb­werk (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 65.000 € Hardt­hausen am Kocher, Deutsch­land Luft- und Raumfahrttechnik Yo",
+   "url": "https://touch.ferchau.com/de/de/job/525613/arbeitsvorbereiter-triebwerk"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Ferti­gungs­steuerer bei Siemens (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Luhe-Wildenau, Deutsch­land Weitere Professionals ohne Personalver",
+   "url": "https://touch.ferchau.com/de/de/job/525610/fertigungssteuerer-bei-siemens"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Account Manager Engi­nee­ring (m/w/d) Job Hybrid Vollzeit 45.000 - 60.000 € Lohfelden, Deutsch­land Vertrieb Professionals Senior Professionals ohne P",
+   "url": "https://touch.ferchau.com/de/de/job/507352/account-manager-engineering"
+  },
+  {
+   "at": "2026-10-26T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT-System­ar­chi­tekt (m/w/d) Job Hybrid Vollzeit 60.000 - 70.500 € Kassel, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professionals Senior Pro",
+   "url": "https://touch.ferchau.com/de/de/job/519937/it-systemarchitekt"
+  },
+  {
+   "at": "2026-10-26T11:35:54+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Cyber Resilience und IT-Service Continuity Manager (m/w/d) 26.10.2026 Informationstechnologie Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/cyber-resilience-und-it-service-continuity-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-26T11:35:54+00:00",
+   "kind": "possible",
+   "site": "Innovationszentrum für Telekommunikationstechnik (IZT) – Erlangen",
+   "title": "Referent Geschäftsführung (m/w/d)",
+   "url": "https://www.izt-labs.de/karriere/"
+  },
+  {
+   "at": "2026-10-26T11:35:54+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Wiesbaden",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Wiesbaden-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Wiesbaden-HE-65185/1451184733"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T11:11:16+00:00",
+ "last_run": "2026-10-26T11:36:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
