@@ -1,112 +1,7 @@
 {
- "alerts": 339,
+ "alerts": 348,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Chemikant/in (m/w/d) (Naturwissenschaften) in 20457 Hamburg Naturwissenschaften 20457 Hamburg vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/chemikant-in-m-w-d-1"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 90402 Nürnberg Rechnungswesen & Finanzen 90402 Nürnberg Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-464"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Operativer Einkäufer (m/w/d) (Logistik & Transport) in 01189 Dresden Logistik & Transport 01189 Dresden vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-152"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Buchhalter Debitoren & Kreditoren (m/w/d) (Rechnungswesen & Finanzen) in 90402 Nürnberg Rechnungswesen & Finanzen 90402 Nürnberg Homeoffice möglich vo",
-   "url": "https://jobs.de.dis-ag.com/buchhalter-debitoren-und-kreditoren-m-w-d-3"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/werkscontroller-m-w-d-27/bewerben"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) im Einkauf",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526764"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526764"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Ingenieur Seekabelinstallation (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY1OA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Hardwareentwickler (m/w/d) Komfortelektronik",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY2NA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Bauleiter (m/w/d) Freileitungen Bremen Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-99522/Bauleiter%20(m%2Fw%2Fd)%20Freileitungen/Bremen"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Planungsingenieur (m/w/d) Mittel- und Hochspannung Hamburg Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-99535/Planungsingenieur%20(m%2Fw%2Fd)%20Mittel-%20und%20Hochspannung/Hamburg"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Technischer Projektleiter (m/w/d) Höchstspannungsanlagen Kiel Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-104555/Technischer%20Projektleiter%20(m%2Fw%2Fd)%20H%C3%B6chstspannungsanlagen/Kiel"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Projektsteuerer (m/w/d) Energienetzausbau Kiel Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-104680/Projektsteuerer%20(m%2Fw%2Fd)%20Energienetzausbau/Kiel"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Projektsteuerer (m/w/d) Energienetzausbau Bremen Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-104681/Projektsteuerer%20(m%2Fw%2Fd)%20Energienetzausbau/Bremen"
-  },
-  {
-   "at": "2026-10-26T10:26:06+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Projektsteuerer (m/w/d) Energienetzausbau Hamburg Seit 26. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-104682/Projektsteuerer%20(m%2Fw%2Fd)%20Energienetzausbau/Hamburg"
-  },
   {
    "at": "2026-10-26T10:26:06+00:00",
    "kind": "new",
@@ -3501,12 +3396,117 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/industrielackierer-fuer-schienenfahrzeuge-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Pflegefachkraft oder Medizinische Fachangestellte (m/w/d) für die Dialyse",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Mnchengladbach-Germany/Pflegefachkraft-oder-Medizinische-Fachangestellte--m-w-d--fr-die-Dialyse_R0273430?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Terminplaner (m/w/d) - Infrastruktur | 100% Remote",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzY5Mg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Logistic Coordinator",
+   "url": "https://leggett.com/careers/search?posting=36620"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Human Resources - Generlist",
+   "url": "https://leggett.com/careers/search?posting=36622"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "*Program Manager",
+   "url": "https://jobs.sanmina.com/jobs/18403860-star-program-manager"
+  },
+  {
+   "at": "2026-10-26T15:26:25+00:00",
+   "kind": "possible",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Ingenieurwesen & Technik (55)",
+   "url": "https://karriere.fresenius.de/job-suche"
+  },
+  {
+   "at": "2026-10-26T15:25:07+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Fachkraft für Betriebssicherheit und Teststreckenmanagment (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF291008Q-fachkraft-fuer-betriebssicherheit-und-teststreckenmanagment-w-m-div"
+  },
+  {
+   "at": "2026-10-26T15:25:07+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum Digitalisierung in der Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF299415K-praktikum-digitalisierung-in-der-logistik"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Betriebs­elek­tro­niker Betriebs­technik (m/w/d) Neu Job Vor Ort Vollzeit 46.000 - 51.000 € Burg­kir­chen an der Alz, Deutsch­land Weitere Young Profe",
+   "url": "https://touch.ferchau.com/de/de/job/525682/betriebselektroniker-betriebstechnik"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Appli­ca­tion Secu­rity Engi­neer (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 120.000 - 130.000 € Pulheim, Deutsch­land Direktvermittlung Info",
+   "url": "https://touch.ferchau.com/de/de/job/524179/application-security-engineer-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Solu­tion Archi­tect Secu­rity (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 120.000 - 130.000 € Pulheim, Deutsch­land Direktvermittlung Informa",
+   "url": "https://touch.ferchau.com/de/de/job/524188/solution-architect-security-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler Model­lie­rung & Simu­la­tion (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 75.000 € Immenstaad am Bodensee, Deutsch­land Elektrotech",
+   "url": "https://touch.ferchau.com/de/de/job/525679/softwareentwickler-modellierung-simulation"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware Engi­neer (m/w/d) Neu Job Hybrid Vollzeit 80.000 - 120.000 € Köln, Deutsch­land Informationstechnik Weitere Professionals Senior Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/525676/software-engineer"
+  },
+  {
+   "at": "2026-10-26T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Team­lei­tung (m/w/d) Vertriebs­in­nen­dienst (in Direkt­ver­mitt­lung) Job Vor Ort Vollzeit 50.000 - 70.000 € Bad Saulgau, Deutsch­land Direktvermitt",
+   "url": "https://touch.ferchau.com/de/de/job/523036/teamleitung-vertriebsinnendienst-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-26T15:24:55+00:00",
+   "kind": "new",
+   "site": "Paessler GmbH",
+   "title": "Manager Procurement",
+   "url": "https://jobs.paessler.com/Manager-Procurement-eng-j914.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T15:21:11+00:00",
+ "last_run": "2026-10-26T15:26:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
