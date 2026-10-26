@@ -1,5 +1,5 @@
 {
- "alerts": 25,
+ "alerts": 27,
  "commands_set": true,
  "events": [
   {
@@ -554,12 +554,19 @@
    "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
    "title": "Zum Stellenangebot",
    "url": "https://www.karriere.uk-erlangen.de/job/stationsleitung-wachsaal-frauenklinik-m-w-d-fk-ws-sl-2026-10-26"
+  },
+  {
+   "at": "2026-10-26T03:55:36+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/337?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/337?sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T03:40:51+00:00",
+ "last_run": "2026-10-26T03:55:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408924
 }
