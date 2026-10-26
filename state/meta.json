@@ -1,5 +1,5 @@
 {
- "alerts": 11,
+ "alerts": 12,
  "commands_set": true,
  "events": [
   {
@@ -211,12 +211,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Foundation IP Memory Verification Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Foundation-IP-Memory-Verification-Engineer_R027490?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T00:40:30+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New AR and Cash collection Lead Hwasung, Korea Finance",
+   "url": "https://www.asml.com/en/careers/find-your-job/ar-and-cash-collection-lead-j00354264"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T00:28:08+00:00",
+ "last_run": "2026-10-26T00:43:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 6,
+ "runs": 7,
  "tg_offset": 297408924
 }
