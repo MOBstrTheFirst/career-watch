@@ -1,14 +1,7 @@
 {
- "alerts": 422,
+ "alerts": 424,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:39:45+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter TGA Schwer­punkt Elek­tro­technik (m/w/d) in Direkt­ver­mitt­lung Job Hybrid Vollzeit 50.000 - 65.000 € Hamburg, Deutsch­land Direktver",
-   "url": "https://touch.ferchau.com/de/de/job/523951/projektleiter-tga-schwerpunkt-elektrotechnik-in-direktvermittlung"
-  },
   {
    "at": "2026-10-26T12:39:45+00:00",
    "kind": "new",
@@ -3501,12 +3494,22 @@
    "site": "TTTech Auto Germany",
    "title": "System Architect - Protocol Bridges",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/System-Architect---Protocol-Bridges_R-10066101?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T20:50:47+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production Control Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Nashville-Illinois-US/Production-Control-Supervisor_R00267328?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-10-26T20:25:49+00:00",
+ "last_missing_parts": [
+  1,
+  2
+ ],
+ "last_run": "2026-10-26T20:52:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
