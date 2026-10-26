@@ -1,14 +1,7 @@
 {
- "alerts": 406,
+ "alerts": 407,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:40:43+00:00",
-   "kind": "new",
-   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
-   "title": "Internship/Working Student (f/m/d) Digital Marketing Communication",
-   "url": "https://wlgore.jobs.hr.cloud.sap/job/InternshipWorking-Student-%28fmd%29-Digital-Marketing-Communication/2469-en_US"
-  },
   {
    "at": "2026-10-26T12:40:43+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Capgemini Engineering",
    "title": "ServiceNow Solution Architect (w/m/d) Muenchen, Berlin, Stuttgart, Koeln, Hamburg + 5 Architecture Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/379303-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-26T18:54:49+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Senior Solution Architect",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Tokyo-Japan/Solution-Architect_71007427-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T18:46:16+00:00",
+ "last_run": "2026-10-26T18:55:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
