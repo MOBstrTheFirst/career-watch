@@ -1,28 +1,7 @@
 {
- "alerts": 400,
+ "alerts": 403,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:14:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Spezialist Vertragsmanagement & Compliance (m/w/d) (Recht & Steuern) in 01069 Dresden Recht & Steuern 01069 Dresden vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/spezialist-vertragsmanagement-und-compliance-m-w-d-1"
-  },
-  {
-   "at": "2026-10-26T12:14:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Ingenieur für Prüf- und Testsysteme (m/w/d) in Direktvermittlung (Technik & Instandhaltung) in 23840 Bad Oldesloe Technik & Instandhaltung 23840 Bad O",
-   "url": "https://jobs.de.dis-ag.com/ingenieur-fuer-pruef-und-testsysteme-m-w-d-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-26T12:14:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kaufmännischer Servicemitarbeiter (m/w/d) in Cottbus (Sales & Vertrieb) in 03051 Cottbus Sales & Vertrieb 03051 Cottbus vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-servicemitarbeiter-m-w-d-in-cottbus-1"
-  },
   {
    "at": "2026-10-26T12:14:23+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "ASML – Erlangen",
    "title": "New Physics Informed Machine Learning Scientist San Diego, US Research and Technology Development",
    "url": "https://www.asml.com/en/careers/find-your-job/physics-informed-machine-learning-scientist-j00345223"
+  },
+  {
+   "at": "2026-10-26T18:17:09+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Structure Design Engineer - Approve (d/w/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bremen-Area/Structure-Design-Engineer---Approve--d-w-m-_JR10434548-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T18:17:15+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Qualitätsspezialist Endfertigung Avionik m/w/d",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualitaetsspezialist-endfertigung-avionik-m-w-d_251563-1707648.html"
+  },
+  {
+   "at": "2026-10-26T18:09:54+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/041d958e-a10f-4d20-aedd-08df298e6008"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T17:55:43+00:00",
+ "last_run": "2026-10-26T18:17:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
