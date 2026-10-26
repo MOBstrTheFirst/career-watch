@@ -1,5 +1,5 @@
 {
- "alerts": 5,
+ "alerts": 10,
  "commands_set": true,
  "events": [
   {
@@ -64,12 +64,152 @@
    "site": "TÜV NORD EnSys",
    "title": "Fahrzeugtechnik Fahrzeugbewerter:in / Schadengutachter:in Schleswig/Eckernförde Standort Kiel Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gese",
    "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fahrzeugbewerterin-schadengutachterin-schleswig-eckernfoerde-11999"
+  },
+  {
+   "at": "2026-10-26T00:10:05+00:00",
+   "kind": "new",
+   "site": "Dimplex (Glen Dimplex) – Kulmbach",
+   "title": "hier.",
+   "url": "https://karriere.glendimplex.de/datenschutz"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "possible",
+   "site": "Max Bögl",
+   "title": "Werkpolier (m/w/d) Hochbau",
+   "url": "https://jobportal.max-boegl.de/"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Praktikant/ Werksstudent für PMO strategische Sonderprojekte im Bereich Klimaschutz, Digitalisierung, Energiewende (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Praktikant-Werksstudent-fuer-PMO-strategische-Sonderprojek-de-j44.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Schülerpraktikum (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Schuelerpraktikum-mwd-de-j58.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Studentisches Praktikum (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Studentisches-Praktikum-mwd-de-j59.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Studium mit vertiefter Praxis",
+   "url": "https://jobs.stadtwerke-sw.de/Studium-mit-vertiefter-Praxis-de-j69.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Teamleiter technischer Vertrieb (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Teamleiter-technischer-Vertrieb-mwd-de-j91.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Trainee Regulierungsmanagement/ Bachelor Betriebswirtschaft/ Wirtschaftsingenieur (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Trainee-Regulierungsmanagement-Bachelor-Betriebswirtschaft-de-j35.html"
+  },
+  {
+   "at": "2026-10-26T00:09:58+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Werksstudent für den Service Technik (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Werksstudent-fuer-den-Service-Technik-mwd-de-j133.html"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) - hybrides Arbeiten (Sales & Vertrieb) in 45326 Essen Sales & Vertrieb 45326 Essen Homeoffice möglich vor ein",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-hybrides-arbeiten-5"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Technischer Einkäufer (m/w/d) (Handel) in 76611 Bruchsal Handel 76611 Bruchsal Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/technischer-einkaeufer-m-w-d-62"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Forderungsmanagement (m/w/d) - hybrides Arbeiten (Sales & Vertrieb) in 45468 Mülheim an der Ruhr Sales & Vertrieb 45468 Mülheim an der Ruh",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-forderungsmanagement-m-w-d-hybrides-arbeiten-1"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalreferent (m/w/d) (HR & Personalwesen) in 76218 Karlsruhe HR & Personalwesen 76218 Karlsruhe Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/personalreferent-m-w-d-88"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Zollsachbearbeiter (m/w/d) (Logistik & Transport) in 76137 Karlsruhe Logistik & Transport 76137 Karlsruhe Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/zollsachbearbeiter-m-w-d-16"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 76646 Bruchsal Rechnungswesen & Finanzen 76646 Bruchsal Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-286"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhaltungshilfe (m/w/d) (Rechnungswesen & Finanzen) in 75175 Oberkirch Rechnungswesen & Finanzen 75175 Oberkirch Homeoffice möglich vor einer Stunde",
+   "url": "https://jobs.de.dis-ag.com/buchhaltungshilfe-m-w-d-14"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Payroll Specialist / Lohn- und Gehaltsbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75181 Pforzheim Rechnungswesen & Finanzen 75181 Pforzheim Home",
+   "url": "https://jobs.de.dis-ag.com/payroll-specialist-lohn-und-gehaltsbuchhalter-m-w-d"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "System Engineer (m/w/d) - remote in der Direktvermittlung (Technik & Instandhaltung) in 24107 Kiel , 23552 Lübeck Technik & Instandhaltung 24107 Kiel ",
+   "url": "https://jobs.de.dis-ag.com/system-engineer-m-w-d-remote-in-der-direktvermittlung"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior IT-Administrator | Telekommunikation und Microsoft 365 (m/w/d) (IT & Software) in 10249 Berlin IT & Software 10249 Berlin Homeoffice möglich vo",
+   "url": "https://jobs.de.dis-ag.com/senior-it-administrator-telekommunikation-und-microsoft-365-m-w-d"
+  },
+  {
+   "at": "2026-10-26T00:10:43+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-hybrides-arbeiten-5/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-25T23:59:20+00:00",
+ "last_run": "2026-10-26T00:10:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 4,
+ "runs": 5,
  "tg_offset": 297408924
 }
