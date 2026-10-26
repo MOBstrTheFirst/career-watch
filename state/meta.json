@@ -1,14 +1,7 @@
 {
- "alerts": 432,
+ "alerts": 433,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 08233 Treuen, Vogtland 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZPU61H-schweisser-mwd_08233-treuen-vogtland"
-  },
   {
    "at": "2026-10-26T12:39:45+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "SI/PI Tech Project Manager",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/SI-PI-Tech-Project-Manager_R027497?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T22:25:17+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "SoC Integration and Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Mendota-Heights-Northland/SoC-Integration-and-Design-Engineer_R027218-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T22:21:54+00:00",
+ "last_run": "2026-10-26T22:26:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
