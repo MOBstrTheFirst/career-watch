@@ -1,5 +1,5 @@
 {
- "alerts": 41,
+ "alerts": 44,
  "commands_set": true,
  "events": [
   {
@@ -645,12 +645,61 @@
    "site": "DIS AG",
    "title": "Konstruktionsmechaniker (m/w/d) (Technik & Instandhaltung) in 39307 Tucheim Technik & Instandhaltung 39307 Tucheim vor 7 Stunden",
    "url": "https://jobs.de.dis-ag.com/konstruktionsmechaniker-m-w-d-10"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Senior Expert (f/m/d) for low-voltage power distribution solutions in data centers",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526432"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526432"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Senior Business developer (f/m/d) for international low-voltage power distribution projects",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526431"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526431"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Working Student (f/m/d) Solution Management",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522614"
+  },
+  {
+   "at": "2026-10-26T06:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F522614"
+  },
+  {
+   "at": "2026-10-26T06:55:06+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Projekteinkäufer (m/w/d) Berlin",
+   "url": "https://jobportal.max-boegl.de/Projekteinkaeufer-mwd-Berlin-de-j2325.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T06:42:41+00:00",
+ "last_run": "2026-10-26T06:55:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
