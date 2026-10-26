@@ -1,21 +1,7 @@
 {
- "alerts": 430,
+ "alerts": 432,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bilanzierungsverantwortlicher (m/w/d) 09111 Chemnitz, Sachsen 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/24UsQU-bilanzierungsverantwortlicher-mwd_09111-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-26T12:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Immobilienkaufmann (m/w/d) 09217 Burgstädt, Sachsen 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1o0b3b-immobilienkaufmann-mwd_09217-burgstaedt-sachsen"
-  },
   {
    "at": "2026-10-26T12:39:45+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "ASML – Erlangen",
    "title": "New Principal Scientist - Tin Management Architect San Diego, US Research and Technology Development",
    "url": "https://www.asml.com/en/careers/find-your-job/principal-scientist-tin-management-architect-j00351670"
+  },
+  {
+   "at": "2026-10-26T22:21:35+00:00",
+   "kind": "possible",
+   "site": "KPIT Technologies GmbH",
+   "title": "System Engineering - Technical Program Manager",
+   "url": "https://www.kpit.com/job-listing/"
+  },
+  {
+   "at": "2026-10-26T22:12:24+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "SI/PI Tech Project Manager",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/SI-PI-Tech-Project-Manager_R027497?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T22:05:19+00:00",
+ "last_run": "2026-10-26T22:21:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
