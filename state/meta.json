@@ -1,35 +1,7 @@
 {
- "alerts": 383,
+ "alerts": 385,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T11:25:04+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Sicher­heits­in­ge­nieur (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 75.000 € Ober­ko­chen, Deutsch­land Elektrotechnik Professionals Senior Professional",
-   "url": "https://touch.ferchau.com/de/de/job/525622/sicherheitsingenieur"
-  },
-  {
-   "at": "2026-10-26T11:25:04+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Arbeits­vor­be­reiter Trieb­werk (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 65.000 € Hardt­hausen am Kocher, Deutsch­land Luft- und Raumfahrttechnik Yo",
-   "url": "https://touch.ferchau.com/de/de/job/525613/arbeitsvorbereiter-triebwerk"
-  },
-  {
-   "at": "2026-10-26T11:25:04+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Ferti­gungs­steuerer bei Siemens (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Luhe-Wildenau, Deutsch­land Weitere Professionals ohne Personalver",
-   "url": "https://touch.ferchau.com/de/de/job/525610/fertigungssteuerer-bei-siemens"
-  },
-  {
-   "at": "2026-10-26T11:25:04+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Account Manager Engi­nee­ring (m/w/d) Job Hybrid Vollzeit 45.000 - 60.000 € Lohfelden, Deutsch­land Vertrieb Professionals Senior Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/507352/account-manager-engineering"
-  },
   {
    "at": "2026-10-26T11:25:04+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Produktionsmitarbeiter Pharmaindustrie (m/w/d) 39179 Barleben 26.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Dxnp3-produktionsmitarbeiter-pharmaindustrie-mwd_39179-barleben"
+  },
+  {
+   "at": "2026-10-26T16:54:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "26.10.2026 Industriemechaniker (m/w/d) in Bernau bei Berlin Bernau",
+   "url": "https://www.tempton.de/jobs/industriemechaniker-bernau-berlin"
+  },
+  {
+   "at": "2026-10-26T17:05:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsinnendienstmitarbeiter (m/w/d) (Sales & Vertrieb) in 74072 Heilbronn Sales & Vertrieb 74072 Heilbronn Homeoffice möglich vor 18 Stunden",
+   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-40"
+  },
+  {
+   "at": "2026-10-26T17:05:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Kreditorenbuchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 97944 Boxberg Rechnungswesen & Finanzen 97944 Boxberg vor 18 Stunden",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-kreditorenbuchhaltung-m-w-d-15"
+  },
+  {
+   "at": "2026-10-26T17:05:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-40/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T16:51:26+00:00",
+ "last_run": "2026-10-26T17:06:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
