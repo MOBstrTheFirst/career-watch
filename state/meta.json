@@ -1,21 +1,7 @@
 {
- "alerts": 399,
+ "alerts": 400,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:14:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Transportlogistik (m/w/d) (Logistik & Transport) in 01099 Dresden Logistik & Transport 01099 Dresden vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-transportlogistik-m-w-d"
-  },
-  {
-   "at": "2026-10-26T12:14:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Produktionscontroller (m/w/d) (Rechnungswesen & Finanzen) in 28359 Bremen Rechnungswesen & Finanzen 28359 Bremen Homeoffice möglich vor 13 Stunden",
-   "url": "https://jobs.de.dis-ag.com/produktionscontroller-m-w-d-28"
-  },
   {
    "at": "2026-10-26T12:14:23+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Diehl Defence (+5 more)",
    "title": "Diehl Controls Senior Engineer A&D (Aerospace & Defense) Hardwareentwicklung (m/w/d) 26.10.2026 Forschung/Entwicklung/Engineering Wangen im Allgäu",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/senior-engineer-a-d-aerospace-defense-hardwareentwicklung-m-w-d"
+  },
+  {
+   "at": "2026-10-26T17:55:10+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Goods Receiving & Shipping Associate / Mitarbeiter:in Wareneingang & Warenausgang Berlin, Germany Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/goods-receiving-shipping-associate--mitarbeiterin-wareneingang-warenausgang-j00356010"
+  },
+  {
+   "at": "2026-10-26T17:55:10+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Physics Informed Machine Learning Scientist San Diego, US Research and Technology Development",
+   "url": "https://www.asml.com/en/careers/find-your-job/physics-informed-machine-learning-scientist-j00345223"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T17:40:22+00:00",
+ "last_run": "2026-10-26T17:55:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
