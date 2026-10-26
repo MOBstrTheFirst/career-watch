@@ -1,210 +1,7 @@
 {
- "alerts": 176,
+ "alerts": 188,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Industriemechaniker (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wetzlar-Industriemechaniker-%28wmd%29-35578/1362648855"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "ILS Manager (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-ILS-Manager-%28wmd%29-82256/1359204955"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Deployment Manager Software Engineering (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Deployment-Manager-Software-Engineering-%28wmd%29-26389/1359194755"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Professional IT Betrieb & Administration / IT-Systemintegrator (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Professional-IT-Betrieb-&-Administration-IT-Systemintegrator-%28wmd%29-82256/1359200255"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Grafik, Social Media & Content Creation (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Grafik%2C-Social-Media-&-Content-Creation-%28wmd%29-73447/1359199655"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Entwicklungsingenieur für elektrische Konstruktion (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Entwicklungsingenieur-f%C3%BCr-elektrische-Konstruktion-%28wmd%29-82024/1359248955"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Werkstudent Unterstützung Standortassistenz im Bereich Entwicklung (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Unterst%C3%BCtzung-Standortassistenz-im-Bereich-Entwicklung-%28mwd%29-73447/1359170355"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Quality Manager Service & Training (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Quality-Manager-Service-&-Training-%28wmd%29-89077/1354311455"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Fachkraft für den Bereich elektromagnetische Bauelemente (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Fachkraft-f%C3%BCr-den-Bereich-elektromagnetische-Bauelemente-%28wmd%29-89077/1359223955"
-  },
-  {
-   "at": "2026-10-26T02:12:33+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "System Engineer Counter-UAS Design & Requirements (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-System-Engineer-Counter-UAS-Design-&-Requirements-%28mwd%29-82256/1359222355"
-  },
-  {
-   "at": "2026-10-26T02:09:53+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "RF IC Design and System Simulation Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Korea-Seoul-HiBrand/RF-IC-Design-and-System-Simulation-Engineer_R027505?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T02:24:52+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Verfahrensmechaniker / Maschinenführer als Anlagenbediener (m/w/d) Schlauchextrusion",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Verfahrensmechaniker-Maschinenf%C3%BChrer-als-Anlagenbediener-%28mwd%29-Schlauchextrusion/1410853633"
-  },
-  {
-   "at": "2026-10-26T02:24:52+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Produktionshelfer (m/w/d) Schlauchextrusion",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Produktionshelfer-%28mwd%29-Schlauchextrusion/1421164633"
-  },
-  {
-   "at": "2026-10-26T02:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Praktikant (m/w/d) Entwicklung Fahrerassistenzsysteme (ADAS)",
-   "url": "https://jobs.avl.com/job/Wolfsburg-Praktikant-%28mwd%29-Entwicklung-Fahrerassistenzsysteme-%28ADAS%29/1410826633"
-  },
-  {
-   "at": "2026-10-26T02:25:13+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "B.Eng. Mechatronik (m/w/d) - Stammbereich Produktentwicklung Messtechnik ab 01.09.2027 in Hannover",
-   "url": "https://jobs.zf.com/job/Hannover-B_Eng_-Mechatronik-%28mwd%29-Stammbereich-Produktentwicklung-Messtechnik-ab-01_09_2027-in-Hannover-NI-30453/1421099633"
-  },
-  {
-   "at": "2026-10-26T02:39:46+00:00",
-   "kind": "new",
-   "site": "GE HealthCare – Wendelstein",
-   "title": "Senior Staff AI Application Engineer",
-   "url": "https://careers.gehealthcare.com/global/en/job/R4045713/Senior-Staff-AI-Application-Engineer"
-  },
-  {
-   "at": "2026-10-26T03:00:26+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "Werkstudent (w/m/d) im Publikumsservice",
-   "url": "https://jobs.br.de/Vacancies/1405/Description/1"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Application Engineer 应用工程师 - 光刻方向 Wuhan, China Applications Engineering",
-   "url": "https://www.asml.com/en/careers/find-your-job/application-engineer---j00345396"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Lead Engi­neer (m/w/d) Maschi­nenbau Job Hybrid Vollzeit 60.000 - 75.000 € Aachen, Deutsch­land Maschinenbau Pharma und Lifescience Weitere Profession",
-   "url": "https://touch.ferchau.com/de/de/job/242770/lead-engineer-maschinenbau"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Sonder­ma­schi­nenbau für Halb­lei­ter­an­lagen (m/w/d) Job Hybrid Vollzeit 55.000 - 65.000 € Aachen, Deutsch­land Anlagenbau Elektrotec",
-   "url": "https://touch.ferchau.com/de/de/job/264304/konstrukteur-sondermaschinenbau-fuer-halbleiteranlagen"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Supply Chain Manager (m/w/d) Job Hybrid Vollzeit 50.000 - 60.000 € Gütersloh, Deutsch­land Backoffice Professionals Senior Professionals ohne Personal",
-   "url": "https://touch.ferchau.com/de/de/job/287692/supply-chain-manager"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Java-Entwickler (m/w/d) Job Hybrid Vollzeit 43.000 - 53.000 € Biele­feld, Deutsch­land Informationstechnik Professionals Senior Professionals ohne Per",
-   "url": "https://touch.ferchau.com/de/de/job/293854/java-entwickler"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "SAP Deve­loper (m/w/d) Job Hybrid Vollzeit 55.000 - 70.000 € Leipzig, Deutsch­land Informationstechnik Young Professionals Professionals ohne Personal",
-   "url": "https://touch.ferchau.com/de/de/job/484636/sap-developer"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Kauf­män­ni­scher Mitar­beiter (m/w/d) Job Hybrid Vollzeit 40.000 - 65.000 € Augs­burg, Deutsch­land Vertrieb Young Professionals Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/486772/kaufmaennischer-mitarbeiter"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Supply Chain Manager (m/w/d) Job Hybrid Vollzeit 40.000 - 47.000 € Hamm, Deutsch­land Anlagenbau Maschinenbau Weitere Young Professionals Professional",
-   "url": "https://touch.ferchau.com/de/de/job/500956/supply-chain-manager"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Manager Künst­liche Intel­li­genz Gover­nance (m/w/d) Job Vor Ort Vollzeit 70.000 - 90.000 € Fried­richs­hafen, Deutsch­land Weitere Senior Profession",
-   "url": "https://touch.ferchau.com/de/de/job/512314/manager-kuenstliche-intelligenz-governance"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Program­mierer Gebäu­de­au­to­ma­tion (m/w/d) Job Hybrid Vollzeit 60.000 - 75.000 € Kulm­bach, Deutsch­land Weitere Professionals Senior Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/513895/programmierer-gebaeudeautomation"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Sach­be­ar­beiter Team­center/SAP (m/w/d) Job Hybrid Vollzeit 45.000 - 55.000 € Emden, Deutsch­land Maschinenbau Schiffbau und Meerestec",
-   "url": "https://touch.ferchau.com/de/de/job/514006/technischer-sachbearbeiter-teamcenter-sap"
-  },
-  {
-   "at": "2026-10-26T03:25:24+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "SAP HCM Appli­ca­tion Manager (m/w/d) Job Hybrid Vollzeit 70.000 - 90.000 € Siegs­dorf, Deutsch­land Informationstechnik Maschinenbau Professionals Se",
-   "url": "https://touch.ferchau.com/de/de/job/516259/sap-hcm-application-manager"
-  },
   {
    "at": "2026-10-26T03:25:24+00:00",
    "kind": "new",
@@ -3501,14 +3298,215 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/referent-fuer-oeffentlichkeitsarbeit-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Informatik mit Schwerpunkt Künstliche Intelligenz (KI) und EHS-Digitalisierung",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526912"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526912"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Projektcontrolling Elektrofahrzeuge (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Elektrotechnik (m/w/d) Berufseinsteiger Leipzig Neu",
+   "url": "https://karriere.omexom.de/jobs/45543787/Bauleiter-Elektrotechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektroniker Umspannwerke (m/w/d) Berufseinsteiger Berlin Neu",
+   "url": "https://karriere.omexom.de/jobs/49180503/Elektroniker-Umspannwerke-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Projektleiter Elektrotechnik (m/w/d) Berufserfahrene Rutesheim Neu",
+   "url": "https://karriere.omexom.de/jobs/56587944/Projektleiter-Elektrotechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektroniker Anlagenaufbereitung (m/w/d) Berufseinsteiger Dortmund Neu",
+   "url": "https://karriere.omexom.de/jobs/60997187/Elektroniker-Anlagenaufbereitung-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Primärplaner Elektrotechnik (m/w/d) Berufserfahrene Leipzig Neu",
+   "url": "https://karriere.omexom.de/jobs/61631577/Prim%C3%A4rplaner-Elektrotechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleiter Elektrotechnik(m/w/d) Berufserfahrene Frankfurt am Main Neu",
+   "url": "https://karriere.omexom.de/jobs/61633002/Bauleiter-Elektrotechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Bauleitender Monteur / Bauleiter Umspannwerke (m/w/d) Berufseinsteiger Schwerin Neu",
+   "url": "https://karriere.omexom.de/jobs/62241879/Bauleitender-Monteur-Bauleiter-Umspannwerke-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur Schaltanlagen (m/w/d) Berufseinsteiger Hamburg + 2 Neu",
+   "url": "https://karriere.omexom.de/jobs/62250694/Elektromonteur-Schaltanlagen-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:32+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Elektromonteur Umspannwerke (m/w/d) Berufseinsteiger Spreetal + 4 Neu",
+   "url": "https://karriere.omexom.de/jobs/62362744/Elektromonteur-Umspannwerke-m-w-d-"
+  },
+  {
+   "at": "2026-10-26T11:10:59+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Ausbildung zum Industriekaufmann (m/w/d)",
+   "url": "https://career.skf.com/job/Berlin-Ausbildung-zum-Industriekaufmann-%28mwd%29/1451174133"
+  },
+  {
+   "at": "2026-10-26T11:10:59+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "26.10.2026 Bilanzbuchhalter (m/w/d) Plattling",
+   "url": "https://www.tempton.de/jobs/bilanzbuchhalter-53"
+  },
+  {
+   "at": "2026-10-26T11:09:54+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Schichtleiter (m/w/d) Produktion Spannglieder",
+   "url": "https://jobportal.max-boegl.de/Schichtleiter-mwd-Produktion-Spannglieder-de-j2342.html"
+  },
+  {
+   "at": "2026-10-26T11:09:54+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Junior Planungskoordinator (m/w/d) Infrastruktur",
+   "url": "https://jobportal.max-boegl.de/Junior-Planungskoordinator-mwd-Infrastruktur-de-j2334.html"
+  },
+  {
+   "at": "2026-10-26T11:09:54+00:00",
+   "kind": "possible",
+   "site": "Siegert electronic",
+   "title": "Kolektor Mobility once again takes part in the EMC Student Challenge",
+   "url": "https://www.kolektor.com/career"
+  },
+  {
+   "at": "2026-10-26T11:09:54+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Finanzen & Controlling Buchhalter:in Finanzbuchhaltung - Bereich Nebenbücher Standort Essen Arbeitszeitmodell Vollzeit Anstellung – befristet Gesellsc",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/buchhalterin-finanzbuchhaltung-bereich-nebenbuecher--12015"
+  },
+  {
+   "at": "2026-10-26T11:09:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener Produktion (m/w) 92421 Schwandorf, Bayern 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2qVFVl-maschinenbediener-produktion-mw_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Embedded Software Engineer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506238/embedded-software-engineer-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "C++ Softwareentwickler (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506420/c++-softwareentwickler-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Softwareentwickler Vetronics-Systeme (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507141/softwareentwickler-vetronics-systeme-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Requirements Engineer Funktionale Sicherheit (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507142/requirements-engineer-funktionale-sicherheit-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "FPGA Entwickler (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507143/fpga-entwickler-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Mechanical Design Engineer - CATIA V5 (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507272/mechanical-design-engineer-catia-v5-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Qualitätsprüfer (m/w/d) (Produktion & Fertigung) in 95030 Hof Produktion & Fertigung 95030 Hof vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/qualitaetspruefer-m-w-d-6"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) in Voll- oder Teilzeit (Rechnungswesen & Finanzen) in 65193 Wiesbaden Rechnungswesen & Finanzen 65193 Wiesbaden Homeoffice mö",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-in-voll-oder-teilzeit-6"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Hof",
+   "url": "https://jobs.de.dis-ag.com/suche/in-hof"
+  },
+  {
+   "at": "2026-10-26T11:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/qualitaetspruefer-m-w-d-6/bewerben"
   }
  ],
- "last_missing_parts": [
-  1
- ],
- "last_run": "2026-10-26T11:06:41+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-10-26T11:11:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
