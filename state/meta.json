@@ -1,245 +1,7 @@
 {
- "alerts": 324,
+ "alerts": 339,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T10:10:58+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Projektingenieur Umspannwerke (m/w/d) Berufseinsteiger Berlin Neu",
-   "url": "https://karriere.omexom.de/jobs/66885935/Projektingenieur-Umspannwerke-m-w-d-"
-  },
-  {
-   "at": "2026-10-26T10:10:58+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauplaner Umspannwerke / Hochspannungsschaltanlagen (m/w/d) Berufserfahrene Rutesheim Neu",
-   "url": "https://karriere.omexom.de/jobs/67170565/Bauplaner-Umspannwerke-Hochspannungsschaltanlagen-m-w-d-"
-  },
-  {
-   "at": "2026-10-26T10:10:58+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Servicetechniker Umspannwerke (m/w/d) Berufserfahrene Berlin Neu",
-   "url": "https://karriere.omexom.de/jobs/67311910/Servicetechniker-Umspannwerke-m-w-d-"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Praktikum \"Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern\" (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Praktikum--Automatisierung-eines-Messplatzes-fr-die-nchste-Generation-TT-C-Transpondern---d-m-w-_JR10432660-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Specialist System Application Engineer – Robotics (f/m/div) München HRC1820358 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972165823"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal System Application Engineer - ADAS/AD Compute (f/m/div) Padua (Padova) HRC1787227 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972100106"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer PSU System Application Xi'an + 1 more HRC1705122",
-   "url": "https://jobs.infineon.com/careers/job/563808971532682"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal System Application Engineer Chassis Shanghai + 1 more HRC1254204",
-   "url": "https://jobs.infineon.com/careers/job/563808960095373"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Industrial Power System Application Engineer Seoul HRC1145649 Flexible Lage",
-   "url": "https://jobs.infineon.com/careers/job/563808957852893"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer System Application Engineering Shenzhen HRC1764065",
-   "url": "https://jobs.infineon.com/careers/job/563808971873314"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer System Application Engineering Taipeh HRC1652812",
-   "url": "https://jobs.infineon.com/careers/job/563808971122356"
-  },
-  {
-   "at": "2026-10-26T10:10:01+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Application Engineer, DC/DC Firmware Development Xi'an, 西安 + 1 more HRC1788801",
-   "url": "https://jobs.infineon.com/careers/job/563808971955665"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Logistikkoordinator (m/w/d) für den Bereich Zentrallager",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/logistikkoordinator-m-w-d-fuer-den-bereich-zentrallager_251563-1707008.html"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior IT Business Analyst (w/m/d) Berlin Business Analysis Unbefristet Studierende/Absolvent*innen",
-   "url": "https://www.capgemini.com/de-de/jobs/575129-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Senior DevOps Engineer Schwerpunkt KI im CERT (m/w/d) in Bonn, München oder Münster",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-devops-engineer-schwerpunkt-ki-im-cert-m-w-d-71019"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Anlagenführer (m/w/d) Steinbruch Wiesenhofen",
-   "url": "https://jobportal.max-boegl.de/Anlagenfuehrer-mwd-Steinbruch-Wiesenhofen-de-j2333.html"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Qualität (m/w/d) 85368 Moosburg an der Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1t5VNg-mitarbeiter-qualitaet-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 84032 Altdorf, Niederbayern 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZGwWbh-schweisser-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Fachkraft (m/w/d) 84028 Landshut, Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/IapqL-cnc-fachkraft-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lackierer (m/w/d) 84079 Bruckberg, Niederbayern 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1GA1jR-lackierer-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenmechaniker (m/w/d) 84079 Bruckberg, Niederbayern 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1eC2ep-anlagenmechaniker-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 85368 Moosburg an der Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Y6STi-produktionshelfer-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 84028 Landshut, Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1sn3o-lagerhelfer-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gießereimechaniker (m/w/d) 84109 Wörth an der Isar 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zyxs61-giessereimechaniker-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 84137 Vilsbiburg 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZV0QLE-industriemechaniker-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-26T10:09:38+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ - Mechatroniker (m/w/d) 84032 Altdorf, Niederbayern 26.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/I1tBS-kfz-mechatroniker-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Praktikum - Treasury & Tax sowie Werkscontrolling (80:20) (m/w/d)",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/47b91959-ec25-4305-8820-aa90b07c139c?cHash=701ceb1dda6bdf0d4de36c8129ec38948e5e5b86b8dddb79d94d5622663ba346"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Assistenz Export (m/w/d) – Exportabwicklung, Zoll & Außenhandel",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507271/assistenz-export-(m-w-d)-%E2%80%93-exportabwicklung,-zoll-aussenhandel"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/24de3fc3-42b4-4802-aedc-08df298e6008"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/1d44fb9d-70a5-491d-4859-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/7814895c-d889-4714-485a-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/bc67e761-e87f-4f4b-485b-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/4c9e0784-3ad6-441c-485c-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-26T10:10:21+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Werkscontroller (m/w/d) (Rechnungswesen & Finanzen) in 90402 Nürnberg Rechnungswesen & Finanzen 90402 Nürnberg Homeoffice möglich vor 11 Stunden",
-   "url": "https://jobs.de.dis-ag.com/werkscontroller-m-w-d-27"
-  },
   {
    "at": "2026-10-26T10:10:21+00:00",
    "kind": "new",
@@ -3501,12 +3263,250 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-drehen-und-oder-fraesen/bewerben"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Leiter Procurement Operations (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Leiter-Procurement-Operations-w-m-d/305859"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Brose Fahrzeugteile",
+   "title": "Duales Studium Allgemeines Wirtschaftsingenieurwesen (B.Eng.) DHBW - 2027 Deutschland, Wuppertal Dual Studies Apprenticeship",
+   "url": "https://www.brose.com/de-de/karriere/job-duales-studium-wirtschaftsingenieurwesenbeng-dhbw-2027-wup-9524.html"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "MANUFACTURING ENGINEER III",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19047?c=hella"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fahrer (m/w/d) für Kleinbus / Mitarbeitertransfer",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018nnthQAA"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fahrer (m/w/d) für Kleinbus / Mitarbeitertransfer",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018nmZRQAY"
+  },
+  {
+   "at": "2026-10-26T15:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fahrer (m/w/d) für Kleinbus / Mitarbeitertransfer",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018mq8wQAA"
+  },
+  {
+   "at": "2026-10-26T15:10:04+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "FullStack Software Developer (Java/Angular)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/FullStack-Software-Developer--Java-Angular-_JR10441654-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:10:04+00:00",
+   "kind": "new",
+   "site": "Stäubli Bayreuth / Stäubli Tec-Systems",
+   "title": "Operativer Einkäufer (m/w/d) für technische Komponenten - Fluid Connectors Full-time",
+   "url": "https://jobs.smartrecruiters.com/StaubliGroup/744000157796973-operativer-einkaufer-m-w-d-fur-technische-komponenten-fluid-connectors"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing Product Transfer Manager Wilton, US Projects, Programs and Change",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-product-transfer-manager-j00355462"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CNC Optical Fabrication Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)15% Differential ",
+   "url": "https://www.asml.com/en/careers/find-your-job/cnc-optical-fabrication-technician-cww-back-end-nights-600-pm--600-am-wednesday-thursday-friday-and-every-other-saturday-15-differential-j00355590"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Facilities Infrastructure Project Leader Wilton, US Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/facilities-infrastructure-project-leader-j00355713"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Metal Fabricator",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Brampton-Ontario-CA/Metal-Fabricator_R00214491?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Lead Robotic Technician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Lead-Robotic-Technician_R00238100?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "AME Assembly Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Ramos-MX/AME-Assembly-Engineer_R00267292?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Technician, Robotics",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Brampton-Ontario-CA/Technician--Robotics_R00214481-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Robotic Technician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Robotic-Technician_R00238101-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Pipefitter Steamfitter",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Brampton-Ontario-CA/Pipefitter-Steamfitter_R00214497?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:19:50+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer Kantine (m/w/d) 90762 Fürth, Bayern 26.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1rQ5EP-helfer-kantine-mwd_90762-fuerth-bayern"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Networks CNS Intern Plano,Texas,United States Service Delivery Hybrid Gepostete vor 11 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777071349"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Infra Systems Expert Bangalore,Karnataka,India Service Delivery Gepostete vor 7 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777428978"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "HR Intern Tetla de la Solidaridad,Tlaxcala,Mexico HR Gepostete vor 5 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777228916"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/personalsachbearbeiter-m-w-d-14061"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "AI Software Developer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/AI-Software-Developer_R-10065930-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Spezialist Raumfahrtequipment (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/503562/spezialist-raumfahrtequipment-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Entwicklungsingenieur Elektronik Naval Solutions (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/504699/entwicklungsingenieur-elektronik-naval-solutions-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Projektleiter im Bereich Product Services (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506490/projektleiter-im-bereich-product-services-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Konfigurationsmanager (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506809/konfigurationsmanager-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Generative AI / Agentic AI Engineer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506821/generative-ai-agentic-ai-engineer-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Elektroniker für Geräte und Systeme (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/506944/elektroniker-fuer-geraete-und-systeme-(all-gender)"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industrielackierer für Schienenfahrzeuge (m/w/d) (Technik & Instandhaltung) in 47829 Krefeld , 47058 Duisburg , 47906 Kempen , 47441 Moers Technik & I",
+   "url": "https://jobs.de.dis-ag.com/industrielackierer-fuer-schienenfahrzeuge-m-w-d"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Leitung (m/w/d) (IT & Software) in 16761 Hennigsdorf IT & Software 16761 Hennigsdorf Homeoffice möglich vor 16 Stunden",
+   "url": "https://jobs.de.dis-ag.com/it-leitung-m-w-d-2"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Kempen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-kempen"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Moers",
+   "url": "https://jobs.de.dis-ag.com/suche/in-moers"
+  },
+  {
+   "at": "2026-10-26T15:20:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/industrielackierer-fuer-schienenfahrzeuge-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T15:05:25+00:00",
+ "last_run": "2026-10-26T15:21:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
