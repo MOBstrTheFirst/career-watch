@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 41,
  "commands_set": true,
  "events": [
   {
@@ -631,12 +631,26 @@
    "site": "DIS AG",
    "title": "Maschinenbauingenieur (m/w/d) (Produktion & Fertigung) in 39288 Burg Produktion & Fertigung 39288 Burg vor 7 Stunden",
    "url": "https://jobs.de.dis-ag.com/maschinenbauingenieur-m-w-d"
+  },
+  {
+   "at": "2026-10-26T06:40:37+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Sachbearbeiter (m/w/d) Finanzbuchhaltung",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018hp8bQAA"
+  },
+  {
+   "at": "2026-10-26T06:42:27+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Konstruktionsmechaniker (m/w/d) (Technik & Instandhaltung) in 39307 Tucheim Technik & Instandhaltung 39307 Tucheim vor 7 Stunden",
+   "url": "https://jobs.de.dis-ag.com/konstruktionsmechaniker-m-w-d-10"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T06:28:12+00:00",
+ "last_run": "2026-10-26T06:42:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
