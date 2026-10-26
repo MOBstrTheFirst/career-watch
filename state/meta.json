@@ -1,5 +1,5 @@
 {
- "alerts": 12,
+ "alerts": 13,
  "commands_set": true,
  "events": [
   {
@@ -218,12 +218,19 @@
    "site": "ASML – Erlangen",
    "title": "New AR and Cash collection Lead Hwasung, Korea Finance",
    "url": "https://www.asml.com/en/careers/find-your-job/ar-and-cash-collection-lead-j00354264"
+  },
+  {
+   "at": "2026-10-26T01:28:19+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Senior Solution Integrator Noida,Uttar Pradesh,India + 3 more Service Delivery Gepostete vor 5 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121775640609"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T01:10:45+00:00",
+ "last_run": "2026-10-26T01:28:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
