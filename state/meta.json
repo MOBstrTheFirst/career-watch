@@ -1,70 +1,7 @@
 {
- "alerts": 198,
+ "alerts": 204,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T03:55:36+00:00",
-   "kind": "new",
-   "site": "OMICRON electronics Deutschland",
-   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/337?sortBy=POSTING_DATES_DESC",
-   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/337?sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-26T04:55:04+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "R & D Software Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027034?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T04:55:04+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Design Engineer, Digital IP",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Design-Engineer--Digital-IP_R-10067376?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-26T05:09:59+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Senior Financial Specialist, Factory Finance Pyeong-Taek, Korea Finance",
-   "url": "https://www.asml.com/en/careers/find-your-job/senior-financial-specialist-factory-finance-j00354756"
-  },
-  {
-   "at": "2026-10-26T05:44:05+00:00",
-   "kind": "new",
-   "site": "WAREMA Renkhoff",
-   "title": "Mitarbeiter Elektronikfertigung (m/w/d)",
-   "url": "https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000157723238-mitarbeiter-elektronikfertigung-m-w-d-?trid=3668f978-a6e3-4d6f-b37f-3f777f107ea5"
-  },
-  {
-   "at": "2026-10-26T05:43:26+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Applications Engineer Yokkaichi, Japan Applications Engineering",
-   "url": "https://www.asml.com/en/careers/find-your-job/applications-engineer-j00355254"
-  },
-  {
-   "at": "2026-10-26T05:56:21+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "PLC Commissioning Technician Teunz, Germany Installation / Commissioning Recent Graduates",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/plc-commissioning-technician-1060"
-  },
-  {
-   "at": "2026-10-26T06:26:07+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Office & Teamkoordination",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519428"
-  },
-  {
-   "at": "2026-10-26T06:26:07+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F519428"
-  },
   {
    "at": "2026-10-26T06:24:48+00:00",
    "kind": "new",
@@ -3501,12 +3438,75 @@
    "site": "Telefónica Germany – Nürnberg",
    "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Wiesbaden",
    "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Wiesbaden-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Wiesbaden-HE-65185/1451184733"
+  },
+  {
+   "at": "2026-10-26T11:45:30+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "Customer Order Specialist",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19043?c=hella"
+  },
+  {
+   "at": "2026-10-26T11:45:45+00:00",
+   "kind": "new",
+   "site": "MKS Instruments (Atotech) – Feucht",
+   "title": "Industriemechaniker (m/w/d) 3D-Druck / Kunststoffbehälterbau (befristet auf 1 Jahr)",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Feucht/Industriemechaniker--m-w-d--3D-Druck---Kunststoffbehlterbau--befristet-auf-1-Jahr-_R21567?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T11:45:45+00:00",
+   "kind": "new",
+   "site": "SGB-SMIT Group – Regensburg",
+   "title": "https://www.sgb-smit.com/de/jobs-karriere/offene-stellen?cHash=6945ffda29a8212fd54192ac0777cfa5",
+   "url": "https://www.sgb-smit.com/de/jobs-karriere/offene-stellen?cHash=6945ffda29a8212fd54192ac0777cfa5"
+  },
+  {
+   "at": "2026-10-26T11:44:48+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Werkstudent Customer Enablement Learning & Development (m/w/d) ab sofort in Bonn, Hannover, Köln oder München.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/werkstudent-customer-enablement-learning-development-m-w-d-71023"
+  },
+  {
+   "at": "2026-10-26T11:44:59+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Compliance Officer Medan,North Sumatra,Indonesia + 6 more Recht, Patente und Compliance Gepostete vor 22 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777443008"
+  },
+  {
+   "at": "2026-10-26T11:44:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 28359 Bremen Rechnungswesen & Finanzen 28359 Bremen vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-352"
+  },
+  {
+   "at": "2026-10-26T11:44:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Werkzeugmechaniker (m/w/d) (Technik & Instandhaltung) in 09116 Chemnitz Technik & Instandhaltung 09116 Chemnitz vor 12 Stunden",
+   "url": "https://jobs.de.dis-ag.com/werkzeugmechaniker-m-w-d-16"
+  },
+  {
+   "at": "2026-10-26T11:44:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Bremen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-bremen"
+  },
+  {
+   "at": "2026-10-26T11:44:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-352/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T11:36:12+00:00",
+ "last_run": "2026-10-26T11:45:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
