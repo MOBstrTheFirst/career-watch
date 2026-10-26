@@ -1,35 +1,7 @@
 {
- "alerts": 412,
+ "alerts": 416,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T12:40:43+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Production Planner",
-   "url": "https://jobs.sanmina.com/jobs/18402826-production-planner"
-  },
-  {
-   "at": "2026-10-26T12:40:43+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Elektromonteur Energietechnik (m/w/d) Berufserfahrene Biblis + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/62185409/Elektromonteur-Energietechnik-m-w-d-"
-  },
-  {
-   "at": "2026-10-26T12:40:43+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Bauleiter Montage (m/w/d) Berufserfahrene Biblis + 4 Neu",
-   "url": "https://karriere.omexom.de/jobs/62193584/Bauleiter-Montage-m-w-d-"
-  },
-  {
-   "at": "2026-10-26T12:40:43+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Technischer Sachbearbeiter / Projektingenieur Elektrotechnik (m/w/d) Berufserfahrene Deutschland Neu",
-   "url": "https://karriere.omexom.de/jobs/62184699/Technischer-Sachbearbeiter-Projektingenieur-Elektrotechnik-m-w-d-"
-  },
   {
    "at": "2026-10-26T12:40:43+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Automation Maintenance Technician",
    "url": "https://www.pgcareers.com/de/en/job/R000161638/Automation-Maintenance-Technician"
+  },
+  {
+   "at": "2026-10-26T19:50:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Material Handler 3 San Diego, US Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/material-handler-3-j00355820"
+  },
+  {
+   "at": "2026-10-26T19:50:37+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "Projektingenieur:in Service",
+   "url": "https://jobs.koenig-bauer.com/job/Radebeul-Projektingenieurin-Service/1451423333"
+  },
+  {
+   "at": "2026-10-26T19:39:46+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Logic Design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Logic-Design-Engineer_R-10067397?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-26T19:39:46+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "NPI Program Manager - Automotive Processors",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/NPI-Program-Manager---Automotive-Processors_R-10062290-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-26T19:25:58+00:00",
+ "last_run": "2026-10-26T19:50:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-25",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
