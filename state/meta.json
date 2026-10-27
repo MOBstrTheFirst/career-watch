@@ -1,35 +1,7 @@
 {
- "alerts": 415,
+ "alerts": 418,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T11:25:03+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Lead Soft­ware Deve­loper C++/Qt (m/w/d) Job Vor Ort Vollzeit 55.000 - 65.000 € Bremen, Deutsch­land Informationstechnik Weitere Young Professionals P",
-   "url": "https://touch.ferchau.com/de/de/job/519787/lead-software-developer-c-qt"
-  },
-  {
-   "at": "2026-10-27T11:25:03+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­ent­wickler Java / C# / Python (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Bremen, Deutsch­land Personal Young Professionals Professional",
-   "url": "https://touch.ferchau.com/de/de/job/519820/softwareentwickler-java-c-python"
-  },
-  {
-   "at": "2026-10-27T11:25:03+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Trans­port- und Logis­tik­ko­or­di­nator (m/w/d) Neu Job Hybrid Vollzeit 42.000 - 60.000 € Lever­kusen, Deutsch­land Backoffice Professionals ohne Per",
-   "url": "https://touch.ferchau.com/de/de/job/525757/transport-und-logistikkoordinator"
-  },
-  {
-   "at": "2026-10-27T11:25:03+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "C++ Soft­ware­ent­wickler Auto­ma­ti­sie­rungs­technik (m/w/d) Job Vor Ort Vollzeit 60.000 - 80.000 € Bremen, Deutsch­land Personal Young Professional",
-   "url": "https://touch.ferchau.com/de/de/job/519847/c-softwareentwickler-automatisierungstechnik"
-  },
   {
    "at": "2026-10-27T11:25:03+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Broadcom – Regensburg",
    "title": "Senior IC Validation Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Senior-IC-Validation-Engineer_R027526-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T19:10:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Mechanical Assembler Lead",
+   "url": "https://jobs.sanmina.com/jobs/18315796-mechanical-assembler-lead"
+  },
+  {
+   "at": "2026-10-27T19:10:50+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Stockroom Clerk",
+   "url": "https://jobs.sanmina.com/jobs/18411307-stockroom-clerk"
+  },
+  {
+   "at": "2026-10-27T19:10:16+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Aftersales Coordintor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Carrollton-Georgia-US/Aftersales-Coordintor_R00267321?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T19:10:16+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sr. Specialist, Health & Safety",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Carrollton-Georgia-US/Sr-Specialist--Health---Safety_R00267624-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T18:56:07+00:00",
+ "last_run": "2026-10-27T19:19:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
