@@ -1,14 +1,7 @@
 {
- "alerts": 423,
+ "alerts": 425,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T11:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Eisenbach (Hochschwarzwald)",
-   "url": "https://jobs.de.dis-ag.com/suche/in-eisenbach-hochschwarzwald"
-  },
   {
    "at": "2026-10-27T11:24:54+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
    "title": "Security Administrator Others Experienced and Graduates Giesecke+Devrient ePayments Canada, Inc. Markham, ON, CA",
    "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27937-en-US"
+  },
+  {
+   "at": "2026-10-27T19:54:49+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Sales Representative / Representante de ventas",
+   "url": "https://careers.primetals.com/global/en/job/P-100076/Sales-Representative-Representante-de-ventas"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T19:40:56+00:00",
+ "last_run": "2026-10-27T19:56:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
