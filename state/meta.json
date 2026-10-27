@@ -1,126 +1,7 @@
 {
- "alerts": 219,
+ "alerts": 225,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur tuyauterie F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-tuyauterie-f-h-ref-2026-28106"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Projeteur mécanique 3D F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-projeteur-mecanique-3d-f-h-ref-2026-28105"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage -Ingénieur calculs tuyauterie F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-calculs-tuyauterie-f-h-ref-2026-28104"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – IA Soudage Auto-Adaptatif F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ia-soudage-auto-adaptatif-f-h-ref-2026-28077"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien bureau d’études – Naval F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-bureau-detudes-naval-f-h-ref-2026-28074"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur de calcul mécanique – Analyse en fatigue des soudures du Pressuriseur F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-de-calcul-mecanique-analyse-en-fatigue-des-soudures-du-pressuriseur-f-h-ref-2026-28065"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien de Maintenance infrastructure bâtiment F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-de-maintenance-infrastructure-batiment-f-h-ref-2026-28073"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable technique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-technique-f-h-ref-2026-28168"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur – Produit Inspection Télévisuelle F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-produit-inspection-televisuelle-f-h-ref-2026-28062"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Contrôleur de gestion IBT – Base Installée France – Direction Travaux (IBT) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/controleur-de-gestion-ibt-base-installee-france-direction-travaux-ibt-f-h-ref-2026-28169"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur Développement mécanique et amélioration continue F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-developpement-mecanique-et-amelioration-continue-f-h-ref-2026-28078"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Electromécanicien de maintenance – Weekend (F/H) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/electromecanicien-de-maintenance-weekend-f-h-f-h-ref-2026-28167"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Electromécanicien de maintenance – (F/H) F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/electromecanicien-de-maintenance-f-h-f-h-ref-2026-28166"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Contrôleur dimensionnel / Traceur F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/controleur-dimensionnel-traceur-f-h-ref-2026-28165"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Technicien de maintenance F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/technicien-de-maintenance-f-h-ref-2026-28164"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur en installation nucléaire F/H F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-en-installation-nucleaire-f-h-f-h-ref-2026-28082"
-  },
-  {
-   "at": "2026-10-26T23:09:53+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Legal Operations Officer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884912&jobId=118610"
-  },
   {
    "at": "2026-10-26T23:09:53+00:00",
    "kind": "new",
@@ -3501,12 +3382,131 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kaufmann-fuer-spedition-und-logistikdienstleistung-m-w-d-4/bewerben"
+  },
+  {
+   "at": "2026-10-27T11:55:46+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) im Supply Chain Management",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516956"
+  },
+  {
+   "at": "2026-10-27T11:55:46+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F516956"
+  },
+  {
+   "at": "2026-10-27T11:55:46+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Mechanical Design Engineer (w/m/d) Tilting pad bearings",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Mechanical-Design-Engineer-w-m-d-Tilting-pad-bearings/305074"
+  },
+  {
+   "at": "2026-10-27T11:54:58+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Flughafenmitarbeiter am Flughafen Düsseldorf (m/w/d) Düsseldorf",
+   "url": "https://www.tempton.de/jobs/flughafenmitarbeiter-am-flughafen-duesseldorf-2"
+  },
+  {
+   "at": "2026-10-27T11:54:49+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Assistant Manager",
+   "url": "https://careers.motherson.com/en/job/assistant-manager-7172"
+  },
+  {
+   "at": "2026-10-27T11:54:49+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Sustainability Reporting Analyst",
+   "url": "https://careers.motherson.com/en/job/sustainability-reporting-analyst-rvu46jqoqzspoqf89o7xbw"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR Officer (m/w/d) im Bankensektor - hybrides Arbeiten (Remote & Präsenz) - hybrides Arbeiten (Remote & Präsenz) (Banken & Finanzdienstleistung) in 60",
+   "url": "https://jobs.de.dis-ag.com/hr-officer-m-w-d-im-bankensektor-hybrides-arbeiten-remote-und-praesenz-hybrides-arbeiten-remote-und-praesenz"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 91056 Erlangen Rechnungswesen & Finanzen 91056 Erlangen Homeoffice möglich Neu Sofortiger Star",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-466"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriekauffrau (m/w/d) (Büroverwaltung) in 08344 Grünhain-Beierfeld Büroverwaltung 08344 Grünhain-Beierfeld Neu",
+   "url": "https://jobs.de.dis-ag.com/industriekauffrau-m-w-d"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Technischer Property Manager (m/w/d) (Bau & Immobilien) in 40476 Düsseldorf Bau & Immobilien 40476 Düsseldorf Neu",
+   "url": "https://jobs.de.dis-ag.com/technischer-property-manager-m-w-d-4"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Debitorenbuchhalter (m/w/d) (Banken & Finanzdienstleistung) in 60486 Frankfurt am Main Banken & Finanzdienstleistung 60486 Frankfurt am Main Homeoffic",
+   "url": "https://jobs.de.dis-ag.com/debitorenbuchhalter-m-w-d-150"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mechatroniker (m/w/d) (Technik & Instandhaltung) in 08523 Plauen , 95028 Hof , 08233 Treuen Technik & Instandhaltung 08523 Plauen +2 Neu",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-48"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Controller (m/w/d) im Banken- und Versicherungssektor - hybrides Arbeiten (Remote & Präsenz) (Banken & Finanzdienstleistung) in 60486 Frankfurt am Mai",
+   "url": "https://jobs.de.dis-ag.com/controller-m-w-d-im-banken-und-versicherungssektor-hybrides-arbeiten-remote-und-praesenz"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebssupporter (m/w/d) im Versicherungswesen - hybrides Arbeiten (Remote & Präsenz) (Banken & Finanzdienstleistung) in 60486 Frankfurt am Main Ban",
+   "url": "https://jobs.de.dis-ag.com/vertriebssupporter-m-w-d-im-versicherungswesen-hybrides-arbeiten-remote-und-praesenz-1"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vorstandsassistenz (m/w/d) im Versicherungssektor - hybrides Arbeiten (Remote & Präsenz) (Banken & Finanzdienstleistung) in 60438 Frankfurt am Main Ba",
+   "url": "https://jobs.de.dis-ag.com/vorstandsassistenz-m-w-d-im-versicherungssektor-hybrides-arbeiten-remote-und-praesenz-2"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Kreditorenbuchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 74172 Neckarsulm Rechnungswesen & Finanzen 74172 Neckarsulm Homeoffice mög",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-kreditorenbuchhaltung-m-w-d-16"
+  },
+  {
+   "at": "2026-10-27T12:04:46+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/hr-officer-m-w-d-im-bankensektor-hybrides-arbeiten-remote-und-praesenz-hybrides-arbeiten-remote-und-praesenz/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T11:41:07+00:00",
+ "last_run": "2026-10-27T12:05:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
