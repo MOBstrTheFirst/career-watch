@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 58,
  "commands_set": true,
  "events": [
   {
@@ -785,12 +785,82 @@
    "site": "SPANGLER GmbH",
    "title": "https://spangler-automation.de/karriere/jobs/kaufmaennische-projektassistenz-mwd",
    "url": "https://spangler-automation.de/karriere/jobs/kaufmaennische-projektassistenz-mwd"
+  },
+  {
+   "at": "2026-10-27T07:10:41+00:00",
+   "kind": "new",
+   "site": "DATEV – Nürnberg",
+   "title": "Spezialisierte Fachkraft​ Sicherheits- und Leitstellenbetrieb (m/w/d)",
+   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Spezialisierte-Fachkraft--Sicherheits--und-Leitstellenbetrieb--m-w-d-_ID15665"
+  },
+  {
+   "at": "2026-10-27T07:10:41+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Monitoring / Überwachung / Sicherheit (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/4c482092-5f3b-5f99-9096-b88e5f5fc32f/mitarbeiter-monitoring-ueberwachung-sicherheit-m-w-d"
+  },
+  {
+   "at": "2026-10-27T07:09:58+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Global Key Account Manager – Catering & Food Safety (f/m/x)",
+   "url": "https://jobs.testo.com/4375-global-key-account-manager-catering-food-safety-f-m-x/de/job.html"
+  },
+  {
+   "at": "2026-10-27T07:10:27+00:00",
+   "kind": "possible",
+   "site": "TÜV NORD EnSys",
+   "title": "Industrial Engineering (16)",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
+  },
+  {
+   "at": "2026-10-27T07:10:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC Fräser (m/w/d) 83022 Rosenheim, Oberbayern 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nyfCY-cnc-fraeser-mwd_83022-rosenheim-oberbayern"
+  },
+  {
+   "at": "2026-10-27T07:10:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker/in Energie- und Gebäudetechnik Metallbranche (m/w/d) 92637 Weiden in der Oberpfalz 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/NUpgA-elektronikerin-energie-und-gebaeudetechnik-metallbranche-mwd_92637-weiden-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-27T07:10:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 92709 Moosbach bei Vohenstrauß 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/gPkeh-maschinenbediener-mwd_92709-moosbach-bei-vohenstrauss"
+  },
+  {
+   "at": "2026-10-27T07:10:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener 2D - Laserschneideanlage (m/w/d) 83022 Rosenheim, Oberbayern 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1zCgWp-maschinenbediener-2d-laserschneideanlage-mwd_83022-rosenheim-oberbayern"
+  },
+  {
+   "at": "2026-10-27T07:10:05+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence SAP-Projektleiter (m/w/d) 27.10.2026 Informationstechnologie Nonnweiler, Röthenbach a.d. Pegnitz, Überlingen am Bodensee, Markdorf",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/sap-projektleiter-m-w-d"
+  },
+  {
+   "at": "2026-10-27T07:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Customer Service Agent Kundenservice (m/w/d) (Büroverwaltung) in 38444 Wolfsburg Büroverwaltung 38444 Wolfsburg vor 8 Stunden",
+   "url": "https://jobs.de.dis-ag.com/customer-service-agent-kundenservice-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T06:56:25+00:00",
+ "last_run": "2026-10-27T07:10:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
