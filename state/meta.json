@@ -1,49 +1,7 @@
 {
- "alerts": 327,
+ "alerts": 333,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T09:24:46+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Abschlussarbeit in der Entwicklung Fusionsalgorithmen für Multi-IMU-Systeme",
-   "url": "https://jobs.bosch.com/en/job/REF299465X-abschlussarbeit-in-der-entwicklung-fusionsalgorithmen-fuer-multi-imu-systeme"
-  },
-  {
-   "at": "2026-10-27T09:24:46+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Elektroniker / Sicherheitstechniker für SAA/ELA - Gebiet Frankfurt (w/m/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF298992T-elektroniker-sicherheitstechniker-fuer-saa-ela-gebiet-frankfurt-w-m-div"
-  },
-  {
-   "at": "2026-10-27T09:24:46+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im Bereich der Kunststoffverfahrenstechnik",
-   "url": "https://jobs.bosch.com/en/job/REF289353T-praktikum-im-bereich-der-kunststoffverfahrenstechnik"
-  },
-  {
-   "at": "2026-10-27T09:24:46+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Global Key Account Manager – Catering & Food Safety (m/w/d)",
-   "url": "https://jobs.testo.com/4374-global-key-account-manager-catering-food-safety-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "(Senior) Manager Events (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 60.000 € Gummers­bach, Deutsch­land Backoffice Professionals Senior Professionals ohn",
-   "url": "https://touch.ferchau.com/de/de/job/525628/senior-manager-events"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT-System-Engi­neer (m/w/d) Bereich Luft­fahrt Neu Job Hybrid Vollzeit 65.000 - 75.000 € Immenstaad am Bodensee, Deutsch­land Informationstechnik Luft",
-   "url": "https://touch.ferchau.com/de/de/job/525733/it-system-engineer-bereich-luftfahrt"
-  },
   {
    "at": "2026-10-27T09:25:09+00:00",
    "kind": "new",
@@ -3501,12 +3459,54 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-m-w-d-44/bewerben"
+  },
+  {
+   "at": "2026-10-27T15:18:25+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Electronic Warfare System Engineer (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/XMLNAME--ET20-System-Engineer--d-f-m--in-Self-Protection-System_JR10432872?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T15:18:25+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Field Sales Representative, Life Science Mass Spectrometry",
+   "url": "https://uscareers-bruker.icims.com/jobs/20108/field-sales-representative%2c-life-science-mass-spectrometry/job?hub=12"
+  },
+  {
+   "at": "2026-10-27T15:18:25+00:00",
+   "kind": "new",
+   "site": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
+   "title": "Werkstudent Digitale Mobilität & NürnbergMOBIL-App (m/w/d) Nürnberg VAG Verkehrs-Aktiengesellschaft Praktikum, Werkstudententätigkeit, Bachelorarbeit ",
+   "url": "https://karriere.vag.de/jobs/werkstudent-digitale-mobilitaet-nuernbergmobil-app-m-w-d/d8d6b07c-3dae-439e-afc4-3809d0b1045f"
+  },
+  {
+   "at": "2026-10-27T15:18:25+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Personaldisponent (m/w/d) Trier",
+   "url": "https://www.tempton.de/jobs/personaldisponent-100"
+  },
+  {
+   "at": "2026-10-27T15:10:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter (m/w/d) IT-Support (IT & Software) in 28359 Bremen IT & Software 28359 Bremen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-it-support"
+  },
+  {
+   "at": "2026-10-27T15:10:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-it-support/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T15:06:09+00:00",
+ "last_run": "2026-10-27T15:18:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
