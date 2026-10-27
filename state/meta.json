@@ -1,112 +1,7 @@
 {
- "alerts": 365,
+ "alerts": 373,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Projekt­leiter Maschinen- & Anla­genbau (m/w/d) Job Vor Ort Vollzeit 65.000 - 90.000 € Bremen, Deutsch­land Personal Young Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/520546/technischer-projektleiter-maschinen-anlagenbau"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ma­nager Faci­lity Manage­ment (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Bremen, Deutsch­land Personal Young Professionals Professionals ",
-   "url": "https://touch.ferchau.com/de/de/job/520561/projektmanager-facility-management"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "ILS Manager / Inte­grated Logistics Support Engi­neer (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Bremen, Deutsch­land Personal Professionals Senio",
-   "url": "https://touch.ferchau.com/de/de/job/520732/ils-manager-integrated-logistics-support-engineer"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Fach­kraft für Arbeits­si­cher­heit (SiFa) / EHS Spezia­list (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Bremen, Deutsch­land Weitere Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/521071/fachkraft-fuer-arbeitssicherheit-sifa-ehs-spezialist"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Embedded Soft­ware Engi­neer C (m/w/d) Job Vor Ort Vollzeit 60.000 - 80.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals ohne Pe",
-   "url": "https://touch.ferchau.com/de/de/job/521125/embedded-software-engineer-c"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Solid­Works (m/w/d) Job Hybrid Vollzeit 45.000 - 65.000 € Neumünster, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young Profess",
-   "url": "https://touch.ferchau.com/de/de/job/243596/konstrukteur-solidworks"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Func­tional Safety Engi­neer / Manager (m/w/d) Job Vor Ort Vollzeit 70.000 - 85.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals",
-   "url": "https://touch.ferchau.com/de/de/job/521131/functional-safety-engineer-manager"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­niker Geräte & Systeme (m/w/d) Job Vor Ort Vollzeit 42.000 - 56.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/521179/elektroniker-geraete-systeme"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­niker Geräte & Systeme / Elek­tronik­fer­ti­gung (m/w/d) Job Vor Ort Vollzeit 45.000 - 58.000 € Bremen, Deutsch­land Personal Professionals S",
-   "url": "https://touch.ferchau.com/de/de/job/521182/elektroniker-geraete-systeme-elektronikfertigung"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­qua­li­täts­ma­nager / Quality Manager (m/w/d) Job Vor Ort Vollzeit 60.000 - 90.000 € Bremen, Deutsch­land Personal Professionals Senior Profe",
-   "url": "https://touch.ferchau.com/de/de/job/521185/projektqualitaetsmanager-quality-manager"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Service­tech­niker / Inbe­trieb­nehmer Elek­tro­technik (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Bremen, Deutsch­land Personal Professionals Sen",
-   "url": "https://touch.ferchau.com/de/de/job/521197/servicetechniker-inbetriebnehmer-elektrotechnik"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Hard­ware­ent­wickler Elek­tronik & Luft­fahrt (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Stuhr, Deutsch­land Personal Professionals Senior Profes",
-   "url": "https://touch.ferchau.com/de/de/job/521215/hardwareentwickler-elektronik-luftfahrt"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Konstruk­teur Maschi­nenbau und Anla­genbau (m/w/d) Job Hybrid Vollzeit 58.000 - 70.000 € München, Deutsch­land Anlagenbau Elektrotechnik Maschinenbau",
-   "url": "https://touch.ferchau.com/de/de/job/243342/konstrukteur-maschinenbau-und-anlagenbau"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bid & Proposal Manager Defence (m/w/d) Job Vor Ort Vollzeit 60.000 - 75.000 € Bremen, Deutsch­land Personal Professionals Senior Professionals ohne Pe",
-   "url": "https://touch.ferchau.com/de/de/job/521434/bid-proposal-manager-defence"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Hard­ware­ent­wickler Elek­tro­technik Auto­mo­tive & Defence (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Bremen, Deutsch­land Elektrotechnik Weite",
-   "url": "https://touch.ferchau.com/de/de/job/521437/hardwareentwickler-elektrotechnik-automotive-defence"
-  },
   {
    "at": "2026-10-27T10:25:13+00:00",
    "kind": "new",
@@ -3501,12 +3396,117 @@
    "site": "TTTech Auto Germany",
    "title": "BSc Intern position - In-Cabin Sensing for Automotive Applications at Systems Innovation Automotive (SI A)",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/BSc-Intern-position---In-Cabin-Sensing-for-Automotive-Applications-at-Systems-Innovation-Automotive--SI-A-_R-10062367?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T16:47:35+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum – Data Analytics Fleet Data in der Betriebsfestigkeit (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-27T16:47:35+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum – Organisationales Lernen und Weiterbildung (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-27T16:47:35+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Military DoD SkillBridge Program - Precision Machining & Inspection",
+   "url": "https://careers.geaerospace.com/global/en/job/R5030135/Military-DoD-SkillBridge-Program-Precision-Machining-Inspection"
+  },
+  {
+   "at": "2026-10-27T16:47:35+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Sachbearbeiter Qualitätssicherung Engineering (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mjk0NA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-27T16:40:36+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Operativer Einkäufer (m/w/d) München",
+   "url": "https://www.tempton.de/jobs/operativer-einkaeufer-20"
+  },
+  {
+   "at": "2026-10-27T16:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Team lead - manufacturing Veldhoven, Netherlands Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/team-lead-manufacturing-j00342950"
+  },
+  {
+   "at": "2026-10-27T16:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior OPC Field Applications Engineer Austin, TX, US Applications Engineering",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-opc-field-applications-engineer-j00355100"
+  },
+  {
+   "at": "2026-10-27T16:40:13+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New AI Research and Development Engineer San Jose, CA, US Research and Technology Development",
+   "url": "https://www.asml.com/en/careers/find-your-job/ai-research-and-development-engineer-j00355960"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "R&D Engineer: Test Engineering Wafer Test, Final Module Test & Characterization",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Germany-Regensburg/R-D-Engineer--Test-Engineering-Wafer-Test--Final-Module-Test---Characterization_R027506?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "R&D Engineer Project lead and optical design",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Germany-Regensburg/R-D-Engineer-Project-lead-and-optical-design_R027519?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Customer Support Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Customer-Support-Engineer_R-10067543?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Customer Support Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Senior-Customer-Support-Engineer_R-10067542?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) (Rechnungswesen & Finanzen) in 38640 Goslar Rechnungswesen & Finanzen 38640 Goslar Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-218"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Goslar",
+   "url": "https://jobs.de.dis-ag.com/suche/in-goslar"
+  },
+  {
+   "at": "2026-10-27T16:49:37+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-218/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T16:22:16+00:00",
+ "last_run": "2026-10-27T16:49:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
