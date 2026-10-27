@@ -1,238 +1,7 @@
 {
- "alerts": 242,
+ "alerts": 255,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T02:24:47+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Ausbildung zum Kunststoff- und Kautschuktechnologen (m/w/d) 2027",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Ausbildung-zum-Kunststoff-und-Kautschuktechnologen-%28mwd%29-2027/1411307633"
-  },
-  {
-   "at": "2026-10-27T02:24:47+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Ausbildung zum Industriekaufmann (m/w/d) 2027",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Ausbildung-zum-Industriekaufmann-%28mwd%29-2027/1411286433"
-  },
-  {
-   "at": "2026-10-27T02:24:47+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Ausbildung zum Mechatroniker (m/w/d) 2027",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Ausbildung-zum-Mechatroniker-%28mwd%29-2027/1411352233"
-  },
-  {
-   "at": "2026-10-27T02:24:47+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Ausbildung zum Werkzeugmechaniker (m/w/d) 2027",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Feuchtwangen-Ausbildung-zum-Werkzeugmechaniker-%28mwd%29-2027/1411335833"
-  },
-  {
-   "at": "2026-10-27T02:40:35+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "Einkäufer (w/m/d) mit Schwerpunkt Baueinkauf",
-   "url": "https://jobs.br.de/Vacancies/1389/Description/1"
-  },
-  {
-   "at": "2026-10-27T02:40:35+00:00",
-   "kind": "new",
-   "site": "Bayerischer Rundfunk – Studio Franken",
-   "title": "Teamassistenz (w/m/d) Journalistische Ausbildung",
-   "url": "https://jobs.br.de/Vacancies/1417/Description/1"
-  },
-  {
-   "at": "2026-10-27T02:46:34+00:00",
-   "kind": "new",
-   "site": "Vodafone – Nürnberg",
-   "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Hannover (2027) Hannover, Germany Talent Acquisition, Attraction & Youth Gepostete vor einem Monat",
-   "url": "https://jobs.vodafone.com/careers/job/563018698015133?domain=vodafone.com"
-  },
-  {
-   "at": "2026-10-27T03:11:03+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Working Student (f/m/d) Procurement Data, Analytics & Digital Solutions",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Procurement-Data-Analytics-Digital-Solutions/305991"
-  },
-  {
-   "at": "2026-10-27T03:09:37+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Project Manager - China region Shanghai, China Real Estate and Facilities Management",
-   "url": "https://www.asml.com/en/careers/find-your-job/project-manager-china-region-j00355983"
-  },
-  {
-   "at": "2026-10-27T03:09:37+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Business Analyst Shanghai, China Real Estate and Facilities Management",
-   "url": "https://www.asml.com/en/careers/find-your-job/business-analyst-j00355994"
-  },
-  {
-   "at": "2026-10-27T03:25:28+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Mold Process Technician - 2nd Shift - Starting Pay $36.50",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Northwood-Ohio-US/Mold-Process-Technician---2nd-Shift---Starting-Pay--3650_R00267641?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T03:55:03+00:00",
-   "kind": "text",
-   "site": "Energie Campus Nürnberg (EnCN)",
-   "title": "8 new text line(s), e.g. Page Not Found",
-   "url": "https://www.encn.de/karriere"
-  },
-  {
-   "at": "2026-10-27T04:10:06+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/de406b4c-e80a-4aed-d27b-08df33dec2b6"
-  },
-  {
-   "at": "2026-10-27T04:10:06+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/56afef40-f043-463e-d27c-08df33dec2b6"
-  },
-  {
-   "at": "2026-10-27T04:55:13+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Analog Validation Engr",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Analog-Validation-Engr_R-10067183?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T05:25:00+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New DUV Fab Team Supervisor Kumamoto, Japan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/duv-fab-team-supervisor-j00355775"
-  },
-  {
-   "at": "2026-10-27T05:40:06+00:00",
-   "kind": "new",
-   "site": "Bruker – Erlangen",
-   "title": "Title Assistant Sales Manager – West",
-   "url": "https://internationalcareers-bruker.icims.com/jobs/20116/assistant-sales-manager-%e2%80%93-west/job?hub=12"
-  },
-  {
-   "at": "2026-10-27T05:54:44+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "DH-Studium BWL - Food Management (m/w/d)",
-   "url": "https://jobs.testo.com/4377-dh-studium-bwl-food-management-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-27T06:09:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Senior Engineer, Product Support",
-   "url": "https://careers.landisgyr.com/job/Noida-Senior-Engineer%2C-Product-Support-UP/1451492833"
-  },
-  {
-   "at": "2026-10-27T06:09:43+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Praktikum (m/w/d): Ausbildung / Duales Studium Teisnach Herbstferien 2026",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikum-m-w-d-ausbildung-duales-studium-teisnach-herbstferien-2026_251563-1627780.html"
-  },
-  {
-   "at": "2026-10-27T06:09:43+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "FH-Pflichtpraktikant im Bereich Stiffness/Durability",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Stiffness-Durability_R00266947?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:10:14+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Supply Chain Planner",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027535?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:10:14+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Supply Chain Planner",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027536?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:10:14+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Supply Chain Planner",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027537?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:25:24+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Specialist Thermal Systems",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bengaluru-IN/Sr-Specialist-Thermal-Systems_R00266367?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:25:24+00:00",
-   "kind": "new",
-   "site": "Intel – Nürnberg",
-   "title": "Hardware Platform Applications Engineer - Military & Aerospace",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Hardware-Platform-Applications-Engineer---Military---Aerospace_JR0284700?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Test Development Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Test-Development-Engineer_R027550-6?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Test Development Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Test-Development-Engineer_R027547-2?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Materials/Procurement Buyer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Materials-Procurement-Buyer_R027415?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Test Development Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Test-Development-Engineer_R027552-7?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:24:49+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Test Development Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/Test-Development-Engineer_R027549-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T06:40:00+00:00",
-   "kind": "new",
-   "site": "SPANGLER GmbH",
-   "title": "https://spangler-automation.de/karriere/jobs/kaufmaennische-projektassistenz-mwd",
-   "url": "https://spangler-automation.de/karriere/jobs/kaufmaennische-projektassistenz-mwd"
-  },
-  {
-   "at": "2026-10-27T07:10:41+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Spezialisierte Fachkraft​ Sicherheits- und Leitstellenbetrieb (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Spezialisierte-Fachkraft--Sicherheits--und-Leitstellenbetrieb--m-w-d-_ID15665"
-  },
   {
    "at": "2026-10-27T07:10:41+00:00",
    "kind": "new",
@@ -3501,12 +3270,243 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-147/bewerben"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Thesis (Master): Evaluation of Standardized Physical Device Interaction by AI Agents",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524349"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F524349"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Bauingenieur (m/w/d) Hochbau",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Bauingenieur--m-w-d--Hochbau_R0243583?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Referent Umwelt- und Naturschutz im Netzausbau (m/w/d) Hannover Seit 27. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109486/Referent%20Umwelt-%20und%20Naturschutz%20im%20Netzausbau%20(m%2Fw%2Fd)/Hannover"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Training & Weiterbildung Aushilfe im Seminarservice/ Empfang/ Kundenbetreuung als Minijob (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Aushilfe-im-Seminarservice_-Empfang_-Kundenbetreuung-als-Minijob-w_m_d-Stuttgart?id=22005"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Verdichtermonteur (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/39a32d51-69aa-4918-9ecb-ef70f910a20b"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Mitarbeiter für die Bauteilmontage (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/39a32d51-69aa-4918-9ecb-ef70f910a20b/d1d8aa0d-651f-4bc2-9a96-7d060dfda967"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Hardware Entwickler (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/a65d546b-1415-4c38-b6f1-88e9ef1d4111"
+  },
+  {
+   "at": "2026-10-27T12:44:33+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroingenieur PCB Design (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/a65d546b-1415-4c38-b6f1-88e9ef1d4111/1a89a3fe-a8cd-49ed-b603-58a95242f410"
+  },
+  {
+   "at": "2026-10-27T12:44:04+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Ingenieur (m/w/d) Antriebstechnik - Maschinenbau Lemwerder",
+   "url": "https://www.tempton.de/jobs/ingenieur-antriebstechnik-maschinenbau"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Engineer, Equipment Engineering",
+   "url": "https://jobs.ams-osram.com/en/job/Engineer-Equipment-Engineering-Calamba/24406"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Internal Account Handler",
+   "url": "https://jobs.ams-osram.com/en/job/Internal-Account-Handler-Leeds/24624"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "HR Specialist",
+   "url": "https://jobs.ams-osram.com/en/job/HR-Specialist-George-Town/24320"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Talent Acquisition Specialist / Recruiter (d/m/f) - limited until 31.12.2027",
+   "url": "https://jobs.ams-osram.com/en/job/Talent-Acquisition-Specialist-_-Recruiter-d_m_f-limited-until-31.12.2027-Premstaetten/24661"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Material Handler - 2nd shift",
+   "url": "https://jobs.ams-osram.com/en/job/Material-Handler-2nd-shift-Hillsboro/24664"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Product Manager Optical Force Sensing (d/m/f)",
+   "url": "https://jobs.ams-osram.com/en/job/Product-Manager-Optical-Force-Sensing-d_m_f-Premstaetten/24435"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "First Level Maintenance Technician(FLM)/Instandhaltungstechniker*in Nightshift - (m/f/d)",
+   "url": "https://jobs.ams-osram.com/en/job/First-Level-Maintenance-Technician-FLM_Instandhaltungstechnikerin-Nightshift-m_f_d-Premstaetten/23452"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Epitaxy Analytics Equipment Associate Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Epitaxy-Analytics-Equipment-Associate-Engineer-Kulim/24604"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior Staff Engineer (Equipment Lithography)",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-Staff-Engineer-Equipment-Lithography-Kulim/24599"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Product Staff Engineer (LED)",
+   "url": "https://jobs.ams-osram.com/en/job/Product-Staff-Engineer-LED-Bayan-Lepas/24598"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Product Development Junior Technician",
+   "url": "https://jobs.ams-osram.com/en/job/Product-Development-Junior-Technician-Bayan-Lepas/23921"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "AVI Equipment Staff Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/AVI-Equipment-Staff-Engineer-Bayan-Lepas/24606"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior IT Architekt SharePoint (m/w/d) bundesweit an einem unserer BWI Standorte",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-it-architekt-sharepoint-m-w-d-71076"
+  },
+  {
+   "at": "2026-10-27T12:43:39+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Future Account Executive Americas: Join the SUSE Talent Community (Evergreen)",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/New-York-United-States-of-America/Future-Account-Executive-Americas--Join-the-SUSE-Talent-Community--Evergreen-_71007712?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Beleidsmedewerker congestie management",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=3290443&jobId=103090"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Internship: Project Management Office (m/f/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Project-Management-Office--m-f-d-_R-10067367?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199143 Praktikant Digitalisierung und Künstliche Intelligenz in der Fahrzeugmontage (w/m/x) Veröffentlicht: 27.10.2026 Softwareentwicklung Regensburg ",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199143.html"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) Fahrzeugauslieferung (Logistik & Transport) in 68163 Mannheim Logistik & Transport 68163 Mannheim Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-fahrzeugauslieferung-1"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter (m/w/d) im Kundenservice (Sales & Vertrieb) in 68623 Lampertheim Sales & Vertrieb 68623 Lampertheim Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-im-kundenservice-3"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalreferent (m/w/d) (HR & Personalwesen) in 69168 Wiesloch HR & Personalwesen 69168 Wiesloch Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/personalreferent-m-w-d-89"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) operativer Einkauf (Büroverwaltung) in 68159 Manheim Büroverwaltung 68159 Manheim Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-operativer-einkauf-1"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mannheim",
+   "url": "https://jobs.de.dis-ag.com/suche/in-mannheim"
+  },
+  {
+   "at": "2026-10-27T12:44:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-fahrzeugauslieferung-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T12:26:09+00:00",
+ "last_run": "2026-10-27T12:44:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
