@@ -1,28 +1,7 @@
 {
- "alerts": 442,
+ "alerts": 446,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Specialist, Clinical Lab Scientist - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369249EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Credit & Collections Representative II. - German speaker",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01367877/Credit-Collections-Representative-II-German-speaker"
-  },
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now Credit & Collections Representative II. - German speaker",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01367877EXTERNALENGLOBAL"
-  },
   {
    "at": "2026-10-27T11:40:02+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
    "title": "Estágio em Engenharia do Desenvolvimento",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82150S-p-041dd504de36a3c1ecb11830b296c270/estagio-em-engenharia-do-desenvolvimento"
+  },
+  {
+   "at": "2026-10-27T22:40:38+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/52?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/52?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-27T22:39:39+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Logistics Material Handling Area Leader",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Liberty-Missouri-US/Logistics-Area-Leader-B-Shift_R00257783?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T22:40:06+00:00",
+   "kind": "new",
+   "site": "Gerresheimer Regensburg",
+   "title": "Praktikum im Bereich Quality Laboratory Functional Testing (m/w/d)",
+   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/1380ffea-7d1a-4680-a7cb-1014d96bd5d9?cHash=24fdafc61d884f146063d770c10a34fc1ef1e4772419d2471b9beac8cc3b3d82"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T22:25:49+00:00",
+ "last_run": "2026-10-27T22:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 89,
+ "runs": 90,
  "tg_offset": 297408924
 }
