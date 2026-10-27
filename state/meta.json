@@ -1,5 +1,5 @@
 {
- "alerts": 58,
+ "alerts": 66,
  "commands_set": true,
  "events": [
   {
@@ -855,12 +855,89 @@
    "site": "DIS AG",
    "title": "Customer Service Agent Kundenservice (m/w/d) (Büroverwaltung) in 38444 Wolfsburg Büroverwaltung 38444 Wolfsburg vor 8 Stunden",
    "url": "https://jobs.de.dis-ag.com/customer-service-agent-kundenservice-m-w-d"
+  },
+  {
+   "at": "2026-10-27T07:25:44+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Werkstudent im Bereich Global Quality Management (m/f/d)",
+   "url": "https://jobs.bsh-group.de/45972-werkstudent-im-bereich-global-quality-management-m-f-d/de/job.html"
+  },
+  {
+   "at": "2026-10-27T07:25:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagehelfer (m/w/d) / Staplerfahrer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018t3L7QAI"
+  },
+  {
+   "at": "2026-10-27T07:24:44+00:00",
+   "kind": "new",
+   "site": "WS Audiology (Signia, ex-Siemens Audiology)",
+   "title": "Praktikum Signalverarbeitung / Hörgeräteentwicklung (m/w/d)",
+   "url": "https://careersemea.wsa.com/jobs/8619235-praktikum-signalverarbeitung-horgerateentwicklung-m-w-d"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Consul­tant TYPO3 Plat­form (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 70.000 € Hamburg, Deutsch­land Informationstechnik Weitere Young Professionals Pr",
+   "url": "https://touch.ferchau.com/de/de/job/525721/consultant-typo3-platform"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "Oechsler AG",
+   "title": "Bilanzbuchhalter (m/w/d)",
+   "url": "https://career.oechsler.com/jobposting/681c26ae51ab03f7e82aaa3b3804d5527b795307"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter (m/w/d) Fahrzeugfolierung 04509 Wiedemar 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2kFWLG-mitarbeiter-mwd-fahrzeugfolierung_04509-wiedemar"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) 92507 Nabburg 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1KTc3G-bilanzbuchhalter-mwd_92507-nabburg"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Speditionskaufmann (m/w/d) 92263 Ebermannsdorf 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1I6OzT-speditionskaufmann-mwd_92263-ebermannsdorf"
+  },
+  {
+   "at": "2026-10-27T07:25:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelferin (m/w/d) für Siemens AG 92224 Amberg, Oberpfalz 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcI7Hz-produktionshelferin-mwd-fuer-siemens-ag_92224-amberg-oberpfalz"
+  },
+  {
+   "at": "2026-10-27T07:24:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Projektleiter Defence & Land Systems (m/w/d) (Produktion & Fertigung) in 89075 Ulm Produktion & Fertigung 89075 Ulm Homeoffice möglich vor 8 St",
+   "url": "https://jobs.de.dis-ag.com/senior-projektleiter-defence-und-land-systems-m-w-d"
+  },
+  {
+   "at": "2026-10-27T07:24:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Embedded Software Entwickler C++ (m/w/d) (IT & Software) in 89075 Ulm IT & Software 89075 Ulm Homeoffice möglich vor 8 Stunden",
+   "url": "https://jobs.de.dis-ag.com/embedded-software-entwickler-c-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T07:10:54+00:00",
+ "last_run": "2026-10-27T07:26:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
