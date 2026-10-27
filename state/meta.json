@@ -1,91 +1,7 @@
 {
- "alerts": 382,
+ "alerts": 387,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - CRG - Trial management Manager - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369245/DO-NOT-APPLY-TEST-REQ-CRG-Trial-management-Manager-St-Louis-US"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Trial management Manager - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369245EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - Customer Service Representative II - Linz Austria",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369181/DO-NOT-APPLY-TEST-REQ-Customer-Service-Representative-II-Linz-Austria"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - Customer Service Representative II - Linz Austria",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369181EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - Sr Field Service Technician - Jiangsu China",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369194/DO-NOT-APPLY-TEST-REQ-Sr-Field-Service-Technician-Jiangsu-China"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - Sr Field Service Technician - Jiangsu China",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369194EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - CRG - Customer Service Representative I - Cambridge United Kingdom",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369235/DO-NOT-APPLY-TEST-REQ-CRG-Customer-Service-Representative-I-Cambridge-United-Kingdom"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Customer Service Representative I - Cambridge United Kingdom",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369235EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - Engineer III, Manufacturing Engineering - Bridgewater US",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369260/DO-NOT-APPLY-TEST-REQ-Engineer-III-Manufacturing-Engineering-Bridgewater-US"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - Engineer III, Manufacturing Engineering - Bridgewater US",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369260EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - CRG - Manager, Product Support - São Paulo Brazil",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369182/DO-NOT-APPLY-TEST-REQ-CRG-Manager-Product-Support-São-Paulo-Brazil"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Manager, Product Support - São Paulo Brazil",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369182EXTERNALENGLOBAL"
-  },
   {
    "at": "2026-10-27T10:39:50+00:00",
    "kind": "new",
@@ -3501,12 +3417,96 @@
    "site": "TTTech Auto Germany",
    "title": "Junior Customer Support Engineer",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Junior-Customer-Support-Engineer_R-10067550?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Head of Design Quality Assurance (f/m/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Bad-Homburg-Germany/Head-of-Design-Quality-Assurance--f-m-d-_R0207063-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "text",
+   "site": "Fluence – Erlangen",
+   "title": "24 new text line(s), e.g. wpenginepowered.com | 504: Gateway time-out",
+   "url": "https://fluenceenergy.com/careers"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Systèmes ADAS (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158094940-ingenieur-systemes-adas-h-f-"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Développeur PHP – Maintenance et Évolution d'Applications Sécurisées - CDI (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158010444-developpeur-php-maintenance-et-evolution-d-applications-securisees-cdi-h-f-"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Tech lead Java / Angular - CDI (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158011260-tech-lead-java-angular-cdi-h-f-"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Essais & Intégration (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158112169-ingenieur-essais-integration-h-f-"
+  },
+  {
+   "at": "2026-10-27T17:28:53+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Développeur Java (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158110509--developpeur-java-h-f-"
+  },
+  {
+   "at": "2026-10-27T17:24:58+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Appli­ka­ti­ons­ent­wickler (m/w/d) Neu Job Vor Ort Vollzeit 45.000 - 50.000 € Torgelow, Deutsch­land Elektrotechnik Fahrzeugtechnik Young Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/525829/applikationsentwickler"
+  },
+  {
+   "at": "2026-10-27T17:24:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Senior Hardware Electrical Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Sr-Component-Technical-Lead_R00256410?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:24:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Program Manager (Tooling)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Brampton-Ontario-CA/Program-Manager--Tooling-_R00267826?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:24:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Apprentice - Millwright",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Apprentice---Millwright_R00267802?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:24:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Apprentice - Electrician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/St-Thomas--Formet-Ontario-CA/Apprentice---Electrician_R00267792-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T17:14:09+00:00",
+ "last_run": "2026-10-27T17:29:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
