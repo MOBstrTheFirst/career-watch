@@ -1,154 +1,7 @@
 {
- "alerts": 333,
+ "alerts": 341,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Deve­loper Mecha­nical Design (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 65.000 € Schro­ben­hausen, Deutsch­land Luft- und Raumfahrttechnik Maschinenba",
-   "url": "https://touch.ferchau.com/de/de/job/525748/developer-mechanical-design"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Quali­täts­in­ge­nieur Nuklear­technik (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 62.000 € Erlangen, Deutsch­land Elektrotechnik Maschinenbau Profession",
-   "url": "https://touch.ferchau.com/de/de/job/525742/qualitaetsingenieur-nukleartechnik"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Elek­tro­kon­struk­teur / Hard­ware­planer (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Olfen, Deutsch­land Anlagenbau Elektrotechnik Maschinenb",
-   "url": "https://touch.ferchau.com/de/de/job/525736/elektrokonstrukteur-hardwareplaner"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "CI/CD Engi­neer DevOps (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 78.000 € Bremen, Deutsch­land Elektrotechnik Luft- und Raumfahrttechnik Young Profess",
-   "url": "https://touch.ferchau.com/de/de/job/525730/ci-cd-engineer-devops"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Produkt­ma­nager Elek­tro­technik Mobil­funk (m/w/d) Neu Job Vor Ort Vollzeit 63.000 - 80.000 € Laufen, Deutsch­land Fahrzeugtechnik Professionals Sen",
-   "url": "https://touch.ferchau.com/de/de/job/525697/produktmanager-elektrotechnik-mobilfunk"
-  },
-  {
-   "at": "2026-10-27T09:25:09+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter Beschichtung (m/w/d) 09669 Frankenberg/Sachsen 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2k4ndE-produktionsmitarbeiter-beschichtung-mwd_09669-frankenbergsachsen"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Account Executive",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/CZE-Praha-11-V-Parku-234324/Account-Executive_R027477?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Steuerfachangestellte/r (m/w/d) mit SAP-Kenntnissen (Rechnungswesen & Finanzen) in 55411 Bingen am Rhein Rechnungswesen & Finanzen 55411 Bingen am Rhe",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-r-m-w-d-mit-sap-kenntnissen"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Industrielackierer (m/w/d) (Produktion & Fertigung) in 40721 Hilden , 42651 Solingen , 42799 Leichlingen , 40764 Langenfeld , 40764 Berghausen Produkt",
-   "url": "https://jobs.de.dis-ag.com/industrielackierer-m-w-d-16"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Systemadministrator (m/w/d) (IT & Software) in 60306 Frankfurt am Main IT & Software 60306 Frankfurt am Main vor 10 Stunden",
-   "url": "https://jobs.de.dis-ag.com/systemadministrator-m-w-d-47"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Bingen am Rhein",
-   "url": "https://jobs.de.dis-ag.com/suche/in-bingen-am-rhein"
-  },
-  {
-   "at": "2026-10-27T09:24:54+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/steuerfachangestellte-r-m-w-d-mit-sap-kenntnissen/bewerben"
-  },
-  {
-   "at": "2026-10-27T09:40:58+00:00",
-   "kind": "new",
-   "site": "Main-Donau Netzgesellschaft / N-ERGIE",
-   "title": "Gruppenleiter Sicherheitstechnik und Gebäudeautomation (m/w/d) Nürnberg N-ERGIE IT & Ingenieurwesen",
-   "url": "https://karriere.n-ergie.de/jobs/gruppenleiter-sicherheitstechnik-und-gebaeudeautomation-m-w-d/374cfd35-e997-4e97-ba94-81a68a3923a6"
-  },
-  {
-   "at": "2026-10-27T09:40:58+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektromaschinenmonteur (m/w/d) Stabfertigung",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018u1drQAA"
-  },
-  {
-   "at": "2026-10-27T09:40:07+00:00",
-   "kind": "new",
-   "site": "SKF – Schweinfurt",
-   "title": "Ausbildung zum Industriekaufmann (m/w/d)",
-   "url": "https://career.skf.com/job/Walldorf-Ausbildung-zum-Industriekaufmann-%28mwd%29/1451586233"
-  },
-  {
-   "at": "2026-10-27T09:40:07+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Industriekaufmann/Bürokaufmann (m/w/d) für die Auftragsabwicklung/Logistik in Teilzeit",
-   "url": "https://jobs.testo.com/4372-industriekaufmann-buerokaufmann-m-w-d-fuer-die-auftragsabwicklung-logistik-in-teilzeit/de/job.html"
-  },
-  {
-   "at": "2026-10-27T09:40:07+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "27.10.2026 Elektrokonstrukteur (m/w/d) in Direktvermittlung Lünne",
-   "url": "https://www.tempton.de/jobs/elektrokonstrukteur-direktvermittlung-1"
-  },
-  {
-   "at": "2026-10-27T09:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer (m/w/d) Pop-Up-Store 06796 Brehna 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZFT41G-verkaeufer-mwd-pop-up-store_06796-brehna"
-  },
-  {
-   "at": "2026-10-27T09:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) Lagerverwaltung 06712 Kretzschau 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Qrdpb-lagermitarbeiter-mwd-lagerverwaltung_06712-kretzschau"
-  },
-  {
-   "at": "2026-10-27T09:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) Kabelkonfektionierung 07613 Crossen an der Elster 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z13TCnw-produktionsmitarbeiter-mwd-kabelkonfektionierung_07613-crossen-an-der-elster"
-  },
-  {
-   "at": "2026-10-27T09:39:45+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 06721 Osterfeld bei Naumburg, Saale 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/E8Q5c-staplerfahrer-mwd_06721-osterfeld-bei-naumburg-saale"
-  },
   {
    "at": "2026-10-27T09:39:45+00:00",
    "kind": "new",
@@ -3501,12 +3354,159 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-it-support/bewerben"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Continuous Improvement Manager (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc0Ng%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Méthodes Industrialisation (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158051796-ingenieur-methodes-industrialisation-h-f-"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Reponsable de lots / Chef de projets industriels H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158047470-reponsable-de-lots-chef-de-projets-industriels-h-f"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "RHEL Linux Support Engineer (all gender) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157988480-rhel-linux-support-engineer-all-gender-"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Product owner - H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158083629-product-owner-h-f"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur chargé d'affaires outillages (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157984019-ingenieur-charge-d-affaires-outillages-h-f-"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "INGENIEUR DEVELOPPEMENT INFORMATIQUE SYSTEMES EMBARQUES (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157980484-ingenieur-developpement-informatique-systemes-embarques-h-f-"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Projektmanager (m/w/d) Strategische Personalplanung Hannover Seit 28. September 2026",
+   "url": "https://excellence.ag/jobs/VP-108718/Projektmanager%20(m%2Fw%2Fd)%20Strategische%20Personalplanung/Hannover"
+  },
+  {
+   "at": "2026-10-27T15:36:38+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Senior Manager  Identity Governance & Administration (IGA) (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/afe659cd-866e-5296-b9f9-7a4ae6c23646/senior-manager-identity-governance-administration-iga-m-w-d"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New FP&A Controller - DUV Veldhoven, Netherlands Finance",
+   "url": "https://www.asml.com/en/careers/find-your-job/fpa-controller-duv-j00352036"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Fach­planer TGA (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 60.000 € Monta­baur, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Professionals Profe",
+   "url": "https://touch.ferchau.com/de/de/job/525817/fachplaner-tga"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Koor­di­nator / Team­leiter Betriebs­technik (m/w/d) Neu Job Vor Ort Vollzeit 54.000 - 58.000 € Göttingen, Deutsch­land Elektrotechnik Pharma und Life",
+   "url": "https://touch.ferchau.com/de/de/job/525814/koordinator-teamleiter-betriebstechnik"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler Java (m/w/d) Neu Job Hybrid Vollzeit 70.000 - 80.000 € Hamburg, Deutsch­land Informationstechnik Weitere Professionals Senior Pr",
+   "url": "https://touch.ferchau.com/de/de/job/525811/softwareentwickler-java"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Supply Chain Koor­di­nator (m/w/d) Job Vor Ort Vollzeit 51.000 - 56.000 € Greven­ma­cher, Luxem­burg Fahrzeugtechnik Maschinenbau Weitere Young Profes",
+   "url": "https://touch.ferchau.com/de/de/job/520297/supply-chain-koordinator"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur Digi­tale Betriebs­op­ti­mie­rung (m/w/d) Neu Job Hybrid Vollzeit 80.000 - 94.000 € Hamburg, Deutsch­land Fahrzeugtechnik Informat",
+   "url": "https://touch.ferchau.com/de/de/job/525805/projektingenieur-digitale-betriebsoptimierung"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer (m/w/d) 92706 Luhe-Wildenau 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2i1xcQ-schweisser-mwd_92706-luhe-wildenau"
+  },
+  {
+   "at": "2026-10-27T15:24:50+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Qualitätsprüfer (m/w/d) bis 20,47 €/h 93149 Nittenau 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1lQ3fa-qualitaetspruefer-mwd-bis-2047-euroh_93149-nittenau"
+  },
+  {
+   "at": "2026-10-27T15:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Projektsteuerer Bauprojekte (m/w/d) (Bau & Immobilien) in 10179 Berlin Bau & Immobilien 10179 Berlin Neu",
+   "url": "https://jobs.de.dis-ag.com/projektsteuerer-bauprojekte-m-w-d"
+  },
+  {
+   "at": "2026-10-27T15:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsassistenz (m/w/d) (Sales & Vertrieb) in 76557 Gaggenau Sales & Vertrieb 76557 Gaggenau Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/vertriebsassistenz-m-w-d-67"
+  },
+  {
+   "at": "2026-10-27T15:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bürokaufmann (m/w/d) (Büroverwaltung) in 76280 Rheinstetten Büroverwaltung 76280 Rheinstetten Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/buerokaufmann-m-w-d-12"
+  },
+  {
+   "at": "2026-10-27T15:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/projektsteuerer-bauprojekte-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T15:18:41+00:00",
+ "last_run": "2026-10-27T15:36:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
