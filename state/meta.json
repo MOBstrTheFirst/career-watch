@@ -1,5 +1,5 @@
 {
- "alerts": 31,
+ "alerts": 33,
  "commands_set": true,
  "events": [
   {
@@ -610,12 +610,33 @@
    "site": "Vodafone – Nürnberg",
    "title": "Ausbildung zum Kaufmann im Einzelhandel (m/w/d) in Hannover (2027) Hannover, Germany Talent Acquisition, Attraction & Youth Gepostete vor einem Monat",
    "url": "https://jobs.vodafone.com/careers/job/563018698015133?domain=vodafone.com"
+  },
+  {
+   "at": "2026-10-27T03:11:03+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Working Student (f/m/d) Procurement Data, Analytics & Digital Solutions",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Procurement-Data-Analytics-Digital-Solutions/305991"
+  },
+  {
+   "at": "2026-10-27T03:09:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Project Manager - China region Shanghai, China Real Estate and Facilities Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/project-manager-china-region-j00355983"
+  },
+  {
+   "at": "2026-10-27T03:09:37+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Business Analyst Shanghai, China Real Estate and Facilities Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/business-analyst-j00355994"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T02:55:52+00:00",
+ "last_run": "2026-10-27T03:11:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
