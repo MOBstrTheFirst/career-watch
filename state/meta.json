@@ -1,5 +1,5 @@
 {
- "alerts": 148,
+ "alerts": 157,
  "commands_set": true,
  "events": [
   {
@@ -2241,12 +2241,152 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/cloud-administrator-m-w-d-11/bewerben"
+  },
+  {
+   "at": "2026-10-27T09:55:58+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachreferent Arten- und Gebietsschutz (m/w/d) Hannover Seit 27. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109468/Fachreferent%20Arten-%20und%20Gebietsschutz%20(m%2Fw%2Fd)/Hannover"
+  },
+  {
+   "at": "2026-10-27T09:55:58+00:00",
+   "kind": "new",
+   "site": "Sielaff",
+   "title": "Initiativbewerbung Praktikum Sie suchen als Schüler (m/w/d) oder Student (m/w/d) eine Möglichkeit zur Orientierung in der Berufswelt? Dann sind Sie be",
+   "url": "https://jobs.sielaff.de/de?id=fac533"
+  },
+  {
+   "at": "2026-10-27T09:55:58+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Kalkulator Elektrotechnik (m/w/d) Berufseinsteiger Uedem Neu",
+   "url": "https://karriere.omexom.de/jobs/68343053/Kalkulator-Elektrotechnik-m-w-d-"
+  },
+  {
+   "at": "2026-10-27T09:55:58+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mechatroniker für Montage und Prüfung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000180V9xQAE"
+  },
+  {
+   "at": "2026-10-27T09:55:58+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker CNC (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000180G2uQAE"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Production Manager (f/m/div) München HRC1848566 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972253156"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Manager Production Management Melaka + 1 more HRC1844860",
+   "url": "https://jobs.infineon.com/careers/job/563808972250926"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Specialist Production Management Penang HRC1826532",
+   "url": "https://jobs.infineon.com/careers/job/563808972139629"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager Production Singapur HRC1663900",
+   "url": "https://jobs.infineon.com/careers/job/563808971036138"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Specialist Production Management Malakka HRC1820065",
+   "url": "https://jobs.infineon.com/careers/job/563808972144484"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Assembly Manager / Senior Staff Engineer for Subcon Management Seoul HRC1855534",
+   "url": "https://jobs.infineon.com/careers/job/563808972254851"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Production Management Samut Prakan HRC1783888_1",
+   "url": "https://jobs.infineon.com/careers/job/563808971933119"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Expert Fabrikphysik & Produktionsperformance (w/m/div) Dresden (Deutschland) HRC1700108",
+   "url": "https://jobs.infineon.com/careers/job/563808971492694"
+  },
+  {
+   "at": "2026-10-27T09:54:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Specialist Production Management Malakka HRC1756976",
+   "url": "https://jobs.infineon.com/careers/job/563808971878106"
+  },
+  {
+   "at": "2026-10-27T09:54:46+00:00",
+   "kind": "new",
+   "site": "Bühler Motor",
+   "title": "27.10.2026 Vollzeit Key Account Manager (m/w/d) Automotive Nürnberg (Bayern) Sonstige Berufserfahrene",
+   "url": "https://www.buehlermotor.de/karriere/stellenangebote/detail/de-1-key-account-manager-m/w/d-automotive.html"
+  },
+  {
+   "at": "2026-10-27T09:54:46+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Arbeitsschutz/ Arbeitssicherheit Sonstige Beauftragte:r für integrierte Managementsysteme (IMS-Beauftragte:r) Standort Hannover Arbeitszeitmodell Voll",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/beauftragter-fuer-integrierte-managementsysteme-ims-beauftragter--12023"
+  },
+  {
+   "at": "2026-10-27T09:54:46+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Sachbearbeiter Disposition",
+   "url": "https://careers.motherson.com/en/job/sachbearbeiter-disposition-m-w-d-7451"
+  },
+  {
+   "at": "2026-10-27T09:55:00+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) in Teilzeit (Rechnungswesen & Finanzen) in 44805 Bochum Rechnungswesen & Finanzen 44805 Bochum Homeoffice möglich vor 10 Stunden",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-in-teilzeit-8"
+  },
+  {
+   "at": "2026-10-27T09:55:00+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroniker für Betriebstechnik (m/w/d) (Produktion & Fertigung) in 45879 Gelsenkirchen , 45468 Mülheim an der Ruhr , 46045 Oberhausen , 46236 Bottro",
+   "url": "https://jobs.de.dis-ag.com/elektroniker-fuer-betriebstechnik-m-w-d-26"
+  },
+  {
+   "at": "2026-10-27T09:55:00+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-in-teilzeit-8/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T09:41:14+00:00",
+ "last_run": "2026-10-27T09:56:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
