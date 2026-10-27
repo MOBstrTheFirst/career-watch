@@ -1,91 +1,7 @@
 {
- "alerts": 209,
+ "alerts": 219,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Technischer Vertrieb ATC (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-technischer-vertrieb-atc-m-w-d_251563-1706112.html"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Technical Sales (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-technical-sales-m-w-d_251563-1705922.html"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Systems Engineering / Model-Based Systems Engineering (MBSE) (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-systems-engineering-model-based-systems-engineering-mbse-m-w-d_251563-1705921.html"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Praktikant Device Integration Audio Team (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-device-integration-audio-team-m-w-d_251563-1705920.html"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent Standortassistenz (Fokus Sicherheit) (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-standortassistenz-fokus-sicherheit-m-w-d_251563-1705664.html"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Simulation numérique du procédé d’emboutissage des grilles des assemblages de combustibles F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-simulation-numerique-du-procede-demboutissage-des-grilles-des-assemblages-de-combustibles-f-h-ref-2026-28130"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Qualité produit et Intelligence Artificielle F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-qualite-produit-et-intelligence-artificielle-f-h-ref-2026-28129"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Technicien d’essais mécanique et mécanique des fluides F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-technicien-dessais-mecanique-et-mecanique-des-fluides-f-h-ref-2026-28127"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage -Prise en compte de la démarche de fuite avant rupture dans les analyses de sûreté d’un RNR-Na F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-prise-en-compte-de-la-demarche-de-fuite-avant-rupture-dans-les-analyses-de-surete-dun-rnr-na-f-h-ref-2026-28125"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Chef de projet informatique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-chef-de-projet-informatique-f-h-ref-2026-28122"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur développement logiciel pour prototypage rapide F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-developpement-logiciel-pour-prototypage-rapide-f-h-ref-2026-28121"
-  },
-  {
-   "at": "2026-10-26T23:12:59+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable Qualité Sûreté – Site industriel F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-qualite-surete-site-industriel-f-h-ref-2026-28035"
-  },
   {
    "at": "2026-10-26T23:12:59+00:00",
    "kind": "new",
@@ -3333,12 +3249,264 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/financial-controller-m-w-d-57/bewerben"
+  },
+  {
+   "at": "2026-10-27T11:40:51+00:00",
+   "kind": "text",
+   "site": "Avenir Photonics",
+   "title": "3 new text line(s), e.g. Photonics West 2027",
+   "url": "https://www.avenirphotonics.com/"
+  },
+  {
+   "at": "2026-10-27T11:40:51+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "IT & Cybersecurity Teamleiter*in Sales Support Industrie Service (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Teamleiterin-Sales-Support-Industrie-Service-w_m_d-Berlin?id=21804"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "IT Systems Engineer (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Systems-Engineer--d-m-w-_JR10417940?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Intercomapny Procurement Specialist（インターカンパニー調達 三田オフィス）",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01364141/Intercomapny-Procurement-Specialist（インターカンパニー調達　三田オフィス）"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Intercomapny Procurement Specialist（インターカンパニー調達 三田オフィス）",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01364141EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Operator II, Manufacturing - Second Shift",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01367582/Operator-II-Manufacturing-Second-Shift"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Operator II, Manufacturing - Second Shift",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01367582EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "DO NOT APPLY - TEST REQ - CRG - Manager, Product Support - Waltham US",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01369236/DO-NOT-APPLY-TEST-REQ-CRG-Manager-Product-Support-Waltham-US"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Manager, Product Support - Waltham US",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369236EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "DO NOT APPLY - TEST REQ - Sales Training Specialist II - Portage US",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01369259/DO-NOT-APPLY-TEST-REQ-Sales-Training-Specialist-II-Portage-US"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now DO NOT APPLY - TEST REQ - Sales Training Specialist II - Portage US",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369259EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Engineer III, Software",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01369284/Engineer-III-Software"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Engineer III, Software",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369284EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "DO NOT APPLY - TEST REQ - Executive Assistant (NE) - St. Louis US",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01369253/DO-NOT-APPLY-TEST-REQ-Executive-Assistant-NE-St-Louis-US"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now DO NOT APPLY - TEST REQ - Executive Assistant (NE) - St. Louis US",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369253EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Manufacturing Leader",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01367788/Manufacturing-Leader"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Manufacturing Leader",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01367788EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "DO NOT APPLY - TEST REQ - CRG - Specialist, Clinical Lab Scientist - St. Louis US",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01369249/DO-NOT-APPLY-TEST-REQ-CRG-Specialist-Clinical-Lab-Scientist-St-Louis-US"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Specialist, Clinical Lab Scientist - St. Louis US",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369249EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Credit & Collections Representative II. - German speaker",
+   "url": "https://jobs.thermofisher.com/global/en/job/R-01367877/Credit-Collections-Representative-II-German-speaker"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
+   "title": "Apply Now Credit & Collections Representative II. - German speaker",
+   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01367877EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Corporate Student - Business Administration and Engineering - general",
+   "url": "https://career.skf.com/job/Walldorf-Corporate-Student-Business-Administration-and-Engineering-general/1451655433"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "SKF – Schweinfurt",
+   "title": "Duales Studium - Allgemeine Betriebswirtschaft und Ingenieurwesen B. Eng. (m/w/d)",
+   "url": "https://career.skf.com/job/Walldorf-Duales-Studium-Allgemeine-Betriebswirtschaft-und-Ingenieurwesen-B_-Eng_-%28mwd%29/1451655333"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "mikrolab Entwicklungsgesellschaft für Elektroniksysteme",
+   "title": "Sachbearbeiter Vertrieb (m/w/d)",
+   "url": "https://jobs.pruefrex.de/Sachbearbeiter-Vertrieb-mwd-de-j114.html"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Bootsbauer / Yachtbauer (m/w/d) – Greifswald Greifswald",
+   "url": "https://www.tempton.de/jobs/bootsbauer-yachtbauer-greifswald"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Elektriker für den Yacht- und Schiffbau (m/w/d) – Greifswald Greifswald",
+   "url": "https://www.tempton.de/jobs/elektriker-den-yacht-schiffbau-greifswald"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Werkstattleiter (m/w/d) Rostock",
+   "url": "https://www.tempton.de/jobs/werkstattleiter-3"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Kraftfahrzeugmechaniker (m/w/d) Rostock",
+   "url": "https://www.tempton.de/jobs/kraftfahrzeugmechaniker-93"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 CNC-Bediener (m/w/d) – bis zu 20,00 €/Std. in Greifswald Greifswald",
+   "url": "https://www.tempton.de/jobs/cnc-bediener-20-00-euro-std-greifswald"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 LKW-Fahrer C / Berufskraftfahrer (m/w/d) – Vollzeit ab 18€/h Greifswald",
+   "url": "https://www.tempton.de/jobs/lkw-fahrer-c-berufskraftfahrer-vollzeit-18-euro-pro-stunde"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Tischler / Schreiner (m/w/d) in Greifswald – bis zu 20,00 €/Std. Greifswald",
+   "url": "https://www.tempton.de/jobs/tischler-schreiner-greifswald-20-00-euro-std"
+  },
+  {
+   "at": "2026-10-27T11:40:02+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "27.10.2026 Laminierer / Gelcoat-Spritzer (m/w/d) Greifswald",
+   "url": "https://www.tempton.de/jobs/laminierer-gelcoat-spritzer"
+  },
+  {
+   "at": "2026-10-27T11:39:57+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Maintenance Lead Engineer (Upstream)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Telford-GB/Maintenance-Lead-Engineer--Upstream-_R00266350-9?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T11:39:57+00:00",
+   "kind": "possible",
+   "site": "softgate",
+   "title": "(Junior) Technical Consultant Digital Business (m/w/d)",
+   "url": "https://join.com/companies/softgate"
+  },
+  {
+   "at": "2026-10-27T11:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmann für Spedition und Logistikdienstleistung (m/w/d) (Logistik & Transport) in 74074 Heilbronn Logistik & Transport 74074 Heilbronn vor 12 Stunde",
+   "url": "https://jobs.de.dis-ag.com/kaufmann-fuer-spedition-und-logistikdienstleistung-m-w-d-4"
+  },
+  {
+   "at": "2026-10-27T11:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kaufmann-fuer-spedition-und-logistikdienstleistung-m-w-d-4/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T11:26:01+00:00",
+ "last_run": "2026-10-27T11:41:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
