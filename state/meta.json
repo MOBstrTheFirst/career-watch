@@ -1,5 +1,5 @@
 {
- "alerts": 42,
+ "alerts": 43,
  "commands_set": true,
  "events": [
   {
@@ -680,12 +680,19 @@
    "site": "Bruker – Erlangen",
    "title": "Title Assistant Sales Manager – West",
    "url": "https://internationalcareers-bruker.icims.com/jobs/20116/assistant-sales-manager-%e2%80%93-west/job?hub=12"
+  },
+  {
+   "at": "2026-10-27T05:54:44+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "DH-Studium BWL - Food Management (m/w/d)",
+   "url": "https://jobs.testo.com/4377-dh-studium-bwl-food-management-m-w-d/de/job.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T05:41:12+00:00",
+ "last_run": "2026-10-27T06:00:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 26,
+ "runs": 27,
  "tg_offset": 297408924
 }
