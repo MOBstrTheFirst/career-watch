@@ -1,11 +1,110 @@
 {
- "alerts": 0,
+ "alerts": 7,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-10-27T23:10:36+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Manufacturing Leader (f/m/d)",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/Manufacturing-Leader-%28fmd%29/2406-en_US"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Global Service Product Manager A&D Systems",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/global-service-product-manager-ad-systems_251563-1708547.html"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Responsable Plateforme électronique F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-plateforme-electronique-f-h-ref-2026-28172"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Soudeur Automatique F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/soudeur-automatique-f-h-ref-2026-28176"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Stage – Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-en-ia-agentique-optimisation-de-modeles-par-agents-llm-f-h-ref-2026-27724"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Opérateur de Fabrication Atelier GRAPPES F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateur-de-fabrication-atelier-grappes-f-h-ref-2026-28161"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "emz-Hanauer",
+   "title": "RO",
+   "url": "https://www.emz-hanauer.de/ro/karriere/offene-stellen?tx_powermail_pi1%5Baction%5D=create%27&tx_powermail_pi1%5Bcontroller%5D=Form%27%22"
+  },
+  {
+   "at": "2026-10-27T23:09:53+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Werkstudent/Praktikant (m/w/d) Planung Systemparkhäuser",
+   "url": "https://jobportal.max-boegl.de/WerkstudentPraktikant-mwd-Planung-Systemparkhaeuser-de-j2344.html"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Werkstudent IT Contract Management (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5072530&jobId=119048"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Contract Manager",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4885025&jobId=118719"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Computer Vision & Robotics AI Software Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sophia-Antipolis-Valbonne/Computer-Vision---Robotics-AI-Software-Engineer_R-10067059?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Principal System and Application Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Principal-System-and-Application-Engineer_R-10067510?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior System and Application engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Senior-System-and-Application-engineer_R-10067511-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T23:10:08+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "System and Application Engineer F/M",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Catania/System-and-Application-Engineer-F-M_R-10067301?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T22:55:48+00:00",
+ "last_run": "2026-10-27T23:10:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
