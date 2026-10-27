@@ -1,5 +1,5 @@
 {
- "alerts": 157,
+ "alerts": 171,
  "commands_set": true,
  "events": [
   {
@@ -2381,12 +2381,187 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-in-teilzeit-8/bewerben"
+  },
+  {
+   "at": "2026-10-27T10:10:37+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Working Student – Venture Clienting Operations (m/f/d)",
+   "url": "https://jobs.bsh-group.de/45984-working-student-venture-clienting-operations-m-f-d/de/job.html"
+  },
+  {
+   "at": "2026-10-27T10:10:37+00:00",
+   "kind": "new",
+   "site": "ENACO Energieanlagen- und Kommunikationstechnik",
+   "title": "Projektassistent / technischer Bearbeiter im 110 - 380 kV Freileitungsbau (m/w/d) ENACO Energieanlagen- und Kommunikationstechnik GmbH Mannheim Vollze",
+   "url": "https://freitag.helixjobs.com/_/jobad?prj=709P14076"
+  },
+  {
+   "at": "2026-10-27T10:19:51+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Technischer Trainer im Bereich Mechanik Eurofighter (d/w/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Technischer-Trainer-im-Bereich-Mechanik-Eurofighter--d-w-m-_JR10452930?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T10:19:51+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Intern for Embedded Test Platform (m/f/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-27T10:19:51+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Intern in the Field Cybersecurity in Embedded Systems (m/f/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-27T10:19:51+00:00",
+   "kind": "possible",
+   "site": "Maschinenfabrik Reinhausen",
+   "title": "Praktikant im Bereich Betriebsmittelkonstruktion (m/w/d)",
+   "url": "https://www.reinhausen.com/career/jobs"
+  },
+  {
+   "at": "2026-10-27T10:19:51+00:00",
+   "kind": "new",
+   "site": "Zuken E3 – Erlangen",
+   "title": "Pre-sales Milan, Italy - permanent Application Engineer (f/m/d) Pre-sales",
+   "url": "https://www.zuken.com/it/career/application-engineer-2610-it"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent zur Unterstützung Software-Systemintegration und Verifikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-zur-unterstuetzung-software-systemintegration-und-verifikation-m-w-d_251563-1708225.html"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Validierung und Integration (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-validierung-und-integration-m-w-d_251563-1708224.html"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Technical Facility Manager Veldhoven, Netherlands Real Estate and Facilities Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/technical-facility-manager-j00347095"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97959 Assamstadt 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1LsFzM-produktionsmitarbeiter-mwd_97959-assamstadt"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Ingenieur/Techniker (m/w/d) Tiefbau 67677 Enkenbach-Alsenborn 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z15iFi7-ingenieurtechniker-mwd-tiefbau_67677-enkenbach-alsenborn"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter für die Produktion von Tiernahrung (m/w/d) 96135 Stegaurach 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1l2BQN-mitarbeiter-fuer-die-produktion-von-tiernahrung-mwd_96135-stegaurach"
+  },
+  {
+   "at": "2026-10-27T10:19:56+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gästebetreuer und Gruppenführer (m/w/d) für Baumwipfelpfand in Ebrach gesucht 96157 Ebrach, Oberfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZFwVz9-gaestebetreuer-und-gruppenfuehrer-mwd-fuer-baumwipfelpfand-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Defence Dualer Student (m/w/d) Maschinenbau (ausbildungsintegriert) ab September 2027 27.10.2026 Ausbildung/Studium Überlingen am Bodensee",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/dualer-student-m-w-d-maschinenbau-ausbildungsintegriert-ab-september-2027"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Metering Einsteller (m/w/d) für Spritzgussmaschinen 27.10.2026 Produktion Ansbach",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/einsteller-m-w-d-fuer-spritzgussmaschinen2"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Referent Projekt- und Qualitätsmanagement (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5112287&jobId=119131"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Verkäufer / Kundenberater (m/w/d) o2 Shop Sulzbach (Taunus)",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/Sulzbach-Verk%C3%A4ufer-Kundenberater-%28mwd%29-o2-Shop-Sulzbach-%28Taunus%29-HE-65843/1449293933"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "possible",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Mobile Packet Core Engineer",
+   "url": "https://www.gi-de.com/en/careers/jobs"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/d0fcbfbb-d39d-4007-d28e-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/e94b2439-7909-4a4a-d28f-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/a7357dac-54e5-417d-d290-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Einkaufssachbearbeiter (m/w/d) (Büroverwaltung) in 79111 Freiburg Büroverwaltung 3.700,00 - 4.068,00 EUR / Monat 79111 Freiburg vor 11 Stunden",
+   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-87"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Accountant (m/w/d) mit Schwerpunkt Intercompany & Controlling mit DATEV-Kenntnissen (Rechnungswesen & Finanzen) in 55545 Bad Kreuznach Rechnungswesen ",
+   "url": "https://jobs.de.dis-ag.com/accountant-m-w-d-mit-schwerpunkt-intercompany-und-controlling-mit-datev-kenntnissen"
+  },
+  {
+   "at": "2026-10-27T10:20:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-87/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T09:56:14+00:00",
+ "last_run": "2026-10-27T10:20:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
