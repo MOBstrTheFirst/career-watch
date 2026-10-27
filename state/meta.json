@@ -1,5 +1,5 @@
 {
- "alerts": 20,
+ "alerts": 21,
  "commands_set": true,
  "events": [
   {
@@ -400,12 +400,19 @@
    "site": "toolcraft",
    "title": "Feedback wird in einem neuen Fenster geöffnet",
    "url": "https://tally.friendlycaptcha.com/widget-feedback?sdk_version=0.1.32&sitekey=FCMVHNAUNS3JA51L&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F141.0.0.0+Safari%2F537.36&agent_id=a_HIm1gxXU3ndB&widget_id=w_MGrrJPunKdci"
+  },
+  {
+   "at": "2026-10-27T02:01:35+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Technician Reliability Product Testing Malakka HRC1841933",
+   "url": "https://jobs.infineon.com/careers/job/563808972251616"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T01:46:35+00:00",
+ "last_run": "2026-10-27T02:01:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 10,
+ "runs": 11,
  "tg_offset": 297408924
 }
