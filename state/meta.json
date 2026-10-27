@@ -1,5 +1,5 @@
 {
- "alerts": 43,
+ "alerts": 47,
  "commands_set": true,
  "events": [
   {
@@ -687,12 +687,54 @@
    "site": "Testo Industrial Services – Kulmbach",
    "title": "DH-Studium BWL - Food Management (m/w/d)",
    "url": "https://jobs.testo.com/4377-dh-studium-bwl-food-management-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-27T06:09:48+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Senior Engineer, Product Support",
+   "url": "https://careers.landisgyr.com/job/Noida-Senior-Engineer%2C-Product-Support-UP/1451492833"
+  },
+  {
+   "at": "2026-10-27T06:09:43+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikum (m/w/d): Ausbildung / Duales Studium Teisnach Herbstferien 2026",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikum-m-w-d-ausbildung-duales-studium-teisnach-herbstferien-2026_251563-1627780.html"
+  },
+  {
+   "at": "2026-10-27T06:09:43+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "FH-Pflichtpraktikant im Bereich Stiffness/Durability",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/FH-Pflichtpraktikant-im-Bereich-Stiffness-Durability_R00266947?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T06:10:14+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Supply Chain Planner",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027535?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T06:10:14+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Supply Chain Planner",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027536?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T06:10:14+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Supply Chain Planner",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027537?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T06:00:05+00:00",
+ "last_run": "2026-10-27T06:11:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 27,
+ "runs": 28,
  "tg_offset": 297408924
 }
