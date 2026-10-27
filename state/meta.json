@@ -1,161 +1,7 @@
 {
- "alerts": 255,
+ "alerts": 262,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T07:10:41+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Mitarbeiter Monitoring / Überwachung / Sicherheit (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/4c482092-5f3b-5f99-9096-b88e5f5fc32f/mitarbeiter-monitoring-ueberwachung-sicherheit-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:09:58+00:00",
-   "kind": "new",
-   "site": "Testo Industrial Services – Kulmbach",
-   "title": "Global Key Account Manager – Catering & Food Safety (f/m/x)",
-   "url": "https://jobs.testo.com/4375-global-key-account-manager-catering-food-safety-f-m-x/de/job.html"
-  },
-  {
-   "at": "2026-10-27T07:10:27+00:00",
-   "kind": "possible",
-   "site": "TÜV NORD EnSys",
-   "title": "Industrial Engineering (16)",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/"
-  },
-  {
-   "at": "2026-10-27T07:10:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC Fräser (m/w/d) 83022 Rosenheim, Oberbayern 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nyfCY-cnc-fraeser-mwd_83022-rosenheim-oberbayern"
-  },
-  {
-   "at": "2026-10-27T07:10:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker/in Energie- und Gebäudetechnik Metallbranche (m/w/d) 92637 Weiden in der Oberpfalz 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/NUpgA-elektronikerin-energie-und-gebaeudetechnik-metallbranche-mwd_92637-weiden-in-der-oberpfalz"
-  },
-  {
-   "at": "2026-10-27T07:10:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 92709 Moosbach bei Vohenstrauß 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/gPkeh-maschinenbediener-mwd_92709-moosbach-bei-vohenstrauss"
-  },
-  {
-   "at": "2026-10-27T07:10:27+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener 2D - Laserschneideanlage (m/w/d) 83022 Rosenheim, Oberbayern 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1zCgWp-maschinenbediener-2d-laserschneideanlage-mwd_83022-rosenheim-oberbayern"
-  },
-  {
-   "at": "2026-10-27T07:10:05+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence SAP-Projektleiter (m/w/d) 27.10.2026 Informationstechnologie Nonnweiler, Röthenbach a.d. Pegnitz, Überlingen am Bodensee, Markdorf",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/sap-projektleiter-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:10:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Customer Service Agent Kundenservice (m/w/d) (Büroverwaltung) in 38444 Wolfsburg Büroverwaltung 38444 Wolfsburg vor 8 Stunden",
-   "url": "https://jobs.de.dis-ag.com/customer-service-agent-kundenservice-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:25:44+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Werkstudent im Bereich Global Quality Management (m/f/d)",
-   "url": "https://jobs.bsh-group.de/45972-werkstudent-im-bereich-global-quality-management-m-f-d/de/job.html"
-  },
-  {
-   "at": "2026-10-27T07:25:44+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Montagehelfer (m/w/d) / Staplerfahrer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018t3L7QAI"
-  },
-  {
-   "at": "2026-10-27T07:24:44+00:00",
-   "kind": "new",
-   "site": "WS Audiology (Signia, ex-Siemens Audiology)",
-   "title": "Praktikum Signalverarbeitung / Hörgeräteentwicklung (m/w/d)",
-   "url": "https://careersemea.wsa.com/jobs/8619235-praktikum-signalverarbeitung-horgerateentwicklung-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Consul­tant TYPO3 Plat­form (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 70.000 € Hamburg, Deutsch­land Informationstechnik Weitere Young Professionals Pr",
-   "url": "https://touch.ferchau.com/de/de/job/525721/consultant-typo3-platform"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "Oechsler AG",
-   "title": "Bilanzbuchhalter (m/w/d)",
-   "url": "https://career.oechsler.com/jobposting/681c26ae51ab03f7e82aaa3b3804d5527b795307"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter (m/w/d) Fahrzeugfolierung 04509 Wiedemar 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2kFWLG-mitarbeiter-mwd-fahrzeugfolierung_04509-wiedemar"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bilanzbuchhalter (m/w/d) 92507 Nabburg 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1KTc3G-bilanzbuchhalter-mwd_92507-nabburg"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Speditionskaufmann (m/w/d) 92263 Ebermannsdorf 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1I6OzT-speditionskaufmann-mwd_92263-ebermannsdorf"
-  },
-  {
-   "at": "2026-10-27T07:25:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelferin (m/w/d) für Siemens AG 92224 Amberg, Oberpfalz 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcI7Hz-produktionshelferin-mwd-fuer-siemens-ag_92224-amberg-oberpfalz"
-  },
-  {
-   "at": "2026-10-27T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Projektleiter Defence & Land Systems (m/w/d) (Produktion & Fertigung) in 89075 Ulm Produktion & Fertigung 89075 Ulm Homeoffice möglich vor 8 St",
-   "url": "https://jobs.de.dis-ag.com/senior-projektleiter-defence-und-land-systems-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Embedded Software Entwickler C++ (m/w/d) (IT & Software) in 89075 Ulm IT & Software 89075 Ulm Homeoffice möglich vor 8 Stunden",
-   "url": "https://jobs.de.dis-ag.com/embedded-software-entwickler-c-m-w-d"
-  },
-  {
-   "at": "2026-10-27T07:39:53+00:00",
-   "kind": "new",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Automation Engineer (w/m/d)",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Feucht/Automation-Engineer--w-m-d-_R23214?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T07:40:11+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Logistics Supplier Manager Hwasung, Korea Sourcing and Supply Chain Management",
-   "url": "https://www.asml.com/en/careers/find-your-job/logistics-supplier-manager-j00347976"
-  },
   {
    "at": "2026-10-27T07:40:11+00:00",
    "kind": "new",
@@ -3501,12 +3347,166 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-fahrzeugauslieferung-1/bewerben"
+  },
+  {
+   "at": "2026-10-27T12:55:41+00:00",
+   "kind": "possible",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Obermonteur Klima- und Lüftungstechnik für konventionelle und kerntechnische Anlagen (m/w/d)",
+   "url": "https://karriere.omexom.de/"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Team Lead Logistics Operations 5-shift Support Veldhoven, Netherlands Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/team-lead-logistics-operations-5-shift-support-j00354320"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Ferienarbeiter (m/w/d) am Standort Schweinfurt 2027",
+   "url": "https://jobs.zf.com/job/Schweinfurt-Ferienarbeiter-%28mwd%29-am-Standort-Schweinfurt-2027-BY/1451693533"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Senior Engineer",
+   "url": "https://careers.motherson.com/en/job/senior-engineer-7273"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Operativer Einkäufer Produktionslogistik und LCS (m/w/d) 93073 Neutraubling 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/nlDBi-operativer-einkaeufer-produktionslogistik-und-lcs-mwd_93073-neutraubling"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Facharbeiter Endmontage (m/w/d) 41065 Mönchengladbach 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1neVEE-facharbeiter-endmontage-mwd_41065-moenchengladbach"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Tischler (m/w/d) 41065 Mönchengladbach 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2kIagP-tischler-mwd_41065-moenchengladbach"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenführer 18,51 €/Std. - 20,57 €/Std. (m/w/d) 41065 Mönchengladbach 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WuQQ7-maschinenfuehrer-1851-eurostd-2057-eurostd-mwd_41065-moenchengladbach"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) zur Direktvermittlung 90443 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9rVt6-bilanzbuchhalter-mwd-zur-direktvermittlung_90443-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WEG-Verwalter (m/w/d) zur Direktvermittlung 90443 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZSVN9Q-weg-verwalter-mwd-zur-direktvermittlung_90443-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) in Voll- oder Teilzeit 91413 Neustadt an der Aisch 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZnUQ3c-finanzbuchhalter-mwd-in-voll-oder-teilzeit_91413-neustadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Controller (m/w/d) zur Direktvermittlung 90419 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/99dXj-controller-mwd-zur-direktvermittlung_90419-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) Sondermaschinenbau zur Direktvermittlung, Region Nürnberg/Erlangen 91058 Erlangen 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/nC8y3-elektroniker-mwd-sondermaschinenbau-zur-direktvermittlung-region-nuernbergerlangen_91058-erlangen"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) zur Direktvermittlung, Nürnberg 90471 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1r1Sc3-mechatroniker-mwd-zur-direktvermittlung-nuernberg_90471-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Frankfurt 60389 Frankfurt am Main 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1cxXBC-servicetechniker-mwd-zur-direktvermittlung-frankfurt_60389-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenmechaniker SHK (m/w/d) zur Direktvermittlung 90443 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2u7UkP-anlagenmechaniker-shk-mwd-zur-direktvermittlung_90443-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Internationaler Servicetechniker (m/w/d) zur Direktvermittlung 90402 Nürnberg, Mittelfranken 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1HyUIG-internationaler-servicetechniker-mwd-zur-direktvermittlung_90402-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Stuttgart 70178 Stuttgart 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1W2Pix-servicetechniker-mwd-zur-direktvermittlung-stuttgart_70178-stuttgart"
+  },
+  {
+   "at": "2026-10-27T12:54:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker / Mechatroniker (m/w/d) zur Direktvermittlung 91413 Neustadt an der Aisch 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/253gn0-elektroniker-mechatroniker-mwd-zur-direktvermittlung_91413-neustadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-27T12:54:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) im Vertriebsinnendienst (Büroverwaltung) in 69181 Leimen Büroverwaltung 69181 Leimen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-im-vertriebsinnendienst-1"
+  },
+  {
+   "at": "2026-10-27T12:54:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Leimen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-leimen"
+  },
+  {
+   "at": "2026-10-27T12:54:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-im-vertriebsinnendienst-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T12:44:50+00:00",
+ "last_run": "2026-10-27T13:05:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
