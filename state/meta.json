@@ -1,5 +1,5 @@
 {
- "alerts": 16,
+ "alerts": 17,
  "commands_set": true,
  "events": [
   {
@@ -365,12 +365,19 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/weg-buchhalter-m-w-d-15/bewerben"
+  },
+  {
+   "at": "2026-10-27T00:33:22+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Client Services Consultant – MSD Software Compliance",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-NY-Melville/Client-Services-Consultant---MSD-Software-Compliance_R027465?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T00:14:11+00:00",
+ "last_run": "2026-10-27T00:33:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 5,
+ "runs": 6,
  "tg_offset": 297408924
 }
