@@ -1,119 +1,7 @@
 {
- "alerts": 299,
+ "alerts": 308,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T09:05:33+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Projektleiter Elektrotechnik / TGA (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/0f8aefd4-51c1-49ca-800c-63445776bd80"
-  },
-  {
-   "at": "2026-10-27T09:05:33+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Isolierer (m/w/d) ab 21€/h in Nürnberg gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018ttunQAA"
-  },
-  {
-   "at": "2026-10-27T09:05:33+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Elektrofachkraft (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000016eTH6QAM"
-  },
-  {
-   "at": "2026-10-27T09:05:33+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Produktionsmitarbeiter (m/w/d) Verdrahtung Wechselrichter",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000014zAHNQA2"
-  },
-  {
-   "at": "2026-10-27T08:55:01+00:00",
-   "kind": "new",
-   "site": "Thomann",
-   "title": "Mitarbeiter für unseren Polnischen Customer Service am Hauptsitz in Treppendorf (m/w/d)",
-   "url": "https://jobs.thomann.de/karriere/Mitarbeiter-fuer-unseren-Polnischen-Customer-Service-am-Ha-de-j195.html"
-  },
-  {
-   "at": "2026-10-27T08:55:44+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Senior Service Manager Automation (m/w/d) bevorzugt in Bonn, Frankfurt, München oder Nürnberg, alternativ bundesweit an einem BWI-Standort",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-service-manager-automation-m-w-d-71052"
-  },
-  {
-   "at": "2026-10-27T08:55:44+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Engineer API Management (m/w/d) bundesweit an einem unserer BWI-Standorte.",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/engineer-api-management-m-w-d-71048"
-  },
-  {
-   "at": "2026-10-27T08:55:44+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Servicetechniker / Diagnosetechniker (m/w/d) 84489 Burghausen, Salzach 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZQoHQv-servicetechniker-diagnosetechniker-mwd_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-27T08:55:44+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Karosserie- und Fahrzeugbaumechaniker (m/w/d) 94469 Deggendorf 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2ew2eL-karosserie-und-fahrzeugbaumechaniker-mwd_94469-deggendorf"
-  },
-  {
-   "at": "2026-10-27T08:55:44+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Empfangsmitarbeiter (m/w/d) 94469 Deggendorf 27.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/CDOyp-empfangsmitarbeiter-mwd_94469-deggendorf"
-  },
-  {
-   "at": "2026-10-27T08:54:59+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "AFE EHS 管理員",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kaohsiung/AFE-EHS-_R-10067146?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T08:54:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Rechnungswesen & Controlling (m/w/d) (Rechnungswesen & Finanzen) in 99423 Weimar , 99084 Erfurt , 07545 Gera , 07629 Hermsdorf , 07749 Jen",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-rechnungswesen-und-controlling-m-w-d-1"
-  },
-  {
-   "at": "2026-10-27T08:54:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-rechnungswesen-und-controlling-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-27T09:10:34+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinenbediener (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000018twshQAA"
-  },
-  {
-   "at": "2026-10-27T09:09:40+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "AIOps Intern [IDA:00068]",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82163M-p-7dc6460be9406ed842c5e4f7d64acf52/aiops-intern-ida00068-"
-  },
-  {
-   "at": "2026-10-27T09:09:40+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Artificial Intelligence Intern [IDA:00066]",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82164T-p-7dc6460be9406ed842c5e4f7d64acf52/artificial-intelligence-intern-ida00066-"
-  },
   {
    "at": "2026-10-27T09:09:40+00:00",
    "kind": "new",
@@ -3501,12 +3389,124 @@
    "site": "Stadtwerke Würzburg (WVV) / Würzburger Versorgungs- und Verkehrs-GmbH (WVV) – Würzburg",
    "title": "Systemgastronom (m/w/d)",
    "url": "https://jobs.wvv.de/"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Pflichtpraktikum im Bereich Elektronik & Elektrotechnik in der R&D Abteilung",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526600"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526600"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Fertigungssteuerer (w/m/d) Dampfturbine",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Fertigungssteuerer-w-m-d-Dampfturbine/305569"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Combustion Aero Designer (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Combustion-Aero-Designer-w-m-d/304700"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Disponent (w/m/d) - Einsatz- & Auftragssteuerung",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzU0NQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-27T14:25:52+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur automaticien (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000153489051-ingenieur-automaticien-h-f-"
+  },
+  {
+   "at": "2026-10-27T14:37:07+00:00",
+   "kind": "new",
+   "site": "MKS Instruments (Atotech) – Feucht",
+   "title": "Business Analyst (w/m/d)",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/de-DE/MKSCareersEMEA/job/Germany-Berlin/Business-Analyst_R21837?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T14:37:07+00:00",
+   "kind": "new",
+   "site": "TGW Logistics – Regensburg",
+   "title": "Field Service Engineer Market Harborough, United Kingdom On Site Services Experienced Professionals",
+   "url": "https://www.tgw-group.com/en/career/jobs/detail/field-service-engineer-1402"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Geneh­mi­gungs­planer GIS (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 70.000 € Bayreuth, Deutsch­land Green Jobs & Projects 1 Weitere Young Professionals",
+   "url": "https://touch.ferchau.com/de/de/job/525802/genehmigungsplaner-gis"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Quali­täts­ma­nager Optik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Göttingen, Deutsch­land Maschinenbau Pharma und Lifescience Weitere Professio",
+   "url": "https://touch.ferchau.com/de/de/job/523933/qualitaetsmanager-optik"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter Dienst­bar­keiten (m/w/d) Neu Job Hybrid Vollzeit 45.000 - 55.000 € Bayreuth, Deutsch­land Green Jobs & Projects 1 Weitere Young Pro",
+   "url": "https://touch.ferchau.com/de/de/job/525796/sachbearbeiter-dienstbarkeiten"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mate­ri­al­dis­po­nent (m/w/d) Neu Job Hybrid Vollzeit 35.000 - 45.000 € Kassel, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Professionals Senio",
+   "url": "https://touch.ferchau.com/de/de/job/525784/materialdisponent"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mecha­tro­niker (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 50.000 € Salz­hausen, Deutsch­land Anlagenbau Professionals Senior Professionals ohne Person",
+   "url": "https://touch.ferchau.com/de/de/job/525793/mechatroniker"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter Systems Engi­nee­ring Soft­ware (m/w/d) Neu Job Hybrid Vollzeit 60.000 - 70.000 € Bayreuth, Deutsch­land Green Jobs & Projects 1 Weiter",
+   "url": "https://touch.ferchau.com/de/de/job/525787/projektleiter-systems-engineering-software"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "EPLAN – Nürnberg branch",
+   "title": "Servicemonteur (m/w/d) Region Südwestdeutschland",
+   "url": "https://career.friedhelm-loh-group.com/offer-redirect?offerApiId=REUtMDA0MDE1Mw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-27T14:30:43+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 95131 Schwarzenbach a Wald 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZH8UTU-produktionsmitarbeiter-mwd_95131-schwarzenbach-a-wald"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T14:19:14+00:00",
+ "last_run": "2026-10-27T14:37:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
