@@ -1,21 +1,7 @@
 {
- "alerts": 373,
+ "alerts": 375,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Tech­ni­scher Projekt­ma­nager Indus­trie (m/w/d) Job Vor Ort Vollzeit 65.000 - 90.000 € Bremen, Deutsch­land Personal Professionals Senior Profession",
-   "url": "https://touch.ferchau.com/de/de/job/521446/technischer-projektmanager-industrie"
-  },
-  {
-   "at": "2026-10-27T10:25:13+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Buch­halter (m/w/d) Job Vor Ort Vollzeit 50.000 - 60.000 € Pader­born, Deutsch­land Backoffice Young Professionals Professionals ohne Personalverantwo",
-   "url": "https://touch.ferchau.com/de/de/job/509188/buchhalter"
-  },
   {
    "at": "2026-10-27T10:40:46+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-218/bewerben"
+  },
+  {
+   "at": "2026-10-27T16:55:33+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Project Engineer",
+   "url": "https://jobs.sanmina.com/jobs/18410590-project-engineer"
+  },
+  {
+   "at": "2026-10-27T16:55:33+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Receptionist/Switchboard Operator 2 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18324382-receptionist-slash-switchboard-operator-2-r"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T16:49:55+00:00",
+ "last_run": "2026-10-27T16:55:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
