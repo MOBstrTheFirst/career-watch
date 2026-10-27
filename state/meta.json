@@ -1,28 +1,7 @@
 {
- "alerts": 436,
+ "alerts": 438,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now Engineer III, Software",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369284EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - Executive Assistant (NE) - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369253/DO-NOT-APPLY-TEST-REQ-Executive-Assistant-NE-St-Louis-US"
-  },
-  {
-   "at": "2026-10-27T11:40:02+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - Executive Assistant (NE) - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369253EXTERNALENGLOBAL"
-  },
   {
    "at": "2026-10-27T11:40:02+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Broadcom – Regensburg",
    "title": "Client Services Consultant 4",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-FL-Remote-Location/Client-Services-Consultant-4_R027082?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T21:24:51+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum Interne Kommunikation und Presse",
+   "url": "https://jobs.bosch.com/en/job/REF299532H-praktikum-interne-kommunikation-und-presse"
+  },
+  {
+   "at": "2026-10-27T21:24:51+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im Bereich MEMS & Elektronik – Entwicklung, Charakterisierung und Musteraufbau",
+   "url": "https://jobs.bosch.com/en/job/REF299524I-praktikum-im-bereich-mems-elektronik-entwicklung-charakterisierung-und-musteraufbau"
+  },
+  {
+   "at": "2026-10-27T21:25:05+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CNC Process Engineer - Optics (Spherical) Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/cnc-process-engineer-optics-spherical-j00349041"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T21:11:21+00:00",
+ "last_run": "2026-10-27T21:26:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 84,
+ "runs": 85,
  "tg_offset": 297408924
 }
