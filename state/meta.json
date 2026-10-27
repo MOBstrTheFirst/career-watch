@@ -1,70 +1,7 @@
 {
- "alerts": 375,
+ "alerts": 382,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T10:40:46+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Elektroniker (w/m/d) für Betriebstechnik",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527243"
-  },
-  {
-   "at": "2026-10-27T10:40:46+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527243"
-  },
-  {
-   "at": "2026-10-27T10:40:46+00:00",
-   "kind": "new",
-   "site": "Leggett & Platt – Nürnberg",
-   "title": "Global Category Manager (m/f/d)",
-   "url": "https://leggett.com/careers/search?posting=36624"
-  },
-  {
-   "at": "2026-10-27T10:40:46+00:00",
-   "kind": "new",
-   "site": "TÜV Rheinland – Nürnberg",
-   "title": "Training & Weiterbildung Seminarbetreuer*in für die konzerninterne Weiterbildung (w/m/d)",
-   "url": "https://jobs.tuv.com/de/job/Seminarbetreuerin-fuer-die-konzerninterne-Weiterbildung-w_m_d-Schwielowsee?id=22020"
-  },
-  {
-   "at": "2026-10-27T10:40:46+00:00",
-   "kind": "new",
-   "site": "TÜV Rheinland – Nürnberg",
-   "title": "Auditoren & Berater Senior Manager Functional Safety Complex Systems, ADAS, AD (f/m/d)",
-   "url": "https://jobs.tuv.com/en/job/Senior-Manager-Functional-Safety-Complex-Systems-ADAS-AD-f_m_d-Koeln?id=21762"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - CRG - Medical Monitor Sr Manager - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369244/DO-NOT-APPLY-TEST-REQ-CRG-Medical-Monitor-Sr-Manager-St-Louis-US"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Medical Monitor Sr Manager - St. Louis US",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369244EXTERNALENGLOBAL"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "DO NOT APPLY - TEST REQ - CRG - Manager, Clinical Lab Scientist - Athlon Ireland",
-   "url": "https://jobs.thermofisher.com/global/en/job/R-01369217/DO-NOT-APPLY-TEST-REQ-CRG-Manager-Clinical-Lab-Scientist-Athlon-Ireland"
-  },
-  {
-   "at": "2026-10-27T10:39:50+00:00",
-   "kind": "new",
-   "site": "Thermo Fisher Scientific – Erlangen (radiation measurement)",
-   "title": "Apply Now DO NOT APPLY - TEST REQ - CRG - Manager, Clinical Lab Scientist - Athlon Ireland",
-   "url": "https://jobs.thermofisher.com/global/en/hvhapply?jobSeqNo=TFSCGLOBALR01369217EXTERNALENGLOBAL"
-  },
   {
    "at": "2026-10-27T10:39:50+00:00",
    "kind": "new",
@@ -3501,12 +3438,75 @@
    "site": "Sanmina – Gunzenhausen",
    "title": "Receptionist/Switchboard Operator 2 (R)",
    "url": "https://jobs.sanmina.com/jobs/18324382-receptionist-slash-switchboard-operator-2-r"
+  },
+  {
+   "at": "2026-10-27T17:10:52+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Schweinfurt",
+   "title": "General Manager - Global Head of Lubrication Business (f/m/d)",
+   "url": "https://jobs.schaeffler.com/job/Schweinfurt-General-Manager-Global-Head-of-Lubrication-Business-%28fmd%29-97421/1449496033"
+  },
+  {
+   "at": "2026-10-27T17:10:52+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Schweinfurt",
+   "title": "Global Head of Lubrication Business (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Global-Head-of-Lubrication-Business-%28dmw%29-97421/1449496133"
+  },
+  {
+   "at": "2026-10-27T17:10:52+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Controller (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000018wVWGQA2"
+  },
+  {
+   "at": "2026-10-27T17:10:21+00:00",
+   "kind": "new",
+   "site": "SPIE Automation – Haßfurt / SPIE Deutschland – Nürnberg",
+   "title": "Warum SPIE",
+   "url": "https://spie.de/karriere/warum-spie2"
+  },
+  {
+   "at": "2026-10-27T17:13:54+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Cymer - Field Service Engineer Boise, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cymer-field-service-engineer-j00344933"
+  },
+  {
+   "at": "2026-10-27T17:13:54+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Control Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Lancaster-Ohio-US/Control-Engineer_R00267823?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:13:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WIG Schweißer für die Siemens AG (m/w/d) 60386 Frankfurt am Main 27.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1AtD6L-wig-schweisser-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-27T17:10:22+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-27T17:10:22+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Junior Customer Support Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Guadalajara/Junior-Customer-Support-Engineer_R-10067550?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T16:55:52+00:00",
+ "last_run": "2026-10-27T17:14:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
