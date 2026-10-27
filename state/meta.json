@@ -1,14 +1,7 @@
 {
- "alerts": 412,
+ "alerts": 414,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T11:25:03+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­leiter Anla­genbau / Stahlbau (m/w/d) Job Vor Ort Vollzeit 65.000 - 80.000 € Bremer­haven, Deutsch­land Personal Professionals Senior Professi",
-   "url": "https://touch.ferchau.com/de/de/job/519130/projektleiter-anlagenbau-stahlbau"
-  },
   {
    "at": "2026-10-27T11:25:03+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "ABB – Nürnberg branch",
    "title": "Field Service Operations Manager — Data Center Division",
    "url": "https://careers.abb/global/en/job/JR00049611/Field-Service-Operations-Manager-—-Data-Center-Division"
+  },
+  {
+   "at": "2026-10-27T18:50:45+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Senior IC Validation Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Senior-IC-Validation-Engineer_R027526-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-27T18:36:30+00:00",
+ "last_run": "2026-10-27T18:51:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-26",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
