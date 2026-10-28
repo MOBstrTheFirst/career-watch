@@ -1,5 +1,5 @@
 {
- "alerts": 14,
+ "alerts": 18,
  "commands_set": true,
  "events": [
   {
@@ -239,12 +239,145 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-467/bewerben"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "China 1 jobs",
+   "url": "https://jobs.sanmina.com/search/jobs/in/country/china"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Jiangsu 1 jobs",
+   "url": "https://jobs.sanmina.com/search/jobs/in/jiangsu"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Accounting Manager",
+   "url": "https://jobs.sanmina.com/jobs/18412604-accounting-manager"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "8253- Process Technician 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18412565-8253-process-technician-3-r"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler -1st Shift",
+   "url": "https://jobs.sanmina.com/jobs/18412311-material-handler-1st-shift"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "9954 - FA Technician 4 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18412553-9954-fa-technician-4-r"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "9951 - FA Technician 1 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18412552-9951-fa-technician-1-r"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "FA Technician 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18412551-fa-technician-3-r"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "7203 - Production Control Support 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18412435-7203-production-control-support-3-n"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Products Program Manager",
+   "url": "https://jobs.sanmina.com/jobs/18406219-products-program-manager"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Planner",
+   "url": "https://jobs.sanmina.com/jobs/18412310-planner"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Production Operator Helper -2nd Shift",
+   "url": "https://jobs.sanmina.com/jobs/18328813-production-operator-helper-2nd-shift"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Senior Director of Revenue Accounting",
+   "url": "https://jobs.sanmina.com/jobs/18412018-senior-director-of-revenue-accounting"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
+   "url": "https://jobs.sanmina.com/jobs/18411916-it-manager-and-ipm-initiative-portfolio-manager"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
+   "url": "https://jobs.sanmina.com/jobs/18411915-it-manager-and-ipm-initiative-portfolio-manager"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
+   "url": "https://jobs.sanmina.com/jobs/18411913-it-manager-and-ipm-initiative-portfolio-manager"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "CAM Operator",
+   "url": "https://jobs.sanmina.com/jobs/18411836-cam-operator"
+  },
+  {
+   "at": "2026-10-28T00:53:06+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Vision Engineer 3 (N)",
+   "url": "https://jobs.sanmina.com/jobs/18411704-vision-engineer-3-n"
+  },
+  {
+   "at": "2026-10-28T00:52:27+00:00",
+   "kind": "new",
+   "site": "Gerresheimer Regensburg",
+   "title": "Sales Manager – Midwest & Central U.S.",
+   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/1a211516-bf5a-4677-b87b-8cb1b4f578f1?cHash=50280afeb143f8ecbdbb970ff1bbd859dd753dd039d8249ea4cfb78bb2aea75a"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T00:41:06+00:00",
+ "last_run": "2026-10-28T00:53:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 7,
+ "runs": 8,
  "tg_offset": 297408924
 }
