@@ -1,133 +1,7 @@
 {
- "alerts": 220,
+ "alerts": 226,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "IT HR Engineer - SAP Cloud Integration (SCI) Development",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82051X-p-716209b34bc0a676bca417cddb95cfce/it-hr-engineer-sap-cloud-integration-sci-development"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Projektleiter Airborne Solutions (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Immenstaad-Projektleiter-Airborne-Solutions-%28wmd%29-88090/1366090255"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Elektroniker für Geräte und Systeme (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Elektroniker-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28wmd%29-89077/1366053355"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Experte für technische Dokumentation Ersatzteilmanagement ASD S2000M (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Experte-f%C3%BCr-technische-Dokumentation-Ersatzteilmanagement-ASD-S2000M-%28wmd%29-82256/1366062055"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Finance Business Partner (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Wetzlar-Finance-Business-Partner-%28wmd%29-35578/1366079255"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Servicetechniker mit Schwerpunkt Instandsetzung (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Kiel-Servicetechniker-mit-Schwerpunkt-Instandsetzung-%28wmd%29-24145/1369861855"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Arbeitspaketverantwortlicher Produktion (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Arbeitspaketverantwortlicher-Produktion-%28wmd%29-89077/1366047355"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Software-Entwickler mit Schwerpunkt Cyber Security (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Software-Entwickler-mit-Schwerpunkt-Cyber-Security-%28mwd%29-82024/1348270755"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "FM Project Bauingenieur*in oder Architekt*in der Bauabteilung/ Facility Management (Ulm)Management",
-   "url": "https://jobs.hensoldt.net/job/Ulm-FM-Project-Bauingenieurin-oder-Architektin-der-Bauabteilung-Facility-Management-%28Ulm%29Management-89077/1348348455"
-  },
-  {
-   "at": "2026-10-28T02:10:02+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "SAP-Projektleiter Produktionsplanung & -optimierung (m/w/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-SAP-Projektleiter-Produktionsplanung-&-optimierung-%28mwd%29-89077/1366066055"
-  },
-  {
-   "at": "2026-10-28T02:10:24+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Werkstudent (m/w/d) Sourcing & Trading",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/D%C3%BCsseldorf-Werkstudent-%28mwd%29-Sourcing-&-Trading-NW-40474/1429066233"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "SAP Compliance Owner",
-   "url": "https://careers.landisgyr.com/job/Curitiba-SAP-Compliance-Owner/1431991933"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Strategic Sourcing Administrator",
-   "url": "https://careers.landisgyr.com/job/Reynosa-Strategic-Sourcing-Administrator-TAM/1442432433"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Project Coordinator",
-   "url": "https://careers.landisgyr.com/job/Reynosa-Project-Coordinator-TAM/1442432033"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Manager, Accounting",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Manager%2C-Accounting-GA-30004/1442346933"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Quality Analyst",
-   "url": "https://careers.landisgyr.com/job/Curitiba-Quality-Analyst/1442426533"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Trade Compliance Specialist",
-   "url": "https://careers.landisgyr.com/job/Reynosa-Trade-Compliance-Specialist-TAM/1442431833"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Analista Desenvolvimento PL/SQL",
-   "url": "https://careers.landisgyr.com/job/Curitiba-Analista-Desenvolvimento-PLSQL/1442499233"
-  },
   {
    "at": "2026-10-28T02:24:48+00:00",
    "kind": "new",
@@ -3501,12 +3375,138 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-354/bewerben"
+  },
+  {
+   "at": "2026-10-28T11:25:55+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Datenanalyst (m/w/d) - Reporting & Business Intelligence",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MjY3MA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T11:25:55+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "SAP MM Berater (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzU2MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T11:25:55+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Projektingenieur (m/w/d) Driving Efficiency & ePowertrain Performance",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzczOQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T11:25:55+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Isolierer Transformatorenbau (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000195oZbQAI"
+  },
+  {
+   "at": "2026-10-28T11:25:55+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Kommissionierer (m/w/d) bis zu 21€/Stunde gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000196RuKQAU"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Cloud Data Engineer (w/m/d) Duesseldorf, Stuttgart, Frankfurt, Hamburg, Muenchen Data & AI Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/348763-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) DevSecOps Engineer (w/m/d) Duesseldorf, Stuttgart, Frankfurt, Hamburg, Muenchen Cloud Infrastructure Management Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/348739-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter in der Quali­täts­si­che­rung (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 57.500 € Erlangen, Deutsch­land Elektrotechnik Professionals Seni",
+   "url": "https://touch.ferchau.com/de/de/job/525886/mitarbeiter-in-der-qualitaetssicherung"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT Appli­ca­tion Manager Java (m/w/d) Neu Job Hybrid Vollzeit 47.000 - 63.000 € Graz, Öster­reich Informationstechnik Weitere Professionals Senior Pro",
+   "url": "https://touch.ferchau.com/de/de/job/525880/it-application-manager-java"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mecha­tro­niker (m/w/d) Job Vor Ort Vollzeit 45.000 - 56.000 € Lübz, Deutsch­land Elektrotechnik Maschinenbau Young Professionals Professionals ohne P",
+   "url": "https://touch.ferchau.com/de/de/job/506623/mechatroniker"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "z/OS System Engi­neer (m/w/d) Neu Job Remote Vollzeit 90.000 - 100.000 € Haar, Deutsch­land Backoffice Young Professionals Professionals ohne Personal",
+   "url": "https://touch.ferchau.com/de/de/job/525877/z-os-system-engineer"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Prüf­tech­niker Elek­tronik (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 45.250 € Lohmar, Deutsch­land Elektrotechnik Young Professionals Professionals o",
+   "url": "https://touch.ferchau.com/de/de/job/525874/prueftechniker-elektronik"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bilanz­buch­halter / Senior Accoun­tant (m/w/d) in Direkt­ver­mitt­lung Neu Job Hybrid Vollzeit 60.000 - 70.000 € Ludwigs­burg, Deutsch­land Direktver",
+   "url": "https://touch.ferchau.com/de/de/job/525871/bilanzbuchhalter-senior-accountant-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Consultant KI- und ITSM-Digitalisierung (m/w/d) in Bonn.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-consultant-ki-und-itsm-digitalisierung-m-w-d-71131"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "System Engineer - Betrieb SharePoint Application (m/w/d) in München oder Rheinbach",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/system-engineer-betrieb-sharepoint-application-m-w-d-71135"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Consultant Low-Code-/No-Code-Digitalisierung (m/w/d) in Bonn, München, Nürnberg oder Berlin.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-consultant-low-code-no-code-digitalisierung-m-w-d-71143"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter im gehobenen Dienst für das BAMF (m/w/d) 90402 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1DoTPp-sachbearbeiter-im-gehobenen-dienst-fuer-das-bamf-mwd_90402-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T11:24:42+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bauingenieur für Siemens (m/w/d) 91058 Erlangen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJLzBj-bauingenieur-fuer-siemens-mwd_91058-erlangen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T11:11:07+00:00",
+ "last_run": "2026-10-28T11:26:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
