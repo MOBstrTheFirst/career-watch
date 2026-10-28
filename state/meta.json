@@ -1,5 +1,5 @@
 {
- "alerts": 48,
+ "alerts": 53,
  "commands_set": true,
  "events": [
   {
@@ -974,12 +974,40 @@
    "site": "ASML – Erlangen",
    "title": "New Manufacturing- Quality Manager- Linkou Linkou, Taiwan Manufacturing",
    "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-quality-manager-linkou-j00330017"
+  },
+  {
+   "at": "2026-10-28T06:11:12+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Senior Oracle Apps Database Administrator",
+   "url": "https://jobs.sanmina.com/jobs/18412745-senior-oracle-apps-database-administrator"
+  },
+  {
+   "at": "2026-10-28T06:11:12+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "MTR / Medizinischer Technologe Strahlentherapie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/339ccc78-0e3d-5657-862c-c85d50cd7325/mtr-medizinischer-technologe-strahlentherapie-m-w-d"
+  },
+  {
+   "at": "2026-10-28T06:09:49+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - HMI Field Service Engineer - Tainan Tainan, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-hmi-field-service-engineer-tainan-j00335265"
+  },
+  {
+   "at": "2026-10-28T06:09:49+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Manager CAE",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Manager-CAE_R00267443?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T05:56:03+00:00",
+ "last_run": "2026-10-28T06:11:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
