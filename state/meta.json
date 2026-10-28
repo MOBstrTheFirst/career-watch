@@ -1,5 +1,5 @@
 {
- "alerts": 34,
+ "alerts": 36,
  "commands_set": true,
  "events": [
   {
@@ -645,12 +645,26 @@
    "site": "EPLAN – Nürnberg branch",
    "title": "Bachelor of Engineering (m/w/d) Duales Studium Ingenieurwesen - Maschinenbau 2027",
    "url": "https://career.friedhelm-loh-group.com/search"
+  },
+  {
+   "at": "2026-10-28T03:10:43+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "EMBEDDED SW ENGINEER -RS2",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19058?c=hella"
+  },
+  {
+   "at": "2026-10-28T03:10:09+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - DUV Field Service Engineer - Taichung Taichung, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-taichung-j00341278"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T02:56:01+00:00",
+ "last_run": "2026-10-28T03:11:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
