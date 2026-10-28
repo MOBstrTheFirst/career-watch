@@ -1,5 +1,5 @@
 {
- "alerts": 44,
+ "alerts": 45,
  "commands_set": true,
  "events": [
   {
@@ -953,12 +953,19 @@
    "site": "ams OSRAM – Regensburg",
    "title": "Staff Equipment Engineer (Dicing & Grinding)",
    "url": "https://jobs.ams-osram.com/en/job/Staff-Equipment-Engineer-Dicing-Grinding-Kulim/24602"
+  },
+  {
+   "at": "2026-10-28T05:09:53+00:00",
+   "kind": "new",
+   "site": "Primetals Technologies Germany",
+   "title": "Trainee Engineer - PTIN EN-M I&S-S (Kolkata, Location)",
+   "url": "https://careers.primetals.com/global/en/job/P-100092/Trainee-Engineer-PTIN-EN-M-I-S-S-Kolkata-Location"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T04:56:15+00:00",
+ "last_run": "2026-10-28T05:10:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 24,
+ "runs": 25,
  "tg_offset": 297408924
 }
