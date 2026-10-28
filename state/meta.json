@@ -1,5 +1,5 @@
 {
- "alerts": 58,
+ "alerts": 61,
  "commands_set": true,
  "events": [
   {
@@ -1135,12 +1135,33 @@
    "site": "Infineon Technologies – Regensburg",
    "title": "Project Manager Project Management Malakka (Malaysia) HRC1558343",
    "url": "https://jobs.infineon.com/careers/job/563808969900546"
+  },
+  {
+   "at": "2026-10-28T06:54:50+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Ladenleitung (m/w/d) 77652 Offenburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2KOoV-ladenleitung-mwd_77652-offenburg"
+  },
+  {
+   "at": "2026-10-28T06:54:50+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter*in Verkauf in Teilzeit auf 25h 77652 Offenburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z202Cub-mitarbeiterin-verkauf-in-teilzeit-auf-25h_77652-offenburg"
+  },
+  {
+   "at": "2026-10-28T06:55:09+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Support, Repair & Service Operations Specialist (m/f/d) Engineering / Technical Service Experienced and Graduates Giesecke+Devrient IoT Solutions GmbH",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27938-en-US"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T06:41:21+00:00",
+ "last_run": "2026-10-28T06:55:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
