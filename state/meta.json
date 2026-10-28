@@ -1,14 +1,7 @@
 {
- "alerts": 407,
+ "alerts": 408,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T09:54:52+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 84079 Bruckberg, Niederbayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1KQ7Nl-maschinen-und-anlagenfuehrer-mwd_84079-bruckberg-niederbayern"
-  },
   {
    "at": "2026-10-28T09:54:52+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Process Tech C",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Spring-Hill-Tennessee-US/Process-Tech-C_R00268012?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T17:39:37+00:00",
+   "kind": "new",
+   "site": "EPLAN – Nürnberg branch",
+   "title": "Solution Owner (m/w/d) Cloud Services",
+   "url": "https://career.friedhelm-loh-group.com/offer-redirect?offerApiId=REUtMDA0MDE2NQ%3D%3D&showApplicationForm=false"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T17:26:05+00:00",
+ "last_run": "2026-10-28T17:41:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
