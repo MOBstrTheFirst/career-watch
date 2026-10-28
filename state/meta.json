@@ -1,5 +1,5 @@
 {
- "alerts": 6,
+ "alerts": 7,
  "commands_set": true,
  "events": [
   {
@@ -162,12 +162,33 @@
    "site": "TenneT TSO",
    "title": "Werkstudent - Projektmanagement (m/w/d)",
    "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884285&jobId=118056"
+  },
+  {
+   "at": "2026-10-28T23:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Field Service Engineer Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/field-service-engineer-j00347603"
+  },
+  {
+   "at": "2026-10-28T23:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Controls Engineer San Diego, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-controls-engineer-j00350358"
+  },
+  {
+   "at": "2026-10-28T23:39:48+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Principal Mechanical Engineer San Diego, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/principal-mechanical-engineer-j00351126"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T23:26:03+00:00",
+ "last_run": "2026-10-28T23:40:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 2,
+ "runs": 3,
  "tg_offset": 297408924
 }
