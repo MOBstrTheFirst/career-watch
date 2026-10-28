@@ -1,5 +1,5 @@
 {
- "alerts": 36,
+ "alerts": 41,
  "commands_set": true,
  "events": [
   {
@@ -659,12 +659,285 @@
    "site": "ASML – Erlangen",
    "title": "New CS - DUV Field Service Engineer - Taichung Taichung, Taiwan Customer Support",
    "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-taichung-j00341278"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Junior Infor­ma­tiker / Soft­ware­ent­wickler (m/w/d) Job Hybrid Vollzeit 50.000 - 65.000 € Ulm, Deutsch­land Elektrotechnik Informationstechnik Young",
+   "url": "https://touch.ferchau.com/de/de/job/19682/junior-informatiker-softwareentwickler"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur (m/w/d) Auto­ma­ti­sie­rungs­technik Job Vor Ort Vollzeit 50.000 - 70.000 € München, Deutsch­land Anlagenbau Elektrotechnik Weitere Young P",
+   "url": "https://touch.ferchau.com/de/de/job/67099/ingenieur-automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "(Junior) Elek­tro­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 55.000 - 65.000 € München, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/67120/junior-elektroingenieur"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur TGA Versor­gungs­technik (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Stutt­gart, Deutsch­land Anlagenbau Maschinenbau Weitere Y",
+   "url": "https://touch.ferchau.com/de/de/job/68293/projektingenieur-tga-versorgungstechnik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "SPS-Program­mierer (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Villingen-Schwen­ningen, Deutsch­land Elektrotechnik Weitere Young Professionals Pro",
+   "url": "https://touch.ferchau.com/de/de/job/71848/sps-programmierer"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Versuchs­in­ge­nieur (m/w/d) Antriebs­technik Job Hybrid Vollzeit 45.000 - 65.000 € Heiden­heim an der Brenz, Deutsch­land Anlagenbau Maschinenbau Wei",
+   "url": "https://touch.ferchau.com/de/de/job/72850/versuchsingenieur-antriebstechnik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Junior Projekt­ma­nager (m/w/d) tech­ni­sche Projekte Job Hybrid Vollzeit 45.000 - 55.000 € Wies­baden, Deutsch­land Anlagenbau Maschinenbau Weitere Y",
+   "url": "https://touch.ferchau.com/de/de/job/99737/junior-projektmanager-technische-projekte"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Rohr­lei­tungs­planer Comos (m/w/d) Job Hybrid Vollzeit 56.000 - 70.000 € Wien, Öster­reich Anlagenbau Maschinenbau Professionals ohne Personalverantw",
+   "url": "https://touch.ferchau.com/de/de/job/115081/rohrleitungsplaner-comos"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "MSR-Tech­niker (m/w/d) Job Hybrid Vollzeit 44.800 - 70.000 € Wien, Öster­reich Elektrotechnik Young Professionals Professionals ohne Personalverantwor",
+   "url": "https://touch.ferchau.com/de/de/job/116506/msr-techniker"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter (m/w/d) Arbeits­vor­be­rei­tung Job Vor Ort Vollzeit 45.000 - 55.000 € Zwei­brü­cken, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere P",
+   "url": "https://touch.ferchau.com/de/de/job/118394/mitarbeiter-arbeitsvorbereitung"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter Entwick­lung Optik (m/w/d) Job Hybrid Vollzeit 60.000 - 85.000 € Gießen, Deutsch­land Weitere Professionals Senior Professionals ohne P",
+   "url": "https://touch.ferchau.com/de/de/job/126227/projektleiter-entwicklung-optik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "(Junior) Projekt­ma­nager (m/w/d) Auto­ma­ti­sie­rungs­technik Job Vor Ort Vollzeit 50.000 - 65.000 € Zwei­brü­cken, Deutsch­land Elektrotechnik Fahrz",
+   "url": "https://touch.ferchau.com/de/de/job/135934/junior-projektmanager-automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur (m/w/d) für Elek­tro­nik­ent­wick­lung im Bereich Leis­tungs­elek­tronik Job Hybrid Vollzeit 55.000 - 70.000 € Fried­richs­hafen, Deutsch­l",
+   "url": "https://touch.ferchau.com/de/de/job/137798/ingenieur-fuer-elektronikentwicklung-im-bereich-leistungselektronik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher System­planer TGA (m/w/d) Job Vor Ort Vollzeit 48.000 - 60.000 € München, Deutsch­land Anlagenbau Maschinenbau Weitere Young Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/146191/technischer-systemplaner-tga"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­nisch-kauf­män­ni­sche Projekt­as­sis­tenz / Team­as­sis­tenz (m/w/d) Job Hybrid Vollzeit 40.000 - 50.000 € Wies­baden, Deutsch­land Backoffice Y",
+   "url": "https://touch.ferchau.com/de/de/job/150451/technisch-kaufmaennische-projektassistenz-teamassistenz"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Robo­ter­pro­gram­mierer (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Saar­brü­cken, Deutsch­land Anlagenbau Elektrotechnik Weitere Professionals oh",
+   "url": "https://touch.ferchau.com/de/de/job/151644/roboterprogrammierer"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Maschi­nen­bau­in­ge­nieur als tech­ni­scher Projekt­leiter (m/w/d) Job Hybrid Vollzeit 55.000 - 65.000 € Wies­baden, Deutsch­land Anlagenbau Maschine",
+   "url": "https://touch.ferchau.com/de/de/job/156012/maschinenbauingenieur-als-technischer-projektleiter"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­kon­struk­teur (m/w/d) EPLAN P8 Job Vor Ort Vollzeit 50.000 - 80.000 € Frei­burg im Breisgau, Deutsch­land Elektrotechnik Informationstechnik",
+   "url": "https://touch.ferchau.com/de/de/job/157641/elektrokonstrukteur-eplan-p8"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter (m/w/d) First- & Second-Level-Support Job Vor Ort Vollzeit 40.000 - 50.000 € Saar­brü­cken, Deutsch­land Informationstechnik Weitere Youn",
+   "url": "https://touch.ferchau.com/de/de/job/159826/mitarbeiter-first-second-level-support"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mitar­beiter (m/w/d) Second- & Third-Level-Support Job Vor Ort Vollzeit 45.000 - 55.000 € Saar­brü­cken, Deutsch­land Informationstechnik Weitere Prof",
+   "url": "https://touch.ferchau.com/de/de/job/159828/mitarbeiter-second-third-level-support"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Fach­planer (m/w/d) Elek­tro­technik Job Vor Ort Vollzeit 45.000 - 60.000 € Saar­brü­cken, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Profes",
+   "url": "https://touch.ferchau.com/de/de/job/166189/fachplaner-elektrotechnik"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Maschi­nen­bau­tech­niker / Maschi­nen­bau­in­ge­nieur (m/w/d) Job Hybrid Vollzeit 50.000 - 60.000 € Heiden­heim an der Brenz, Deutsch­land Anlagenbau",
+   "url": "https://touch.ferchau.com/de/de/job/185325/maschinenbautechniker-maschinenbauingenieur"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Admi­nis­trator (m/w/d) SAP Job Vor Ort Vollzeit 45.000 - 55.000 € Saar­brü­cken, Deutsch­land Informationstechnik Professionals ohne Personalverantwo",
+   "url": "https://touch.ferchau.com/de/de/job/185737/administrator-sap"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Junior Maschi­nenbau-Inge­nieur (m/w/d) Job Hybrid Vollzeit 48.000 - 60.000 € Gießen, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Students Yo",
+   "url": "https://touch.ferchau.com/de/de/job/187542/junior-maschinenbau-ingenieur"
+  },
+  {
+   "at": "2026-10-28T03:25:21+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur / Tech­ni­scher Zeichner (m/w/d) Job Hybrid Vollzeit 40.000 - 60.000 € Fulda, Deutsch­land Anlagenbau Fahrzeugtechnik Maschinenbau Young",
+   "url": "https://touch.ferchau.com/de/de/job/187605/konstrukteur-technischer-zeichner"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-fuer-die-tagesambulanz-der-strahlenklinik-m-w-d-inz-gkp-st-tag-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-dermatologie-m-w-d-inz-gkp-derma-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-strahlenklinik-m-w-d-inz-pfk-st-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-nephrologie-m-w-d-inz-gkp-nephro-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/medizinische-fachangestellte-zentrales-belegungsmanagement-m1-m-w-d-inz-mfa-zpm-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-fuer-die-op-station-der-strahlenklinik-m-w-d-inz-stop-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-pflegefachfrau-interdisziplinaeres-tumortherapie-centrum-itc-m-w-d-inz-gkp-itc-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/medizinischer-fachangestellter-als-stations-teamassistent-m-w-d-inz-mfa-station-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/pflegefachmann-intensivstation-nephrologie-m-w-d-inz-pfk-intensiv-m4-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-intensivstationen-des-inz-m-w-d-inz-gkp-intensiv-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-allgemeinstation-innere-medizin-m-w-d-inz-allgemeinstationen-gkp-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-notaufnahme-internistisches-zentrum-m-w-d-inz-nfa-gkp-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-rheumatologie-m-w-d-inz-gkp-rheuma-2026-11-12"
+  },
+  {
+   "at": "2026-10-28T03:25:34+00:00",
+   "kind": "new",
+   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
+   "title": "Zum Stellenangebot",
+   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-haematologie-onkologie-m-w-d-inz-gkp-haematologie-2026-11-12"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T03:11:04+00:00",
+ "last_run": "2026-10-28T03:26:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 17,
+ "runs": 18,
  "tg_offset": 297408924
 }
