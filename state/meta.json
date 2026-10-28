@@ -1,5 +1,5 @@
 {
- "alerts": 77,
+ "alerts": 83,
  "commands_set": true,
  "events": [
   {
@@ -1429,12 +1429,145 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/system-engineer-m-w-d-10/bewerben"
+  },
+  {
+   "at": "2026-10-28T07:41:09+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Electronique - Maintenance de Cartes (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000157810990-ingenieur-electronique-maintenance-de-cartes-h-f-"
+  },
+  {
+   "at": "2026-10-28T07:41:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Mitarbeiter Tankwagenentladung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000kE35aQAC"
+  },
+  {
+   "at": "2026-10-28T07:39:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 CNC-Dreher / Fräser (m/w/d) Schenefeld",
+   "url": "https://www.tempton.de/jobs/cnc-dreher-fraeser-12"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Order Management Services Specialist Hwasung, Korea Finance",
+   "url": "https://www.asml.com/en/careers/find-your-job/order-management-services-specialist-j00354265"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Werkstudent (m/w/d) Industrialisierung und Produktionshochlauf Maschinentechnik",
+   "url": "https://jobportal.max-boegl.de/Werkstudent-mwd-Industrialisierung-und-Produktionshochlauf-de-j2336.html"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 85748 Garching bei München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZwhOlx-produktionsmitarbeiter-mwd_85748-garching-bei-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 85570 Markt Schwaben 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZmzcvX-mechatroniker-mwd_85570-markt-schwaben"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer (m/w/d) 85764 Oberschleißheim 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Wmhol-schweisser-mwd_85764-oberschleissheim"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 80331 München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/35mcC-maschinenbediener-mwd_80331-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 85757 Karlsfeld bei München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1cRpHP-zerspanungsmechaniker-mwd_85757-karlsfeld-bei-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbaumechaniker (m/w/d) 82110 Germering, Oberbayern 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1otUEw-maschinenbaumechaniker-mwd_82110-germering-oberbayern"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Tischler (m/w/d) 85221 Dachau 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZQoPBW-tischler-mwd_85221-dachau"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachkraft für Lagerlogistik (m/w/d) 80331 München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/zxymH-fachkraft-fuer-lagerlogistik-mwd_80331-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer - Elektro (m/w/d) 85748 Garching bei München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2stkg-helfer-elektro-mwd_85748-garching-bei-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer im Kunststoffbereich (m/w/d) 85764 Oberschleißheim 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1wizkt-helfer-im-kunststoffbereich-mwd_85764-oberschleissheim"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer (m/w/d) 85757 Karlsfeld bei München 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/pIo7M-kommissionierer-mwd_85757-karlsfeld-bei-muenchen"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Feinwerkmechaniker (m/w/d) 85570 Markt Schwaben 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1KLtUn-feinwerkmechaniker-mwd_85570-markt-schwaben"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kfz - Mechaniker (m/w/d) 82110 Germering, Oberbayern 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z7lFU0-kfz-mechaniker-mwd_82110-germering-oberbayern"
+  },
+  {
+   "at": "2026-10-28T07:40:08+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) 85221 Dachau 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dGoS0-instandhalter-mwd_85221-dachau"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T07:35:35+00:00",
+ "last_run": "2026-10-28T07:41:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
