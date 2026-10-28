@@ -1,224 +1,7 @@
 {
- "alerts": 348,
+ "alerts": 358,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New VCP Competence Engineer - Customer Support Veldhoven, Netherlands Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/vcp-competence-engineer-customer-support-j00353871"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Test Automation Engineer Payments (w/m/d) Muenchen Quality Engineering & Testing Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/586777-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Senior Business Analyst Payments (w/m/d) Berlin, Dortmund, Duesseldorf, Frankfurt, Hamburg + 4 Business Analysis Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/586775-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) Montage und Sichtkontrolle 91074 Herzogenaurach 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/yqB3l-produktionsmitarbeiter-mwd-montage-und-sichtkontrolle_91074-herzogenaurach"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Marketingmitarbeiter (m/w/d) 90579 Langenzenn 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1UdQkf-marketingmitarbeiter-mwd_90579-langenzenn"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) ab sofort 90427 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2msDOz-produktionsmitarbeiter-mwd-ab-sofort_90427-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) in Neumarkt 92318 Neumarkt in der Oberpfalz 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2kIsVJ-maschinenbediener-mwd-in-neumarkt_92318-neumarkt-in-der-oberpfalz"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 90766 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z14IKDX-industriemechaniker-mwd_90766-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 91315 Höchstadt an der Aisch 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1OdCkP-industriemechaniker-mwd_91315-hoechstadt-an-der-aisch"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 96114 Hirschaid 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2miHnx-staplerfahrer-mwd_96114-hirschaid"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 90766 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iKCpk-mechatroniker-mwd_90766-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Teamassistenz (m/w/d) 90459 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dsfFa-teamassistenz-mwd_90459-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Betriebselektriker/in Langenzenn (m/w/d) 90579 Langenzenn 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/amdvS-betriebselektrikerin-langenzenn-mwd_90579-langenzenn"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallfacharbeiter (m/w/d) in Herzogenaurach - Automobilindustrie 91074 Herzogenaurach 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/243mtK-metallfacharbeiter-mwd-in-herzogenaurach-automobilindustrie_91074-herzogenaurach"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Buchhaltungsmitarbeiter (m/w/d) (m/w/d) 90556 Cadolzburg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2l4ccv-buchhaltungsmitarbeiter-mwd-mwd_90556-cadolzburg"
-  },
-  {
-   "at": "2026-10-28T08:39:41+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kommissionierer/in Vollzeit (m/w/d) 90768 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/18VOqI-kommissioniererin-vollzeit-mwd_90768-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Product Security Incident Response Program Manager (m/f/d)",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Product-Security-Incident-Response-Program-Manager--m-f-d-_R-10067491?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "194470 Praktikant Marketing und Kommunikation BMW Startup Garage (w/m/x) Veröffentlicht: 28.10.2026 Markenkommunikation München Neu Markenkommunikatio",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.194470.html"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Sachbearbeiter Exportabwicklung (m/w/d) (Logistik & Transport) in 70629 Stuttgart Logistik & Transport 70629 Stuttgart Homeoffice möglich Neu Sofortig",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-exportabwicklung-m-w-d"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Produktionsmitarbeiter Montage (m/w/d) (Produktion & Fertigung) in 91522 Ansbach Produktion & Fertigung 91522 Ansbach Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-montage-m-w-d-5"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Cloud Administrator (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/cloud-administrator-m-w-d-12"
-  },
-  {
-   "at": "2026-10-28T08:40:33+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-exportabwicklung-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-28T08:56:05+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Working Student (f/m/d) AI Communication & Enablement",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520062"
-  },
-  {
-   "at": "2026-10-28T08:56:05+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F520062"
-  },
-  {
-   "at": "2026-10-28T08:56:05+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Referent Umwelt- und Naturschutz im Netzausbau (m/w/d) Hannover Seit 27. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109468/Referent%20Umwelt-%20und%20Naturschutz%20im%20Netzausbau%20(m%2Fw%2Fd)/Hannover"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Software Test Engineer - Ethernet Switch Firmware Ettlingen HRC1792849",
-   "url": "https://jobs.infineon.com/careers/job/563808971972483"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Lead Principal Engineer Automated Test Infrastructure for Automotive Ethernet Switch (f/m/div) Ettlingen, Germany HRC1692483 Hybrid Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971417831"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Szenior Tesztmérnök - Senior Test Engineer (f/m/div) Cegléd HRC1581720",
-   "url": "https://jobs.infineon.com/careers/job/563808970093639"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Test Engineer (Contract) Bangalore BTP (Indien) 127034 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808969301555"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Test Development Malakka HRC1732227",
-   "url": "https://jobs.infineon.com/careers/job/563808971873969"
-  },
-  {
-   "at": "2026-10-28T08:54:58+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Test Development Cavite + 2 more HRC1804084",
-   "url": "https://jobs.infineon.com/careers/job/563808972029107"
-  },
   {
    "at": "2026-10-28T08:54:58+00:00",
    "kind": "new",
@@ -3501,12 +3284,229 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/cyber-security-specialist-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/338?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/338?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "IT Onsite Supporter (m/w/d) in München",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzQ3MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Expert/in Tarifvergütung (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mjc5OA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Bilanzbuchhalter (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzYxNg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "SAP Application Consultant (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc4NQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T15:26:16+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Softwareentwickler (m/w/d) - Datenbanken & Anwendungen",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc5NA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-28T15:25:01+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Estágio Profissional - Microsoft 365 Information Governance (m/fd)",
+   "url": "https://jobs.testo.com/4459-estagio-profissional-microsoft-365-information-governance-m-fd/de/job.html"
+  },
+  {
+   "at": "2026-10-28T15:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 Softwareentwickler (m/w/d) Python für Testautomatisierung im Bereich Drohnenabwehr Teisnach",
+   "url": "https://www.tempton.de/jobs/softwareentwickler-python-testautomatisierung-bereich-drohnenabwehr"
+  },
+  {
+   "at": "2026-10-28T15:24:39+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Tactical Buyer _ Indirect Procurement Hsinchu, Taiwan Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/tactical-buyer-indirect-procurement-j00355978"
+  },
+  {
+   "at": "2026-10-28T15:24:39+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Zeichner (m/w/d) Creo Neu Job Vor Ort Vollzeit 45.000 - 55.000 € Bens­heim, Deutsch­land Elektrotechnik Maschinenbau Pharma und Lifescie",
+   "url": "https://touch.ferchau.com/de/de/job/525934/technischer-zeichner-creo"
+  },
+  {
+   "at": "2026-10-28T15:24:39+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Indus­trie­me­cha­niker (m/w/d) Neu Job Vor Ort Vollzeit 38.000 - 44.000 € Lohmar, Deutsch­land Maschinenbau Professionals ohne Personalverantwortung ",
+   "url": "https://touch.ferchau.com/de/de/job/525826/industriemechaniker"
+  },
+  {
+   "at": "2026-10-28T15:24:39+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Bauin­ge­nieur (m/w/d) Planung von Inge­nieur­bau­werken Neu Job Vor Ort Vollzeit 55.000 - 80.000 € Güstrow, Deutsch­land Weitere Professionals Senior",
+   "url": "https://touch.ferchau.com/de/de/job/525931/bauingenieur-planung-von-ingenieurbauwerken"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Kundenbetreuer/Sachbearbeiter im Innendienst (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/kundenbetreuersachbearbeiter-im-innendienst-mwd-de-j1551.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Kundenbetreuung/Sachbearbeitung im Innendienst (m/w/d) - Vollzeit und Teilzeit nachmittags",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/kundenbetreuungsachbearbeitung-im-innendienst-mwd-vollzeit-de-j1550.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Kunststoff-/Kautschuktechnologe (m/w/d) Formteile oder Halbzeuge",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/kunststoff-kautschuktechnologe-m-w-d-formteile-oder-halbzeuge-68035992"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Legal Counsel (m/w/d) / Syndikusrechtsanwalt (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/legal-counsel-mwd-syndikusrechtsanwalt-mwd-de-j1645.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Leiter Einkauf (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/leiter-einkauf-m-w-d-68265676"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Leiter Strategischer Einkauf (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/leiter-strategischer-einkauf-m-w-d-66480693"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Manager interne Kommunikation (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/manager-interne-kommunikation-mwd-de-j1673.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Marketing Manager für den Geschäftsbereich Hospital (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/marketing-manager-fuer-den-geschaeftsbereich-hospital-mwd-de-j1674.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Mechatroniker (m/w/d) als Gerätemonteur in der Medizintechnik",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/mechatroniker-m-w-d-als-geraetemonteur-in-der-medizintechnik-67459442"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Microsoft Dynamics NAV 2017 Entwickler – Schwerpunkt C/AL (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/microsoft-dynamics-nav-2017-entwickler-schwerpunkt-c-al-m-w-d-61554732"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Mitarbeiter für die telefonische Auftragsannahme (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/mitarbeiter-fuer-die-telefonische-auftragsannahme-mwd-de-j1612.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Mitarbeiter im Prozessmanagement (m/w/d) - Start ab März 2027",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/mitarbeiter-im-prozessmanagement-mwd-start-ab-maerz-2027-de-j1553.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Operativer Einkäufer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/operativer-einkaeufer-mwd-de-j1282.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Patientenbetreuung im Außendienst (m/w/d) in Springerfunktion (Postleitzahl 92/93)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/patientenbetreuung-im-aussendienst-mwd-in-springerfunktion-de-j1483.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Patientenbetreuung im Innendienst (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/patientenbetreuung-im-innendienst-mwd-de-j1462.html"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "IT Consultant für Krankenhäuser (m/w/d)",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Hamburg/IT-Consultant-fr-Krankenhuser--m-w-d-_JR110295?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "possible",
+   "site": "GESTA – Elektronische Steuerungs- und Antriebstechnik",
+   "title": "Elektriker / Elektroniker (m/w/d)",
+   "url": "https://www.gestambh.de/#karriere"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Administrator Modern Workplace (m/w/d) (IT & Software) in 12247 Berlin IT & Software 12247 Berlin Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-administrator-modern-workplace-m-w-d"
+  },
+  {
+   "at": "2026-10-28T15:24:59+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-administrator-modern-workplace-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T15:11:18+00:00",
+ "last_run": "2026-10-28T15:26:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
