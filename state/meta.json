@@ -1,203 +1,7 @@
 {
- "alerts": 194,
+ "alerts": 207,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-27T23:10:36+00:00",
-   "kind": "new",
-   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
-   "title": "Manufacturing Leader (f/m/d)",
-   "url": "https://wlgore.jobs.hr.cloud.sap/job/Manufacturing-Leader-%28fmd%29/2406-en_US"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Global Service Product Manager A&D Systems",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/global-service-product-manager-ad-systems_251563-1708547.html"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Responsable Plateforme électronique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/responsable-plateforme-electronique-f-h-ref-2026-28172"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Soudeur Automatique F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/soudeur-automatique-f-h-ref-2026-28176"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Stage – Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/stage-ingenieur-en-ia-agentique-optimisation-de-modeles-par-agents-llm-f-h-ref-2026-27724"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Framatome GmbH",
-   "title": "Opérateur de Fabrication Atelier GRAPPES F/H",
-   "url": "https://www.framatome.com/de/bewerber/stellenangebote/operateur-de-fabrication-atelier-grappes-f-h-ref-2026-28161"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "emz-Hanauer",
-   "title": "RO",
-   "url": "https://www.emz-hanauer.de/ro/karriere/offene-stellen?tx_powermail_pi1%5Baction%5D=create%27&tx_powermail_pi1%5Bcontroller%5D=Form%27%22"
-  },
-  {
-   "at": "2026-10-27T23:09:53+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Werkstudent/Praktikant (m/w/d) Planung Systemparkhäuser",
-   "url": "https://jobportal.max-boegl.de/WerkstudentPraktikant-mwd-Planung-Systemparkhaeuser-de-j2344.html"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Werkstudent IT Contract Management (m/w/d)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5072530&jobId=119048"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Contract Manager",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4885025&jobId=118719"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Computer Vision & Robotics AI Software Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sophia-Antipolis-Valbonne/Computer-Vision---Robotics-AI-Software-Engineer_R-10067059?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Principal System and Application Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Principal-System-and-Application-Engineer_R-10067510?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Senior System and Application engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Caen/Senior-System-and-Application-engineer_R-10067511-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T23:10:08+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "System and Application Engineer F/M",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Catania/System-and-Application-Engineer-F-M_R-10067301?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-27T23:24:53+00:00",
-   "kind": "possible",
-   "site": "Maschinenfabrik Reinhausen",
-   "title": "Finance Winter Internship - Paid",
-   "url": "https://www.reinhausen.com/career/jobs"
-  },
-  {
-   "at": "2026-10-27T23:24:56+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Switch to United Kingdom",
-   "url": "https://www.rohde-schwarz.com/uk/career/jobs/career-jobboard_251573.html"
-  },
-  {
-   "at": "2026-10-27T23:25:00+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Оператор во Контрола на Квалитет",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/ae49e3fd-748b-4459-bb84-7b7b2ef5b8f1?cHash=25f535a61dfec06c562d751ca2ef51da0454974df31394b3ba86d2d58e568973"
-  },
-  {
-   "at": "2026-10-27T23:39:48+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Memory System Designer and Place and Route Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Mendota-Heights-Northland/Memory-System-Designer-and-Place-and-Route-Engineer_R027233?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/5fc6e817-ad97-4610-d9dc-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/975f003f-1e0c-40d0-d9dd-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/5eee61f2-ce06-4582-d2c1-08df33dec2b6"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/ea4ba0f7-3560-4160-d2c2-08df33dec2b6"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/ba7ba306-4e52-484c-4676-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 74172 Neckarsulm Rechnungswesen & Finanzen 74172 Neckarsulm Homeoffice möglich Neu",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-467"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Assistenz (m/w/d) der Geschäftsführung (Büroverwaltung) in 76630 Bruchsal Büroverwaltung 76630 Bruchsal Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/assistenz-m-w-d-der-geschaeftsfuehrung-21"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Einkaufssachbearbeiter (m/w/d) (Büroverwaltung) in 74889 Sinsheim Büroverwaltung 74889 Sinsheim Neu",
-   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-88"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 78532 Tuttlingen Rechnungswesen & Finanzen 50.000,00 - 60.000,00 EUR / Jahr 78532 Tuttlingen N",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-401"
-  },
-  {
-   "at": "2026-10-28T00:10:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT-Systemadministrator (m/w/d) (IT & Software) in 77740 Bad Peterstal-Griesbach IT & Software 50.000,00 - 60.000,00 EUR / Jahr 77740 Bad Peterstal-Gri",
-   "url": "https://jobs.de.dis-ag.com/it-systemadministrator-m-w-d-115"
-  },
   {
    "at": "2026-10-28T00:10:04+00:00",
    "kind": "new",
@@ -3480,12 +3284,229 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/business-controller-reporting-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-28T10:41:31+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Maschinenarbeiter in der Vormontage (m/w/d)",
+   "url": "https://jobs.bsh-group.de/46002-maschinenarbeiter-in-der-vormontage-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-28T10:43:01+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Internship within Commodity Management for IT Infrastructure (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Internship-within-Commodity-Management-for-IT-Infrastructure--d-f-m-_JR10451788?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T10:43:01+00:00",
+   "kind": "new",
+   "site": "Testo Industrial Services – Kulmbach",
+   "title": "Duales Studium Data Science & KI (B.Sc.) 2027 (m/w/d)",
+   "url": "https://jobs.testo.com/4368-duales-studium-data-science-ki-b-sc-2027-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-28T10:43:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 Lackierer - Spritzlackierung (m/w/d) Weiler-Simmerberg",
+   "url": "https://www.tempton.de/jobs/lackierer-spritzlackierung-32"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Technician for cooling and air-conditioning technology / building services (d/m/f)",
+   "url": "https://jobs.ams-osram.com/en/job/Technician-for-cooling-and-air-conditioning-technology-_-building-services-d_m_f-Premstaetten/24563"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Trench Germany",
+   "title": "CHARGE DE RECRUTEMENT ET DEVELOPPEMENT RH (F/H/D) – CDD",
+   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1784?c=trench"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Planungskoordinator (m/w/d) Infrastruktur",
+   "url": "https://jobportal.max-boegl.de/Planungskoordinator-mwd-Infrastruktur-de-j2364.html"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Civil & Mining Engineering Projektmitarbeiter:in Geotechnik/Bergbau Standort Freiberg, Leipzig Arbeitszeitmodell Vollzeit Anstellung – unbefristet Ges",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/projektmitarbeiterin-geotechnik-bergbau-6722"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Immobilienverwalter Mietverwaltung (m/w/d) zur Direktvermittlung 90429 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZfuauV-immobilienverwalter-mietverwaltung-mwd-zur-direktvermittlung_90429-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 90439 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1cday9-finanzbuchhalter-mwd-zur-direktvermittlung_90439-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) in Teilzeit 90411 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/w3O6J-finanzbuchhalter-mwd-in-teilzeit_90411-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Steuerberater (m/w/d) 61352 Bad Homburg vor der Höhe 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z11fVj-steuerberater-mwd_61352-bad-homburg-vor-der-hoehe"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Controller (m/w/d) zur Direktvermittlung, Nürnberg 90482 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKv7Bd-controller-mwd-zur-direktvermittlung-nuernberg_90482-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Finanzbuchhalter (m/w/d) zur Direktvermittlung 90427 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1He7Ef-finanzbuchhalter-mwd-zur-direktvermittlung_90427-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Kanton Zürich 8810 Horgen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZpEaVU-servicetechniker-mwd-zur-direktvermittlung-kanton-zurich_8810-horgen"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Objektbuchhalter / Immobilienbuchhalter (m/w/d) zur Direktvermittlung 90429 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZWJfYa-objektbuchhalter-immobilienbuchhalter-mwd-zur-direktvermittlung_90429-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Steuerfachangestellter / Buchhalter (m/w/d) zur Direktvermittlung 90480 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1He7ER-steuerfachangestellter-buchhalter-mwd-zur-direktvermittlung_90480-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Buchhalter (m/w/d) 90473 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1iAcE7-buchhalter-mwd_90473-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Senior Accountant (m/w/d) - Konzernbuchhaltung zur Direktvermittlung 90402 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zw2d24-senior-accountant-mwd-konzernbuchhaltung-zur-direktvermittlung_90402-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Payroll Specialist (m/w/d) zur Direktvermittlung 90451 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z147i41-payroll-specialist-mwd-zur-direktvermittlung_90451-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "WEG-Verwalter / Objektverwalter (m/w/d) zur Direktvermittlung 90429 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2lGeLX-weg-verwalter-objektverwalter-mwd-zur-direktvermittlung_90429-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Graz 8010 Graz,12.Bez.:Andritz 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2fjcGR-servicetechniker-mwd-zur-direktvermittlung-graz_8010-graz12bezandritz"
+  },
+  {
+   "at": "2026-10-28T10:40:26+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Badewärter (m/w/d) Badeaufsicht Sauna 15890 Eisenhüttenstadt 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z17tufw-badewaerter-mwd-badeaufsicht-sauna_15890-eisenhuettenstadt"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Security Specialist Bangalore,Karnataka,India it Gepostete vor 7 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777223653"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "197456 Kfz-Mechatroniker Motorrad-/ Zweiradtechnik (w/m/x) Veröffentlicht: 28.10.2026 Aftersales Service und Garantie Berlin Neu Aftersales Service un",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197456.html"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "Paessler GmbH",
+   "title": "Principal Engineer",
+   "url": "https://jobs.paessler.com/Principal-Engineer-eng-j890.html"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 74189 Weinsberg Rechnungswesen & Finanzen 74189 Weinsberg Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-124"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Groß- und Außenhandelskaufmann (m/w/d) (Büroverwaltung) in 76316 Malsch Büroverwaltung 76316 Malsch Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/gross-und-aussenhandelskaufmann-m-w-d-14"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Customer Service Agent Inbound (m/w/d) (Reinigung & Wartung) in 01896 Pulsnitz Reinigung & Wartung 01896 Pulsnitz Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/customer-service-agent-inbound-m-w-d"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Empfangsmitarbeiter (m/w/d) (Büroverwaltung) in 76638 Bruchsal Büroverwaltung 76638 Bruchsal Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/empfangsmitarbeiter-m-w-d-51"
+  },
+  {
+   "at": "2026-10-28T10:40:31+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-124/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T10:26:50+00:00",
+ "last_run": "2026-10-28T10:43:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
