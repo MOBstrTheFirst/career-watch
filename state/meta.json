@@ -1,63 +1,7 @@
 {
- "alerts": 371,
+ "alerts": 375,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T09:10:09+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Deputy Manager CAE",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bhosari-IN/Deputy-Manager-CAE_R00266181?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T09:10:09+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Bauingenieur / Wirtschaftsingenieur Bau (m/w/d) im Qualitätsmanagement für Bauprozesse – Ingenieur-/ Brücken-/ Tunnel-/ Tief-/ Spezialtiefbau Sengenth",
-   "url": "https://jobportal.max-boegl.de/Bauingenieur-Wirtschaftsingenieur-Bau-mwd-im-Qualitaetsman-de-j2370.html"
-  },
-  {
-   "at": "2026-10-28T09:10:09+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "IT & IT-Sicherheit (Senior) Cyber Security Expert (m/w/d) DFIR, Adversary Operations & Assessments Standort bundesweit, Essen Arbeitszeitmodell Vollze",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/senior-cyber-security-expert-m-w-d-dfir-adversary-operations-assessments-10390"
-  },
-  {
-   "at": "2026-10-28T09:10:09+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - WIG Schweißer 2/3- Schichtsystem (m/w/d) 93073 Neutraubling 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nBYaw-krones-wig-schweisser-23-schichtsystem-mwd_93073-neutraubling"
-  },
-  {
-   "at": "2026-10-28T09:10:09+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Krones - CNC-Maschinenbediener (m/w/d) 93073 Neutraubling 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1wHQeF-krones-cnc-maschinenbediener-mwd_93073-neutraubling"
-  },
-  {
-   "at": "2026-10-28T09:10:41+00:00",
-   "kind": "new",
-   "site": "Schmitt + Sohn Aufzüge",
-   "title": "Vertriebsassistenz (m/w/d) Service & Vertriebsinnendienst in Erfurt",
-   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/assistenz-mwd-service-vertriebsinnendienst-in-erfurt-1531"
-  },
-  {
-   "at": "2026-10-28T09:10:41+00:00",
-   "kind": "new",
-   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
-   "title": "NOC L1 Engineer IT Experienced and Graduates Giesecke + Devrient ePayments Iberia S.A Prat de Llobregat (BCN), ES",
-   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27930-en-US"
-  },
-  {
-   "at": "2026-10-28T09:26:04+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IIS (main institute) (+5 more)",
-   "title": "Produktmanager*in – für generative KI (all genders)",
-   "url": "https://iisfraunhofer.softgarden.io/job/67803727/Produktmanager-in-%E2%80%93-f%C3%BCr-generative-KI-all-genders-?jobDbPVId=288939802&l=de"
-  },
   {
    "at": "2026-10-28T09:26:04+00:00",
    "kind": "new",
@@ -3501,12 +3445,68 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-luftfrachtabwicklung-export-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-28T15:55:46+00:00",
+   "kind": "new",
+   "site": "NETZSCH Gerätebau – Selb",
+   "title": "Application Engineer (m/f/d) Inside Sales - Business Area Oil & Gas Midstream/Downstream Technik Sales Experienced professionals Pumps & Systems Waldk",
+   "url": "https://karriere.netzsch.com/en/jobs/application-engineer-m-f-d-inside-sales-business-area-oil-gas-midstream-downstream-744000158228749"
+  },
+  {
+   "at": "2026-10-28T15:55:46+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Produktionsmitarbeiter Betonfertigteile (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/8ea627ce-74e0-4e93-a99e-e6ff8b6b63d3"
+  },
+  {
+   "at": "2026-10-28T15:54:44+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Reinigungskraft (m/w/d) Unterhaltsreinigung 92655 Grafenwöhr 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1cIvTM-reinigungskraft-mwd-unterhaltsreinigung_92655-grafenwoehr"
+  },
+  {
+   "at": "2026-10-28T15:54:44+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Allrounder in Metallbau (m/w/d) 96052 Bamberg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2j6yw5-allrounder-in-metallbau-mwd_96052-bamberg"
+  },
+  {
+   "at": "2026-10-28T15:54:44+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kaufmännische Sachbearbeiter (w/m/d) Fördermittelverwaltung 20097 Hamburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iRnm-kaufmaennische-sachbearbeiter-wmd-foerdermittelverwaltung_20097-hamburg"
+  },
+  {
+   "at": "2026-10-28T15:55:22+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Zoll und Luftfracht Export (m/w/d) (Logistik & Transport) in 60549 Frankfurt am Main Logistik & Transport 60549 Frankfurt am Main Neu S",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-zoll-und-luftfracht-export-m-w-d"
+  },
+  {
+   "at": "2026-10-28T15:55:22+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Systemadministrator / LAN Manager (m/w/d) (IT & Software) in 06780 Zörbig IT & Software 06780 Zörbig Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-systemadministrator-lan-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-28T15:55:22+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-zoll-und-luftfracht-export-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T15:41:10+00:00",
+ "last_run": "2026-10-28T15:56:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
