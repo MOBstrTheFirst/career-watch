@@ -1,70 +1,7 @@
 {
- "alerts": 296,
+ "alerts": 303,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Maschinenbediener (m/w/d) (Technik & Instandhaltung) in 77731 Willstätt Technik & Instandhaltung 77731 Willstätt Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/maschinenbediener-m-w-d-32"
-  },
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Elektrotechniker Fahrzeugplanung (m/w/d) (Technik & Instandhaltung) in 76131 Karlsruhe Technik & Instandhaltung 76131 Karlsruhe Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/elektrotechniker-fahrzeugplanung-m-w-d"
-  },
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Servicetechniker im Außendienst (m/w/d) (Technik & Instandhaltung) in 76131 Karlsruhe Technik & Instandhaltung 76131 Karlsruhe Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/servicetechniker-im-aussendienst-m-w-d"
-  },
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Instandhalter (m/w/d) (Technik & Instandhaltung) in 76133 Karlsruhe Technik & Instandhaltung 76133 Karlsruhe Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/instandhalter-m-w-d-10"
-  },
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker (m/w/d) (Technik & Instandhaltung) in 76133 Karlsruhe Technik & Instandhaltung 76133 Karlsruhe Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-39"
-  },
-  {
-   "at": "2026-10-28T07:24:59+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Produktionsmitarbeiter (m/w/d) (Produktion & Fertigung) in 76676 Graben-Neudorf Produktion & Fertigung 76676 Graben-Neudorf Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-m-w-d-42"
-  },
-  {
-   "at": "2026-10-28T07:35:11+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Service-Techniker (m/w/d) für den Bereich Nieder- und Mittelspannungs-Schaltanlagen im Außendienst Berufserfahrene Buttenheim Neu",
-   "url": "https://karriere.omexom.de/jobs/68362972/Service-Techniker-m-w-d-f%C3%BCr-den-Bereich-Nieder--und-Mittelspannungs-Schaltanlagen-im-Au%C3%9Fendienst"
-  },
-  {
-   "at": "2026-10-28T07:34:43+00:00",
-   "kind": "new",
-   "site": "TGW Logistics – Regensburg",
-   "title": "Site Administrator - Helsingborg - Fixed Term Helsingborg, Sweden Project Management Experienced Professionals",
-   "url": "https://www.tgw-group.com/en/career/jobs/detail/site-administrator-helsingborg-fixed-term-1393"
-  },
-  {
-   "at": "2026-10-28T07:34:43+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "28.10.2026 Kfz-Mechatroniker (m/w/d) in Güstrow – ab 18 €/h Güstrow",
-   "url": "https://www.tempton.de/jobs/kfz-mechatroniker-guestrow-18-euro-pro-stunde"
-  },
   {
    "at": "2026-10-28T07:34:25+00:00",
    "kind": "new",
@@ -3501,12 +3438,75 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/anlagenmonteur-spezialanlagenbau-m-w-d-2/bewerben"
+  },
+  {
+   "at": "2026-10-28T13:55:45+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Global Product Management (m/f/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Bad-Homburg-Germany/Global-Product-Management--m-f-d-_R0274338?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T13:55:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Nucléaire - Ingénieur Tests & Validation Logiciel Embarqué C H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158299639-nucleaire-ingenieur-tests-validation-logiciel-embarque-c-h-f"
+  },
+  {
+   "at": "2026-10-28T13:55:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Nucléaire - Ingénieur supervision IHM H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158298656-nucleaire-ingenieur-supervision-ihm-h-f"
+  },
+  {
+   "at": "2026-10-28T13:55:45+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Electrique / Electrotechnique H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158299809-ingenieur-electrique-electrotechnique-h-f"
+  },
+  {
+   "at": "2026-10-28T13:55:45+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Program Buyer (m/f/d)",
+   "url": "https://leggett.com/careers/search?posting=36626"
+  },
+  {
+   "at": "2026-10-28T13:54:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 Niederlassungsleiter Personaldienstleistung (m/w/d) Recklinghausen",
+   "url": "https://www.tempton.de/jobs/niederlassungsleiter-personaldienstleistung-41"
+  },
+  {
+   "at": "2026-10-28T13:55:23+00:00",
+   "kind": "possible",
+   "site": "Magna – Veitsbronn",
+   "title": "Industrial Engineer",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T13:55:23+00:00",
+   "kind": "new",
+   "site": "TÜV NORD EnSys",
+   "title": "Medizin & Gesundheit Sonstige (Verkehrs-)Psychologie Arzt / Ärztin als Verkehrsmedizinische:r Gutachter:in Standort Bonn Arbeitszeitmodell Vollzeit An",
+   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/arzt-aerztin-als-verkehrsmedizinischer-gutachterin--11944"
+  },
+  {
+   "at": "2026-10-28T13:55:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Backoffice (m/w/d) 10243 Berlin 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZxO5jp-sachbearbeiter-backoffice-mwd_10243-berlin"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T13:41:42+00:00",
+ "last_run": "2026-10-28T13:56:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
