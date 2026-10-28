@@ -1,91 +1,7 @@
 {
- "alerts": 333,
+ "alerts": 340,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Vertriebssachbearbeiter (m/w/d) Export 90765 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/QhAac-vertriebssachbearbeiter-mwd-export_90765-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Reifenmonteur (m/w/d) 90765 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZISw0m-reifenmonteur-mwd_90765-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Kundenservice (m/w/d) 90429 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/15KuJg-mitarbeiter-kundenservice-mwd_90429-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter mit Gabelstaplerschein (m/w/d) 90768 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZupBq8-lagermitarbeiter-mit-gabelstaplerschein-mwd_90768-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "HR-Mitarbeiter (m/w/d) 90766 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/vzIAA-hr-mitarbeiter-mwd_90766-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Werkzeugmechaniker (m/w/d) 90427 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/xFpHF-werkzeugmechaniker-mwd_90427-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 90427 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2EsBV-maschinen-und-anlagenfuehrer-mwd_90427-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Koch (m/w/d) 90765 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZbNqXd-koch-mwd_90765-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) in Fürth 90765 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/K3Db8-lagermitarbeiter-mwd-in-fuerth_90765-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer/in Teilzeit (m/w/d) in Fürth 90766 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zwviwr-verkaeuferin-teilzeit-mwd-in-fuerth_90766-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ-Mechaniker/Mechatroniker (m/w/d) 90587 Fürth, Bayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/cHdAD-kfz-mechanikermechatroniker-mwd_90587-fuerth-bayern"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 90427 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z15bmAj-staplerfahrer-mwd_90427-nuernberg-mittelfranken"
-  },
   {
    "at": "2026-10-28T08:25:10+00:00",
    "kind": "new",
@@ -3501,12 +3417,96 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/systemingenieur-maritime-systeme-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-28T14:55:59+00:00",
+   "kind": "new",
+   "site": "SRAM – Schweinfurt",
+   "title": "Engineering and Design Test Technician United States, California, San Luis Obispo You will perform testing independently on product samples, provide a",
+   "url": "https://www.sram.com/en/company/careers/current-openings/test-technician"
+  },
+  {
+   "at": "2026-10-28T14:55:59+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektrotechniker / Automatisierungstechniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV00001998zxQAA"
+  },
+  {
+   "at": "2026-10-28T14:54:44+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 Senior Softwareentwickler (m/w/d) Java für Drohnenabwehrsysteme Teisnach, Geiersthal",
+   "url": "https://www.tempton.de/jobs/senior-softwareentwickler-java-drohnenabwehrsysteme"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Engagement Manager - Customer Experience & Transformation (m/w/d) Berlin, Dortmund, Duesseldorf, Erfurt, Frankfurt am Main + 7 Delivery Excellence Unb",
+   "url": "https://www.capgemini.com/de-de/jobs/587500-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Reinigungskraft (m/w/d) in Teilzeit 92655 Grafenwöhr 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2btYta-reinigungskraft-mwd-in-teilzeit_92655-grafenwoehr"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Spawacz (m/k/d) 01723 Wilsdruff 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/G3dww-spawacz-mkd_01723-wilsdruff"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schweißer (m/w/d) 01723 Wilsdruff 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/AsuYB-schweisser-mwd_01723-wilsdruff"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Pracownik produkcji (m/k/d) 09430 Drebach 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z18ufHQ-pracownik-produkcji-mkd_09430-drebach"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Krankenpfleger (m/w/d) 97084 Würzburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/u1DIq-krankenpfleger-mwd_97084-wuerzburg"
+  },
+  {
+   "at": "2026-10-28T14:55:25+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 97922 Lauda-Königshofen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Mr9XW-produktionshelfer-mwd_97922-lauda-koenigshofen"
+  },
+  {
+   "at": "2026-10-28T14:54:57+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Assistenz Vorstand / Vorstandssekretariat (m/w/d) (Büroverwaltung) in 28359 Bremen Büroverwaltung 28359 Bremen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/assistenz-vorstand-vorstandssekretariat-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:54:57+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/assistenz-vorstand-vorstandssekretariat-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T14:41:06+00:00",
+ "last_run": "2026-10-28T14:56:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
