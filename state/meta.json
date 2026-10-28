@@ -1,98 +1,7 @@
 {
- "alerts": 213,
+ "alerts": 220,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "FA Technician 3 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18412551-fa-technician-3-r"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "7203 - Production Control Support 3 (N)",
-   "url": "https://jobs.sanmina.com/jobs/18412435-7203-production-control-support-3-n"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Products Program Manager",
-   "url": "https://jobs.sanmina.com/jobs/18406219-products-program-manager"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Planner",
-   "url": "https://jobs.sanmina.com/jobs/18412310-planner"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Production Operator Helper -2nd Shift",
-   "url": "https://jobs.sanmina.com/jobs/18328813-production-operator-helper-2nd-shift"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Senior Director of Revenue Accounting",
-   "url": "https://jobs.sanmina.com/jobs/18412018-senior-director-of-revenue-accounting"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
-   "url": "https://jobs.sanmina.com/jobs/18411916-it-manager-and-ipm-initiative-portfolio-manager"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
-   "url": "https://jobs.sanmina.com/jobs/18411915-it-manager-and-ipm-initiative-portfolio-manager"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "IT Manager and IPM (Initiative Portfolio Manager)",
-   "url": "https://jobs.sanmina.com/jobs/18411913-it-manager-and-ipm-initiative-portfolio-manager"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "CAM Operator",
-   "url": "https://jobs.sanmina.com/jobs/18411836-cam-operator"
-  },
-  {
-   "at": "2026-10-28T00:53:06+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Vision Engineer 3 (N)",
-   "url": "https://jobs.sanmina.com/jobs/18411704-vision-engineer-3-n"
-  },
-  {
-   "at": "2026-10-28T00:52:27+00:00",
-   "kind": "new",
-   "site": "Gerresheimer Regensburg",
-   "title": "Sales Manager – Midwest & Central U.S.",
-   "url": "https://www.gerresheimer.com/en/careers/jobs/job-details/1a211516-bf5a-4677-b87b-8cb1b4f578f1?cHash=50280afeb143f8ecbdbb970ff1bbd859dd753dd039d8249ea4cfb78bb2aea75a"
-  },
-  {
-   "at": "2026-10-28T01:24:56+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Distribution Technical Lead",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/AUS-Sydney--Pitt-St/Distribution-Technical-Lead_R027521?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-28T02:10:02+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mitarbeiter-kundenbetreuung-m-w-d-5/bewerben"
+  },
+  {
+   "at": "2026-10-28T11:10:50+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Architecte Solution (H/F) - Secteur de l'Energie Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158262239--architecte-solution-h-f-secteur-de-l-energie"
+  },
+  {
+   "at": "2026-10-28T11:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/7a051977-9956-4ed7-8a6e-f38939fd1f0e"
+  },
+  {
+   "at": "2026-10-28T11:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/7a051977-9956-4ed7-8a6e-f38939fd1f0e/ab282c3c-32c3-48b8-a937-f042b4fd3ea8"
+  },
+  {
+   "at": "2026-10-28T11:10:50+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Elektroniker (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/7a051977-9956-4ed7-8a6e-f38939fd1f0e/b26d4d45-d40c-4e90-a7b2-688a98a3bbd1"
+  },
+  {
+   "at": "2026-10-28T11:09:51+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "(Senior) Full-Stack Software Engineer (d/m/w) – AI-based Autonomy Hub",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Full-Stack-Software-Engineer--d-f-m----Developing-Mission-Critical-Applications_JR10365950?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T11:09:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 Personaldisponent/ Vertriebsdisponent/ Personalberater (m/w/d) Geretsried",
+   "url": "https://www.tempton.de/jobs/personaldisponent-vertriebsdisponent-personalberater-24"
+  },
+  {
+   "at": "2026-10-28T11:09:54+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Consultant Low-Code-/No-Code-Digitalisierung (m/w/d) in Bonn, Berlin, Nürnberg oder München.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/consultant-low-code-no-code-digitalisierung-m-w-d-71127"
+  },
+  {
+   "at": "2026-10-28T11:09:54+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Consultant ITSM- und KI-Digitalisierung (m/w/d) in Bonn.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-consultant-itsm-und-ki-digitalisierung-m-w-d-71131"
+  },
+  {
+   "at": "2026-10-28T11:09:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schubmaststaplerfahrer (m/w/d) 04349 Leipzig 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ToBzB-schubmaststaplerfahrer-mwd_04349-leipzig"
+  },
+  {
+   "at": "2026-10-28T11:09:54+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Verkäufer (m/w/d) Teilzeit 06796 Brehna 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/GP3Vv-verkaeufer-mwd-teilzeit_06796-brehna"
+  },
+  {
+   "at": "2026-10-28T11:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 08033 Zwickau Rechnungswesen & Finanzen 08033 Zwickau Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-354"
+  },
+  {
+   "at": "2026-10-28T11:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Zwickau",
+   "url": "https://jobs.de.dis-ag.com/suche/in-zwickau"
+  },
+  {
+   "at": "2026-10-28T11:09:53+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-354/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T10:55:54+00:00",
+ "last_run": "2026-10-28T11:11:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
