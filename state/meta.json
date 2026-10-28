@@ -1,14 +1,7 @@
 {
- "alerts": 442,
+ "alerts": 443,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:26:32+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "SUPPLIER QUALITY DIRECTOR BUSINESS GROUP LIGHTING (M/W/D)",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19060?c=hella"
-  },
   {
    "at": "2026-10-28T10:24:51+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Electronics Quality Engineer",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holly-Michigan-US/Customer-Quality-Engineer_R00234287?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T20:54:49+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Program Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bowling-Green-Kentucky-US/Mgr--Program_R00248792?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T20:41:05+00:00",
+ "last_run": "2026-10-28T20:56:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
