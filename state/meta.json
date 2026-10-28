@@ -1,105 +1,7 @@
 {
- "alerts": 238,
+ "alerts": 244,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d) 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Bachelor of Arts (m/w/d) Duales Studium Betriebswirtschaftslehre – Logistikmanagement 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Bachelor of Arts (m/w/d) Duales Studium Betriebswirtschaftslehre – Mittelstandsmanagement 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Bachelor of Arts (m/w/d) Duales Studium Betriebswirtschaftslehre – Wirtschaftsinformatik 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Bachelor of Engineering (m/w/d) Duales Studium Ingenieurwesen - Elektrotechnik 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T02:55:05+00:00",
-   "kind": "possible",
-   "site": "EPLAN – Nürnberg branch",
-   "title": "Bachelor of Engineering (m/w/d) Duales Studium Ingenieurwesen - Maschinenbau 2027",
-   "url": "https://career.friedhelm-loh-group.com/search"
-  },
-  {
-   "at": "2026-10-28T03:10:43+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "EMBEDDED SW ENGINEER -RS2",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19058?c=hella"
-  },
-  {
-   "at": "2026-10-28T03:10:09+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - DUV Field Service Engineer - Taichung Taichung, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-taichung-j00341278"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Junior Infor­ma­tiker / Soft­ware­ent­wickler (m/w/d) Job Hybrid Vollzeit 50.000 - 65.000 € Ulm, Deutsch­land Elektrotechnik Informationstechnik Young",
-   "url": "https://touch.ferchau.com/de/de/job/19682/junior-informatiker-softwareentwickler"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Inge­nieur (m/w/d) Auto­ma­ti­sie­rungs­technik Job Vor Ort Vollzeit 50.000 - 70.000 € München, Deutsch­land Anlagenbau Elektrotechnik Weitere Young P",
-   "url": "https://touch.ferchau.com/de/de/job/67099/ingenieur-automatisierungstechnik"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "(Junior) Elek­tro­in­ge­nieur (m/w/d) Job Vor Ort Vollzeit 55.000 - 65.000 € München, Deutsch­land Anlagenbau Elektrotechnik Weitere Young Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/67120/junior-elektroingenieur"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­in­ge­nieur TGA Versor­gungs­technik (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Stutt­gart, Deutsch­land Anlagenbau Maschinenbau Weitere Y",
-   "url": "https://touch.ferchau.com/de/de/job/68293/projektingenieur-tga-versorgungstechnik"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "SPS-Program­mierer (m/w/d) Job Vor Ort Vollzeit 55.000 - 75.000 € Villingen-Schwen­ningen, Deutsch­land Elektrotechnik Weitere Young Professionals Pro",
-   "url": "https://touch.ferchau.com/de/de/job/71848/sps-programmierer"
-  },
-  {
-   "at": "2026-10-28T03:25:21+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Versuchs­in­ge­nieur (m/w/d) Antriebs­technik Job Hybrid Vollzeit 45.000 - 65.000 € Heiden­heim an der Brenz, Deutsch­land Anlagenbau Maschinenbau Wei",
-   "url": "https://touch.ferchau.com/de/de/job/72850/versuchsingenieur-antriebstechnik"
-  },
   {
    "at": "2026-10-28T03:25:21+00:00",
    "kind": "new",
@@ -3501,12 +3403,110 @@
    "site": "KSB – Pegnitz",
    "title": "Order Management Engineer (m/w/d)",
    "url": "https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T12:11:23+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Praxishilfskraft (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Mnchen-Germany/Praxishilfskraft--m-w-d-_R0275175?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T12:09:56+00:00",
+   "kind": "new",
+   "site": "Fraunhofer UMSICHT – Sulzbach-Rosenberg",
+   "title": "Abschlussarbeit (M): Entwicklung thermischer Zwei-Zonen-Reaktor",
+   "url": "https://jobs.fraunhofer.de/job/Sulzbach-Rosenberg-Abschlussarbeit-%28M%29-Entwicklung-thermischer-Zwei-Zonen-Reaktor-92237/1452114733"
+  },
+  {
+   "at": "2026-10-28T12:09:56+00:00",
+   "kind": "new",
+   "site": "Fraunhofer UMSICHT – Sulzbach-Rosenberg",
+   "title": "Thesis (M): Development of a Two-Zone Thermal Reactor",
+   "url": "https://jobs.fraunhofer.de/job/Sulzbach-Rosenberg-Thesis-%28M%29-Development-of-a-Two-Zone-Thermal-Reactor-92237/1452114933"
+  },
+  {
+   "at": "2026-10-28T12:09:40+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "SQA Specialist (m/w/x)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Assamstadt-DE/SQA-Specialist--m-w-x-_R00266126?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T12:09:40+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer (m/w/d) Versand 37293 Herleshausen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2mCyEx-kommissionierer-mwd-versand_37293-herleshausen"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Referent für CO₂-Bilanzierung und Nachhaltigkeitsanalytik (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4533885&jobId=115680"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/b1157f72-210c-4bc5-db39-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/304dd809-5ae7-47bc-db3b-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/a7caa8e4-e359-4a12-db3d-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/53553d2d-8fd2-4113-dc62-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/6f8debc3-44c7-4a4a-dc63-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/cc933619-ca3b-478c-dc64-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/d0329554-6615-48d0-dc65-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-28T12:10:27+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/0158eec2-cc8d-426c-dc66-08df17a5b9ac"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T11:56:07+00:00",
+ "last_run": "2026-10-28T12:11:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
