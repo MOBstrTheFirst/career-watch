@@ -1,56 +1,7 @@
 {
- "alerts": 415,
+ "alerts": 420,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "IT Cloud Engineer (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Cloud-Engineer---d-m-w-_JR10449365?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Strukturmechaniker A350 (m/w/d)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Nordenham/Strukturmechaniker-A350--m-w-d-_JR10386985-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Product Definition Engineer for Automotive SiC Chips and Discrete Product for Inverter (f/m/div) Munich + 1 more HRC1811868 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972066757"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Engineer - Product Engineering Cavite HRC1738898",
-   "url": "https://jobs.infineon.com/careers/job/563808971813569"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Product Application Engineer for AI Datacenter Shenzhen HRC1819659",
-   "url": "https://jobs.infineon.com/careers/job/563808972114992"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Yield & Amp; Product Kaohsiung + 1 more HRC1793278",
-   "url": "https://jobs.infineon.com/careers/job/563808972036906"
-  },
-  {
-   "at": "2026-10-28T10:10:03+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Product Application Xi'an HRC1811526",
-   "url": "https://jobs.infineon.com/careers/job/563808972058258"
-  },
   {
    "at": "2026-10-28T10:09:50+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "TTTech Auto Germany",
    "title": "Semiconductor Maintenance Technician – Photo",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Photo_R-10061214?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T18:25:01+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum Retail Marketing im nationalen und internationalen Key Account Management",
+   "url": "https://jobs.bosch.com/en/job/REF299661M-praktikum-retail-marketing-im-nationalen-und-internationalen-key-account-management"
+  },
+  {
+   "at": "2026-10-28T18:25:01+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Internship in Characterization of Optical Sensors",
+   "url": "https://jobs.bosch.com/en/job/REF299658C-internship-in-characterization-of-optical-sensors"
+  },
+  {
+   "at": "2026-10-28T18:25:01+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Mandatory Internship in Organizational Development and Communication in an International Team",
+   "url": "https://jobs.bosch.com/en/job/REF299643Z-mandatory-internship-in-organizational-development-and-communication-in-an-international-team"
+  },
+  {
+   "at": "2026-10-28T18:24:53+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Process Engineer - Mechanical Inspection Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-process-engineer-mechanical-inspection-j00339728"
+  },
+  {
+   "at": "2026-10-28T18:24:53+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 90766 Fürth, Bayern 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtxQG9-produktionsmitarbeiter-mwd_90766-fuerth-bayern"
+  },
+  {
+   "at": "2026-10-28T18:25:35+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Board Validation Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-GA-Duluth-River-Green-Parkway/Board-Validation-Engineer_R027158?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T18:25:35+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Technical Director - FE",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Technical-Director---FE_R-10066677-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T18:11:26+00:00",
+ "last_run": "2026-10-28T18:26:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
