@@ -1,42 +1,7 @@
 {
- "alerts": 226,
+ "alerts": 230,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Intern - Electronics Engineering",
-   "url": "https://careers.landisgyr.com/job/Lafayette-Intern-Electronics-Engineering-IN/1431897833"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Regional Controller",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Regional-Controller-GA-30004/1442345833"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "Landis+Gyr Germany",
-   "title": "Corporate Controller",
-   "url": "https://careers.landisgyr.com/job/Alpharetta-Corporate-Controller-GA-30004/1442346533"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "SKF – Schweinfurt",
-   "title": "Duales Studium - Wirtschaftsingenieurwesen (m/w/d) Elektrotechnik",
-   "url": "https://career.skf.com/job/Walldorf-Duales-Studium-Wirtschaftsingenieurwesen-%28mwd%29-Elektrotechnik/1367391533"
-  },
-  {
-   "at": "2026-10-28T02:24:48+00:00",
-   "kind": "new",
-   "site": "REHAU – Erlangen",
-   "title": "Product Manager (m/w/d) - Schwerpunkt Profile",
-   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Product-Manager-%28mwd%29-Schwerpunkt-Profile/1442212433"
-  },
   {
    "at": "2026-10-28T02:24:48+00:00",
    "kind": "new",
@@ -3501,12 +3466,47 @@
    "site": "Ingenieurbüro Hofmann",
    "title": "Bauingenieur für Siemens (m/w/d) 91058 Erlangen 28.10.2026 Mehr erfahren",
    "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJLzBj-bauingenieur-fuer-siemens-mwd_91058-erlangen"
+  },
+  {
+   "at": "2026-10-28T11:41:04+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Data Engineer (w/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516012"
+  },
+  {
+   "at": "2026-10-28T11:41:04+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F516012"
+  },
+  {
+   "at": "2026-10-28T11:41:04+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "AUTOMATION ENGINEER - LUGOJ",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/18311?c=hella"
+  },
+  {
+   "at": "2026-10-28T11:41:04+00:00",
+   "kind": "new",
+   "site": "Sielaff",
+   "title": "Entwickler (m/w/d) Schnittstellen und Digitalisierung Aufbau einer zentralen Schnittstellenplattform als Standard Konzeption, Programmierung, Pflege u",
+   "url": "https://jobs.sielaff.de/de?id=d77bba"
+  },
+  {
+   "at": "2026-10-28T11:39:58+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Consultant ITSM-Digitalisierung (m/w/d) in Köln, Bonn, Nürnberg oder München.",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-consultant-itsm-digitalisierung-m-w-d-71147"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T11:26:13+00:00",
+ "last_run": "2026-10-28T11:41:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
