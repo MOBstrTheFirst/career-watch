@@ -1,5 +1,5 @@
 {
- "alerts": 30,
+ "alerts": 33,
  "commands_set": true,
  "events": [
   {
@@ -568,12 +568,26 @@
    "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
    "title": "Ferienarbeiter (m/w/d) Friedrichshafen für den Zeitraum Januar - März 2027",
    "url": "https://jobs.zf.com/search/?q=&locationsearch=Germany&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-28T02:40:52+00:00",
+   "kind": "new",
+   "site": "Gore (W. L. Gore & Associates) – Pleinfeld",
+   "title": "Manufacturing/Production Leader",
+   "url": "https://wlgore.jobs.hr.cloud.sap/job/ManufacturingProduction-Leader/2433-en_US"
+  },
+  {
+   "at": "2026-10-28T02:40:52+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Netzwerkadministrator (w/m/d) Schwerpunkt Netzwerktechnik",
+   "url": "https://jobs.br.de/Vacancies/1425/Description/1"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T02:26:08+00:00",
+ "last_run": "2026-10-28T02:41:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
