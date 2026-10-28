@@ -1,28 +1,7 @@
 {
- "alerts": 436,
+ "alerts": 437,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:10:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/commercial-und-pricing-analyst-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-28T10:26:32+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Systemingenieur Elektrotechnik (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzM5Nw%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-28T10:26:32+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Assistenz der Abteilungsleitung (m/w/d) - hybrides Arbeiten (Remote & Präsenz) Sindelfingen Zentralfunktionen Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA1MjAyNS0yNDE4NA%3D%3D&showApplicationForm=false"
-  },
   {
    "at": "2026-10-28T10:26:32+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "ABB – Nürnberg branch",
    "title": "AI Robotics Intern- Fall 2026",
    "url": "https://careers.abb/global/en/job/JR00044846/AI-Robotics-Intern-Fall-2026"
+  },
+  {
+   "at": "2026-10-28T19:52:01+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Service Event Planner San Diego, CA, US Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/service-event-planner-j00349327"
+  },
+  {
+   "at": "2026-10-28T19:52:01+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Field Service Engineer Hillsboro, OR, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/field-service-engineer-j00352274"
+  },
+  {
+   "at": "2026-10-28T19:52:01+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Upgrade Install and Relocation Engineer - EUV Austin, TX, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-euv-j00354831"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T19:41:31+00:00",
+ "last_run": "2026-10-28T19:52:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 84,
+ "runs": 85,
  "tg_offset": 297408924
 }
