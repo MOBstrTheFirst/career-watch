@@ -1,56 +1,7 @@
 {
- "alerts": 382,
+ "alerts": 387,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "OT-System­tech­niker (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 70.000 € Marl, Deutsch­land Anlagenbau Informationstechnik Weitere Professionals Senior",
-   "url": "https://touch.ferchau.com/de/de/job/525850/ot-systemtechniker"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "IT Service Manager (m/w/d) Neu Job Hybrid Vollzeit 67.000 - 90.000 € Köln, Deutsch­land Informationstechnik Professionals Senior Professionals ohne Pe",
-   "url": "https://touch.ferchau.com/de/de/job/525841/it-service-manager"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Vertriebs­mit­ar­beiter Sicher­heits­an­lagen (m/w/d) im Rahmen der Direkt­ver­mitt­lung Job Vor Ort Vollzeit 50.000 - 90.000 € Bochum, Deutsch­land D",
-   "url": "https://touch.ferchau.com/de/de/job/523465/vertriebsmitarbeiter-sicherheitsanlagen-im-rahmen-der-direktvermittlung"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "SUSPA – Altdorf",
-   "title": "Junior Key Account Manager (m/w/d) Vertrieb Sulzbach-Rosenberg SUSPA GmbH Vollzeit 35 Wochenstunden unbefristet",
-   "url": "https://karriere.suspa.com/de/jobs/63/junior-key-account-manager-mwd"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schlosser - Metallbauer (m/w/d) 96052 Bamberg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1OULgB-schlosser-metallbauer-mwd_96052-bamberg"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer mit MAG-Kenntnissen (m/w/d) 96052 Bamberg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1x6pri-schweisser-mit-mag-kenntnissen-mwd_96052-bamberg"
-  },
-  {
-   "at": "2026-10-28T09:25:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer (m/w/d) 96052 Bamberg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1vcq1A-metallbauer-mwd_96052-bamberg"
-  },
   {
    "at": "2026-10-28T09:26:55+00:00",
    "kind": "new",
@@ -3501,12 +3452,61 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/mechatroniker-instandhaltung-m-w-d-12/bewerben"
+  },
+  {
+   "at": "2026-10-28T16:26:26+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Servicetechniker (w/m/d) für Betriebs- und Gebäudetechnik",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527489"
+  },
+  {
+   "at": "2026-10-28T16:26:26+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527489"
+  },
+  {
+   "at": "2026-10-28T16:25:06+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Werk­stu­dent Engi­nee­ring & tech­ni­sches Projekt­ma­nage­ment (m/w/d) Neu Job Vor Ort Teilzeit 10.000 - 12.000 € Frank­furt, Deutsch­land Luft- und",
+   "url": "https://touch.ferchau.com/de/de/job/525940/werkstudent-engineering-technisches-projektmanagement"
+  },
+  {
+   "at": "2026-10-28T16:25:13+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Field Service Technician (Entry Level) – Denver, CO",
+   "url": "https://www.pgcareers.com/de/en/job/R000161850/Field-Service-Technician-Entry-Level-Denver-CO"
+  },
+  {
+   "at": "2026-10-28T16:25:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Logistikkoordinator Zoll & Export (m/w/d) (Produktion & Fertigung) in 06249 Mücheln Produktion & Fertigung 06249 Mücheln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/logistikkoordinator-zoll-und-export-m-w-d"
+  },
+  {
+   "at": "2026-10-28T16:25:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Mücheln",
+   "url": "https://jobs.de.dis-ag.com/suche/in-muecheln"
+  },
+  {
+   "at": "2026-10-28T16:25:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/logistikkoordinator-zoll-und-export-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T16:11:14+00:00",
+ "last_run": "2026-10-28T16:26:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
