@@ -1,98 +1,7 @@
 {
- "alerts": 387,
+ "alerts": 394,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T09:26:55+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Site Construction Manager – Offshore Platform (m/f/d)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4078624&jobId=113494"
-  },
-  {
-   "at": "2026-10-28T09:26:55+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/gesundheits-und-krankenpfleger-psychosomatik-m-w-d-kk-psom-gkp-2026-11-30"
-  },
-  {
-   "at": "2026-10-28T09:40:49+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IIS (main institute) (+5 more)",
-   "title": "Minijob - Haus- und Medientechniker*in in Teilzeit – Forschungscampus Waischenfeld (all genders)",
-   "url": "https://iisfraunhofer.softgarden.io/job/67885787/Minijob-Haus-und-Medientechniker-in-in-Teilzeit-%E2%80%93-Forschungscampus-Waischenfeld-all-genders-?jobDbPVId=288941532&l=de"
-  },
-  {
-   "at": "2026-10-28T09:40:49+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IIS (main institute) (+5 more)",
-   "title": "Auszubildende*r (all genders) zum / zur Mechatroniker*in ab 09/2027",
-   "url": "https://iisfraunhofer.softgarden.io/job/66196088/Auszubildende-r-all-genders-zum-zur-Mechatroniker-in-ab-09-2027?jobDbPVId=288941272&l=de"
-  },
-  {
-   "at": "2026-10-28T09:40:49+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IIS (main institute) (+5 more)",
-   "title": "Werkstudent*in – Produktmanagement KI-Technologien (all genders)",
-   "url": "https://iisfraunhofer.softgarden.io/job/67804187/Werkstudent-in-%E2%80%93-Produktmanagement-KI-Technologien-all-genders-?jobDbPVId=288940862&l=de"
-  },
-  {
-   "at": "2026-10-28T09:40:49+00:00",
-   "kind": "new",
-   "site": "Main-Donau Netzgesellschaft / N-ERGIE",
-   "title": "Spezialist Zuschuss- und Fördermittelabwicklung (m/w/d)",
-   "url": "https://karriere.n-ergie.de/jobs/spezialist-zuschuss-und-foerdermittelabwicklung-m-w-d/39fa8b48-b202-4e59-b6ab-20fabffa8916"
-  },
-  {
-   "at": "2026-10-28T09:40:41+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Zugverkehrssteuerung als 3D-Spiel (WLAN empfohlen)",
-   "url": "https://experience.db.jobs/?nav=stellwerk"
-  },
-  {
-   "at": "2026-10-28T09:40:41+00:00",
-   "kind": "possible",
-   "site": "MKS Instruments (Atotech) – Feucht",
-   "title": "Senior Manager, Finance Master Data Governance (w/m/d)",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersEMEA?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T09:40:41+00:00",
-   "kind": "new",
-   "site": "TAUBER-SOLAR",
-   "title": "Key Account Manager C&I (m/w/d) Tauberbischofsheim, Würzburg, München Vollzeit Festanstellung",
-   "url": "https://tauber-solar.jobs.personio.de/job/2864722"
-  },
-  {
-   "at": "2026-10-28T09:39:50+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Executive - EHS",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Chennai-IN/Sr-Executive---EHS_R00267913?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T09:39:50+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "Auditierung & Zertifizierung Sonstige Werkstudent:in Labore im Explosionsschutz Standort Hannover Arbeitszeitmodell Flexibel nach Absprache Nebenjob G",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/werkstudentin-labore-im-explosionsschutz-12029"
-  },
-  {
-   "at": "2026-10-28T09:39:50+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Qualitätsmanager Automotive Bordnetz (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3127"
-  },
-  {
-   "at": "2026-10-28T09:39:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 91257 Pegnitz 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1xVoYD-gabelstaplerfahrer-mwd_91257-pegnitz"
-  },
   {
    "at": "2026-10-28T09:39:50+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/logistikkoordinator-zoll-und-export-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-28T16:40:42+00:00",
+   "kind": "new",
+   "site": "Main-Donau Netzgesellschaft / N-ERGIE",
+   "title": "IT-Netzwerkadministrator LAN/WLAN (m/w/d) Nürnberg N-ERGIE IT & Ingenieurwesen",
+   "url": "https://karriere.n-ergie.de/jobs/it-netzwerkadministrator-lan-wlan-m-w-d/8b6345be-3224-4d8a-8109-6458548ad284"
+  },
+  {
+   "at": "2026-10-28T16:40:42+00:00",
+   "kind": "new",
+   "site": "F.EE Unternehmensgruppe",
+   "title": "Sachbearbeiter*in Einkauf (m/w/d) – Job-ID 4034",
+   "url": "https://www.fee.de/karriere/stellenangebote/sachbearbeitung-einkauf-m/w/d-job-id-4034"
+  },
+  {
+   "at": "2026-10-28T16:40:09+00:00",
+   "kind": "new",
+   "site": "Bruker – Erlangen",
+   "title": "Title Project Manager HR Digital Transformation (m/f/d)",
+   "url": "https://internationalcareers-bruker.icims.com/jobs/20195/project-manager-hr-digital-transformation-%28m-f-d%29/job?hub=12"
+  },
+  {
+   "at": "2026-10-28T16:40:09+00:00",
+   "kind": "new",
+   "site": "Dimplex (Glen Dimplex) – Kulmbach",
+   "title": "Key Account Manager Planerberatung (m/w/d)",
+   "url": "https://karriere.glendimplex.de/Key-Account-Manager-Planerberatung-mwd-de-j569.html"
+  },
+  {
+   "at": "2026-10-28T16:40:09+00:00",
+   "kind": "new",
+   "site": "Dimplex (Glen Dimplex) – Kulmbach",
+   "title": "Außendienstmitarbeiter Süd-West (m/w/d)",
+   "url": "https://karriere.glendimplex.de/Aussendienstmitarbeiter-Sued-West-mwd-de-j568.html"
+  },
+  {
+   "at": "2026-10-28T16:40:09+00:00",
+   "kind": "new",
+   "site": "Dimplex (Glen Dimplex) – Kulmbach",
+   "title": "Mitarbeiter Lötzentrum (m/w/d)",
+   "url": "https://karriere.glendimplex.de/Mitarbeiter-Loetzentrum-mwd-de-j570.html"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199470 Praktikant Digitalisierung und Agentic AI in der Produktion (w/m/x) Veröffentlicht: 28.10.2026 Produktionsplanung München Neu Produktionsplanun",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199470.html"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198910 Praktikant Geschäftsentwicklung (w/m/x) Veröffentlicht: 28.10.2026 Geschäftsentwicklung München Neu Geschäftsentwicklung München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198910.html"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Verpacker (m/w/d) (Logistik & Transport) in 38871 Ilsenburg Logistik & Transport 38871 Ilsenburg Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/verpacker-m-w-d"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) Teilzeit (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-teilzeit-2"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Payroll Manager (m/w/d) (HR & Personalwesen) in 79227 Schallstadt HR & Personalwesen 60.000,00 - 66.000,00 EUR / Jahr 79227 Schallstadt Neu Sofortiger",
+   "url": "https://jobs.de.dis-ag.com/payroll-manager-m-w-d-4"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Ilsenburg",
+   "url": "https://jobs.de.dis-ag.com/suche/in-ilsenburg"
+  },
+  {
+   "at": "2026-10-28T16:39:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/verpacker-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T16:26:43+00:00",
+ "last_run": "2026-10-28T16:40:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
