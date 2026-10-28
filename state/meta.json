@@ -1,5 +1,5 @@
 {
- "alerts": 7,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -183,12 +183,19 @@
    "site": "ASML – Erlangen",
    "title": "New Principal Mechanical Engineer San Diego, CA, US Design Engineering and Architecture",
    "url": "https://www.asml.com/en/careers/find-your-job/principal-mechanical-engineer-j00351126"
+  },
+  {
+   "at": "2026-10-28T23:55:20+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Solution Architect - Singapore",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/SGP-Robinson-Road-SO/Solution-Architect---Singapore_R027478?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T23:40:50+00:00",
+ "last_run": "2026-10-28T23:56:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 3,
+ "runs": 4,
  "tg_offset": 297408924
 }
