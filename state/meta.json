@@ -1,294 +1,7 @@
 {
- "alerts": 321,
+ "alerts": 333,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T07:54:46+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "Account Executive - Central Commercial",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Washington-United-States-of-America/Account-Executive---Central-Commercial_71007858?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T07:55:08+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT Administrator (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/it-administrator"
-  },
-  {
-   "at": "2026-10-28T07:55:08+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/it-administrator/bewerben"
-  },
-  {
-   "at": "2026-10-28T08:10:48+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Senior Development Sales (w/m/d) Smart Buildings",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527284"
-  },
-  {
-   "at": "2026-10-28T08:10:48+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527284"
-  },
-  {
-   "at": "2026-10-28T08:10:48+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Herzogenaurach HQ",
-   "title": "Leiter HR Strategie (d/m/w)",
-   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Leiter-HR-Strategie-%28dmw%29-91074/1416093433"
-  },
-  {
-   "at": "2026-10-28T08:10:48+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Herzogenaurach HQ",
-   "title": "Head of HR Strategy (d/f/m)",
-   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Head-of-HR-Strategy-%28dfm%29-91074/1416093333"
-  },
-  {
-   "at": "2026-10-28T08:10:48+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Senior PMO Consultant Logistik (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000194TwzQAE"
-  },
-  {
-   "at": "2026-10-28T08:09:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "28.10.2026 HR Generalist (m/w/d) ab 4.500 € Düsseldorf",
-   "url": "https://www.tempton.de/jobs/hr-generalist-4500-euro"
-  },
-  {
-   "at": "2026-10-28T08:09:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "28.10.2026 CNC-Dreher/Fräser (m/w/d) Schenefeld",
-   "url": "https://www.tempton.de/jobs/cnc-dreher-fraeser-13"
-  },
-  {
-   "at": "2026-10-28T08:10:00+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Global HR IT - Engineer HR Digital Platforms (m/f/d)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82028D-p-d5465bdd7137cece831989f88918ccd9/global-hr-it-engineer-hr-digital-platforms-m-f-d-"
-  },
-  {
-   "at": "2026-10-28T08:10:00+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Global HR-IT Solution Manager (m/f/d)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82025Y-p-8b36bbc371883f68ac01f4116a35c628/global-hr-it-solution-manager-m-f-d-"
-  },
-  {
-   "at": "2026-10-28T08:10:00+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "HR IT - SAP HCM and Fiori Engineer (m/f/d)",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82007D-p-d5465bdd7137cece831989f88918ccd9/hr-it-sap-hcm-and-fiori-engineer-m-f-d-"
-  },
-  {
-   "at": "2026-10-28T08:10:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbedienung (m/w/d) / Produktionshelfer (m/w/d) 42489 Wülfrath 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/WJV2o-maschinenbedienung-mwd-produktionshelfer-mwd_42489-wuelfrath"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Junior RF Automation Engineer (NFC) (m/f/d)",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Junior-RF-Automation-Engineer--NFC---m-f-d-_R-10064659?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "Rittmeyer – Fürth",
-   "title": "#Rittmeyer Assistenz Group Management / Leitung Gruppensekretariat (a) Die BRUGG Gruppe ist ein international tätiges Schweizer Industrieunternehmen m",
-   "url": "https://karriere.rittmeyer.com/offene-stellen/assistenz-group-management-leitung-gruppensekretariat-a"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Elektroniker für Geräte und Systeme (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507288/elektroniker-fuer-geraete-und-systeme-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Integrations- und Wartungsfachkraft - Radar Systems (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507289/integrations-und-wartungsfachkraft-radar-systems-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Senior Data Scientist GenAI & KI-Agenten (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507290/senior-data-scientist-genai-ki-agenten-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Senior AI Consultant (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507291/senior-ai-consultant-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Lead KI Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507292/lead-ki-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Prompt Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507293/prompt-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Senior AI Platform Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507294/senior-ai-platform-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Exportsachbearbeiter (m/w/d) (Logistik & Transport) in 76646 Bruchsal Logistik & Transport 76646 Bruchsal Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-97"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Kundenservice Mitarbeiter (m/w/d) (Büroverwaltung) in 10707 Berlin Büroverwaltung 10707 Berlin Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/kundenservice-mitarbeiter-m-w-d-9"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Netzwerkadministrator (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/netzwerkadministrator-m-w-d-58"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Arbeitsvorbereiter Fahrzeugtechnik (m/w/d) (Produktion & Fertigung) in 24939 Flensburg Produktion & Fertigung 24939 Flensburg Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/arbeitsvorbereiter-fahrzeugtechnik-m-w-d"
-  },
-  {
-   "at": "2026-10-28T08:10:15+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/exportsachbearbeiter-m-w-d-97/bewerben"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) im Projektmanagement",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-im-Projektmanagement/306262"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "E-T-A Elektrotechnische Apparate",
-   "title": "Werkstudent*in - Bauten und Energie (m/w/d)",
-   "url": "https://jobs.e-t-a.de/jobposting/548c9cd50b581d4af1ec52a65da45dcdf26db82b0"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Senior Engineer - Electrical Systems (m/f/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc1Nw%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Electronicien(ne)s (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158226549-electronicien-ne-s-h-f-"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur HF / RF – Intégration & Bancs de test (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158224390-ingenieur-hf-rf-integration-bancs-de-test-h-f-"
-  },
-  {
-   "at": "2026-10-28T08:26:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Maintien en Condition Opérationnelle (MCO) – Bancs de Test (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158225145-ingenieur-maintien-en-condition-operationnelle-mco-bancs-de-test-h-f-"
-  },
-  {
-   "at": "2026-10-28T08:24:49+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "28.10.2026 Helfer - Reinigung (m/w/d) mit Führerschein Kiel",
-   "url": "https://www.tempton.de/jobs/helfer-reinigung-fuehrerschein"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "ESG – Manching",
-   "title": "Product Manager - Airborne Solutions Software (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Immenstaad-Product-Manager-Airborne-Solutions-Software-%28wmd%29-88090/1374687955"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Auto­ma­ti­sie­rungs­tech­niker für Robotik-Appli­ka­tionen (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 58.000 € Memmingen, Deutsch­land Anlagenbau Elek",
-   "url": "https://touch.ferchau.com/de/de/job/525808/automatisierungstechniker-fuer-robotik-applikationen"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Team­leiter Instand­hal­tung Energie- und Netz­technik (m/w/d) in DIREKT­VER­MITT­LUNG Neu Job Hybrid Vollzeit 75.000 - 90.000 € Leipzig, Deutsch­land",
-   "url": "https://touch.ferchau.com/de/de/job/525838/teamleiter-instandhaltung-energie-und-netztechnik-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer Galvanik (m/w/d) 09390 Gornsdorf 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1w1xqp-helfer-galvanik-mwd_09390-gornsdorf"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Logistikmitarbeiter Siemens AG (m/w/d) 09247 Chemnitz, Sachsen 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1IuXuM-logistikmitarbeiter-siemens-ag-mwd_09247-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-28T08:25:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektrohelfer Siemens AG (m/w/d) 09247 Chemnitz, Sachsen 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJ97sd-elektrohelfer-siemens-ag-mwd_09247-chemnitz-sachsen"
-  },
   {
    "at": "2026-10-28T08:25:00+00:00",
    "kind": "new",
@@ -3501,12 +3214,299 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/controller-kosten-und-leistungsrechnung-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-28T14:40:52+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "HR Operations Werkstudent (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Bad-Homburg-Germany/HR-Operations-Werkstudent--m-w-d-_R0273163?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:52+00:00",
+   "kind": "possible",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Praktikum (49)",
+   "url": "https://karriere.fresenius.de/job-suche"
+  },
+  {
+   "at": "2026-10-28T14:40:52+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker (m/w/d) Instandhaltung",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000198tODQAY"
+  },
+  {
+   "at": "2026-10-28T14:40:52+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Teamassistenz Onboarding & Schulungsorganisation (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV0000198FNbQAM"
+  },
+  {
+   "at": "2026-10-28T14:40:03+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (d/m/w) im Bereich Technisches Facility Management",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Werkstudent--d-m-w--im-Bereich-Technisches-Facility-Management_JR10452194?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:03+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "28.10.2026 MSR-Techniker / SPS-Programmierer (m/w/d) – Industrie | Gelsenkirchen Gelsenkirchen",
+   "url": "https://www.tempton.de/jobs/msr-techniker-sps-programmierer-industrie-gelsenkirchen"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Mechanical Engineer Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/mechanical-engineer-j00356196"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Industrie 4.0",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Soest-DE/Industrie-40_R00267964-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Assistant Manager Tech Team",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Soest-DE/Assistant-Manager-Tech-Team_R00267973-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Schichtmeister Tech Team",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Soest-DE/Schichtmeister-Tech-Team_R00267957-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Koordinator TPM/Automation",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Soest-DE/Koordinator-TPM-Automation_R00267954-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Jefe de Mantenimiento",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Ejido-Laguna-De-San-Vincente-MX/Jefe-de-Mantenimiento_R00267517?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Bauhelfer / Baufacharbeiter / Spezialbaufacharbeiter (m/w/d) Tiefbau",
+   "url": "https://jobportal.max-boegl.de/Bauhelfer-Baufacharbeiter-Spezialbaufacharbeiter-mwd-Tiefb-de-j2369.html"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Facharbeiter (m/w/d) Verkehrstechnik",
+   "url": "https://jobportal.max-boegl.de/Facharbeiter-mwd-Verkehrstechnik-de-j2368.html"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektronik (m/k/d) 91052 Erlangen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1UFYyB-elektronik-mkd_91052-erlangen"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) 91052 Erlangen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z6OoDK-elektroniker-mwd_91052-erlangen"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97070 Würzburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zi9CQH-produktionsmitarbeiter-mwd_97070-wuerzburg"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener/in (m/w/d) 97753 Karlstadt, Main 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1jnMdW-maschinenbedienerin-mwd_97753-karlstadt-main"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer/in (m/w/d) 97228 Rottendorf, Unterfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1xQGMv-produktionshelferin-mwd_97228-rottendorf-unterfranken"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97941 Tauberbischofsheim 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2teoRr-lagermitarbeiter-mwd_97941-tauberbischofsheim"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer (m/w/d) 97320 Albertshofen, Kreis Kitzingen 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1OoJjY-lagerhelfer-mwd_97320-albertshofen-kreis-kitzingen"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer/in (m/w/d) - Verpackung 97209 Veitshöchheim 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2mtOlE-helferin-mwd-verpackung_97209-veitshoechheim"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kommissionierer/in (m/w/d) 97070 Würzburg 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1CaDui-kommissioniererin-mwd_97070-wuerzburg"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Facharbeiter CNC (m/w/d) 97450 Arnstein, Unterfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/10vrHy-facharbeiter-cnc-mwd_97450-arnstein-unterfranken"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97228 Rottendorf, Unterfranken 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1M4rkC-produktionsmitarbeiter-mwd_97228-rottendorf-unterfranken"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter/in (m/w/d) 97980 Bad Mergentheim 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2gk6sh-lagermitarbeiterin-mwd_97980-bad-mergentheim"
+  },
+  {
+   "at": "2026-10-28T14:40:10+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97337 Dettelbach 28.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2fuvdO-lagermitarbeiter-mwd_97337-dettelbach"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Digital Validation Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "SRAM/ROM Circuit Design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/SRAM-ROM-Circuit-Design-Engineer_R-10065869?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199459 Praktikant Automatisierung und Künstliche Intelligenz in der After Sales Logistik (w/m/x) Veröffentlicht: 28.10.2026 Business Intelligence Ding",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199459.html"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199312 Praktikant E/E Integration und Absicherung Gesamtfahrzeug (w/m/x) Veröffentlicht: 28.10.2026 Elektrik / Elektronik München Neu Elektrik / Elekt",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199312.html"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "199299 Praktikant Logistikplanung und autonome Transportsysteme (w/m/x) Veröffentlicht: 28.10.2026 Logistikplanung München Neu Logistikplanung München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199299.html"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198568 Doktorand Autonome Park- und Ladevorgänge von Elektrofahrzeugen (w/m/x) Veröffentlicht: 28.10.2026 Elektromobilität München Neu Elektromobilitä",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198568.html"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Systemingenieur Maritime Systeme (m/w/d) (Produktion & Fertigung) in 89077 Ulm Produktion & Fertigung 89077 Ulm Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/systemingenieur-maritime-systeme-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Security-Manager (m/w/d) (IT & Software) in 14476 Potsdam IT & Software 14476 Potsdam Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-security-manager-m-w-d-1"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Referent Konzernberichtswesen (m/w/d) (Rechnungswesen & Finanzen) in 23942 Dassow Rechnungswesen & Finanzen 23942 Dassow Neu",
+   "url": "https://jobs.de.dis-ag.com/referent-konzernberichtswesen-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Serviceleiter Aftersales (m/w/d) (Management & Beratung) in 07546 Gera Management & Beratung 07546 Gera Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/serviceleiter-aftersales-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Chemielaborant (m/w/d) (Naturwissenschaften) in 22113 Hamburg Naturwissenschaften 22113 Hamburg Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/chemielaborant-m-w-d-2"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Controller Personalcontrolling & Kosten- und Leistungsrechnung (m/w/d) (Rechnungswesen & Finanzen) in 23942 Dassow Rechnungswesen & Finanzen 23942 Das",
+   "url": "https://jobs.de.dis-ag.com/controller-personalcontrolling-und-kosten-und-leistungsrechnung-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Projektcontroller Fördermittelmanagement (m/w/d) (Rechnungswesen & Finanzen) in 09111 Chemnitz Rechnungswesen & Finanzen 09111 Chemnitz Neu Sofortiger",
+   "url": "https://jobs.de.dis-ag.com/projektcontroller-foerdermittelmanagement-m-w-d"
+  },
+  {
+   "at": "2026-10-28T14:40:26+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/systemingenieur-maritime-systeme-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T14:26:07+00:00",
+ "last_run": "2026-10-28T14:41:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
