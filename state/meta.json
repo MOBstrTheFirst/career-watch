@@ -1,49 +1,7 @@
 {
- "alerts": 420,
+ "alerts": 426,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Technicien Support et Services 1",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technicien-support-et-services-1_251563-1708737.html"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Finance Specialist Subledger Accounting (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/finance-specialist-subledger-accounting-m-w-d_251563-1695362.html"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Ingénieur Radiofréquences",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ingenieur-radiofrequences_251563-1708736.html"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "(Senior) Cloud Engineer (w/m/d) Duesseldorf Cloud Infrastructure Management Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/346299-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Projektkoordinator Governance-Team (w/m/d) in Neu-Ulm Stuttgart Manufacturing & Operations Engineering Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/515028-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Ersatzteildisponent (m/w/d) 90441 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1N0s6e-ersatzteildisponent-mwd_90441-nuernberg-mittelfranken"
-  },
   {
    "at": "2026-10-28T10:09:50+00:00",
    "kind": "new",
@@ -3501,12 +3459,54 @@
    "site": "TTTech Auto Germany",
    "title": "Technical Director - FE",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Technical-Director---FE_R-10066677-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T18:41:01+00:00",
+   "kind": "new",
+   "site": "OMICRON electronics Deutschland",
+   "title": "https://www.omicron.jobs/en/sites/OmicronCareers/job/339?sortBy=POSTING_DATES_DESC",
+   "url": "https://www.omicron.jobs/en/sites/OmicronCareers/job/339?sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-28T18:40:04+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Process Engineer- Functional Testing & Inspection Wilton, CT, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-process-engineer-functional-testing-inspection-j00347701"
+  },
+  {
+   "at": "2026-10-28T18:40:04+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Process Technician - 3rd Shift (11 PM - 7:30 AM)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Duncan-South-Carolina-US/Process-Technician---3rd-Shift--11-PM---7-30-AM-_R00268019?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T18:39:58+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "BO IP Security Engineer Cairo,Cairo,Egypt Service Delivery Gepostete vor 13 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777418845"
+  },
+  {
+   "at": "2026-10-28T18:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Support Engineer (m/w/d) (IT & Software) in 28195 Bremen IT & Software 28195 Bremen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-support-engineer-m-w-d-6"
+  },
+  {
+   "at": "2026-10-28T18:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-support-engineer-m-w-d-6/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T18:26:07+00:00",
+ "last_run": "2026-10-28T18:41:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
