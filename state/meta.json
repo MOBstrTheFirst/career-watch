@@ -1,42 +1,7 @@
 {
- "alerts": 426,
+ "alerts": 429,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Kaufmännische Assistenz in Teilzeit (m/w/d) 90469 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZN2QNB-kaufmaennische-assistenz-in-teilzeit-mwd_90469-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Vertriebsmitarbeiter in Vollzeit (m/w/d) 90475 Nürnberg, Mittelfranken 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z4xCTA-vertriebsmitarbeiter-in-vollzeit-mwd_90475-nuernberg-mittelfranken"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 84032 Altdorf, Niederbayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2uIIFc-lagerhelfer-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lackierer (m/w/d) 84137 Vilsbiburg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WDDCb-lackierer-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Fachkraft (m/w/d) 84032 Altdorf, Niederbayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/F4GT2-cnc-fachkraft-mwd_84032-altdorf-niederbayern"
-  },
   {
    "at": "2026-10-28T10:09:50+00:00",
    "kind": "new",
@@ -3501,12 +3466,47 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/it-support-engineer-m-w-d-6/bewerben"
+  },
+  {
+   "at": "2026-10-28T18:54:53+00:00",
+   "kind": "new",
+   "site": "Vishay Semiconductor – Selb",
+   "title": "Read more",
+   "url": "https://jobs.vishay.com/jobs/151-moldeador"
+  },
+  {
+   "at": "2026-10-28T18:54:53+00:00",
+   "kind": "new",
+   "site": "Vishay Semiconductor – Selb",
+   "title": "Read more",
+   "url": "https://jobs.vishay.com/jobs/151-moldeador-2"
+  },
+  {
+   "at": "2026-10-28T18:55:09+00:00",
+   "kind": "new",
+   "site": "Intelstrom GmbH",
+   "title": "Karriere",
+   "url": "https://intelstrom.com/karriere"
+  },
+  {
+   "at": "2026-10-28T18:55:09+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Electrical Hardware & AI Integration Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Electrical-Hardware---AI-Integration-Engineer_R025609?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T18:55:09+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Principal AI Development Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Principal-AI-Development-Engineer_R025622?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T18:41:22+00:00",
+ "last_run": "2026-10-28T18:55:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
