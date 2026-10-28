@@ -1,49 +1,7 @@
 {
- "alerts": 430,
+ "alerts": 434,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) 84079 Bruckberg, Niederbayern 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/TxBtV-elektroniker-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenmechaniker (m/w/d) 84137 Vilsbiburg 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/a3JNu-anlagenmechaniker-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-28T10:09:50+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) 84109 Wörth an der Isar 28.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/19CTii-industriemechaniker-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-28T10:10:02+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Working Student (f/m/d) Digital Physical Design",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Dresden/Working-Student--f-m-d--Digital-Physical-Design_R-10064066?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-28T10:10:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Commercial & Pricing Analyst (m/w/d) (Digital) in 65760 Eschborn Digital 65760 Eschborn Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/commercial-und-pricing-analyst-m-w-d"
-  },
-  {
-   "at": "2026-10-28T10:10:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Vertriebsinnendienstmitarbeiter (m/w/d) (Sales & Vertrieb) in 75179 Pforzheim Sales & Vertrieb 75179 Pforzheim Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-42"
-  },
   {
    "at": "2026-10-28T10:10:02+00:00",
    "kind": "new",
@@ -3501,12 +3459,54 @@
    "site": "Broadcom – Regensburg",
    "title": "Principal AI Development Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Principal-AI-Development-Engineer_R025622?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-28T19:25:56+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "RESIDENT ENGINEER (M/F/D)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19062?c=hella"
+  },
+  {
+   "at": "2026-10-28T19:25:56+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Test Engineering Mgmt 3 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18415913-test-engineering-mgmt-3-r"
+  },
+  {
+   "at": "2026-10-28T19:25:56+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Material Handler 4 (R)",
+   "url": "https://jobs.sanmina.com/jobs/18333275-material-handler-4-r"
+  },
+  {
+   "at": "2026-10-28T19:25:56+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Project Manager 2 (Design/Engineering) (R)",
+   "url": "https://jobs.sanmina.com/jobs/18415703-project-manager-2-design-slash-engineering-r"
+  },
+  {
+   "at": "2026-10-28T19:25:56+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Sr. Process Engineer Sustaining",
+   "url": "https://jobs.sanmina.com/jobs/18354589-sr-process-engineer-sustaining"
+  },
+  {
+   "at": "2026-10-28T19:25:00+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Utility Sales Support",
+   "url": "https://careers.abb/global/en/job/JR00051647/Utility-Sales-Support"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-28T19:11:00+00:00",
+ "last_run": "2026-10-28T19:26:10+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-27",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
