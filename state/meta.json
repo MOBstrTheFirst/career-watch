@@ -1,5 +1,5 @@
 {
- "alerts": 146,
+ "alerts": 159,
  "commands_set": true,
  "events": [
   {
@@ -2836,12 +2836,215 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/healthcare-application-manager-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum – Audi Beschaffung Infotainment, Display und Bedienung (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "Evosys Laser",
+   "title": "Werkstudent in der mechanischen Konstruktion (m/w/d) Unterstützung beim Konzipieren und Konstruieren von Bauteilen und Schweißwerkzeugen Erstellen tec",
+   "url": "https://karriere.evosys-laser.de/en?id=f7794c"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Business & Administration Geschäftsfeldleitung Gebäudetechnik (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Geschaeftsfeldleitung-Gebaeudetechnik-w_m_d-Koeln?id=21901"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "TÜV Rheinland – Nürnberg",
+   "title": "Ingenieure & Technik Projektleiter*in TGA Bauqualität & Inbetriebnahmemanagement (w/m/d)",
+   "url": "https://jobs.tuv.com/de/job/Projektleiterin-TGA-Bauqualitaet-Inbetriebnahmemanagement-w_m_d-Duesseldorf?id=22030"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft - Stationsleitung Geriatrie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/b986dc30-8385-5160-99cc-548f97b8af67/pflegefachkraft-stationsleitung-geriatrie-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Oberarzt Innere Medizin & Angiologie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/14588816-95d8-5a86-921f-40ef070c5c91/oberarzt-innere-medizin-angiologie-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Chemiehelfer (m/w/d) Tagschicht",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000XojmvQAB"
+  },
+  {
+   "at": "2026-10-29T09:40:51+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Zerspanungsmechaniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ew9j3QAA"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "CYBER DEFENCE ANALYST L2 (D/F/M)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/CYBER-DEFENCE-ANALYST-L2--D-F-M-_JR10452387?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Head of Technical Publications (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Head-of-Technical-Publications--d-m-w-_JR10448628-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "VIE (d/f/m) - HR Project Manager - H/F",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/VIE--d-f-m----HR-Project-Manager---H-F_JR10451106?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Projektkauffrau/-mann Beschaffung (w/m/d) neu Nürnberg, München, Deutschland DB InfraGO AG Startdatum: 1. März 2027",
+   "url": "https://db.jobs/de-de/Suche/Projektkauffrau-mann-Beschaffung-w-m-d--14084742?jobId=642874"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "KI- und Digitalisierungsmanager:in Baumanagement neu Nürnberg, München, Deutschland DB Engineering & Consulting GmbH Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/KI-und-Digitalisierungsmanager-in-Baumanagement-14084726?jobId=642199"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Forstwirt:in / Gärtner:in als Vegetationspfleger:in am Gleis neu Nürnberg, Deutschland DB Fahrwegdienste GmbH Startdatum: ab sofort",
+   "url": "https://db.jobs/de-de/Suche/Forstwirt-in-Gaertner-in-als-Vegetationspfleger-in-am-Gleis-14084710?jobId=634542"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Buchhalterin Kreditoren / Debitoren(m/w/d) Köln",
+   "url": "https://www.tempton.de/jobs/buchhalterin-kreditoren-debitoren"
+  },
+  {
+   "at": "2026-10-29T09:39:53+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Qualitätsprüfer (m/w/d) Prüm",
+   "url": "https://www.tempton.de/jobs/qualitaetspruefer-23"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Shift Engineer (m/f/d)",
+   "url": "https://jobs.ams-osram.com/en/job/Shift-Engineer-m_f_d-Premstaetten/24689"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "Executive",
+   "url": "https://careers.motherson.com/en/job/executive-7120"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Besucherbetreuung (m/w/d) für Führungen im Baumwipfelpfad in Ebrach gesucht 96157 Ebrach, Oberfranken 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZyRCnt-besucherbetreuung-mwd-fuer-fuehrungen-im-baumwipfelpfad-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Natur- und Waldführer (m/w/d) für Baumwipfelpfad in Ebrach gesucht 96157 Ebrach, Oberfranken 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/MjrVJ-natur-und-waldfuehrer-mwd-fuer-baumwipfelpfad-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Natur- und Waldführer (m/w/d) für Baumwipfelpfad in Ebrach gesucht 96157 Ebrach, Oberfranken 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2efsBF-natur-und-waldfuehrer-mwd-fuer-baumwipfelpfad-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gästebetreuer und Gruppenführer (m/w/d) für Baumwipfelpfad in Ebrach gesucht 96157 Ebrach, Oberfranken 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZFwVz9-gaestebetreuer-und-gruppenfuehrer-mwd-fuer-baumwipfelpfad-in-ebrach-gesucht_96157-ebrach-oberfranken"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montagemitarbeiter in Wechselschicht (m/w/d) 85368 Moosburg an der Isar 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z15b7aI-montagemitarbeiter-in-wechselschicht-mwd_85368-moosburg-an-der-isar"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schreibkraft (m/w/d) SAP Englisch 15370 Fredersdorf-Vogelsdorf 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Lwrek-schreibkraft-mwd-sap-englisch_15370-fredersdorf-vogelsdorf"
+  },
+  {
+   "at": "2026-10-29T09:39:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "IT-Systemtechniker (m/w/d) Videoüberwachung 99310 Arnstadt 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2jhO9G-it-systemtechniker-mwd-videoueberwachung_99310-arnstadt"
+  },
+  {
+   "at": "2026-10-29T09:40:20+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom Technik – Nürnberg",
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/executive-network-operations-manager-m-f-d-for-industrial-ai-cloud-744000158456684"
+  },
+  {
+   "at": "2026-10-29T09:40:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Leiter IT Infrastruktur & Digitalisierung (m/w/d) (IT & Software) in 16761 Hennigsdorf IT & Software 16761 Hennigsdorf Homeoffice möglich Neu Sofortig",
+   "url": "https://jobs.de.dis-ag.com/leiter-it-infrastruktur-und-digitalisierung-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:40:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Hennigsdorf",
+   "url": "https://jobs.de.dis-ag.com/suche/in-hennigsdorf"
+  },
+  {
+   "at": "2026-10-29T09:40:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/leiter-it-infrastruktur-und-digitalisierung-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T09:26:10+00:00",
+ "last_run": "2026-10-29T09:41:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
