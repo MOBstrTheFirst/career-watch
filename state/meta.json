@@ -1,175 +1,7 @@
 {
- "alerts": 282,
+ "alerts": 293,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 93339 Riedenburg, Altmühltal 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1YNfC-lagerhelfer-mwd_93339-riedenburg-altmuehltal"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerist / Silomeister (m/w/d) 85098 Großmehring 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZgrJDC-lagerist-silomeister-mwd_85098-grossmehring"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer/in Endmontage Automobilindustrie (m/w/d) 85053 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Za8QJG-helferin-endmontage-automobilindustrie-mwd_85053-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer/in Endmontage Automobilindustrie (m/w/d) 85057 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZTCIqk-helferin-endmontage-automobilindustrie-mwd_85057-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 85305 Jetzendorf 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2522iI-lagerhelfer-mwd_85305-jetzendorf"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) Chemie 85238 Petershausen, Oberbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1CBXsf-helfer-mwd-chemie_85238-petershausen-oberbayern"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) Baugruppen 85092 Kösching 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zsr02r-helfer-mwd-baugruppen_85092-koesching"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer in Tagschicht (m/w/d) 86529 Schrobenhausen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1gF1hq-lagerhelfer-in-tagschicht-mwd_86529-schrobenhausen"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer in Tagschicht (m/w/d) 85238 Petershausen, Oberbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2cSeSj-lagerhelfer-in-tagschicht-mwd_85238-petershausen-oberbayern"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer/in Qualitätskontrolle (m/w/d) 85095 Denkendorf, Oberbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z8UukG-helferin-qualitaetskontrolle-mwd_85095-denkendorf-oberbayern"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer für das Wickeln von Transformatoren (m/w/d) 85301 Schweitenkirchen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/IEKqL-helfer-fuer-das-wickeln-von-transformatoren-mwd_85301-schweitenkirchen"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Wareneingang (m/w/d) 85092 Kösching 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1LHUw7-mitarbeiter-wareneingang-mwd_85092-koesching"
-  },
-  {
-   "at": "2026-10-29T07:54:54+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Bilanzkreismanagement (m/w/d) 85053 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/18w5Cm-mitarbeiter-bilanzkreismanagement-mwd_85053-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "TH Nürnberg Georg Simon Ohm – EE faculty institutes (+1 more)",
-   "title": "Wissenschaftlicher Mitarbeiter (w/m/d)",
-   "url": "https://karriere.service.th-nuernberg.de/jobposting/5e366f342bc465b809e67da2382d50b416c0bf6e0?ref=homepage"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "TH Nürnberg Georg Simon Ohm – EE faculty institutes (+1 more)",
-   "title": "Assistenz (w/m/d) Recruiting und Teamorganisation",
-   "url": "https://karriere.service.th-nuernberg.de/jobposting/8a8c90bf583d7a9a1b9e6b2ecddef0a0083207070?ref=homepage"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Lagermitarbeiter (m/w/d) (Logistik & Transport) in 06184 Kabelsketal Logistik & Transport 06184 Kabelsketal Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-35"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Windows & Security Administrator (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/windows-und-security-administrator-m-w-d"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Kabelsketal",
-   "url": "https://jobs.de.dis-ag.com/suche/in-kabelsketal"
-  },
-  {
-   "at": "2026-10-29T07:55:23+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-35/bewerben"
-  },
-  {
-   "at": "2026-10-29T08:10:39+00:00",
-   "kind": "possible",
-   "site": "Audi AG",
-   "title": "Praktikum - Fertigungssteuerung Werkzeugbau (w/m/d)",
-   "url": "https://careers.audi.com/"
-  },
-  {
-   "at": "2026-10-29T08:10:39+00:00",
-   "kind": "new",
-   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
-   "title": "Senior Projekteinkäufer (w/m/d) Bau & Infrastruktur Berufserfahrene Walsrode + 3 Neu",
-   "url": "https://karriere.omexom.de/jobs/68420138/Senior-Projekteink%C3%A4ufer-w-m-d-Bau-Infrastruktur-"
-  },
-  {
-   "at": "2026-10-29T08:10:11+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Praktikant (m/w/d) für den Bereich AI / Softwareentwicklung",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-m-w-d-fuer-den-bereich-ai-softwareentwicklung_251563-1709248.html"
-  },
-  {
-   "at": "2026-10-29T08:10:11+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fleischzerleger (m/w/d) 85051 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2p1DoN-fleischzerleger-mwd_85051-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T08:10:11+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metzger (m/w/d) - Fachkraft für Fleischerei in Vollzeit (m/w/d) 85051 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1D5lgn-metzger-mwd-fachkraft-fuer-fleischerei-in-vollzeit-mwd_85051-ingolstadt-donau"
-  },
   {
    "at": "2026-10-29T08:09:54+00:00",
    "kind": "new",
@@ -3501,12 +3333,180 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/auftragssteuerer/bewerben"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Konzeptvalidierung Gesamtfahrzeug (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Abschlussarbeit - Empirische Untersuchung der peripheren Wahrnehmung im Straßenverkehr (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Nucléaire - Ingénieur Qualité Fournisseurs Electrique H/F Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158510939-nucleaire-ingenieur-qualite-fournisseurs-electrique-h-f"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "new",
+   "site": "DATEV – Nürnberg",
+   "title": "Werkstudent im Sales Support Niederlassung Münster (m/w/d)",
+   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Mnster/Werkstudent-im-Sales-Support-Niederlassung-Mnster--m-w-d-_ID15663"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Dualer Bachelorstudiengang Hebammenwissenschaft (B. Sc.)",
+   "url": "https://karriere.fresenius.de/job-detail/cdd49b3b-86dc-55cc-98ac-4bcbac5b88d2/dualer-bachelorstudiengang-hebammenwissenschaft-b-sc"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Enterprise Data Architect (m/f/d)",
+   "url": "https://karriere.fresenius.de/job-detail/81da0e6c-e47b-5b8b-b0e1-3f986cbd8243/enterprise-data-architect-m-f-d"
+  },
+  {
+   "at": "2026-10-29T13:10:47+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Qualitätsprüfer (m/w/d) KFZ ab 25 € / Std. brutto",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000YwZJdQAN"
+  },
+  {
+   "at": "2026-10-29T13:09:52+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Program Manager",
+   "url": "https://careers.landisgyr.com/job/Austin-Program-Manager-TX-73301/1452534533"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Ausbildung 2027 - Industriekauffrau/kaufmann (m/w/d) Ausbildungsdauer: 3 Jahre Ausbildungsorte: an unserem Standort in Eppingen und an der Berufsschul",
+   "url": "https://jobs.iprworldwide.com/de?id=23de2f"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fertigungsmitarbeiter (m/w/d) Sonderfahrzeugbau 04603 Nobitz 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1JclGL-fertigungsmitarbeiter-mwd-sonderfahrzeugbau_04603-nobitz"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Logistikmitarbeiter (m/w/d) Sonderfahrzeugbau 04603 Nobitz 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1pHmUV-logistikmitarbeiter-mwd-sonderfahrzeugbau_04603-nobitz"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) Betriebstechnik 04838 Eilenburg 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1EyKGs-elektroniker-mwd-betriebstechnik_04838-eilenburg"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektroniker (m/w/d) Elektrotechnik 04178 Leipzig 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/pEkAk-elektroniker-mwd-elektrotechnik_04178-leipzig"
+  },
+  {
+   "at": "2026-10-29T13:10:57+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metallbauer (m/w/d) Stahlbau und Instandhaltung 04178 Leipzig 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/TpIjE-metallbauer-mwd-stahlbau-und-instandhaltung_04178-leipzig"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "possible",
+   "site": "EDAG Engineering",
+   "title": "Mechatronics, Project Management, Engineering",
+   "url": "https://www.edag.com/en/career/vacancies"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/778d48e8-afb3-4377-dc83-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/c1255b1f-1f1b-4472-dc84-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/04e729bc-a47f-4c68-dd2e-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/bea04ae3-23bf-49d5-dd2f-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/a169c99a-f034-4fc6-dd30-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/8cd44b8e-385e-43c1-dd2a-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 22457 Hamburg Rechnungswesen & Finanzen 22457 Hamburg Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-471"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter / Junior Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 77652 Offenburg Rechnungswesen & Finanzen 77652 Offenburg Homeoffice",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-junior-bilanzbuchhalter-m-w-d-1"
+  },
+  {
+   "at": "2026-10-29T13:09:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-471/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T12:56:23+00:00",
+ "last_run": "2026-10-29T13:11:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
