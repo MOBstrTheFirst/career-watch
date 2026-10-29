@@ -1,5 +1,5 @@
 {
- "alerts": 167,
+ "alerts": 175,
  "commands_set": true,
  "events": [
   {
@@ -3179,12 +3179,103 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/elektroniker-in-fuer-betriebstechnik-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-29T09:55:48+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Project Procurement Manager / Projekteinkäufer (w/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526760"
+  },
+  {
+   "at": "2026-10-29T09:55:48+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526760"
+  },
+  {
+   "at": "2026-10-29T09:55:48+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Expert en Ingénierie Système : Guerre Electronique F/H Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158474317-expert-en-ingenierie-systeme-guerre-electronique-f-h"
+  },
+  {
+   "at": "2026-10-29T09:55:48+00:00",
+   "kind": "possible",
+   "site": "F.S. Fehrer Automotive – Kitzingen",
+   "title": "Studentisches Praktikum/ Abschlussarbeit 2026/27 - Optimierung der Standortzuordnung & Transportwege",
+   "url": "https://www.fehrer.com/karriere/stellenangebote"
+  },
+  {
+   "at": "2026-10-29T09:55:48+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Metallbauer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000013vqhBQAQ"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Instandhalter (m/w/d) Produktionsanlagen 15370 Fredersdorf-Vogelsdorf 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dAgje-instandhalter-mwd-produktionsanlagen_15370-fredersdorf-vogelsdorf"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 34519 Diemelsee 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/AuBHm-staplerfahrer-mwd_34519-diemelsee"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 34477 Twistetal 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZuNfX-gabelstaplerfahrer-mwd_34477-twistetal"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 34497 Korbach 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/gjUM0-staplerfahrer-mwd_34497-korbach"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "General Manager, Japan",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Tokyo-Japan/General-Manager--Japan_71007800?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:55:01+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "France - Country Sales Leader",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Paris-France/France---Country-Sales-Leader_71007838?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:55:02+00:00",
+   "kind": "new",
+   "site": "Mitsubishi – Erlangen",
+   "title": "Mitarbeiter Customer Support Center - Compressor (m/w/d)",
+   "url": "https://mitsubishielectric-jobs.de/jobs/Mitarbeiter-Customer-Support-Center-Compressor-mwd-de-j3388.html"
+  },
+  {
+   "at": "2026-10-29T09:55:02+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Channel Application Engineer",
+   "url": "https://careers.abb/global/en/job/JR00045720/Channel-Application-Engineer"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T09:51:52+00:00",
+ "last_run": "2026-10-29T09:56:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
