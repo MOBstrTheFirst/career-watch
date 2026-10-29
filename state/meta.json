@@ -1,161 +1,7 @@
 {
- "alerts": 343,
+ "alerts": 350,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im Bereich Unternehmenssicherheit",
-   "url": "https://jobs.bosch.com/en/job/REF299691Z-praktikum-im-bereich-unternehmenssicherheit"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Pflichtpraktikum im Bereich Projektmanagement – Einkauf",
-   "url": "https://jobs.bosch.com/en/job/REF299467A-pflichtpraktikum-im-bereich-projektmanagement-einkauf"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum in der Entwicklung zur Performance-Steigerung der Dynamik und Akustik von Hochleistungs-Hydromaschinen",
-   "url": "https://jobs.bosch.com/en/job/REF290002D-praktikum-in-der-entwicklung-zur-performance-steigerung-der-dynamik-und-akustik-von-hochleistungs-hydromaschinen"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum im Bereich Logistik",
-   "url": "https://jobs.bosch.com/en/job/REF299688Z-praktikum-im-bereich-logistik"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Dualer Master (M.Eng.) Prozessmanagement - Steuerung von Geschäftsprozessen",
-   "url": "https://jobs.bosch.com/en/job/REF299607V-dualer-master-m-eng-prozessmanagement-steuerung-von-geschaeftsprozessen"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Industriemechaniker (m/w/d) 3 Schichten Düsseldorf",
-   "url": "https://www.tempton.de/jobs/industriemechaniker-3-schichten"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Helfer - Montage (m/w/d) Daun",
-   "url": "https://www.tempton.de/jobs/helfer-montage-10"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Maschinen- und Anlagenführer (m/w/d) in 12277 Berlin Berlin",
-   "url": "https://www.tempton.de/jobs/maschinen-anlagenfuehrer-12277-berlin"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Personalberater / Vertriebsdisponent / Personaldisponent (m/w/d) Augsburg",
-   "url": "https://www.tempton.de/jobs/personalberater-vertriebsdisponent-personaldisponent-25"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Produktionshelfer (m/w/d) Bitburg",
-   "url": "https://www.tempton.de/jobs/produktionshelfer-456"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Web Deve­loper (m/w/d) Neu Job Hybrid Vollzeit 65.000 - 90.000 € Frank­furt, Deutsch­land Weitere Professionals Senior Professionals ohne Personalvera",
-   "url": "https://touch.ferchau.com/de/de/job/525973/web-developer"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "ERP-Admi­nis­trator (m/w/d) proALPHA Neu Job Vor Ort Vollzeit 45.000 - 60.000 € Herms­dorf, Deutsch­land Informationstechnik Professionals Senior Prof",
-   "url": "https://touch.ferchau.com/de/de/job/525970/erp-administrator-proalpha"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Verkaufs­leiter Vertrieb (m/w/d) in Direkt­ver­mitt­lung Neu Job Hybrid Vollzeit 65.000 - 75.000 € Leipzig, Deutsch­land Direktvermittlung Vertrieb Pr",
-   "url": "https://touch.ferchau.com/de/de/job/525913/verkaufsleiter-vertrieb-in-direktvermittlung"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Sach­be­ar­beiter Zerti­fi­kats­ma­nage­ment (m/w/d) Neu Job Hybrid Vollzeit 42.000 - 52.000 € Emden, Deutsch­land Weitere Professionals ohne Personal",
-   "url": "https://touch.ferchau.com/de/de/job/525967/sachbearbeiter-zertifikatsmanagement"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Anla­gen­be­diener (m/w/d) Verede­lung/ Härterei Neu Job Vor Ort Vollzeit 32.000 - 37.000 € Obern­dorf am Neckar, Deutsch­land Maschinenbau Young Prof",
-   "url": "https://touch.ferchau.com/de/de/job/525964/anlagenbediener-veredelung-haerterei"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "ERP-Admi­nis­trator (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 60.000 € Lemwerder, Deutsch­land Informationstechnik Professionals ohne Personalverantwor",
-   "url": "https://touch.ferchau.com/de/de/job/525961/erp-administrator"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­ent­wickler PHP (m/w/d) Neu Job Hybrid Vollzeit 53.000 - 63.000 € Lemwerder, Deutsch­land Informationstechnik Professionals ohne Personalver",
-   "url": "https://touch.ferchau.com/de/de/job/525958/softwareentwickler-php"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Engi­neer Mecha­nical Envi­ron­mental Test (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 55.000 € Back­nang, Deutsch­land Elektrotechnik Luft- und Raumfah",
-   "url": "https://touch.ferchau.com/de/de/job/525955/engineer-mechanical-environmental-test"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Requi­re­ments Engi­neer (m/w/d) Neu Job Vor Ort Vollzeit 60.000 - 70.000 € Landau in der Pfalz, Deutsch­land Fahrzeugtechnik Informationstechnik Youn",
-   "url": "https://touch.ferchau.com/de/de/job/525952/requirements-engineer"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "IT-Systemtechniker (m/w/d) Videoüberwachung 99310 Arnstadt 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1PDTHK-it-systemtechniker-mwd-videoueberwachung_99310-arnstadt"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 91126 Rednitzhembach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2vFFg6-lagermitarbeiter-mwd_91126-rednitzhembach"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 84030 Landshut, Isar 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2fCCoH-staplerfahrer-mwd_84030-landshut-isar"
-  },
   {
    "at": "2026-10-29T09:25:17+00:00",
    "kind": "new",
@@ -3501,12 +3347,166 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/lohn-und-gehaltsbuchhalter-m-w-d-133/bewerben"
+  },
+  {
+   "at": "2026-10-29T14:40:50+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Hardware Project Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29542/Hardware-Project-Manager"
+  },
+  {
+   "at": "2026-10-29T14:40:50+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Hardware Project Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29542EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-29T14:40:50+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Recruiting Manager (m/w/d) – Deutschland / Österreich",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000012TYXlQAO"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "(Senior) Engineer Equipment Thinning (w/m/div) Dresden HRC1846741",
+   "url": "https://jobs.infineon.com/careers/job/563808972279883"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Equipment Engineering Test Malakka (Malaysia) HRC1715972",
+   "url": "https://jobs.infineon.com/careers/job/563808971706150"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Equipment Engineer – Handler Batam HRC1800789",
+   "url": "https://jobs.infineon.com/careers/job/563808972056627"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Equipment Engineering Malakka HRC1800815",
+   "url": "https://jobs.infineon.com/careers/job/563808972017422"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Equipment Engineering Die Bond/ SMT Malakka (Malaysia) HRC1625609 Unternehmenspriorität",
+   "url": "https://jobs.infineon.com/careers/job/563808970560452"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Equipment Engineering Sawing Wuxi + 1 more HRC1701832",
+   "url": "https://jobs.infineon.com/careers/job/563808971503756"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Equipment Engineering (Test machine) Wuxi HRC1847289",
+   "url": "https://jobs.infineon.com/careers/job/563808972209506"
+  },
+  {
+   "at": "2026-10-29T14:39:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Research & Development (f/m/div) Villach HRC1796319",
+   "url": "https://jobs.infineon.com/careers/job/563808971993438"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "ait-deutschland – Kasendorf",
+   "title": "Assistenz der Geschäftsleitung m/w/d",
+   "url": "https://www.aitgroup.com/de/karriere/arbeiten-bei-ait/stellenangebot/G----162-Assistenz-der-Gesch%C3%A4ftsleitung-m_w_d"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Material Flow / Process Engineer - Logistics",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Mesa-Arizona-US/Material-Flow---Process-Engineer---Logistics_R00267676?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Head of Security Governance & Cyber Security (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884968&jobId=118665"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Payroll Specialist (m/w/d) (Rechnungswesen & Finanzen) in 04109 Leipzig Rechnungswesen & Finanzen 04109 Leipzig Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/payroll-specialist-m-w-d-97"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Gehaltsbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 04442 Zwenkau Rechnungswesen & Finanzen 04442 Zwenkau Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/gehaltsbuchhalter-m-w-d-11"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "(Junior) Fachbetreuer Kautionsversicherung (m/w/d) (Banken & Finanzdienstleistung) in 41066 Mönchengladbach Banken & Finanzdienstleistung 41066 Mönche",
+   "url": "https://jobs.de.dis-ag.com/junior-fachbetreuer-kautionsversicherung-m-w-d"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lohn- und Gehaltsbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 04668 Grimma Rechnungswesen & Finanzen 04668 Grimma Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/lohn-und-gehaltsbuchhalter-m-w-d-134"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroniker für Geräte und Systeme (m/w/d) (Produktion & Fertigung) in 70734 Fellbach Produktion & Fertigung 70734 Fellbach Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/elektroniker-fuer-geraete-und-systeme-m-w-d-6"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lohnbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 04452 Borna Rechnungswesen & Finanzen 04452 Borna Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/lohnbuchhalter-m-w-d-111"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Monteur für Sicherheitsventile (m/w/d) (Produktion & Fertigung) in 24594 Hohenwestedt Produktion & Fertigung 24594 Hohenwestedt Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/monteur-fuer-sicherheitsventile-m-w-d"
+  },
+  {
+   "at": "2026-10-29T14:39:58+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/payroll-specialist-m-w-d-97/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T14:26:32+00:00",
+ "last_run": "2026-10-29T14:41:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
