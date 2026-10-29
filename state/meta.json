@@ -1,14 +1,7 @@
 {
- "alerts": 464,
+ "alerts": 465,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T11:24:49+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Principal Analog/Mixed-Signal Engineer (f/m/div) Valencia G91519123 Hybrid Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971299398"
-  },
   {
    "at": "2026-10-29T11:24:49+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Broadcom – Regensburg",
    "title": "Systems Engineering Analog IC Validation",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T22:10:05+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Executive Assistant - ESG Division",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/Executive-Assistant---ESG-Division_R027534?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T21:56:27+00:00",
+ "last_run": "2026-10-29T22:10:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
