@@ -1,28 +1,7 @@
 {
- "alerts": 426,
+ "alerts": 429,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:40:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Aushilfskraft für Bürotätigkeit (m/w/d) 93055 Regensburg 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2utA3I-aushilfskraft-fuer-buerotaetigkeit-mwd_93055-regensburg"
-  },
-  {
-   "at": "2026-10-29T10:40:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer Metallbearbeitung (m/w/d) 93092 Barbing 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1cVJLe-helfer-metallbearbeitung-mwd_93092-barbing"
-  },
-  {
-   "at": "2026-10-29T10:40:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "MAG-Schweißer (m/w/d) 93128 Regenstauf 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/wLpAu-mag-schweisser-mwd_93128-regenstauf"
-  },
   {
    "at": "2026-10-29T10:40:06+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "ABB – Nürnberg branch",
    "title": "Quality Electrical Engineer",
    "url": "https://careers.abb/global/en/job/JR00050046/Quality-Electrical-Engineer"
+  },
+  {
+   "at": "2026-10-29T17:10:20+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Customs Analyst OPS Chandler, AZ, US Legal, Compliance, Risk and Assurance",
+   "url": "https://www.asml.com/en/careers/find-your-job/customs-analyst-ops-j00340582"
+  },
+  {
+   "at": "2026-10-29T17:09:50+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Lead Security SIEM Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Security-Operations-Engineer_R-10061875-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T17:09:50+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Staff Electrical Engineer (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507303/staff-electrical-engineer-(all-gender)"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T16:55:56+00:00",
+ "last_run": "2026-10-29T17:11:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
