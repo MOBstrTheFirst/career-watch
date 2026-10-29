@@ -1,231 +1,7 @@
 {
- "alerts": 333,
+ "alerts": 343,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T09:09:45+00:00",
-   "kind": "new",
-   "site": "dSPACE – Ingolstadt",
-   "title": "Ingénieur test calculateur (h/f)",
-   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38199&t=Ing%C3%A9nieur+test+calculateur+%28h%2Ff%29"
-  },
-  {
-   "at": "2026-10-29T09:09:45+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Helfer - Metall (m/w/d) Pelm",
-   "url": "https://www.tempton.de/jobs/helfer-metall-55"
-  },
-  {
-   "at": "2026-10-29T09:09:45+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Schlosser (m/w/d)",
-   "url": "https://www.tempton.de/jobs/schlosser-272"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Project Manager",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Kenitra-MA/Project-Manager_R00267953?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Maschinen- und Anlagenführer (m/w/d) Produktion / Mischanlage (Emden)",
-   "url": "https://jobportal.max-boegl.de/Maschinen-und-Anlagenfuehrer-mwd-Produktion-Mischanlage-Em-de-j2375.html"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Stadtwerke Schweinfurt",
-   "title": "Sales Manager Telekommunikationsprodukte als freier Handelsvertreter (m/w/d)",
-   "url": "https://jobs.stadtwerke-sw.de/Sales-Manager-Telekommunikationsprodukte-als-freier-Handel-de-j134.html"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 35423 Lich, Hessen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Kbb25-lagermitarbeiter-mwd_35423-lich-hessen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 35463 Fernwald 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZqQFKA-gabelstaplerfahrer-mwd_35463-fernwald"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 35463 Fernwald 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKtcAx-lagermitarbeiter-mwd_35463-fernwald"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 35415 Pohlheim 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2ak6t3-gabelstaplerfahrer-mwd_35415-pohlheim"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 35415 Pohlheim 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1k2rIK-lagerhelfer-mwd_35415-pohlheim"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechaniker (m/w/d) 09496 Marienberg, Erzgebirge 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2trXPB-mechaniker-mwd_09496-marienberg-erzgebirge"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 09366 Stollberg/Erzgebirge 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1WWQLh-lagermitarbeiter-mwd_09366-stollbergerzgebirge"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer Vollzeit (m/w/d) 09514 Lengefeld, Erzgebirge 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2m0aUB-helfer-vollzeit-mwd_09514-lengefeld-erzgebirge"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer (m/w/d) 09120 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2b6RPf-helfer-mwd_09120-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 09669 Frankenberg/Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z27wglX-maschinen-und-anlagenfuehrer-mwd_09669-frankenbergsachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Bürokauffrau Direktvermittlung (m/w/d) 09116 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1F5UJL-buerokauffrau-direktvermittlung-mwd_09116-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer Vollzeit (m/w/d) 09224 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1mtKhC-helfer-vollzeit-mwd_09224-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektrofachkraft (m/w/d) 09126 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/180PGv-elektrofachkraft-mwd_09126-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 09481 Elterlein 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Ztq0mf-lagermitarbeiter-mwd_09481-elterlein"
-  },
-  {
-   "at": "2026-10-29T09:10:23+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Zerspanungsmechaniker (m/w/d) 09125 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/BYSBl-zerspanungsmechaniker-mwd_09125-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T09:10:05+00:00",
-   "kind": "new",
-   "site": "WeSort.AI – Würzburg",
-   "title": "Machine Learning Engineer (m/w/d) - Foundation Models Würzburg Vollzeit Festanstellung",
-   "url": "https://wesort-ai.jobs.personio.com/job/2681466"
-  },
-  {
-   "at": "2026-10-29T09:10:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Microsoft Cloud & Security Administrator (m/w/d) (IT & Software) in 12099 Berlin IT & Software 12099 Berlin Homeoffice möglich Neu Sofortiger S",
-   "url": "https://jobs.de.dis-ag.com/senior-microsoft-cloud-und-security-administrator-m-w-d"
-  },
-  {
-   "at": "2026-10-29T09:10:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior IT Security & Infrastructure Consultant (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/senior-it-security-und-infrastructure-consultant-m-w-d"
-  },
-  {
-   "at": "2026-10-29T09:10:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/senior-microsoft-cloud-und-security-administrator-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-29T09:25:50+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Junior Projektleiter (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzgzMg%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-29T09:25:50+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Junior Projektleiter (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc0Mg%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-29T09:25:50+00:00",
-   "kind": "possible",
-   "site": "Trenkwalder Deutschland",
-   "title": "Teamassistenz (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "possible",
-   "site": "Maschinenfabrik Reinhausen",
-   "title": "Qualitätsplaner Elektrotechnik (m/w/d)",
-   "url": "https://www.reinhausen.com/career/jobs"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "PreMaster Programm Data Science and Process Control for Semiconductor Manufacturing - Ingenieur:in für CVD Prozesse (w/m/div)",
-   "url": "https://jobs.bosch.com/en/job/REF299586B-premaster-programm-data-science-and-process-control-for-semiconductor-manufacturing-ingenieur-in-fuer-cvd-prozesse-w-m-div"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "PreMaster Programm Smart Semiconductor Manufacturing - Ingenieur für CVD Prozesse (w/m/div)",
-   "url": "https://jobs.bosch.com/en/job/REF299584H-premaster-programm-smart-semiconductor-manufacturing-ingenieur-fuer-cvd-prozesse-w-m-div"
-  },
-  {
-   "at": "2026-10-29T09:24:41+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Masterarbeit: KI-Agenten & Simulationsentwicklung",
-   "url": "https://jobs.bosch.com/en/job/REF299511E-masterarbeit-ki-agenten-simulationsentwicklung"
-  },
   {
    "at": "2026-10-29T09:24:41+00:00",
    "kind": "new",
@@ -3501,12 +3277,236 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/wirtschaftspruefungsassistent-in-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-29T14:26:15+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Technischer Redakteur (m/w/d) - Software & Hardware",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc1OQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-29T14:26:15+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Field Service IT Support (m/w/d) - Potsdam",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc0MQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-29T14:26:15+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Director Global Brand Management (m/f/d)",
+   "url": "https://karriere.fresenius.de/job-detail/22f793c1-252f-593b-ac9a-7dc4f929f4e2/director-global-brand-management-m-f-d"
+  },
+  {
+   "at": "2026-10-29T14:24:50+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Hamburg-Area/Working-Student--d-f-m--Data-Engineering--AI---Digital-Dashboards_JR10450746?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Geräteintegrator für taktische Funkgeräte & Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/geraeteintegrator-fuer-taktische-funkgeraete-secure-communications-m-w-d_251563-1709449.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Manager Obsoleszenzmanagement Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/manager-obsoleszenzmanagement-tactical-secure-communications-m-w-d_251563-1709448.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Analog Board Entwickler für Funkgeräte - Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/analog-board-entwickler-fuer-funkgeraete-tactical-secure-communications-m-w-d_251563-1709447.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "HF Analog Board Entwickler für Funkgeräte - Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hf-analog-board-entwickler-fuer-funkgeraete-tactical-secure-communications-m-w-d_251563-1709446.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Softwareentwickler C/C++/Java (m/w/d) für Crypto-Devices",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/softwareentwickler-c-c-java-m-w-d-fuer-crypto-devices_251563-1709445.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1709444.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Technicien Intégration, Validation, Production et Documentation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technicien-integration-validation-production-et-documentation_251563-1708737.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Technical Innovation & Management (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-technical-innovation-management-m-w-d_251563-1709328.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Fertigungstechnologe Elektronikfertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/fertigungstechnologe-elektronikfertigung-m-w-d_251563-1656769.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Mechanical Designer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/mechanical-designer-m-w-d_251563-1681024.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systems Engineering Professional (m/w/d) MBSE, Prozesse & Transformation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systems-engineering-professional-m-w-d-mbse-prozesse-transformation_251563-1709327.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Functional Lead Engineer DUV Illumination & Dose Control Dry Eindhoven, Netherlands Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/functional-lead-engineer-duv-illumination-dose-control-dry-j00353350"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Test­in­ge­nieur (m/w/d) LabVIEW Neu Job Hybrid Vollzeit 45.000 - 60.000 € Herms­dorf, Deutsch­land Elektrotechnik Professionals Senior Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/526072/testingenieur-labview"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­kon­struk­teur Schiffbau (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 60.000 € Hamburg, Deutsch­land Elektrotechnik Schiffbau und Meerestechnik P",
+   "url": "https://touch.ferchau.com/de/de/job/526054/elektrokonstrukteur-schiffbau"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­mit­ar­beiter Stand­ort­pla­nung (m/w/d) AIRBUS Neu Job Vor Ort Vollzeit 55.000 - 69.000 € Nordenham, Deutsch­land Luft- und Raumfahrttechnik ",
+   "url": "https://touch.ferchau.com/de/de/job/526069/projektmitarbeiter-standortplanung-airbus"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Opera­tiver Einkäufer (m/w/d) Neu Job Vor Ort Vollzeit 43.500 - 52.500 € Wedel, Deutsch­land Elektrotechnik Maschinenbau Professionals Senior Professi",
+   "url": "https://touch.ferchau.com/de/de/job/526066/operativer-einkaeufer"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter Forde­rungs­ma­nage­ment (m/w/d) Neu Job Hybrid Vollzeit 55.000 - 65.000 € Berlin, Deutsch­land Backoffice Professionals Senior Prof",
+   "url": "https://touch.ferchau.com/de/de/job/526057/sachbearbeiter-forderungsmanagement"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Elek­tro­technik (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 65.000 € Nürn­berg, Deutsch­land Elektrotechnik Professionals Senior Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/526063/techniker-elektrotechnik"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter Quali­täts­ma­nage­ment (m/w/d) im Rahmen der Direkt­ver­mitt­lung Neu Job Hybrid Vollzeit 40.000 - 55.000 € Bochum, Deutsch­land Di",
+   "url": "https://touch.ferchau.com/de/de/job/526060/sachbearbeiter-qualitaetsmanagement-im-rahmen-der-direktvermittlung"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Sachbearbeiter (m/w/d) Controlling Kaufmännisches Projektmanagement Wind in Teilzeit (20h/Woche)",
+   "url": "https://jobportal.max-boegl.de/Sachbearbeiter-mwd-Controlling-Kaufmaennisches-Projektmana-de-j2367.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Sachbearbeiter (m/w/d) Controlling Kaufmännisches Projektmanagement Wind",
+   "url": "https://jobportal.max-boegl.de/Sachbearbeiter-mwd-Controlling-Kaufmaennisches-Projektmana-de-j2366.html"
+  },
+  {
+   "at": "2026-10-29T14:25:41+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Partner Executive",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Madrid-Spain/Partner-Executive_71007850?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "Innomotics GmbH (ex-Siemens Large Drives) / Innomotics – Bad Neustadt motor plant",
+   "title": "Werkstudent (w/m/d) Einkauf & Procurement",
+   "url": "https://jobs.innomotics.com/job/N%C3%BCrnberg-Werkstudent-%28wmd%29-Einkauf-&-Procurement/1452590033"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lohn- und Gehaltsbuchhalter (m/w/d) (Technik & Instandhaltung) in 06109 Halle (Saale) Technik & Instandhaltung 06109 Halle (Saale) Homeoffice möglich ",
+   "url": "https://jobs.de.dis-ag.com/lohn-und-gehaltsbuchhalter-m-w-d-133"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroniker für Energie- und Gebäudetechnik (m/w/d) (Produktion & Fertigung) in 70173 Stuttgart Produktion & Fertigung 70173 Stuttgart Neu Sofortiger",
+   "url": "https://jobs.de.dis-ag.com/elektroniker-fuer-energie-und-gebaeudetechnik-m-w-d-5"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Technical Sales Manager (m/w/d) (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/technical-sales-manager-m-w-d-2"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Halle (Saale)",
+   "url": "https://jobs.de.dis-ag.com/suche/in-halle-saale"
+  },
+  {
+   "at": "2026-10-29T14:25:39+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/lohn-und-gehaltsbuchhalter-m-w-d-133/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T14:11:13+00:00",
+ "last_run": "2026-10-29T14:26:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
