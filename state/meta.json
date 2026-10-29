@@ -1,259 +1,7 @@
 {
- "alerts": 229,
+ "alerts": 237,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Erpro­bungs­fahr­zeug-Koor­di­nator (m/w/d) Job Hybrid Vollzeit 48.000 - 70.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Young Professionals Profess",
-   "url": "https://touch.ferchau.com/de/de/job/134906/erprobungsfahrzeug-koordinator"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Fahr­zeug­technik (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Professionals ohne ",
-   "url": "https://touch.ferchau.com/de/de/job/134912/entwicklungsingenieur-fahrzeugtechnik"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Teil­pro­jekt­leiter Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 52.000 - 75.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Weitere Young ",
-   "url": "https://touch.ferchau.com/de/de/job/161174/teilprojektleiter-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­tester (m/w/d) Job Hybrid Vollzeit 50.000 - 58.000 € Biele­feld, Deutsch­land Informationstechnik Young Professionals Professionals ohne Per",
-   "url": "https://touch.ferchau.com/de/de/job/186741/softwaretester"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Werk­stoff­in­ge­nieur Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 50.000 - 70.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Maschinenbau Weitere Young ",
-   "url": "https://touch.ferchau.com/de/de/job/216508/werkstoffingenieur-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Soft­ware­ent­wickler PHP (m/w/d) Job Hybrid Vollzeit 60.000 - 70.000 € Herford, Deutsch­land Informationstechnik Young Professionals Professionals oh",
-   "url": "https://touch.ferchau.com/de/de/job/222039/softwareentwickler-php"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Junior Cloud Engi­neer (m/w/d) Job Hybrid Vollzeit 48.000 - 58.000 € Gütersloh, Deutsch­land Elektrotechnik Informationstechnik Young Professionals Pr",
-   "url": "https://touch.ferchau.com/de/de/job/236238/junior-cloud-engineer"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ko­or­di­nator (m/w/d) tech­ni­sches Projekt­ma­nage­ment Job Vor Ort Vollzeit 38.000 - 50.000 € Bremen, Deutsch­land Anlagenbau Maschinenbau ",
-   "url": "https://touch.ferchau.com/de/de/job/241352/projektkoordinator-technisches-projektmanagement"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Robotik & Auto­ma­ti­sie­rung (m/w/d) Job Vor Ort Vollzeit 43.000 - 67.000 € Bremen, Deutsch­land Informationstechnik Young ",
-   "url": "https://touch.ferchau.com/de/de/job/241590/entwicklungsingenieur-robotik-automatisierung"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Intra­lo­gis­tik­planer Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 50.000 - 70.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Weitere You",
-   "url": "https://touch.ferchau.com/de/de/job/242370/intralogistikplaner-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Data Engi­neer / Analyst Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Young Professionals Profe",
-   "url": "https://touch.ferchau.com/de/de/job/242684/data-engineer-analyst-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Fahrer­as­sis­tenz­sys­teme Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 55.000 - 80.000 € Stutt­gart, Deutsch­land Elektrotechn",
-   "url": "https://touch.ferchau.com/de/de/job/242940/entwicklungsingenieur-fahrerassistenzsysteme-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Hybrid-/Elek­tro­fahr­zeuge (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Young Pro",
-   "url": "https://touch.ferchau.com/de/de/job/243176/entwicklungsingenieur-hybrid-elektrofahrzeuge"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Test­in­ge­nieur Fahr­zeug­steu­er­ge­räte (m/w/d) Job Hybrid Vollzeit 55.000 - 80.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Infor",
-   "url": "https://touch.ferchau.com/de/de/job/243366/testingenieur-fahrzeugsteuergeraete"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Appli­ka­ti­ons­in­ge­nieur Steu­er­ge­räte (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Masc",
-   "url": "https://touch.ferchau.com/de/de/job/243502/applikationsingenieur-steuergeraete"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Test­in­ge­nieur Power­train / E-Power­train (m/w/d) Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Mas",
-   "url": "https://touch.ferchau.com/de/de/job/243508/testingenieur-powertrain-e-powertrain"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­con­troller Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 48.000 - 70.000 € Stutt­gart, Deutsch­land Fahrzeugtechnik Young Professionals Profession",
-   "url": "https://touch.ferchau.com/de/de/job/245338/projektcontroller-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Fach­in­for­ma­tiker Anwen­dungs­ent­wick­lung (m/w/d) Job Hybrid Vollzeit 40.000 - 48.000 € Biele­feld, Deutsch­land Informationstechnik Young Profes",
-   "url": "https://touch.ferchau.com/de/de/job/246407/fachinformatiker-anwendungsentwicklung"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Safety Engi­neer Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 55.000 - 80.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik Young Professional",
-   "url": "https://touch.ferchau.com/de/de/job/263770/safety-engineer-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur (m/w/d) Hoch­volt Auto­mo­tive Job Hybrid Vollzeit 50.000 - 75.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugtechnik",
-   "url": "https://touch.ferchau.com/de/de/job/263806/entwicklungsingenieur-hochvolt-automotive"
-  },
-  {
-   "at": "2026-10-29T03:25:00+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Werk­stu­dent Recrui­ting (m/w/d) Job Vor Ort Teilzeit 11.500 - 12.500 € München, Deutsch­land Personal Students ohne Personalverantwortung Active Sou",
-   "url": "https://touch.ferchau.com/de/de/job/268511/werkstudent-recruiting"
-  },
-  {
-   "at": "2026-10-29T03:25:07+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pharmazeutisch-technischer-assistent-pta-m-w-d-14067"
-  },
-  {
-   "at": "2026-10-29T03:25:07+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/pharmazeutisch-technischer-assistent-pta-m-w-d-14068"
-  },
-  {
-   "at": "2026-10-29T03:25:07+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/studentische-hilfskraft-itc-m-w-d-14062"
-  },
-  {
-   "at": "2026-10-29T03:25:07+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "IIoT Senior Sales Director, Greater China",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shenzhen/IIoT-Senior-Sales-Director--Greater-China_R-10067312?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T03:39:53+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Sr. Executive - EHS",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Pune-IN/Sr-Executive---EHS_R00267913?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T04:10:35+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Upgrade Install and Relocation Engineer Kumamoto, Japan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-j00355850"
-  },
-  {
-   "at": "2026-10-29T04:10:22+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "NPI Integration / Product RF Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/NPI-Integration---Product-RF-Engineer_R026218-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T04:24:44+00:00",
-   "kind": "new",
-   "site": "GE HealthCare – Wendelstein",
-   "title": "Edison Engineering Development Program Intern – Software",
-   "url": "https://careers.gehealthcare.com/global/en/job/R4043933/Edison-Engineering-Development-Program-Intern-Software"
-  },
-  {
-   "at": "2026-10-29T05:09:52+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Engineer, Lead Product",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Pune-IN/Engineer--Lead-Product_R00267970?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T05:10:11+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom Technik – Nürnberg",
-   "title": "Jobdetails",
-   "url": "https://careers.telekom.com/de/jobs/senior-business-service-specialist-m-f-d-in-warsaw-targwek-3594364"
-  },
-  {
-   "at": "2026-10-29T05:40:04+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New San Diego Senior Optical Sensing Engineer San Diego, CA, US Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/san-diego-senior-optical-sensing-engineer-j00351668"
-  },
-  {
-   "at": "2026-10-29T06:10:08+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - DUV Field Service Engineer (ROT) - Hsinchu Hsinchu, Taiwan Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-rot-hsinchu-j00355745"
-  },
-  {
-   "at": "2026-10-29T06:10:08+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS DUV SAP Coordinator (1year contract) Hwasung, Korea Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-sap-coordinator-1year-contract-j00356025"
-  },
-  {
-   "at": "2026-10-29T06:10:08+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS EUV Service Coordinator (1year contract) Hwasung, Korea Customer Support",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-euv-service-coordinator-1year-contract-j00356028"
-  },
-  {
-   "at": "2026-10-29T06:10:08+00:00",
-   "kind": "new",
-   "site": "Dr. Schneider Unternehmensgruppe",
-   "title": "SR.ENGINEER",
-   "url": "https://careers.motherson.com/en/job/srengineer-6460"
-  },
   {
    "at": "2026-10-29T06:10:13+00:00",
    "kind": "new",
@@ -3501,12 +3249,264 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/network-und-security-engineer-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-29T11:25:53+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Working Student / Intern – Low-Code Application Development for Resource & Finance Planning (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/68430318/Working-Student-Intern-%E2%80%93-Low-Code-Application-Development-for-Resource-Finance-Planning-all-genders-?jobDbPVId=289137443&l=de"
+  },
+  {
+   "at": "2026-10-29T11:25:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Werkstudent (w/m/d) Ausbildung",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Ausbildung/305886"
+  },
+  {
+   "at": "2026-10-29T11:25:53+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter/Quereinsteiger (m/w/d) Medizinprodukteaufbereitung",
+   "url": "https://karriere.fresenius.de/job-detail/f93c3c00-9eb2-509c-bd0f-05ad31b11fb5/mitarbeiter-quereinsteiger-m-w-d-medizinprodukteaufbereitung"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Principal Analog/Mixed-Signal Engineer (f/m/div) Valencia G91519123 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971299398"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Analog Mixed-Signal Design (f/m/div) Villach + 1 more HRC1777884",
+   "url": "https://jobs.infineon.com/careers/job/563808971911117"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Analog Mixed Signal Simulation Engineer (f/m/div) Kork HRC1801805 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972024382"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Analog Mixed-Signal Design Verification Engineer Andover, MA HRC1767445_1",
+   "url": "https://jobs.infineon.com/careers/job/563808971881710"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Analog Mixed Signal Design Engineer Nagoya (Japan) HRC1673180",
+   "url": "https://jobs.infineon.com/careers/job/563808971363079"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Analog Mixed Signal Design El Segundo, CA HRC1775404",
+   "url": "https://jobs.infineon.com/careers/job/563808971905261"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Analog Mixed Signal Design Bangalore BTP HRC1705647 Hybrid Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971615690"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer, Analog Mixed Signal Design Irvine + 1 more HRC1694756",
+   "url": "https://jobs.infineon.com/careers/job/563808971421789"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Analog Mixed-Signal Design (f/m/div) Villach HRC1790219",
+   "url": "https://jobs.infineon.com/careers/job/563808971956280"
+  },
+  {
+   "at": "2026-10-29T11:24:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Analog Mixed Signal Design Bangalore BTP HRC1749482 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971836304"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "(Senior) Software Engineer Financial Services (w/m/d) Muenchen Software Engineering Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/513306-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Soft­ware­ent­wickler Java / C# / Python (m/w/d) Job Vor Ort Vollzeit 55.000 - 80.000 € Bremen, Deutsch­land Elektrotechnik Professionals ohne Persona",
+   "url": "https://touch.ferchau.com/de/de/job/507193/softwareentwickler-java-c-python"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "SPS-Program­mierer / Auto­ma­ti­sie­rungs­in­ge­nieur TwinCAT (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Verden, Deutsch­land Elektrotechnik Masch",
+   "url": "https://touch.ferchau.com/de/de/job/506719/sps-programmierer-automatisierungsingenieur-twincat"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­leiter Ener­gie­ver­sor­gung & Netz­ausbau (m/w/d) Job Vor Ort Vollzeit 65.000 - 85.000 € Bremen, Deutsch­land Elektrotechnik Professionals oh",
+   "url": "https://touch.ferchau.com/de/de/job/506398/projektleiter-energieversorgung-netzausbau"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Cyber Secu­rity Engi­neer / Secu­rity Archi­tect (m/w/d) Job Vor Ort Vollzeit 75.000 - 90.000 € Bremen, Deutsch­land Elektrotechnik Informationstechni",
+   "url": "https://touch.ferchau.com/de/de/job/505132/cyber-security-engineer-security-architect"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Doku­men­ten­ma­nager Projekt­ab­wick­lung (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Bremen, Deutsch­land Personal Professionals Senior Professio",
+   "url": "https://touch.ferchau.com/de/de/job/504508/dokumentenmanager-projektabwicklung"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "ERP Appli­ca­tion Manager / ERP Admi­nis­trator (m/w/d) Job Hybrid Vollzeit 55.000 - 75.000 € Bremen, Deutsch­land Elektrotechnik Young Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/502912/erp-application-manager-erp-administrator"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Embedded Soft­ware­ent­wickler C/C++ (m/w/d) Job Hybrid Vollzeit 60.000 - 85.000 € Bremen, Deutsch­land Elektrotechnik Young Professionals Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/502732/embedded-softwareentwickler-c-c"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Sach­be­ar­beiter Export & Auftrags­ab­wick­lung (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Bremen, Deutsch­land Anlagenbau Professionals Senior P",
+   "url": "https://touch.ferchau.com/de/de/job/502582/sachbearbeiter-export-auftragsabwicklung"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Mecha­tro­niker Baugrup­pen­mon­tage & Gerä­te­fer­ti­gung (m/w/d) Job Vor Ort Vollzeit 40.000 - 55.000 € Bremen, Deutsch­land Elektrotechnik Weitere ",
+   "url": "https://touch.ferchau.com/de/de/job/498949/mechatroniker-baugruppenmontage-geraetefertigung"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker Betriebs­technik & Auto­ma­ti­sie­rungs­technik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Bremen, Deutsch­land Personal Profession",
+   "url": "https://touch.ferchau.com/de/de/job/498499/elektroniker-betriebstechnik-automatisierungstechnik"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker Geräte & Systeme / Prüf­tech­niker Elek­tronik (m/w/d) Job Vor Ort Vollzeit 48.000 - 65.000 € Bremer­haven, Deutsch­land Elektrotechnik",
+   "url": "https://touch.ferchau.com/de/de/job/498139/elektroniker-geraete-systeme-prueftechniker-elektronik"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Service­tech­niker / Inbe­trieb­nehmer Elek­tro­technik (m/w/d) Job Vor Ort Vollzeit 50.000 - 65.000 € Gander­kesee, Deutsch­land Elektrotechnik Profe",
+   "url": "https://touch.ferchau.com/de/de/job/498112/servicetechniker-inbetriebnehmer-elektrotechnik"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­ni­scher Zeichner (m/w/d) Job Vor Ort Vollzeit 45.000 - 70.000 € Mann­heim, Deutsch­land Fahrzeugtechnik Maschinenbau Young Professionals Profess",
+   "url": "https://touch.ferchau.com/de/de/job/485125/technischer-zeichner"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker für Betriebs­technik & Instand­hal­tung (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Verden, Deutsch­land Elektrotechnik Professional",
+   "url": "https://touch.ferchau.com/de/de/job/498106/elektroniker-fuer-betriebstechnik-instandhaltung"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker Betriebs­technik & Instand­hal­tung (m/w/d) Job Vor Ort Vollzeit 45.000 - 55.000 € Gander­kesee, Deutsch­land Elektrotechnik Profession",
+   "url": "https://touch.ferchau.com/de/de/job/498094/elektroniker-betriebstechnik-instandhaltung"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Werk­zeug­kon­struk­teur (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 65.000 € Solingen, Deutsch­land Maschinenbau Young Professionals Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/526012/werkzeugkonstrukteur"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kundenservice Mitarbeiter (m/w/d) 93128 Regenstauf 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z21Qvta-kundenservice-mitarbeiter-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Antragsprüfung & Bewilligung (m/w/d) 35394 Gießen, Lahn 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2oHhnB-sachbearbeiter-antragspruefung-und-bewilligung-mwd_35394-giessen-lahn"
+  },
+  {
+   "at": "2026-10-29T11:25:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Versicherung - Teilzeit (m/w/d) 93128 Regenstauf 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/qmFSG-sachbearbeiter-versicherung-teilzeit-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-29T11:25:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 31655 Stadthagen Rechnungswesen & Finanzen 31655 Stadthagen Neu",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-470"
+  },
+  {
+   "at": "2026-10-29T11:25:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Stadthagen",
+   "url": "https://jobs.de.dis-ag.com/suche/in-stadthagen"
+  },
+  {
+   "at": "2026-10-29T11:25:20+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-470/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T11:11:18+00:00",
+ "last_run": "2026-10-29T11:26:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
