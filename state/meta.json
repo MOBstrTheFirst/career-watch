@@ -1,5 +1,5 @@
 {
- "alerts": 16,
+ "alerts": 21,
  "commands_set": true,
  "events": [
   {
@@ -316,12 +316,68 @@
    "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
    "title": "Intern en Desarrollo de Aplicaciones IT",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF81785R-p-e6e9b67e50fdea9f5e98b1a45f245c2f/intern-en-desarrollo-de-aplicaciones-it-"
+  },
+  {
+   "at": "2026-10-29T02:11:07+00:00",
+   "kind": "new",
+   "site": "Sanmina – Gunzenhausen",
+   "title": "Senior Administrator I (Program)",
+   "url": "https://jobs.sanmina.com/jobs/18417472-senior-administrator-i-program"
+  },
+  {
+   "at": "2026-10-29T02:10:14+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Reliability & Customer Quality Engineer III",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Reliability-&-Customer-Quality-Engineer-III-GA-30004/1442999233"
+  },
+  {
+   "at": "2026-10-29T02:10:14+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Meter Technician I",
+   "url": "https://careers.landisgyr.com/job/Colorado-Springs-Meter-Technician-I-CO-80840/1442957133"
+  },
+  {
+   "at": "2026-10-29T02:09:50+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Unsolicited Application for Young Professionals (m/f/d)",
+   "url": "https://jobs.avl.com/job/M%C3%BCnchen-Unsolicited-Application-for-Young-Professionals-%28mfd%29/1432553933"
+  },
+  {
+   "at": "2026-10-29T02:09:50+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Unsolicited Application (m/f/d) Professionals AVL in Germany",
+   "url": "https://jobs.avl.com/job/M%C3%BCnchen-Unsolicited-Application-%28mfd%29-Professionals-AVL-in-Germany/1432557533"
+  },
+  {
+   "at": "2026-10-29T02:09:50+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Initiativbewerbung (m/w/d) Young Professionals AVL in Deutschland",
+   "url": "https://jobs.avl.com/job/M%C3%BCnchen-Initiativbewerbung-%28mwd%29-Young-Professionals-AVL-in-Deutschland/1432553833"
+  },
+  {
+   "at": "2026-10-29T02:09:50+00:00",
+   "kind": "new",
+   "site": "AVL Software and Functions",
+   "title": "Initiativbewerbung (m/w/d) Professionals AVL in Deutschland",
+   "url": "https://jobs.avl.com/job/M%C3%BCnchen-Initiativbewerbung-%28mwd%29-Professionals-AVL-in-Deutschland/1432557433"
+  },
+  {
+   "at": "2026-10-29T02:09:50+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "HR SAP KeyUser & Time Management Specialist (m/w/d)",
+   "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-HR-SAP-KeyUser-&-Time-Management-Specialist-%28mwd%29-SL-66117/1420718233"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T01:56:12+00:00",
+ "last_run": "2026-10-29T02:11:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 12,
+ "runs": 13,
  "tg_offset": 297408924
 }
