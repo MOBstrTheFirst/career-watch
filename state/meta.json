@@ -1,14 +1,7 @@
 {
- "alerts": 463,
+ "alerts": 464,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T11:25:53+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Mitarbeiter/Quereinsteiger (m/w/d) Medizinprodukteaufbereitung",
-   "url": "https://karriere.fresenius.de/job-detail/f93c3c00-9eb2-509c-bd0f-05ad31b11fb5/mitarbeiter-quereinsteiger-m-w-d-medizinprodukteaufbereitung"
-  },
   {
    "at": "2026-10-29T11:24:49+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "iSK Personaldienstleistungen",
    "title": "IT Infrastructure Engineer (m/w/d) – Windows/Linux Server & Network",
    "url": "https://isk-personal.de/jobs/it-infrastructure-engineer-m-w-d-windows-linux-server-network-frankfurt-am-main"
+  },
+  {
+   "at": "2026-10-29T21:54:45+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Systems Engineering Analog IC Validation",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/RTL-IC-Design-Engineer_R027142?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T21:40:46+00:00",
+ "last_run": "2026-10-29T21:56:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
