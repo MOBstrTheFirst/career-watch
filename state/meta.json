@@ -1,5 +1,5 @@
 {
- "alerts": 111,
+ "alerts": 121,
  "commands_set": true,
  "events": [
   {
@@ -2059,12 +2059,131 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-90/bewerben"
+  },
+  {
+   "at": "2026-10-29T08:55:55+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "VZDRŽEVALEC - ELEKTRIČAR",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19064?c=hella"
+  },
+  {
+   "at": "2026-10-29T08:55:19+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (d/m/w) im Bereich Agentic-AI-gestützte Softwareentwicklung",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Ulm-Area/Werkstudent--d-m-w--im-Bereich-Agentic-AI-gesttzte-Softwareentwicklung_JR10452627?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T08:55:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Industriepraktikum - Teamassistenz (w/m/div) Linz HRC1842757",
+   "url": "https://jobs.infineon.com/careers/job/563808972198828"
+  },
+  {
+   "at": "2026-10-29T08:55:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Executive Assistant Procurement Backend Singapur HRC1677039",
+   "url": "https://jobs.infineon.com/careers/job/563808971293053"
+  },
+  {
+   "at": "2026-10-29T08:55:19+00:00",
+   "kind": "new",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Werkstudent* Systemadministration Ausbildungsumgebung Fluglotsen",
+   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=429"
+  },
+  {
+   "at": "2026-10-29T08:55:21+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Recruitment Marketing Manager Veldhoven, Netherlands Human Resources",
+   "url": "https://www.asml.com/en/careers/find-your-job/recruitment-marketing-manager-j00351114"
+  },
+  {
+   "at": "2026-10-29T08:55:21+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Junior Analyst, System Administration",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Junior-Analyst--System-Administration_R00266295?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T08:55:21+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Warehouse Leader",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Tanger-MA/Warehouse-Leader_R00234060?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T08:55:21+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "IT Architect Mobility Management (m/w/d) in Berlin, Bonn, Meckenheim oder München,alternativ bundesweit an einem unserer BWI-Standorte",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/it-architect-mobility-management-m-w-d-71168"
+  },
+  {
+   "at": "2026-10-29T08:55:21+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) 91126 Rednitzhembach 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2E9SO-staplerfahrer-mwd_91126-rednitzhembach"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "BL Automotive Processing & Systems (AP&S) Operations Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kuala-Lumpur/BL-Automotive-Processing---Systems--AP-S--Operations-Engineer_R-10067110-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior AI Specialist & Product Manager (m/w/d) (IT & Software) in 10117 Berlin IT & Software 10117 Berlin Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/senior-ai-specialist-und-product-manager-m-w-d"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinen- und Anlagenführer (m/w/d) (Technik & Instandhaltung) in 87700 Memmingen Technik & Instandhaltung 87700 Memmingen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/maschinen-und-anlagenfuehrer-m-w-d-45"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Security Specialist (m/w/d) Fortinet & Endpoint Security (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-security-specialist-m-w-d-fortinet-und-endpoint-security"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Application Manager (m/w/d) (IT & Software) in 14199 Berlin IT & Software 14199 Berlin Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/application-manager-m-w-d-5"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Infrastructure Specialist (m/w/d) Microsoft & Security (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/senior-infrastructure-specialist-m-w-d-microsoft-und-security"
+  },
+  {
+   "at": "2026-10-29T08:55:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/senior-ai-specialist-und-product-manager-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T08:40:56+00:00",
+ "last_run": "2026-10-29T08:56:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
