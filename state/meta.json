@@ -1,21 +1,7 @@
 {
- "alerts": 435,
+ "alerts": 437,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:40:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Krankenkasse (m/w/d) 47058 Duisburg 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/21TwwI-sachbearbeiter-krankenkasse-mwd_47058-duisburg"
-  },
-  {
-   "at": "2026-10-29T10:39:55+00:00",
-   "kind": "new",
-   "site": "toolcraft",
-   "title": "Details hier",
-   "url": "https://www.toolcraft.de/fileadmin/user_upload/karriere/flyer_karriereabend_20.11.2026.pdf"
-  },
   {
    "at": "2026-10-29T10:39:55+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Capgemini Engineering",
    "title": "Technischer Redakteur - Defence & Aerospace (w/m/d) Muenchen Products & Systems Engineering Unbefristet Berufserfahrene",
    "url": "https://www.capgemini.com/de-de/jobs/588652-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-29T18:10:17+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Senior Electron Optics Engineer San Jose, CA, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/senior-electron-optics-engineer-j00355835"
+  },
+  {
+   "at": "2026-10-29T18:10:17+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Die Setter - Victor - 3rd Shift",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Victor-Iowa-US/Die-Setter---Victor---3rd-Shift_R00267477?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T17:55:54+00:00",
+ "last_run": "2026-10-29T18:10:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
