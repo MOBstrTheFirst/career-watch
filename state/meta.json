@@ -1,21 +1,7 @@
 {
- "alerts": 451,
+ "alerts": 453,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:54:45+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Hochheim am Main",
-   "url": "https://jobs.de.dis-ag.com/suche/in-hochheim-am-main"
-  },
-  {
-   "at": "2026-10-29T10:54:45+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/industriemechaniker-m-w-d-69/bewerben"
-  },
   {
    "at": "2026-10-29T11:10:58+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Trenkwalder Deutschland",
    "title": "Industriemechaniker (m/w/d)",
    "url": "https://de.trenkwalder.com/jobs/a0taV000019I9GrQAK"
+  },
+  {
+   "at": "2026-10-29T19:41:20+00:00",
+   "kind": "possible",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Design Engineer",
+   "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-29T19:41:20+00:00",
+   "kind": "new",
+   "site": "Maschinenfabrik Niehoff",
+   "title": "Bachelorarbeit / Praxissemester / Werkstudententätigkeit (m/w/d) – im Bereich CFD-Metamodellierung & Thermische Systemauslegung",
+   "url": "https://www.niehoff-gmbh.info/de/karriere/niehoff-als-arbeitgeber-stellenangebote/stellenangebote-2/bachelorarbeit-praxissemester-werkstudentent%C3%A4tigkeit-m-w-d-cfd-metamodellierung-thermische-systemauslegung"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T19:26:13+00:00",
+ "last_run": "2026-10-29T19:41:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 84,
+ "runs": 85,
  "tg_offset": 297408924
 }
