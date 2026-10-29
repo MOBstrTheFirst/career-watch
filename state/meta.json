@@ -1,189 +1,7 @@
 {
- "alerts": 397,
+ "alerts": 405,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
-   "title": "Customer Chief Engineer in Architecture and Network Solutions | AUMOVIO Korea",
-   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF81916I-p-7f707fc29188a14cc815902be6d2a8af/customer-chief-engineer-in-architecture-and-network-solutions--aumovio-korea"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
-   "title": "Sales Representative (w/m/d)",
-   "url": "https://jobs.zf.com/job/Koblenz-Sales-Representative-%28wmd%29-RP-56070/1452448933"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "(Senior) Specialist AÜG & Commercial Operations (w/m/d) Bremen Administration Support Unbefristet Berufserfahrene",
-   "url": "https://www.capgemini.com/de-de/jobs/587820-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektriker (m/w/d) 09111 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z14i5iq-elektriker-mwd_09111-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker Gebäudetechnik (m/w/d) 09112 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1gP3xE-elektroniker-gebaeudetechnik-mwd_09112-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektromonteur (m/w/d) 09350 Lichtenstein/Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9BUcR-elektromonteur-mwd_09350-lichtensteinsachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Baustellenkoordinator (m/w/d) 09111 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/13axey-baustellenkoordinator-mwd_09111-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 98544 Zella-Mehlis 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1nTeEX-strassenwaerter-mitarbeiter-winterdienst-mwd_98544-zella-mehlis"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Projektleiter Elektrotechnik (m/w/d) 09350 Lichtenstein/Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1vBYxk-projektleiter-elektrotechnik-mwd_09350-lichtensteinsachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 09111 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZH1mbP-mechatroniker-mwd_09111-chemnitz-sachsen"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 99192 Neudietendorf 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/gfDTe-strassenwaerter-mitarbeiter-winterdienst-mwd_99192-neudietendorf"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Steuerfachangestellter / Bilanzbuchhalter (m/w/d) 09326 Geringswalde 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QrJCB-steuerfachangestellter-bilanzbuchhalter-mwd_09326-geringswalde"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "LKW-Fahrer (m/w/d) Winterdienst 99099 Erfurt 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1WRCyL-lkw-fahrer-mwd-winterdienst_99099-erfurt"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 99099 Erfurt 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1YOiI-strassenwaerter-mitarbeiter-winterdienst-mwd_99099-erfurt"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 98544 Zella-Mehlis 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZA60sB-strassenwaerter-mitarbeiter-winterdienst-mwd_98544-zella-mehlis"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) Instandhaltung 15562 Rüdersdorf bei Berlin 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2jIUP7-elektroniker-mwd-instandhaltung_15562-ruedersdorf-bei-berlin"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachkraft für Lagerlogistik (m/w/d) 15517 Fürstenwalde/Spree 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/kIrJn-fachkraft-fuer-lagerlogistik-mwd_15517-fuerstenwaldespree"
-  },
-  {
-   "at": "2026-10-29T10:10:18+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Junior Automotive System Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Junior-Automotive-System-Engineer_R-10067608?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T10:10:18+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Embedded Systems Engineer Battery Management Systems",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Embedded-Systems-Engineer-Battery-Management-Systems_R-10067606?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T10:10:18+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT-Netzwerkspezialist (m/w/d) (IT & Software) in 77654 Offenburg IT & Software 65.000,00 - 75.000,00 EUR / Jahr 77654 Offenburg Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/it-netzwerkspezialist-m-w-d-7"
-  },
-  {
-   "at": "2026-10-29T10:10:18+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Offenburg",
-   "url": "https://jobs.de.dis-ag.com/suche/in-offenburg"
-  },
-  {
-   "at": "2026-10-29T10:10:18+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/it-netzwerkspezialist-m-w-d-7/bewerben"
-  },
-  {
-   "at": "2026-10-29T10:25:54+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Working Student (f/m/d) in Finance TI",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-in-Finance-TI/306326"
-  },
-  {
-   "at": "2026-10-29T10:25:54+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Senior Service Manager (m/w/d) - EMM / MAM / Mobility",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzgzNw%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-29T10:25:54+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "PDM Experte (m/w/d)",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA1MjAyNi03Njk0MQ%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-29T10:25:54+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Administrative Assistenz (m/w/d) Sindelfingen Projektmanagement Vollzeit",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTA1MjAyNS0yMzEzOA%3D%3D&showApplicationForm=false"
-  },
   {
    "at": "2026-10-29T10:25:54+00:00",
    "kind": "possible",
@@ -3501,12 +3319,194 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/it-systemkaufmann-m-w-d-1/bewerben"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Chef de projet Conception mécanique Naval (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158561519-chef-de-projet-conception-mecanique-naval-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Spécialiste en électronique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158559393-ingenieur-specialiste-en-electronique-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Chef de Projet Méthodes Industrialisation F/H Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158560863-chef-de-projet-methodes-industrialisation-f-h"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "#NextStep - Ingénieur spécialiste en hyperfréquences et électronique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158561149--nextstep-ingenieur-specialiste-en-hyperfrequences-et-electronique-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Référent tuyauterie dans le secteur naval (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158560226-referent-tuyauterie-dans-le-secteur-naval-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "#NextStep - Ingénieur référent en mécanique (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158560220--nextstep-ingenieur-referent-en-mecanique-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:55+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur Spécialiste en Ingénierie Système : Radio Communication Sécurisé (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158561559-ingenieur-specialiste-en-ingenierie-systeme-radio-communication-securise-h-f-"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Nokia – Nürnberg",
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/41449?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/41449?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Nokia – Nürnberg",
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/41450?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/41450?selectedLocationsFacet=300000000471601&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Production Technician",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/production-technician_251563-1709184.html"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Group Automation Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Group-Automation-Engineer_R00258455-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Post-Entry Analyst",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Post-Entry-Analyst_R00268165?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionshelfer (m/w/d) 90768 Fürth, Bayern 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1P2QGr-produktionshelfer-mwd_90768-fuerth-bayern"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter GMP (m/w/d) 51373 Leverkusen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Nqn7m-produktionsmitarbeiter-gmp-mwd_51373-leverkusen"
+  },
+  {
+   "at": "2026-10-29T16:10:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kraftwerker (m/w/d) Anlagenbetrieb 15711 Königs Wusterhausen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WcGL6-kraftwerker-mwd-anlagenbetrieb_15711-koenigs-wusterhausen"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Photo/Metrology Equipment Engineer ECHO Fab",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Equipment-Engineer-ECHO-Fab_R-10063588?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "SEMICONDUCTOR EQUIPMENT ENGINEER",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/ECHO-EQUIPMENT-ENGINEER_R-10064843?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Manufacturing Planning & Control Specialist (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507301/manufacturing-planning-control-specialist-(all-gender)"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Senior Development Engineer Computer Vision (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/507302/senior-development-engineer-computer-vision-(all-gender)"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Konstrukteur Maschinenbau (m/w/d) (Produktion & Fertigung) in 07973 Greiz Produktion & Fertigung 07973 Greiz Neu",
+   "url": "https://jobs.de.dis-ag.com/konstrukteur-maschinenbau-m-w-d-3"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auftragssachbearbeiter (m/w/d) (Büroverwaltung) in 76275 Ettlingen Büroverwaltung 76275 Ettlingen Neu",
+   "url": "https://jobs.de.dis-ag.com/auftragssachbearbeiter-m-w-d-28"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Teamassistenz (m/w/d) Abteilung Röntgenstrahler (Produktion & Fertigung) in 91301 Forchheim Produktion & Fertigung 91301 Forchheim Neu Sofortiger Star",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-abteilung-roentgenstrahler-1"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Auftragsmanagement (m/w/d) (Sales & Vertrieb) in 89077 Ulm Sales & Vertrieb 89077 Ulm Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-auftragsmanagement-m-w-d-3"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Backoffice (m/w/d) | Pfändungen & Insolvenzen (Rechnungswesen & Finanzen) in 80687 München Rechnungswesen & Finanzen 80687 München Neu ",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-backoffice-m-w-d-pfaendungen-und-insolvenzen"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Greiz",
+   "url": "https://jobs.de.dis-ag.com/suche/in-greiz"
+  },
+  {
+   "at": "2026-10-29T16:10:14+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/konstrukteur-maschinenbau-m-w-d-3/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T15:55:55+00:00",
+ "last_run": "2026-10-29T16:11:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
