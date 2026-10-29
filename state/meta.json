@@ -1,77 +1,7 @@
 {
- "alerts": 459,
+ "alerts": 463,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T11:10:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Callcenter Agent (m/w/d) 93128 Regenstauf 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2cNoIE-callcenter-agent-mwd_93128-regenstauf"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/e062f65b-d978-490d-4643-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/9f43d31b-36a3-4252-469b-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/ae009d60-3820-4fd8-469c-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/27ed8354-df60-45ea-469d-08df2eb1eacc"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Network & Security Engineer (m/w/d) (IT & Software) in 10559 Berlin IT & Software 10559 Berlin Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/network-und-security-engineer-m-w-d-1"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker (m/w/d) Fachrichtung Drehtechnik (Technik & Instandhaltung) in 55257 Budenheim Technik & Instandhaltung 55257 Budenheim Neu Sofo",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-fachrichtung-drehtechnik"
-  },
-  {
-   "at": "2026-10-29T11:09:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/network-und-security-engineer-m-w-d-1/bewerben"
-  },
-  {
-   "at": "2026-10-29T11:25:53+00:00",
-   "kind": "new",
-   "site": "Fraunhofer IIS (main institute) (+5 more)",
-   "title": "Working Student / Intern – Low-Code Application Development for Resource & Finance Planning (all genders)",
-   "url": "https://iisfraunhofer.softgarden.io/job/68430318/Working-Student-Intern-%E2%80%93-Low-Code-Application-Development-for-Resource-Finance-Planning-all-genders-?jobDbPVId=289137443&l=de"
-  },
-  {
-   "at": "2026-10-29T11:25:53+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) Ausbildung",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Ausbildung/305886"
-  },
   {
    "at": "2026-10-29T11:25:53+00:00",
    "kind": "new",
@@ -3501,12 +3431,82 @@
    "site": "Qualcomm – Nürnberg office",
    "title": "cellular system test engineering",
    "url": "https://careers.qualcomm.com/careers?location=Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-10-29T21:40:31+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Zur Startseite",
+   "url": "https://akkodis.job-shop.com/"
+  },
+  {
+   "at": "2026-10-29T21:40:31+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "View latest updates",
+   "url": "https://status.my-job-shop.com/"
+  },
+  {
+   "at": "2026-10-29T21:40:02+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Material Handler, Contract San Diego, US Sourcing and Supply Chain Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/material-handler-contract-j00356315"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Systems Applications Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Senior-Systems-Applications-Engineer_R-10067138?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Schweißaufsicht / Schweißfachmann (m/w/d) Schienenfahrzeugbau für SIEMENS",
+   "url": "https://isk-personal.de/jobs/schweissaufsicht-schweissfachmann-m-w-d-schienenfahrzeugbau-fuer-siemens-muenchen"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Mechatroniker (m/w/d) Instandhaltung und Wartung von Produktionsanlagen für SIEMENS",
+   "url": "https://isk-personal.de/jobs/mechatroniker-m-w-d-instandhaltung-und-wartung-von-produktionsanlagen-fuer-siemens-lauf-an-der-pegnitz"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Einrichter (m/w/d) SMD-Fertigung und Produktionsanlagen für SIEMENS",
+   "url": "https://isk-personal.de/jobs/einrichter-m-w-d-smd-fertigung-und-produktionsanlagen-fuer-siemens-erlangen"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Fertigungsmitarbeiter (m/w/d) Montage, Produktion und Lagerlogistik für SIEMENS",
+   "url": "https://isk-personal.de/jobs/fertigungsmitarbeiter-m-w-d-montage-produktion-und-lagerlogistik-fuer-siemens-erlangen"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "Inbetriebnahmeingenieur / -techniker (m/w/d) Hochspannung & HVDC",
+   "url": "https://isk-personal.de/jobs/inbetriebnahmeingenieur-techniker-m-w-d-hochspannung-hvdc-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-29T21:40:05+00:00",
+   "kind": "new",
+   "site": "iSK Personaldienstleistungen",
+   "title": "IT Infrastructure Engineer (m/w/d) – Windows/Linux Server & Network",
+   "url": "https://isk-personal.de/jobs/it-infrastructure-engineer-m-w-d-windows-linux-server-network-frankfurt-am-main"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T21:25:57+00:00",
+ "last_run": "2026-10-29T21:40:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
