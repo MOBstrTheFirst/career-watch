@@ -1,5 +1,5 @@
 {
- "alerts": 38,
+ "alerts": 39,
  "commands_set": true,
  "events": [
   {
@@ -848,12 +848,19 @@
    "site": "Broadcom – Regensburg",
    "title": "NPI Integration / Product RF Engineer",
    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Malaysia-Penang-B-1--2/NPI-Integration---Product-RF-Engineer_R026218-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T04:24:44+00:00",
+   "kind": "new",
+   "site": "GE HealthCare – Wendelstein",
+   "title": "Edison Engineering Development Program Intern – Software",
+   "url": "https://careers.gehealthcare.com/global/en/job/R4043933/Edison-Engineering-Development-Program-Intern-Software"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T04:11:26+00:00",
+ "last_run": "2026-10-29T04:26:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 21,
+ "runs": 22,
  "tg_offset": 297408924
 }
