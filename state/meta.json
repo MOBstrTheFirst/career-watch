@@ -1,21 +1,7 @@
 {
- "alerts": 453,
+ "alerts": 455,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T11:10:58+00:00",
-   "kind": "new",
-   "site": "Brose Fahrzeugteile",
-   "title": "IT-Systembetreuer SAP Automatisierung Teilzeit (m/w/d) Deutschland, Bamberg IT Specialist / Professional",
-   "url": "https://www.brose.com/de-de/karriere/job-it-systembetreuer-sap-workload-automatisierung-9105-2.html"
-  },
-  {
-   "at": "2026-10-29T11:10:58+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "AUTOMATION ENGINEER (Lugoj location)",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19065?c=hella"
-  },
   {
    "at": "2026-10-29T11:09:56+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Maschinenfabrik Niehoff",
    "title": "Bachelorarbeit / Praxissemester / Werkstudententätigkeit (m/w/d) – im Bereich CFD-Metamodellierung & Thermische Systemauslegung",
    "url": "https://www.niehoff-gmbh.info/de/karriere/niehoff-als-arbeitgeber-stellenangebote/stellenangebote-2/bachelorarbeit-praxissemester-werkstudentent%C3%A4tigkeit-m-w-d-cfd-metamodellierung-thermische-systemauslegung"
+  },
+  {
+   "at": "2026-10-29T19:55:51+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Truck Driver",
+   "url": "https://leggett.com/careers/search?posting=36638"
+  },
+  {
+   "at": "2026-10-29T19:55:17+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sr Buyer - Metals",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Sr-Buyer_R00256598?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T19:41:38+00:00",
+ "last_run": "2026-10-29T19:56:10+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
