@@ -1,5 +1,5 @@
 {
- "alerts": 27,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -589,12 +589,33 @@
    "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
    "title": "Kantinenhilfe (m/w/d) auf Basis Minijob",
    "url": "https://jobs.zf.com/job/Saarbr%C3%BCcken-Kantinenhilfe-%28mwd%29-auf-Basis-Minijob-SL-66117/1442663233"
+  },
+  {
+   "at": "2026-10-29T02:39:32+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Engineer, Test Product Engineering",
+   "url": "https://jobs.ams-osram.com/en/job/Engineer-Test-Product-Engineering-Calamba/24562"
+  },
+  {
+   "at": "2026-10-29T02:39:32+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing - Assembly Engineer - Linkou Linkou, Taiwan Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-assembly-engineer-linkou-j00313494"
+  },
+  {
+   "at": "2026-10-29T02:39:32+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Manufacturing - System Install Engineer - Linkou Linkou, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/manufacturing-system-install-engineer-linkou-j00315847"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T02:25:46+00:00",
+ "last_run": "2026-10-29T02:40:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
