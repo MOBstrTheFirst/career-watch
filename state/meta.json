@@ -1,5 +1,5 @@
 {
- "alerts": 46,
+ "alerts": 51,
  "commands_set": true,
  "events": [
   {
@@ -876,12 +876,47 @@
    "site": "ASML – Erlangen",
    "title": "New San Diego Senior Optical Sensing Engineer San Diego, CA, US Design Engineering and Architecture",
    "url": "https://www.asml.com/en/careers/find-your-job/san-diego-senior-optical-sensing-engineer-j00351668"
+  },
+  {
+   "at": "2026-10-29T06:10:08+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - DUV Field Service Engineer (ROT) - Hsinchu Hsinchu, Taiwan Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-field-service-engineer-rot-hsinchu-j00355745"
+  },
+  {
+   "at": "2026-10-29T06:10:08+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS DUV SAP Coordinator (1year contract) Hwasung, Korea Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-sap-coordinator-1year-contract-j00356025"
+  },
+  {
+   "at": "2026-10-29T06:10:08+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS EUV Service Coordinator (1year contract) Hwasung, Korea Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-euv-service-coordinator-1year-contract-j00356028"
+  },
+  {
+   "at": "2026-10-29T06:10:08+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "SR.ENGINEER",
+   "url": "https://careers.motherson.com/en/job/srengineer-6460"
+  },
+  {
+   "at": "2026-10-29T06:10:13+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Staff Software Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Hyderabad-115-IT-Park-Area/Staff-Software-Engineer_R027089-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T05:56:23+00:00",
+ "last_run": "2026-10-29T06:10:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
