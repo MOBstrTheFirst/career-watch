@@ -1,119 +1,7 @@
 {
- "alerts": 350,
+ "alerts": 361,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 84137 Vilsbiburg 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/yzHB2-lagerhelfer-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) 84032 Altdorf, Niederbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZPGUr1-elektroniker-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer (m/w/d) 84028 Landshut, Isar 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z48UOB-metallbauer-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lackierer (m/w/d) 85368 Moosburg an der Isar 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZBe0RE-lackierer-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenmechaniker (m/w/d) 84100 Niederaichbach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1uCy2-anlagenmechaniker-mwd_84100-niederaichbach"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachlagerist (m/w/d) 85354 Bruckberg, Niederbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z17eWWI-fachlagerist-mwd_85354-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 84109 Wörth an der Isar 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2al06j-schweisser-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mechatroniker (m/w/d) 84079 Bruckberg, Niederbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2oNTFU-mechatroniker-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "CNC-Fachkraft (m/w/d) 84137 Vilsbiburg 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1lHRx7-cnc-fachkraft-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-29T09:25:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "KFZ - Mechatroniker (m/w/d) 84109 Wörth an der Isar 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Ek30a-kfz-mechatroniker-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-29T09:25:05+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Thiendorf + 1 Bauleitung (w/m/d) Anlagenbau Berufserfahrene Handwerk, Dienstleistung und Fertigung",
-   "url": "https://actemium.career.softgarden.de/jobs/68424183/Bauleitung-w-m-d-Anlagenbau"
-  },
-  {
-   "at": "2026-10-29T09:25:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Healthcare Application Manager (m/w/d) (IT & Software) in 16515 Oranienburg IT & Software 16515 Oranienburg Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/healthcare-application-manager-m-w-d"
-  },
-  {
-   "at": "2026-10-29T09:25:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Anwendungsbetreuer medizinische Informationssysteme (m/w/d) (IT & Software) in 16515 Oranienburg IT & Software 16515 Oranienburg Homeoffice möglich Ne",
-   "url": "https://jobs.de.dis-ag.com/anwendungsbetreuer-medizinische-informationssysteme-m-w-d"
-  },
-  {
-   "at": "2026-10-29T09:25:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Oranienburg",
-   "url": "https://jobs.de.dis-ag.com/suche/in-oranienburg"
-  },
-  {
-   "at": "2026-10-29T09:25:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/healthcare-application-manager-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-29T09:40:51+00:00",
-   "kind": "possible",
-   "site": "Audi AG",
-   "title": "Praktikum – Audi Beschaffung Infotainment, Display und Bedienung (w/m/d)",
-   "url": "https://careers.audi.com/"
-  },
   {
    "at": "2026-10-29T09:40:51+00:00",
    "kind": "new",
@@ -3501,12 +3389,124 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/payroll-specialist-m-w-d-97/bewerben"
+  },
+  {
+   "at": "2026-10-29T14:55:54+00:00",
+   "kind": "new",
+   "site": "SIPOS Aktorik",
+   "title": "Praxissemester / Thesis im Bereich Software",
+   "url": "https://www.auma.com/de_DE/karriere/karriere-bei-AUMA/stellenangebote/Praxissemester-Thesis-im-Bereich-Software-de-j58.html"
+  },
+  {
+   "at": "2026-10-29T14:55:54+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Verkehrsanlagenplaner (m/w/d) Schwerpunkt Weichen skizzieren Remote Seit 29. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109620/Verkehrsanlagenplaner%20(m%2Fw%2Fd)%20Schwerpunkt%20Weichen%20skizzieren/Remote"
+  },
+  {
+   "at": "2026-10-29T14:55:54+00:00",
+   "kind": "new",
+   "site": "Leggett & Platt – Nürnberg",
+   "title": "Maintenance Manager",
+   "url": "https://leggett.com/careers/search?posting=36634"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Manager Market Intelligence and Strategy (f/m/div) München HRC1846009 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972245491"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Analytics and Artificial Intelligence Kulim HRC1797188",
+   "url": "https://jobs.infineon.com/careers/job/563808971981397"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Reporting and Business Intelligence Senior Specialist (f/m/div) Porto (Maia) HRC1827355 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972153977"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Manager, Category Management_8366 Wuxi HRC1448366 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808968161241"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Strategy M&A Infineon Asia Pacific Singapur HRC1649745_1 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970806175"
+  },
+  {
+   "at": "2026-10-29T14:55:12+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Freight Cost Specialist (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Rehau-Freight-Cost-Specialist-%28mwd%29/1452603533"
+  },
+  {
+   "at": "2026-10-29T14:55:45+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Softwareentwickler Defence (m/w/d) in Kassel Wolfsburg Software Engineering Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/587906-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-29T14:55:45+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Cloud Architect (w/m/d) Stuttgart, Koeln, Hamburg, Frankfurt, Hannover + 4 Architecture Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/367071-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-29T14:55:45+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fachverkäufer im Zweiradhandel (m/w/d) 96050 Bamberg 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2cvKlr-fachverkaeufer-im-zweiradhandel-mwd_96050-bamberg"
+  },
+  {
+   "at": "2026-10-29T14:55:45+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "College Intern",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Sao-Paulo-Brazil/College-Intern_71007757?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T14:55:34+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Project Coordinator",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067006&jobId=119020"
+  },
+  {
+   "at": "2026-10-29T14:55:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bürohilfskraft (m/w/d) (Büroverwaltung) in 76137 Karlsruhe Büroverwaltung 76137 Karlsruhe Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/buerohilfskraft-m-w-d-2"
+  },
+  {
+   "at": "2026-10-29T14:55:34+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/buerohilfskraft-m-w-d-2/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T14:41:05+00:00",
+ "last_run": "2026-10-29T14:56:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
