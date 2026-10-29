@@ -1,14 +1,7 @@
 {
- "alerts": 429,
+ "alerts": 430,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:40:06+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter Krankenkasse (m/w/d) 53117 Bonn 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2qxS0v-sachbearbeiter-krankenkasse-mwd_53117-bonn"
-  },
   {
    "at": "2026-10-29T10:40:06+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "OSB AG",
    "title": "Staff Electrical Engineer (all gender)",
    "url": "https://www.alten-consulting.de/karriere/stelle/507303/staff-electrical-engineer-(all-gender)"
+  },
+  {
+   "at": "2026-10-29T17:25:09+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Technischer Redakteur - Defence & Aerospace (w/m/d) Muenchen Products & Systems Engineering Unbefristet Berufserfahrene",
+   "url": "https://www.capgemini.com/de-de/jobs/588652-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T17:11:29+00:00",
+ "last_run": "2026-10-29T17:26:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
