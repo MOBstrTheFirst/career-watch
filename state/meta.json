@@ -1,98 +1,7 @@
 {
- "alerts": 315,
+ "alerts": 323,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T08:40:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer (m/w/d) Teilzeit 65843 Sulzbach (Taunus) 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1WKJhn-verkaeufer-mwd-teilzeit_65843-sulzbach-taunus"
-  },
-  {
-   "at": "2026-10-29T08:40:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkäufer (m/w/d) Vollzeit & Teilzeit 61169 Friedberg (Hessen) 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZJrC7l-verkaeufer-mwd-vollzeit-und-teilzeit_61169-friedberg-hessen"
-  },
-  {
-   "at": "2026-10-29T08:40:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Verkaufsmitarbeiter (m/w/d) 65843 Sulzbach (Taunus) 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Lg6Nf-verkaufsmitarbeiter-mwd_65843-sulzbach-taunus"
-  },
-  {
-   "at": "2026-10-29T08:40:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Einkaufssachbearbeiter (m/w/d) (Logistik & Transport) in 76287 Rheinstetten Logistik & Transport 76287 Rheinstetten Homeoffice möglich Neu Sofortiger ",
-   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-90"
-  },
-  {
-   "at": "2026-10-29T08:40:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT Security Engineer (m/w/d) Endpoint Security & Microsoft (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/it-security-engineer-m-w-d-endpoint-security-und-microsoft"
-  },
-  {
-   "at": "2026-10-29T08:40:05+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-90/bewerben"
-  },
-  {
-   "at": "2026-10-29T08:55:55+00:00",
-   "kind": "new",
-   "site": "Forvia Hella – Ingolstadt",
-   "title": "VZDRŽEVALEC - ELEKTRIČAR",
-   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19064?c=hella"
-  },
-  {
-   "at": "2026-10-29T08:55:19+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Werkstudent (d/m/w) im Bereich Agentic-AI-gestützte Softwareentwicklung",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Ulm-Area/Werkstudent--d-m-w--im-Bereich-Agentic-AI-gesttzte-Softwareentwicklung_JR10452627?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T08:55:19+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Industriepraktikum - Teamassistenz (w/m/div) Linz HRC1842757",
-   "url": "https://jobs.infineon.com/careers/job/563808972198828"
-  },
-  {
-   "at": "2026-10-29T08:55:19+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Executive Assistant Procurement Backend Singapur HRC1677039",
-   "url": "https://jobs.infineon.com/careers/job/563808971293053"
-  },
-  {
-   "at": "2026-10-29T08:55:19+00:00",
-   "kind": "new",
-   "site": "DFS Deutsche Flugsicherung",
-   "title": "Werkstudent* Systemadministration Ausbildungsumgebung Fluglotsen",
-   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=429"
-  },
-  {
-   "at": "2026-10-29T08:55:21+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Recruitment Marketing Manager Veldhoven, Netherlands Human Resources",
-   "url": "https://www.asml.com/en/careers/find-your-job/recruitment-marketing-manager-j00351114"
-  },
-  {
-   "at": "2026-10-29T08:55:21+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Junior Analyst, System Administration",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bangalore-IN/Junior-Analyst--System-Administration_R00266295?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
   {
    "at": "2026-10-29T08:55:21+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/lohnbuchhalter-m-w-d-in-teilzeit-1/bewerben"
+  },
+  {
+   "at": "2026-10-29T13:55:00+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Systemingenieur (d/m/w) für Laser Communication Terminals - Schwerpunkt Nachrichtentechnik",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Systemingenieur--d-m-w--fr-Laser-Communication-Terminals---Schwerpunkt-Nachrichtentechnik_JR10439262?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T13:55:00+00:00",
+   "kind": "new",
+   "site": "Thomann",
+   "title": "Brand Website Content Coordinator (m/w/d)",
+   "url": "https://jobs.thomann.de/karriere/Brand-Website-Content-Coordinator-mwd-de-j524.html"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "Bayernwerk / Bayernwerk Netz",
+   "title": "Leitung Personal (m/w/d) Bayernwerk Netz GmbH Regensburg, Bayern",
+   "url": "https://jobs.bayernwerk.de/de/job/Leitung-Personal-m_w_d-Regensburg/660"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Divisional Quality Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holly-Michigan-US/Divisional-Quality-Manager_R00251099?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Service Technician (m/w/d) in Schwerin",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-service-technician-m-w-d-71139"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker Produktion (m/w/d) 93059 Regensburg 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z14LmqW-industriemechaniker-produktion-mwd_93059-regensburg"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mitarbeiter Produktion (m/w/d) 93057 Regensburg 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2preFY-mitarbeiter-produktion-mwd_93057-regensburg"
+  },
+  {
+   "at": "2026-10-29T13:55:02+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer Kommissionierung (m/w/d) 93128 Regenstauf 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1BQrtH-staplerfahrer-kommissionierung-mwd_93128-regenstauf"
+  },
+  {
+   "at": "2026-10-29T13:55:12+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Ausbildung: Fachinformatik für Anwendungsentwicklung (m/w/d) am Standort Oberessendorf zum 01.09.2027",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Oberessendorf/Ausbildung--Fachinformatik-fr-Anwendungsentwicklung--m-w-d--am-Standort-Oberessendorf-zum-01092025_JR105383?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T13:55:12+00:00",
+   "kind": "new",
+   "site": "CGM (CompuGroup Medical) – Erlangen",
+   "title": "Ausbildung: Fachinformatik für Anwendungsentwicklung (m/w/d) am Standort Bochum zum 01.08.2027",
+   "url": "https://cgm.wd3.myworkdayjobs.com/de-DE/cgm/job/Bochum/Ausbildung--Fachinformatik-fr-Anwendungsentwicklung--m-w-d--am-Standort-Bochum-zum-01082025_JR105381?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T13:55:12+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Finanzbuchhalter (m/w/d) (Produktion & Fertigung) in 09648 Mittweida Produktion & Fertigung 09648 Mittweida Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/senior-finanzbuchhalter-m-w-d-29"
+  },
+  {
+   "at": "2026-10-29T13:55:12+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektrischer Entwickler (m/w/d) (Technik & Instandhaltung) in 28309 Bremen Technik & Instandhaltung 28309 Bremen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/elektrischer-entwickler-m-w-d"
+  },
+  {
+   "at": "2026-10-29T13:55:12+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/senior-finanzbuchhalter-m-w-d-29/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T13:41:21+00:00",
+ "last_run": "2026-10-29T13:56:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
