@@ -1,14 +1,7 @@
 {
- "alerts": 455,
+ "alerts": 456,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T11:09:56+00:00",
-   "kind": "new",
-   "site": "Kaeser Kompressoren",
-   "title": "Prüfvorbereiter (m/w/d)",
-   "url": "https://careers.kaeser.com/job/PZ-Schrauben-%2800011100%29-Pr%C3%BCfvorbereiter-%28mwd%29-PZ-S-PZ-Schraub/1435178733"
-  },
   {
    "at": "2026-10-29T11:10:06+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Sr Buyer - Metals",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Novi-Michigan-US/Sr-Buyer_R00256598?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T20:10:13+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Specialista vzdělávání a rozvoje",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Liberec-CZ/Specialista-vzdlvn-a-rozvoje_R00268145?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T19:56:10+00:00",
+ "last_run": "2026-10-29T20:11:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 86,
+ "runs": 87,
  "tg_offset": 297408924
 }
