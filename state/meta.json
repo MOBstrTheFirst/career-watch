@@ -1,98 +1,7 @@
 {
- "alerts": 446,
+ "alerts": 449,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) Lebensmittel- und Frischelogistik 91325 Adelsdorf, Mittelfranken 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2aJfWu-lagermitarbeiter-mwd-lebensmittel-und-frischelogistik_91325-adelsdorf-mittelfranken"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Facharbeiter (m/w/d) im Lebensmittelbereich 91487 Vestenbergsgreuth 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2mmMOn-facharbeiter-mwd-im-lebensmittelbereich_91487-vestenbergsgreuth"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenführer (m/w/d) 91456 Diespeck 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/14MQ5e-maschinenfuehrer-mwd_91456-diespeck"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) in Emskirchen 91448 Emskirchen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/EbMY4-produktionsmitarbeiter-mwd-in-emskirchen_91448-emskirchen"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionshelfer (m/w/d) 91487 Vestenbergsgreuth 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QlPHQ-produktionshelfer-mwd_91487-vestenbergsgreuth"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Helfer für die Montage (m/w/d) 91459 Markt Erlbach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1jgKFc-helfer-fuer-die-montage-mwd_91459-markt-erlbach"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker (m/w/d) in Tagschicht 91438 Bad Windsheim 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/yLSYK-industriemechaniker-mwd-in-tagschicht_91438-bad-windsheim"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) in Vestenbergsgreuth 91487 Vestenbergsgreuth 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZCn8Jn-staplerfahrer-mwd-in-vestenbergsgreuth_91487-vestenbergsgreuth"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektrofachkraft (m/w/d) 91459 Markt Erlbach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/9aPRB-elektrofachkraft-mwd_91459-markt-erlbach"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 91477 Markt Bibart 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z22JKR3-maschinenbediener-mwd_91477-markt-bibart"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) in Herzogenaurach 91074 Herzogenaurach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/xPLNy-lagermitarbeiter-mwd-in-herzogenaurach_91074-herzogenaurach"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektrohelfer (m/w/d) – Baustoffherstellung 97348 Markt Einersheim 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1PpIwW-elektrohelfer-mwd-baustoffherstellung_97348-markt-einersheim"
-  },
-  {
-   "at": "2026-10-29T10:55:13+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Radladerfahrer (m/w/d) 91477 Markt Bibart 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/15UQPS-radladerfahrer-mwd_91477-markt-bibart"
-  },
   {
    "at": "2026-10-29T10:54:45+00:00",
    "kind": "new",
@@ -3501,12 +3410,103 @@
    "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
    "title": "Secure Production Operator Manufacturing Experienced and Graduates Veridos America Inc. Bolingbrook, IL, US",
    "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27946-en-US"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Mehr erfahren",
+   "url": "https://www.grammer.com/karriere/stellenmarkt"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Überblick",
+   "url": "https://www.grammer.com/karriere/arbeiten-bei-grammer"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Career@GRAMMER",
+   "url": "https://www.grammer.com/karriere/arbeiten-bei-grammer/careergrammer"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Learning@GRAMMER",
+   "url": "https://www.grammer.com/karriere/arbeiten-bei-grammer/learninggrammer"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Benefits@GRAMMER",
+   "url": "https://www.grammer.com/karriere/arbeiten-bei-grammer/benefitsgrammer"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Überblick",
+   "url": "https://www.grammer.com/karriere/einstieg-bei-grammer"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Mehr erfahren",
+   "url": "https://www.grammer.com/karriere/einstieg-bei-grammer/schueler"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Mehr erfahren",
+   "url": "https://www.grammer.com/karriere/einstieg-bei-grammer/studenten"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Young Professionals",
+   "url": "https://www.grammer.com/karriere/einstieg-bei-grammer/young-professionals"
+  },
+  {
+   "at": "2026-10-29T18:56:07+00:00",
+   "kind": "new",
+   "site": "Grammer AG",
+   "title": "Professionals",
+   "url": "https://www.grammer.com/karriere/einstieg-bei-grammer/professionals"
+  },
+  {
+   "at": "2026-10-29T18:55:08+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Millwright (Licensed)",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Concord-Ontario-CA/Millwright--Licensed-_R00268128?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T18:54:46+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Machinist (MST) - Night 2",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Manufacturing/Machinist--MST----Night-2_R-10066652?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T18:54:46+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior Photo Equipment Technician",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Manufacturing/Senior-Photo-Equipment-Technician_R-10067162?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T18:40:52+00:00",
+ "last_run": "2026-10-29T18:56:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
