@@ -1,133 +1,7 @@
 {
- "alerts": 389,
+ "alerts": 397,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T09:55:48+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F526760"
-  },
-  {
-   "at": "2026-10-29T09:55:48+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Expert en Ingénierie Système : Guerre Electronique F/H Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158474317-expert-en-ingenierie-systeme-guerre-electronique-f-h"
-  },
-  {
-   "at": "2026-10-29T09:55:48+00:00",
-   "kind": "possible",
-   "site": "F.S. Fehrer Automotive – Kitzingen",
-   "title": "Studentisches Praktikum/ Abschlussarbeit 2026/27 - Optimierung der Standortzuordnung & Transportwege",
-   "url": "https://www.fehrer.com/karriere/stellenangebote"
-  },
-  {
-   "at": "2026-10-29T09:55:48+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Metallbauer (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013vqhBQAQ"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Instandhalter (m/w/d) Produktionsanlagen 15370 Fredersdorf-Vogelsdorf 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1dAgje-instandhalter-mwd-produktionsanlagen_15370-fredersdorf-vogelsdorf"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 34519 Diemelsee 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/AuBHm-staplerfahrer-mwd_34519-diemelsee"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Gabelstaplerfahrer (m/w/d) 34477 Twistetal 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZuNfX-gabelstaplerfahrer-mwd_34477-twistetal"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 34497 Korbach 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/gjUM0-staplerfahrer-mwd_34497-korbach"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "General Manager, Japan",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Tokyo-Japan/General-Manager--Japan_71007800?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T09:55:01+00:00",
-   "kind": "new",
-   "site": "SUSE",
-   "title": "France - Country Sales Leader",
-   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Paris-France/France---Country-Sales-Leader_71007838?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-29T09:55:02+00:00",
-   "kind": "new",
-   "site": "Mitsubishi – Erlangen",
-   "title": "Mitarbeiter Customer Support Center - Compressor (m/w/d)",
-   "url": "https://mitsubishielectric-jobs.de/jobs/Mitarbeiter-Customer-Support-Center-Compressor-mwd-de-j3388.html"
-  },
-  {
-   "at": "2026-10-29T09:55:02+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "Channel Application Engineer",
-   "url": "https://careers.abb/global/en/job/JR00045720/Channel-Application-Engineer"
-  },
-  {
-   "at": "2026-10-29T10:10:58+00:00",
-   "kind": "new",
-   "site": "BSH Hausgeräte – Regensburg",
-   "title": "Praktikant Produktionssystem und Gesamtwertstrom (m/w/d)",
-   "url": "https://jobs.bsh-group.de/46021-praktikant-produktionssystem-und-gesamtwertstrom-m-w-d/de/job.html"
-  },
-  {
-   "at": "2026-10-29T10:10:58+00:00",
-   "kind": "possible",
-   "site": "F.S. Fehrer Automotive – Kitzingen",
-   "title": "Studentisches Praktikum/ Abschlussarbeit 2026/27 - Automatisierung der Kostenstellen- & Fertigungszuordnung",
-   "url": "https://www.fehrer.com/karriere/stellenangebote"
-  },
-  {
-   "at": "2026-10-29T10:10:58+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Pflegefachmann / Pflegehelfer Forensische Psychiatrie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/728b3246-d035-5a0c-b102-e2df2009ba7c/pflegefachmann-pflegehelfer-forensische-psychiatrie-m-w-d"
-  },
-  {
-   "at": "2026-10-29T10:10:58+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Entsorgungsmitarbeiter (m/w/d)",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000019FsyTQAS"
-  },
-  {
-   "at": "2026-10-29T10:09:52+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "29.10.2026 Qualitätsprüfer (m/w/d) Polch",
-   "url": "https://www.tempton.de/jobs/qualitaetspruefer-24"
-  },
-  {
-   "at": "2026-10-29T10:10:17+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Technologe (m/w/d) Produktion Hochfrequenz",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technologe-m-w-d-produktion-hochfrequenz_251563-1709325.html"
-  },
   {
    "at": "2026-10-29T10:10:17+00:00",
    "kind": "new",
@@ -3501,12 +3375,138 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-127/bewerben"
+  },
+  {
+   "at": "2026-10-29T15:55:41+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Chef de projets (H/F) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158557699-chef-de-projets-h-f-"
+  },
+  {
+   "at": "2026-10-29T15:55:41+00:00",
+   "kind": "new",
+   "site": "ALTEN",
+   "title": "Ingénieur en électronique de puissance (F/H) Full-time",
+   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158557079-ingenieur-en-electronique-de-puissance-f-h-"
+  },
+  {
+   "at": "2026-10-29T15:55:41+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauüberwacher (m/w/d) Anlagenbau Bergrheinfeld, München Seit 29. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-109635/Bau%C3%BCberwacher%20(m%2Fw%2Fd)%20Anlagenbau/Bergrheinfeld%2C%20M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Assistant to the Business Line Head Automotive High Voltage (f/m/div) München HRC1837435 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972195254"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Specialist Product Management High Voltage SiC Discretes (f/m/div) Villach HRC1854087 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972251847"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Staff Assistant Product Line Acoustics (f/m/div) Mch CAMP HRC1849136 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972255103"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Field Application Engineer for Automotive High Power Seoul HRC1802398 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972009602"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Chief of Staff Associate - Product Line Guadalajara + 2 more HRC1638563 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970685906"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Automotive Intern（Administration） Shanghai HRC1838608",
+   "url": "https://jobs.infineon.com/careers/job/563808972183254"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "DB InfraGO (+2 more)",
+   "title": "Elektriker:in / Elektroniker:in als Facharbeiter:in Montage Schienenfahrzeuge neu Nürnberg, Deutschland DB Zeitarbeit GmbH Startdatum: 9. November 202",
+   "url": "https://db.jobs/de-de/Suche/Elektriker-in-Elektroniker-in-als-Facharbeiter-in-Montage-Schi-13978086?jobId=632300"
+  },
+  {
+   "at": "2026-10-29T15:55:07+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Fachkraft für Arbeitssicherheit (m/w/d) Nürnberg, Neumarkt in der Oberpfalz",
+   "url": "https://www.tempton.de/jobs/fachkraft-arbeitssicherheit-14"
+  },
+  {
+   "at": "2026-10-29T15:55:38+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Tax Associate, Federal & State",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Tax-Associate--Federal---State_R00265570?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Systemkaufmann (m/w/d) (IT & Software) in 88400 Biberach IT & Software 88400 Biberach Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/it-systemkaufmann-m-w-d-1"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Auftragssachbearbeiter (m/w/d) (Büroverwaltung) in 77815 Bühl Büroverwaltung 77815 Bühl Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/auftragssachbearbeiter-m-w-d-27"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 42697 Solingen Rechnungswesen & Finanzen 42697 Solingen Homeoffice möglich Neu Sofortige",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-128"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Speditionskaufmann (m/w/d) (Logistik & Transport) in 75015 Bretten Logistik & Transport 75015 Bretten Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/speditionskaufmann-m-w-d-77"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Biberach",
+   "url": "https://jobs.de.dis-ag.com/suche/in-biberach"
+  },
+  {
+   "at": "2026-10-29T15:55:13+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-systemkaufmann-m-w-d-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T15:46:33+00:00",
+ "last_run": "2026-10-29T15:55:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
