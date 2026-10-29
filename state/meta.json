@@ -1,5 +1,5 @@
 {
- "alerts": 121,
+ "alerts": 137,
  "commands_set": true,
  "events": [
   {
@@ -2178,12 +2178,362 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/senior-ai-specialist-und-product-manager-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Bachelor-Studierende (all genders) im Verbundstudium 2027/2028",
+   "url": "https://iisfraunhofer.softgarden.io/job/35880961/Bachelor-Studierende-all-genders-im-Verbundstudium-2027-2028?jobDbPVId=289113483&l=de"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS (main institute) (+5 more)",
+   "title": "Wiss. Mitarbeiter*in – Entwicklungsingenieur*in mit Schwerpunkt Lokalisierungsantennen und Hardwareentwicklung (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/68422833/Wiss.-Mitarbeiter-in-%E2%80%93-Entwicklungsingenieur-in-mit-Schwerpunkt-Lokalisierungsantennen-und-Hardwareentwicklung-all-genders-?jobDbPVId=289113233&l=de"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Bedieneinrichter (w/m/d) zur Betreuung von hochautomatisierten Anlagen",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517278"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F517278"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "BSH Hausgeräte – Regensburg",
+   "title": "Trade Marketing Spezialist - CE Kitchen Retail Marketing (m/w/d)",
+   "url": "https://jobs.bsh-group.de/46017-trade-marketing-spezialist-ce-kitchen-retail-marketing-m-w-d/de/job.html"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Sozialdienst Wohnpark Werraaue (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/ab44c2f0-0a30-5f92-bddd-d0262065c4e6/sozialdienst-wohnpark-werraaue-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Mitarbeiter Rezeption (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/119e0055-41e8-5149-ad03-ed5531946e8d/mitarbeiter-rezeption-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "CNC-Maschinenbediener (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019Eyl1QAC"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Glasfaser-Techniker NE4 (m/w/d) – Inhouse Verkabelung FTTH",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000fgBdlQAE"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Glasfaser-Profi NE4 für FTTH-Inhouse-Verkabelung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000014h03ZQAQ"
+  },
+  {
+   "at": "2026-10-29T09:10:46+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Glasfaser-Profi NE4 für FTTH-Inhouse-Verkabelung (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ffic1QAA"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "IT-Server-Administrator/in für Linux-Infrastrukturen (d/w/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/IT-Server-Administrator-in-fr-Linux-Infrastrukturen--d-w-m-_JR10449193?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Software Developer – Modeling & Simulation (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Software-Developer---Modeling---Simulation--d-m-w-_JR10439797-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Praktikum: Supply Chain Management (w/m/div) Warstein HRC1864964 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972284010"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Specialist Supply Chain Management (Contract) Bangalore BTP (Indien) 133295",
+   "url": "https://jobs.infineon.com/careers/job/563808971619401"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Customer Supply Chain Management Singapur HRC1704065 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971509898"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Contract – Specialist/ Senior Specialist – Supply Chain Change Management (24 months) Singapur 129202",
+   "url": "https://jobs.infineon.com/careers/job/563808970281944"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Specialist Supply Chain Planner Bangalore BTP HRC1830030",
+   "url": "https://jobs.infineon.com/careers/job/563808972195649"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Specialist - Supply Chain Planning Singapur HRC1839530",
+   "url": "https://jobs.infineon.com/careers/job/563808972196127"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Specialist Supply Chain Malakka HRC1819620",
+   "url": "https://jobs.infineon.com/careers/job/563808972099439"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior / Staff Specialist Supply Chain Planning Singapur HRC1845546",
+   "url": "https://jobs.infineon.com/careers/job/563808972245079"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Specialist Supply Chain & Capacity Planning Ahmedabad HRC1763221 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971922481"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Werkstudent* Automatisierte Berichterstattung mit KI-Unterstützung",
+   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=430"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Praktikum* Softwareentwicklung iTafel & Web-Anwendungen",
+   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=431"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "DFS Deutsche Flugsicherung",
+   "title": "Praktikum* Backup- und Update-Management für virtuelle Systeme",
+   "url": "https://jobs.dfs.de/index.php?ac=jobad&id=432"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "dSPACE – Ingolstadt",
+   "title": "Ingénieur test calculateur (h/f)",
+   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38199&t=Ing%C3%A9nieur+test+calculateur+%28h%2Ff%29"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Helfer - Metall (m/w/d) Pelm",
+   "url": "https://www.tempton.de/jobs/helfer-metall-55"
+  },
+  {
+   "at": "2026-10-29T09:09:45+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Schlosser (m/w/d)",
+   "url": "https://www.tempton.de/jobs/schlosser-272"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Project Manager",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Kenitra-MA/Project-Manager_R00267953?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Maschinen- und Anlagenführer (m/w/d) Produktion / Mischanlage (Emden)",
+   "url": "https://jobportal.max-boegl.de/Maschinen-und-Anlagenfuehrer-mwd-Produktion-Mischanlage-Em-de-j2375.html"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Stadtwerke Schweinfurt",
+   "title": "Sales Manager Telekommunikationsprodukte als freier Handelsvertreter (m/w/d)",
+   "url": "https://jobs.stadtwerke-sw.de/Sales-Manager-Telekommunikationsprodukte-als-freier-Handel-de-j134.html"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 35423 Lich, Hessen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1Kbb25-lagermitarbeiter-mwd_35423-lich-hessen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 35463 Fernwald 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZqQFKA-gabelstaplerfahrer-mwd_35463-fernwald"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 35463 Fernwald 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKtcAx-lagermitarbeiter-mwd_35463-fernwald"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 35415 Pohlheim 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2ak6t3-gabelstaplerfahrer-mwd_35415-pohlheim"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagerhelfer (m/w/d) 35415 Pohlheim 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1k2rIK-lagerhelfer-mwd_35415-pohlheim"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechaniker (m/w/d) 09496 Marienberg, Erzgebirge 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2trXPB-mechaniker-mwd_09496-marienberg-erzgebirge"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 09366 Stollberg/Erzgebirge 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1WWQLh-lagermitarbeiter-mwd_09366-stollbergerzgebirge"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer Vollzeit (m/w/d) 09514 Lengefeld, Erzgebirge 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2m0aUB-helfer-vollzeit-mwd_09514-lengefeld-erzgebirge"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer (m/w/d) 09120 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2b6RPf-helfer-mwd_09120-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinen- und Anlagenführer (m/w/d) 09669 Frankenberg/Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z27wglX-maschinen-und-anlagenfuehrer-mwd_09669-frankenbergsachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bürokauffrau Direktvermittlung (m/w/d) 09116 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1F5UJL-buerokauffrau-direktvermittlung-mwd_09116-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Helfer Vollzeit (m/w/d) 09224 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1mtKhC-helfer-vollzeit-mwd_09224-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektrofachkraft (m/w/d) 09126 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/180PGv-elektrofachkraft-mwd_09126-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 09481 Elterlein 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Ztq0mf-lagermitarbeiter-mwd_09481-elterlein"
+  },
+  {
+   "at": "2026-10-29T09:10:23+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 09125 Chemnitz, Sachsen 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/BYSBl-zerspanungsmechaniker-mwd_09125-chemnitz-sachsen"
+  },
+  {
+   "at": "2026-10-29T09:10:05+00:00",
+   "kind": "new",
+   "site": "WeSort.AI – Würzburg",
+   "title": "Machine Learning Engineer (m/w/d) - Foundation Models Würzburg Vollzeit Festanstellung",
+   "url": "https://wesort-ai.jobs.personio.com/job/2681466"
+  },
+  {
+   "at": "2026-10-29T09:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior Microsoft Cloud & Security Administrator (m/w/d) (IT & Software) in 12099 Berlin IT & Software 12099 Berlin Homeoffice möglich Neu Sofortiger S",
+   "url": "https://jobs.de.dis-ag.com/senior-microsoft-cloud-und-security-administrator-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior IT Security & Infrastructure Consultant (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/senior-it-security-und-infrastructure-consultant-m-w-d"
+  },
+  {
+   "at": "2026-10-29T09:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/senior-microsoft-cloud-und-security-administrator-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T08:56:11+00:00",
+ "last_run": "2026-10-29T09:11:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
