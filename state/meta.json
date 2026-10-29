@@ -1,42 +1,7 @@
 {
- "alerts": 249,
+ "alerts": 254,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T07:09:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Monteur (m/w/d) für den Kundendienst 93149 Nittenau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/18TlVc-monteur-mwd-fuer-den-kundendienst_93149-nittenau"
-  },
-  {
-   "at": "2026-10-29T07:09:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Servicetechniker Automatisierung (m/w/d) 92421 Schwandorf, Bayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1wbyfN-servicetechniker-automatisierung-mwd_92421-schwandorf-bayern"
-  },
-  {
-   "at": "2026-10-29T07:09:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Pulverbeschichter HORSCH (m/w/d) 92421 Schwandorf, Bayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/opug8-pulverbeschichter-horsch-mwd_92421-schwandorf-bayern"
-  },
-  {
-   "at": "2026-10-29T07:09:57+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/1b630b2e-2766-442d-d9cf-08df17a5b9ac"
-  },
-  {
-   "at": "2026-10-29T07:09:57+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/d82c44bd-4ab5-4fc2-dc59-08df17a5b9ac"
-  },
   {
    "at": "2026-10-29T07:09:57+00:00",
    "kind": "new",
@@ -3501,12 +3466,47 @@
    "site": "SUSE",
    "title": "Partner Executive",
    "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Spain-EMEA/Partner-Executive_71007850?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T12:10:59+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Arzt in Weiterbildung Klinik für Psychosomatische Medizin und Psychotherapie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/f86376a1-9507-5c53-8bcb-39973785e7f0/arzt-in-weiterbildung-klinik-fuer-psychosomatische-medizin-und-psychotherapie-m-w-d"
+  },
+  {
+   "at": "2026-10-29T12:09:54+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Supply Chain Manager (m/w/d) Rosenheim",
+   "url": "https://www.tempton.de/jobs/supply-chain-manager-5"
+  },
+  {
+   "at": "2026-10-29T12:10:11+00:00",
+   "kind": "possible",
+   "site": "ipr – Neustadt bei Coburg",
+   "title": "Ausbildung 2027 - Industriemechaniker (m/w/d)",
+   "url": "https://jobs.iprworldwide.com/de"
+  },
+  {
+   "at": "2026-10-29T12:10:11+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "(Junior-) Personalreferent / HR Business Partner (m/w/d) - befristet im Rahmen einer Elternzeitvertretung",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Schwaebisch-Gmuend-DE/XMLNAME--Junior---Personalreferent---HR-Business-Partner--m-w-d----befristet-im-Rahmen-einer-Elternzeitvertretung_R00267971?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T12:10:11+00:00",
+   "kind": "new",
+   "site": "softgate",
+   "title": "Initiativbewerbung (m/w/d) Erlangen, Deutschland (hybrid) Angestellte/r Weitere Berufe",
+   "url": "https://join.com/companies/softgate/16888537-initiativbewerbung-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T11:56:24+00:00",
+ "last_run": "2026-10-29T12:11:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
