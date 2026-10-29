@@ -1,5 +1,5 @@
 {
- "alerts": 85,
+ "alerts": 92,
  "commands_set": true,
  "events": [
   {
@@ -1674,12 +1674,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-35/bewerben"
+  },
+  {
+   "at": "2026-10-29T08:10:39+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Fertigungssteuerung Werkzeugbau (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-29T08:10:39+00:00",
+   "kind": "new",
+   "site": "Omexom Umspannwerke (VINCI) – Nürnberg",
+   "title": "Senior Projekteinkäufer (w/m/d) Bau & Infrastruktur Berufserfahrene Walsrode + 3 Neu",
+   "url": "https://karriere.omexom.de/jobs/68420138/Senior-Projekteink%C3%A4ufer-w-m-d-Bau-Infrastruktur-"
+  },
+  {
+   "at": "2026-10-29T08:10:11+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant (m/w/d) für den Bereich AI / Softwareentwicklung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-m-w-d-fuer-den-bereich-ai-softwareentwicklung_251563-1709248.html"
+  },
+  {
+   "at": "2026-10-29T08:10:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fleischzerleger (m/w/d) 85051 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2p1DoN-fleischzerleger-mwd_85051-ingolstadt-donau"
+  },
+  {
+   "at": "2026-10-29T08:10:11+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metzger (m/w/d) - Fachkraft für Fleischerei in Vollzeit (m/w/d) 85051 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1D5lgn-metzger-mwd-fachkraft-fuer-fleischerei-in-vollzeit-mwd_85051-ingolstadt-donau"
+  },
+  {
+   "at": "2026-10-29T08:09:54+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "R & D Software Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/IND-Hyderabad-115-IT-Park-Area/R---D-Software-Engineer_R027146?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-29T08:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR - Generalist (m/w/d) (HR & Personalwesen) in 76437 Rastatt HR & Personalwesen 76437 Rastatt Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-83"
+  },
+  {
+   "at": "2026-10-29T08:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Netzwerk- & Security Administrator (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-netzwerk-und-security-administrator-m-w-d"
+  },
+  {
+   "at": "2026-10-29T08:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Produktionsmitarbeiter Chemieproduktion (m/w/d) (Technik & Instandhaltung) in 64319 Pfungstadt Technik & Instandhaltung 64319 Pfungstadt Neu Sofortige",
+   "url": "https://jobs.de.dis-ag.com/produktionsmitarbeiter-chemieproduktion-m-w-d"
+  },
+  {
+   "at": "2026-10-29T08:09:54+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-83/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T07:56:01+00:00",
+ "last_run": "2026-10-29T08:10:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
