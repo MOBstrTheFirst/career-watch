@@ -1,63 +1,7 @@
 {
- "alerts": 267,
+ "alerts": 273,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Ladenleitung / Einzelhandel (m/w/d) 85354 Freising, Oberbayern 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2mfQvT-ladenleitung-einzelhandel-mwd_85354-freising-oberbayern"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Teamleitung Verkauf (m/w/d) 85051 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/JSKQx-teamleitung-verkauf-mwd_85051-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Teamleitung Verkauf (m/w/d) 85737 Ismaning 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ceVPK-teamleitung-verkauf-mwd_85737-ismaning"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Filialleitung (m/w/d) 85049 Ingolstadt, Donau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/UxiyD-filialleitung-mwd_85049-ingolstadt-donau"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Filialleitung (m/w/d) 85221 Dachau 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1nTwVf-filialleitung-mwd_85221-dachau"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 04720 Großweitzschen 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1V3VdN-strassenwaerter-mitarbeiter-winterdienst-mwd_04720-grossweitzschen"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Straßenwärter / Mitarbeiter Winterdienst (m/w/d) 04463 Großpösna 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZUoDKR-strassenwaerter-mitarbeiter-winterdienst-mwd_04463-grosspoesna"
-  },
-  {
-   "at": "2026-10-29T07:24:59+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter (m/w/d) Geldwäscheprävention 04356 Leipzig 29.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zd8jFK-sachbearbeiter-mwd-geldwaeschepraevention_04356-leipzig"
-  },
   {
    "at": "2026-10-29T07:24:59+00:00",
    "kind": "new",
@@ -3501,12 +3445,68 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/servicetechniker-m-w-d-kundendienst/bewerben"
+  },
+  {
+   "at": "2026-10-29T12:41:22+00:00",
+   "kind": "new",
+   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
+   "title": "Supplier Quality Engineer (f/m/d) - Piping",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Supplier-Quality-Engineer-f-m-d-Piping/304962"
+  },
+  {
+   "at": "2026-10-29T12:41:22+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Pflegefachkraft – Stellv. Stationsleitung Geriatrie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/4bdbe50b-455f-5c10-a24b-e5b539f5cc41/pflegefachkraft-stellv-stationsleitung-geriatrie-m-w-d"
+  },
+  {
+   "at": "2026-10-29T12:41:22+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Ausbildung Operationstechnischer Assistent (m/w/d) 2027",
+   "url": "https://karriere.fresenius.de/job-detail/2b96ac6a-7e0d-50f3-82a5-c70878226379/ausbildung-operationstechnischer-assistent-m-w-d-2027"
+  },
+  {
+   "at": "2026-10-29T12:41:22+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Ausbildung Anästhesietechnischer Assistent (m/w/d) 2027",
+   "url": "https://karriere.fresenius.de/job-detail/c66ca594-71d8-5f98-8cfc-1920d5e6568f/ausbildung-anaesthesietechnischer-assistent-m-w-d-2027"
+  },
+  {
+   "at": "2026-10-29T12:41:22+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektriker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019GngbQAC"
+  },
+  {
+   "at": "2026-10-29T12:39:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Bachelor/ Master Thesis - Implementation of a Latch-Based Register File for RISC-V Cores (f/m/div) München HRC1749742 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971833193"
+  },
+  {
+   "at": "2026-10-29T12:39:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "29.10.2026 Sales Manager Außendienst – Arbeitsschutz & Industrie (m/w/d) Saarbrücken",
+   "url": "https://www.tempton.de/jobs/sales-manager-aussendienst-arbeitsschutz-industrie"
+  },
+  {
+   "at": "2026-10-29T12:39:54+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Freight Cost Controller Veldhoven, Netherlands Data and Analytics",
+   "url": "https://www.asml.com/en/careers/find-your-job/freight-cost-controller-j00354809"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-29T12:26:34+00:00",
+ "last_run": "2026-10-29T12:41:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-28",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
