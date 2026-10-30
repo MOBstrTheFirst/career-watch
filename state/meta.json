@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -666,12 +666,33 @@
    "site": "Capgemini Engineering",
    "title": "Rechtsreferendar Wahlstation (w/m/d) Muenchen, Frankfurt, Berlin Administration Support Studentische Tätigkeiten/Praktikum Studierende/Absolvent*innen",
    "url": "https://www.capgemini.com/de-de/jobs/379316-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-30T05:24:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Analytics & Insights Advanced Analytics Manager",
+   "url": "https://www.pgcareers.com/de/en/job/R000157700/Analytics-Insights-Advanced-Analytics-Manager"
+  },
+  {
+   "at": "2026-10-30T05:24:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Analytics & Insights Manager",
+   "url": "https://www.pgcareers.com/de/en/job/R000157699/Analytics-Insights-Manager"
+  },
+  {
+   "at": "2026-10-30T05:24:45+00:00",
+   "kind": "new",
+   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
+   "title": "Category Management Specialist",
+   "url": "https://www.pgcareers.com/de/en/job/R000159898/Category-Management-Specialist"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T05:11:04+00:00",
+ "last_run": "2026-10-30T05:25:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 26,
+ "runs": 27,
  "tg_offset": 297408924
 }
