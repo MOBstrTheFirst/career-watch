@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 28,
  "commands_set": true,
  "events": [
   {
@@ -645,12 +645,33 @@
    "site": "Procter & Gamble – Braun plant Marktheidenfeld",
    "title": "Finance & Accounting Intern – Monterrey Sales Office",
    "url": "https://www.pgcareers.com/de/en/job/R000161926/Finance-Accounting-Intern-Monterrey-Sales-Office"
+  },
+  {
+   "at": "2026-10-30T04:55:10+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - Customer Supply Chain Management Business Planner - Hsinchu Hsinchu, Taiwan Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-customer-supply-chain-management-business-planner-hsinchu-j00354679"
+  },
+  {
+   "at": "2026-10-30T04:55:10+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - HMI NPI Project Manager - Tainan Tainan, Taiwan Projects, Programs and Change",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-hmi-npi-project-manager-tainan-j00354746"
+  },
+  {
+   "at": "2026-10-30T04:55:10+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Rechtsreferendar Wahlstation (w/m/d) Muenchen, Frankfurt, Berlin Administration Support Studentische Tätigkeiten/Praktikum Studierende/Absolvent*innen",
+   "url": "https://www.capgemini.com/de-de/jobs/379316-de_DE+sap_btp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T04:41:01+00:00",
+ "last_run": "2026-10-30T04:55:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 24,
+ "runs": 25,
  "tg_offset": 297408924
 }
