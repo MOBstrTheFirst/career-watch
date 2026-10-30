@@ -1,14 +1,7 @@
 {
- "alerts": 409,
+ "alerts": 410,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:40:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 74189 Weinsberg 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/WrIPW-schweisser-mwd_74189-weinsberg"
-  },
   {
    "at": "2026-10-30T12:40:18+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Magna – Veitsbronn",
    "title": "Production Supervisor",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Production-Supervisor_R00268291?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T19:25:34+00:00",
+   "kind": "text",
+   "site": "Persystems GmbH",
+   "title": "2 new text line(s), e.g. Muon",
+   "url": "https://www.persystems.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T19:11:16+00:00",
+ "last_run": "2026-10-30T19:26:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
