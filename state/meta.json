@@ -1,5 +1,5 @@
 {
- "alerts": 71,
+ "alerts": 81,
  "commands_set": true,
  "events": [
   {
@@ -1296,12 +1296,96 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-356/bewerben"
+  },
+  {
+   "at": "2026-10-30T08:10:40+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Praktikum - Qualitätssicherung Serienkaufteile (w/m/d)",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-30T08:10:40+00:00",
+   "kind": "new",
+   "site": "Fresenius Medical Care – Schweinfurt",
+   "title": "Pharmaziepraktikant (m/w/d)",
+   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Pharmaziepraktikum_R0230559?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T08:09:57+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Team Assistant Shanghai HRC1862082",
+   "url": "https://jobs.infineon.com/careers/job/563808972275537"
+  },
+  {
+   "at": "2026-10-30T08:09:57+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Software Development & Test Engineer (w/m/d) Deutschland, Kiel € pro Stunde Bachelor Universität 0-2 Jahre Mitarbeit in einem agilen Entwicklungsteam ",
+   "url": "https://www.brunel.net/de-de/jobs/software-development-and-test-engineer-wmd-tr-301444"
+  },
+  {
+   "at": "2026-10-30T08:09:57+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Reifenmonteur (m/w/d) Offenbach am Main",
+   "url": "https://www.tempton.de/jobs/reifenmonteur-136"
+  },
+  {
+   "at": "2026-10-30T08:10:00+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Gépbeállító 1",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF11558Y-p-a93bd3153d2484cf1bf600179c5daa4d/gepbeallito-1"
+  },
+  {
+   "at": "2026-10-30T08:10:00+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CRE TW Hard Service facility manager - Linkou Linkou, Taiwan Real Estate and Facilities Management",
+   "url": "https://www.asml.com/en/careers/find-your-job/cre-tw-hard-service-facility-manager-linkou-j00333731"
+  },
+  {
+   "at": "2026-10-30T08:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) für Spritzgußmaschinen in Lichtenfels gesucht 96215 Lichtenfels, Bayern 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1JeFyR-maschinenbediener-mwd-fuer-spritzgussmaschinen-in-lichtenfels-gesucht_96215-lichtenfels-bayern"
+  },
+  {
+   "at": "2026-10-30T08:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) in Bamberg gesucht 96050 Bamberg 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10L1uX-gabelstaplerfahrer-mwd-in-bamberg-gesucht_96050-bamberg"
+  },
+  {
+   "at": "2026-10-30T08:10:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT Infrastructure & Security Engineer (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-infrastructure-und-security-engineer-m-w-d-1"
+  },
+  {
+   "at": "2026-10-30T08:10:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Senior IT Security Administrator (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/senior-it-security-administrator-m-w-d-2"
+  },
+  {
+   "at": "2026-10-30T08:10:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/it-infrastructure-und-security-engineer-m-w-d-1/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T07:56:18+00:00",
+ "last_run": "2026-10-30T08:10:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
