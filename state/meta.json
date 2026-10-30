@@ -1,77 +1,7 @@
 {
- "alerts": 225,
+ "alerts": 229,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T03:25:05+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Meister/Tech­niker/Inge­nieur Auto­ma­ti­sie­rungs­technik (m/w/d) Job Vor Ort Vollzeit 55.000 - 60.000 € Ludwigs­hafen, Deutsch­land Elektrotechnik P",
-   "url": "https://touch.ferchau.com/de/de/job/522148/meister-techniker-ingenieur-automatisierungstechnik"
-  },
-  {
-   "at": "2026-10-30T03:25:05+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Fahr­zeug Trans­port­kon­zepte (m/w/d) Job Vor Ort Vollzeit 70.000 - 70.500 € Kassel, Deutsch­land Elektrotechnik Fahrzeugte",
-   "url": "https://touch.ferchau.com/de/de/job/522157/entwicklungsingenieur-fahrzeug-transportkonzepte"
-  },
-  {
-   "at": "2026-10-30T03:25:05+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "PCB-Layout Desi­gner (m/w/d) PLM Inte­gra­tion&Library Manage­ment Job Vor Ort Vollzeit 65.000 - 75.000 € Röthen­bach an der Pegnitz, Deutsch­land Ele",
-   "url": "https://touch.ferchau.com/de/de/job/522166/pcb-layout-designer-plm-integrationlibrary-management"
-  },
-  {
-   "at": "2026-10-30T03:24:53+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/study-nurse-zur-betreuung-rheumatologischer-und-immunologischer-studien-m-w-d-13939"
-  },
-  {
-   "at": "2026-10-30T03:24:53+00:00",
-   "kind": "new",
-   "site": "Universitätsklinikum Erlangen – Radiology / MR physics",
-   "title": "Zum Stellenangebot",
-   "url": "https://www.karriere.uk-erlangen.de/job/phd-position-m-f-x-for-3-years-14003"
-  },
-  {
-   "at": "2026-10-30T03:55:06+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Finance & Accounting Intern – Monterrey Sales Office",
-   "url": "https://www.pgcareers.com/de/en/job/R000161926/Finance-Accounting-Intern-Monterrey-Sales-Office"
-  },
-  {
-   "at": "2026-10-30T04:55:10+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - Customer Supply Chain Management Business Planner - Hsinchu Hsinchu, Taiwan Planning",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-customer-supply-chain-management-business-planner-hsinchu-j00354679"
-  },
-  {
-   "at": "2026-10-30T04:55:10+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New CS - HMI NPI Project Manager - Tainan Tainan, Taiwan Projects, Programs and Change",
-   "url": "https://www.asml.com/en/careers/find-your-job/cs-hmi-npi-project-manager-tainan-j00354746"
-  },
-  {
-   "at": "2026-10-30T04:55:10+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Rechtsreferendar Wahlstation (w/m/d) Muenchen, Frankfurt, Berlin Administration Support Studentische Tätigkeiten/Praktikum Studierende/Absolvent*innen",
-   "url": "https://www.capgemini.com/de-de/jobs/379316-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-30T05:24:45+00:00",
-   "kind": "new",
-   "site": "Procter & Gamble – Braun plant Marktheidenfeld",
-   "title": "Analytics & Insights Advanced Analytics Manager",
-   "url": "https://www.pgcareers.com/de/en/job/R000157700/Analytics-Insights-Advanced-Analytics-Manager"
-  },
   {
    "at": "2026-10-30T05:24:45+00:00",
    "kind": "new",
@@ -3501,12 +3431,82 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/zollsachbearbeiter-export-und-import-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-30T11:55:37+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527100"
+  },
+  {
+   "at": "2026-10-30T11:55:37+00:00",
+   "kind": "new",
+   "site": "Siemens Technology (central R&D) (+7 more)",
+   "title": "WeChat",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527100"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "International Graduate Program (IGP) - Technical Marketing Engineer Singapur HRC1658068",
+   "url": "https://jobs.infineon.com/careers/job/563808971029611"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Staff Engineer Material Handling Automation Batam HRC1803541",
+   "url": "https://jobs.infineon.com/careers/job/563808972244245"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Praktikant m|w|x Personalentwicklung",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Neuenstein-DE/Praktikant-m-w-x-Personalentwicklung_R00166669-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Praktikant m|w|x Personalmanagement",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Neuenstein-DE/Praktikant-m-w-x-Personalmanagement_R00219425?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 74172 Neckarsulm 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZfOw1T-maschinenbediener-mwd_74172-neckarsulm"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Strategischer Junior-Einkäufer (m/w/d) 74629 Pfedelbach 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9Bhux-strategischer-junior-einkaeufer-mwd_74629-pfedelbach"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 74541 Vellberg 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10p1bJ-produktionsmitarbeiter-mwd_74541-vellberg"
+  },
+  {
+   "at": "2026-10-30T11:55:16+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Konstruktionsmechaniker (m/w/d) Rüstungs- und Wehrtechnik 34127 Kassel, Hessen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1C20Be-konstruktionsmechaniker-mwd-ruestungs-und-wehrtechnik_34127-kassel-hessen"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T11:40:57+00:00",
+ "last_run": "2026-10-30T11:55:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
