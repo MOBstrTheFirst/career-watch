@@ -1,21 +1,7 @@
 {
- "alerts": 418,
+ "alerts": 419,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:40:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 74740 Adelsheim 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2uzW3C-lagermitarbeiter-mwd_74740-adelsheim"
-  },
-  {
-   "at": "2026-10-30T12:40:02+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199498 Praktikant Projektmanagement bei BMW Motorrad (w/m/x) Veröffentlicht: 30.10.2026 Data Science Berlin Neu Data Science Berlin Berlin",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199498.html"
-  },
   {
    "at": "2026-10-30T12:40:02+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Magna – Veitsbronn",
    "title": "Production Lead",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Production-Lead_R00268195-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T20:55:41+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Sales Training Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29737/Sales-Training-Specialist"
+  },
+  {
+   "at": "2026-10-30T20:55:41+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Sales Training Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29737EXTERNALENGLOBAL"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T20:41:11+00:00",
+ "last_run": "2026-10-30T20:55:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 90,
+ "runs": 91,
  "tg_offset": 297408924
 }
