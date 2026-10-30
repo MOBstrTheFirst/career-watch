@@ -1,5 +1,5 @@
 {
- "alerts": 21,
+ "alerts": 23,
  "commands_set": true,
  "events": [
   {
@@ -442,12 +442,19 @@
    "site": "Rohde & Schwarz",
    "title": "Application Engineer - RF Test, AZ",
    "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/application-engineer-rf-test-az_251563-1709824.html"
+  },
+  {
+   "at": "2026-10-30T02:55:35+00:00",
+   "kind": "new",
+   "site": "Bayerischer Rundfunk – Studio Franken",
+   "title": "Host für „PULS Musikanalyse\" (w/m/d) bei BR Puls in freier Mitarbeit",
+   "url": "https://jobs.br.de/Vacancies/1423/Description/1"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T02:41:18+00:00",
+ "last_run": "2026-10-30T02:55:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
