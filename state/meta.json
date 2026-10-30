@@ -1,35 +1,7 @@
 {
- "alerts": 419,
+ "alerts": 423,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:40:02+00:00",
-   "kind": "new",
-   "site": "Actemium Cegelec",
-   "title": "Neu Eisenhüttenstadt Elektromonteur (w/m/d) Berufserfahrene Handwerk, Dienstleistung und Fertigung",
-   "url": "https://actemium.career.softgarden.de/jobs/66805715/Elektromonteur-w-m-d-"
-  },
-  {
-   "at": "2026-10-30T12:40:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker (m/w/d) (Produktion & Fertigung) in 47798 Krefeld Produktion & Fertigung 47798 Krefeld Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-49"
-  },
-  {
-   "at": "2026-10-30T12:40:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Junior Einkäufer (m/w/d) (Einkauf & Supply Chain) in 01109 Dresden Einkauf & Supply Chain 01109 Dresden Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/junior-einkaeufer-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T12:40:02+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-49/bewerben"
-  },
   {
    "at": "2026-10-30T12:55:35+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
    "title": "Apply now Sales Training Specialist",
    "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29737EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-30T21:24:59+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Elektriker (m/w/d) – Top-Job mit 18 €/Std. ab sofort! Rostock",
+   "url": "https://www.tempton.de/jobs/elektriker-top-job-18-euro-std-sofort"
+  },
+  {
+   "at": "2026-10-30T21:25:08+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Mechanical Install Engineer - EUV Austin, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/mechanical-install-engineer-euv-j00348771"
+  },
+  {
+   "at": "2026-10-30T21:25:08+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Cyber Secu­rity Engi­neer (m/w/d) Neu Job Hybrid Vollzeit 50.000 - 70.000 € Wien, Öster­reich Informationstechnik Professionals Senior Professionals o",
+   "url": "https://touch.ferchau.com/de/de/job/526291/cyber-security-engineer"
+  },
+  {
+   "at": "2026-10-30T21:25:08+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Process Technician",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Process-Technician_R00252990?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T20:55:57+00:00",
+ "last_run": "2026-10-30T21:25:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 91,
+ "runs": 92,
  "tg_offset": 297408924
 }
