@@ -1,350 +1,7 @@
 {
- "alerts": 349,
+ "alerts": 359,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T11:10:42+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Logistiker (m/w/d) SAP",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000019RM5BQAW"
-  },
-  {
-   "at": "2026-10-30T11:10:04+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Schlosser (m/w/d) im Baustellenbetrieb",
-   "url": "https://jobportal.max-boegl.de/Schlosser-mwd-im-Baustellenbetrieb-de-j2380.html"
-  },
-  {
-   "at": "2026-10-30T11:10:08+00:00",
-   "kind": "new",
-   "site": "Schmitt + Sohn Aufzüge",
-   "title": "Monteur (m/w/d) für Aufzugsanlagen in Bayreuth",
-   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/monteur-mwd-fuer-aufzugsanlagen-in-bayreuth-1537"
-  },
-  {
-   "at": "2026-10-30T11:10:08+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/53c79d8e-3de9-4f6e-17a6-08df35ff9e56"
-  },
-  {
-   "at": "2026-10-30T11:10:08+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) – auch für erfahrene Finanzbuchhalter und Hauptbuchhalter (Rechnungswesen & Finanzen) in 34117 Kassel Rechnungswesen & Finanz",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-auch-fuer-erfahrene-finanzbuchhalter-und-hauptbuchhalter"
-  },
-  {
-   "at": "2026-10-30T11:10:08+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Logistik- und Materialversorgungsmitarbeiter (m/w/d) (Produktion & Fertigung) in 91052 Erlangen Produktion & Fertigung 91052 Erlangen Neu",
-   "url": "https://jobs.de.dis-ag.com/logistik-und-materialversorgungsmitarbeiter-m-w-d"
-  },
-  {
-   "at": "2026-10-30T11:10:08+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-auch-fuer-erfahrene-finanzbuchhalter-und-hauptbuchhalter/bewerben"
-  },
-  {
-   "at": "2026-10-30T11:25:46+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Pflegefachkraft und Medizinische Fachangestellte (m/w/d) für die Dialyse",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Ribnitz-Damgarten-Germany/Pflegefachkraft-und-Medizinische-Fachangestellte--m-w-d--fr-die-Dialyse_R0275578-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:25:46+00:00",
-   "kind": "new",
-   "site": "Akkodis",
-   "title": "Informatiker (m/w/d) im Support und der Projektunterstützung",
-   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04Mzc4NA%3D%3D&showApplicationForm=false"
-  },
-  {
-   "at": "2026-10-30T11:25:46+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Système MBSE / DOORS (H/F) Part-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158719059-ingenieur-systeme-mbse-doors-h-f-"
-  },
-  {
-   "at": "2026-10-30T11:24:40+00:00",
-   "kind": "new",
-   "site": "Bruker – Erlangen",
-   "title": "Title Working Student Laboratory Assistant (m/f/d)",
-   "url": "https://internationalcareers-bruker.icims.com/jobs/20137/working-student-laboratory-assistant-%28m-f-d%29/job?hub=12"
-  },
-  {
-   "at": "2026-10-30T11:24:40+00:00",
-   "kind": "new",
-   "site": "Innok Robotics – Regenstauf",
-   "title": "Servicekoordinator*in mobile Robotik (m/w/d)",
-   "url": "https://www.innok-robotics.de/karriere/job/servicekoordinatorin-mobile-robotik-mwd?hsLang=de"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Expert Hardware Engineer Control Electronics (m/f/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Expert-Hardware-Engineer-Control-Electronics-%28mfd%29/1452902033"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Expert Hardware Engineer Control Electronics (m/w/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Expert-Hardware-Engineer-Control-Electronics-%28mwd%29/1452902133"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Senior Hardware Engineer Control Electronics (m/f/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Senior-Hardware-Engineer-Control-Electronics-%28mfd%29/1452902933"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Senior Hardware Engineer Control Electronics (m/w/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Senior-Hardware-Engineer-Control-Electronics-%28mwd%29/1452903033"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Junior / Expert Electronics Hardware Skills (m/f/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Junior-Expert-Electronics-Hardware-Skills-%28mfd%29/1452902633"
-  },
-  {
-   "at": "2026-10-30T11:25:13+00:00",
-   "kind": "new",
-   "site": "AVL Software and Functions",
-   "title": "Junior / Expert Electronics Hardware Skills (m/w/d)",
-   "url": "https://jobs.avl.com/job/Regensburg-Junior-Expert-Electronics-Hardware-Skills-%28mwd%29/1452902733"
-  },
-  {
-   "at": "2026-10-30T11:24:46+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Lagermitarbeiter (m/w/d) (Technik & Instandhaltung) in 45128 Essen Technik & Instandhaltung 45128 Essen Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-41"
-  },
-  {
-   "at": "2026-10-30T11:24:46+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Handwerker (m/w/d) in der Industrie (Produktion & Fertigung) in 53227 Bonn Produktion & Fertigung 53227 Bonn Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/handwerker-m-w-d-in-der-industrie"
-  },
-  {
-   "at": "2026-10-30T11:24:46+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-41/bewerben"
-  },
-  {
-   "at": "2026-10-30T11:40:41+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Trainee (w/m/d) im Projekteinkauf für Smart Buildings",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527773"
-  },
-  {
-   "at": "2026-10-30T11:40:41+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527773"
-  },
-  {
-   "at": "2026-10-30T11:40:41+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Instandhalter für Produktionsanlagen (m/w/d) - befristet für 2 Jahre",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schweinfurt-Germany/Instandhalter-fr-Produktionsanlagen--m-w-d----befristet-fr-2-Jahre_R0271843-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:40:41+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Technician Quality Engineering (m/w/d)",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schweinfurt-Germany/Technician-Quality-Engineering--m-w-d-_R0270918-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Elektriker*in - Kabelbündelfertigung (m/w/d)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Donauwrth/Elektriker-in---Kabelbndelfertigung--m-w-d-_JR10454555?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Application Engineer MEMS Microphones (f/m/div) München HRC1865644 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972292435"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Engineer Technical Marketing Malakka HRC1155286",
-   "url": "https://jobs.infineon.com/careers/job/563808958560352"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Acoustic Sensors (f/m/div) München HRC1766385 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971904129"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Technical Marketing Intern_4159 Shanghai + 1 more HRC1704159",
-   "url": "https://jobs.infineon.com/careers/job/563808971512050"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Technical Marketing and Application Taipeh HRC1590896",
-   "url": "https://jobs.infineon.com/careers/job/563808970230486"
-  },
-  {
-   "at": "2026-10-30T11:39:40+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Staff Engineer Technical Marketing El Segundo, CA HRC1616504",
-   "url": "https://jobs.infineon.com/careers/job/563808970488520"
-  },
-  {
-   "at": "2026-10-30T11:40:14+00:00",
-   "kind": "new",
-   "site": "Trench Germany",
-   "title": "Materiallogistiker (m/w/d)",
-   "url": "https://trench.csod.com/ux/ats/careersite/1/home/requisition/1734?c=trench"
-  },
-  {
-   "at": "2026-10-30T11:40:14+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker / Mechatroniker / Instandhaltung Fördertechnik (m/w/d) 41179 Mönchengladbach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/beoM3-elektroniker-mechatroniker-instandhaltung-foerdertechnik-mwd_41179-moenchengladbach"
-  },
-  {
-   "at": "2026-10-30T11:40:07+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Service Owner – Infrastructure & Security Services",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bangalore/Service-Owner---Infrastructure---Security-Services_R-10067418?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:40:07+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zollsachbearbeiter Export und Import (m/w/d) (Logistik & Transport) in 38122 Braunschweig Logistik & Transport 38122 Braunschweig Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/zollsachbearbeiter-export-und-import-m-w-d"
-  },
-  {
-   "at": "2026-10-30T11:40:07+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/zollsachbearbeiter-export-und-import-m-w-d/bewerben"
-  },
-  {
-   "at": "2026-10-30T11:55:37+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Digitalisierung, Data & AI im Bereich Supply Chain Management",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527100"
-  },
-  {
-   "at": "2026-10-30T11:55:37+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527100"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "International Graduate Program (IGP) - Technical Marketing Engineer Singapur HRC1658068",
-   "url": "https://jobs.infineon.com/careers/job/563808971029611"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Regensburg",
-   "title": "Senior Staff Engineer Material Handling Automation Batam HRC1803541",
-   "url": "https://jobs.infineon.com/careers/job/563808972244245"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Praktikant m|w|x Personalentwicklung",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Neuenstein-DE/Praktikant-m-w-x-Personalentwicklung_R00166669-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Praktikant m|w|x Personalmanagement",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Neuenstein-DE/Praktikant-m-w-x-Personalmanagement_R00219425?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener (m/w/d) 74172 Neckarsulm 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZfOw1T-maschinenbediener-mwd_74172-neckarsulm"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Strategischer Junior-Einkäufer (m/w/d) 74629 Pfedelbach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z9Bhux-strategischer-junior-einkaeufer-mwd_74629-pfedelbach"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 74541 Vellberg 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z10p1bJ-produktionsmitarbeiter-mwd_74541-vellberg"
-  },
-  {
-   "at": "2026-10-30T11:55:16+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Konstruktionsmechaniker (m/w/d) Rüstungs- und Wehrtechnik 34127 Kassel, Hessen 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1C20Be-konstruktionsmechaniker-mwd-ruestungs-und-wehrtechnik_34127-kassel-hessen"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Medizinstudenten im PJ (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/4973845b-c921-593f-be8a-384bf2dbca8c/medizinstudenten-im-pj-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Medizinisch-technischer Radiologieassistent (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/ff313b4a-e230-54cd-868d-af3fe0bae9a5/medizinisch-technischer-radiologieassistent-m-w-d"
-  },
   {
    "at": "2026-10-30T12:10:55+00:00",
    "kind": "new",
@@ -3501,12 +3158,355 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-137/bewerben"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "DevOps Engineer (m/w/d) - Kubernetes & Infrastructure",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzkzMA%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "IT Techniker Rollout (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzkyMw%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Fertigungsplaner (m/w/d) Luftfahrt",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzkyOQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Industriemechaniker (m/w/d), Mechatroniker (m/w/d) ab 26€/h",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Z7I47QAF"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Montagemitarbeiter (m/w/d) ab 20€/h in Cham gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000YaaJEQAZ"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Elektroniker / Verdrahter (m/w/d) in Frankfurt gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000YSCDxQAP"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Monteur (m/w/d) in Frankfurt ab 22€/h gesucht!",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000YS8IPQA1"
+  },
+  {
+   "at": "2026-10-30T15:26:09+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Fachkraft (m/w/d) für Lagerlogistik",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000Rnl1RQAR"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Sales Pricing Manager (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF299840L-sales-pricing-manager-w-m-div"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Vertriebsleiter (w/m/div.) Team Bochum-Frankfurt",
+   "url": "https://jobs.bosch.com/en/job/REF299838U-vertriebsleiter-w-m-div-team-bochum-frankfurt"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Pflichtpraktikum in der Produktkommunikation",
+   "url": "https://jobs.bosch.com/en/job/REF299834E-pflichtpraktikum-in-der-produktkommunikation"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "PhD - End-to-End Trainable System for Autonomous Driving with Introspection",
+   "url": "https://jobs.bosch.com/en/job/REF299795R-phd-end-to-end-trainable-system-for-autonomous-driving-with-introspection"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Bosch Management Consulting Innovation: Consultant, Go-to-Market Practice (f/m/div)",
+   "url": "https://jobs.bosch.com/en/job/REF299800U-bosch-management-consulting-innovation-consultant-go-to-market-practice-f-m-div"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum im Bereich Brandschutz und Gefahrenabwehr",
+   "url": "https://jobs.bosch.com/en/job/REF299830L-praktikum-im-bereich-brandschutz-und-gefahrenabwehr"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "Robert Bosch – Ansbach plant (+5 more)",
+   "title": "Praktikum in der Logistikplanung Schrägachse/Schrägscheibe",
+   "url": "https://jobs.bosch.com/en/job/REF299827D-praktikum-in-der-logistikplanung-schraegachse-schraegscheibe"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Industriemechaniker (m/w/d) Qualitätsprüfung Berlin",
+   "url": "https://www.tempton.de/jobs/industriemechaniker-qualitaetspruefung-1"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Key Account Manager (m/w/d) Metallindustrie - remote Hamburg, Köln, Düsseldorf, Dortmund, Bremen, Hannover, Bielefeld, Münster, Kassel",
+   "url": "https://www.tempton.de/jobs/key-account-manager-metallindustrie-remote-1"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Elektroniker (m/w/d) Automatisierungstechnik Erlangen",
+   "url": "https://www.tempton.de/jobs/elektroniker-automatisierungstechnik-16"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Elektroniker (m/w/d) Hardware Amberg",
+   "url": "https://www.tempton.de/jobs/elektroniker-hardware-1"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Vertriebsmanager (m/w/d) Industriekunden Frankfurt am Main, Essen, Duisburg, Bochum, Wiesbaden, Aachen, Kiel, Lübeck, Osnabrück",
+   "url": "https://www.tempton.de/jobs/vertriebsmanager-industriekunden-1"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 ERP-Berater - ERP-Consultant (m/w/d) Köln",
+   "url": "https://www.tempton.de/jobs/erp-berater-erp-consultant"
+  },
+  {
+   "at": "2026-10-30T15:25:08+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Kaufmännischer Mitarbeiter (m/w/d) im Bereich Hotline / Auftragsannahme Grünsfeld",
+   "url": "https://www.tempton.de/jobs/kaufmaennischer-mitarbeiter-bereich-hotline-auftragsannahme"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "Ingénieur R&D VIE Richland F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/ingenieur-rd-vie-richland-f-h-ref-2026-28204"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "Framatome GmbH",
+   "title": "JOB DATING techniciens , coordinateurs, responsables, ingénieurs techniques F/H",
+   "url": "https://www.framatome.com/de/bewerber/stellenangebote/job-dating-techniciens-coordinateurs-responsables-ingenieurs-techniques-f-h-ref-2026-28203"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Inge­nieur Versor­gungs­technik Wasser & Abwasser (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 60.000 € Darm­stadt, Deutsch­land Elektrotechnik Maschinen",
+   "url": "https://touch.ferchau.com/de/de/job/526285/ingenieur-versorgungstechnik-wasser-abwasser"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Konstruk­teur Anla­genbau (m/w/d) Neu Job Vor Ort Vollzeit 55.000 - 62.000 € Darm­stadt, Deutsch­land Anlagenbau Maschinenbau Professionals Senior Pro",
+   "url": "https://touch.ferchau.com/de/de/job/526273/konstrukteur-anlagenbau"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Elek­tro­niker Betriebs­technik / EMSR (m/w/d) Neu Job Vor Ort Vollzeit 40.000 - 55.000 € Darm­stadt, Deutsch­land Weitere Professionals ohne Personal",
+   "url": "https://touch.ferchau.com/de/de/job/526279/elektroniker-betriebstechnik-emsr"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "(Senior) Secu­rity Engi­neer (m/w/d) in Direkt­ver­mitt­lung Neu Job Hybrid Vollzeit 80.000 - 110.000 € Berlin, Deutsch­land Direktvermittlung Informa",
+   "url": "https://touch.ferchau.com/de/de/job/526276/senior-security-engineer-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Geschäfts­führer (m/w/d) für ein Gene­ral­bau­un­ter­nehmen in Direkt­ver­mitt­lung Neu Job Vor Ort Vollzeit 160.000 - 200.000 € Amberg, Deutsch­land ",
+   "url": "https://touch.ferchau.com/de/de/job/526270/geschaeftsfuehrer-fuer-ein-generalbauunternehmen-in-direktvermittlung"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Produk­ti­ons­mit­ar­beiter Elek­tro­mon­tage (m/w/d) Neu Job Vor Ort Vollzeit 36.000 - 42.000 € Braun­schweig, Deutsch­land Elektrotechnik Maschinenb",
+   "url": "https://touch.ferchau.com/de/de/job/526261/produktionsmitarbeiter-elektromontage"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 97421 Schweinfurt 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1q2rUN-industriemechaniker-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Metallfachkräfte (m/w/d) in Bamberg gesucht 96052 Bamberg 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZkdPmV-metallfachkraefte-mwd-in-bamberg-gesucht_96052-bamberg"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker (m/w/d) 96052 Bamberg 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZdHEg4-industriemechaniker-mwd_96052-bamberg"
+  },
+  {
+   "at": "2026-10-30T15:25:27+00:00",
+   "kind": "new",
+   "site": "SUSE",
+   "title": "Intern- Solution Architect",
+   "url": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Sao-Paulo-Brazil/Intern--Solution-Architect_71007821-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Customer Service im Vertriebsinnendienst (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/customer-service-im-vertriebsinnendienst-mwd-de-j1552.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Data Engineer / Microsoft Fabric Engineer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/data-engineer-microsoft-fabric-engineer-mwd-de-j133.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Demi Chef de Partie oder Chef de Partie (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/demi-chef-de-partie-oder-chef-de-partie-mwd-de-j1677.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Einkäufer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/einkaeufer-m-w-d-60564715"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "ERP Inhouse Consultant (m/w/d) Schwerpunkt Order-to-Cash / Abwicklungsprozesse",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/erp-inhouse-consultant-m-w-d-schwerpunkt-vertriebsprozesse-61553442"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "ERP Inhouse Consultant (m/w/d) Schwerpunkt Supply Chain & Produktionsplanung",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/erp-inhouse-consultant-schwerpunkt-supply-chain-m-w-d-61342642"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "ERP System Engineer (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/erp-system-engineer-m-w-d-61553057"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Exportsachbearbeiter (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/exportsachbearbeiter-mwd-de-j1613.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Fachlagerist / Fachkraft für Lagerlogistik (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/fachlagerist-fachkraft-fuer-lagerlogistik-mwd-de-j1562.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Fertigungssteuerer Montage / Mitarbeiter Fertigungssteuerung (m/w/d) in der Medizintechnik",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/fertigungssteuerer-montage-mitarbeiter-fertigungssteuerung-m-w-d-in-der-medizintechnik-68263161"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Full-Stack-Entwickler*in Apps, Web & DevOps (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebot/full-stack-entwicklerin-apps-web-devops-m-w-d-67880447"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "Gebietsverkaufsleiter Klinik (m/w/d), Geschäftsbereich: Klinik",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/gebietsverkaufsleiter-klinik-mwd-geschaeftsbereich-klinik-de-j1633.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "Löwenstein Medical (WILAmed) – Kammerstein",
+   "title": "General Counsel (m/w/d) / Leiter Rechtsabteilung (m/w/d)",
+   "url": "https://loewensteinmedical.com/de-de/karriere/stellenangebote/general-counsel-mwd-leiter-rechtsabteilung-mwd-de-j1616.html"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriekaufmann (m/w/d) (Büroverwaltung) in 75174 Pforzheim Büroverwaltung 75174 Pforzheim Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-34"
+  },
+  {
+   "at": "2026-10-30T15:25:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-34/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T15:11:01+00:00",
+ "last_run": "2026-10-30T15:26:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
