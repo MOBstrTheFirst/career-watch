@@ -1,35 +1,7 @@
 {
- "alerts": 387,
+ "alerts": 389,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "Telefónica Germany – Nürnberg",
-   "title": "Werkstudent (m/w/d) - External Communications",
-   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/M%C3%BCnchen-Werkstudent-%28mwd%29-External-Communications-BY-80992/1452928233"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Teamleiter Buchhaltung (m/w/d) (Rechnungswesen & Finanzen) in 09112 Chemnitz Rechnungswesen & Finanzen 09112 Chemnitz Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/teamleiter-buchhaltung-m-w-d-7"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Personalreferent (m/w/d) – auch für erfahrene Personalbetreuer (HR & Personalwesen) in 34117 Kassel HR & Personalwesen 34117 Kassel Homeoffice möglich",
-   "url": "https://jobs.de.dis-ag.com/personalreferent-m-w-d-auch-fuer-erfahrene-personalbetreuer"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/teamleiter-buchhaltung-m-w-d-7/bewerben"
-  },
   {
    "at": "2026-10-30T12:41:17+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/kfz-mechatroniker-m-w-d-28/bewerben"
+  },
+  {
+   "at": "2026-10-30T17:10:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Tool & Die Maker Apprentice",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Concord-Ontario-CA/Tool---Die-Maker-Apprentice_R00262205?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T17:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 75031 Eppingen Rechnungswesen & Finanzen 75031 Eppingen Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-473"
+  },
+  {
+   "at": "2026-10-30T17:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Allrounder (m/w/d) (Büroverwaltung) in 74072 Heilbronn Büroverwaltung 74072 Heilbronn Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-allrounder-m-w-d-12"
+  },
+  {
+   "at": "2026-10-30T17:10:05+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-473/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T16:56:28+00:00",
+ "last_run": "2026-10-30T17:14:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
