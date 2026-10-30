@@ -1,21 +1,7 @@
 {
- "alerts": 394,
+ "alerts": 396,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Schweißer (m/w/d) WIG / Elektroden",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000163f4HQAQ"
-  },
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Anlagenmechaniker (m/w/d) Apparate- und Behälterbau",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000163lWHQAY"
-  },
   {
    "at": "2026-10-30T12:41:17+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/sachbearbeiter-im-vertrieb-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-30T17:39:52+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Eng, Welding",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Concord-Ontario-CA/Eng--Welding_R00261391?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T17:40:18+00:00",
+   "kind": "new",
+   "site": "Diehl Defence (+5 more)",
+   "title": "Diehl Metering Technical Support Engineer 30.10.2026 Vertrieb/Kundenservice Rochdale, Lancashire",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/technical-support-engineer"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T17:26:24+00:00",
+ "last_run": "2026-10-30T17:47:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
