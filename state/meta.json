@@ -1,14 +1,7 @@
 {
- "alerts": 396,
+ "alerts": 397,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Facharbeiter (m/w/d) Rotorfertigung",
-   "url": "https://de.trenkwalder.com/jobs/a0taV0000164mLTQAY"
-  },
   {
    "at": "2026-10-30T12:41:17+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Diehl Defence (+5 more)",
    "title": "Diehl Metering Technical Support Engineer 30.10.2026 Vertrieb/Kundenservice Rochdale, Lancashire",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/technical-support-engineer"
+  },
+  {
+   "at": "2026-10-30T17:56:36+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Security Guard Manufacturing Experienced and Graduates Giesecke+Devrient ePayments America, Inc. Bolingbrook, IL, US",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27949-en-US"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T17:47:46+00:00",
+ "last_run": "2026-10-30T17:58:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
