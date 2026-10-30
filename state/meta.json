@@ -1,35 +1,7 @@
 {
- "alerts": 430,
+ "alerts": 432,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:54:49+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer Containerentladung (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/helfer-containerentladung-1"
-  },
-  {
-   "at": "2026-10-30T12:54:49+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer Lebensmittelproduktion (m/w/d) Reinbek bei Hamburg",
-   "url": "https://www.tempton.de/jobs/helfer-lebensmittelproduktion-2"
-  },
-  {
-   "at": "2026-10-30T12:54:49+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Montagehelfer (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/montagehelfer-58"
-  },
-  {
-   "at": "2026-10-30T12:54:49+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Metallbauhelfer (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/metallbauhelfer-14"
-  },
   {
    "at": "2026-10-30T12:54:49+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/human-resources-project-lead-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-30T22:39:55+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "Physical Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R027531?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T22:39:55+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "IC Design Engineer (STA/ Synthesis)",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/IC-Design-Engineer--STA--Synthesis-_R027529?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T22:39:55+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "ASIC Design Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Engineer_R027509?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T22:39:55+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "ASIC Design Automation Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design-Automation-Engineer_R027494?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T22:26:09+00:00",
+ "last_run": "2026-10-30T22:41:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 96,
+ "runs": 97,
  "tg_offset": 297408924
 }
