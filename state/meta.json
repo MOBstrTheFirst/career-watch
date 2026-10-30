@@ -1,329 +1,7 @@
 {
- "alerts": 279,
+ "alerts": 291,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Lead Engineer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884950&jobId=118648"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) (Sales & Vertrieb) in 76568 Gaggenau Sales & Vertrieb 76568 Gaggenau Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-95"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Infrastructure Specialist (m/w/d) Microsoft & Security (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/senior-infrastructure-specialist-m-w-d-microsoft-und-security-1"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT Allrounder/Sales (m/w/d) (IT & Software) in 01219 Dresden , 03044 Cottbus IT & Software 01219 Dresden +1 Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/it-allrounder-sales-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Inbetriebnehmer Halbleiteranlagen (m/w/d) (Produktion & Fertigung) in 01108 Dresden Produktion & Fertigung 01108 Dresden Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/inbetriebnehmer-halbleiteranlagen-m-w-d"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Stahlbauschlosser (m/w/d) (Produktion & Fertigung) in 20457 Hamburg Produktion & Fertigung 20457 Hamburg Neu",
-   "url": "https://jobs.de.dis-ag.com/stahlbauschlosser-m-w-d-1"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior IT Administrator Security & Infrastructure (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/senior-it-administrator-security-und-infrastructure-m-w-d-1"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Galvanik (m/w/d) (Technik & Instandhaltung) in 12203 Berlin Technik & Instandhaltung 12203 Berlin Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-galvanik-m-w-d"
-  },
-  {
-   "at": "2026-10-30T08:54:47+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-95/bewerben"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Projektleiter Gebäudeautomation (w/m/d)",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527614"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527614"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Fertigungssteuerer (w/m/d) SEM",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Fertigungssteuerer-w-m-d-SEM/306061"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "E-T-A Elektrotechnische Apparate",
-   "title": "VERPACKUNGSINGENIEUR*IN (m/w/d)",
-   "url": "https://jobs.e-t-a.de/jobposting/d0d95ca490e6f48cbffc9c5e3dc31b97d8ad29de0"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "System Qualification Engineer - Aerospace (all gender) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158690853-system-qualification-engineer-aerospace-all-gender-"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Show more jobs",
-   "url": "https://careers.smartrecruiters.com/ALTEN?search=&page=0&location=Berlin%2C+DE"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Chef de Produit Electrique (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158693009-ingenieur-chef-de-produit-electrique-h-f-"
-  },
-  {
-   "at": "2026-10-30T09:11:23+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Werkstudent Semantic Layer & Knowledge Graphs (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Werkstudent-Semantic-Layer---Knowledge-Graphs--m-w-d-_ID15688"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New SS&P - Tactical Buyer - Tainan Tainan, Taiwan Sourcing and Supply Chain Management",
-   "url": "https://www.asml.com/en/careers/find-your-job/ssp-tactical-buyer-tainan-j00348020"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "IT & IT-Sicherheit Fullstack-Entwickler:in SAP (ABAP und SAPUI5) Standort Essen, Hamburg, Hannover Arbeitszeitmodell Vollzeit Anstellung – unbefristet",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/fullstack-entwicklerin-sap-abap-und-sapui5--10057"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "TÜV NORD EnSys",
-   "title": "IT & IT-Sicherheit SAP-Entwickler:in/SAP-Inhouse-Berater:in Standort Essen, Hamburg, Hannover Arbeitszeitmodell Vollzeit Anstellung – unbefristet Gese",
-   "url": "https://www.tuev-nord-group.com/de/karriere/jobs/detail-page/job-detail/sap-entwicklerin-sap-inhouse-beraterin-10082"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinen- und Anlagenführer (m/w/d) 84032 Altdorf, Niederbayern 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1BOLuW-maschinen-und-anlagenfuehrer-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter in der Gießerei (m/w/d) 84079 Bruckberg, Niederbayern 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z22CtBK-mitarbeiter-in-der-giesserei-mwd_84079-bruckberg-niederbayern"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachlagerist (m/w/d) 84137 Vilsbiburg 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z8j43w-fachlagerist-mwd_84137-vilsbiburg"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagerhelfer (m/w/d) 84109 Wörth an der Isar 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/oL107-lagerhelfer-mwd_84109-woerth-an-der-isar"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Qualitätsprüfer (m/w/d) 84028 Landshut, Isar 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/13iLUo-qualitaetspruefer-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter (m/w/d) 84028 Landshut, Isar 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2rVh0G-produktionsmitarbeiter-mwd_84028-landshut-isar"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer (m/w/d) 84032 Altdorf, Niederbayern 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2wevM0-metallbauer-mwd_84032-altdorf-niederbayern"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektroniker (m/w/d) 85368 Moosburg an der Isar 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/cQQdu-elektroniker-mwd_85368-moosburg-an-der-isar"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer für die Siemens AG (m/w/d) 60329 Frankfurt am Main 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/XozoV-staplerfahrer-fuer-die-siemens-ag-mwd_60329-frankfurt-am-main"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Fachkraft für Lagerlogistik bei Siemens AG (m/w/d) 60386 Frankfurt am Main 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1EHvNu-fachkraft-fuer-lagerlogistik-bei-siemens-ag-mwd_60386-frankfurt-am-main"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Produktionsmitarbeiter für die Siemens AG (m/w/d) 60386 Frankfurt am Main 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1w5KT0-produktionsmitarbeiter-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
-  },
-  {
-   "at": "2026-10-30T09:10:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schleifer für die Siemens AG (m/w/d) 60386 Frankfurt am Main 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1jlIlM-schleifer-fuer-die-siemens-ag-mwd_60386-frankfurt-am-main"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "Broadcom – Regensburg",
-   "title": "Analog Mixed Signal Design Engineer",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Singapore-Yishun/IC-R-D-Hardware-Engineer_R026178?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Lead Engineer",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=5067012&jobId=119026"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "Sasse Elektronik",
-   "title": "Projektmanager (m/w/d) Heilbronn Vollzeit Festanstellung",
-   "url": "https://seleon.jobs.personio.de/job/2049854"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Operativer Einkäufer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506884/operativer-einkaeufer-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Talent Acquisition Specialist (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506948/talent-acquisition-specialist-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Software Engineer - Web UI (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506981/software-engineer-web-ui-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Network & Multiplayer Developer - Unreal Engine (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/506989/network-multiplayer-developer-unreal-engine-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Configuration Manager (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507012/configuration-manager-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "System Tester - Test Automation (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507035/system-tester-test-automation-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Mechanical Engineer - Siemens NX (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507036/mechanical-engineer-siemens-nx-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Software Engineer Machine Vision C++ (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507037/software-engineer-machine-vision-c++-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "Mechanical Design Engineer (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507154/mechanical-design-engineer-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "OSB AG",
-   "title": "AI Development Engineer - Python & LLM (all gender)",
-   "url": "https://www.alten-consulting.de/karriere/stelle/507174/ai-development-engineer-python-llm-(all-gender)"
-  },
-  {
-   "at": "2026-10-30T09:10:12+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior IT Security & Infrastructure Consultant (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/senior-it-security-und-infrastructure-consultant-m-w-d-1"
-  },
   {
    "at": "2026-10-30T09:10:12+00:00",
    "kind": "new",
@@ -3501,12 +3179,334 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/konstruktionsmechaniker-schiffbau-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-30T13:25:51+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Projektingenieur für Bahnenergieversorgungsanlagen (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzkxNg%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-30T13:25:51+00:00",
+   "kind": "new",
+   "site": "Akkodis",
+   "title": "Elektroniker / Industrieelektriker Schaltschrankbau (m/w/d)",
+   "url": "https://karriere.akkodis.com/offer-redirect?offerApiId=Sk4gLTEwMjAyNi04MzkwNQ%3D%3D&showApplicationForm=false"
+  },
+  {
+   "at": "2026-10-30T13:25:51+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Elektroniker für Betriebstechnik (m/w/d) Rostock Seit 30. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-105946/Elektroniker%20f%C3%BCr%20Betriebstechnik%20(m%2Fw%2Fd)/Rostock"
+  },
+  {
+   "at": "2026-10-30T13:25:51+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Site Quality Manager (m/w/d) – Energie-/Infrastrukturprojekte Greifswald Seit 30. Oktober 2026",
+   "url": "https://excellence.ag/jobs/VP-104605/Site%20Quality%20Manager%20(m%2Fw%2Fd)%20%E2%80%93%20Energie-%2FInfrastrukturprojekte/Greifswald"
+  },
+  {
+   "at": "2026-10-30T13:25:51+00:00",
+   "kind": "new",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "APMOKAMA PRAKTIKA TRANSPORTO KOORDINAVIMO SKYRIUJE (M/F/D)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19070?c=hella"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Certifying Staff (d/m/w) CAT B2 A400M",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Certifying-Staff--d-m-w--CAT-B2-A400M_JR10434559?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Strukturmechaniker (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bremen-Area/Strukturmechaniker--d-m-w----unbefristet_JR10375386?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent – Data Science & Technology Support (w/m/div) Dresden HRC1854657",
+   "url": "https://jobs.infineon.com/careers/job/563808972253233"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Internship - Data Science Analyst Singapur HRC1763932 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971873228"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior/ Staff Specialist - Supply Chain Data Scientist Singapur HRC1661470",
+   "url": "https://jobs.infineon.com/careers/job/563808971120346"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Werkstudent - im Bereich Gassensorik und elektronische Messtechnik (w/m/div) Regensburg HRC1840511",
+   "url": "https://jobs.infineon.com/careers/job/563808972194645"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior / Staff Specialist Data Science Singapur HRC1799098",
+   "url": "https://jobs.infineon.com/careers/job/563808972051238"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Duales Studium - B. Sc. Künstliche Intelligenz / Data Science 2027 (w/m/d) Regensburg (Deutschland) HRC1709272_1",
+   "url": "https://jobs.infineon.com/careers/job/563808971563932"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Zerspanungsmechaniker - Frästechnik (m/w/d) Rödermark",
+   "url": "https://www.tempton.de/jobs/zerspanungsmechaniker-fraestechnik-36"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Rangierer (m/w/d) Obertshausen",
+   "url": "https://www.tempton.de/jobs/rangierer-12"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Technischer Einkäufer (m/w/d) Mühlheim am Main",
+   "url": "https://www.tempton.de/jobs/technischer-einkaeufer-16"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Anlagenmechaniker - SHK (m/w/d) Rödermark",
+   "url": "https://www.tempton.de/jobs/anlagenmechaniker-shk-23"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Industriemechaniker (m/w/d) Rödermark",
+   "url": "https://www.tempton.de/jobs/industriemechaniker-667"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Techniker - Maschinenbau (m/w/d) Rödermark",
+   "url": "https://www.tempton.de/jobs/techniker-maschinenbau-4"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Tischler (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/tischler-368"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Operational Supplier Coordinator Wilton, US Planning",
+   "url": "https://www.asml.com/en/careers/find-your-job/operational-supplier-coordinator-j00350988"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "IT System­ad­mi­nis­trator (m/w/d) Job Hybrid Vollzeit 55.000 - 65.000 € Biele­feld, Deutsch­land Informationstechnik Young Professionals Professional",
+   "url": "https://touch.ferchau.com/de/de/job/273653/it-systemadministrator"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Tech­niker Doku­men­ten­ma­nage­ment (m/w/d) Neu Job Hybrid Vollzeit 49.000 - 56.000 € Wien, Öster­reich Elektrotechnik Maschinenbau Young Professiona",
+   "url": "https://touch.ferchau.com/de/de/job/526231/techniker-dokumentenmanagement"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "SAP Berater (m/w/d) Job Hybrid Vollzeit 60.000 - 70.000 € Biele­feld, Deutsch­land Informationstechnik Weitere Young Professionals Professionals ohne ",
+   "url": "https://touch.ferchau.com/de/de/job/240824/sap-berater"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Planungs­in­ge­nieur (m/w/d) Verfah­rens­technik Job Hybrid Vollzeit 70.000 - 80.000 € Stral­sund, Deutsch­land Weitere Professionals Senior Professio",
+   "url": "https://touch.ferchau.com/de/de/job/505762/planungsingenieur-verfahrenstechnik"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "MSR-Tech­niker (m/w/d) Job Vor Ort Vollzeit 50.000 - 60.000 € Rostock, Deutsch­land Weitere Professionals Senior Professionals ohne Personalverantwort",
+   "url": "https://touch.ferchau.com/de/de/job/505783/msr-techniker"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Verkehrs­in­ge­nieur (m/w/d) Job Hybrid Vollzeit 57.000 - 76.000 € Wismar, Deutsch­land Fahrzeugtechnik Weitere Young Professionals Professionals ohne",
+   "url": "https://touch.ferchau.com/de/de/job/506764/verkehrsingenieur"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Projekt­in­ge­nieur Nieder­span­nungs­schalt­ge­räte (m/w/d) Neu Job Hybrid Vollzeit 49.000 - 63.000 € Wien, Öster­reich Elektrotechnik Professionals ",
+   "url": "https://touch.ferchau.com/de/de/job/526222/projektingenieur-niederspannungsschaltgeraete"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Kauf­män­ni­scher Sach­be­ar­beiter (m/w/d) Ener­gie­wirt­schaft Neu Job Vor Ort Vollzeit 40.200 - 55.600 € Celle, Deutsch­land Elektrotechnik Weitere",
+   "url": "https://touch.ferchau.com/de/de/job/526219/kaufmaennischer-sachbearbeiter-energiewirtschaft"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "FERCHAU",
+   "title": "Trainee Service Contract Manage­ment / Service Opera­tions (m/w/d) Neu Job Hybrid Vollzeit 30.000 - 40.000 € Wuppertal, Deutsch­land Backoffice Young ",
+   "url": "https://touch.ferchau.com/de/de/job/526216/trainee-service-contract-management-service-operations"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "After Sales Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Graz-AT/After-Sales-Engineer_R00268250-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Truck Driver - Day Shift",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Bradford-West-Gwillimbury-Ontario-CA/Truck-Driver---Day-Shift_R00268150?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Material Services Coordinator",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Holland-Michigan-US/Material-Services-Coordinator_R00267177?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:25:01+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Anlagenbediener Nahrungsmittelindustrie (m/w/d) 39175 Gerwisch 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zt4mdY-anlagenbediener-nahrungsmittelindustrie-mwd_39175-gerwisch"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Neu Werkstudent (m/w/d) Auftragsmanagement und Finanzen Kategorien: Buchhaltung Einsatzorte: Möhrendorf Unternehmen: imbus AG Zielgruppen: Studenten",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/185/werkstudent-mwd-auftragsmanagement-und-finanzen"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Senior Softwarearchitekt Testautomatisierung (m/w/d) Kategorien: Testdienstleistung Einsatzorte: München Unternehmen: imbus AG Zielgruppen: Berufserfa",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/181/senior-softwarearchitekt-testautomatisierung-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Test Automation Engineer (m/w/d) Kategorien: Testdienstleistung Einsatzorte: München Unternehmen: imbus AG Zielgruppen: Berufserfahrene",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/184/test-automation-engineer-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Senior Test Automation Engineer (m/w/d) Kategorien: Testdienstleistung Einsatzorte: Hofheim Unternehmen: imbus Rhein-Main GmbH Zielgruppen: Berufserfa",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/183/senior-test-automation-engineer-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Ausbildung zum Fachinformatiker für Anwendungsentwicklung (m/w/d) Kategorien: Entwicklung Testdienstleistung Einsatzorte: Köln Unternehmen: imbus Rhei",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/178/ausbildung-zum-fachinformatiker-fur-anwendungsentwicklung-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Senior Test Automation Engineer (m/w/d) Kategorien: Testdienstleistung Einsatzorte: Möhrendorf Unternehmen: imbus AG Zielgruppen: Berufserfahrene",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/182/senior-test-automation-engineer-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Personalsachbearbeiter / HR Administrator (m/w/d) Kategorien: Personalabteilung Einsatzorte: Möhrendorf Unternehmen: imbus AG Zielgruppen: Berufserfah",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/179/personalsachbearbeiter-hr-administrator-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "imbus AG",
+   "title": "Senior Softwarearchitekt Testautomatisierung (m/w/d) Kategorien: Testdienstleistung Einsatzorte: Hofheim Unternehmen: imbus Rhein-Main GmbH Zielgruppe",
+   "url": "https://imbus.dvinci-hr.com/de/jobs/180/senior-softwarearchitekt-testautomatisierung-mwd"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Werkstunden oder Praktikant (m/w/d) Recruiting (Sales & Vertrieb) in 60486 Frankfurt Sales & Vertrieb 60486 Frankfurt Homeoffice möglich Neu Sofortige",
+   "url": "https://jobs.de.dis-ag.com/werkstunden-oder-praktikant-m-w-d-recruiting"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Anwendungstechniker / Prozesstechniker Lackiertechnik (m/w/d) (Produktion & Fertigung) in 50374 Erftstadt Produktion & Fertigung 21,00 - 24,00 EUR / S",
+   "url": "https://jobs.de.dis-ag.com/anwendungstechniker-prozesstechniker-lackiertechnik-m-w-d"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Qualitätsprüfer Elektrotechnik (m/w/d) (Produktion & Fertigung) in 50374 Erftstadt Produktion & Fertigung 21,00 - 24,00 EUR / Monat 50374 Erftstadt Ne",
+   "url": "https://jobs.de.dis-ag.com/qualitaetspruefer-elektrotechnik-m-w-d"
+  },
+  {
+   "at": "2026-10-30T13:24:52+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/werkstunden-oder-praktikant-m-w-d-recruiting/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T13:11:14+00:00",
+ "last_run": "2026-10-30T13:26:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
