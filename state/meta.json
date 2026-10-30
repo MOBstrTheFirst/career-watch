@@ -1,28 +1,7 @@
 {
- "alerts": 403,
+ "alerts": 407,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer (m/w/d) für verschiedene Bereiche Hamburg",
-   "url": "https://www.tempton.de/jobs/helfer-verschiedene-bereiche"
-  },
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer Gebäudetechnik (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/helfer-gebaeudetechnik"
-  },
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer Verpackung (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/helfer-verpackung-25"
-  },
   {
    "at": "2026-10-30T12:39:47+00:00",
    "kind": "new",
@@ -3501,12 +3480,33 @@
    "site": "Magna – Veitsbronn",
    "title": "Material Analyst",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Northwood-Ohio-US/Material-Analyst_R00267660?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T18:55:59+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Design Quality Professional (m/w/d), befristet bis 31.03.2029",
+   "url": "https://karriere.fresenius.de/job-detail/1d335ac7-6fa3-506c-bf02-fb4606831a64/design-quality-professional-m-w-d-befristet-bis-31-03-2029"
+  },
+  {
+   "at": "2026-10-30T18:54:53+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Upgrade Install and Relocation Engineer 2 (05) Austin, US Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-2-05-j00353927"
+  },
+  {
+   "at": "2026-10-30T18:54:53+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Sr. Controls and Automation Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Sr-Controls-and-Automation-Engineer_R00268216?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T18:40:54+00:00",
+ "last_run": "2026-10-30T18:56:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
