@@ -1,35 +1,7 @@
 {
- "alerts": 407,
+ "alerts": 409,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Heizungsmonteur (m/w/d) Hamburg",
-   "url": "https://www.tempton.de/jobs/heizungsmonteur-5"
-  },
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Gabelstaplerfahrer (m/w/d) Hörstel",
-   "url": "https://www.tempton.de/jobs/gabelstaplerfahrer-820"
-  },
-  {
-   "at": "2026-10-30T12:39:47+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Reingungshelfer (m/w/d) ab 15,50€ Ratingen",
-   "url": "https://www.tempton.de/jobs/reingungshelfer-15-50-euro"
-  },
-  {
-   "at": "2026-10-30T12:40:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Sachbearbeiter für den öffentlichen Dienst - Bereich Asyl (m/w/d) 76139 Karlsruhe, Baden 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z23UjV8-sachbearbeiter-fuer-den-oeffentlichen-dienst-bereich-asyl-mwd_76139-karlsruhe-baden"
-  },
   {
    "at": "2026-10-30T12:40:18+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "Magna – Veitsbronn",
    "title": "Sr. Controls and Automation Engineer",
    "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Sr-Controls-and-Automation-Engineer_R00268216?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T19:10:57+00:00",
+   "kind": "text",
+   "site": "Persystems GmbH",
+   "title": "4 new text line(s), e.g. Inverter Muon – 6 kW Dauerleistung, ab 108 g, entwickelt und gefertigt in Regensburg",
+   "url": "https://www.persystems.com"
+  },
+  {
+   "at": "2026-10-30T19:09:57+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "HSE/ Plant Training Coordinator",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Spartanburg-South-Carolina-US/HSE--Plant-Training-Coordinator_R00268311?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T19:09:57+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Production-Supervisor_R00268293?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T19:09:57+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Piedmont-South-Carolina-US/Production-Supervisor_R00268291?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T18:56:17+00:00",
+ "last_run": "2026-10-30T19:11:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
