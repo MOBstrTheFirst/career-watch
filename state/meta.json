@@ -1,5 +1,5 @@
 {
- "alerts": 38,
+ "alerts": 41,
  "commands_set": true,
  "events": [
   {
@@ -778,12 +778,33 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "SR.ENGINEER",
    "url": "https://careers.motherson.com/en/job/srengineer-7417"
+  },
+  {
+   "at": "2026-10-30T06:55:37+00:00",
+   "kind": "new",
+   "site": "DATEV – Nürnberg",
+   "title": "Specialist UX-Research (m/w/d) (befr. 2 Jahre)",
+   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Specialist-UX-Research--m-w-d---befr-2-Jahre-_ID15678-1"
+  },
+  {
+   "at": "2026-10-30T06:54:51+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Werkstudent Marketing (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Erlangen-Werkstudent-Marketing-%28mwd%29/1452768733"
+  },
+  {
+   "at": "2026-10-30T06:55:12+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Assistenz (m/w/d) der kaufmännischen Leitung Fertigteilwerk Gera/Linthe",
+   "url": "https://jobportal.max-boegl.de/Assistenz-mwd-der-kaufmaennischen-Leitung-Fertigteilwerk-G-de-j2349.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T06:40:58+00:00",
+ "last_run": "2026-10-30T06:55:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
