@@ -1,217 +1,7 @@
 {
- "alerts": 337,
+ "alerts": 341,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T10:25:05+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Servicetechniker (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3128"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "KSB – Pegnitz",
-   "title": "Servicemonteur (m/w/d) für Wartung und Instandsetzung",
-   "url": "https://ksb.wd3.myworkdayjobs.com/de-DE/KSB_ExternalCareerSite/job/Heide/Servicemonteur--m-w-d--fr-Wartung-und-Instandsetzung_JR_31052-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Industriemechaniker (m/w/d) bei RHEINMETALL (Logistik & Transport) in 29345 Unterlüß Logistik & Transport 29345 Unterlüß Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/industriemechaniker-m-w-d-bei-rheinmetall"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Werkzeugmechaniker / Industriemechaniker (m/w/d) Instandhaltung (Technik & Instandhaltung) in 63477 Maintal Technik & Instandhaltung 63477 Maintal Neu",
-   "url": "https://jobs.de.dis-ag.com/werkzeugmechaniker-industriemechaniker-m-w-d-instandhaltung"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Leiter Finanzen & Rechnungswesen (m/w/d) (Rechnungswesen & Finanzen) in 08412 Werdau Rechnungswesen & Finanzen 08412 Werdau Neu",
-   "url": "https://jobs.de.dis-ag.com/leiter-finanzen-und-rechnungswesen-m-w-d"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Teamorganisation (m/w/d) (Büroverwaltung) in 01069 Dresden Büroverwaltung 01069 Dresden Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-teamorganisation-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter in der Medienbranche (m/w/d) (Rechnungswesen & Finanzen) in 51063 Köln Rechnungswesen & Finanzen 51063 Köln Homeoffice möglich Neu So",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-in-der-medienbranche-m-w-d"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Standorte: Unterlüß",
-   "url": "https://jobs.de.dis-ag.com/suche/in-unterluess"
-  },
-  {
-   "at": "2026-10-30T10:24:49+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/industriemechaniker-m-w-d-bei-rheinmetall/bewerben"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Ausbildung zum Biologielaboranten (m/w/d) 2027",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Ausbildung-zum-Biologielaboranten--m-w-d--2027_R0253253?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "possible",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Lead Engineer / Technical Lead Energietechnik (m/w/d)",
-   "url": "https://excellence.ag/jobs"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "DEBUG OPERATOR",
-   "url": "https://jobs.sanmina.com/jobs/18426239-debug-operator"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Program Manager 2",
-   "url": "https://jobs.sanmina.com/jobs/18426223-program-manager-2"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Business Development Manager - Southeast",
-   "url": "https://jobs.sanmina.com/jobs/18425701-business-development-manager-southeast"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Business Development Manager - Southeast",
-   "url": "https://jobs.sanmina.com/jobs/18425935-business-development-manager-southeast"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Business Development Manager - Southeast",
-   "url": "https://jobs.sanmina.com/jobs/18425934-business-development-manager-southeast"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Test Technician 2 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18425740-test-technician-2-r"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Failure Analysis Technician (N)",
-   "url": "https://jobs.sanmina.com/jobs/18425700-failure-analysis-technician-n"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Quality Technician",
-   "url": "https://jobs.sanmina.com/jobs/18425457-quality-technician"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "PCB Business Development Manager",
-   "url": "https://jobs.sanmina.com/jobs/18355267-pcb-business-development-manager"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Information Systems Technician 3 (R)",
-   "url": "https://jobs.sanmina.com/jobs/18423322-information-systems-technician-3-r"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Sanmina – Gunzenhausen",
-   "title": "Director of Procurement",
-   "url": "https://jobs.sanmina.com/jobs/18328865-director-of-procurement"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Afag Automation",
-   "title": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012045?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012045?location=Germany&locationLevel=country&sortBy=POSTING_DATES_DESC"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Oberarzt Rhythmologie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/749abd0c-5d83-5f77-bd17-077a6669158c/oberarzt-rhythmologie-m-w-d"
-  },
-  {
-   "at": "2026-10-30T10:40:42+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Oberarzt Diabetologie/Endokrinologie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/ecedb7dc-0998-5f7b-a837-e67c92b89e10/oberarzt-diabetologie-endokrinologie-m-w-d"
-  },
-  {
-   "at": "2026-10-30T10:39:46+00:00",
-   "kind": "new",
-   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
-   "title": "Commercial Project Manager / Kaufmännischer Projektleiter – Finance & Controlling (w/m/d)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Immenstaad-am-Bodensee/Commercial-Project-Manager---Kaufmnnischer-Projektleiter---Finance---Controlling--w-m-d--_JR10452926-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:39:46+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Produktionshelfer (m/w/d) Freiberg",
-   "url": "https://www.tempton.de/jobs/produktionshelfer-457"
-  },
-  {
-   "at": "2026-10-30T10:40:06+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Validierungsingenieur (ADAS) Fahrerassistenzsysteme (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3096"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "TTTech Auto Germany",
-   "title": "Digital Validation Engineer",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Noida/Digital-Validation-Engineer_R-10066031?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199301 Praktikant Digitalisierung und Prozessoptimierung Nichtserienmaterial (w/m/x) Veröffentlicht: 30.10.2026 Physische Logistik Landshut Neu Physis",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199301.html"
-  },
   {
    "at": "2026-10-30T10:40:13+00:00",
    "kind": "new",
@@ -3501,12 +3291,222 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/montagetechniker-m-w-d/bewerben"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißfacharbeiter (m/w/d) MAG",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019U5NxQAK"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Metallfacharbeiter (m/w/d) Schweißarbeiten",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TV4OQAW"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) mit Umzugsbereitschaft",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019T0a2QAC"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "MAG-Schweißer (m/w/d) für Baugruppen",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019Tn2sQAC"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) im Fahrzeugbau",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TuNkQAK"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Stahlbauschweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019Tr1eQAC"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Metallbauer (m/w/d) – MAG-Schweißen",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TysjQAC"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Konstruktionsmechaniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TRySQAW"
+  },
+  {
+   "at": "2026-10-30T14:55:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TdLGQA0"
+  },
+  {
+   "at": "2026-10-30T14:54:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Senior HRIS Analyst / Workday Specialist (m/w/d) Berlin",
+   "url": "https://www.tempton.de/jobs/senior-hris-analyst-workday-specialist"
+  },
+  {
+   "at": "2026-10-30T14:54:48+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Kaufmann - Büromanagement (m/w/d) Bernburg",
+   "url": "https://www.tempton.de/jobs/kaufmann-bueromanagement-62"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Montierer (m/w/d) 92442 Wackersdorf 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1Wkiea-montierer-mwd_92442-wackersdorf"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) Maschinenbau 92421 Schwandorf, Bayern 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2omBGM-monteur-mwd-maschinenbau_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 92442 Wackersdorf 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZLsDCQ-maschinenbediener-mwd_92442-wackersdorf"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker Mechanik (m/w/d) 92421 Schwandorf, Bayern 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QhwEH-servicetechniker-mechanik-mwd_92421-schwandorf-bayern"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Linientechniker (m/w/d) Instandhaltung 40589 Düsseldorf 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZemyGV-linientechniker-mwd-instandhaltung_40589-duesseldorf"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) Metall 92709 Moosbach bei Vohenstrauß 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2o9sOF-produktionsmitarbeiter-mwd-metall_92709-moosbach-bei-vohenstrauss"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektrotechniker (m/w/d) 92637 Weiden in der Oberpfalz 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1dJ51N-elektrotechniker-mwd_92637-weiden-in-der-oberpfalz"
+  },
+  {
+   "at": "2026-10-30T14:54:59+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Schaltschrankverdrahter Elektroindustrie (m/w/d) 92648 Vohenstrauß 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/TOY9F-schaltschrankverdrahter-elektroindustrie-mwd_92648-vohenstrauss"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Rechtsanwaltsfachangestellter (m/w/d) - hybrides Arbeiten (Recht & Steuern) in 45326 Essen Recht & Steuern 45326 Essen Homeoffice möglich Neu Sofortig",
+   "url": "https://jobs.de.dis-ag.com/rechtsanwaltsfachangestellter-m-w-d-hybrides-arbeiten"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 76131 Karlsruhe Büroverwaltung 76131 Karlsruhe Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-70"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "HR Assistenz (m/w/d) (HR & Personalwesen) in 55543 Bad Kreuznach HR & Personalwesen 55543 Bad Kreuznach Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/hr-assistenz-m-w-d-12"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Speditionskaufmann (m/w/d) - hybrides Arbeiten (Logistik & Transport) in 47051 Duisburg Logistik & Transport 47051 Duisburg Homeoffice möglich Neu Sof",
+   "url": "https://jobs.de.dis-ag.com/speditionskaufmann-m-w-d-hybrides-arbeiten-16"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Speditionskaufmann (m/w/d) - hybrides Arbeiten (Logistik & Transport) in 45770 Marl Logistik & Transport 45770 Marl Homeoffice möglich Neu Sofortiger ",
+   "url": "https://jobs.de.dis-ag.com/speditionskaufmann-m-w-d-hybrides-arbeiten-15"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) - hybrides Arbeiten (Einkauf & Supply Chain) in 44625 Herne Einkauf & Supply Chain 44625 Herne Homeoffice möglich Neu Sof",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-hybrides-arbeiten-16"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Auftragsabwicklung (m/w/d) - hybrides Arbeiten (Sales & Vertrieb) in 45468 Mülheim an der Ruhr Sales & Vertrieb 45468 Mülheim an der Ru",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-auftragsabwicklung-m-w-d-hybrides-arbeiten"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter Vertriebsinnendienst (m/w/d) - hybrides Arbeiten (Sales & Vertrieb) in 46238 Botrop Sales & Vertrieb 46238 Botrop Homeoffice möglich Neu S",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-vertriebsinnendienst-m-w-d-hybrides-arbeiten-6"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Operativer Einkäufer (m/w/d) - hybrides Arbeiten (Einkauf & Supply Chain) in 45470 Mülheim an der Ruhr Einkauf & Supply Chain 45470 Mülheim an der Ruh",
+   "url": "https://jobs.de.dis-ag.com/operativer-einkaeufer-m-w-d-hybrides-arbeiten-15"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalreferent Recruiting (m/w/d) - hybrides Arbeiten (HR & Personalwesen) in 45657 Recklinghausen HR & Personalwesen 45657 Recklinghausen Homeoffic",
+   "url": "https://jobs.de.dis-ag.com/personalreferent-recruiting-m-w-d-hybrides-arbeiten"
+  },
+  {
+   "at": "2026-10-30T14:55:08+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/rechtsanwaltsfachangestellter-m-w-d-hybrides-arbeiten/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T14:41:15+00:00",
+ "last_run": "2026-10-30T14:56:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
