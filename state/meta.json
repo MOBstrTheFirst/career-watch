@@ -1,5 +1,5 @@
 {
- "alerts": 34,
+ "alerts": 38,
  "commands_set": true,
  "events": [
   {
@@ -743,12 +743,47 @@
    "site": "Dr. Schneider Unternehmensgruppe",
    "title": "Plant Packaging Technician",
    "url": "https://careers.motherson.com/en/job/plant-packaging-technician-1793339303517"
+  },
+  {
+   "at": "2026-10-30T06:40:18+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS - Application Engineer - Linkou Linkou, Taiwan Applications Engineering",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-application-engineer-linkou-j00355117"
+  },
+  {
+   "at": "2026-10-30T06:40:18+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Produktionsmitarbeiter (m/w/d) im 3-Schichtbetrieb",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Klagenfurt-Am-Woerthersee-AT/Produktionsmitarbeiter--m-w-d--im-3-Schichtbetrieb_R00267780?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T06:40:18+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Assistenz (m/w/d) der Kaufmännischen Leitung Fertigteilwerk Gera/Linthe",
+   "url": "https://jobportal.max-boegl.de/Assistenz-mwd-der-Kaufmaennischen-Leitung-Fertigteilwerk-G-de-j2349.html"
+  },
+  {
+   "at": "2026-10-30T06:40:18+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Assistenz (m/w/d) der Werkleitung Linthe",
+   "url": "https://jobportal.max-boegl.de/Assistenz-mwd-der-Werkleitung-Linthe-de-j2350.html"
+  },
+  {
+   "at": "2026-10-30T06:40:18+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "SR.ENGINEER",
+   "url": "https://careers.motherson.com/en/job/srengineer-7417"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T06:26:10+00:00",
+ "last_run": "2026-10-30T06:40:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
