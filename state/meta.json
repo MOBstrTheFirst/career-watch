@@ -1,35 +1,7 @@
 {
- "alerts": 385,
+ "alerts": 387,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Fachkraft (m/w/d) für Lagerlogistik 29.10.2026 Einkauf/Logistik/Materialwirtschaft Röthenbach a.d. Pegnitz",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/fachkraft-m-w-d-fuer-lagerlogistik8"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Controls Stażysta ds. Procesów i Standardów (k/m/n) 29.10.2026 Sonstige Namyslow",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/stazysta-ds-procesow-i-standardow-k-m-n"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Defence Projektleiter (m/w/d) Trägerfahrzeuge für Luftverteidigungssysteme 29.10.2026 Vertrieb/Kundenservice Überlingen am Bodensee",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/projektleiter-m-w-d-traegerfahrzeuge-fuer-luftverteidigungssysteme"
-  },
-  {
-   "at": "2026-10-30T12:25:04+00:00",
-   "kind": "new",
-   "site": "Diehl Defence (+5 more)",
-   "title": "Diehl Aviation Qualitätsprüfer (m/w/d) mechanische Fertigung 28.10.2026 Produktion Dresden",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/qualitaetspruefer-m-w-d-mechanische-fertigung2"
-  },
   {
    "at": "2026-10-30T12:25:04+00:00",
    "kind": "new",
@@ -3501,12 +3473,40 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/technischer-sachbearbeiter-m-w-d-materialstammdaten-und-ersatzteilmanagement/bewerben"
+  },
+  {
+   "at": "2026-10-30T16:56:12+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Data Domain Lead Corporate Functions (m/f/d)",
+   "url": "https://karriere.fresenius.de/job-detail/34869197-dc86-510e-a424-333b172e30bc/data-domain-lead-corporate-functions-m-f-d"
+  },
+  {
+   "at": "2026-10-30T16:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kfz-Mechatroniker (m/w/d) (Technik & Instandhaltung) in 63128 Dietzenbach Technik & Instandhaltung 63128 Dietzenbach Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/kfz-mechatroniker-m-w-d-28"
+  },
+  {
+   "at": "2026-10-30T16:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Dietzenbach",
+   "url": "https://jobs.de.dis-ag.com/suche/in-dietzenbach"
+  },
+  {
+   "at": "2026-10-30T16:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/kfz-mechatroniker-m-w-d-28/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T16:40:50+00:00",
+ "last_run": "2026-10-30T16:56:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
