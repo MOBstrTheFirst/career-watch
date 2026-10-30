@@ -1,266 +1,7 @@
 {
- "alerts": 341,
+ "alerts": 349,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199300 Praktikant Probandenstudien in der Fahrsimulation (w/m/x) Veröffentlicht: 30.10.2026 Forschung / Vorentwicklung München Neu Forschung / Vorentw",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199300.html"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199280 Praktikant Logistikprozesse Behältermanagement (w/m/x) Veröffentlicht: 30.10.2026 Supply Chain Management Dingolfing Neu Supply Chain Managemen",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199280.html"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199274 Werkstudent Aufbau- und Verbindungstechnik für Leistungselektronik (w/m/x) Veröffentlicht: 30.10.2026 Antrieb München Neu Antrieb München Münch",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199274.html"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "KSB – Pegnitz",
-   "title": "Servicemonteur (m/w/d) für Wartung und Instandsetzung",
-   "url": "https://ksb.wd3.myworkdayjobs.com/de-DE/KSB_ExternalCareerSite/job/Dresden/Servicemonteur--m-w-d--fr-Wartung-und-Instandsetzung_JR_31150-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "KSB – Pegnitz",
-   "title": "Servicemonteur (m/w/d)",
-   "url": "https://ksb.wd3.myworkdayjobs.com/de-DE/KSB_ExternalCareerSite/job/Hemmingstedt/Servicemonteur--m-w-d-_JR_30888-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Junior HR Generalist (m/w/d) mit Englischkenntnissen (HR & Personalwesen) in 65205 Wiesbaden HR & Personalwesen 65205 Wiesbaden Homeoffice möglich Neu",
-   "url": "https://jobs.de.dis-ag.com/junior-hr-generalist-m-w-d-mit-englischkenntnissen"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Lagermitarbeiter (m/w/d) (Logistik & Transport) in 91207 Lauf an der Pegnitz Logistik & Transport 91207 Lauf an der Pegnitz Neu",
-   "url": "https://jobs.de.dis-ag.com/lagermitarbeiter-m-w-d-40"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) südlich der Elbe (Rechnungswesen & Finanzen) in 21129 Hamburg Rechnungswesen & Finanzen 21129 Hamburg Homeoffice möglich Neu ",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-suedlich-der-elbe"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "CNC Zerspanungsmechaniker (m/w/d) (Technik & Instandhaltung) in 10553 Berlin Technik & Instandhaltung 10553 Berlin Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/cnc-zerspanungsmechaniker-m-w-d-6"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Logistik und Disposition (m/w/d) (Logistik & Transport) in 38667 Bad Harzburg Logistik & Transport 38667 Bad Harzburg Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-logistik-und-disposition-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Personalsachbearbeiter mit Schwerpunkt Entgeltabrechnung (m/w/d) (Rechnungswesen & Finanzen) in 50939 Köln Rechnungswesen & Finanzen 50939 Köln Homeof",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-mit-schwerpunkt-entgeltabrechnung-m-w-d-1"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker CNC m/w/d ab 22,00 € pro Stunde verhandelbar (Technik & Instandhaltung) in 10553 Berlin Technik & Instandhaltung 10553 Berlin Ne",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-cnc-m-w-d-ab-2200-eur-pro-stunde-verhandelbar"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Finanzcontrolling (m/w/d) (Rechnungswesen & Finanzen) in 38667 Bad Harzburg Rechnungswesen & Finanzen 38667 Bad Harzburg Neu Sofortiger St",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-finanzcontrolling-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "HR - Generalist (m/w/d) (HR & Personalwesen) in 75172 Pforzheim HR & Personalwesen 75172 Pforzheim Homeoffice möglich Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/hr-generalist-m-w-d-84"
-  },
-  {
-   "at": "2026-10-30T10:40:13+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/junior-hr-generalist-m-w-d-mit-englischkenntnissen/bewerben"
-  },
-  {
-   "at": "2026-10-30T10:55:49+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) Digitalization & Data-Driven Business Applications",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520807"
-  },
-  {
-   "at": "2026-10-30T10:55:49+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F520807"
-  },
-  {
-   "at": "2026-10-30T10:55:49+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Ausbildung zum Kunststoff- und Kautschuktechnologen (m/w/d) 2027",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Ausbildung-zum-Kunststoff--und-Kautschuktechnologen--m-w-d--2027_R0253116?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T10:55:49+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Technischer Dokumentenmanager Stromnetze (m/w/d) Bayreuth Seit 30. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-109655/Technischer%20Dokumentenmanager%20Stromnetze%20(m%2Fw%2Fd)/Bayreuth"
-  },
-  {
-   "at": "2026-10-30T10:55:49+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Maschinenbediener (m/w/d) ab 22,66 €/h gesucht!",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000019IdroQAC"
-  },
-  {
-   "at": "2026-10-30T10:55:09+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Software test engineer - motion control Veldhoven, Netherlands Design Engineering and Architecture",
-   "url": "https://www.asml.com/en/careers/find-your-job/software-test-engineer-motion-control-j00351580"
-  },
-  {
-   "at": "2026-10-30T10:55:09+00:00",
-   "kind": "new",
-   "site": "Max Bögl",
-   "title": "Ressourcenplaner (m/w/d) Bereich Voranlieferung Windkraft",
-   "url": "https://jobportal.max-boegl.de/Ressourcenplaner-mwd-Bereich-Voranlieferung-Windkraft-de-j2374.html"
-  },
-  {
-   "at": "2026-10-30T10:55:09+00:00",
-   "kind": "new",
-   "site": "de engineering – Bayreuth",
-   "title": "Ingenieur Projektmanagement Automotive (m/w/d)",
-   "url": "https://deengineering.hr4you.org/job/view/3099"
-  },
-  {
-   "at": "2026-10-30T10:55:09+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener Verpackungsanlagen (m/w/d) 06785 Oranienbaum-Wörlitz 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Qwdx5-maschinenbediener-verpackungsanlagen-mwd_06785-oranienbaum-woerlitz"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "TenneT TSO",
-   "title": "Referent Reporting & Datenqualität in der Netzführung (m/w/d)",
-   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4940392&jobId=118858"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "Schmitt + Sohn Aufzüge",
-   "title": "Servicetechniker (m/w/d) für Aufzugsanlagen in Chemnitz",
-   "url": "https://karriere.schmitt-aufzuege.de/stellenangebote/detail/servicetechniker-mwd-fuer-aufzugsanlagen-in-chemnitz-1536"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Hauptbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 50672 Köln Rechnungswesen & Finanzen 50672 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/hauptbuchhalter-m-w-d-81"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Bilanzbuchhalter (m/w/d) Hamburg-City (Rechnungswesen & Finanzen) in 20099 Hamburg Rechnungswesen & Finanzen 20099 Hamburg Homeoffice möglich Neu Sofo",
-   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-hamburg-city"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Einkaufssachbearbeiter (m/w/d) (Logistik & Transport) in 76530 Baden-Baden Logistik & Transport 76530 Baden-Baden Homeoffice möglich Neu Sofortiger St",
-   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-91"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Handwerker (m/w/d) in der Rüstungsbranche (Produktion & Fertigung) in 53227 Bonn Produktion & Fertigung 53227 Bonn Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/handwerker-m-w-d-in-der-ruestungsbranche"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mechatroniker (m/w/d ) Industriemaschinen Lauf a.d.Pegnitz (Produktion & Fertigung) in 91207 Lauf an der Pegnitz Produktion & Fertigung 91207 Lauf an ",
-   "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-industriemaschinen-lauf-a-d-pegnitz"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Projektassistenz (m/w/d) (Büroverwaltung) in 01099 Dresden Büroverwaltung 01099 Dresden Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/projektassistenz-m-w-d-21"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Budget- und Reporting Manager (m/w/d) (Rechnungswesen & Finanzen) in 04720 Döbeln Rechnungswesen & Finanzen 04720 Döbeln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/budget-und-reporting-manager-m-w-d-2"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "International Accounting (m/w/d) (Rechnungswesen & Finanzen) in 77756 Hausach Rechnungswesen & Finanzen 60.000,00 - 65.000,00 EUR / Jahr 77756 Hausach",
-   "url": "https://jobs.de.dis-ag.com/international-accounting-m-w-d"
-  },
-  {
-   "at": "2026-10-30T10:54:52+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/hauptbuchhalter-m-w-d-81/bewerben"
-  },
-  {
-   "at": "2026-10-30T11:10:42+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Ingenieur (w/m/d) für Niederspannungsschaltanlagen",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516938"
-  },
-  {
-   "at": "2026-10-30T11:10:42+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F516938"
-  },
   {
    "at": "2026-10-30T11:10:42+00:00",
    "kind": "new",
@@ -3501,12 +3242,271 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/rechtsanwaltsfachangestellter-m-w-d-hybrides-arbeiten/bewerben"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "possible",
+   "site": "Audi AG",
+   "title": "Interne Promotion - KI-gestützte Lichtsysteme - befristet",
+   "url": "https://careers.audi.com/"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer / Metallbauer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TNy8QAG"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "MAG-Schweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019U3naQAC"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d) Stahl- und Anlagenbau",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019UASTQA4"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Schweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019Tva4QAC"
+  },
+  {
+   "at": "2026-10-30T15:10:44+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Internationaler Schweißer (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019U71ZQAS"
+  },
+  {
+   "at": "2026-10-30T15:09:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 IT-Administrator (m/w/d) Bernburg",
+   "url": "https://www.tempton.de/jobs/it-administrator-46"
+  },
+  {
+   "at": "2026-10-30T15:09:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Sachbearbeiter (m/w/d) Personalabteilung Berlin",
+   "url": "https://www.tempton.de/jobs/sachbearbeiter-personalabteilung"
+  },
+  {
+   "at": "2026-10-30T15:09:51+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Lokrangierführer (m/w/d) Wegberg",
+   "url": "https://www.tempton.de/jobs/lokrangierfuehrer-1"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 96114 Hirschaid 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2atGrE-mechatroniker-mwd_96114-hirschaid"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fluggerätemechaniker (m/w/d), zur Direktvermittlung 90411 Nürnberg, Mittelfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1ST0ym-fluggeraetemechaniker-mwd-zur-direktvermittlung_90411-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) Sondermaschinenbau zur Direktvermittlung 91058 Erlangen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/19p8SL-mechatroniker-mwd-sondermaschinenbau-zur-direktvermittlung_91058-erlangen"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Asset Manager (m/w/d) zur Direktvermittlung 91058 Erlangen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Bk3PK-asset-manager-mwd-zur-direktvermittlung_91058-erlangen"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Bilanzbuchhalter (m/w/d) mit Teamverantwortung – Raum Forchheim 91301 Forchheim, Oberfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1nS3sB-bilanzbuchhalter-mwd-mit-teamverantwortung-raum-forchheim_91301-forchheim-oberfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Konzernbuchhalter / Group Accountant (m/w/d) zur Direktvermittlung 90491 Nürnberg, Mittelfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/PMXqw-konzernbuchhalter-group-accountant-mwd-zur-direktvermittlung_90491-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Immobilienkaufmann / Technische Immobilienverwaltung (m/w/d) zur Direktvermittlung 90419 Nürnberg, Mittelfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/HaWRX-immobilienkaufmann-technische-immobilienverwaltung-mwd-zur-direktvermittlung_90419-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Softwareentwickler (m/w/d) Sondermaschinenbau zur Direktvermittlung, Region Nürnberg/Erlangen 91058 Erlangen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/6j6JE-softwareentwickler-mwd-sondermaschinenbau-zur-direktvermittlung-region-nuernbergerlangen_91058-erlangen"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Kempten 87437 Kempten (Allgäu) 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZqKXhJ-servicetechniker-mwd-zur-direktvermittlung-kempten_87437-kempten-allgaeu"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Technischer Objektmanager (m/w/d) zur Direktvermittlung 90461 Nürnberg, Mittelfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/kM1kJ-technischer-objektmanager-mwd-zur-direktvermittlung_90461-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Servicetechniker (m/w/d) zur Direktvermittlung, Karlsruhe 76135 Karlsruhe, Baden 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zci3I7-servicetechniker-mwd-zur-direktvermittlung-karlsruhe_76135-karlsruhe-baden"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Buchhaltung (m/w/d) zur Direktvermittlung 90411 Nürnberg, Mittelfranken 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2iSMM-sachbearbeiter-buchhaltung-mwd-zur-direktvermittlung_90411-nuernberg-mittelfranken"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Elektriker (m/w/d) zur Direktvermittlung 91710 Gunzenhausen am Altmühlsee 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZVLUnA-elektriker-mwd-zur-direktvermittlung_91710-gunzenhausen-am-altmuehlsee"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Staplerfahrer (m/w/d) Premium Automobilhersteller 72770 Reutlingen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2pTrdc-staplerfahrer-mwd-premium-automobilhersteller_72770-reutlingen"
+  },
+  {
+   "at": "2026-10-30T15:10:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "LKW Fahrer (m/w/d) Innerbetrieblicher Transport 78727 Oberndorf am Neckar 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1oou0k-lkw-fahrer-mwd-innerbetrieblicher-transport_78727-oberndorf-am-neckar"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Systemingenieur (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/505350/systemingenieur-(all-gender)"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Projektleiter (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/505382/projektleiter-(all-gender)"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "OSB AG",
+   "title": "Logistikspezialist (all gender)",
+   "url": "https://www.alten-consulting.de/karriere/stelle/505385/logistikspezialist-(all-gender)"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Teamassistenz (m/w/d) (Büroverwaltung) in 76280 Rheinstetten Büroverwaltung 76280 Rheinstetten Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-137"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Coordinator Customer Service & Technical Support (m/w/d) (Produktion & Fertigung) in 64859 Eppertshausen Produktion & Fertigung 64859 Eppertshausen Ne",
+   "url": "https://jobs.de.dis-ag.com/coordinator-customer-service-und-technical-support-m-w-d"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lackierer (m/w/d) bei RHEINMETALL- bis 23€/Stunde (Produktion & Fertigung) in 29345 Unterlüß Produktion & Fertigung 29345 Unterlüß Neu Sofortiger Star",
+   "url": "https://jobs.de.dis-ag.com/lackierer-m-w-d-bei-rheinmetall-bis-23eur-stunde"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Inside Sales Manager (m/w/d) (Sales & Vertrieb) in 76630 Bruchsal Sales & Vertrieb 76630 Bruchsal Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/inside-sales-manager-m-w-d-27"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mechatroniker (m/w/d) (Technik & Instandhaltung) in 40472 Ratingen Technik & Instandhaltung 40472 Ratingen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-m-w-d-52"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachwirt (m/w/d) (Rechnungswesen & Finanzen) in 09599 Region Mittelsachsen Rechnungswesen & Finanzen 09599 Region Mittelsachsen Homeoffice mögli",
+   "url": "https://jobs.de.dis-ag.com/steuerfachwirt-m-w-d-28"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter Lagerlogistik (m/w/d) - hybrides Arbeiten (Logistik & Transport) in 44625 Herne Logistik & Transport 44625 Herne Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-lagerlogistik-m-w-d-hybrides-arbeiten"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Logistikkoordinator (m/w/d) - hybrides Arbeiten (Logistik & Transport) in 46047 Oberhausen Logistik & Transport 46047 Oberhausen Homeoffice möglich Ne",
+   "url": "https://jobs.de.dis-ag.com/logistikkoordinator-m-w-d-hybrides-arbeiten"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Customer Service Representative (m/w/d) mit SAP und Englischkenntnissen (Sales & Vertrieb) in 60325 Frankfurt am Main Sales & Vertrieb 60325 Frankfurt",
+   "url": "https://jobs.de.dis-ag.com/customer-service-representative-m-w-d-mit-sap-und-englischkenntnissen"
+  },
+  {
+   "at": "2026-10-30T15:10:02+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-137/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T14:56:12+00:00",
+ "last_run": "2026-10-30T15:11:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
