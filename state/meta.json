@@ -1,154 +1,7 @@
 {
- "alerts": 299,
+ "alerts": 308,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/c625d21b-8f53-42ff-179f-08df35ff9e56"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/d072020b-5959-469f-17a0-08df35ff9e56"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/d010226c-e30e-4b78-75ae-08df35abfde6"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/8fa95d7c-edc4-4734-75af-08df35abfde6"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "Ramboll – Nürnberg",
-   "title": "Go to job",
-   "url": "https://www.ramboll.com/careers/18bd4217-7adb-4d82-75b0-08df35abfde6"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Zerspanungsmechaniker (m/w/d) für die CNC-Fertigung (Produktion & Fertigung) in 22145 Hamburg Produktion & Fertigung 22145 Hamburg Neu Sofortiger Star",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-fuer-die-cnc-fertigung"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Personalsachbearbeiter (m/w/d) Bewerbermanagement (HR & Personalwesen) in 74072 Heilbronn HR & Personalwesen 74072 Heilbronn Neu",
-   "url": "https://jobs.de.dis-ag.com/personalsachbearbeiter-m-w-d-bewerbermanagement"
-  },
-  {
-   "at": "2026-10-30T09:24:50+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-fuer-die-cnc-fertigung/bewerben"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Ausbildung zum Chemielaboranten (m/w/d) 2027",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/St-Wendel-Germany/Ausbildung-zum-Chemielaboranten--m-w-d--2027_R0253120?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "Fresenius Medical Care – Schweinfurt",
-   "title": "Engineering Project Manager (m/w/d)",
-   "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/de-DE/fme/job/Schweinfurt-Germany/Engineering-Project-Manager--m-w-d-_R0274343?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur chargé d'affaires outillages (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158699470-ingenieur-charge-d-affaires-outillages-h-f-"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Méthodes Industrielles (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158699009-ingenieur-methodes-industrielles-h-f-"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Kalkulator Infrastruktur (m/w/d) Berlin Seit 14. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-106723/Kalkulator%20Infrastruktur%20(m%2Fw%2Fd)/Berlin"
-  },
-  {
-   "at": "2026-10-30T09:40:47+00:00",
-   "kind": "new",
-   "site": "Excellence AG – GreenTech Engineering",
-   "title": "Abrechner Tief- und Gleisbau (m/w/d) Berlin Seit 14. Oktober 2026",
-   "url": "https://excellence.ag/jobs/VP-106725/Abrechner%20Tief-%20und%20Gleisbau%20(m%2Fw%2Fd)/Berlin"
-  },
-  {
-   "at": "2026-10-30T09:39:43+00:00",
-   "kind": "new",
-   "site": "dSPACE – Ingolstadt",
-   "title": "Linux Endpoint Administrator (m/w/d)",
-   "url": "https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38198&t=Linux+Endpoint+Administrator+%28m%2Fw%2Fd%29"
-  },
-  {
-   "at": "2026-10-30T09:39:43+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Senior Prozessingenieur Wafertest - Schwerpunkt Prober & Prüftechnik (w/m/div.)",
-   "url": "https://jobs.bosch.com/en/job/REF298175F-senior-prozessingenieur-wafertest-schwerpunkt-prober-prueftechnik-w-m-div"
-  },
-  {
-   "at": "2026-10-30T09:39:43+00:00",
-   "kind": "new",
-   "site": "Robert Bosch – Ansbach plant (+5 more)",
-   "title": "Praktikum Energie- und Gebäudetechnik",
-   "url": "https://jobs.bosch.com/en/job/REF299694M-praktikum-energie-und-gebaeudetechnik"
-  },
-  {
-   "at": "2026-10-30T09:39:43+00:00",
-   "kind": "new",
-   "site": "DB InfraGO (+2 more)",
-   "title": "Ausbildung Kaufmann für Spedition und Logistikdienstleistung 2027 (w/m/d) neu Nürnberg, Deutschland TRANSA Spedition GmbH Startdatum: 1. September 202",
-   "url": "https://db.jobs/de-de/Suche/Ausbildung-Kaufmann-fuer-Spedition-und-Logistikdienstleistung-202-13973718?jobId=628992"
-  },
-  {
-   "at": "2026-10-30T09:39:43+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 IT-Systemadministrator (m/w/d) Achim",
-   "url": "https://www.tempton.de/jobs/it-systemadministrator-57"
-  },
-  {
-   "at": "2026-10-30T09:40:17+00:00",
-   "kind": "new",
-   "site": "ASML – Erlangen",
-   "title": "New Field Technician Kaosiung, Taiwan Manufacturing",
-   "url": "https://www.asml.com/en/careers/find-your-job/field-technician-j00354487"
-  },
-  {
-   "at": "2026-10-30T09:40:17+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 07551 Gera 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z162cFF-lagermitarbeiter-mwd_07551-gera"
-  },
   {
    "at": "2026-10-30T09:40:17+00:00",
    "kind": "new",
@@ -3501,12 +3354,159 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/fachkraft-fuer-lagerlogistik-m-w-d-49/bewerben"
+  },
+  {
+   "at": "2026-10-30T13:55:05+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Software Development Engineer - Embedded Real-time SW (m/f/d)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Software-Development-Engineer---Embedded-Real-time-SW---m-f-d-_JR10434577-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:55:05+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "STAGE 2027 - ACS Intégrateur Électrique et Architecte Expérience Numérique (H/F)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/STAGE-2027---ACS-Intgrateur-lectrique-et-Architecte-Exprience-Numrique--H-F-_JR10444766?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:55:05+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Mechatroniker Schienenfahrzeuge (m/w/d) Wegberg",
+   "url": "https://www.tempton.de/jobs/mechatroniker-schienenfahrzeuge"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New System performance engineer Veldhoven, Netherlands Manufacturing",
+   "url": "https://www.asml.com/en/careers/find-your-job/system-performance-engineer-j00281913"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Production Supervisor",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Spring-Hill-Tennessee-US/Production-Supervisor_R00268187?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "BWI GmbH – Nürnberg",
+   "title": "Senior Solution Architekt - Application Migration (m/w/d) bundesweit",
+   "url": "https://www.bwi.de/karriere/stellenangebote/job/senior-solution-architekt-application-migration-m-w-d-71211"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Disponent (m/w/d) Transportlogistik Automotive 04356 Leipzig 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z29CzdM-disponent-mwd-transportlogistik-automotive_04356-leipzig"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemeister (m/w/d) 41065 Mönchengladbach 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2lKv5m-industriemeister-mwd_41065-moenchengladbach"
+  },
+  {
+   "at": "2026-10-30T13:55:04+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Sachbearbeiter Logistik (m/w/d) (m/w/d) 97980 Bad Mergentheim 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/27R3P6-sachbearbeiter-logistik-mwd-mwd_97980-bad-mergentheim"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/62dc9b3b-091e-46a1-dd59-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/d72b4afb-edba-446d-dd5a-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/c772f033-42df-4161-ddb9-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/9e4499e6-55e3-4c1a-de29-08df17a5b9ac"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/5bfbc81a-dbef-436c-d2b5-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/824a7c0f-8442-4bf6-d2b6-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "Ramboll – Nürnberg",
+   "title": "Go to job",
+   "url": "https://www.ramboll.com/careers/a3926a74-b416-4e91-d2b7-08df33dec2b6"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Manager Corporate Tax - Compliance & Reporting (m/w/d) (Rechnungswesen & Finanzen) in 40547 Düsseldorf Rechnungswesen & Finanzen 80.000,00 - 120.000,0",
+   "url": "https://jobs.de.dis-ag.com/manager-corporate-tax-compliance-und-reporting-m-w-d"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinenführer / Maschinenbediener (m/w/d) (Produktion & Fertigung) in 24220 Flintbek Produktion & Fertigung 24220 Flintbek Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/maschinenfuehrer-maschinenbediener-m-w-d"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "IT-Servicetechniker (m/w/d) (IT & Software) in 04207 Leipzig IT & Software 04207 Leipzig Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/it-servicetechniker-m-w-d-6"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Controller (m/w/d) (Rechnungswesen & Finanzen) in 75172 Pforzheim Rechnungswesen & Finanzen 75172 Pforzheim Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/controller-m-w-d-201"
+  },
+  {
+   "at": "2026-10-30T13:55:01+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/manager-corporate-tax-compliance-und-reporting-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T13:41:13+00:00",
+ "last_run": "2026-10-30T13:55:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
