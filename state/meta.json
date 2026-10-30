@@ -1,140 +1,7 @@
 {
- "alerts": 359,
+ "alerts": 365,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Psychologe (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/465f9946-6f1b-5de5-9be5-602b1f53b09a/psychologe-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Oberarzt Anästhesie/Intensivmedizin (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/a56d8ab3-e928-5f92-82b2-2538363a6c34/oberarzt-anaesthesie-intensivmedizin-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Oberarzt Pädiatrie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/9422b55e-8415-56f2-8155-c64300f809a9/oberarzt-paediatrie-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Pflegefachkraft für den Palliativbereich (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/371a798b-b62c-564e-a9df-a9fd08d04483/pflegefachkraft-fuer-den-palliativbereich-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:10:55+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Facharzt/Oberarzt Radiologie (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/2cb9b693-a346-5887-b70f-ce1f6c76dbd5/facharzt-oberarzt-radiologie-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:09:57+00:00",
-   "kind": "new",
-   "site": "SPIE Automation – Haßfurt / SPIE Deutschland – Nürnberg",
-   "title": "Technischer Objekt- und Kundenbetreuer Facility Management m/w/d | Öffentliche Verwaltung Berlin Als Technischer Objekt- und Kundenbetreuer Facility M",
-   "url": "https://spie.de/karriere/detail/Technischer-Objekt--und-Kundenbetreuer-Facility-Management-m-w-d--Öffentliche-Verwaltung-2026-2072"
-  },
-  {
-   "at": "2026-10-30T12:09:57+00:00",
-   "kind": "new",
-   "site": "SPIE Automation – Haßfurt / SPIE Deutschland – Nürnberg",
-   "title": "Anlagenmechaniker SHK m/w/d | Technisches Gebäudemanagement Berlin Als Anlagenmechaniker SHK, Gas- und Wasserinstallateur oder Heizungsmonteur verstär",
-   "url": "https://spie.de/karriere/detail/Anlagenmechaniker-SHK-m-w-d--Technisches-Gebäudemanagement-2026-2068"
-  },
-  {
-   "at": "2026-10-30T12:09:57+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Sachbearbeiter - Import/Export (m/w/d) ab 3.900 € Düsseldorf",
-   "url": "https://www.tempton.de/jobs/sachbearbeiter-import-export-3900-euro"
-  },
-  {
-   "at": "2026-10-30T12:09:57+00:00",
-   "kind": "new",
-   "site": "TEMPTON Technische Services",
-   "title": "30.10.2026 Helfer - Druck (m/w/d) Vechta",
-   "url": "https://www.tempton.de/jobs/helfer-druck-16"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Quality Manager for Development Projects",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/quality-manager-for-development-projects_251563-1710085.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Sr. Engineer : Engineering ,Project Management and Services (EPMS)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sr-engineer-engineering-project-management-and-services-epms_251563-1710084.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Quality Process Expert",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/quality-process-expert_251563-1710083.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent (m/w/d) für den Bereich Systemrealisierung",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-m-w-d-fuer-den-bereich-systemrealisierung_251563-1710082.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Werkstudent PMO & Assistant (m/w/d)",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-pmo-assistant-m-w-d_251563-1710081.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "title": "Systemintegrations- & Testingenieur (m/w/d) für Counter-UAS / Drohnenabwehrsysteme",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemintegrations-testingenieur-m-w-d-fuer-counter-uas-drohnenabwehrsysteme_251563-1710080.html"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "BWI GmbH – Nürnberg",
-   "title": "Lead Service Technician – Fertigung verlegefähiger Rechenzentren (m/w/d) in Aurich, Leer oder Schortens",
-   "url": "https://www.bwi.de/karriere/stellenangebote/job/lead-service-technician-fertigung-verlegefahiger-rechenzentren-m-w-d-71207"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Beton- und Stahlbetonbauer, Maurer, Schalungszimmerer (m/w/d) 94032 Passau 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1r3kJi-beton-und-stahlbetonbauer-maurer-schalungszimmerer-mwd_94032-passau"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 76661 Philippsburg, Baden 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/23ED9A-staplerfahrer-mwd_76661-philippsburg-baden"
-  },
-  {
-   "at": "2026-10-30T12:10:51+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industrieelektriker (m/w/d) 74523 Schwäbisch Hall 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z248p6f-industrieelektriker-mwd_74523-schwaebisch-hall"
-  },
   {
    "at": "2026-10-30T12:10:51+00:00",
    "kind": "new",
@@ -3501,12 +3368,145 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/industriekaufmann-m-w-d-34/bewerben"
+  },
+  {
+   "at": "2026-10-30T15:40:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Werkzeugmechaniker (m/w/d)",
+   "url": "https://de.trenkwalder.com/jobs/a0taV000019TAUZQA4"
+  },
+  {
+   "at": "2026-10-30T15:40:54+00:00",
+   "kind": "new",
+   "site": "Trenkwalder Deutschland",
+   "title": "Produktionsmitarbeiter (m/w/d) im Reinraum",
+   "url": "https://de.trenkwalder.com/jobs/a0tbI00000ZeRYPQA3"
+  },
+  {
+   "at": "2026-10-30T15:39:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 BI & Analytics Tech Lead (m/w/d) Nürnberg",
+   "url": "https://www.tempton.de/jobs/bi-analytics-tech-lead-2"
+  },
+  {
+   "at": "2026-10-30T15:39:52+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Mechatroniker (m/w/d) Großröhrsdorf",
+   "url": "https://www.tempton.de/jobs/mechatroniker-347"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Supplychain Project Manager Veldhoven, Netherlands Projects, Programs and Change",
+   "url": "https://www.asml.com/en/careers/find-your-job/supplychain-project-manager-j00346784"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Vehicle Integration Project Engineer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Vehicle-Integration-Project-Engineer_R00262327?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Mechatroniker (m/w/d) 97483 Eltmann 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZG4GDd-mechatroniker-mwd_97483-eltmann"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 97447 Gerolzhofen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/BTs8G-produktionsmitarbeiter-mwd_97447-gerolzhofen"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) Montage 97421 Schweinfurt 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/17aUH6-produktionsmitarbeiter-mwd-montage_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Logistikmitarbeiter (m/w/d) Verpackung Automobilindustrie 97318 Kitzingen 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z171t6A-logistikmitarbeiter-mwd-verpackung-automobilindustrie_97318-kitzingen"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91315 Höchstadt an der Aisch 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1jL1j-produktionsmitarbeiter-mwd_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lagermitarbeiter (m/w/d) 97421 Schweinfurt 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/KNCGB-lagermitarbeiter-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) Qualitätsprüfung 91315 Höchstadt an der Aisch 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1paGNb-produktionsmitarbeiter-mwd-qualitaetspruefung_91315-hoechstadt-an-der-aisch"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter (m/w/d) 91074 Herzogenaurach 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZvKj0u-produktionsmitarbeiter-mwd_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Gabelstaplerfahrer (m/w/d) 91074 Herzogenaurach 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/fMFBm-gabelstaplerfahrer-mwd_91074-herzogenaurach"
+  },
+  {
+   "at": "2026-10-30T15:39:55+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Zerspanungsmechaniker (m/w/d) 97421 Schweinfurt 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/2bIGqR-zerspanungsmechaniker-mwd_97421-schweinfurt"
+  },
+  {
+   "at": "2026-10-30T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 01129 Dresden Rechnungswesen & Finanzen 01129 Dresden Homeoffice möglich Neu Sofortiger ",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-130"
+  },
+  {
+   "at": "2026-10-30T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kreditorenbuchhalter SAP (m/w/d) (Rechnungswesen & Finanzen) in 64546 Mörfelden - Walldorf Rechnungswesen & Finanzen 64546 Mörfelden - Walldorf Neu So",
+   "url": "https://jobs.de.dis-ag.com/kreditorenbuchhalter-sap-m-w-d"
+  },
+  {
+   "at": "2026-10-30T15:39:50+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-130/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T15:26:27+00:00",
+ "last_run": "2026-10-30T15:41:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
