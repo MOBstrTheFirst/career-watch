@@ -1,21 +1,7 @@
 {
- "alerts": 410,
+ "alerts": 411,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:40:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer (m/w/d) 74072 Heilbronn, Neckar 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ih9fn-schweisser-mwd_74072-heilbronn-neckar"
-  },
-  {
-   "at": "2026-10-30T12:40:18+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schweißer 74214 Schöntal, Jagst 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2oX8B6-schweisser_74214-schoental-jagst"
-  },
   {
    "at": "2026-10-30T12:40:18+00:00",
    "kind": "new",
@@ -3501,12 +3487,26 @@
    "site": "Persystems GmbH",
    "title": "2 new text line(s), e.g. Muon",
    "url": "https://www.persystems.com"
+  },
+  {
+   "at": "2026-10-30T19:32:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Contract Instructional Designer",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Troy-Michigan-US/Contract-Instructional-Designer_R00258825?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T19:32:05+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Facility Millwright",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Guelph-Ontario-CA/Electrician--Certified-_R00242915?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T19:26:05+00:00",
+ "last_run": "2026-10-30T19:33:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 84,
+ "runs": 85,
  "tg_offset": 297408924
 }
