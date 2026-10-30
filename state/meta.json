@@ -1,42 +1,7 @@
 {
- "alerts": 389,
+ "alerts": 394,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Schaeffler – Höchstadt & Hirschaid plants",
-   "title": "Praktikum - Digitalisierung & Produktion (d/m/w)",
-   "url": "https://jobs.schaeffler.com/job/H%C3%B6chstadt-Praktikum-Digitalisierung-&-Produktion-%28dmw%29-91315/1452939933"
-  },
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Küchenhilfe (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/a6dfefa4-0604-57c6-af01-e12788f94b15/kuechenhilfe-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Vollzeit Aushilfe (m/w/d) Talent Acquisition - Students",
-   "url": "https://karriere.fresenius.de/job-detail/641833d4-e003-5cb5-a410-c5dcae16695f/vollzeit-aushilfe-m-w-d-talent-acquisition-students"
-  },
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Pflegefachhelfer Springerpool (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/47f8c7f0-a879-58d0-8e44-35ba186264a8/pflegefachhelfer-springerpool-m-w-d"
-  },
-  {
-   "at": "2026-10-30T12:41:17+00:00",
-   "kind": "new",
-   "site": "Trenkwalder Deutschland",
-   "title": "Lager- & Montagehelfer (m/w/d) – 17,54 €/Std.",
-   "url": "https://de.trenkwalder.com/jobs/a0taV000013nJgpQAE"
-  },
   {
    "at": "2026-10-30T12:41:17+00:00",
    "kind": "new",
@@ -3501,12 +3466,47 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-473/bewerben"
+  },
+  {
+   "at": "2026-10-30T17:25:17+00:00",
+   "kind": "new",
+   "site": "ams OSRAM – Regensburg",
+   "title": "Senior Application Engineer",
+   "url": "https://jobs.ams-osram.com/en/job/Senior-Application-Engineer-Mexico-City/24474"
+  },
+  {
+   "at": "2026-10-30T17:25:17+00:00",
+   "kind": "new",
+   "site": "Magna – Veitsbronn",
+   "title": "Engineer Controls Tech",
+   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Spring-Hill-Tennessee-US/Engineer-Controls-Tech_R00254136?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T17:25:00+00:00",
+   "kind": "new",
+   "site": "Broadcom – Regensburg",
+   "title": "ASIC Design - Floorplan Engineer",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/ASIC-Design---Floorplan-Engineer_R027510-3?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T17:25:00+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter im Vertrieb (m/w/d) (Sales & Vertrieb) in 74172 Neckarsulm Sales & Vertrieb 74172 Neckarsulm Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-im-vertrieb-m-w-d"
+  },
+  {
+   "at": "2026-10-30T17:25:00+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-im-vertrieb-m-w-d/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T17:14:49+00:00",
+ "last_run": "2026-10-30T17:26:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
