@@ -1,5 +1,5 @@
 {
- "alerts": 41,
+ "alerts": 43,
  "commands_set": true,
  "events": [
   {
@@ -799,12 +799,40 @@
    "site": "Max Bögl",
    "title": "Assistenz (m/w/d) der kaufmännischen Leitung Fertigteilwerk Gera/Linthe",
    "url": "https://jobportal.max-boegl.de/Assistenz-mwd-der-kaufmaennischen-Leitung-Fertigteilwerk-G-de-j2349.html"
+  },
+  {
+   "at": "2026-10-30T07:11:14+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Facharzt Orthopädie und Unfallchirurgie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/a6fa6bc6-92e1-58dd-91af-811ea58c2f62/facharzt-orthopaedie-und-unfallchirurgie-m-w-d"
+  },
+  {
+   "at": "2026-10-30T07:11:14+00:00",
+   "kind": "new",
+   "site": "Fresenius Kabi – Erlangen",
+   "title": "Chefarzt Orthopädie und Unfallchirurgie (m/w/d)",
+   "url": "https://karriere.fresenius.de/job-detail/e5882b42-5c1d-5947-bc49-ff128e52cb50/chefarzt-orthopaedie-und-unfallchirurgie-m-w-d"
+  },
+  {
+   "at": "2026-10-30T07:10:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Personalreferent (m/w/d) 06780 Zörbig 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1ILUrC-personalreferent-mwd_06780-zoerbig"
+  },
+  {
+   "at": "2026-10-30T07:10:13+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Lackierer - Pulverbeschichtung (m/w/d) 06188 Landsberg bei Halle, Saale 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZHWUxL-lackierer-pulverbeschichtung-mwd_06188-landsberg-bei-halle-saale"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T06:55:55+00:00",
+ "last_run": "2026-10-30T07:11:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408924
 }
