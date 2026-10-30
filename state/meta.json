@@ -1,5 +1,5 @@
 {
- "alerts": 16,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -393,12 +393,54 @@
    "site": "ESG – Manching",
    "title": "Software Platform Architect for EW Ground Support (w/m/d)",
    "url": "https://jobs.hensoldt.net/job/Ulm-Software-Platform-Architect-for-EW-Ground-Support-%28wmd%29-89077/1370145155"
+  },
+  {
+   "at": "2026-10-30T02:24:50+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Maschinen- und Anlagenführer (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Triptis-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29/1247980701"
+  },
+  {
+   "at": "2026-10-30T02:24:50+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Initiativstelle (m/w/d) Werk Viechtach 5 2026",
+   "url": "https://www.rehau.jobs/job/Viechtach-Initiativstelle-%28mwd%29-Werk-Viechtach-5-2026/1292398901"
+  },
+  {
+   "at": "2026-10-30T02:24:59+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "Industriekaufleute (Ausbildung 2027)",
+   "url": "https://jobs.koenig-bauer.com/job/Stuttgart-Industriekaufleute-%28Ausbildung-2027%29/1411670533"
+  },
+  {
+   "at": "2026-10-30T02:24:59+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "Elektroniker:in für Betriebstechnik (Ausbildung 2027)",
+   "url": "https://jobs.koenig-bauer.com/job/Stuttgart-Elektronikerin-f%C3%BCr-Betriebstechnik-%28Ausbildung-2027%29/1411683133"
+  },
+  {
+   "at": "2026-10-30T02:24:59+00:00",
+   "kind": "new",
+   "site": "Koenig & Bauer",
+   "title": "B. Eng. Maschinenbau Studienrichtung Produktionstechnik (Duales Studium 2027)",
+   "url": "https://jobs.koenig-bauer.com/job/Stuttgart-B_-Eng_-Maschinenbau-Studienrichtung-Produktionstechnik-%28Duales-Studium-2027%29/1411688733"
+  },
+  {
+   "at": "2026-10-30T02:24:45+00:00",
+   "kind": "new",
+   "site": "Telefónica Germany – Nürnberg",
+   "title": "Werkstudent (m/w/d) Digitalization & Technology",
+   "url": "https://jobs.telefonica.com/TelefonicaGermany/job/D%C3%BCsseldorf-Werkstudent-%28mwd%29-Digitalization-&-Technology-NW-40474/1443245333"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T02:11:05+00:00",
+ "last_run": "2026-10-30T02:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
