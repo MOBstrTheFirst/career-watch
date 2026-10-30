@@ -1,336 +1,7 @@
 {
- "alerts": 261,
+ "alerts": 271,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Fach­kraft für Lager­lo­gistik (m/w/d) Job Vor Ort Vollzeit 40.000 - 45.000 € Kirch­dorf an der Iller, Deutsch­land Weitere Young Professionals ohne P",
-   "url": "https://touch.ferchau.com/de/de/job/400429/fachkraft-fuer-lagerlogistik"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Bauzeichner - Ener­gie­an­lagen (m/w/d) Neu Job Vor Ort Vollzeit 50.000 - 60.000 € Neumarkt in der Ober­pfalz, Deutsch­land Elektrotechnik Weitere Pro",
-   "url": "https://touch.ferchau.com/de/de/job/526093/bauzeichner-energieanlagen"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Stra­te­gi­scher Einkäufer Auto­mo­tive (m/w/d) Job Hybrid Vollzeit 60.000 - 85.000 € Stutt­gart, Deutsch­land Backoffice Young Professionals Professi",
-   "url": "https://touch.ferchau.com/de/de/job/484987/strategischer-einkaeufer-automotive"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ma­nager (m/w/d) BEV-Sonder­pro­jekt Job Hybrid Vollzeit 60.000 - 85.000 € Stutt­gart, Deutsch­land Backoffice Young Professionals Professiona",
-   "url": "https://touch.ferchau.com/de/de/job/445336/projektmanager-bev-sonderprojekt"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur Erpro­bungs­ko­or­di­na­tion (m/w/d) Job Hybrid Vollzeit 60.000 - 85.000 € Stutt­gart, Deutsch­land Elektrotechnik Fahrzeugt",
-   "url": "https://touch.ferchau.com/de/de/job/484879/entwicklungsingenieur-erprobungskoordination"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Entwick­lungs­in­ge­nieur System­va­li­die­rung OBD & Compli­ance (m/w/d) Job Hybrid Vollzeit 60.000 - 85.000 € Stutt­gart, Deutsch­land Elektrotechni",
-   "url": "https://touch.ferchau.com/de/de/job/485008/entwicklungsingenieur-systemvalidierung-obd-compliance"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "FERCHAU",
-   "title": "Projekt­ein­käufer Still­stand (m/w/d) Neu Job Vor Ort Vollzeit 65.000 - 80.000 € Hamburg, Deutsch­land Backoffice Professionals Senior Professionals ",
-   "url": "https://touch.ferchau.com/de/de/job/526123/projekteinkaeufer-stillstand"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Industriemechaniker Siemens Energy (m/w/d) 99086 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/klJ54-industriemechaniker-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Metallbauer Siemens Energy (m/w/d) 99086 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1g4Tbc-metallbauer-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektromaschinenmonteur Siemens Energy (m/w/d) 99086 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZH2728-elektromaschinenmonteur-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Anlagenfahrer Chemische Produktion (m/w/d) 84508 Burgkirchen an der Alz 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2iAXwg-anlagenfahrer-chemische-produktion-mwd_84508-burgkirchen-an-der-alz"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Chemiemitarbeiter (m/w/d) / Produktionsbereich 84508 Burgkirchen an der Alz 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/z0Cha-chemiemitarbeiter-mwd-produktionsbereich_84508-burgkirchen-an-der-alz"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Chemiemitarbeiter (m/w/d) / Produktionsbereich 84508 Burgkirchen an der Alz 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1PyqRs-chemiemitarbeiter-mwd-produktionsbereich_84508-burgkirchen-an-der-alz"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener ab 20€/h (m/w/d) 99427 Weimar, Thüringen 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZtuWWm-maschinenbediener-ab-20euroh-mwd_99427-weimar-thueringen"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Staplerfahrer (m/w/d) 07554 Gera 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/2akpPM-staplerfahrer-mwd_07554-gera"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Qualitätsmitarbeiter (m/w/d) 84489 Burghausen, Salzach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z12UzyY-qualitaetsmitarbeiter-mwd_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schmelzer (m/w/d) 04610 Meuselwitz, Thüringen 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2nb0c2-schmelzer-mwd_04610-meuselwitz-thueringen"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Chemiemitarbeiter (m/w/d) im 5-Schicht-System 84489 Burghausen, Salzach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z25CNr9-chemiemitarbeiter-mwd-im-5-schicht-system_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Chemiehelfer (m/w/d) 84489 Burghausen, Salzach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Zlk8kz-chemiehelfer-mwd_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-30T08:25:02+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Top Job in der Qualitätsprüfung (m/w/d) – 5-Schicht – ab sofort in Burghausen 84489 Burghausen, Salzach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1WDTzI-top-job-in-der-qualitaetspruefung-mwd-5-schicht-ab-sofort-in-burghausen_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "ABB – Nürnberg branch",
-   "title": "ELDS LV SWGR Production Operator 2nd shift",
-   "url": "https://careers.abb/global/en/job/JR00047155/ELDS-LV-SWGR-Production-Operator-2nd-shift"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT Security Engineer (m/w/d) Endpoint Security & Microsoft (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/it-security-engineer-m-w-d-endpoint-security-und-microsoft-1"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "IT-Administrator (m/w/d) in Wiesbaden - hybrides Arbeiten - hybrides Arbeiten (Remote & Präsenz) (IT & Software) in 60486 Frankfurt am Main IT & Softw",
-   "url": "https://jobs.de.dis-ag.com/it-administrator-m-w-d-in-wiesbaden-hybrides-arbeiten-hybrides-arbeiten-remote-und-praesenz-9"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Senior Systemadministrator IT-Security (m/w/d) (IT & Software) in 50667 Köln IT & Software 50667 Köln Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/senior-systemadministrator-it-security-m-w-d-1"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Elektrotechniker – Prüftechnik (m/w/d) (Produktion & Fertigung) in 70794 Filderstadt Produktion & Fertigung 70794 Filderstadt Neu Sofortiger Start",
-   "url": "https://jobs.de.dis-ag.com/elektrotechniker-prueftechnik-m-w-d"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Mitarbeiter Finanzcontrolling (m/w/d) (Rechnungswesen & Finanzen) in 38122 Braunschweig Rechnungswesen & Finanzen 38122 Braunschweig Neu Sofortiger St",
-   "url": "https://jobs.de.dis-ag.com/mitarbeiter-finanzcontrolling-m-w-d"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Finanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 09599 Region Mittelsachsen Rechnungswesen & Finanzen 09599 Region Mittelsachsen Homeoffice mög",
-   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-m-w-d-472"
-  },
-  {
-   "at": "2026-10-30T08:24:51+00:00",
-   "kind": "new",
-   "site": "DIS AG",
-   "title": "Für Job bewerben",
-   "url": "https://jobs.de.dis-ag.com/it-security-engineer-m-w-d-endpoint-security-und-microsoft-1/bewerben"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "Werkstudent (w/m/d) DC-Bahnstromversorgung",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527753"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "Siemens Technology (central R&D) (+7 more)",
-   "title": "WeChat",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FJobDetail%2F527753"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "Siemens Energy – Erlangen / Siemens Energy – Nürnberg (transformers)",
-   "title": "Werkstudent (w/m/d) – Digital Transformation Business Partnering",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Digital-Transformation-Business-Partnering/305996"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "ALTEN",
-   "title": "Ingénieur Intégration Électrique Train (H/F) Full-time",
-   "url": "https://jobs.smartrecruiters.com/ALTEN/744000158683979-ingenieur-integration-electrique-train-h-f-"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "DATEV – Nürnberg",
-   "title": "Fachhandwerker HKLS Schwerpunkt Kälte-/Klima- und Lüftungstechnik (m/w/d)",
-   "url": "https://datev.wd3.myworkdayjobs.com/de-DE/Datev_Careers/job/Nrnberg/Fachhandwerker-HKLS-Schwerpunkt-Klte--Klima--und-Lftungstechnik--m-w-d-_ID15530-1"
-  },
-  {
-   "at": "2026-10-30T08:41:15+00:00",
-   "kind": "new",
-   "site": "Fresenius Kabi – Erlangen",
-   "title": "Gesundheits- und Krankenpfleger (m/w/d)",
-   "url": "https://karriere.fresenius.de/job-detail/6e43f0f7-e3b4-59c7-ba38-0d11aaa269fd/gesundheits-und-krankenpfleger-m-w-d"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Capgemini Engineering",
-   "title": "Werkstudent Terminologiemanagement für Quellsprache Deutsch (w/m/d) Koeln Administration Support Studentische Tätigkeiten/Praktikum Studierende/Absolv",
-   "url": "https://www.capgemini.com/de-de/jobs/588623-de_DE+sap_btp"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Magna – Veitsbronn",
-   "title": "Müllwerker / Mitarbeiter Entsorgung und Winterdienst (m/w/d) - Minijob -",
-   "url": "https://wd3.myworkdaysite.com/de-DE/recruiting/magna/Magna/job/Schwaebisch-Gmuend-DE/Mllwerker---Mitarbeiter-Entsorgung-und-Winterdienst--m-w-d----Minijob--_R00267920?locationCountry=dcc5b7608d8644b3a93716604e78e995"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Elektromaschinenmonteur Siemens Energy (m/w/d) 99086 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1QVCgD-elektromaschinenmonteur-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Zerspanungsmechaniker (m/w/d) 99099 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z15JO9o-zerspanungsmechaniker-mwd_99099-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Schlosser Siemens Energy (m/w/d) 99086 Erfurt 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/1unasg-schlosser-siemens-energy-mwd_99086-erfurt"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Mitarbeiter Sortierung (m/w/d) – 5-Schichtsystem – ab sofort 84489 Burghausen, Salzach 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZKJnbs-mitarbeiter-sortierung-mwd-5-schichtsystem-ab-sofort_84489-burghausen-salzach"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Maschinenbediener ab 20€/h (m/w/d) 99427 Weimar, Thüringen 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Ct6Ow-maschinenbediener-ab-20euroh-mwd_99427-weimar-thueringen"
-  },
-  {
-   "at": "2026-10-30T08:40:00+00:00",
-   "kind": "new",
-   "site": "Ingenieurbüro Hofmann",
-   "title": "Lagermitarbeiter (m/w/d) 44789 Bochum 30.10.2026 Mehr erfahren",
-   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1FzS4h-lagermitarbeiter-mwd_44789-bochum"
-  },
-  {
-   "at": "2026-10-30T08:40:08+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "199575 Werkstudent Vertriebssteuerung und operative Unterstützung (w/m/x) Veröffentlicht: 30.10.2026 Händlerbetreuung München Neu Händlerbetreuung Mün",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199575.html"
-  },
-  {
-   "at": "2026-10-30T08:40:08+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "198516 Praktikant Projektmanagement 4- und 6-Zylinder Fahrzeuge BMW Motorrad (w/m/x) Veröffentlicht: 30.10.2026 Strategie / Projektmanagement München ",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198516.html"
-  },
-  {
-   "at": "2026-10-30T08:40:08+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197925 Praktikant Hochvoltspeicheranalyse (w/m/x) Veröffentlicht: 30.10.2026 Elektromobilität München Neu Elektromobilität München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197925.html"
-  },
-  {
-   "at": "2026-10-30T08:40:08+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "197903 Praktikant Mechanische Werkstoffprüfung (w/m/x) Veröffentlicht: 30.10.2026 Technisches Labor München Neu Technisches Labor München München",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197903.html"
-  },
-  {
-   "at": "2026-10-30T08:40:08+00:00",
-   "kind": "new",
-   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
-   "title": "194977 Praktikant Behältermanagement (w/m/x) Veröffentlicht: 30.10.2026 Supply Chain Management Dingolfing Neu Supply Chain Management Dingolfing Ding",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.194977.html"
-  },
   {
    "at": "2026-10-30T08:40:08+00:00",
    "kind": "new",
@@ -3501,12 +3172,341 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/zerspanungsmechaniker-m-w-d-49/bewerben"
+  },
+  {
+   "at": "2026-10-30T12:55:35+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Maschinen- und Anlagenführer (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/daec8b10-0123-4427-b6d3-60d3c663a272"
+  },
+  {
+   "at": "2026-10-30T12:55:35+00:00",
+   "kind": "new",
+   "site": "HEADFOUND",
+   "title": "Mischmeister Beton (m/w/d)",
+   "url": "https://headfound.hforce.ai/job/daec8b10-0123-4427-b6d3-60d3c663a272/6c5a397e-50f9-4520-bc50-dde36bd48718"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Praktikant (m/w/d) Human Resources",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Nordenham/Praktikant--m-w-d---Human-Resources_JR10453893?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Produktionsmitarbeiter / Staplerfahrer Gießerei (m/w/d) Weißenhorn",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-staplerfahrer-giesserei"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Montage Mitarbeiter / Maschinenbediener (m/w/d) Günzburg",
+   "url": "https://www.tempton.de/jobs/montage-mitarbeiter-maschinenbediener"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Elektroniker (m/w/d) Dreieich",
+   "url": "https://www.tempton.de/jobs/elektroniker-191"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Lagermitarbeiter (m/w/d) Bedburg",
+   "url": "https://www.tempton.de/jobs/lagermitarbeiter-392"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Industriehelfer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/industriehelfer-11"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Helfer Containerentladung (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/helfer-containerentladung-1"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Helfer Lebensmittelproduktion (m/w/d) Reinbek bei Hamburg",
+   "url": "https://www.tempton.de/jobs/helfer-lebensmittelproduktion-2"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Montagehelfer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/montagehelfer-58"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Metallbauhelfer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/metallbauhelfer-14"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Lagermitarbeiter (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/lagermitarbeiter-391"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Maschinen- und Anlagenführer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/maschinen-anlagenfuehrer-531"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Produktionsmitarbeiter (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/produktionsmitarbeiter-911"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Maler und Lackierer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/maler-lackierer-111"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Schubmaststaplerfahrer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/schubmaststaplerfahrer-46"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Schlosser (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/schlosser-273"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Schweißer (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/schweisser-516"
+  },
+  {
+   "at": "2026-10-30T12:54:49+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "30.10.2026 Konstruktionsmechaniker Metall- und Schiffbautechnik (m/w/d) Hamburg",
+   "url": "https://www.tempton.de/jobs/konstruktionsmechaniker-metall-schiffbautechnik-2"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Werkstudent Communications (w/m/d) Muenchen Administration Support Studentische Tätigkeiten/Praktikum Studierende/Absolvent*innen",
+   "url": "https://www.capgemini.com/de-de/jobs/589163-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Capgemini Engineering",
+   "title": "Senior Employee Relations Manager (m/w/d) | Volljurist Arbeitsrecht Berlin, Koeln, Hamburg, Frankfurt, Muenchen + 1 Human Resources Unbefristet Berufs",
+   "url": "https://www.capgemini.com/de-de/jobs/524134-de_DE+sap_btp"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Fahrer (m/w/d) Fahrzeugabwicklung 04509 Wiedemar 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1fiUES-fahrer-mwd-fahrzeugabwicklung_04509-wiedemar"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Produktionsmitarbeiter Verpackung (m/w/d) 06785 Oranienbaum-Wörlitz 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Qwdx5-produktionsmitarbeiter-verpackung-mwd_06785-oranienbaum-woerlitz"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Industriemechaniker / Mechatroniker (m/w/d) 41812 Erkelenz 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/ZcikIE-industriemechaniker-mechatroniker-mwd_41812-erkelenz"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Maschinenbediener (m/w/d) 74653 Künzelsau 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/wrOLq-maschinenbediener-mwd_74653-kuenzelsau"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Kaufmann/-frau (m/w/d) Einkauf 13403 Berlin 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z2c4Asj-kaufmann-frau-mwd-einkauf_13403-berlin"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "CNC-Maschinenbediener (m/w/d) Serienfertigung 13599 Berlin 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/1QRVg0-cnc-maschinenbediener-mwd-serienfertigung_13599-berlin"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Galvaniseur (m/w/d) 13629 Berlin 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/16D4Bu-galvaniseur-mwd_13629-berlin"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Oberflächenbeschichter (m/w/d) Galvanik 13629 Berlin 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1mEqli-oberflaechenbeschichter-mwd-galvanik_13629-berlin"
+  },
+  {
+   "at": "2026-10-30T12:55:00+00:00",
+   "kind": "new",
+   "site": "Ingenieurbüro Hofmann",
+   "title": "Monteur (m/w/d) Turbinenbau 10553 Berlin 30.10.2026 Mehr erfahren",
+   "url": "https://www.hofmann.info/jobs/stellenanzeige/Z1fXr0A-monteur-mwd-turbinenbau_10553-berlin"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Energy and Power System Architect (f/m/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Energy-and-Power-System-Architect--f-m-d-_R-10063675?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "IP/Patent Counsel (f/m/d)",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/IP-Patent-Counsel--f-m-d-_R-10062555?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Spremberg Projektleitung (w/m/d) Elektrotechnik Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/67908607/Projektleitung-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Lübbenau/Spreewald + 1 Anlagenmechaniker / Monteur Anlagenbau (w/m/d) Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/66832890/Anlagenmechaniker-Monteur-Anlagenbau-w-m-d-"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Deutschland + 1 Bauleitender Monteur (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/67748872/Bauleitender-Monteur-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Lübbenau/Spreewald Teamassistenz (w/m/d) Berufseinsteiger Administration und Sekretariat",
+   "url": "https://actemium.career.softgarden.de/jobs/67579517/Teamassistenz-w-m-d-"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Lübbenau/Spreewald Elektromonteur (w/m/d) Elektrotechnik / Energietechnik Berufseinsteiger Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/66971380/Elektromonteur-w-m-d-Elektrotechnik-Energietechnik"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Görlitz Elektriker / Elektromonteur (w/m/d) Berufseinsteiger Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/65103368/Elektriker-Elektromonteur-w-m-d-"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Eisenhüttenstadt Monteur mit bauleitenden Aufgaben (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
+   "url": "https://actemium.career.softgarden.de/jobs/67326300/Monteur-mit-bauleitenden-Aufgaben-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) Kundenbetreuung & Vertragsmanagement (Büroverwaltung) in 10117 Berlin Büroverwaltung 10117 Berlin Neu",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-kundenbetreuung-und-vertragsmanagement"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschinenbediener Pharma-Produktion (m/w/d) (Technik & Instandhaltung) in 13353 Berlin Technik & Instandhaltung 13353 Berlin Neu",
+   "url": "https://jobs.de.dis-ag.com/maschinenbediener-pharma-produktion-m-w-d"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "CNC-Fräser (m/w/d) (Produktion & Fertigung) in 47829 Krefeld Produktion & Fertigung 47829 Krefeld Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/cnc-fraeser-m-w-d-18"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Personalreferent (m/w/d) (HR & Personalwesen) in 55543 Bad Kreuznach HR & Personalwesen 55543 Bad Kreuznach Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/personalreferent-m-w-d-90"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Chemikant / Pharmakant (m/w/d) (Technik & Instandhaltung) in 51373 Leverkusen Technik & Instandhaltung 51373 Leverkusen Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/chemikant-pharmakant-m-w-d"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Maschineneinrichter (m/w/d) (Technik & Instandhaltung) in 69123 Heidelberg Technik & Instandhaltung 69123 Heidelberg Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/maschineneinrichter-m-w-d-4"
+  },
+  {
+   "at": "2026-10-30T12:54:55+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-kundenbetreuung-und-vertragsmanagement/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T12:41:33+00:00",
+ "last_run": "2026-10-30T12:55:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
