@@ -1,14 +1,7 @@
 {
- "alerts": 424,
+ "alerts": 426,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-10-30T12:55:35+00:00",
-   "kind": "new",
-   "site": "HEADFOUND",
-   "title": "Mischmeister Beton (m/w/d)",
-   "url": "https://headfound.hforce.ai/job/daec8b10-0123-4427-b6d3-60d3c663a272/6c5a397e-50f9-4520-bc50-dde36bd48718"
-  },
   {
    "at": "2026-10-30T12:54:49+00:00",
    "kind": "new",
@@ -3501,12 +3494,19 @@
    "site": "Leggett & Platt – Nürnberg",
    "title": "Mechanical/Design Engineer",
    "url": "https://leggett.com/careers/search"
+  },
+  {
+   "at": "2026-10-30T21:54:55+00:00",
+   "kind": "new",
+   "site": "Airbus Defence and Space – Manching / Airbus Helicopters – Donauwörth",
+   "title": "Werkstudent (d/m/w) im Bereich 5G- und LEO- Satellitenkommunikationssignale",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Working-student-on-5G-and-LEO-satellite-communication-signals--d-f-m-_JR10445545?locationCountry=dcc5b7608d8644b3a93716604e78e995"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T21:41:08+00:00",
+ "last_run": "2026-10-30T21:55:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-29",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
