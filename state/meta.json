@@ -1,5 +1,5 @@
 {
- "alerts": 54,
+ "alerts": 55,
  "commands_set": true,
  "events": [
   {
@@ -610,12 +610,26 @@
    "site": "e.solutions GmbH",
    "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/_processed_/csm_e_sol_FS_klein_12_da9136b0bc.png?cHash=f10d23bbe96d61df68b31b6493947a0ba0c9ca1ed4a7a1b38a2af7c8fa34105c",
    "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/_processed_/csm_e_sol_FS_klein_12_da9136b0bc.png?cHash=f10d23bbe96d61df68b31b6493947a0ba0c9ca1ed4a7a1b38a2af7c8fa34105c"
+  },
+  {
+   "at": "2026-10-31T07:10:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Zone Trainer (Central)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29733/Zone-Trainer-Central"
+  },
+  {
+   "at": "2026-10-31T07:10:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Zone Trainer (Central)",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29733EXTERNALENGLOBAL"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T06:55:55+00:00",
+ "last_run": "2026-10-31T07:10:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
