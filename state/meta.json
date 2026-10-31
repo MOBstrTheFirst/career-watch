@@ -1,5 +1,5 @@
 {
- "alerts": 24,
+ "alerts": 28,
  "commands_set": true,
  "events": [
   {
@@ -344,12 +344,173 @@
    "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
    "title": "Ausbildung zum Industriemechaniker (m/w/d) ab 01.09.2027 in Mannheim",
    "url": "https://jobs.zf.com/job/Mannheim-Ausbildung-zum-Industriemechaniker-%28mwd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433555133"
+  },
+  {
+   "at": "2026-10-31T02:25:04+00:00",
+   "kind": "new",
+   "site": "Huawei Research Center Germany – Nürnberg",
+   "title": "European Patent Attorney Germany\\Bavaria-Munich Legal Affairs and Compliance 1.Implementing Huawei's global patent portfolio management strategy in Eu",
+   "url": "https://career.huawei.com/reccampportal/euportal/portal/social-recruitment-detail.html?jobId=45318&dataSource=1"
+  },
+  {
+   "at": "2026-10-31T02:25:04+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Project Manager",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Project-Manager-GA-30004/1433161533"
+  },
+  {
+   "at": "2026-10-31T02:25:04+00:00",
+   "kind": "new",
+   "site": "Landis+Gyr Germany",
+   "title": "Solutions Director",
+   "url": "https://careers.landisgyr.com/job/Alpharetta-Solutions-Director-GA-30004/1433171533"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior Expert Konfigurations- und Datenmanagement (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Senior-Expert-Konfigurations-und-Datenmanagement-%28wmd%29-82256/1351219855"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Digital Experience (DEX) & Observability Architect / Nexthink (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Digital-Experience-%28DEX%29-&-Observability-Architect-Nexthink-%28wmd%29-89077/1354663355"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Finance Business Partner - ISTAR (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Finance-Business-Partner-ISTAR-%28wmd%29-73447/1358732355"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "RF design & development Engineer (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-RF-design-&-development-Engineer-%28mwd%29-89077/1329392855"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Head of Industrial Architecture and Innovation (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Head-of-Industrial-Architecture-and-Innovation-%28wmd%29-89077/1359621355"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Operational Logistics (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Werkstudent-Operational-Logistics-%28wmd%29-82256/1359692255"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Senior SAP Projektmanager / S4HANA (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Senior-SAP-Projektmanager-S4HANA-%28wmd%29-89077/1331692355"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Kaufmännisches Schülerpraktikum - BOGY (w/m/d) Ulm",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Kaufm%C3%A4nnisches-Sch%C3%BClerpraktikum-BOGY-%28wmd%29-Ulm-89077/1337974755"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Softwareentwickler Electronic Warfare COMINT - C++ (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Softwareentwickler-Electronic-Warfare-COMINT-C%2B%2B-%28wmd%29-89077/1167157655"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur für Electronic Warfare (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-f%C3%BCr-Electronic-Warfare-%28wmd%29-89077/1167381955"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Systemingenieur Produktentwicklung für Electronic Warfare im Weltraum (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Systemingenieur-Produktentwicklung-f%C3%BCr-Electronic-Warfare-im-Weltraum-%28wmd%29-89077/1164480355"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Kaufmännisches Schülerpraktikum - BORS (w/m/d) Ulm",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Kaufm%C3%A4nnisches-Sch%C3%BClerpraktikum-BORS-%28wmd%29-Ulm-89077/1337973655"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Software-Ingenieur für Computer Vision (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Software-Ingenieur-f%C3%BCr-Computer-Vision-%28wmd%29-73447/1345137555"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Expert Technical Publications / S1000D (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Expert-Technical-Publications-S1000D-%28wmd%29-82256/1164410055"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Entwickler Hardware (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Entwickler-Hardware-%28wmd%29-82256/1164430055"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Prozessverantwortlicher Logistik (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Prozessverantwortlicher-Logistik-%28wmd%29-73447/1370274255"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektmanager Main Battle Systems (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Wetzlar-Projektmanager-Main-Battle-Systems-%28wmd%29-35578/1370298455"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Wartungs- und Instandhaltungsfachkraft (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Wartungs-und-Instandhaltungsfachkraft-%28mwd%29-89077/1370293655"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Elektroniker / Prüftechniker für Serienfertigung und Kundenrücklieferung (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Elektroniker-Pr%C3%BCftechniker-f%C3%BCr-Serienfertigung-und-Kundenr%C3%BCcklieferung-%28wmd%29-89077/1367820855"
+  },
+  {
+   "at": "2026-10-31T02:25:15+00:00",
+   "kind": "possible",
+   "site": "Koenig & Bauer",
+   "title": "Praktikum Qualitätsmanagement Lieferanten",
+   "url": "https://jobs.koenig-bauer.com/search/?createNewAlert=false&q=&locationsearch=Deutschland&sortColumn=referencedate&sortDirection=desc"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T02:11:00+00:00",
+ "last_run": "2026-10-31T02:25:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
