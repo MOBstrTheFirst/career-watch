@@ -1,5 +1,5 @@
 {
- "alerts": 9,
+ "alerts": 12,
  "commands_set": true,
  "events": [
   {
@@ -64,12 +64,96 @@
    "site": "Rohde & Schwarz",
    "title": "Order Management Specialist - Irvine, CA or Coppell, TX",
    "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/order-management-specialist-irvine-ca-or-coppell-tx_251563-1710720.html"
+  },
+  {
+   "at": "2026-10-31T00:11:00+00:00",
+   "kind": "possible",
+   "site": "Forvia Hella – Ingolstadt",
+   "title": "Studenten (36)",
+   "url": "https://hella.csod.com/ux/ats/careersite/3/home?c=hella"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Logistik & Transport) in 76131 Karlsruhe Logistik & Transport 76131 Karlsruhe Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-151"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mitarbeiter (m/w/d) im Bereich Zoll & Export (Logistik & Transport) in 76287 Rheinstetten Logistik & Transport 76287 Rheinstetten Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/mitarbeiter-m-w-d-im-bereich-zoll-und-export-7"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Lohn- und Gehaltsbuchhalter / Payroll Specialist (m/w/d) (HR & Personalwesen) in 76131 Karlsruhe HR & Personalwesen 76131 Karlsruhe Neu",
+   "url": "https://jobs.de.dis-ag.com/lohn-und-gehaltsbuchhalter-payroll-specialist-m-w-d-5"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Einkaufssachbearbeiter (m/w/d) (Büroverwaltung) in 74172 Neckarsulm Büroverwaltung 74172 Neckarsulm Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/einkaufssachbearbeiter-m-w-d-93"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Steuerfachangestellter (m/w/d) (Rechnungswesen & Finanzen) in 76131 Karlsruhe Rechnungswesen & Finanzen 76131 Karlsruhe Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/steuerfachangestellter-m-w-d-131"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Strategischer Einkäufer (m/w/d) (Logistik & Transport) in 76437 Rastatt Logistik & Transport 76437 Rastatt Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-150"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Finanzbuchhalter / Accountant (m/w/d) (Rechnungswesen & Finanzen) in 75172 Pforzheim Rechnungswesen & Finanzen 75172 Pforzheim Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/finanzbuchhalter-accountant-m-w-d-7"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kaufmännischer Sachbearbeiter (m/w/d) (Büroverwaltung) in 74653 Künzelsau Büroverwaltung 74653 Künzelsau Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/kaufmaennischer-sachbearbeiter-m-w-d-72"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Immobilienmakler (m/w/d) (Bau & Immobilien) in 76448 Durmersheim Bau & Immobilien 76448 Durmersheim Homeoffice möglich Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/immobilienmakler-m-w-d-25"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Sachbearbeiter (m/w/d) Personal (HR & Personalwesen) in 76437 Rastatt HR & Personalwesen 76437 Rastatt Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/sachbearbeiter-m-w-d-personal-11"
+  },
+  {
+   "at": "2026-10-31T00:10:03+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-151/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-30T23:56:31+00:00",
+ "last_run": "2026-10-31T00:12:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 4,
+ "runs": 5,
  "tg_offset": 297408924
 }
