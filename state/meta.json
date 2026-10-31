@@ -1,5 +1,5 @@
 {
- "alerts": 13,
+ "alerts": 14,
  "commands_set": true,
  "events": [
   {
@@ -148,12 +148,26 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/strategischer-einkaeufer-m-w-d-151/bewerben"
+  },
+  {
+   "at": "2026-10-31T00:40:17+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Bilanzbuchhalter (m/w/d) (Rechnungswesen & Finanzen) in 76131 Karlsruhe Rechnungswesen & Finanzen 76131 Karlsruhe Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-358"
+  },
+  {
+   "at": "2026-10-31T00:40:17+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/bilanzbuchhalter-m-w-d-358/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T00:26:13+00:00",
+ "last_run": "2026-10-31T00:41:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 6,
+ "runs": 7,
  "tg_offset": 297408924
 }
