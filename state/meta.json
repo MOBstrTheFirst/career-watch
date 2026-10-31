@@ -1,5 +1,5 @@
 {
- "alerts": 38,
+ "alerts": 40,
  "commands_set": true,
  "events": [
   {
@@ -603,12 +603,19 @@
    "site": "Ericsson (Antenna Systems) – Regensburg",
    "title": "Senior Engineer- Fixed Network Service Manager Noida,Uttar Pradesh,India Service Delivery Gepostete vor 25 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121776955320"
+  },
+  {
+   "at": "2026-10-31T05:40:54+00:00",
+   "kind": "new",
+   "site": "e.solutions GmbH",
+   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/_processed_/csm_e_sol_FS_klein_12_da9136b0bc.png?cHash=f10d23bbe96d61df68b31b6493947a0ba0c9ca1ed4a7a1b38a2af7c8fa34105c",
+   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/_processed_/csm_e_sol_FS_klein_12_da9136b0bc.png?cHash=f10d23bbe96d61df68b31b6493947a0ba0c9ca1ed4a7a1b38a2af7c8fa34105c"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T05:25:52+00:00",
+ "last_run": "2026-10-31T05:41:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 28,
+ "runs": 29,
  "tg_offset": 297408924
 }
