@@ -1,5 +1,5 @@
 {
- "alerts": 90,
+ "alerts": 92,
  "commands_set": true,
  "events": [
   {
@@ -729,12 +729,26 @@
    "site": "ABB – Nürnberg branch",
    "title": "Field Service Technician",
    "url": "https://careers.abb/global/en/job/JR00046976/Field-Service-Technician"
+  },
+  {
+   "at": "2026-10-31T14:09:52+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Kältetechniker Labor & Entwicklung (w/m/d) Deutschland, Köln Bachelor Fachhochschule Nicht zutreffend Aufbau und Betreuung von Prototypen und Versuchs",
+   "url": "https://www.brunel.net/de-de/jobs/kaltetechniker-labor-and-entwicklung-wmd-tr-301963"
+  },
+  {
+   "at": "2026-10-31T14:09:52+00:00",
+   "kind": "new",
+   "site": "Actemium Cegelec",
+   "title": "Neu Deutschland Bauleiter (w/m/d) Anlagenbau / Rohrleitungsbau Berufserfahrene Ingenieure und technische Berufe",
+   "url": "https://actemium.career.softgarden.de/jobs/66456003/Bauleiter-w-m-d-Anlagenbau-Rohrleitungsbau"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T13:56:05+00:00",
+ "last_run": "2026-10-31T14:11:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
