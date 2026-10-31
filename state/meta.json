@@ -1,5 +1,5 @@
 {
- "alerts": 77,
+ "alerts": 78,
  "commands_set": true,
  "events": [
   {
@@ -694,12 +694,19 @@
    "site": "Primetals Technologies Germany",
    "title": "Industrial Engineering Systems Integration Specialist",
    "url": "https://careers.primetals.com/global/en/job/8416/Industrial-Engineering-Systems-Integration-Specialist"
+  },
+  {
+   "at": "2026-10-31T09:39:52+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "ASSISTANT MANAGER",
+   "url": "https://careers.motherson.com/en/job/assistant-manager-7626"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T09:25:59+00:00",
+ "last_run": "2026-10-31T09:40:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
