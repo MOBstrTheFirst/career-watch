@@ -1,5 +1,5 @@
 {
- "alerts": 20,
+ "alerts": 24,
  "commands_set": true,
  "events": [
   {
@@ -211,12 +211,145 @@
    "site": "Sanmina – Gunzenhausen",
    "title": "Quality Technician",
    "url": "https://jobs.sanmina.com/jobs/18427316-quality-technician"
+  },
+  {
+   "at": "2026-10-31T02:10:47+00:00",
+   "kind": "possible",
+   "site": "Rösler Oberflächentechnik – Untermerzbach",
+   "title": "Abschlussarbeit im Bereich Maschinendynamik - Energetische Optimierung schwingender Systeme (m/w/d)",
+   "url": "https://careers.rosler.com/stellen/go/Stellen/4149501/"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Werker - Innerbetrieblicher Transport (m/w/d)",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Werker-Innerbetrieblicher-Transport-%28mwd%29/1394418533"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Production Planner (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Triptis-Production-Planner-%28mwd%29/1412363133"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Category Manager Transport + Warehousing Interior Solutions (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Rehau-Category-Manager-Transport-%2B-Warehousing-Interior-Solutions-%28mwd%29/1412352733"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Verbundstudium Ausbildung Industriekaufmann / Studium Betriebswirtschaftslehre (m/w/d) 2027",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Verbundstudium-Ausbildung-Industriekaufmann-Studium-Betriebswirtschaftslehre-%28mwd%29-2027/1432812433"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Verbundstudium Ausbildung Industriekaufmann / Studium Wirtschaftsingenieurwesen (m/w/d) 2027",
+   "url": "https://www.rehau.jobs/Industrial_Solutions/job/Rehau-Verbundstudium-Ausbildung-Industriekaufmann-Studium-Wirtschaftsingenieurwesen-%28mwd%29-2027/1432789333"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Mitarbeiter Rohwarendispo (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Visbek-Mitarbeiter-Rohwarendispo-%28mwd%29/1443664333"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Manager Global Process Excellence (m/w/d)",
+   "url": "https://www.rehau.jobs/job/Erlangen-Manager-Global-Process-Excellence-%28mwd%29/1443640933"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Außendienstmitarbeiter (m/w/d) Vertrieb Tiefbau - Sachsen-Anhalt",
+   "url": "https://www.rehau.jobs/job/Frankfurt-Au%C3%9Fendienstmitarbeiter-%28mwd%29-Vertrieb-Tiefbau-Sachsen-Anhalt/1443665233"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Außendienstmitarbeiter technischer Vertrieb (m/w/d) Tiefbau - Rheinland-Pfalz/Saarland",
+   "url": "https://www.rehau.jobs/job/Frankfurt-Au%C3%9Fendienstmitarbeiter-technischer-Vertrieb-%28mwd%29-Tiefbau-Rheinland-PfalzSaarland/1443641933"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Außendienstmitarbeiter (m/w/d) Technischer Vertrieb Tiefbau - Oberbayern",
+   "url": "https://www.rehau.jobs/job/M%C3%BCnchen-Au%C3%9Fendienstmitarbeiter-%28mwd%29-Technischer-Vertrieb-Tiefbau-Oberbayern/1443671033"
+  },
+  {
+   "at": "2026-10-31T02:09:57+00:00",
+   "kind": "new",
+   "site": "REHAU – Erlangen",
+   "title": "Außendienstmitarbeiter technischer Vertrieb (m/w/d) Tiefbau - NRW",
+   "url": "https://www.rehau.jobs/job/Bielefeld-Au%C3%9Fendienstmitarbeiter-technischer-Vertrieb-%28mwd%29-Tiefbau-NRW/1443708733"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Intern Logistica y Planeación de la Demanda",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82068M-p-56984135a9ace06b602207ad9b5d738f/intern-logistica-y-planeacion-de-la-demanda"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "Internship - Strategic Purchasing Electronics",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82186O-p-0b8cd1d46f9963fb1bb9e140c36cb1c9/internship-strategic-purchasing-electronics"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Legal Counsel (m/w/d) ADAS & New Technology",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Legal-Counsel-%28mwd%29-ADAS-&-New-Technology-BW-88046/1422731633"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Ausbildung Fachinformatiker für Anwendungsentwicklung (m/w/d) ab 01.09.2027 in Hannover",
+   "url": "https://jobs.zf.com/job/Hannover-Ausbildung-Fachinformatiker-f%C3%BCr-Anwendungsentwicklung-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1422987433"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "B. Eng. Mechatronik (w/m/d) ab 01.09.2027 in Mannheim",
+   "url": "https://jobs.zf.com/job/Mannheim-B_-Eng_-Mechatronik-%28wmd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433570533"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "B. Eng. Maschinenbau (w/m/d) ab 01.09.2027 in Mannheim",
+   "url": "https://jobs.zf.com/job/Mannheim-B_-Eng_-Maschinenbau-%28wmd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433564133"
+  },
+  {
+   "at": "2026-10-31T02:09:54+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d) ab 01.09.2027 in Mannheim",
+   "url": "https://jobs.zf.com/job/Mannheim-Ausbildung-zum-Industriemechaniker-%28mwd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433555133"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T01:55:52+00:00",
+ "last_run": "2026-10-31T02:11:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
