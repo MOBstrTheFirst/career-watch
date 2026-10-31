@@ -1,5 +1,5 @@
 {
- "alerts": 97,
+ "alerts": 98,
  "commands_set": true,
  "events": [
   {
@@ -750,12 +750,82 @@
    "site": "Fresenius Kabi – Erlangen",
    "title": "Stationsleitung Geriatrie (m/w/d)",
    "url": "https://karriere.fresenius.de/job-detail/79acf694-ca2c-5930-b225-20c1185d7084/stationsleitung-geriatrie-m-w-d"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Maler und Lackierer - Maler (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/maler-lackierer-maler-145"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Maler und Tapezierer (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/maler-tapezierer-12"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Mechatroniker - Kältetechnik (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/mechatroniker-kaeltetechnik-11"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Klempner und Installateur (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/klempner-installateur-4"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Elektroniker/Elektronikerin für Gebäudesystemintegration (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/elektroniker-elektronikerin-gebaeudesystemintegration"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Elektroniker - Energie- und Gebäudetechnik (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/elektroniker-energie-gebaeudetechnik-136"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Elektroinstallateur (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/elektroinstallateur-236"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Heizungs- und Sanitärmonteur (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/heizungs-sanitaermonteur-35"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Gas- und Wasserinstallateur (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/gas-wasserinstallateur-163"
+  },
+  {
+   "at": "2026-10-31T17:10:00+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "31.10.2026 Anlagenmechaniker - Sanitär-, Heizungs- und Klimatechnik (m/w/d) Hannover",
+   "url": "https://www.tempton.de/jobs/anlagenmechaniker-sanitaer-heizungs-klimatechnik-236"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T16:57:30+00:00",
+ "last_run": "2026-10-31T17:10:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
