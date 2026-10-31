@@ -1,5 +1,5 @@
 {
- "alerts": 28,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -505,12 +505,19 @@
    "site": "Koenig & Bauer",
    "title": "Praktikum Qualitätsmanagement Lieferanten",
    "url": "https://jobs.koenig-bauer.com/search/?createNewAlert=false&q=&locationsearch=Deutschland&sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-10-31T02:40:01+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Project Site Specialist (Electrical Testing and Design)",
+   "url": "https://careers.abb/global/en/job/JR00042835/Project-Site-Specialist-Electrical-Testing-and-Design"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T02:33:56+00:00",
+ "last_run": "2026-10-31T02:41:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 16,
+ "runs": 17,
  "tg_offset": 297408924
 }
