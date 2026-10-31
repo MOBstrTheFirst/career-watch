@@ -1,5 +1,5 @@
 {
- "alerts": 70,
+ "alerts": 71,
  "commands_set": true,
  "events": [
   {
@@ -631,12 +631,33 @@
    "site": "Akkodis",
    "title": "Berechnungsingenieur Insassensimulation / Passive Sicherheit (m/w/d)",
    "url": "https://karriere.akkodis.com/search"
+  },
+  {
+   "at": "2026-10-31T08:24:58+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Technischer Projektleiter Industrial & Manufacturing Engineering Automotive (w/m/d) Deutschland, Würzburg Bachelor Fachhochschule Nicht zutreffend Ges",
+   "url": "https://www.brunel.net/de-de/jobs/technischer-projektleiter-industrial-and-manufacturing-engineering-automotive-wmd-tr-302049"
+  },
+  {
+   "at": "2026-10-31T08:24:58+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Payroll Specialist / Lohn- und Gehaltsabrechner (w/m/d) Deutschland, Würzburg Bachelor Fachhochschule Nicht zutreffend Eigenverantwortliche Durchführu",
+   "url": "https://www.brunel.net/de-de/jobs/payroll-specialist-lohn-und-gehaltsabrechner-wmd-tr-302050"
+  },
+  {
+   "at": "2026-10-31T08:24:58+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Entgeltabrechner / Payroll Specialist (w/m/d) Deutschland, Köln Bachelor Fachhochschule Nicht zutreffend Eigenständige Durchführung der monatlichen En",
+   "url": "https://www.brunel.net/de-de/jobs/entgeltabrechner-payroll-specialist-wmd-tr-301959"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T08:11:23+00:00",
+ "last_run": "2026-10-31T08:26:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
