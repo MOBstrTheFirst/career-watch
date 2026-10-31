@@ -1,13 +1,117 @@
 {
- "alerts": 0,
+ "alerts": 1,
  "commands_set": true,
- "events": [],
- "last_missing_parts": [
-  1
+ "events": [
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Ingenieur Energieanlagen (m/w/d) München Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103409/Ingenieur%20Energieanlagen%20(m%2Fw%2Fd)/M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Ingenieur Energieanlagen (m/w/d) Ulm Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103413/Ingenieur%20Energieanlagen%20(m%2Fw%2Fd)/Ulm"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Hochspannung (m/w/d) München Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103381/Bauleiter%20Hochspannung%20(m%2Fw%2Fd)/M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Hochspannung (m/w/d) Stuttgart Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103382/Bauleiter%20Hochspannung%20(m%2Fw%2Fd)/Stuttgart"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Hochspannung (m/w/d) Landshut Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103384/Bauleiter%20Hochspannung%20(m%2Fw%2Fd)/Landshut"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Hochspannung (m/w/d) Augsburg Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103386/Bauleiter%20Hochspannung%20(m%2Fw%2Fd)/Augsburg"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Bauleiter Hochspannung (m/w/d) Ulm Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103388/Bauleiter%20Hochspannung%20(m%2Fw%2Fd)/Ulm"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Ingenieur Energieanlagen (m/w/d) Stuttgart Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103410/Ingenieur%20Energieanlagen%20(m%2Fw%2Fd)/Stuttgart"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Ingenieur Energieanlagen (m/w/d) Landshut Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103411/Ingenieur%20Energieanlagen%20(m%2Fw%2Fd)/Landshut"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Ingenieur Energieanlagen (m/w/d) Augsburg Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103412/Ingenieur%20Energieanlagen%20(m%2Fw%2Fd)/Augsburg"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachingenieur Elektrotechnik (m/w/d) München Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103428/Fachingenieur%20Elektrotechnik%20(m%2Fw%2Fd)/M%C3%BCnchen"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachingenieur Elektrotechnik (m/w/d) Stuttgart Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103430/Fachingenieur%20Elektrotechnik%20(m%2Fw%2Fd)/Stuttgart"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachingenieur Elektrotechnik (m/w/d) Landshut Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103432/Fachingenieur%20Elektrotechnik%20(m%2Fw%2Fd)/Landshut"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachingenieur Elektrotechnik (m/w/d) Augsburg Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103434/Fachingenieur%20Elektrotechnik%20(m%2Fw%2Fd)/Augsburg"
+  },
+  {
+   "at": "2026-10-31T23:11:32+00:00",
+   "kind": "new",
+   "site": "Excellence AG – GreenTech Engineering",
+   "title": "Fachingenieur Elektrotechnik (m/w/d) Ulm Seit 1. November 2026",
+   "url": "https://excellence.ag/jobs/VP-103436/Fachingenieur%20Elektrotechnik%20(m%2Fw%2Fd)/Ulm"
+  }
  ],
- "last_run": "2026-10-31T23:06:42+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-10-31T23:11:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
