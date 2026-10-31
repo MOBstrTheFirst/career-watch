@@ -1,5 +1,5 @@
 {
- "alerts": 73,
+ "alerts": 75,
  "commands_set": true,
  "events": [
   {
@@ -652,12 +652,33 @@
    "site": "Brunel – Nürnberg",
    "title": "Entgeltabrechner / Payroll Specialist (w/m/d) Deutschland, Köln Bachelor Fachhochschule Nicht zutreffend Eigenständige Durchführung der monatlichen En",
    "url": "https://www.brunel.net/de-de/jobs/entgeltabrechner-payroll-specialist-wmd-tr-301959"
+  },
+  {
+   "at": "2026-10-31T09:10:53+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Test Technician Apprenticeship, Cheltenham 2027 intake",
+   "url": "https://careers.geaerospace.com/global/en/job/R5041748/Test-Technician-Apprenticeship-Cheltenham-2027-intake"
+  },
+  {
+   "at": "2026-10-31T09:10:53+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Engineering Maintenance Technician, Cheltenham 2027 Intake",
+   "url": "https://careers.geaerospace.com/global/en/job/R5041747/Engineering-Maintenance-Technician-Cheltenham-2027-Intake"
+  },
+  {
+   "at": "2026-10-31T09:10:53+00:00",
+   "kind": "new",
+   "site": "GE Aerospace – Lichtenfels / Concept Laser (GE Additive) – Lichtenfels",
+   "title": "Advanced Manufacturing Apprenticeship, Cheltenham 2027 intake",
+   "url": "https://careers.geaerospace.com/global/en/job/R5041750/Advanced-Manufacturing-Apprenticeship-Cheltenham-2027-intake"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T08:55:51+00:00",
+ "last_run": "2026-10-31T09:11:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
