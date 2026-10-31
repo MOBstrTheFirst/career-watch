@@ -1,5 +1,5 @@
 {
- "alerts": 99,
+ "alerts": 101,
  "commands_set": true,
  "events": [
   {
@@ -820,12 +820,26 @@
    "site": "TEMPTON Technische Services",
    "title": "31.10.2026 Anlagenmechaniker - Sanitär-, Heizungs- und Klimatechnik (m/w/d) Hannover",
    "url": "https://www.tempton.de/jobs/anlagenmechaniker-sanitaer-heizungs-klimatechnik-236"
+  },
+  {
+   "at": "2026-10-31T17:40:35+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/job/216996/Sales-Manager-m-w-d"
+  },
+  {
+   "at": "2026-10-31T17:40:35+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Jetzt bewerben Sales Manager (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/apply?jobSeqNo=BVYBVZGB216996EXTERNALDEDE"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T17:26:02+00:00",
+ "last_run": "2026-10-31T17:40:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
