@@ -1,5 +1,5 @@
 {
- "alerts": 55,
+ "alerts": 57,
  "commands_set": true,
  "events": [
   {
@@ -624,12 +624,19 @@
    "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
    "title": "Apply now Zone Trainer (Central)",
    "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29733EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-31T07:25:37+00:00",
+   "kind": "possible",
+   "site": "Akkodis",
+   "title": "Berechnungsingenieur Insassensimulation / Passive Sicherheit (m/w/d)",
+   "url": "https://karriere.akkodis.com/search"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T07:10:57+00:00",
+ "last_run": "2026-10-31T07:25:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
