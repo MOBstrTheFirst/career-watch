@@ -1,5 +1,5 @@
 {
- "alerts": 33,
+ "alerts": 34,
  "commands_set": true,
  "events": [
   {
@@ -568,12 +568,26 @@
    "site": "Bureau Veritas CPS Germany",
    "title": "Jetzt bewerben Entwicklungsingenieur Hochfrequenz-Testssystem (m/w/d)",
    "url": "https://jobs.bureauveritas.com/de/de/apply?jobSeqNo=BVYBVZGB215267EXTERNALDEDE"
+  },
+  {
+   "at": "2026-10-31T04:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Sales Excellence Trainer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29736/Sales-Excellence-Trainer"
+  },
+  {
+   "at": "2026-10-31T04:40:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
+   "title": "Apply now Sales Excellence Trainer",
+   "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29736EXTERNALENGLOBAL"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T04:26:17+00:00",
+ "last_run": "2026-10-31T04:40:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 24,
+ "runs": 25,
  "tg_offset": 297408924
 }
