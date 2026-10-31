@@ -1,5 +1,5 @@
 {
- "alerts": 101,
+ "alerts": 104,
  "commands_set": true,
  "events": [
   {
@@ -834,12 +834,47 @@
    "site": "Bureau Veritas CPS Germany",
    "title": "Jetzt bewerben Sales Manager (m/w/d)",
    "url": "https://jobs.bureauveritas.com/de/de/apply?jobSeqNo=BVYBVZGB216996EXTERNALDEDE"
+  },
+  {
+   "at": "2026-10-31T18:40:55+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Werkstudent (w/m/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/job/217771/Werkstudent-w-m-d"
+  },
+  {
+   "at": "2026-10-31T18:40:55+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Jetzt bewerben Werkstudent (w/m/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/apply?jobSeqNo=BVYBVZGB217771EXTERNALDEDE"
+  },
+  {
+   "at": "2026-10-31T18:40:03+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Sharepoint Admin Bangalore,Karnataka,India Service Delivery Hybrid Gepostete vor 12 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777428977"
+  },
+  {
+   "at": "2026-10-31T18:40:03+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "IAM Engineer Bangalore,Karnataka,India it Gepostete vor 3 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121776459189"
+  },
+  {
+   "at": "2026-10-31T18:40:03+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "E2E Solution Architect Singapore,Singapore,Singapore Service Delivery Gepostete vor 4 Monaten",
+   "url": "https://jobs.ericsson.com/careers/job/563121776306980"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T18:25:46+00:00",
+ "last_run": "2026-10-31T18:41:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
