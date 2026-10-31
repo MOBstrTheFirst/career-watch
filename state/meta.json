@@ -1,5 +1,5 @@
 {
- "alerts": 86,
+ "alerts": 87,
  "commands_set": true,
  "events": [
   {
@@ -708,12 +708,19 @@
    "site": "Forvia Hella – Ingolstadt",
    "title": "SAP ABAP Lead Developer",
    "url": "https://hella.csod.com/ux/ats/careersite/3/home/requisition/19071?c=hella"
+  },
+  {
+   "at": "2026-10-31T11:54:53+00:00",
+   "kind": "new",
+   "site": "Dr. Schneider Unternehmensgruppe",
+   "title": "ASSISTANT MANAGER",
+   "url": "https://careers.motherson.com/en/job/assistant-manager-7631"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T11:40:52+00:00",
+ "last_run": "2026-10-31T11:56:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
