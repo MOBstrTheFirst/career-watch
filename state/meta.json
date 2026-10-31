@@ -1,5 +1,5 @@
 {
- "alerts": 34,
+ "alerts": 37,
  "commands_set": true,
  "events": [
   {
@@ -582,12 +582,33 @@
    "site": "Siemens Healthineers – MR (Magnetic Resonance) (+2 more)",
    "title": "Apply now Sales Excellence Trainer",
    "url": "https://careers.siemens-healthineers.com/global/en/apply?jobSeqNo=SHDSHWUSR29736EXTERNALENGLOBAL"
+  },
+  {
+   "at": "2026-10-31T05:09:42+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Data Signing Service DevSecOps Engineer Stockholm,Stockholm,Sweden Product Development Gepostete vor 13 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777400087"
+  },
+  {
+   "at": "2026-10-31T05:09:42+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Improvement Consultant Plano,Texas,United States Service Delivery Gepostete vor 16 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777410981"
+  },
+  {
+   "at": "2026-10-31T05:09:42+00:00",
+   "kind": "new",
+   "site": "Ericsson (Antenna Systems) – Regensburg",
+   "title": "Senior Engineer- Fixed Network Service Manager Noida,Uttar Pradesh,India Service Delivery Gepostete vor 25 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121776955320"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-10-31T04:55:51+00:00",
+ "last_run": "2026-10-31T05:10:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-30",
- "runs": 26,
+ "runs": 27,
  "tg_offset": 297408924
 }
