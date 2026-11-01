@@ -1,5 +1,5 @@
 {
- "alerts": 58,
+ "alerts": 61,
  "commands_set": true,
  "events": [
   {
@@ -1128,12 +1128,54 @@
    "site": "e.solutions GmbH",
    "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/mount/bilder/personen/Gruppe.jpg?cHash=72b93e0a1abc67d21a9dc71248398b2d8cff47683f29f1353f923288d54d15b6",
    "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Professionals/fileadmin/mount/bilder/personen/Gruppe.jpg?cHash=72b93e0a1abc67d21a9dc71248398b2d8cff47683f29f1353f923288d54d15b6"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Techniker Verfahrenstechnische Anlagen im Chemiebereich (w/m/d) Deutschland, Mannheim Bachelor Fachhochschule 2-4 Jahre Die Verantwortung für die Wart",
+   "url": "https://www.brunel.net/de-de/jobs/techniker-verfahrenstechnische-anlagen-im-chemiebereich-wmd-tr-234964"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Spezialist Finanzbuchhaltung (w/m/d) Deutschland, Mannheim Bachelor Universität 2-4 Jahre Sie verantworten die laufende Buchhaltung und stellen eine p",
+   "url": "https://www.brunel.net/de-de/jobs/spezialist-finanzbuchhaltung-wmd-tr-243894"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Fachberater im technischen Vertriebsinnendienst (w/m/d) Deutschland, Mannheim Bachelor Universität 2-4 Jahre Sie beraten unsere Kunden fachkundig zu t",
+   "url": "https://www.brunel.net/de-de/jobs/fachberater-im-technischen-vertriebsinnendienst-wmd-tr-243888"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Elektroplaner / Elektrokonstrukteur Eplan (w/m/d) Deutschland, Dresden Bachelor Universität 0-2 Jahre Die Planung und Realisierung von Steuerungssyste",
+   "url": "https://www.brunel.net/de-de/jobs/elektroplaner-elektrokonstrukteur-eplan-wmd-tr-247064"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Automatisierungsingenieur PCS7 (w/m/d) Deutschland, Chemnitz Bachelor Universität 2-4 Jahre Sie übernehmen die Planung, Programmierung und Inbetriebna",
+   "url": "https://www.brunel.net/de-de/jobs/automatisierungsingenieur-pcs7-wmd-tr-260879"
+  },
+  {
+   "at": "2026-11-01T13:10:03+00:00",
+   "kind": "new",
+   "site": "Brunel – Nürnberg",
+   "title": "Instandhaltungsfachplaner PLT (w/m/d) Deutschland Bachelor Fachhochschule Nicht zutreffend Planung, Abstimmung und Steuerung von Wartungs- sowie Abste",
+   "url": "https://www.brunel.net/de-de/jobs/instandhaltungsfachplaner-plt-wmd-tr-285717"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T12:56:09+00:00",
+ "last_run": "2026-11-01T13:11:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
