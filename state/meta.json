@@ -1,5 +1,5 @@
 {
- "alerts": 26,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -1100,12 +1100,26 @@
    "site": "PELETEC Automatisierungstechnik",
    "title": "3 new text line(s), e.g. 2026-11-01 03:24:35 UTC",
    "url": "https://www.peletec.de"
+  },
+  {
+   "at": "2026-11-01T03:39:58+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Production Assembler",
+   "url": "https://careers.abb/global/en/job/JR00051628/Production-Assembler"
+  },
+  {
+   "at": "2026-11-01T03:39:58+00:00",
+   "kind": "new",
+   "site": "ABB – Nürnberg branch",
+   "title": "Project Planner",
+   "url": "https://careers.abb/global/en/job/JR00029306/Project-Planner"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T03:26:12+00:00",
+ "last_run": "2026-11-01T03:40:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
