@@ -1,5 +1,5 @@
 {
- "alerts": 78,
+ "alerts": 79,
  "commands_set": true,
  "events": [
   {
@@ -1289,12 +1289,19 @@
    "site": "Actemium Cegelec",
    "title": "Neu Ingelheim am Rhein Obermonteur / Bauleiter (w/m/d) Elektrotechnik Berufserfahrene Handwerk, Dienstleistung und Fertigung",
    "url": "https://actemium.career.softgarden.de/jobs/55693112/Obermonteur-Bauleiter-w-m-d-Elektrotechnik"
+  },
+  {
+   "at": "2026-11-01T19:11:16+00:00",
+   "kind": "new",
+   "site": "e.solutions GmbH",
+   "title": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Studierende/fileadmin/mount/bilder/personen/Gruppe.jpg?cHash=aa3a7bc6171ea503ba8433fc1346672c76ac85cbe2d0286bf0c144cd6d4f8f00",
+   "url": "https://www.esolutions.de/en/you-at-esolutions/jobs/seniority/Studierende/fileadmin/mount/bilder/personen/Gruppe.jpg?cHash=aa3a7bc6171ea503ba8433fc1346672c76ac85cbe2d0286bf0c144cd6d4f8f00"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T18:55:46+00:00",
+ "last_run": "2026-11-01T19:11:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 81,
+ "runs": 82,
  "tg_offset": 297408924
 }
