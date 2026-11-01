@@ -1,5 +1,5 @@
 {
- "alerts": 15,
+ "alerts": 16,
  "commands_set": true,
  "events": [
   {
@@ -645,12 +645,19 @@
    "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
    "title": "198397 Stipendiat Fastlane Programm (w/m/x) Veröffentlicht: 31.10.2026 Neue Technologien München Neu Neue Technologien München München",
    "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198397.html"
+  },
+  {
+   "at": "2026-11-01T01:54:45+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 CNC-Maschinenbediener (m/w/d) Sulzbach an der Murr",
+   "url": "https://www.tempton.de/jobs/cnc-maschinenbediener-161"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T01:40:48+00:00",
+ "last_run": "2026-11-01T01:55:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 11,
+ "runs": 12,
  "tg_offset": 297408924
 }
