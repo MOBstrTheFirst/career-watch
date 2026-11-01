@@ -1,5 +1,5 @@
 {
- "alerts": 7,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -344,12 +344,96 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/hr-assistant-m-w-d-31/bewerben"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Vertriebsinnendienstmitarbeiter (m/w/d) (Sales & Vertrieb) in 74348 Lauffen am Neckar Sales & Vertrieb 74348 Lauffen am Neckar Homeoffice möglich Neu ",
+   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-43"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Kauffrau für Büromanagement (m/w/d) (Büroverwaltung) in 74523 Schwäbisch Hall Büroverwaltung 74523 Schwäbisch Hall Homeoffice möglich Neu",
+   "url": "https://jobs.de.dis-ag.com/kauffrau-fuer-bueromanagement-m-w-d-2"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Mechatroniker / Feinmechaniker Montage (m/w/d) (Produktion & Fertigung) in 79427 Eschbach Produktion & Fertigung 79427 Eschbach Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/mechatroniker-feinmechaniker-montage-m-w-d"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriemechaniker (m/w/d) (Technik & Instandhaltung) in 80997 München Technik & Instandhaltung 80997 München Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/industriemechaniker-m-w-d-71"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Fachkraft für Lagerlogistik (m/w/d) (Logistik & Transport) in 81249 München Logistik & Transport 81249 München Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/fachkraft-fuer-lagerlogistik-m-w-d-50"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Buchhalter (m/w/d) Debitoren & Kreditoren | Regensburg | 2 Tage Homeoffice (Rechnungswesen & Finanzen) in 93047 Regensburg Rechnungswesen & Finanzen 9",
+   "url": "https://jobs.de.dis-ag.com/buchhalter-m-w-d-debitoren-und-kreditoren-regensburg-2-tage-homeoffice"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Elektroniker Betriebstechnik (m/w/d) (Technik & Instandhaltung) in 20099 Hamburg Technik & Instandhaltung 20099 Hamburg Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/elektroniker-betriebstechnik-m-w-d-18"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Systemadministrator (m/w/d) (IT & Software) in 76199 Karlsruhe IT & Software 76199 Karlsruhe Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/systemadministrator-m-w-d-49"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Teamassistenz (m/w/d) (Büroverwaltung) in 76131 Karlsruhe Büroverwaltung 76131 Karlsruhe Neu Sofortiger Start",
+   "url": "https://jobs.de.dis-ag.com/teamassistenz-m-w-d-138"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Industriemechaniker Turbinenmontage (m/w/d) (Technik & Instandhaltung) in 45478 Mühlheim an der Ruhr Technik & Instandhaltung 45478 Mühlheim an der Ru",
+   "url": "https://jobs.de.dis-ag.com/industriemechaniker-turbinenmontage-m-w-d-1"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Standorte: Lauffen am Neckar",
+   "url": "https://jobs.de.dis-ag.com/suche/in-lauffen-am-neckar"
+  },
+  {
+   "at": "2026-11-01T00:25:07+00:00",
+   "kind": "new",
+   "site": "DIS AG",
+   "title": "Für Job bewerben",
+   "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-43/bewerben"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T00:14:50+00:00",
+ "last_run": "2026-11-01T00:26:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 5,
+ "runs": 6,
  "tg_offset": 297408924
 }
