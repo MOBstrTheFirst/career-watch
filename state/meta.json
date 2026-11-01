@@ -1,5 +1,5 @@
 {
- "alerts": 9,
+ "alerts": 11,
  "commands_set": true,
  "events": [
   {
@@ -428,12 +428,229 @@
    "site": "DIS AG",
    "title": "Für Job bewerben",
    "url": "https://jobs.de.dis-ag.com/vertriebsinnendienstmitarbeiter-m-w-d-43/bewerben"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Weilburg",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-191"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Göttingen",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-190"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Gießen",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-189"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Rosdorf",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-188"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Weilmünster, Marktflecken",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-187"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Fulda",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-186"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Lauterbach / Hessen",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-185"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Greifenstein",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-184"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Dillenburg",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-183"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Weimar (Lahn)",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-182"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Braunfels",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-181"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Marburg",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-180"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft(m/w/d) Kassel",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-179"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Butzbach",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-178"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Bad Hersfeld",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-177"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Staufenberg",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-176"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Wolfhagen",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-175"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Amöneburg",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-174"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Wetzlar",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-173"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft (m/w/d) Alsfeld",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-172"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 MFA mit Röntgenschein (m/w/d) Landstuhl",
+   "url": "https://www.tempton.de/jobs/mfa-roentgenschein"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachassistent (m/w/d) Unna",
+   "url": "https://www.tempton.de/jobs/pflegefachassistent-pflegfachassistentin-2"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachassistent (m/w/d) Beckum",
+   "url": "https://www.tempton.de/jobs/pflegefachassistent-pflegfachassistentin-1"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachassistent (m/w/d) Ahlen",
+   "url": "https://www.tempton.de/jobs/pflegefachassistent"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachassistent (m/w/d) Hamm",
+   "url": "https://www.tempton.de/jobs/pflegefachassistent-pflegfachassistentin"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachmann/Pflegefachfrau (Gesundheits- und Kinderkrankenpflege) (m/w/d) Nürnberg",
+   "url": "https://www.tempton.de/jobs/pflegefachmann-pflegefachfrau-gesundheits-kinderkrankenpflege-20"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft Steinhagen",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-171"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft Rheda-Wiedenbrück",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-170"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft Versmold",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-169"
+  },
+  {
+   "at": "2026-11-01T00:35:37+00:00",
+   "kind": "new",
+   "site": "TEMPTON Technische Services",
+   "title": "01.11.2026 Pflegefachkraft Werther",
+   "url": "https://www.tempton.de/jobs/pflegefachkraft-168"
+  },
+  {
+   "at": "2026-11-01T00:39:37+00:00",
+   "kind": "new",
+   "site": "BMW Group Plant Regensburg / BMW Group – Wackersdorf supply centre",
+   "title": "198397 Stipendiat Fastlane Programm (w/m/x) Veröffentlicht: 31.10.2026 Neue Technologien München Neu Neue Technologien München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198397.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-01T00:26:33+00:00",
+ "last_run": "2026-11-01T00:39:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-10-31",
- "runs": 6,
+ "runs": 7,
  "tg_offset": 297408924
 }
