@@ -1,5 +1,5 @@
 {
- "alerts": 22,
+ "alerts": 25,
  "commands_set": true,
  "events": [
   {
@@ -218,12 +218,89 @@
    "site": "Infineon Technologies – Regensburg",
    "title": "Internship – Analog-Mixed Signal Architect Support for Automotive Microcontroll (w/m/div) Villach HRC1826657",
    "url": "https://jobs.infineon.com/careers/job/563808972128144"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental Automotive) – Regensburg (+1 more)",
+   "title": "IT Trainee",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF81818A-p-af1f717181ddfe3ed181275c76c913b7/it-trainee"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New Sr Contamination Control Engineer Wilton, US Design Engineering and Architecture",
+   "url": "https://www.asml.com/en/careers/find-your-job/sr-contamination-control-engineer-j00355965"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Praktikant Leadership Development & Kommunikation (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/Taufkirchen-Praktikant-Leadership-Development-&-Kommunikation-%28mwd%29-82024/1363293255"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Abteilungsleitung Konstruktion (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Wetzlar-Abteilungsleitung-Konstruktion-%28wmd%29-35578/1359975055"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Schülerpraktikum",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Sch%C3%BClerpraktikum-82256/1330994955"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "IT Solution Architect / EPM (Enterprise Project Management) Solutions (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-IT-Solution-Architect-EPM-%28Enterprise-Project-Management%29-Solutions-%28wmd%29-89077/1352024155"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Programmmanager für den Hubschrauber NH90 (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Programmmanager-f%C3%BCr-den-Hubschrauber-NH90-%28wmd%29-82256/1330532755"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Industriemechaniker / Mechatroniker (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Industriemechaniker-Mechatroniker-%28wmd%29-73447/1337541955"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Werkstudent Software-Ingenieur - Sensor Simulation (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Software-Ingenieur-Sensor-Simulation-%28wmd%29-89077/1351938155"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Mission UAS Production (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Projektleiter-Mission-UAS-Production-%28mwd%29-82256/1351976355"
+  },
+  {
+   "at": "2026-11-02T02:10:30+00:00",
+   "kind": "new",
+   "site": "ESG – Manching",
+   "title": "Projektleiter Maritime (Domain Solutions) (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Projektleiter-Maritime-%28Domain-Solutions%29-%28wmd%29-26389/1363283855"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-02T01:56:14+00:00",
+ "last_run": "2026-11-02T02:11:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-01",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
