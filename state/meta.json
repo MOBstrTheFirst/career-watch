@@ -1,5 +1,5 @@
 {
- "alerts": 25,
+ "alerts": 29,
  "commands_set": true,
  "events": [
   {
@@ -295,12 +295,54 @@
    "site": "ESG – Manching",
    "title": "Projektleiter Maritime (Domain Solutions) (w/m/d)",
    "url": "https://jobs.hensoldt.net/job/Wilhelmshaven-Projektleiter-Maritime-%28Domain-Solutions%29-%28wmd%29-26389/1363283855"
+  },
+  {
+   "at": "2026-11-02T02:24:52+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Senior Engineer Reliability Product Testing Wuxi HRC1869219",
+   "url": "https://jobs.infineon.com/careers/job/563808972300205"
+  },
+  {
+   "at": "2026-11-02T02:24:52+00:00",
+   "kind": "possible",
+   "site": "Landis+Gyr Germany",
+   "title": "Data Scientist",
+   "url": "https://careers.landisgyr.com/go/View-All-Jobs-Available/4488801/?sortColumn=referencedate&sortDirection=desc"
+  },
+  {
+   "at": "2026-11-02T02:25:25+00:00",
+   "kind": "new",
+   "site": "ASML – Erlangen",
+   "title": "New CS DUV UIR PIMI coordinator Hwasung, Korea Customer Support",
+   "url": "https://www.asml.com/en/careers/find-your-job/cs-duv-uir-pimi-coordinator-j00356475"
+  },
+  {
+   "at": "2026-11-02T02:25:25+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Manager (m/w/d) Ertragsteuern Inland",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Manager-%28mwd%29-Ertragsteuern-Inland-BW-88046/1424400333"
+  },
+  {
+   "at": "2026-11-02T02:25:25+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Mechatroniker in der Instandhaltung (m/w/d) in Bremen",
+   "url": "https://jobs.zf.com/job/Bremen-Mechatroniker-in-der-Instandhaltung-%28mwd%29-in-Bremen-HB-28279/1424255733"
+  },
+  {
+   "at": "2026-11-02T02:25:25+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Schweinfurt / ZF Electronics (Auerbach)",
+   "title": "Küchenmitarbeiter (m/w/d)",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-K%C3%BCchenmitarbeiter-%28mwd%29-BW-88046/1402817833"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-02T02:11:06+00:00",
+ "last_run": "2026-11-02T02:25:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-01",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
