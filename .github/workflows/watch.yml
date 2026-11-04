@@ -22,7 +22,7 @@ jobs:
   # 1) The list is split into 4 parts. Each part runs on its OWN machine, at the same time,
   #    with its own 14-minute limit. Each part only checks ~1/4 of the pages.
   scan:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 14
     strategy:
       fail-fast: false      # one part failing does not stop the others
@@ -68,7 +68,7 @@ jobs:
   report:
     needs: scan
     if: ${{ always() }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
@@ -110,7 +110,7 @@ jobs:
   alert-on-failure:
     needs: [scan, report]
     if: ${{ always() && (needs.scan.result == 'failure' || needs.report.result == 'failure') }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 3
     steps:
       - name: Send Telegram alert
