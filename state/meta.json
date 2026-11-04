@@ -1,5 +1,5 @@
 {
- "alerts": 20,
+ "alerts": 23,
  "commands_set": true,
  "events": [
   {
@@ -393,12 +393,89 @@
    "site": "Rheinmetall",
    "title": "https://www.rheinmetall.com/de/job/sachbearbeiter_qualitaetssicherung_ab_01_02_2027__m_w_d_/1169006",
    "url": "https://www.rheinmetall.com/de/job/sachbearbeiter_qualitaetssicherung_ab_01_02_2027__m_w_d_/1169006"
+  },
+  {
+   "at": "2026-11-04T23:53:35+00:00",
+   "kind": "new",
+   "site": "NVIDIA",
+   "title": "Software Engineering Intern - 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184?locations=91336993fab910af6d6fc4f707bcc1f8"
+  },
+  {
+   "at": "2026-11-04T23:53:35+00:00",
+   "kind": "text",
+   "site": "Taiwan Semiconductor (TSMC)",
+   "title": "1 new text line(s), e.g. Current language",
+   "url": "https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=%5B4762540%5D&1277_format=812&listFilterMode=1"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Java Softwareentwickler (m/w/d) für HMI",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0310262/Java-Softwareentwickler-m-w-d-für-HMI"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Architecte Infrastructure et sécurité (H/F)",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0310356/Architecte-Infrastructure-et-sécurité-H-F"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Antenna MGSE Designer",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0311001/Antenna-MGSE-Designer"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Infrastructure Architect (Open also to Protected Categories - Law 68.99)",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0310087/Infrastructure-Architect-Open-also-to-Protected-Categories-Law-68-99"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Ingénieur Intégration, Vérification, Validation et Qualification",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0311150/Ingénieur-Intégration-Vérification-Validation-et-Qualification"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Avionic S/S Responsible",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0299186/Avionic-S-S-Responsible"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Navigation Payload AIV Engineer",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0307056/Navigation-Payload-AIV-Engineer"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Maintenance Subject Matter Expert",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0306816/Maintenance-Subject-Matter-Expert"
+  },
+  {
+   "at": "2026-11-04T23:54:58+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "title": "Technicien de Test F/H",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0240375/Technicien-de-Test-F-H"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-04T23:44:33+00:00",
+ "last_run": "2026-11-04T23:56:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 5,
+ "runs": 6,
  "tg_offset": 297408924
 }
