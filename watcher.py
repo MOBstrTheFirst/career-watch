@@ -18,6 +18,12 @@ Split mode (used by GitHub Actions, see .github/workflows/watch.yml):
   python watcher.py --shard 2/4      # check only part 2 of 4 of the list -> state/shard_2.json
   python watcher.py --report 4       # merge the 4 parts, answer Telegram commands, daily summary
 Each page always lands in the same part (chosen from a hash of its URL).
+
+Optional keys per site in sites.yaml:
+  pages: ["&p=1", "&p=2"]   # also read these pages (text is added to url; same-name parameters are replaced)
+  scrolls: 15               # how often the browser scrolls down (default 4) - for lists that load on scroll
+  click_text: "Load More"   # browser clicks this button again and again (up to `clicks` times, default 10)
+  link_pattern / js / mode / wait_for as before. Other keys (group, flag, ...) are ignored.
 """
 import argparse
 import asyncio
@@ -42,6 +48,7 @@ STATE_FILE = ROOT / "state.json"          # old single-file state (read once for
 STATE_DIR = ROOT / "state"
 META_FILE = STATE_DIR / "meta.json"
 SITE_TIMEOUT = 150          # seconds: one page may never take longer than this
+PAGE_EXTRA_TIMEOUT = 35     # seconds added per extra page (sites with `pages:`)
 DEFAULT_BUDGET = 11 * 60    # seconds: stop starting new pages after this (job limit is 14 min)
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -223,6 +230,27 @@ def legacy_state():
     return read_json(STATE_FILE, {})
 
 
+def page_urls(site):
+    """The page itself, or one URL per entry in `pages:` (query parameters in the entry replace the same ones)."""
+    url = site["url"]
+    pages = site.get("pages") or []
+    if not pages:
+        return [url]
+    out = []
+    for suffix in pages:
+        s = str(suffix)
+        if s.startswith(("&", "?")) and "#" not in url:
+            # work on the raw text so the rest of the URL stays byte-for-byte the same
+            base, _, query = url.partition("?")
+            new = [x for x in s.lstrip("&?").split("&") if x]
+            keys = {x.split("=", 1)[0] for x in new}
+            kept = [x for x in query.split("&") if x and x.split("=", 1)[0] not in keys]
+            out.append(base + "?" + "&".join(kept + new))
+        else:
+            out.append(url + s)
+    return out
+
+
 # ----------------------------------------------------------------------------- parsing
 def parse_pages(pages, page_url, link_re):
     """pages = list of (html, base_url). Returns (links, cleaned text lines, text char count, cleaned->raw line)."""
@@ -278,8 +306,12 @@ async def fetch_http(client, url):
     return [(r.text, str(r.url))]
 
 
-async def fetch_browser(browser, url, wait_for=None):
+async def fetch_browser(browser, urls, wait_for=None, scrolls=4, click_text=None, clicks=10):
+    """Opens each URL in one browser tab (one after the other) and returns all HTML (page + iframes)."""
+    if isinstance(urls, str):
+        urls = [urls]
     ctx = await browser.new_context(user_agent=UA, locale="de-DE", viewport={"width": 1366, "height": 2000})
+    out = []
     try:
         page = await ctx.new_page()
 
@@ -290,29 +322,46 @@ async def fetch_browser(browser, url, wait_for=None):
                 await route.continue_()
         await page.route("**/*", block_heavy)
 
-        await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        try:
-            await page.wait_for_load_state("networkidle", timeout=20000)
-        except Exception:
-            pass
-        if wait_for:
+        for i, url in enumerate(urls):
             try:
-                await page.wait_for_selector(wait_for, timeout=20000)
+                await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            except Exception:
+                if i == 0:
+                    raise              # the first page must load; later pages may simply not exist
+                continue
+            try:
+                await page.wait_for_load_state("networkidle", timeout=20000 if i == 0 else 10000)
             except Exception:
                 pass
-        # scroll to trigger lazy-loaded job lists
-        for _ in range(4):
-            await page.mouse.wheel(0, 3000)
-            await page.wait_for_timeout(700)
-        await page.wait_for_timeout(1500)
+            if wait_for:
+                try:
+                    await page.wait_for_selector(wait_for, timeout=20000)
+                except Exception:
+                    pass
+            # scroll to trigger lazy-loaded job lists
+            for _ in range(int(scrolls)):
+                await page.mouse.wheel(0, 3000)
+                await page.wait_for_timeout(700)
+            # press a "Load more" button again and again until it is gone
+            if click_text:
+                for _ in range(int(clicks)):
+                    try:
+                        btn = page.get_by_text(click_text, exact=False).first
+                        if not await btn.is_visible(timeout=2000):
+                            break
+                        await btn.click(timeout=5000)
+                        await page.wait_for_timeout(1500)
+                    except Exception:
+                        break
+            await page.wait_for_timeout(1500)
 
-        out = [(await page.content(), page.url)]
-        for fr in page.frames[1:]:  # job lists embedded in iframes (Personio, softgarden, ...)
-            try:
-                if fr.url and fr.url.startswith("http"):
-                    out.append((await fr.content(), fr.url))
-            except Exception:
-                pass
+            out.append((await page.content(), page.url))
+            for fr in page.frames[1:]:  # job lists embedded in iframes (Personio, softgarden, ...)
+                try:
+                    if fr.url and fr.url.startswith("http"):
+                        out.append((await fr.content(), fr.url))
+                except Exception:
+                    pass
         return out
     finally:
         await ctx.close()
@@ -342,9 +391,14 @@ class BrowserPool:
 async def scan_site(site, defaults, client, pool, prev):
     """Returns dict with links, lines, used_js, or error. Never takes longer than SITE_TIMEOUT."""
     try:
-        return await asyncio.wait_for(_scan_site(site, defaults, client, pool, prev), SITE_TIMEOUT)
+        limit = site_timeout(site)
+        return await asyncio.wait_for(_scan_site(site, defaults, client, pool, prev), limit)
     except asyncio.TimeoutError:
-        return {"error": f"page took longer than {SITE_TIMEOUT}s - skipped this run"}
+        return {"error": f"page took longer than {site_timeout(site)}s - skipped this run"}
+
+
+def site_timeout(site):
+    return SITE_TIMEOUT + PAGE_EXTRA_TIMEOUT * max(0, len(page_urls(site)) - 1)
 
 
 async def _scan_site(site, defaults, client, pool, prev):
@@ -352,6 +406,19 @@ async def _scan_site(site, defaults, client, pool, prev):
     js = str(site.get("js", defaults.get("js", "auto"))).lower()
     link_re = re.compile(site["link_pattern"], re.I) if site.get("link_pattern") else JOB_URL_RE
     wait_for = site.get("wait_for")
+    urls = page_urls(site)
+    scrolls = site.get("scrolls", defaults.get("scrolls", 4))
+    click_text, clicks = site.get("click_text"), site.get("clicks", 10)
+
+    async def fetch_all_http():
+        out = []
+        for i, u in enumerate(urls):
+            try:
+                out += await fetch_http(client, u)
+            except Exception:
+                if i == 0:
+                    raise              # the first page must load; later pages may simply not exist
+        return out
 
     def good(res):
         return res[0] or res[2] >= MIN_TEXT_CHARS
@@ -360,7 +427,7 @@ async def _scan_site(site, defaults, client, pool, prev):
     # 1) plain HTTP (skip if js: true, or auto-mode learned that this site needs JS)
     if js == "false" or (js == "auto" and not prev.get("needs_js")):
         try:
-            res = parse_pages(await fetch_http(client, url), url, link_re)
+            res = parse_pages(await fetch_all_http(), url, link_re)
             # In auto mode a page with no job links is retried in the browser.
             if js == "false" and good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
@@ -377,7 +444,8 @@ async def _scan_site(site, defaults, client, pool, prev):
     if js in ("true", "auto"):
         try:
             browser = await pool.get()
-            res = parse_pages(await fetch_browser(browser, url, wait_for), url, link_re)
+            res = parse_pages(await fetch_browser(browser, urls, wait_for, scrolls, click_text, clicks),
+                              url, link_re)
             if good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": True}
             errors.append(f"browser: page nearly empty ({res[2]} chars) - blocked or not loaded")
