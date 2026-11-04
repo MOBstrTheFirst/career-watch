@@ -299,6 +299,19 @@ def parse_pages(pages, page_url, link_re):
     return links, list(raw), total, raw
 
 
+def page_snippet(pages, n=300):
+    """Debug: title + first visible text of what the site sent (to see blocks / consent pages)."""
+    try:
+        soup = BeautifulSoup(pages[0][0], "lxml")
+        title = " ".join((soup.title.get_text() if soup.title else "").split())
+        for tag in soup(["script", "style", "noscript", "svg", "template"]):
+            tag.decompose()
+        text = " ".join(soup.get_text(" ").split())
+        return f'title="{title[:80]}" text="{text[:n]}"'
+    except Exception as e:
+        return f"(no snippet: {type(e).__name__})"
+
+
 # ----------------------------------------------------------------------------- fetching
 async def fetch_http(client, url):
     r = await client.get(url, headers=HEADERS, follow_redirects=True, timeout=30)
@@ -427,14 +440,15 @@ async def _scan_site(site, defaults, client, pool, prev):
     # 1) plain HTTP (skip if js: true, or auto-mode learned that this site needs JS)
     if js == "false" or (js == "auto" and not prev.get("needs_js")):
         try:
-            res = parse_pages(await fetch_all_http(), url, link_re)
+            got = await fetch_all_http()
+            res = parse_pages(got, url, link_re)
             # In auto mode a page with no job links is retried in the browser.
             if js == "false" and good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
             if js == "auto" and res[0]:
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
             if js == "false":
-                errors.append(f"page nearly empty ({res[2]} chars)")
+                errors.append(f"page nearly empty ({res[2]} chars) - site sent: {page_snippet(got)}")
         except Exception as e:
             errors.append(f"HTTP: {type(e).__name__}: {str(e).splitlines()[0] if str(e) else ''}"[:200])
             if js == "false":
@@ -444,11 +458,12 @@ async def _scan_site(site, defaults, client, pool, prev):
     if js in ("true", "auto"):
         try:
             browser = await pool.get()
-            res = parse_pages(await fetch_browser(browser, urls, wait_for, scrolls, click_text, clicks),
-                              url, link_re)
+            got = await fetch_browser(browser, urls, wait_for, scrolls, click_text, clicks)
+            res = parse_pages(got, url, link_re)
             if good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": True}
-            errors.append(f"browser: page nearly empty ({res[2]} chars) - blocked or not loaded")
+            errors.append(f"browser: page nearly empty ({res[2]} chars) - blocked or not loaded - "
+                          f"site sent: {page_snippet(got)}")
         except Exception as e:
             errors.append(f"browser: {type(e).__name__}: {str(e).splitlines()[0] if str(e) else ''}"[:200])
     return {"error": "; ".join(errors) or "unknown error"}
@@ -599,7 +614,7 @@ def site_health(state, sites):
     for s in sites:
         st = state.get(s["url"], {})
         if st.get("fails", 0) > 0:
-            failing.append(f"• {esc(s['name'])} (failed {st['fails']}x: {esc((st.get('last_error') or '')[:100])})")
+            failing.append(f"• {esc(s['name'])} (failed {st['fails']}x: {esc((st.get('last_error') or '')[:400])})")
         elif "line_seen" in st or "line_hashes" in st:
             ok += 1
         else:

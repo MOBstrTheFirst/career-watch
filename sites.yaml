@@ -728,10 +728,10 @@ sites:
   # ================= Priority 2 =================
 
   # tested: 2026-11-05: Deutschland site list read; the page's own job-table address with filterSearch (comma list) returns all 369 jobs in plain HTML.
-  # NOTE: No JS needed; all jobs in one page
+  # NOTE: js: true - plain HTTP from GitHub timed out 3 runs (2026-11-05); works in a real browser (369 links)
   - name: "BMW Group"
     url: "https://www.bmwgroup.jobs/de/de/_jcr_content/main/layoutcontainer/jobfinder30_copy.jobfinder_table.content.html?filterSearch=location_DE%2FDingolfing,location_DE%2FIrlbach-Stra%C3%9Fkirchen,location_DE%2FLandshut,location_DE%2FMunich,location_DE%2FNuremberg,location_DE%2FRegensburg,location_DE%2FStuttgart,location_DE%2FUlm,location_DE%2FWackersdorf&rowIndex=0&blockCount=500"
-    js: false
+    js: true
     link_pattern: "job-description\\.\\d+"
     group: "Priority 2"
 
@@ -935,12 +935,13 @@ sites:
     link_pattern: "jobs\\.smartrecruiters\\.com/"
     group: "Priority 3"
 
-  # tested: 2026-11-04: 12 jobs on one page (9 Munich) | 2026-11-05 review: list shows Munich 9, Heidenheim (~72 km), Austria; all on one page
+  # tested: 2026-11-05: link from Ye + Heidenheim: 23 jobs (19 Munich + 4 Heidenheim), 12 per page, 2 pages
   # NOTE: each job appears in DE and EN - expect 2 alerts per posting
   - name: "TDK (TDK Electronics)"
-    url: "https://www.tdk-electronics.tdk.com/en/2302162/careers/job-offers"
+    url: "https://www.tdk-electronics.tdk.com/en/2302162/careers/job-offers?st=&st_x=&dosearch=1&foa_all_x=on&foa_all=on&location_x=1438&location=1438&location=2291428&location=2291420&we_all_x=on&we_all=on&lang_all_x=on&lang_all=on&sortorder=1"
     js: true
     link_pattern: "/stellenangebote/detail/|/job-offers/detail/"
+    pages: ["&page=0", "&page=1"]
     group: "Priority 3"
 
   # tested: 2026-11-04: country filter works, shows 5 then 'Load More' (3 of 5 in Stuttgart) | 2026-11-05 review: Germany filter shows Stuttgart, Arnstadt, Berlin; still NEEDS 'Load More' click
