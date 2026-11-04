@@ -2,11 +2,11 @@
  "k": 2,
  "n": 4,
  "run": {
-  "alerts": 1,
-  "at": "2026-11-04T23:35:48+00:00",
+  "alerts": 0,
+  "at": "2026-11-04T23:39:34+00:00",
   "events": [],
   "pages": 34,
-  "run_id": "41934675278",
+  "run_id": "41935133536",
   "skipped": [],
   "skipped_count": 0
  },
@@ -14,7 +14,7 @@
   "https://careers.knorr-bremse.com/search/?q=&optionsFacetsDD_country=DE&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "008799c02e": 20761,
     "00b9948dfb": 20761,
@@ -317,517 +317,517 @@
    "links": {
     "https://careers.knorr-bremse.com/job/Aldersbach-AI-&-Data-Solutions-Engineer-%28mwd%29-94501/1402321133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "AI & Data Solutions Engineer (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Chemikant-%28mwd%29-94501/861605801": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Chemikant (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Elektroniker-f%C3%BCr-Betriebstechnik-%28mwd%29-94501/862070001": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Elektroniker für Betriebstechnik (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Industriekaufmann-%28mwd%29-94501/862089201": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Industriekaufmann (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Industriemechaniker-%28mwd%29-94501/862009101": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Industriemechaniker (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Mechatroniker-%28mwd%29-94501/861967501": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Mechatroniker (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Ausbildung-zum-Zerspanungsmechaniker-%28mwd%29-94501/861589601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Zerspanungsmechaniker (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Aushilfe-%28mwd%29-zur-Betreuung-von-Nachhilfeeinheiten-f%C3%BCr-die-Auszubildenden-der-Knorr-Bremse-94501/1432895533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Aushilfe (m/w/d) zur Betreuung von Nachhilfeeinheiten für die Auszubildenden der Knorr-Bremse"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-CNC-Facharbeiter-%28mwd%29-94501/861007501": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "CNC-Facharbeiter (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Maschinenbediener-%28mwd%29-94501/1194359801": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Maschinenbediener (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Metallschleifer-Metall-Schleiftechniker-%28mwd%29-94501/1218342101": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Metallschleifer / Metall- Schleiftechniker (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-Business-Intelligence-&-Analytics-94501/1424298033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) Business Intelligence & Analytics"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-f%C3%BCr-den-Bereich-Prototypenbau-94501/901710601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) für den Bereich Prototypenbau"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-f%C3%BCr-den-Bereich-TechnologieVersuchBefundung-Mechatronik-94501/901706301": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) für den Bereich Technologie/Versuch/Befundung Mechatronik"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-im-Bereich-EntwicklungKonstruktion-Wheelend-94501/862439701": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) im Bereich Entwicklung/Konstruktion Wheelend"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-im-Bereich-Logistik-94501/1284233301": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) im Bereich Logistik"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Praktikanten-%28mwd%29-im-Bereich-Spanende-Fertigung-94501/1285727901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikanten (m/w/d) im Bereich Spanende Fertigung"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Produktionsmitarbeiter-%28mwd%29-im-Bereich-Montage-Mechatronik-befristet-94501/861039801": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Produktionsmitarbeiter (m/w/d) im Bereich Montage Mechatronik befristet"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Produktionsmitarbeiter-%28mwd%29-im-Bereich-Montage-Scheibenbremse-befristet-94501/860959101": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Produktionsmitarbeiter (m/w/d) im Bereich Montage Scheibenbremse befristet"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Sch%C3%BClerpraktikum-%28mwd%29-Standort-Aldersbach-94501/862014701": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Schülerpraktikum (m/w/d) - Standort Aldersbach"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Servicekraft-Gastronomie-Hotelfachmann-frau-%28mwd%29-auf-Minijob-Basis-94501/997255501": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Servicekraft Gastronomie / Hotelfachmann/-frau (m/w/d) auf Minijob Basis"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudent-%28mwd%29-im-Bereich-Austragszentrum-94501/1450691733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) im Bereich Austragszentrum"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudent-%28mwd%29-im-Bereich-Physical-AI-94501/1446605133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) im Bereich Physical AI"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudent-%28mwd%29-im-Bereich-Verpackungsmanagement-94501/1446605233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) im Bereich Verpackungsmanagement"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudenten-%28mwd%29-f%C3%BCr-den-Bereich-Logistikplanung-94501/863456501": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudenten (m/w/d) für den Bereich Logistikplanung"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudenten-%28mwd%29-f%C3%BCr-den-Bereich-Qualit%C3%A4tsplanung-BearbeitungOberfl%C3%A4chentechnik-94501/1450707633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudenten (m/w/d) für den Bereich Qualitätsplanung Bearbeitung/Oberflächentechnik"
     },
     "https://careers.knorr-bremse.com/job/Aldersbach-Werkstudenten-%28mwd%29-f%C3%BCr-den-Bereich-Serienentwicklung-94501/873647401": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudenten (m/w/d) für den Bereich Serienentwicklung"
     },
     "https://careers.knorr-bremse.com/job/Berlin-Instandhalter-%28mwd%29-12681/1446605033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Instandhalter (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Berlin-Sch%C3%BClerpraktikum-Initiativbewerbung-12681/1061133701": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Schülerpraktikum -Initiativbewerbung"
     },
     "https://careers.knorr-bremse.com/job/Berlin-Werkstudent-%28mwd%29-Digitalisierung-&-Data-Analytics-im-Bereich-General-Service-12681/1438281833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) Digitalisierung & Data Analytics im Bereich General Service"
     },
     "https://careers.knorr-bremse.com/job/Berlin-Werkstudent-%28mwd%29-im-Bereich-Human-Resources-12681/1447441533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) im Bereich Human Resources"
     },
     "https://careers.knorr-bremse.com/job/Berlin-Werkstudentin-%28mwd%29-im-Bereich-Auftragsmanagement-im-Rail-Service-12681/1442291433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent/in (m/w/d) im Bereich Auftragsmanagement im Rail Service"
     },
     "https://careers.knorr-bremse.com/job/Gr%C3%BCnheide-%28Mark%29-Werkstudent-Transportmanagement-&-Warehousing-%28mwd%29-15537/1427706833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Transportmanagement & Warehousing (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Abschlussarbeit-im-Bereich-ADAS-%28mwd%29-71229/1450697433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Abschlussarbeit im Bereich ADAS (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Abschlussarbeit-im-Bereich-System-Integration-%28mwd%29-71229/1441448033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Abschlussarbeit im Bereich System Integration (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Head-of-HR-Leonberg-&-D%C3%BCsseldorf-%28mfd%29-71229/1424813133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Head of HR Leonberg & Düsseldorf (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Kfz-Mechatroniker-f%C3%BCr-Bremssteuerung-%28mwd%29-71229/1448151933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Kfz-Mechatroniker für Bremssteuerung (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Personalleitung-Leonberg-&-D%C3%BCsseldorf-%28mwd%29-71229/1424813233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Personalleitung Leonberg & Düsseldorf (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Leonberg-Werkstudent-im-Bereich-Applikation-und-Fahrversuch-%28mwd%29-71229/1413199133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im Bereich Applikation und Fahrversuch (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-AI-Capability-Building-Program-Manager-%28mwd%29-80809/1453651033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "AI Capability Building Program Manager (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Associate-Manager-Group-Strategy-%28mfd%29-80809/1450148833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Associate Manager Group Strategy (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Associate-Manager-Group-Strategy-Energy-Technologies-%28mwd%29-80809/1371694133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Associate Manager Group Strategy / Energy Technologies (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Associate-Manager-Strategy-Rail-%28mfd%29-80809/1448823333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Associate Manager Strategy - Rail (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Change-Management-Lead-%28mwd%29-80809/1453651533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Change Management Lead (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Freiwilliger-Praktikant-strategischer-Indirekter-Einkauf-%28mwd%29-80809/1397705233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Freiwilliger Praktikant strategischer Indirekter Einkauf (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Global-Learning-&-Leadership-Development-Professional-%28mwd%29-80809/1430233833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Global Learning & Leadership Development Professional (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Global-Product-Owner-Trailer-Business-%28mfd%29-80809/1429118833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Global Product Owner Trailer Business (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Global-Product-Owner-Trailer-Business-%28mwd%29-80809/1429118933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Global Product Owner Trailer Business (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Head-of-Commercial-Excellence-%28mwd%29-80809/1447189333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Head of Commercial Excellence (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Head-of-Compensation-Policies-&-Processes-%28mwd%29-80809/1438349233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Head of Compensation Policies & Processes (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Head-of-Labour-Relations-Germany-%28mwd%29-80809/1389279433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Head of Labour Relations Germany (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Investment-Manager-Corporate-M&A-%28mwd%29-80809/1436229033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Investment Manager Corporate M&A (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Investment-Manager-Corporate-M&A-Venture-Capital-Wachstumsfinanzierung-%28mwd%29-80809/1436229733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Investment Manager Corporate M&A / Venture Capital / Wachstumsfinanzierung (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Leiter-Entwicklung-Mechanik-CVS-%28mwd%29-80809/1414799833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Leiter Entwicklung Mechanik CVS (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Manager-Corporate-Security-%28mwd%29-80809/1417356533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Manager Corporate Security (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Operational-Resilience-&-Business-Continuity-Management-%28BCM%29-Coordinator-CVS-%28mfd%29-80809/1445671433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Operational Resilience & Business Continuity Management (BCM) Coordinator - CVS (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Operational-Resilience-&-Business-Continuity-Management-%28BCM%29-Coordinator-CVS-%28mwd%29-80809/1445671333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Operational Resilience & Business Continuity Management (BCM) Coordinator - CVS (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-PMI-and-M&A-Strategy-Specialist-%28mfd%29-80809/1404381933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PMI and M&A Strategy Specialist (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-PMO-One-Team-Growth-%28mfd%29-80809/1453652133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PMO One Team Growth (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-PMO-One-Team-Growth-%28mwd%29-80809/1453652233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PMO One Team Growth (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Praktikant-Restructuring-&-Transformation-%28mwd%29-80809/1442146133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant Restructuring & Transformation (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Praktikant-im-Bereich-Corporate-M&A-%28mwd%29-80809/1086355801": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant im Bereich Corporate M&A (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Praktikum-Corporate-Strategy-%28mwd%29-80809/1224448601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Corporate Strategy (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Referent-des-Vorstandsvorsitzenden-%28mwd%29-80809/1445035033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Referent des Vorstandsvorsitzenden (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Security-Architect-&-Program-Office-Lead-%28mwd%29-80809/1446069933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Security Architect & Program Office Lead (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Compliance-Officer-%28mwd%29-80809/1408774633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Compliance Officer (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Compliance-Officer-%28mwd%29-80809/1408774733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Compliance Officer (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Financial-Controller-%28mfd%29-80809/1391712833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Financial Controller (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Financial-Controller-%28mwd%29-80809/1391712933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Financial Controller (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Manager-Controlling-Governance-&-Quality-%28mwd%29-80809/1452458033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Manager Controlling Governance & Quality (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Senior-Security-Architect-Strategic-Initiatives-%28mwd%29-80809/1446070033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Security Architect - Strategic Initiatives (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Tax-Accounting-Manager-%28mwd%29-80809/1406557333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Tax Accounting Manager (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Tax-Manager-National-Tax-%28mwd%29-80809/1428812833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Tax Manager - National Tax (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Tax-Specialist-VAT-%28mwd%29-80809/1426488833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Tax Specialist VAT (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Total-Rewards-Professional-Corporate-%28mwd%29-80809/1430069533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Total Rewards Professional Corporate (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Vice-President-Global-Industrial-Engineering-%28mfd%29-80809/1414890933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Vice President Global Industrial Engineering (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Vice-President-Global-Industrial-Engineering-Truck-%28mwd%29-80809/1414891033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Vice President Global Industrial Engineering Truck (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Vorstandsreferent-Truck-%28mwd%29-80809/1403027033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Vorstandsreferent Truck (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-AI-Strategy-Support-&-Communication-Strategy-in-IT-Transformation-%28mwd%29-80809/1244240301": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent AI Strategy Support & Communication Strategy in IT Transformation (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Business-Unit-Controlling-%28mwd%29-80809/1450587133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Business Unit Controlling (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Corporate-Real-Estate-Management-%28mwd%29-80809/1425052433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Corporate Real Estate Management (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Global-CVS-Financial-&-Management-Reporting-%28mwd%29-80809/1409855033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Global CVS Financial & Management Reporting (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Global-CVS-Financial-M&A-&-PMI-%28mwd%29-80809/1412111733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Global CVS Financial M&A & PMI (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Global-Mobility-%28mwd%29-80809/1421901933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Global Mobility (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Global-Production-Strategy-&-Investments-%28wmd%29-80809/1436930233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Global Production Strategy & Investments (w/m/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Global-Supply-Chain-Management-%28mwd%29-80809/1447190133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Global Supply Chain Management (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Indirekter-Einkauf-%28mwd%29-80809/1437667233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Indirekter Einkauf (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Projektmanagement-Systemsengineering-%28mwd%29-80809/1445013033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Projektmanagement / Systemsengineering (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Quality-Management-Reklamationsmanagement-%28mwd%29-80809/1454161433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Quality Management / Reklamationsmanagement (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Sales-OEM-Special-Vehicles-%28mwd%29-80809/1427887333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Sales OEM Special Vehicles (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Sales-Support-&-Customer-Management-%28mwd%29-80809/1443016633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Sales Support & Customer Management (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Sensors-&-Electronic-Enclosure-%28mwd%29-80809/1450618833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Sensors & Electronic Enclosure (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Smart-Testing-%28mwd%29-80809/1445013233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Smart Testing (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Supply-Chain-Management-EMEA-%28mwd%29-80809/1451142033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Supply Chain Management EMEA (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Versuch-&-Validierung-%28mwd%29-80809/1424646933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent Versuch & Validierung (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-im-Bereich-Corporate-M&A-%28mwd%29-80809/1088948901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im Bereich Corporate M&A (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-im-Produktmanagement-des-CoC-Brake-Control-%28mwd%29-80809/1427418833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im Produktmanagement des CoC Brake Control (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-im-strategischen-IT-Einkauf-%28mwd%29-80809/1432071633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im strategischen IT-Einkauf (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Working-Student-AI-Strategy-Support-&-Communication-Strategy-in-IT-Transformation-and-Digita-%28mfd%29-80809/1244240201": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Working Student AI Strategy Support & Communication Strategy in IT Transformation and Digita (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Working-Student-Human-Resources-EMEA-%28mfd%29-80809/1454304933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Working Student Human Resources EMEA (m/f/d)"
     },
     "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Working-Student-Sales-Controlling-&-Planning-%28mwd%29-80809/1429290733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Working Student Sales Controlling & Planning (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Pullach-im-Isartal-Referent-Business-Development-&-Projektmanagement-%28mwd%29-82049/1421342433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Referent Business Development & Projektmanagement (m/w/d)"
     },
     "https://careers.knorr-bremse.com/job/Pullach-im-Isartal-Werkstudent-IP-Management-%28mwd%29-82049/1450638133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent IP-Management (m/w/d)"
     }
    },
@@ -838,7 +838,7 @@
   "https://careers.telekom.com/de/jobs?location=Erlangen&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "052eb108ae": 20761,
     "08fd64732a": 20761,
@@ -915,27 +915,27 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312852": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312438": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321650": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-322251": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/civil-engineering-specialist-m-f-d-civil-engineering-fiberglass-nuremberg-erlangen-238480": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     }
    },
@@ -946,7 +946,7 @@
   "https://careers.telekom.com/de/jobs?location=Karlsruhe&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "023b5a838d": 20761,
     "052eb108ae": 20761,
@@ -1033,62 +1033,62 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-at-deutsche-telekom-m-f-d-314300": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-computer-science-expert-system-integration-m-f-d-312551": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312757": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-or-dual-study-program-at-deutsche-telekom-m-f-d-314353": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312487": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321421": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321420": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-business-informatics-m-f-d-312891": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-computer-science-and-artificial-intelligence-m-f-d-317302": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-computer-science-field-of-study-artificial-intelligence-m-f-d-313276": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-m-f-d-at-deutsche-telekom-314354": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sales-expert-m-w-d-x-sap-solutions-760161": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     }
    },
@@ -1099,7 +1099,7 @@
   "https://careers.telekom.com/de/jobs?location=Reutlingen&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "048f55e2d1": 20761,
     "052eb108ae": 20761,
@@ -1172,17 +1172,17 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312837": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321603": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321602": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     }
    },
@@ -1193,7 +1193,7 @@
   "https://careers.telekom.com/de/jobs?location=W%C3%BCrzburg&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "023b5a838d": 20761,
     "052eb108ae": 20761,
@@ -1283,82 +1283,82 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-at-deutsche-telekom-m-f-d-314316": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-commercial-specialist-for-it-system-management-m-f-d-312675": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-computer-science-expert-system-integration-m-f-d-312567": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312847": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-or-dual-study-program-at-deutsche-telekom-m-f-d-314385": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312479": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-computer-science-expert-system-integration-m-f-d-321632": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321636": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-at-deutsche-telekom-321631": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-321633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-management-assistant-for-dialogue-marketing-321634": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321635": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/civil-engineering-worker-m-f-d-x-civil-engineering-schweinfurt-wrzburg-bayreuth-563465373287404": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/construction-manager-m-f-d-x-fiberglass-civil-engineering-schweinfurt-wrzburg-563465373287199": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-m-f-d-at-deutsche-telekom-314386": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/foreman-m-f-d-fiberglass-fiberglass-wrzburg-563465373287319": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Jobdetails"
     }
    },
@@ -1369,7 +1369,7 @@
   "https://careers.thalesgroup.com/global/en/search-results?qcity=M%C3%BCnchen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "007fe28629": 20761,
     "0166cb9797": 20761,
@@ -1496,6 +1496,7 @@
     "6966922100": 20761,
     "6aa4280e0c": 20761,
     "6cfd22a68c": 20761,
+    "6f8c375b2e": 20761,
     "7039e6caa9": 20761,
     "7141d15171": 20761,
     "719e8f0fff": 20761,
@@ -1685,17 +1686,17 @@
    "links": {
     "https://careers.thalesgroup.com/global/en/job/R0308984/Regional-Sales-Manager-Identity-Access-Management-f-m-d": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Regional Sales Manager, Identity & Access Management (f/m/d)"
     },
     "https://careers.thalesgroup.com/global/en/job/R0341557/Technical-Account-Manager": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Technical Account Manager"
     },
     "https://careers.thalesgroup.com/global/en/job/R0342667/Product-Manager-Go-to-Market-Specialist": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Product Manager & Go-to Market Specialist"
     }
    },
@@ -1706,7 +1707,7 @@
   "https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=%5B4762540%5D&1277_format=812&listFilterMode=1": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "01ea306fd6": 20761,
     "04bceadb13": 20761,
@@ -1819,7 +1820,7 @@
   "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs?split_view=true&query=&location=Huawei+Heisenberg+Research+Center+%28Munich%29": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0132375d9a": 20761,
     "02cef0f08f": 20761,
@@ -1927,102 +1928,102 @@
    "links": {
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8187727-principal-engineer-vehicle-dynamics-controls": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal Engineer - Vehicle Dynamics Controls Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Cen"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8187836-principal-engineer-steering-systems-eps-sbw-function-design-and-tuning": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal Engineer - Steering Systems (EPS/SbW) Function Design and Tuning Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Hu"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8187946-principal-engineer-brake-systems-ehb-bbw-function-design-and-tuning": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal Engineer - Brake Systems (EHB/BbW) Function Design and Tuning Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawe"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8188088-chief-engineer-vehicle-dynamics-controls": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Chief Engineer - Vehicle Dynamics Controls Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center "
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8190199-principal-senior-ai-engineer-e2e-advanced-driving": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal/Senior AI Engineer – E2E Advanced Driving Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Researc"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8221749-intern-algorithm-development-for-advanced-driving-systems": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Intern - Algorithm Development for Advanced Driving Systems Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8223067-assistant-of-college-competition-18-month-leased-labor": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Assistant of College Competition (18-Month Leased Labor) Human Resources, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center (Mun"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8223564-intern-ai-architectures-research-for-safety-related-systems": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Intern - AI Architectures Research for Safety Related Systems Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenbe"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8230678-chief-engineer-acoustics": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Chief Engineer - Acoustics Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center (Munich)"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8230771-principal-engineer-acoustics": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal Engineer - Acoustics Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center (Munich)"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8287587-assistant-contest-management-18-month-leased-labor": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Assistant - Contest Management (18-Month Leased Labor) European Research Institute (ERI) · Huawei Heisenberg Research Center (Munich)"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8296834-senior-engineer-digital-signal-processing-for-optical-networks": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Engineer - Digital Signal Processing for Optical Networks Optical Technology Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenber"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8429435-principal-senior-research-engineer-sensor-application-technology-planning": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal/Senior Research Engineer- Sensor Application Technology Planning Precision Module and Equipment Laboratory, Heisenberg Research Center (Muni"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8450785-principal-engineer-high-speed-test-instrument-hardware-development-engineer": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Principal Engineer - High-Speed Test Instrument Hardware Development Eng... Precision Module and Equipment Laboratory, Heisenberg Research Center (Mun"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8473636-safety-expert-vehicle-dynamics-control": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Safety Expert - Vehicle Dynamics Control Automotive Engineering Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center (M"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8515859-senior-engineer-spatial-awareness-enhancement-for-hearing-health-18-month-leased-labor": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Engineer – Spatial awareness enhancement for hearing health (18-M... Audiovisual Technology Laboratory, Heisenberg Research Center (Munich) · H"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8544173-senior-principal-expert-ai-xpu-power-architecture": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior/Principal/Expert - AI xPU Power Architecture Power Conversion Technology Laboratory, Ohm Research Center (Nuremberg) · Huawei Ohm Research Cent"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8549596-technical-expert-system-architecture-for-large-scale-pv-bess": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Technical Expert - System Architecture for Large-Scale PV & BESS Power Conversion Technology Laboratory, Ohm Research Center (Nuremberg) · Huawei Heis"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8624057-phd-student-multi-tier-optical-circuit-switching-for-ai-datacenters": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD Student - Multi-Tier Optical Circuit Switching for AI Datacenters Optical Technology Laboratory, Heisenberg Research Center (Munich) · Huawei Heis"
     },
     "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8665769-intern-software-engineer-spatial-ai-agent-platform": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Intern - Software Engineer, Spatial AI Agent Platform Riemann, Hilbert Research Center (Dresden) · Huawei Heisenberg Research Center (Munich)"
     }
    },
@@ -2033,7 +2034,7 @@
   "https://jobs.apple.com/en-us/search?sort=newest&location=munich-MUN+germany-DEU": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "00d4d50f5e": 20761,
     "01ed068b3c": 20761,
@@ -2456,102 +2457,102 @@
    "links": {
     "https://jobs.apple.com/en-us/details/114438033/de-business-expert-m-f-d?team=APPST": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "DE-Business Expert (m/f/d)"
     },
     "https://jobs.apple.com/en-us/details/114438037/de-operations-expert-m-f-d?team=APPST": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "DE-Operations Expert (m/f/d)"
     },
     "https://jobs.apple.com/en-us/details/114438043/de-specialist-seasonal-full-time-and-part-time?team=APPST": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "DE - Specialist: Seasonal, Full-time and Part-time"
     },
     "https://jobs.apple.com/en-us/details/114438207/de-technical-specialist-m-f-d?team=APPST": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "DE-Technical Specialist (m/f/d)"
     },
     "https://jobs.apple.com/en-us/details/200642449-1731/soc-physical-design-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "SoC Physical Design Engineer (M, F, D)"
     },
     "https://jobs.apple.com/en-us/details/200653786-1731/sta-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "See full role description"
     },
     "https://jobs.apple.com/en-us/details/200655452-1731/experienced-power-emir-design-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Experienced Power/EMIR Design Engineer (M, F, D)"
     },
     "https://jobs.apple.com/en-us/details/200682664-1731/formal-verification-intern?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Formal Verification Intern"
     },
     "https://jobs.apple.com/en-us/details/200690139-1731/internship-software-engineering?team=SFTWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Internship - Software Engineering"
     },
     "https://jobs.apple.com/en-us/details/200690366-1731/technical-writer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "See full role description"
     },
     "https://jobs.apple.com/en-us/details/200690368-1731/design-verification-engineer-for-cellular-baseband-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Design Verification Engineer for Cellular Baseband (m/f/d)"
     },
     "https://jobs.apple.com/en-us/details/200690377-1731/research-scientist-intern-human-centric-generative-ai?team=MLAI": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Research Scientist Intern – Human-Centric Generative AI"
     },
     "https://jobs.apple.com/en-us/details/200690378-1731/cellular-baseband-design-verification-intern?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Cellular Baseband Design Verification Intern"
     },
     "https://jobs.apple.com/en-us/details/200690524-0399/client-partner-industry-vertical-dach-cee?team=SLDEV": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Client Partner - Industry Vertical, (DACH & CEE)"
     },
     "https://jobs.apple.com/en-us/details/200690953-1731/experienced-soc-digital-design-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Experienced SoC Digital Design Engineer (M, F, D)"
     },
     "https://jobs.apple.com/en-us/details/200690954-1731/early-career-soc-digital-design-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Early Career - SoC Digital Design Engineer (M, F, D)"
     },
     "https://jobs.apple.com/en-us/details/200692236-5487/internship-machine-learning-research-speech-to-speech-translation?team=STDNT": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation"
     },
     "https://jobs.apple.com/en-us/details/200692460-1731/sta-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "See full role description"
     },
     "https://jobs.apple.com/en-us/details/200693137-1731/soc-digital-verification-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "SoC Digital Verification Engineer (m/f/d)"
     },
     "https://jobs.apple.com/en-us/details/200693399-1731/analog-design-engineer-m-f-d?team=HRDWR": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Analog Design Engineer (m/f/d)"
     }
    },
@@ -2562,7 +2563,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Ansbach": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -2785,6 +2786,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -2805,42 +2807,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF295641J-praktikum-controlling": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Controlling"
     },
     "https://jobs.bosch.com/en/job/REF295740P-praktikum-elektrotechnik-hardwarenahe-softwareentwicklung-auf-embedded-systems": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Elektrotechnik, hardwarenahe Softwareentwicklung auf embedded Systems"
     },
     "https://jobs.bosch.com/en/job/REF295742W-praktikum-softwareentwicklung-und-datenanalyse": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Softwareentwicklung und Datenanalyse"
     },
     "https://jobs.bosch.com/en/job/REF296862T-praktikum-human-resources-personalmanagement-und-personalentwicklung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Human Resources - Personalmanagement und Personalentwicklung"
     },
     "https://jobs.bosch.com/en/job/REF296868F-praktikum-manufacturing-engineering-fuer-humanoide-robotik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Manufacturing Engineering für Humanoide Robotik"
     },
     "https://jobs.bosch.com/en/job/REF296949O-praktikum-qualitaet-im-einkauf": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Qualität im Einkauf"
     },
     "https://jobs.bosch.com/en/job/REF298344B-praktikum-manufacturing-engineering-industrialisierung-humanoider-roboter": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Manufacturing Engineering - Industrialisierung Humanoider Roboter"
     },
     "https://jobs.bosch.com/en/job/REF299694M-praktikum-energie-und-gebaeudetechnik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Energie- und Gebäudetechnik"
     }
    },
@@ -2851,7 +2853,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Augsfeld": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "0471386edf": 20761,
@@ -3066,6 +3068,7 @@
     "ebdc0ee8b4": 20761,
     "ee9c4808ba": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -3085,22 +3088,22 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF279876F-facharbeiter-im-bereich-montage-pruefen-maschinenbedienung-w-m-div-befristet": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Facharbeiter im Bereich Montage/Prüfen/Maschinenbedienung (w/m/div.) - befristet"
     },
     "https://jobs.bosch.com/en/job/REF280078C-maler-und-lackierer-w-m-div-befristet": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Maler und Lackierer (w/m/div.) - befristet"
     },
     "https://jobs.bosch.com/en/job/REF290349M-zerspanungsmechaniker-w-m-div-befristet": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Zerspanungsmechaniker (w/m/div.) - befristet"
     },
     "https://jobs.bosch.com/en/job/REF293390A-praktikum-in-der-kundenauftragsabwicklung-und-programmplanung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum in der Kundenauftragsabwicklung und Programmplanung"
     }
    },
@@ -3111,7 +3114,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Blaichach": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "0471386edf": 20761,
@@ -3336,6 +3339,7 @@
     "eb5faa9c4b": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -3356,42 +3360,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF296484Q-praktikum-im-bereich-sondermaschinenbau-mechatronik-konstruktion": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Sondermaschinenbau, Mechatronik, Konstruktion"
     },
     "https://jobs.bosch.com/en/job/REF296534X-pflichtpraktikum-in-der-prozessentwicklung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pflichtpraktikum in der Prozessentwicklung"
     },
     "https://jobs.bosch.com/en/job/REF297316H-praktikum-in-der-softwareentwicklung-low-code-oder-rich-code": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code"
     },
     "https://jobs.bosch.com/en/job/REF298666V-praktikum-im-bereich-logistik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Logistik"
     },
     "https://jobs.bosch.com/en/job/REF298670R-praktikum-im-bereich-logistik-qualitaet": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Logistik-Qualität"
     },
     "https://jobs.bosch.com/en/job/REF299620N-praktikum-im-sondermaschinenbau-konstruktion-und-entwicklung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Sondermaschinenbau – Konstruktion und Entwicklung"
     },
     "https://jobs.bosch.com/en/job/REF299945K-abschlussarbeit-thermische-fuegeverfahren-im-bereich-schweisstechnik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Abschlussarbeit Thermische Fügeverfahren im Bereich Schweißtechnik"
     },
     "https://jobs.bosch.com/en/job/REF299996J-pflichtpraktikum-data-management-fertigung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pflichtpraktikum Data Management Fertigung"
     }
    },
@@ -3402,7 +3406,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Horb%20am%20Neckar": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "0471386edf": 20761,
@@ -3628,6 +3632,7 @@
     "ebdfba68a6": 20761,
     "ee9c4808ba": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -3648,42 +3653,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF25138V-produktionsmitarbeiter-in-montage-und-hydraulische-pruefung-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Produktionsmitarbeiter:in - Montage und hydraulische Prüfung (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF278882K-cnc-maschineneinrichter-in-fuer-die-zerspanung-m-w-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "CNC-Maschineneinrichter:in für die Zerspanung (m/w/div.)"
     },
     "https://jobs.bosch.com/en/job/REF285949P-kundenplaner-befristet-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Kundenplaner, befristet (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF290002D-praktikum-in-der-entwicklung-zur-performance-steigerung-der-dynamik-und-akustik-von-hochleistungs-hydromaschinen": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum in der Entwicklung zur Performance-Steigerung der Dynamik und Akustik von Hochleistungs-Hydromaschinen"
     },
     "https://jobs.bosch.com/en/job/REF297827J-materialversorgung-physische-logistik-m-w-d": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Materialversorgung physische Logistik (m./w./d.)"
     },
     "https://jobs.bosch.com/en/job/REF297912G-werkstudententaetigkeit-pruefmittelmanagement-und-technische-stammdatenpflege": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudententätigkeit: Prüfmittelmanagement und technische Stammdatenpflege"
     },
     "https://jobs.bosch.com/en/job/REF298912I-praktikum-simulation-von-druckpulsationen-in-axialkolbenpumpen": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum: Simulation von Druckpulsationen in Axialkolbenpumpen"
     },
     "https://jobs.bosch.com/en/job/REF299511E-masterarbeit-ki-agenten-simulationsentwicklung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Masterarbeit: KI-Agenten & Simulationsentwicklung"
     }
    },
@@ -3694,7 +3699,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Karlsruhe": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "01424f0f8b": 20761,
     "0318127d9c": 20761,
@@ -3921,6 +3926,7 @@
     "ebdfba68a6": 20761,
     "ec7c9a18bf": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -3941,42 +3947,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF293542P-praktikum-marketing-und-vertrieb-werkstattausruestung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Marketing und Vertrieb - Werkstattausrüstung"
     },
     "https://jobs.bosch.com/en/job/REF297318P-praktikum-in-der-transportlogistik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum in der Transportlogistik"
     },
     "https://jobs.bosch.com/en/job/REF298577P-praktikum-im-bereich-einkaufsqualitaet": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Einkaufsqualität"
     },
     "https://jobs.bosch.com/en/job/REF298603D-praktikum-im-internationalen-vertrieb": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im internationalen Vertrieb"
     },
     "https://jobs.bosch.com/en/job/REF299499D-praktikum-in-der-werblichen-produktkommunikation": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum in der werblichen Produktkommunikation"
     },
     "https://jobs.bosch.com/en/job/REF299532H-praktikum-interne-kommunikation-und-presse": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Interne Kommunikation und Presse"
     },
     "https://jobs.bosch.com/en/job/REF299706Z-praktikum-digitale-kommunikation": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Digitale Kommunikation"
     },
     "https://jobs.bosch.com/en/job/REF299740Q-pflichtpraktikum-im-technischen-vertrieb-erstausruestung-im-bereich-off-highway": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pflichtpraktikum im technischen Vertrieb – Erstausrüstung im Bereich Off-Highway"
     }
    },
@@ -3987,7 +3993,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Landshut": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -4202,6 +4208,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -4223,37 +4230,37 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF262633H-systemintegrator-fuer-sicherheitstechnische-anlagen-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Systemintegrator für sicherheitstechnische Anlagen (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF262634A-servicetechniker-fuer-systemintegration-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Servicetechniker für Systemintegration (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF281500P-elektroniker-sicherheitstechniker-gebiet-landshut-freising-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Elektroniker / Sicherheitstechniker - Gebiet Landshut/Freising (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF290236M-elektroniker-sicherheitstechniker-gebiet-landshut-vilsbiburg-altoetting-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Elektroniker / Sicherheitstechniker - Gebiet Landshut / Vilsbiburg / Altötting (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF291398X-elektroniker-sicherheitstechniker-gebiet-manching-pfaffenhofen-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Elektroniker / Sicherheitstechniker - Gebiet Manching / Pfaffenhofen (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF292549Z-elektroniker-fuer-die-instandhaltung-gebiet-manching-pfaffenhofen-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Elektroniker für die Instandhaltung - Gebiet Manching / Pfaffenhofen (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF299601I-kundendiensttechniker-industrieanwendungen-raum-landshut-muenchen-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Kundendiensttechniker Industrieanwendungen Raum Landshut, München (w/m/div.)"
     }
    },
@@ -4264,7 +4271,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Leonberg": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -4477,6 +4484,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -4498,22 +4506,22 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF292832U-premaster-program-management-assistance-in-fc-area-focus-controlling": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PreMaster Program - Management Assistance in FC Area, Focus Controlling"
     },
     "https://jobs.bosch.com/en/job/REF294985Z-mandatory-internship-in-the-international-sales-team-for-mercedes-benz": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mandatory Internship in the international Sales Team for Mercedes-Benz"
     },
     "https://jobs.bosch.com/en/job/REF296958A-mandatory-internship-sales-customer-team-bmw-automotive": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mandatory Internship Sales Customer Team BMW Automotive"
     },
     "https://jobs.bosch.com/en/job/REF299922G-pflichtpraktikum-im-bereich-fuehrung-und-zusammenarbeit": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pflichtpraktikum im Bereich Führung und Zusammenarbeit"
     }
    },
@@ -4524,7 +4532,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Renningen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -4750,6 +4758,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -4769,42 +4778,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF206677I-phd-generative-models-for-closed-loop-synthesis": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD – Generative Models for Closed-loop Synthesis"
     },
     "https://jobs.bosch.com/en/job/REF291272K-phd-safety-contracts-for-physical-ai": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD - Safety Contracts for Physical AI"
     },
     "https://jobs.bosch.com/en/job/REF292255Z-phd-lab-on-chip-sample-preparation-for-next-generation-molecular-diagnostics": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD - Lab on Chip Sample Preparation for Next-Generation Molecular Diagnostics"
     },
     "https://jobs.bosch.com/en/job/REF295529H-phd-a-generator-of-optimized-winding-schemes-in-electrical-machines": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD - A Generator of Optimized Winding Schemes in Electrical Machines"
     },
     "https://jobs.bosch.com/en/job/REF298426D-praktikum-praediktive-regelung-von-heim-energiemanagementsystemen": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Prädiktive Regelung von Heim-Energiemanagementsystemen"
     },
     "https://jobs.bosch.com/en/job/REF299637E-masterarbeit-kopplung-der-fem-und-der-peridynamik-zur-korrosionssimulation-in-python": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Masterarbeit Kopplung der FEM und der Peridynamik zur Korrosionssimulation in Python"
     },
     "https://jobs.bosch.com/en/job/REF299683L-praktikum-im-bereich-analytische-chemie": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Analytische Chemie"
     },
     "https://jobs.bosch.com/en/job/REF299795R-phd-end-to-end-trainable-system-for-autonomous-driving-with-introspection": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PhD - End-to-End Trainable System for Autonomous Driving with Introspection"
     }
    },
@@ -4815,7 +4824,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Reutlingen%20-%20Kusterdingen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "0471386edf": 20761,
@@ -5047,6 +5056,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -5068,42 +5078,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF245716Q-premaster-m-w-div-dein-supply-chain-abenteuer": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PreMaster (m/w/div.): Dein Supply Chain Abenteuer!"
     },
     "https://jobs.bosch.com/en/job/REF259086I-premaster-programm-im-bereich-operatives-supply-chain-management-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PreMaster Programm im Bereich operatives Supply Chain Management (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF285025R-premaster-projektleitung-und-produktbetreuung-in-der-serienfertigung-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PreMaster Projektleitung und Produktbetreuung in der Serienfertigung (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF288913H-asic-digital-lead-atpg-methodology-f-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "ASIC Digital Lead - ATPG & Methodology (f/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF299589V-pre-master-im-bereich-intralogistik-halbleiter-backend-schwerpunkt-digitalisierung-automatisierung-operative-taetigkeiten-m-w-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pre-Master im Bereich Intralogistik Halbleiter-Backend (Schwerpunkt: Digitalisierung / Automatisierung / operative Tätigkeiten) (m/w/div.)"
     },
     "https://jobs.bosch.com/en/job/REF299608V-praktikum-metrology-in-der-halbleiterfertigung": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Metrology in der Halbleiterfertigung"
     },
     "https://jobs.bosch.com/en/job/REF299626I-praktikum-im-bereich-testing-fuer-bosch-ebike-systems": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Testing für Bosch eBike Systems"
     },
     "https://jobs.bosch.com/en/job/REF299793Y-premaster-im-bereich-produktmanagement-mems-sensoren-m-w-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PreMaster im Bereich Produktmanagement MEMS Sensoren (m/w/div.)"
     }
    },
@@ -5114,7 +5124,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Mitte": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -5320,6 +5330,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -5339,7 +5350,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF247269Y-junior-managers-program-trainee-start-your-leadership-journey-in-hr-business-strategy": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in HR, Business & Strategy"
     }
    },
@@ -5350,7 +5361,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -5555,6 +5566,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -5574,7 +5586,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF298678F-dualer-master-m-a-personalmanagement-und-wirtschaftspsychologie-m-w-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Dualer Master (M.A.) Personalmanagement und Wirtschaftspsychologie (m/w/div.)"
     }
    },
@@ -5585,7 +5597,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Traunstein": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -5791,6 +5803,7 @@
     "eb5bfbd381": 20761,
     "ebdc0ee8b4": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -5810,7 +5823,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF292692O-vertriebsmitarbeiter-im-innendienst-fuer-die-buderus-niederlassung-traunstein-w-m-div": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Vertriebsmitarbeiter im Innendienst für die Buderus Niederlassung Traunstein (w/m/div.)"
     }
    },
@@ -5821,7 +5834,7 @@
   "https://jobs.bosch.com/en/?country=de&location=deutschlandweit": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0318127d9c": 20761,
     "062403bcd6": 20761,
@@ -6029,6 +6042,7 @@
     "ebdc0ee8b4": 20761,
     "ee9c4808ba": 20761,
     "eec8da207f": 20761,
+    "ef12c0b741": 20761,
     "ef8b97f265": 20761,
     "f018d7fc78": 20761,
     "f09ddfbbff": 20761,
@@ -6048,12 +6062,12 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF273521G-graduate-specialist-program-trainee-technischer-vertrieb-connected-hydraulics": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Graduate Specialist Program (Trainee) - Technischer Vertrieb Connected Hydraulics"
     },
     "https://jobs.bosch.com/en/job/REF292267R-graduate-specialist-program-trainee-technischer-vertrieb-mit-schwerpunkt-mobilhydraulik": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Graduate Specialist Program (Trainee) - Technischer Vertrieb mit Schwerpunkt Mobilhydraulik"
     }
    },
@@ -6064,7 +6078,7 @@
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=M%C3%BCnchen&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "05381ac8af": 20761,
     "063ae38c95": 20761,
@@ -6138,92 +6152,92 @@
    "links": {
     "https://jobs.fraunhofer.de/job/Garching-bei-M%C3%BCnchen-Initiativbewerbung-f%C3%BCr-wissenschaftliche-Position-am-Fraunhofer-AISEC-%28all-genders%29-85748/1452767533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Initiativbewerbung für wissenschaftliche Position am Fraunhofer AISEC (all genders)"
     },
     "https://jobs.fraunhofer.de/job/Garching-bei-M%C3%BCnchen-Wissenschaftlicher-Mitarbeiterin-%28m%2C-w%2C-d%29-Gie%C3%9Fereitechnik-85748/1452914133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Wissenschaftliche*r Mitarbeiter*in (m, w, d) Gießereitechnik"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Applikationsexperte-SAP-SD-in-Teilzeit-%28all-genders%29-80686/1454290033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Applikationsexperte SAP SD in Teilzeit (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Ausbildung-zumzur-Kaufmannfrau-f%C3%BCr-B%C3%BCromanagement-Einkauf-und-Kaufm%C3%A4nnische-Steuerung-%28all-gende-80686/1449926533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum*zur Kaufmann*frau für Büromanagement - Einkauf und Kaufmännische Steuerung (all gende"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Ausbildung-zumzur-Kaufmannfrau-f%C3%BCr-B%C3%BCromanagement-Personalwesen%2C-Assistenz-und-Sekretariat-%28all-80686/1449915533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum*zur Kaufmann*frau für Büromanagement - Personalwesen, Assistenz und Sekretariat (all"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Doktorand-im-Bereich-FSME-und-Zeckenforschung-%28all-genders%29-80799/1425261133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Doktorand im Bereich FSME- und Zeckenforschung (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-IT-Fachexperte-Entgeltabrechnung-80686/1435159733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "IT-Fachexperte Entgeltabrechnung"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Initiativbewerbung-ITMP-IIP-80799/774784201": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Initiativbewerbung ITMP-IIP"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Leitung-Abschluss-und-Bilanzierung-%28all-genders%29-80686/1450298533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Leitung Abschluss und Bilanzierung (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Postdoc-Virologie-%28all-genders%29-80799/1450209533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Postdoc - Virologie (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Referent-f%C3%BCr-Fundraising-und-Stiftungsmanagement-%28all-genders%29-80686/1446741533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Referent für Fundraising und Stiftungsmanagement (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Sachbearbeiter-Lizenz-und-IP-Vertr%C3%A4ge-%28all-genders%29-80686/1365923333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sachbearbeiter Lizenz- und IP-Verträge (all genders)"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Werkstudent-%28all-genders%29-im-Bereich-Arbeits-%2C-Umwelt-und-Gesundheitsschutz-80686/1448116133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (all genders) im Bereich Arbeits-, Umwelt- und Gesundheitsschutz"
     },
     "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Wissenschaftlicher-Mitarbeiter-Arzt%C3%84rztin-oder-Apothekerin-im-Bereich-Mikrobiologie-&-Virologie-80799/1453923433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Wissenschaftlicher Mitarbeiter - Arzt/Ärztin oder Apotheker*in im Bereich Mikrobiologie & Virologie"
     },
     "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Pflichtpraktikantin-70569/1082174901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Bewirb Dich hier als Pflichtpraktikant*in"
     },
     "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Studentische-Angestellter-70569/997555601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Bewirb Dich hier als Studentische Angestellte*r"
     },
     "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Wissenschaftliche-Hilfskraft-70569/997556301": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Bewirb Dich hier als Wissenschaftliche Hilfskraft"
     },
     "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-f%C3%BCr-eine-Abschlussarbeit-70569/1082174201": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Bewirb Dich hier für eine Abschlussarbeit"
     }
    },
@@ -6234,7 +6248,7 @@
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=Oberkochen&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "05381ac8af": 20761,
     "084b5e715c": 20761,
@@ -6287,27 +6301,27 @@
    "links": {
     "https://jobs.fraunhofer.de/job/Oberkochen-Gruppenleitung-Fasertechnologie-aktiver-Laserfasern-73447/1261180001": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Gruppenleitung Fasertechnologie aktiver Laserfasern"
     },
     "https://jobs.fraunhofer.de/job/Oberkochen-Scientist-in-the-field-of-fiber-preform-development-for-active-fibers-73447/1261190601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Scientist in the field of fiber preform development for active fibers"
     },
     "https://jobs.fraunhofer.de/job/Oberkochen-Scientist-in-the-field-of-optical-fiber-components-73447/1261185901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Scientist in the field of optical fiber components"
     },
     "https://jobs.fraunhofer.de/job/Oberkochen-Wissenschaftlerin-im-Bereich-Preformentwicklung-f%C3%BCr-aktive-Laserfasern-73447/1261190501": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Wissenschaftler*in im Bereich Preformentwicklung für aktive Laserfasern"
     },
     "https://jobs.fraunhofer.de/job/Oberkochen-Wissenschaftlerin-im-Bereich-optische-Faserkomponenten-73447/1261185801": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Wissenschaftler*in im Bereich optische Faserkomponenten"
     }
    },
@@ -6318,7 +6332,7 @@
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=Regensburg&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "05381ac8af": 20761,
     "235c8ca1b2": 20761,
@@ -6365,7 +6379,7 @@
   "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2220%22&PositionLocation=%2262428%22": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0025ead148": 20761,
     "0380533b15": 20761,
@@ -6453,37 +6467,37 @@
    "links": {
     "https://jobs.mercedes-benz.com/enUS/ausbildung-zum-automobilkaufmann-wmd-gesellschaft-mercedes-benz-ag-standort-munchen-ausbildungsbeginn-01092027-228265-mer00045ia": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Automobilkaufmann (w/m/d), Gesellschaft Mercedes-Benz AG, Standort München, Ausbildungsbeginn 01.09.2027 Mercedes-Benz Own Retail Munic"
     },
     "https://jobs.mercedes-benz.com/enUS/ausbildung-zum-fahrzeuglackierer-wmd-gesellschaft-mercedes-benz-ag-standort-munchen-perlach-ausbildungsbeginn-01092027-225531-mer00044v2": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Fahrzeuglackierer (w/m/d), Gesellschaft Mercedes-Benz AG, Standort München Perlach, Ausbildungsbeginn 01.09.2027 Mercedes-Benz Own Reta"
     },
     "https://jobs.mercedes-benz.com/enUS/ausbildung-zum-kfz-mechatroniker-karosserietechnik-wmd-gesellschaft-mercedes-benz-ag-standort-munchen-perlach-ausbildungsbeginn-01092027-225527-mer00044v1": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum KFZ-Mechatroniker Karosserietechnik (w/m/d), Gesellschaft Mercedes-Benz AG, Standort München Perlach, Ausbildungsbeginn 01.09.2027 Merc"
     },
     "https://jobs.mercedes-benz.com/enUS/ausbildung-zum-kfz-mechatroniker-wmd-system-und-hochvolttechnik-gesellschaft-mercedes-benz-ag-standort-munchen-ausbildungsbeginn-01092027-225524-mer00044v0": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum KFZ-Mechatroniker (w/m/d) System- und Hochvolttechnik, Gesellschaft Mercedes-Benz AG, Standort München, Ausbildungsbeginn 01.09.2027 Me"
     },
     "https://jobs.mercedes-benz.com/enUS/ausbildung-zur-fachkraft-fur-lagerlogistik-wmd-gesellschaft-mercedes-benz-ag-standort-munchen-ausbildungsbeginn-01092027-225534-mer00044v5": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (w/m/d), Gesellschaft Mercedes-Benz AG, Standort München, Ausbildungsbeginn 01.09.2027 Mercedes-Benz Own Re"
     },
     "https://jobs.mercedes-benz.com/enUS/karosserietechniker-kfz-spengler-wmd-bei-der-mercedes-benz-niederlassung-munchen-otto-hahn-ring-20-munchen-236671-mer00047z1": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Karosserietechniker / Kfz-Spengler (w/m/d) bei der Mercedes-Benz Niederlassung München, Otto-Hahn- Ring 20, München Mercedes-Benz Own Retail Munich, M"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikum-im-bereich-marketing-ab-april-2027-befristet-bis-sept-2027-mercedes-benz-ag-standort-munchen-arnulfstrasse-242128-mer00048j7": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum im Bereich Marketing ab April 2027 befristet bis Sept. 2027, Mercedes-Benz AG, Standort München - Arnulfstraße Mercedes-Benz Own Retail Muni"
     }
    },
@@ -6494,7 +6508,7 @@
   "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0025ead148": 20761,
     "0380533b15": 20761,
@@ -6620,52 +6634,52 @@
    "links": {
     "https://jobs.mercedes-benz.com/enUS/praktikantin-customer-experience-pflicht-praktikum-245256-mer0004a5f": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Customer Experience (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.04.2027"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikantin-distribution-and-commercial-operations-pflicht-praktikum-245155-mer0004a52": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Distribution & Commercial Operations (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.02.2027"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikantin-lieferantenkapazitatsmanagement-im-einkauf-245243-mer00049t7": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Lieferantenkapazitätsmanagement im Einkauf Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikantin-qualitat-privat-van-electric-and-combustion-architecture-pflicht-praktikum-245181-mer0004a54": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Qualität Privat Van Electric & Combustion Architecture (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.0"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikantin-spieltheorie-im-einkauf-245311-mer00049va": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Spieltheorie im Einkauf Sindelfingen, Tübinger Allee, Tor 80, Geb. 551/0 Start from: 23.12.2026"
     },
     "https://jobs.mercedes-benz.com/enUS/praktikantin-strategische-projektleitung-and-produktsteuerung-van-pflicht-oder-kombipraktikum-245142-mer0004a4c": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikant*in Strategische Projektleitung & Produktsteuerung VAN (Pflicht- oder Kombipraktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start fro"
     },
     "https://jobs.mercedes-benz.com/enUS/werkstudentin-im-3d-druck-245314-mer0004a01": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent*in im 3D-Druck Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 17.12.2026"
     },
     "https://jobs.mercedes-benz.com/enUS/werkstudentin-lidar-entwicklung-mit-schwerpunkt-projektleitungsunterstutzung-245187-mer0004a4m": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent*in LiDAR-Entwicklung mit Schwerpunkt Projektleitungsunterstützung Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 15.12.2026"
     },
     "https://jobs.mercedes-benz.com/enUS/werkstudentin-outbound-logistik-digitalisierung-and-kunstliche-intelligenz-245330-mer00049q9": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent*in Outbound Logistik Digitalisierung & Künstliche Intelligenz Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027"
     },
     "https://jobs.mercedes-benz.com/enUS/werkstudentin-release-workflow-and-product-master-data-245250-mer0004a56": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent*in Release Workflow & Product Master Data Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.01.2027"
     }
    },
@@ -6676,7 +6690,7 @@
   "https://jobs.nokia.com/en/sites/CX_1/jobs?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "00a6356540": 20761,
     "01c080f728": 20761,
@@ -6841,67 +6855,67 @@
    "links": {
     "https://jobs.nokia.com/en/sites/CX_1/job/31075?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/31075?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/31076?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/31076?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/31649?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/31649?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/32726?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/32726?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/37880?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/37880?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/38381?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/38381?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/39550?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/39550?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/40945?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/40945?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/40958?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/40958?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/40974?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/40974?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/40975?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/40975?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/41449?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/41449?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     },
     "https://jobs.nokia.com/en/sites/CX_1/job/41450?location=Germany&mode=location&sortBy=POSTING_DATES_DESC": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "https://jobs.nokia.com/en/sites/CX_1/job/41450?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
     }
    },
@@ -6912,7 +6926,7 @@
   "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_physical_location%5B%5D=215&search_criterion_physical_location%5B%5D=214&search_criterion_physical_location%5B%5D=38&search_criterion_physical_location%5B%5D=39&search_criterion_physical_location%5B%5D=211&search_criterion_physical_location%5B%5D=42&search_criterion_physical_location%5B%5D=240&search_criterion_physical_location%5B%5D=301&search_criterion_physical_location%5B%5D=201&search_criterion_physical_location%5B%5D=269&search_criterion_physical_location%5B%5D=196&search_criterion_physical_location%5B%5D=56&search_criterion_physical_location%5B%5D=150&search_criterion_physical_location%5B%5D=190&search_criterion_physical_location%5B%5D=59&search_criterion_physical_location%5B%5D=300&search_criterion_physical_location%5B%5D=15&search_criterion_physical_location%5B%5D=65&search_criterion_physical_location%5B%5D=184&search_criterion_physical_location%5B%5D=195&search_criterion_physical_location%5B%5D=180&search_criterion_physical_location%5B%5D=292&search_criterion_physical_location%5B%5D=73&search_criterion_physical_location%5B%5D=177&search_criterion_physical_location%5B%5D=14&search_criterion_physical_location%5B%5D=75&search_criterion_physical_location%5B%5D=376&search_criterion_physical_location%5B%5D=78&search_criterion_physical_location%5B%5D=171&search_criterion_physical_location%5B%5D=135&search_criterion_channel%5B%5D=12": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "01383ef573": 20761,
     "01f0455b04": 20761,
@@ -7127,52 +7141,52 @@
    "links": {
     "https://jobs.porsche.com/index.php?ac=jobad&id=20619": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Motorsport Entwicklung Karosserie"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22015": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Leitung Werkpilothalle Zuffenhausen"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22041": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Kreditabteilung"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22043": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum IT-Governance"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22049": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) Master Data Governance"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22055": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) Geschäftsprozesse & Konformität in der Produktion und Logistik"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22056": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Aufbereitung Fahrzeuge (m/w/d)"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22057": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) Fahrdynamik - Elektronik"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=22070": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) Unterstützung des Methodenmanagements"
     },
     "https://jobs.porsche.com/index.php?ac=jobad&id=2662": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Praktikum Digitale Transformation & Projekte"
     }
    },
@@ -7183,7 +7197,7 @@
   "https://jobs.volkswagen-group.com/cariad/search/?q=&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "007a7085cc": 20761,
     "03688ba6aa": 20761,
@@ -7252,32 +7266,32 @@
    "links": {
     "https://jobs.volkswagen-group.com/cariad/job/Berlin-Internal-Occupational-Physician-and-Head-of-Occupational-Health-and-Safety-%28fmd%29-10587/1421563633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Internal Occupational Physician and Head of Occupational Health and Safety (f/m/d)"
     },
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Working-Student-Market-&-Technology-Intelligence-%28wmd%29-85053/1452400633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Internship / Working Student - Market & Technology Intelligence (w/m/d)"
     },
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Prinicipal-Component-Management-%28fmd%29-85053/1453246233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Prinicipal Component Management (f/m/d)"
     },
     "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Software-Engineer-for-AI-Machine-Learning-Group-ConMod-%28fmd%29-85053/1383233933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Software Engineer for AI Machine Learning Group ConMod (f/m/d)"
     },
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%B6nsheim-Working-Student-Modelling-and-controlling-e-machine-and-inverter-Power-Electronics-%28mfd%29-71297/1441755433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Working Student - Modelling and controlling e-machine and inverter - Power Electronics (m/f/d)"
     },
     "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Internship-Master&apos;s-Thesis-Physics-Informed-ML-for-Vehicle-Dynamics-Identification-%28mfd%29-80807/1449263633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Internship / Master's Thesis: Physics-Informed ML for Vehicle Dynamics Identification (m/f/d)"
     }
    },
@@ -7288,7 +7302,7 @@
   "https://jobs.zf.com/search/?q=&optionsFacetsDD_country=DE&sortColumn=referencedate&sortDirection=desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "002a39dad8": 20761,
     "0071f3e836": 20761,
@@ -7515,417 +7529,417 @@
    "links": {
     "https://jobs.zf.com/job/Auerbach-Betriebsmittelmechaniker-%28mwd%29-befristet-BY-91275/1451735433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Betriebsmittelmechaniker (m/w/d) - befristet"
     },
     "https://jobs.zf.com/job/Bayreuth-Einsteller-%28mwd%29-BY-95448/1287503901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Einsteller (m/w/d)"
     },
     "https://jobs.zf.com/job/Berlin-Getriebemonteur-%28mwd%29-BE-13437/1267662901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Getriebemonteur (m/w/d)"
     },
     "https://jobs.zf.com/job/Berlin-Servicemonteur-%28mwd%29-BE-13437/1267696201": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Servicemonteur (m/w/d)"
     },
     "https://jobs.zf.com/job/Bielefeld-Produktionsmitarbeiter-%28mwd%29-NW-33647/1414759933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Produktionsmitarbeiter (m/w/d)"
     },
     "https://jobs.zf.com/job/Bielefeld-Produktionsmitarbeiter-%28mwd%29-NW-33647/1414760033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Produktionsmitarbeiter (m/w/d)"
     },
     "https://jobs.zf.com/job/Bielefeld-Zerspanungsmechaniker-%28mwd%29-NW-33647/1453721633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Zerspanungsmechaniker (m/w/d)"
     },
     "https://jobs.zf.com/job/Bielefeld-Zerspanungsmechaniker-%28mwd%29-NW-33647/1453721733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Zerspanungsmechaniker (m/w/d)"
     },
     "https://jobs.zf.com/job/Bremen-Mechatroniker-in-der-Instandhaltung-%28mwd%29-in-Bremen-HB-28279/1424255733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mechatroniker in der Instandhaltung (m/w/d) in Bremen"
     },
     "https://jobs.zf.com/job/Diepholz-Mitarbeiter-Versandsteuerung-%28mwd%29-NI-49356/1451282433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mitarbeiter Versandsteuerung (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Ferienarbeiter-%28mwd%29-Friedrichshafen-f%C3%BCr-den-Zeitraum-Januar-M%C3%A4rz-2027-BW/1442413733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ferienarbeiter (m/w/d) Friedrichshafen für den Zeitraum Januar - März 2027"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Ferienarbeiter-%28mwd%29-Friedrichshafen-f%C3%BCr-den-Zeitraum-Oktober-Dezember-2026-BW/1410653933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ferienarbeiter (m/w/d) Friedrichshafen für den Zeitraum Oktober - Dezember 2026"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Head-of-Financial-Projects-&-Analysis-%28mwd%29-BW-88046/1450707433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Head of Financial Projects & Analysis (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-IP-Attorney%C2%A0%28mwd%29-BW-88046/1450318733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "IP Attorney (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-IP-Counsel-Marken-und-IP-Brand-Protection-%28mwd%29-BW-88046/1429104533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "IP Counsel Marken und IP Brand Protection (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-IP-Counsel-Patente-%28mwd%29-BW-88046/1429099833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "IP Counsel Patente (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-IP-Counsel-Patente-%28mwd%29-BW-88046/1429101033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "IP Counsel Patente (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-K%C3%BCchenmitarbeiter-%28mwd%29-BW-88046/1402817833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Küchenmitarbeiter (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Legal-Counsel-%28mwd%29-ADAS-&-New-Technology-BW-88046/1422731633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Legal Counsel (m/w/d) ADAS & New Technology"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Manager-%28mwd%29-Ertragsteuern-Inland-BW-88046/1424400333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Manager (m/w/d) Ertragsteuern Inland"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Montierer-%28mwd%29-BW-88046/1412596833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Montierer (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Patentingenieur-%28mwd%29-BW-88046/1444732333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Patentingenieur (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Pflichtpraktikant-Auftragsmanagement-Vertrieb-Beschaffung-%28mwd%29-BW-88046/1453765333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Pflichtpraktikant Auftragsmanagement / Vertrieb / Beschaffung (m/w/d)"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Senior-SAP-Berater-%28mwd%29-HCM-Payroll-BW-88046/1435319233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior SAP Berater (m/w/d) HCM Payroll"
     },
     "https://jobs.zf.com/job/Friedrichshafen-Volljurist-%28mwd%29-Corporate-Labor-Law-BW-88046/1447521233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Volljurist (m/w/d) Corporate Labor Law"
     },
     "https://jobs.zf.com/job/Gronau-Ausbildung-als-Industriemechanikerin-%28mwd%29-ab-01_09_2027-in-Gronau-NI-31028/1404305133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung als Industriemechaniker/in (m/w/d) ab 01.09.2027 in Gronau"
     },
     "https://jobs.zf.com/job/Gronau-Ausbildung-als-Mechatronikerin-%28mwd%29-ab-01_09_2027-in-Gronau-NI-31028/1404304833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung als Mechatroniker/in (m/w/d) ab 01.09.2027 in Gronau"
     },
     "https://jobs.zf.com/job/Hannover-Ausbildung-Elektronik-f%C3%BCr-Ger%C3%A4te-und-Systeme-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1404295033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung Elektronik für Geräte und Systeme (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-Ausbildung-Fachinformatiker-f%C3%BCr-Anwendungsentwicklung-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1422987433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung Fachinformatiker für Anwendungsentwicklung (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-Ausbildung-Patentanwaltsfachangestellte-%28mwd%29-ab-01_08_2027-in-Hannover-NI-30453/1404291233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung Patentanwaltsfachangestellte (m/w/d) ab 01.08.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-Ausbildung-als-Fertigungsmechanikerin-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1404299133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung als Fertigungsmechaniker/in (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-Ausbildung-als-Mechatronikerin-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1404300333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung als Mechatroniker/in (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_-Eng_-Elektro-und-Informationstechnik-%28mwd%29-im-Bereich-Pr%C3%BCftechnik-ab-01_09_2027-in-Hannover-NI-30453/1420329033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B. Eng. Elektro- und Informationstechnik (m/w/d) im Bereich Prüftechnik ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_A_-Business-Administration-im-Fachbereich-Finance-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1404306133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.A. Business Administration im Fachbereich Finance (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_Eng_-Elektro-und-Informationstechnik-Bereich-R&D-Software-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1406516933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Eng. Elektro- und Informationstechnik - Bereich R&D Software (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_Eng_-Elektrotechnik-%28mwd%29-Fachbereich-Basis-Software-ab-01_09_2027-in-Hannover-NI-30453/1406098833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Eng. Elektrotechnik (m/w/d) - Fachbereich Basis-Software ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_Eng_-Green-EngineeringEnergie-und-Verfahrenstechnik-%28mwd%29-Stammbereich-Energiemanagement-NI-30453/1446123633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Eng. Green Engineering/Energie- und Verfahrenstechnik (m/w/d) - Stammbereich Energiemanagement"
     },
     "https://jobs.zf.com/job/Hannover-B_Eng_-Mechatronik-%28mwd%29-Stammbereich-Produktentwicklung-&-Validierung-ab-01_09_2027-in-Hannover-NI-30453/1404316333": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Eng. Mechatronik (m/w/d) - Stammbereich Produktentwicklung & Validierung ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_Sc_-Informatik-%28mwd%29-Bereich-R&D-Software-Development-Cyber-Security-ab-01_09_2027-in-Hannover-NI-30453/1404306833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Sc. Informatik (m/w/d) - Bereich R&D Software Development Cyber Security ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Hannover-B_Sc_-Informatik-im-Fachbereich-Produktentwicklung-und-Validierung-%28mwd%29-ab-01_09_2027-in-Hannover-NI-30453/1404307233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.Sc. Informatik im Fachbereich Produktentwicklung und Validierung (m/w/d) ab 01.09.2027 in Hannover"
     },
     "https://jobs.zf.com/job/Holzwickede-Servicemonteur-%28mwd%29-NW-59439/1381192133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Servicemonteur (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Account-Manager-%28mwd%29-RP-56070/1445489133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Account Manager (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-CQA-Engineering-Cost-Analysis-%28mwd%29-RP-56070/1415264833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "CQA Engineering Cost Analysis (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Hardware-Technical-Project-Lead-ADAS-%28mwd%29-RP-56070/1454153833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Hardware Technical Project Lead - ADAS (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Maschinen-und-Anlagenf%C3%BChrer-%28mwd%29-RP/1221039001": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Maschinen- und Anlagenführer (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Sales-Representative-%28wmd%29-RP-56070/1452448933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sales Representative (w/m/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Senior-Accountant-Bilanzbuchhalter-%28mwd%29-RP-56070/1436329933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Accountant / Bilanzbuchhalter (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-Teamleader-%28mwd%29-RP-56070/1275569401": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Teamleader (m/w/d)"
     },
     "https://jobs.zf.com/job/Koblenz-VAVE-Engineer-%28mwd%29-RP-56070/1415267033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "VAVE Engineer (m/w/d)"
     },
     "https://jobs.zf.com/job/Kreuztal-Logistikdisponent-%28mwd%29-Customer-NW-57223/1276725701": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Logistikdisponent (m/w/d) Customer"
     },
     "https://jobs.zf.com/job/Kreuztal-Mechatroniker-mwd-gesucht%21-NW-57223/1454182533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mechatroniker mwd gesucht!"
     },
     "https://jobs.zf.com/job/Kreuztal-PE-MI-XX-Maintenance-Job-NW-57223/1454182733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PE-MI-XX Maintenance Job"
     },
     "https://jobs.zf.com/job/Kreuztal-Sales-Logistics-Coordinator-%28mfd%29-NW-57223/1276725601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sales Logistics Coordinator (m/f/d)"
     },
     "https://jobs.zf.com/job/Langenhagen-Ausbildung-als-Industriekaufmann-frau-%28mwd%29-ab-01_09_2027-in-Hannover-Langenhagen-NI-30855/1404301433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung als Industriekaufmann/-frau (m/w/d) ab 01.09.2027 in Hannover-Langenhagen"
     },
     "https://jobs.zf.com/job/Langenhagen-Ausbildung-zur-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-ab-01_09_2027-in-Hannover-Langenhagen-NI-30855/1404301933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d) ab 01.09.2027 in Hannover-Langenhagen"
     },
     "https://jobs.zf.com/job/Langenhagen-B_A_-Business-Administration-Fachbereich-Logistics-Engineering-%28mwd%29-ab-01_09_2027-NI-30855/1420319533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B.A. Business Administration - Fachbereich Logistics Engineering (m/w/d) ab 01.09.2027"
     },
     "https://jobs.zf.com/job/M%C3%BCnchen-Tax-Specialist-%28mfd%29-BY-80935/1445482633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Tax Specialist (m/f/d)"
     },
     "https://jobs.zf.com/job/Mannheim-Ausbildung-Industriekaufmann-frau-%28mwd%29-ab-01_09_2027-in-Mannheim-BW-68229/1439929933": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung Industriekaufmann/-frau (m/w/d) ab 01.09.2027 in Mannheim"
     },
     "https://jobs.zf.com/job/Mannheim-Ausbildung-zum-Industriemechaniker-%28mwd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433555133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Industriemechaniker (m/w/d) ab 01.09.2027 in Mannheim"
     },
     "https://jobs.zf.com/job/Mannheim-Ausbildung-zur-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-ab-01_09_2027-in-Mannheim-BW-68229/1439909133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d) ab 01.09.2027 in Mannheim"
     },
     "https://jobs.zf.com/job/Mannheim-B_-Eng_-Maschinenbau-%28wmd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433564133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B. Eng. Maschinenbau (w/m/d) ab 01.09.2027 in Mannheim"
     },
     "https://jobs.zf.com/job/Mannheim-B_-Eng_-Mechatronik-%28wmd%29-ab-01_09_2027-in-Mannheim-BW-68229/1433570533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "B. Eng. Mechatronik (w/m/d) ab 01.09.2027 in Mannheim"
     },
     "https://jobs.zf.com/job/Neuwied-Ausbildung-zum-Industriekaufmannzur-Industriekauffrau-%28mwd%29-RP-56566/1435132233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Industriekaufmann/zur Industriekauffrau (m/w/d)"
     },
     "https://jobs.zf.com/job/Neuwied-Ausbildung-zur-Fachkraft-f%C3%BCr-Lagerlogistik-%28mwd%29-RP-56566/1435132433": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d)"
     },
     "https://jobs.zf.com/job/Passau-Business-Development-Manager-Data-Analytics-%28mwd%29-BY-94034/1449308633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Business Development Manager Data Analytics (m/w/d)"
     },
     "https://jobs.zf.com/job/Passau-Marketing-Werkstudent-%28mwd%29-BY-94034/1444691733": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Marketing Werkstudent (m/w/d)"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-Fachkoordinator-Physische-Logistik-%28mwd%29-SL-66117/1451388833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Fachkoordinator Physische Logistik (m/w/d)"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-HR-SAP-KeyUser-&-Time-Management-Specialist-%28mwd%29-SL-66117/1420718233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "HR SAP KeyUser & Time Management Specialist (m/w/d)"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-Kantinenhilfe-%28mwd%29-SL-66117/1437555233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Kantinenhilfe (m/w/d)"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-Lagermitarbeiter-%28mwd%29-im-Bereich-Aftermarket-befristet-auf-12-Monaten-SL-66117/1253890601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Lagermitarbeiter (m/w/d) im Bereich Aftermarket - befristet auf 12 Monaten"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-Montagemitarbeiter-Produktion-%28mwd%29-Werk-Saarbr%C3%BCcken-SL/1435224633": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Montagemitarbeiter Produktion (m/w/d) Werk Saarbrücken"
     },
     "https://jobs.zf.com/job/Saarbr%C3%BCcken-Studentische-Wochenendarbeiter-%28mwd%29-Fertigung-und-Montage-in-Saarbr%C3%BCcken-und-Neunkirchen-SL/1433468533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Studentische Wochenendarbeiter (m/w/d) Fertigung und Montage in Saarbrücken und Neunkirchen"
     },
     "https://jobs.zf.com/job/Schweinfurt-Ferienarbeiter-%28mwd%29-am-Standort-Schweinfurt-2026-BY/1269312601": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ferienarbeiter (m/w/d) am Standort Schweinfurt 2026"
     },
     "https://jobs.zf.com/job/Schweinfurt-Ferienarbeiter-%28mwd%29-am-Standort-Schweinfurt-2027-BY/1451693533": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ferienarbeiter (m/w/d) am Standort Schweinfurt 2027"
     },
     "https://jobs.zf.com/job/Schweinfurt-Instandhalter-%28mwd%29-BY-97424/1386594233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Instandhalter (m/w/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Mitarbeiter-in-der-LogistikProduktion-am-Standort-Schweinfurt-%28mwd%29-befristet-BY/652058901": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Mitarbeiter in der Logistik/Produktion am Standort Schweinfurt (m/w/d) - befristet -"
     },
     "https://jobs.zf.com/job/Schweinfurt-Patentanwalt-%28mwd%29-BY-97424/1444755233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Patentanwalt (m/w/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Patentanwalt-%28mwd%29-BY-97424/1444771133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Patentanwalt (m/w/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Patentanwalt-%28mwd%29-BY-97424/1450683833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Patentanwalt (m/w/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Sales-&-Channel-Development-DACH-%28mfd%29-BY-97424/1398761133": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sales & Channel Development DACH (m/f/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Sales-&-Channel-Development-DACH-%28mfd%29-BY-97424/1398761233": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sales & Channel Development DACH (m/f/d)"
     },
     "https://jobs.zf.com/job/Schweinfurt-Systemanlagenbetreuer-%28mwd%29-BY-97424/1429109033": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Systemanlagenbetreuer (m/w/d)"
     },
     "https://jobs.zf.com/job/Warszawa-Sales-Transformation-Program-Lead-MZ-00-124/1411399833": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Sales Transformation Program Lead"
     }
    },
@@ -7936,7 +7950,7 @@
   "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locations=91336993fab910af6d6fc4f707bcc1f8": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "03b0d920f4": 20761,
     "088472395b": 20761,
@@ -8009,97 +8023,97 @@
    "links": {
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Remote/Field-Application-Engineer---EMEA_JR2020158-1?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Field Application Engineer - EMEA"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Remote/Developer-Relations-Manager--Computer-Aided-Engineering_JR2021819?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Developer Relations Manager, Computer Aided Engineering"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Natives-Senior-Account-Manager---Germany_JR2024149?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "AI Natives Senior Account Manager - Germany"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Physical-Sales-Lead---EMEA_JR2024222?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "AI Physics Sales Lead - EMEA"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Agentic-AI-Platform-Senior-Account-Manager--DACH_JR2024090?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Agentic AI Platform Senior Account Manager, DACH"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Relations-Manager--Retail---EMEA_JR2014215?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Developer Relations Manager, Retail & Media Entertainment"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Developer Technology Engineering Intern - Compute Performance"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Developer Technology Engineering Intern - Compute Performance"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/EMEA-Payroll-Specialist---Finance--Fixed-Term-_JR2016833?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "EMEA Payroll Specialist - Finance (Fixed Term)"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/ISV-GTM-Sales-Strategist---DACH_JR2024319?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "ISV GTM Sales Strategist - DACH"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/ISV-GTM-Sales-Strategist--DACH_JR2024511?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "ISV GTM Sales Strategist, DACH"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Senior-Developer-Relations-Manager---DACH_JR2025099?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Developer Relations Manager - DACH"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Senior-Solutions-Architect--Higher-Education-and-Research--Multimodal-and-Physical-AI_JR2024875?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Solutions Architect, Higher Education and Research, Multimodal and Physical AI"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Senior-Technical-Program-Manager---Nemotron_JR2028331?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Technical Program Manager - Nemotron"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Solution-Architect--Executive-Briefing-Center_JR2026414?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Solution Architect, Executive Briefing Center"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Technical-Lead---ADAS-Test-Bench_JR2028407?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Technical Lead - ADAS Test Bench"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Applied-Research-Scientist---Computational-Geometry-and-Meshingmill_JR2028591?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Applied Research Scientist – Computational Geometry and Meshingmill"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Developer-Relations-Manager---Smart-Spaces-and-Local-Government_JR2025064?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Developer Relations Manager – Smart Spaces and Local Government"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Senior-Software-Engineer---Image-and-Data-Processing-Libraries_JR2022702?locations=91336993fab910af6d6fc4f707bcc1f8": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Senior Software Engineer - Image and Data Processing Libraries"
     }
    },
@@ -8110,7 +8124,7 @@
   "https://valeo.wd3.myworkdayjobs.com/en-EN/valeo_jobs?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-04T23:35:47+00:00",
+   "last_ok": "2026-11-04T23:39:34+00:00",
    "line_seen": {
     "0049f8894e": 20761,
     "0182cee4b9": 20761,
@@ -8190,102 +8204,102 @@
    "links": {
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ausbildung-zum-Industriemechaniker--m-w-d---Ausbildungsstart-2027_REQ2026081714?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Industriemechaniker (m/w/d), Ausbildungsstart 2027"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ausbildung-zum-Maschinen--und-Anlagenfhrer--m-w-d---Ausbildungsstart-2027_REQ2026081715?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Maschinen- und Anlagenführer (m/w/d), Ausbildungsstart 2027"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ausbildung-zum-Mechatroniker--m-w-d---Ausbildungsstart-2027_REQ2026081717?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Mechatroniker (m/w/d), Ausbildungsstart 2027"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ausbildung-zum-zur-Kauffmann--Kauffrau-fr-Bromanagement--m-w-d-_REQ2026068624?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum/zur Kauffmann/ Kauffrau für Büromanagement (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ausbildung-zur-Fachkraft-fr-Lagerlogistik--m-w-d---Ausbildungsstart-2027_REQ2026081716?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d), Ausbildungsstart 2027"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Ferienjobber--m-w-d-_REQ2023027644-1?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ferienjobber Produktion (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/IS-Working-Student--m-f-d-_REQ2026074658?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "VIE Information System H/F"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/R-D-DSIS-Operations-Engineer--m-f-d-_REQ2026079391?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "R&D DSIS Operations Engineer (m/f/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Research---Innovation--R-I--Projekt-Manager--m-w-d-_REQ2026077085-1?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Research & Innovation (R&I) Projekt Manager (m/w/d) Förderprojekte"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/VIE-Project-Buyer_REQ2026078033?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "VIE Project Buyer"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Crteil/PG-RO-PL-Business-Management-Controller_REQ2026077413?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "PG/RO/PL Business Management Controller"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/ERLANGEN---ERL1/VIE-Business-Management-Controller--H-F-_REQ2026081719?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "VIE Business Management Controller (H/F)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Ebern/Ausbildung-zum-Kunststoff--und-Kautschuktechnologen-2024--m-w-d-_REQ2023021029?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Kunststoff- und Kautschuktechnologen (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Ebern/Ausbildung-zum-Zerspanungsmechaniker-2024--m-w-d-_REQ2023021028?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zum Zerspanungsmechaniker (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Ebern/Ausbildung-zur-Fachkraft-fr-Lagerlogistik-2024--m-w-d-_REQ2023021030?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Ausbildung zur Fachkraft für Lagerlogistik (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Erlangen/Werkstudent-im-Bereich-Hochvolt-Leistungselektronik--m-w-d-_REQ2026082309?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im Bereich Hochvolt Leistungselektronik (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Erlangen/Werkstudent-im-technischen-Projektmanagement-fr-HV-Inverter--m-w-d-_REQ2026082746?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent im technischen Projektmanagement für HV Inverter (m/w/d)"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Ingolstadt/Werkstudent--m-w-d--im-Bereich-Logistik_REQ2026082371?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Werkstudent (m/w/d) im Bereich Logistik"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Munich/VIE-Quality-H-F_REQ2026078699?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "VIE Quality H/F"
     },
     "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Wemding/Facharbeiter-Anlagensupport-Steuerungsbau--m-w-d-_REQ2026080738?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000": {
      "first_seen": "2026-11-04T23:20:26+00:00",
-     "last_seen": "2026-11-04T23:35:47+00:00",
+     "last_seen": "2026-11-04T23:39:34+00:00",
      "title": "Facharbeiter Anlagensupport Steuerungsbau (m/w/d)"
     }
    },
@@ -8294,7 +8308,7 @@
    "needs_js": true
   },
   "https://www.bmwgroup.jobs/de/de/_jcr_content/main/layoutcontainer/jobfinder30_copy.jobfinder_table.content.html?filterSearch=location_DE%2FDingolfing,location_DE%2FIrlbach-Stra%C3%9Fkirchen,location_DE%2FLandshut,location_DE%2FMunich,location_DE%2FNuremberg,location_DE%2FRegensburg,location_DE%2FStuttgart,location_DE%2FUlm,location_DE%2FWackersdorf&rowIndex=0&blockCount=500": {
-   "fails": 3,
+   "fails": 4,
    "last_error": "HTTP: ReadTimeout: ",
    "name": "BMW Group"
   }
