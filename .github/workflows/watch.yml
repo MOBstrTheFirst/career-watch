@@ -71,7 +71,7 @@ jobs:
     needs: scan
     if: ${{ always() }}
     runs-on: ubuntu-24.04
-    timeout-minutes: 5
+    timeout-minutes: 10        # downloading the 4 results sometimes takes minutes on GitHub's side
     steps:
       - uses: actions/checkout@v4
         with:
