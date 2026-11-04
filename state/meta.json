@@ -1,11 +1,110 @@
 {
- "alerts": 0,
+ "alerts": 8,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-04T23:11:30+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Herzogenaurach HQ",
+   "title": "Senior Counsel Compliance (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Senior-Counsel-Compliance-%28dmw%29-91074/1449679633"
+  },
+  {
+   "at": "2026-11-04T23:11:30+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Commercial Head of Cyber (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/job/208726/Commercial-Head-of-Cyber-m-w-d"
+  },
+  {
+   "at": "2026-11-04T23:11:30+00:00",
+   "kind": "new",
+   "site": "Bureau Veritas CPS Germany",
+   "title": "Jetzt bewerben Commercial Head of Cyber (m/w/d)",
+   "url": "https://jobs.bureauveritas.com/de/de/apply?jobSeqNo=BVYBVZGB208726EXTERNALDEDE"
+  },
+  {
+   "at": "2026-11-04T23:11:07+00:00",
+   "kind": "new",
+   "site": "Max Bögl",
+   "title": "Werkstudent (m/w/d) TSB Technologie Fahrweg",
+   "url": "https://jobportal.max-boegl.de/Werkstudent-mwd-TSB-Technologie-Fahrweg-de-j2387.html"
+  },
+  {
+   "at": "2026-11-04T23:11:07+00:00",
+   "kind": "new",
+   "site": "HUBER SE",
+   "title": "Verfahrens- und Prozessmanager Service (m/w/d)",
+   "url": "https://karriere.huber.de/Verfahrens-und-Prozessmanager-Service-mwd-de-j1056.html"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Business- und Projektcontroller (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4884982&jobId=118678"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Werkstudent im Bereich Licensing (m/w/d)",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4883797&jobId=117637"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "TenneT TSO",
+   "title": "Tools Professional - Noord Nederland",
+   "url": "https://careers.tennet.eu/en_US/careers/JobDetail?entityId=4885035&jobId=118729"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "TTTech Auto Germany",
+   "title": "Senior/Principal Analog IC Circuit Design Engineer",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Senior-Analog-IC-Circuit-Design-Engineer_R-10067238?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "SW Care Center Support Engineer Engineering / Technical Service Experienced and Graduates Giesecke+Devrient Currency Technology FZE Dubai, AE",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27951-en-US"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Mobile Developer Engineer IT Experienced and Graduates Giesecke + Devrient Mobile Security TCD Iberia S.L. Sant Joan Despí (BCN), ES",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27933-en-US"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Senior Commercial Project Manager (m/f/d) IT Experienced and Graduates G+D Currency Technology GmbH Munich, DE Sant Joan Despí (BCN) , ES",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27945-en-US"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "Giesecke+Devrient Secure Data Management – Neustadt b. Coburg",
+   "title": "Payroll Specialist HR Experienced and Graduates Giesecke+Devrient ePayments America, Inc. Dulles, VA, US",
+   "url": "https://www.gi-de.com/en/careers/jobs/jobs-detail-view/27950-en-US"
+  },
+  {
+   "at": "2026-11-04T23:09:59+00:00",
+   "kind": "new",
+   "site": "KSB – Pegnitz",
+   "title": "Werkstudent (m/w/d) E-Learning Content Design",
+   "url": "https://ksb.wd3.myworkdayjobs.com/de-DE/KSB_ExternalCareerSite/job/Frankenthal/Werkstudent--m-w-d--E-Learning-Content-Design_JR_31103-1?locationCountry=dcc5b7608d8644b3a93716604e78e995"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-04T22:56:24+00:00",
+ "last_run": "2026-11-04T23:11:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
