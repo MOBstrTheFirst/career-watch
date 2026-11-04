@@ -30,6 +30,8 @@ jobs:
         part: [1, 2, 3, 4]
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main           # always the newest state (not the commit that started the run)
 
       - uses: actions/setup-python@v5
         with:
@@ -72,6 +74,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main           # always the newest state (not the commit that started the run)
 
       - uses: actions/setup-python@v5
         with:
@@ -103,7 +107,7 @@ jobs:
           git add state
           if git diff --cached --quiet; then echo "no state change"; exit 0; fi
           git commit -m "update state [bot]"
-          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
           exit 1
 
   # 3) Sends a Telegram message if any part or the report crashed / timed out.
