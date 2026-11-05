@@ -1,5 +1,5 @@
 {
- "alerts": 171,
+ "alerts": 172,
  "commands_set": true,
  "events": [
   {
@@ -3471,12 +3471,20 @@
    "star": false,
    "title": "Learn more about Strategic Partner Development Manager, DSBO (Fixed Term Contract) (English, German)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/122410815981527750-strategic-partner-development-manager-dsbo-fixed-term-contract-english-german?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-05T20:39:56+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "ALS Reagent Product Manager 試薬担当 (26H082)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100251/ALS-Reagent-Product-Manager-試薬担当-26H082"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T20:26:04+00:00",
+ "last_run": "2026-11-05T20:51:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
