@@ -1,5 +1,5 @@
 {
- "alerts": 99,
+ "alerts": 100,
  "commands_set": true,
  "events": [
   {
@@ -2687,12 +2687,20 @@
    "star": true,
    "title": "5 new text line(s), e.g. Praktikum - Software Integration E/E Gesamtfahrzeug (m/w/d)",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-05T11:55:00+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": true,
+   "title": "Internship - Sales Support Europe (Bearings & Industrial Solutions) (d/f/m)",
+   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Internship-Sales-Support-Europe-%28Bearings-&-Industrial-Solutions%29-%28dfm%29-97421/1454692633"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T11:45:10+00:00",
+ "last_run": "2026-11-05T11:56:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
