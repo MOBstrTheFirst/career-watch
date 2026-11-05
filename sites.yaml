@@ -69,6 +69,38 @@ filter:
     - Kaufleute
     - Minijob
     - Aushilfe
+    # marketing / communication / PR
+    - Marketing             # also Online-, Produkt-, Performance-Marketing
+    - Brand Manag
+    - Branding
+    - Markenführung
+    - '\bWerb(e|ung)'      # Werbung, Werbetechnik - but NOT Bewerbung / Bewerber
+    - Advertising
+    - Kampagne
+    - Campaign
+    - Public Relations
+    - Pressearbeit
+    - Pressesprecher
+    - Öffentlichkeitsarbeit
+    - Unternehmenskommunikation
+    - Corporate Communication
+    - Marketingkommunikation
+    - Interne Kommunikation
+    - Internal Communication
+    - Social Media
+    - Content Creat
+    - Content Manag
+    - Redakteur
+    - Copywriter
+    - Influencer
+    - SEO
+    - Community Manag
+    - Eventmanagement
+    - Event Manager
+    - Messemanagement
+    - Grafikdesign
+    - Graphic Design
+    - Mediengestalter
   show:
     # student jobs
     - Werkstudent           # Werkstudent, Werkstudentin, Werkstudent*in
@@ -710,11 +742,13 @@ sites:
     group: "Priority 1"
 
   # tested: 2026-11-05: all Qualcomm Germany jobs scanned: Munich 15, Ingolstadt 2 - both inside the 80 km radius around Munich
-  # NOTE: unchanged
+  # NOTE: 2026-11-05: on GitHub the page once showed US jobs (location ignored) -> 9 fake alerts. Now only links whose text contains 'Germany' count.
   - name: "Qualcomm"
-    url: "https://careers.qualcomm.com/careers?location=Munich%2C%20Germany&sort_by=timestamp"
+    url: "https://careers.qualcomm.com/careers?location=Munich%2C%20Germany&sort_by=timestamp&filter_distance=80&filter_include_remote=0&filter_include_relocation=0"
     js: true
+    mode: links
     link_pattern: "/careers/job/\\d+"
+    title_must_contain: "Germany"
     group: "Priority 1"
 
   # tested: 2026-11-05: state filter read from site: Bavaria 86 (Erlangen 58, Forchheim 35, Kemnath 14, Munich 2, Estenfeld 1 across both labels)

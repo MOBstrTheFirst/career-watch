@@ -23,6 +23,7 @@ Optional keys per site in sites.yaml:
   pages: ["&p=1", "&p=2"]   # also read these pages (text is added to url; same-name parameters are replaced)
   scrolls: 15               # how often the browser scrolls down (default 4) - for lists that load on scroll
   click_text: "Load More"   # browser clicks this button again and again (up to `clicks` times, default 10)
+  title_must_contain: "Germany"  # only count job links whose text contains this (pattern, case ignored)
   link_pattern / js / mode / wait_for as before. Other keys (group, flag, ...) are ignored.
 """
 import argparse
@@ -432,6 +433,13 @@ async def _scan_site(site, defaults, client, pool, prev):
     urls = page_urls(site)
     scrolls = site.get("scrolls", defaults.get("scrolls", 4))
     click_text, clicks = site.get("click_text"), site.get("clicks", 10)
+    must = re.compile(site["title_must_contain"], re.I) if site.get("title_must_contain") else None
+
+    def parse(got):
+        res = parse_pages(got, url, link_re)
+        if must:                       # e.g. drop jobs from other countries the site shows by mistake
+            res = ({u: tt for u, tt in res[0].items() if must.search(tt)},) + tuple(res[1:])
+        return res
 
     async def fetch_all_http():
         out = []
@@ -451,7 +459,7 @@ async def _scan_site(site, defaults, client, pool, prev):
     if js == "false" or (js == "auto" and not prev.get("needs_js")):
         try:
             got = await fetch_all_http()
-            res = parse_pages(got, url, link_re)
+            res = parse(got)
             if not res[0] and blocked(got):
                 errors.append(f"HTTP: blocked by the site's bot protection - site sent: {page_snippet(got)}")
                 if js == "false":
@@ -474,7 +482,7 @@ async def _scan_site(site, defaults, client, pool, prev):
         try:
             browser = await pool.get()
             got = await fetch_browser(browser, urls, wait_for, scrolls, click_text, clicks)
-            res = parse_pages(got, url, link_re)
+            res = parse(got)
             if not res[0] and blocked(got):
                 errors.append(f"browser: blocked by the site's bot protection - site sent: {page_snippet(got)}")
                 return {"error": "; ".join(errors)}
