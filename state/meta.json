@@ -1,5 +1,5 @@
 {
- "alerts": 115,
+ "alerts": 116,
  "commands_set": true,
  "events": [
   {
@@ -2823,12 +2823,20 @@
    "star": true,
    "title": "Werkstudent im Bereich Produktionscontrolling (w/m/div.)",
    "url": "https://jobs.bosch.com/en/job/REF300189Z-werkstudent-im-bereich-produktionscontrolling-w-m-div"
+  },
+  {
+   "at": "2026-11-05T12:53:37+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (188)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T12:41:39+00:00",
+ "last_run": "2026-11-05T12:56:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
