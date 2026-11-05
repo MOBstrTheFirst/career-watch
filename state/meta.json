@@ -1,5 +1,5 @@
 {
- "alerts": 153,
+ "alerts": 159,
  "commands_set": true,
  "events": [
   {
@@ -3191,12 +3191,100 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25013093?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25013093?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-05T15:56:32+00:00",
+   "kind": "new",
+   "site": "Bosch – Würzburg",
+   "star": true,
+   "title": "Werkstudent CAD-Konstruktion & Technische Dokumentation (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300268W-werkstudent-cad-konstruktion-technische-dokumentation-w-m-div"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Blaichach",
+   "star": true,
+   "title": "Praktikum in der Verpackungsentwicklung für die Automobilindustrie",
+   "url": "https://jobs.bosch.com/en/job/REF300287C-praktikum-in-der-verpackungsentwicklung-fuer-die-automobilindustrie"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Blaichach",
+   "star": true,
+   "title": "Praktikum im Bereich Logistik und Supply Chain – Packmittelmanagement, Prozessoptimierung",
+   "url": "https://jobs.bosch.com/en/job/REF300281Q-praktikum-im-bereich-logistik-und-supply-chain-packmittelmanagement-prozessoptimierung"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Tech Lead (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300275L-tech-lead-f-m-div"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Technical Product Owner (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300271C-technical-product-owner-f-m-div"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "PhD - Neurosymbolic Reasoning for Domain-Adaptive Generative AI",
+   "url": "https://jobs.bosch.com/en/job/REF300261C-phd-neurosymbolic-reasoning-for-domain-adaptive-generative-ai"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Technical Product Owner (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300142Y-technical-product-owner-f-m-div"
+  },
+  {
+   "at": "2026-11-05T15:54:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Tech Lead - AI and Runtime Orchestration Harness (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300136A-tech-lead-ai-and-runtime-orchestration-harness-f-m-div"
+  },
+  {
+   "at": "2026-11-05T15:55:21+00:00",
+   "kind": "new",
+   "site": "Alphabet (Google) – Munich",
+   "star": false,
+   "title": "Learn more about Senior Security Engineer, Security Research",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/136445532154274502-senior-security-engineer-security-research?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-05T15:55:02+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Trainings Manager / Trainer (m/w/d) Operations Luftverteidigungssysteme 05.11.2026 Vertrieb/Kundenservice Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/trainings-manager-trainer-m-w-d-operations-luftverteidigungssysteme"
+  },
+  {
+   "at": "2026-11-05T15:55:02+00:00",
+   "kind": "new",
+   "site": "Bosch – München - Mitte",
+   "star": false,
+   "title": "ASIC Analog Designer (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF256550W-asic-analog-designer-f-m-div"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T15:41:07+00:00",
+ "last_run": "2026-11-05T15:56:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
