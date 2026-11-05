@@ -119,6 +119,11 @@ TG_API = os.getenv("TELEGRAM_API_BASE", "https://api.telegram.org")
 FAIL_ALERT_AFTER = 3        # consecutive failed runs before you get warned
 FORGET_LINK_AFTER_DAYS = 60  # links unseen this long are forgotten
 MIN_TEXT_CHARS = 300        # less visible text than this = page probably not loaded
+# "Access denied" pages of bot-protection services (Akamai, Cloudflare, ...): never watch their text
+BLOCK_RE = re.compile(
+    r"errors\.edgesuite\.net|Reference #\d+\.[0-9a-f]+\.\d+|<title>\s*Access Denied|"
+    r"Attention Required! \| Cloudflare|cf-error-details|Request unsuccessful\. Incapsula|"
+    r"<title>\s*Just a moment\.\.\.", re.I)
 
 
 # ----------------------------------------------------------------------------- helpers
@@ -299,6 +304,11 @@ def parse_pages(pages, page_url, link_re):
     return links, list(raw), total, raw
 
 
+def blocked(pages):
+    """True if every page we got is a bot-protection 'access denied' page."""
+    return bool(pages) and all(BLOCK_RE.search(h[:20000]) for h, _ in pages)
+
+
 def page_snippet(pages, n=300):
     """Debug: title + first visible text of what the site sent (to see blocks / consent pages)."""
     try:
@@ -442,6 +452,11 @@ async def _scan_site(site, defaults, client, pool, prev):
         try:
             got = await fetch_all_http()
             res = parse_pages(got, url, link_re)
+            if not res[0] and blocked(got):
+                errors.append(f"HTTP: blocked by the site's bot protection - site sent: {page_snippet(got)}")
+                if js == "false":
+                    return {"error": "; ".join(errors)}
+                res = ([], [], 0, {})
             # In auto mode a page with no job links is retried in the browser.
             if js == "false" and good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": False}
@@ -460,6 +475,9 @@ async def _scan_site(site, defaults, client, pool, prev):
             browser = await pool.get()
             got = await fetch_browser(browser, urls, wait_for, scrolls, click_text, clicks)
             res = parse_pages(got, url, link_re)
+            if not res[0] and blocked(got):
+                errors.append(f"browser: blocked by the site's bot protection - site sent: {page_snippet(got)}")
+                return {"error": "; ".join(errors)}
             if good(res):
                 return {"links": res[0], "lines": res[1], "raw": res[3], "used_js": True}
             errors.append(f"browser: page nearly empty ({res[2]} chars) - blocked or not loaded - "
