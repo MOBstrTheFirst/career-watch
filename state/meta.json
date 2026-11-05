@@ -1,5 +1,5 @@
 {
- "alerts": 29,
+ "alerts": 31,
  "commands_set": true,
  "events": [
   {
@@ -568,12 +568,33 @@
    "site": "TDK (TDK Electronics)",
    "title": "4 new text line(s), e.g. Reference #18.d2ed2717.1793838209.94346a2c",
    "url": "https://www.tdk-electronics.tdk.com/en/2302162/careers/job-offers?st=&st_x=&dosearch=1&foa_all_x=on&foa_all=on&location_x=1438&location=1438&location=2291428&location=2291420&we_all_x=on&we_all=on&lang_all_x=on&lang_all=on&sortorder=1"
+  },
+  {
+   "at": "2026-11-05T01:08:31+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "title": "Werkstudent*in After Sales Technik PKW Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 16.12.2026",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-after-sales-technik-pkw-245286-mer00049on"
+  },
+  {
+   "at": "2026-11-05T01:08:31+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "title": "Praktikant*in HR Top Management Sales & Customer (Pflicht-Praktikum) Mercedes-Benz Group AG Headquarters, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-hr-top-management-sales-and-customer-pflicht-praktikum-245282-mer0004a4w"
+  },
+  {
+   "at": "2026-11-05T01:08:31+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "title": "Praktikant*in Powertrain Entwicklung Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-powertrain-entwicklung-245271-mer00049v7"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T00:56:21+00:00",
+ "last_run": "2026-11-05T01:11:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 10,
+ "runs": 11,
  "tg_offset": 297408924
 }
