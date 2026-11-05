@@ -1,5 +1,5 @@
 {
- "alerts": 62,
+ "alerts": 65,
  "commands_set": true,
  "events": [
   {
@@ -2290,12 +2290,33 @@
    "site": "Continental",
    "title": "Produktionsmitarbeiter in der Gießerei (m/w/d) - REF100158P Job ID: REF100158P",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100158P-p-6ce84ebfeacc8bd95780fe3305776df8/produktionsmitarbeiter-in-der-giesserei-m-w-d-ref100158p?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-05T09:26:19+00:00",
+   "kind": "new",
+   "site": "Analog Devices",
+   "title": "Field Robotics Systems Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Field-Robotics-Systems-Engineer_R267553?locations=633b03df4f5d1000e7e5c5dff3800000&locations=c057160fc3ff10010d4a00c83f920000&locations=d2ea4eaa412f1001551c71e338ea0000"
+  },
+  {
+   "at": "2026-11-05T09:23:54+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d) ab September 2027",
+   "url": "https://careers.knorr-bremse.com/job/Berlin-Ausbildung-zum-Industriemechaniker-%28mwd%29-ab-September-2027-12681/1454597033"
+  },
+  {
+   "at": "2026-11-05T09:24:55+00:00",
+   "kind": "new",
+   "site": "NXP Semiconductors",
+   "title": "Engineering Program Manager - Automotive Radar",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Engineering-Program-Manager---Automotive-Radar_R-10067656-1?locations=3db468d56aa610d69085a48b83d7492d&locations=9dc186eddedc100107f45a24b8b80000&locations=3d89207c42c910013c5af48361630000&locations=d91f6c4e051c10009f0703955b220000"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T09:11:03+00:00",
+ "last_run": "2026-11-05T09:26:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
