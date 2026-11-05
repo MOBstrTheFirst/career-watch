@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 54,
  "commands_set": true,
  "events": [
   {
@@ -2199,12 +2199,40 @@
    "site": "Continental",
    "title": "Produktionsmitarbeiter/in Gießerei / Formenherstellung (m/w/d) befristet bis 30.09.2027 - REF99012T Job ID: REF99012T",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99012T-p-6ce84ebfeacc8bd95780fe3305776df8/produktionsmitarbeiter-in-giesserei-formenherstellung-m-w-d-befristet-bis-30092027-ref99012t?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-05T08:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "title": "Absolvent (w/m/d) Elektrotechnik",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Absolvent-w-m-d-Elektrotechnik/306507"
+  },
+  {
+   "at": "2026-11-05T08:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "title": "Mechanical Design Engineer (w/m/d) Tilting pad bearings",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Mechanical-Design-Engineer-w-m-d-Tilting-pad-bearings/305074"
+  },
+  {
+   "at": "2026-11-05T08:27:52+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "title": "Hardwareentwickler (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Hardwareentwickler-%28wmd%29-82256/1336327855"
+  },
+  {
+   "at": "2026-11-05T08:27:52+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "title": "Product Owner – Web Application Development Bangalore HRC1795977",
+   "url": "https://jobs.infineon.com/careers/job/563808972038291?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T08:13:03+00:00",
+ "last_run": "2026-11-05T08:28:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
