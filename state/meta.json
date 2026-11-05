@@ -1,5 +1,5 @@
 {
- "alerts": 146,
+ "alerts": 150,
  "commands_set": true,
  "events": [
   {
@@ -3135,12 +3135,44 @@
    "star": true,
    "title": "5. Studentischer Mitarbeiter",
    "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-05T15:26:13+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Entwicklungsingenieur-MAN-External-Engines-Mechatronik-Entwicklung-%28wmd%29/6308-de_DE",
+   "url": "https://jobs.man.eu/job/Entwicklungsingenieur-MAN-External-Engines-Mechatronik-Entwicklung-%28wmd%29/6308-de_DE"
+  },
+  {
+   "at": "2026-11-05T15:26:13+00:00",
+   "kind": "new",
+   "site": "Analog Devices",
+   "star": false,
+   "title": "Associate Field Applications Engineer, Digital Healthcare",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Associate-Field-Applications-Engineer--Digital-Healthcare_R268084?locations=633b03df4f5d1000e7e5c5dff3800000&locations=c057160fc3ff10010d4a00c83f920000&locations=d2ea4eaa412f1001551c71e338ea0000"
+  },
+  {
+   "at": "2026-11-05T15:26:13+00:00",
+   "kind": "new",
+   "site": "Intel",
+   "star": true,
+   "title": "Middleware Software Engineering Intern (m/f/d)",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635?locations=1e4a4eb3adf101311d06d076bf815ccf"
+  },
+  {
+   "at": "2026-11-05T15:25:32+00:00",
+   "kind": "new",
+   "site": "Keysight – Böblingen (Baden-Württemberg)",
+   "star": false,
+   "title": "R&D IC Device Modeling Engineer",
+   "url": "https://jobs.keysight.com/external/jobs/55321?lang=en-us"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T15:20:47+00:00",
+ "last_run": "2026-11-05T15:26:34+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
