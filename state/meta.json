@@ -1,5 +1,5 @@
 {
- "alerts": 125,
+ "alerts": 130,
  "commands_set": true,
  "events": [
   {
@@ -2919,12 +2919,60 @@
    "star": false,
    "title": "Partner Capability, Competencies & Readiness Manager (f/m/d)",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525938"
+  },
+  {
+   "at": "2026-11-05T14:11:03+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent Fotografie und Bildbearbeitung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-fotografie-und-bildbearbeitung-m-w-d_251563-1712450.html"
+  },
+  {
+   "at": "2026-11-05T14:11:03+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in - Multimedia-Content-Creator (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/67869957/Werkstudent-in-Multimedia-Content-Creator-all-genders-?jobDbPVId=289818497&l=de"
+  },
+  {
+   "at": "2026-11-05T14:11:03+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": false,
+   "title": "Leiter*in für unser Kompetenzteam »Embedded Entwicklung und Charakterisierung« (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/67229650/Leiter-in-f%C3%BCr-unser-Kompetenzteam-%C2%BBEmbedded-Entwicklung-und-Charakterisierung%C2%AB-all-genders-?jobDbPVId=289818512&l=de"
+  },
+  {
+   "at": "2026-11-05T14:09:45+00:00",
+   "kind": "new",
+   "site": "Bosch – Abstatt bei Stuttgart",
+   "star": true,
+   "title": "Masterarbeit Smart Temperature Estimation in High Performance Brake Systems",
+   "url": "https://jobs.bosch.com/en/job/REF292486H-masterarbeit-smart-temperature-estimation-in-high-performance-brake-systems"
+  },
+  {
+   "at": "2026-11-05T14:09:45+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum – FE-Simulation, künstliche Intelligenz und virtuelle Fertigung (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-05T14:10:41+00:00",
+   "kind": "new",
+   "site": "Keysight – Böblingen (Baden-Württemberg)",
+   "star": true,
+   "title": "RF/mmWave IC Design Manager",
+   "url": "https://jobs.keysight.com/external/jobs/55320?lang=en-us"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T13:58:13+00:00",
+ "last_run": "2026-11-05T14:11:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
