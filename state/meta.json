@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 40,
  "commands_set": true,
  "events": [
   {
@@ -694,12 +694,1419 @@
    "site": "Rheinmetall",
    "title": "https://www.rheinmetall.com/de/job/projekt_und_werkscontroller__m_w_d_/1209958",
    "url": "https://www.rheinmetall.com/de/job/projekt_und_werkscontroller__m_w_d_/1209958"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Analog Board Entwickler für Funkgeräte - Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/analog-board-entwickler-fuer-funkgeraete-tactical-secure-communications-m-w-d_251563-1709447.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "HF Analog Board Entwickler für Funkgeräte - Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hf-analog-board-entwickler-fuer-funkgeraete-tactical-secure-communications-m-w-d_251563-1709446.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Softwareentwickler C/C++/Java (m/w/d) für Crypto-Devices",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/softwareentwickler-c-c-java-m-w-d-fuer-crypto-devices_251563-1709445.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1709444.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Fertigungstechnologe Elektronikfertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/fertigungstechnologe-elektronikfertigung-m-w-d_251563-1656769.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Technologe (m/w/d) Produktion Hochfrequenz",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technologe-m-w-d-produktion-hochfrequenz_251563-1709325.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant (m/w/d) für den Bereich AI / Softwareentwicklung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-m-w-d-fuer-den-bereich-ai-softwareentwicklung_251563-1709248.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Technical IT Project Lead - Cloud Collaboration (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-technical-it-project-lead-cloud-collaboration-m-w-d_251563-1677760.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent im operativen Einkauf (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-im-operativen-einkauf-m-w-d_251563-1708418.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter Leiterplattenfertigung (m/w/d) für den Bereich Oberflächenbeschichtung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-leiterplattenfertigung-m-w-d-fuer-den-bereich-oberflaechenbeschichtung_251563-1708288.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung im Bereich Softwareentwicklung Embedded",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-im-bereich-softwareentwicklung-embedded_251563-1623682.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Validierung und Integration (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-validierung-und-integration-m-w-d_251563-1708224.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Qualitätsspezialist Endfertigung Avionik m/w/d",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualitaetsspezialist-endfertigung-avionik-m-w-d_251563-1707648.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Spezialist Obsoleszenzmanagement (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/spezialist-obsoleszenzmanagement-m-w-d_251563-1631680.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1707332.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Koordinator Kundenprojekte (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/koordinator-kundenprojekte-m-w-d_251563-1705602.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Schülerpraktikum Technik, IT, Logistik oder Büro (m/w/d) - Standort Memmingen",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/schuelerpraktikum-technik-it-logistik-oder-buero-m-w-d-standort-memmingen_251563-1644099.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1707331.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1707330.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1707329.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Teamleiter Component Quality (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-component-quality-m-w-d_251563-1705600.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Fachkraft Mikroelektronik-Fertigung - Wareneingangsprüfung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/fachkraft-mikroelektronik-fertigung-wareneingangspruefung-m-w-d_251563-1705088.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Commercial Manager / Kaufmännischer Mitarbeiter Order Management (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/commercial-manager-kaufmaennischer-mitarbeiter-order-management-m-w-d_251563-1706113.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker - Technischer Service und Reparatur in der Spektrumanalyse (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-technischer-service-und-reparatur-in-der-spektrumanalyse-m-w-d_251563-1707328.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium mit vertiefter Praxis im Bereich Elektro- und Informationstechnik Start 2027 (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-mit-vertiefter-praxis-im-bereich-elektro-und-informationstechnik-start-2027-m-w-d_251563-1636289.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Logistikkoordinator (m/w/d) für den Bereich Zentrallager",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/logistikkoordinator-m-w-d-fuer-den-bereich-zentrallager_251563-1707008.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Architekt/-in, Innenarchitekt/-in (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/architekt-in-innenarchitekt-in-m-w-d_251563-1706880.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systemingenieur (m/w/d) für den Bereich taktische Funkkommunikation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemingenieur-m-w-d-fuer-den-bereich-taktische-funkkommunikation_251563-1706624.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systemtechniker (m/w/d) für den Bereich taktische Funkkommunikation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemtechniker-m-w-d-fuer-den-bereich-taktische-funkkommunikation_251563-1706497.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Manager US Export Control Governance (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-manager-us-export-control-governance-m-w-d_251563-1682560.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Lean Manager (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/lean-manager-m-w-d_251563-1643265.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme in der Endfertigung Netzwerkanalyse (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-in-der-endfertigung-netzwerkanalyse-m-w-d_251563-1702848.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Technischer Vertrieb ATC (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-technischer-vertrieb-atc-m-w-d_251563-1706112.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Technical Sales (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-technical-sales-m-w-d_251563-1705922.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Systems Engineering / Model-Based Systems Engineering (MBSE) (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-systems-engineering-model-based-systems-engineering-mbse-m-w-d_251563-1705921.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant Device Integration Audio Team (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-device-integration-audio-team-m-w-d_251563-1705920.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Internationale Fabrikplanung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-internationale-fabrikplanung-m-w-d_251563-1705280.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Software-Entwicklungsingenieur & Projektmanager EMV-Messtechnik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/software-entwicklungsingenieur-projektmanager-emv-messtechnik-m-w-d_251563-1684995.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Software Development Engineer - DSP (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-software-development-engineer-dsp-m-f-d_251563-1694529.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektleitung PLE Software Defined Radio (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektleitung-ple-software-defined-radio-m-w-d_251563-1686016.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior RF Device Development Engineer & Subproject Lead (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-rf-device-development-engineer-subproject-lead-m-w-d_251563-1696832.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Product Engineer Software Defined Radio (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/product-engineer-software-defined-radio-m-w-d_251563-1684098.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Inhouse Consultant & Solution Architect SAP SD (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-inhouse-consultant-solution-architect-sap-sd-m-f-d_251563-1642816.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Development Engineer ASIC Characterization (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-development-engineer-asic-characterization-m-f-d_251563-1624778.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Strategischer Einkäufer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/strategischer-einkaeufer-m-w-d_251563-1704771.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Einkäufer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/einkaeufer-m-w-d_251563-1704770.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Sales Support & Order Processing (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-sales-support-order-processing-m-w-d_251563-1704320.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Logistik & Disposition - Industriekaufmann (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/logistik-disposition-industriekaufmann-m-w-d_251563-1704000.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Algorithm Expert (m-w-d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-algorithm-expert-m-w-d_251563-1703872.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektleiter Signal und Spectrum Analyzer (m-w-d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektleiter-signal-und-spectrum-analyzer-m-w-d_251563-1625666.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker - Technischer Service und Reparatur in der Netzwerkanalyse und Leistungsmessung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-technischer-service-und-reparatur-in-der-netzwerkanalyse-und-leistungsmessung-m-w-d_251563-1703168.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Global SCM Projektmanager - Prozessmanagement & SAP (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/global-scm-projektmanager-prozessmanagement-sap-m-w-d_251563-1643137.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior HF-Entwicklungsingenieur Großsignal (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-hf-entwicklungsingenieur-grosssignal-m-w-d_251563-1702593.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent IT Vendor Management (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-it-vendor-management-m-w-d_251563-1701184.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Software Support (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-software-support-m-w-d_251563-1701057.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Junior Professional (m/w/d) Obsoleszenzmanagement",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/junior-professional-m-w-d-obsoleszenzmanagement_251563-1701056.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Personalentwicklung Learning / Training (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-personalentwicklung-learning-training-m-w-d_251563-1700485.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Systemarchitekt Führungsfunk / Technical Design Authority (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-systemarchitekt-fuehrungsfunk-technical-design-authority-m-w-d_251563-1700868.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Software Development (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-software-development-m-w-d_251563-1700552.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ideenmanager (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ideenmanager-m-w-d_251563-1700550.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Techniker (m/w/d) Fertigungsprogrammierung für den Bereich Leiterplatte",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/techniker-m-w-d-fertigungsprogrammierung-fuer-den-bereich-leiterplatte_251563-1700549.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Chemielaborant (m/w/d) für den Bereich Labor Leiterplatte",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/chemielaborant-m-w-d-fuer-den-bereich-labor-leiterplatte_251563-1700548.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Bachelorand / Masterand (m/w/d) Modellierung von Fertigungsprozessen mit Bayesian Belief Networks",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/bachelorand-masterand-m-w-d-modellierung-von-fertigungsprozessen-mit-bayesian-belief-networks_251563-1700032.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Testingenieur Systemintegration und Testautomatisierung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/testingenieur-systemintegration-und-testautomatisierung-m-w-d_251563-1699904.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Intern near field antenna measurement algorithms (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-near-field-antenna-measurement-algorithms-m-f-d_251563-1699777.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hardware Teilprojektleiter (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardware-teilprojektleiter-m-w-d_251563-1699776.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hardware Entwickler (m/w/d) für digitale Schaltungsentwicklung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardware-entwickler-m-w-d-fuer-digitale-schaltungsentwicklung_251563-1699520.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "M&A Specialist (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ma-specialist-m-w-d_251563-1698944.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hausmeister / Schreiner (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hausmeister-schreiner-m-w-d_251563-1698626.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Qualifizierte Fachkraft Mikroelektronik-Fertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualifizierte-fachkraft-mikroelektronik-fertigung-m-w-d_251563-1698055.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Koch (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/koch-m-w-d_251563-1698054.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "IT Service Continuity Manager (ITSCM) & IT Security Auditor (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/it-service-continuity-manager-itscm-it-security-auditor-m-w-d_251563-1684096.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Director R&D of Hardware Digital Development (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-rd-of-hardware-digital-development-m-w-d_251563-1697674.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Director R&D of Hardware Analog and RF Development (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-rd-of-hardware-analog-and-rf-development-m-w-d_251563-1697673.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Simulation Tools (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-simulation-tools-m-w-d_251563-1697603.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent Softwareentwicklung & CAD-Automatisierung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-softwareentwicklung-cad-automatisierung-m-w-d_251563-1696896.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent AV-Media (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-av-media-m-w-d_251563-1696834.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Qualifizierte Fachktraft Montage (m/w/d) - ziviler Flugfunk",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualifizierte-fachktraft-montage-m-w-d-ziviler-flugfunk_251563-1696642.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zur Fachkraft für Lagerlogistik zum 01.09.2027 (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zur-fachkraft-fuer-lagerlogistik-zum-01.09.2027-m-w-d_251563-1636644.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Teamkoordinator Corporate Security (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamkoordinator-corporate-security-m-w-d_251563-1636800.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Produktionsleiter Endfertigung - Operational Excellence & Transformation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/produktionsleiter-endfertigung-operational-excellence-transformation_251563-1640898.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Release-Train-Engineer / Scrum Master für Funkkommunikationssysteme (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/release-train-engineer-scrum-master-fuer-funkkommunikationssysteme-m-w-d_251563-1624961.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Test Engineer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/test-engineer-m-w-d_251563-1628186.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent (m/w/d) für VR/MR Entwicklung & Innovation",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-m-w-d-fuer-vr-mr-entwicklung-innovation_251563-1696193.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektspezialist Avionik Service (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektspezialist-avionik-service-m-w-d_251563-1656579.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Teamleiter Hardwareentwicklung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-hardwareentwicklung-m-w-d_251563-1656899.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Digital Transformation Solution Architekt (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/digital-transformation-solution-architekt-m-w-d_251563-1659712.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1661825.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister Elektrotechnik im Bereich Avionik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-elektrotechnik-im-bereich-avionik-m-w-d_251563-1661826.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker im Bereich Baugruppenfertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-im-bereich-baugruppenfertigung-m-w-d_251563-1662656.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ingenieur für Hochfrequenz-Messtechnik und Metrologie (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ingenieur-fuer-hochfrequenz-messtechnik-und-metrologie-m-w-d_251563-1669504.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Service Delivery Manager (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/service-delivery-manager-m-w-d_251563-1682752.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektleiter internationale Fabrik Planung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektleiter-internationale-fabrik-planung-m-w-d_251563-1650688.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Industrieelektriker im Bereich taktische Kommunikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/industrieelektriker-im-bereich-taktische-kommunikation-m-w-d_251563-1690306.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Teamleiter IT-Applikationen (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-it-applikationen-m-w-d_251563-1691712.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme - Avionik / Hochfrequenztechnik / Fehlersuche (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-avionik-hochfrequenztechnik-fehlersuche-m-w-d_251563-1629968.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hardwareentwickler Hochfrequenztechnik / HF-Entwicklungsingenieur für Software Defined Radios(m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardwareentwickler-hochfrequenztechnik-hf-entwicklungsingenieur-fuer-software-defined-radios-m-w-d_251563-1630923.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Obsoleszenzmanager für Funkgeräte - Tactical Secure Communications (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/obsoleszenzmanager-fuer-funkgeraete-tactical-secure-communications-m-w-d_251563-1630987.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hardware-Entwicklungsingenieur (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardware-entwicklungsingenieur-m-w-d_251563-1631001.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Hardware-Entwickler für Peiler und Empfänger (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardware-entwickler-fuer-peiler-und-empfaenger-m-w-d_251563-1630998.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme - Fehlersuche in der Endfertigung Secure Communication (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-fehlersuche-in-der-endfertigung-secure-communication-m-w-d_251563-1629970.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme - Baugruppenprüfung & Fehlersuche in der HF-Technik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-baugruppenpruefung-fehlersuche-in-der-hf-technik-m-w-d_251563-1629971.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Mitarbeiter Qualitätsmanagement Baugruppenfertigung - Luftfahrt (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/mitarbeiter-qualitaetsmanagement-baugruppenfertigung-luftfahrt-m-w-d_251563-1662785.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Meister für operatives Qualitätsmanagement im Bereich Funkkommunikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/meister-fuer-operatives-qualitaetsmanagement-im-bereich-funkkommunikation-m-w-d_251563-1653507.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme im Bereich taktische Funkkommunikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-im-bereich-taktische-funkkommunikation-m-w-d_251563-1654785.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektroniker für Geräte und Systeme im Bereich taktische Funkkommunikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektroniker-fuer-geraete-und-systeme-im-bereich-taktische-funkkommunikation-m-w-d_251563-1654786.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektrotechniker Linienverantwortung Elektronikfertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektrotechniker-linienverantwortung-elektronikfertigung-m-w-d_251563-1663681.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ingenieur Antennenmesstechnik / HF-Messtechnik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ingenieur-antennenmesstechnik-hf-messtechnik-m-w-d_251563-1662464.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Test‑ und Verifikationsingenieur Hochfrequenztechnik / Flugfunk (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/test-und-verifikationsingenieur-hochfrequenztechnik-flugfunk-m-w-d_251563-1651456.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Elektroniker für Geräte und Systeme zum 01.09.2027 (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-elektroniker-fuer-geraete-und-systeme-zum-01.09.2027-m-w-d_251563-1632281.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Commercial Contract Manager Test and Measurement (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/commercial-contract-manager-test-and-measurement-m-w-d_251563-1695360.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Produktmanager (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/produktmanager-m-w-d_251563-1631504.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent ATC Product Management System (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-atc-product-management-system-m-w-d_251563-1691922.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Entwicklungsingenieur Analog- und Stromversorgungstechnik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-entwicklungsingenieur-analog-und-stromversorgungstechnik-m-w-d_251563-1691649.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior HF-Entwicklungsingenieur Kleinsignal (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-hf-entwicklungsingenieur-kleinsignal-m-w-d_251563-1691648.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant User Interface Design (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-user-interface-design-m-w-d_251563-1672002.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Engineer Hardware-Verifikation und Testarchitektur (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-engineer-hardware-verifikation-und-testarchitektur-m-w-d_251563-1691201.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) CNC-Drehen für den Bereich Präzisionsfertigung Eichleitung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-drehen-fuer-den-bereich-praezisionsfertigung-eichleitung_251563-1690305.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Vertriebsingenieur Messtechnik im Bereich Aerospace & Defence (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/vertriebsingenieur-messtechnik-im-bereich-aerospace-defence-m-w-d_251563-1689474.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Director - Product Vertical Vector Network Analyzer (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-director-product-vertical-vector-network-analyzer-m-w-d_251563-1681216.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Service Delivery Manager (Airborne Communication Products)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/service-delivery-manager-airborne-communication-products_251563-1689473.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Spezialist Industrial Engineering (m/w/d) für den Bereich Zentrale Dienste",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/spezialist-industrial-engineering-m-w-d-fuer-den-bereich-zentrale-dienste_251563-1688961.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikum (m/w/d): Ausbildung / Duales Studium Teisnach Pfingstferien 2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikum-m-w-d-ausbildung-duales-studium-teisnach-pfingstferien-2027_251563-1688960.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Technical Sales Engineer Counter Drone Systems (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technical-sales-engineer-counter-drone-systems-m-w-d_251563-1687875.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Masterand (m/w/d) für den Bereich Produktionstechnologie Leiterplatte",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/masterand-m-w-d-fuer-den-bereich-produktionstechnologie-leiterplatte_251563-1687872.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Personalreferent / HR Business Partner (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/personalreferent-hr-business-partner-m-w-d_251563-1681856.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Software Developer Test (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-software-developer-test-m-w-d_251563-1646465.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "(Senior) technischer Trainer (m/w/d) SIGINT / EW (befr. für 2 Jahre)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-technischer-trainer-m-w-d-sigint-ew-befr-fuer-2-jahre_251563-1684994.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "(Junior) technischer Trainer (m/w/d) SIGINT / EW (befr. für 2 Jahre)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/junior-technischer-trainer-m-w-d-sigint-ew-befr-fuer-2-jahre_251563-1684993.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Tech Lead (m/w/d) Software Safety für Drohnenabwehrsysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/tech-lead-m-w-d-software-safety-fuer-drohnenabwehrsysteme_251563-1681984.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Director Product Vertical Oscilloscopes (m/f/x)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-director-product-vertical-oscilloscopes-m-f-x_251563-1631376.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Intern Artificial Intelligence & Machine Learning (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-artificial-intelligence-machine-learning-m-f-d_251563-1629969.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Intern DevOps Automation (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-devops-automation-m-f-d_251563-1630467.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikant (m/w/d) für den Bereich Werkzeugbau",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-m-w-d-fuer-den-bereich-werkzeugbau_251563-1680640.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Vertriebsingenieur Automotive (m/d/w)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/vertriebsingenieur-automotive-m-d-w_251563-1680384.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Werkstudent für Softwareentwicklung im PDM-Umfeld (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-fuer-softwareentwicklung-im-pdm-umfeld-m-w-d_251563-1678656.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systems Architect Counter Drone Systems (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systems-architect-counter-drone-systems-m-w-d_251563-1678593.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Security Architekt/Spezialist - Produktsicherheit (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/security-architekt-spezialist-produktsicherheit-m-w-d_251563-1677440.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Leiter Produktentwicklung & Projektmanagement V/UHF-Funksysteme (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/leiter-produktentwicklung-projektmanagement-v-uhf-funksysteme-m-w-d_251563-1673088.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "(Senior) Full Stack Entwickler (m/w/d) Java / Angular",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-full-stack-entwickler-m-w-d-java-angular_251563-1671296.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Stellvertretende Abteilungsleitung (m/w/d) für den Bereich Gehäusetechnik Laserpräzision",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/stellvertretende-abteilungsleitung-m-w-d-fuer-den-bereich-gehaeusetechnik-laserpraezision_251563-1663426.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "System Architect ELINT/RESM (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/system-architect-elint-resm-m-w-d_251563-1666114.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium Wirtschaftsinformatik (m/w/d) zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-wirtschaftsinformatik-m-w-d-zum-01.09.2027-standort-teisnach_251563-1626473.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium Softwaredesign (m/w/d) zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-softwaredesign-m-w-d-zum-01.09.2027-standort-teisnach_251563-1626472.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Abschlussarbeit Agenten-basiertes Tool zur Anforderungen-Konsolidierung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/abschlussarbeit-agenten-basiertes-tool-zur-anforderungen-konsolidierung-m-w-d_251563-1662018.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Abschlussarbeit Empirische Evaluation agentischer MBSE-Assistenz (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/abschlussarbeit-empirische-evaluation-agentischer-mbse-assistenz-m-w-d_251563-1662017.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) CNC-Fräsen für den Bereich CNC-Fräsen Horizontal",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-fraesen-fuer-den-bereich-cnc-fraesen-horizontal_251563-1661633.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "EMV- und TEMPEST-Entwicklungsingenieur (m/w/d) für den Bereich Systemdienstleistung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/emv-und-tempest-entwicklungsingenieur-m-w-d-fuer-den-bereich-systemdienstleistung_251563-1660224.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "DevOps Engineer (m/w/d) für den Bereich Künstliche Intelligenz (Artificial Intelligence)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/devops-engineer-m-w-d-fuer-den-bereich-kuenstliche-intelligenz-artificial-intelligence_251563-1659968.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung als Systemingenieur (m/w/d) Kundenprojekte",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-als-systemingenieur-m-w-d-kundenprojekte_251563-1649281.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Elektrotechniker für Drohnenabwehrsysteme - Demo & Trials (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/elektrotechniker-fuer-drohnenabwehrsysteme-demo-trials-m-w-d_251563-1630146.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Bachelorand (m/w/d) für den Bereich Künstliche Intelligenz in modernen Kartenanwendungen",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/bachelorand-m-w-d-fuer-den-bereich-kuenstliche-intelligenz-in-modernen-kartenanwendungen_251563-1656641.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Sales Manager / Vertriebsmitarbeiter (m/w/d) für den Bereich Electronic Manufacturing Services (EMS)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/sales-manager-vertriebsmitarbeiter-m-w-d-fuer-den-bereich-electronic-manufacturing-services-ems_251563-1638720.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Masterand Mobile Radio Analytics (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/masterand-mobile-radio-analytics-m-w-d_251563-1655616.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systemingenieur (m/w/d) für Signalerfassungssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemingenieur-m-w-d-fuer-signalerfassungssysteme_251563-1654784.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systemingenieur (m/w/d) für Signalerfassungssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemingenieur-m-w-d-fuer-signalerfassungssysteme_251563-1654531.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) CNC-Fräsen für den Bereich CNC-Fräsen horizontal",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-fraesen-fuer-den-bereich-cnc-fraesen-horizontal_251563-1652866.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Quality Manager (m/w/d) für Kundenprojekte",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/quality-manager-m-w-d-fuer-kundenprojekte_251563-1652865.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Fertigungstechnologe (m/w/d) für den Bereich Präzisionsfertigung spanabhebend",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-fertigungstechnologe-m-w-d-fuer-den-bereich-praezisionsfertigung-spanabhebend_251563-1652864.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) Verfahrensmechanik Beschichtungstechnik für den Bereich Pulverbeschichtung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-verfahrensmechanik-beschichtungstechnik-fuer-den-bereich-pulverbeschichtung_251563-1652801.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Haustechniker Anlagenmechaniker Elektrotechnik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/haustechniker-anlagenmechaniker-elektrotechnik-m-w-d_251563-1651457.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Supplier Development Engineer / Prozessspezialist (m/w/d) für externe Wertschöpfung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/supplier-development-engineer-prozessspezialist-m-w-d-fuer-externe-wertschoepfung_251563-1644035.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikum (m/w/d): Ausbildung / Duales Studium Teisnach Faschingsferien 2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikum-m-w-d-ausbildung-duales-studium-teisnach-faschingsferien-2027_251563-1640197.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Systemtechniker (m/w/d) für Systemintegration",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemtechniker-m-w-d-fuer-systemintegration_251563-1640896.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung als Softwareentwickler (m/w/d) in Vollzeit oder Teilzeit",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-als-softwareentwickler-m-w-d-in-vollzeit-oder-teilzeit_251563-1648128.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung als Systemingenieur (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-als-systemingenieur-m-w-d_251563-1624527.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung als Systemtechniker (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-als-systemtechniker-m-w-d_251563-1624526.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Senior Test Engineer Java (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-test-engineer-java-m-w-d_251563-1646464.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "(Senior) Projektleiter (m/w/d) Service für den Bereich Integrated Logistic Support (befr. für 2 J.)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-projektleiter-m-w-d-service-fuer-den-bereich-integrated-logistic-support-befr-fuer-2-j_251563-1644032.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbilder Informatik (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbilder-informatik-m-w-d_251563-1642497.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Security Engineer - Zertifizierung/Zulassung unserer Sicherheitsprodukte (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/security-engineer-zertifizierung-zulassung-unserer-sicherheitsprodukte-m-w-d_251563-1632264.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Produktmanager C-UAS Systems (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/produktmanager-c-uas-systems-m-w-d_251563-1641409.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Praktikum (m/w/d): Ausbildung / Duales Studium Teisnach Osterferien 2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikum-m-w-d-ausbildung-duales-studium-teisnach-osterferien-2027_251563-1640198.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektleiter (m/w/d) für den Bereich SCM-Projektmanagement",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektleiter-m-w-d-fuer-den-bereich-scm-projektmanagement_251563-1639873.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Projektleiter (m/w/d) für den Bereich SCM-Projektmanagement",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/projektleiter-m-w-d-fuer-den-bereich-scm-projektmanagement_251563-1639872.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung (m/w/d) Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-m-w-d-standort-teisnach_251563-1623686.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Initiativbewerbung Masteranden, Bacheloranden, Praktikanten (m/w/d) Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/initiativbewerbung-masteranden-bacheloranden-praktikanten-m-w-d-standort-teisnach_251563-1623701.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) CNC-Drehen für den Bereich Präzisionsdrehen",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-drehen-fuer-den-bereich-praezisionsdrehen_251563-1638784.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Technical Trainer Oscilloscopes & digital design test (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/technical-trainer-oscilloscopes-digital-design-test-m-w-d_251563-1632259.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Rechtsreferendar für die Anwalts-/Wahlstation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/rechtsreferendar-fuer-die-anwalts-wahlstation-m-w-d_251563-1630221.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Intern Wireless Coexistence System Development (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-wireless-coexistence-system-development-m-f-d_251563-1629973.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Industrieelektriker im Bereich taktische Kommunikation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/industrieelektriker-im-bereich-taktische-kommunikation-m-w-d_251563-1629130.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Security Engineer (m/w/d) für sichere Kommunikationssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/security-engineer-m-w-d-fuer-sichere-kommunikationssysteme_251563-1628932.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Bund2Business Traineeprogramm für Soldaten (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/bund2business-traineeprogramm-fuer-soldaten-m-w-d_251563-1628698.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Intern EMC Software Development (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/intern-emc-software-development-m-f-d_251563-1628373.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Security Architect (m/w/d) für sichere Kommunikationssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/security-architect-m-w-d-fuer-sichere-kommunikationssysteme_251563-1628033.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "System Engineer (m/w/d) für sichere Kommunikationssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/system-engineer-m-w-d-fuer-sichere-kommunikationssysteme_251563-1628032.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Schülerpraktikum 2027 in München",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/schuelerpraktikum-2027-in-muenchen_251563-1627779.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Director Embedded Software & Cloud Infrastructure (m/w/d) for 5G/6G Mobile Radio Testing / SDR",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-embedded-software-cloud-infrastructure-m-w-d-for-5g-6g-mobile-radio-testing-sdr_251563-1627521.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Facharbeiter (m/w/d) CNC-Drehen für den Bereich Präzisions-Langdrehen",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-drehen-fuer-den-bereich-praezisions-langdrehen_251563-1626654.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Industriemechaniker (m/w/d) Fachrichtung Feingerätebau 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-industriemechaniker-m-w-d-fachrichtung-feingeraetebau-01.09.2027-standort-teisnach_251563-1626210.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Industriekaufmann (m/w/d) zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-industriekaufmann-m-w-d-zum-01.09.2027-standort-teisnach_251563-1626204.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Oberflächenbeschichter / Galvaniseur (m/w/d) zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-oberflaechenbeschichter-galvaniseur-m-w-d-zum-01.09.2027-standort-teisnach_251563-1626203.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Elektroniker (m/w/d) für Geräte und Systeme zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-elektroniker-m-w-d-fuer-geraete-und-systeme-zum-01.09.2027-standort-teisnach_251563-1626201.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum IT-Systemelektroniker (m/w/d) zum 01.09.2027 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-it-systemelektroniker-m-w-d-zum-01.09.2027-standort-teisnach_251563-1626200.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium Angewandte Naturwissenschaften/Mikrosystemtechnik (m/w/d) 01.09.27 Standort Teisnach",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-angewandte-naturwissenschaften-mikrosystemtechnik-m-w-d-01.09.27-standort-teisnach_251563-1626199.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Elektroniker (m/w/d) für Informations- und Systemtechnik zum 01.09.2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-elektroniker-m-w-d-fuer-informations-und-systemtechnik-zum-01.09.2027_251563-1624591.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium der Informatik (m/w/d) Verbundstudium zum 01.09.2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-der-informatik-m-w-d-verbundstudium-zum-01.09.2027_251563-1624585.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Duales Studium der Elektrotechnik (m/w/d) Verbundstudium zum 01.09.2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/duales-studium-der-elektrotechnik-m-w-d-verbundstudium-zum-01.09.2027_251563-1624584.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Fachinformatiker (m/w/d) Fachrichtung Systemintegration zum 01.09.2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-fachinformatiker-m-w-d-fachrichtung-systemintegration-zum-01.09.2027_251563-1624583.html"
+  },
+  {
+   "at": "2026-11-05T06:11:14+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "title": "Ausbildung zum Fachinformatiker (m/w/d) Fachrichtung Anwendungsentwicklung zum 01.09.2027",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ausbildung-zum-fachinformatiker-m-w-d-fachrichtung-anwendungsentwicklung-zum-01.09.2027_251563-1624582.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T05:56:55+00:00",
+ "last_run": "2026-11-05T06:11:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
