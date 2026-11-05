@@ -101,6 +101,33 @@ filter:
     - Grafikdesign
     - Graphic Design
     - Mediengestalter
+    # HR / personnel
+    - HR                    # whole word: HR, HR-Business Partner
+    - Human Resource
+    - Personalreferent
+    - Personalsachbearbeit
+    - Personalentwicklung
+    - Personalmanagement
+    - Personalwesen
+    - Personalabteilung
+    - Personalberat
+    - Personalmarketing
+    - Personaldisposition
+    - Personaler
+    - Recruiter
+    - Recruiting
+    - Talent Acquisition
+    - Talent Management
+    - Bewerbermanagement
+    - People & Culture
+    - People and Culture
+    - People Partner
+    - Payroll
+    - Lohnbuchhaltung
+    - Entgeltabrechnung
+    - Gehaltsabrechnung
+    - Compensation & Benefits
+    - Learning & Development
   show:
     # student jobs
     - Werkstudent           # Werkstudent, Werkstudentin, Werkstudent*in
