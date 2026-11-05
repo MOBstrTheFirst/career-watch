@@ -532,6 +532,64 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
+# ----------------------------------------------------------------------------- keyword filter
+STAR = "\u2b50"   # star emoji
+
+
+class KeywordFilter:
+    """remove: never alert. show: alert first, marked with a star. Anything else: normal alert.
+    Keywords ignore upper/lower case. Plain words match anywhere ("Werkstudent" also finds "Werkstudentin");
+    words of 3 letters or less match only as a whole word ("RF" does not match "Performance").
+    Advanced: any entry may be a regular expression, e.g. "\\bIntern\\b"."""
+    def __init__(self, cfg):
+        f = (cfg or {}).get("filter") or {}
+        self.remove = self._compile(f.get("remove") or [])
+        self.show = self._compile(f.get("show") or [])
+
+    @staticmethod
+    def _compile(words):
+        parts = []
+        for w in words:
+            w = str(w).strip()
+            if not w:
+                continue
+            if re.fullmatch(r"[A-Za-z0-9]{1,3}", w):
+                parts.append(rf"(?<![A-Za-z0-9]){re.escape(w)}(?![A-Za-z0-9])")
+            elif re.search(r"[\\()\[\]|.?*+{}^$]", w):
+                parts.append(f"(?:{w})")
+            else:
+                parts.append(re.escape(w))
+        return re.compile("|".join(parts), re.I) if parts else None
+
+    def kind(self, text):
+        """'remove', 'show' or 'normal'. REMOVE beats SHOW."""
+        if self.remove and self.remove.search(text):
+            return "remove"
+        if self.show and self.show.search(text):
+            return "show"
+        return "normal"
+
+    def split(self, items, text_of):
+        """Returns (show items, normal items, number removed)."""
+        show, normal, removed = [], [], 0
+        for it in items:
+            k = self.kind(text_of(it))
+            if k == "remove":
+                removed += 1
+            elif k == "show":
+                show.append(it)
+            else:
+                normal.append(it)
+        return show, normal, removed
+
+
+FILTER = KeywordFilter({})
+
+
+def hidden_note(n):
+    return f"\n({n} hidden by your keyword filter)" if n else ""
+
+
 # ----------------------------------------------------------------------------- compare
 def compare(site, prev, cur, mode):
     """Returns (message or None, new_state)."""
@@ -590,25 +648,37 @@ def compare(site, prev, cur, mode):
     header = f"<b>{esc(name)}</b>\n<a href=\"{esc(url)}\">Open careers page</a>\n"
     if use_links:
         if new_links:
-            items = "\n".join(f"• <a href=\"{esc(u)}\">{esc(t)}</a>" for u, t in new_links[:15])
-            more = f"\n…and {len(new_links) - 15} more" if len(new_links) > 15 else ""
-            ev = [{"site": name, "title": t, "url": u, "kind": "new"} for u, t in new_links]
-            return f"NEW: {len(new_links)} new link(s)\n{header}{items}{more}", new_state, ev
+            show, normal, removed = FILTER.split(new_links, lambda x: x[1])
+            ordered = [(u, t, True) for u, t in show] + [(u, t, False) for u, t in normal]
+            if not ordered:                      # everything new was removed by the filter
+                return None, new_state, []
+            items = "\n".join(f"{STAR if s else '•'} <a href=\"{esc(u)}\">{esc(t)}</a>" for u, t, s in ordered[:15])
+            more = f"\n…and {len(ordered) - 15} more" if len(ordered) > 15 else ""
+            ev = [{"site": name, "title": t, "url": u, "kind": "new", "star": s} for u, t, s in ordered]
+            head = f"{STAR} INTERESTING: {len(show)} of {len(ordered)} new link(s)" if show else \
+                f"NEW: {len(ordered)} new link(s)"
+            return f"{head}\n{header}{items}{more}{hidden_note(removed)}", new_state, ev
         # Backup check: job-looking text appeared but no new link (e.g. jobs without real <a> links)
         jobby = [l for l in added_lines if JOB_TEXT_RE.search(l) and len(l) < 200]
+        show, normal, removed = FILTER.split(jobby, lambda l: l)
+        jobby = [(l, True) for l in show] + [(l, False) for l in normal]
         if jobby:
-            items = "\n".join(f"• {esc(l)}" for l in jobby[:10])
-            ev = [{"site": name, "title": l[:150], "url": url, "kind": "possible"} for l in jobby[:10]]
-            return f"POSSIBLE new posting (text changed, no new link)\n{header}{items}", new_state, ev
+            items = "\n".join(f"{STAR if s else '•'} {esc(l)}" for l, s in jobby[:10])
+            ev = [{"site": name, "title": l[:150], "url": url, "kind": "possible", "star": s} for l, s in jobby[:10]]
+            head = f"{STAR} POSSIBLE interesting posting" if show else "POSSIBLE new posting"
+            return f"{head} (text changed, no new link)\n{header}{items}{hidden_note(removed)}", new_state, ev
         return None, new_state, []
 
     # text mode
-    if added_lines:
-        items = "\n".join(f"• {esc(l[:160])}" for l in added_lines[:10])
-        more = f"\n…and {len(added_lines) - 10} more line(s)" if len(added_lines) > 10 else ""
-        ev = [{"site": name, "title": f"{len(added_lines)} new text line(s), e.g. {added_lines[0][:100]}",
-               "url": url, "kind": "text"}]
-        return f"CHANGED: page text changed\n{header}{items}{more}", new_state, ev
+    show, normal, removed = FILTER.split(added_lines, lambda l: l)
+    lines = [(l, True) for l in show] + [(l, False) for l in normal]
+    if lines:
+        items = "\n".join(f"{STAR if s else '•'} {esc(l[:160])}" for l, s in lines[:10])
+        more = f"\n…and {len(lines) - 10} more line(s)" if len(lines) > 10 else ""
+        ev = [{"site": name, "title": f"{len(lines)} new text line(s), e.g. {lines[0][0][:100]}",
+               "url": url, "kind": "text", "star": bool(show)}]
+        head = f"{STAR} CHANGED: page text changed (interesting words)" if show else "CHANGED: page text changed"
+        return f"{head}\n{header}{items}{more}{hidden_note(removed)}", new_state, ev
     return None, new_state, []
 
 
@@ -643,13 +713,13 @@ def site_health(state, sites):
 def build_report(cfg, state, sites, title):
     meta = state[META_KEY]
     events = meta.get("events", [])
-    new = [e for e in events if e["kind"] == "new"]
+    new = sorted((e for e in events if e["kind"] == "new"), key=lambda e: not e.get("star"))
     other = [e for e in events if e["kind"] != "new"]
     ok, failing, waiting = site_health(state, sites)
     lines = [f"<b>{esc(title)}</b>",
              "Watcher is alive.",
              f"Runs: {meta.get('runs', 0)} | Alerts sent: {meta.get('alerts', 0)}",
-             "", f"<b>New postings: {len(new)}</b>"]
+             "", f"<b>New postings: {len(new)}</b> ({sum(1 for e in new if e.get('star'))} {STAR})"]
     if new:
         by_site = {}
         for e in new:
@@ -660,7 +730,7 @@ def build_report(cfg, state, sites, title):
             for e in items:
                 if shown >= 40:
                     break
-                lines.append(f"• <a href=\"{esc(e['url'])}\">{esc(e['title'])}</a>")
+                lines.append(f"{STAR if e.get('star') else '•'} <a href=\"{esc(e['url'])}\">{esc(e['title'])}</a>")
                 shown += 1
         if len(new) > shown:
             lines.append(f"…and {len(new) - shown} more")
@@ -856,6 +926,8 @@ async def scan_part(args, cfg, client, k, n):
     wanted = {s["url"] for s in sites}
     state = {u: v for u, v in state.items() if u in wanted}
 
+    # interesting (star) alerts first, then the rest (warnings etc. keep their order)
+    messages.sort(key=lambda m: 0 if m.startswith(STAR) else 1)
     if baselines:
         messages.insert(0, f"Started watching {len(baselines)} new page(s) (part {k}/{n}, no alerts on the first run):\n"
                         + "\n".join(baselines))
@@ -947,6 +1019,8 @@ async def check_mode(args, cfg, client):
 
 async def run(args):
     cfg = load_yaml(SITES_FILE)
+    global FILTER
+    FILTER = KeywordFilter(cfg)
     async with httpx.AsyncClient(http2=False) as client:
         if args.test_telegram:
             ok = await telegram_send(client, "Career watcher: test message OK.")

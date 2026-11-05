@@ -10,6 +10,126 @@ defaults:
 daily_summary_time: "23:55"
 timezone: "Europe/Berlin"
 
+# ---------------------------------------------------------------------------------------------
+# KEYWORD FILTER (checked against each new job title / new text line; upper/lower case ignored)
+#   remove: never sent.   show: sent FIRST and marked with a star.   anything else: sent as normal.
+#   REMOVE beats SHOW.  Plain words match inside longer words ("Werkstudent" finds "Werkstudentin").
+#   Words of 3 letters or less match only as a whole word ("RF" does not match "Performance").
+#   Entries in '...' with \b or | are patterns: \b = word border, | = or.
+# ---------------------------------------------------------------------------------------------
+filter:
+  remove:
+    # apprenticeship / school / dual study
+    - Ausbild               # Ausbildung, Ausbilder, Ausbildungsbeginn
+    - Auszubildende
+    - Azubi
+    - Apprentice            # also Apprenticeship
+    - Duales Studium
+    - Dualer Student
+    - Duale Studentin
+    - Duales Studienprogramm
+    - DHBW
+    - 'dual(es)? stud(y|ent|ies)'
+    - Schülerpraktikum
+    - Berufsorientierungspraktikum
+    - Schnupperpraktikum
+    - Schulabgänger
+    # trade / manual jobs
+    - mechaniker            # Kfz-, Industrie-, Zerspanungsmechaniker ...
+    - Mechatroniker
+    - Elektriker
+    - Elektroniker für
+    - Karosserie
+    - Lackierer
+    - Schlosser
+    - Schweißer
+    - Zerspaner
+    - Monteur
+    - Servicetechniker
+    - Kundendiensttechniker
+    - Lagerist
+    - Lagerlogistik
+    - Lagermitarbeiter
+    - Lagerhelfer
+    - Staplerfahrer
+    - Berufskraftfahrer
+    - '\bFahrer\b'          # not "Fahrerassistenz"
+    - '\b(LKW|Bus)-?Fahrer'
+    - Produktionsmitarbeiter
+    - Produktionshelfer
+    - Maschinenbediener
+    - Anlagenführer
+    - Reinigungskraft
+    - Fachkraft für
+    # shop / office trainee jobs
+    - Einzelhandel
+    - Verkäufer
+    - Kaufmann
+    - Kauffrau
+    - Kaufleute
+    - Minijob
+    - Aushilfe
+  show:
+    # student jobs
+    - Werkstudent           # Werkstudent, Werkstudentin, Werkstudent*in
+    - Werkstudierende
+    - 'working[ -]?student'
+    - studentische
+    - Hilfskraft            # studentische / wissenschaftliche Hilfskraft
+    - HiWi
+    - Student Assistant
+    - Student Job
+    - Studentenjob
+    # thesis
+    - Masterarbeit
+    - Masterand
+    - "master.{0,3}thesis"  # Master thesis, Master's thesis
+    - Abschlussarbeit
+    - Thesis
+    # internship (Schülerpraktikum is removed above)
+    - Praktikum             # also Pflichtpraktikum
+    - Praktikant
+    - Internship
+    - '\bInterns?\b'        # not "international"
+    # RF / microwave topics
+    - RF                    # also RF-Engineer
+    - HF                    # also HF-Technik
+    - RFIC
+    - MMIC
+    - Hochfrequenz
+    - Radio Frequency
+    - 'radio-frequency'
+    - Mikrowelle
+    - Microwave
+    - mmWave
+    - Millimeterwelle
+    - 'millimet(er|re)[ -]?wave'
+    - Antenne
+    - Antenna
+    - Radar
+    - EMV
+    - EMC
+    - elektromagnet
+    - electromagnet
+    - Wireless
+    - Funktechnik
+    - Funksystem
+    - Mobilfunk
+    - 5G
+    - 6G
+    - Satellit
+    - Satellite
+    - SATCOM
+    - Transceiver
+    - Filterdesign
+    - 'filter design'
+    - Signal Integrity
+    - Signalintegrität
+    - HFSS
+    - CST
+    - Netzwerkanalysator
+    - Network Analyzer
+
 sites:
 
   # ================= Extra (not on Forbes/Fortune) =================
