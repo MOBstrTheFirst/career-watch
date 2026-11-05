@@ -1,5 +1,5 @@
 {
- "alerts": 130,
+ "alerts": 134,
  "commands_set": true,
  "events": [
   {
@@ -2967,12 +2967,52 @@
    "star": true,
    "title": "RF/mmWave IC Design Manager",
    "url": "https://jobs.keysight.com/external/jobs/55320?lang=en-us"
+  },
+  {
+   "at": "2026-11-05T14:25:55+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Teamlead (f/m/d) Site Management",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Teamlead-f-m-d-Site-Management/306699"
+  },
+  {
+   "at": "2026-11-05T14:23:41+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": false,
+   "title": "Senior Android Developer - Boutique Store - (T2-CC) (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Senior-Android-Developer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452029833"
+  },
+  {
+   "at": "2026-11-05T14:23:41+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": false,
+   "title": "Backend Engineer - Boutique Store - (T2-CC) (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Backend-Engineer-Boutique-Store-%28T2-CC%29-%28fmd%29-85053/1452027633"
+  },
+  {
+   "at": "2026-11-05T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Masterarbeit - Shaping Multi-Agent-Based Production Engineering",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528314"
+  },
+  {
+   "at": "2026-11-05T14:25:13+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": true,
+   "title": "Cloud Master@IBM - Working Student: Build Ecosystem - ISV Partner Specialist (f/m/x) Internship FRANKFURT, DE",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=103600"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-05T14:11:25+00:00",
+ "last_run": "2026-11-05T14:26:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-04",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
