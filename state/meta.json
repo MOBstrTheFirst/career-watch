@@ -1,5 +1,5 @@
 {
- "alerts": 13,
+ "alerts": 14,
  "commands_set": true,
  "events": [
   {
@@ -145,12 +145,20 @@
    "star": false,
    "title": "Mitarbeiter Feinmontage / Mikromontage (m/w/d) – Optische Baugruppen",
    "url": "https://jobs.keysight.com/external/jobs/55334?lang=en-us"
+  },
+  {
+   "at": "2026-11-06T06:53:34+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Global Market Intelligence - Wettbewerbsanalyse (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 08.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-global-market-intelligence-wettbewerbsanalyse-pflicht-praktikum-245598-mer0004a2x"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T06:40:43+00:00",
+ "last_run": "2026-11-06T06:56:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408924
 }
