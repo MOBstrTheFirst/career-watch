@@ -1,5 +1,5 @@
 {
- "alerts": 61,
+ "alerts": 63,
  "commands_set": true,
  "events": [
   {
@@ -649,12 +649,28 @@
    "star": true,
    "title": "Cloud Master@IBM Werkstudent - Technical Sales Storage and Data Management (f/m/x) Internship FRANKFURT, DE",
    "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139778"
+  },
+  {
+   "at": "2026-11-06T12:09:44+00:00",
+   "kind": "new",
+   "site": "Denso",
+   "star": false,
+   "title": "Stratégiai beszerző",
+   "url": "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000127892409-strategiai-beszerzo"
+  },
+  {
+   "at": "2026-11-06T12:10:25+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": true,
+   "title": "Working Student - Quality Management System R&D (m/w/d) - REF100339W Job ID: REF100339W",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100339W-p-7351624b9330614a64108b7041365494/working-student-quality-management-system-r-d-m-w-d-ref100339w?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T11:56:28+00:00",
+ "last_run": "2026-11-06T12:12:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
