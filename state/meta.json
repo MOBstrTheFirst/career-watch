@@ -1,5 +1,5 @@
 {
- "alerts": 75,
+ "alerts": 78,
  "commands_set": true,
  "events": [
   {
@@ -809,12 +809,36 @@
    "star": true,
    "title": "4 new text line(s), e.g. Praktikum – KI-gestützte Validierungsplanung und Reporting Gesamtfahrzeug",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-06T13:10:28+00:00",
+   "kind": "new",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Purchasing Specialist Indirect (all genders) New MTU Maintenance Serbia d.o.o. Nova Pazova Procurement read more",
+   "url": "https://www.mtu.de/careers/online-job-market/job-posting/purchasing-specialist-indirect-all-genders"
+  },
+  {
+   "at": "2026-11-06T13:08:32+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Thesis (7)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-06T13:10:04+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": true,
+   "title": "Praktikum - Computer Vision & Industrielle KI - REF100494U Job ID: REF100494U",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100494U-p-7351624b9330614a64108b7041365494/praktikum-computer-vision-industrielle-ki-ref100494u?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T13:05:58+00:00",
+ "last_run": "2026-11-06T13:10:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
