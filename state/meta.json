@@ -1,5 +1,5 @@
 {
- "alerts": 35,
+ "alerts": 38,
  "commands_set": true,
  "events": [
   {
@@ -345,12 +345,36 @@
    "star": true,
    "title": "4 new text line(s), e.g. Praktikum - KI-gestützte Optimierung in der digitalen Maschinentechnik (m/w/d)",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-06T09:24:07+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Abschlussarbeit Experimentelle Untersuchungen an künstlichen Ohren zur Einkopplung von Ultraschall in den Gehörgang",
+   "url": "https://jobs.bosch.com/en/job/REF300360V-abschlussarbeit-experimentelle-untersuchungen-an-kuenstlichen-ohren-zur-einkopplung-von-ultraschall-in-den-gehoergang"
+  },
+  {
+   "at": "2026-11-06T09:24:07+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikum KI & Data Analytics",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=18088"
+  },
+  {
+   "at": "2026-11-06T09:25:04+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studentische Hilfskraft im Bereich Transformation Bau",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studentische-Hilfskraft-im-Bereich-Transformation-Bau-70569/1455062433"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T09:11:47+00:00",
+ "last_run": "2026-11-06T09:26:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
