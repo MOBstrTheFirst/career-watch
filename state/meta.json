@@ -1,5 +1,5 @@
 {
- "alerts": 115,
+ "alerts": 118,
  "commands_set": true,
  "events": [
   {
@@ -1385,12 +1385,52 @@
    "star": false,
    "title": "Lead Principal Engineer Package Technology Malakka HRC1753329",
    "url": "https://jobs.infineon.com/careers/job/563808971883443?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T17:19:10+00:00",
+   "kind": "new",
+   "site": "Qualcomm",
+   "star": true,
+   "title": "FY27 PhD Internship: Data-Centric AI for End-to-End Autonomous Driving - 6 months, Munich, Unterschleißheim, Germany Munich, Germany Workstudy Intern ",
+   "url": "https://careers.qualcomm.com/careers/job/446722003217"
+  },
+  {
+   "at": "2026-11-06T17:19:10+00:00",
+   "kind": "new",
+   "site": "Qualcomm",
+   "star": false,
+   "title": "Video Research Engineer (Multiple Levels) Munich, Germany + 2 more Video Standards Engineering Gepostete vor 2 Monaten",
+   "url": "https://careers.qualcomm.com/careers/job/446716320059"
+  },
+  {
+   "at": "2026-11-06T17:19:10+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "CS Sales Representative - South",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100327/CS-Sales-Representative-South"
+  },
+  {
+   "at": "2026-11-06T17:10:11+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Staff Engineer Simulation and Package Design Methodology (f/m/div) Villach HRC1712314",
+   "url": "https://jobs.infineon.com/careers/job/563808971615030?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T17:10:11+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Ingenieur Defect Engineering (w/m/div) Dresden HRC1837913",
+   "url": "https://jobs.infineon.com/careers/job/563808972195430?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T17:06:35+00:00",
+ "last_run": "2026-11-06T17:20:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
