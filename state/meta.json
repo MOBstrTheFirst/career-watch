@@ -1,5 +1,5 @@
 {
- "alerts": 57,
+ "alerts": 60,
  "commands_set": true,
  "events": [
   {
@@ -617,12 +617,36 @@
    "star": true,
    "title": "Praktikum - embedded Software-Entwicklung Job ID: REF7997Z",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF7997Z-p-c91fd79c99263976e45ff0bb68d67c73/praktikum-embedded-software-entwicklung-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
+  },
+  {
+   "at": "2026-11-06T11:47:42+00:00",
+   "kind": "text",
+   "site": "Taiwan Semiconductor (TSMC)",
+   "star": false,
+   "title": "1 new text line(s), e.g. Digital Design Lead",
+   "url": "https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=%5B4762540%5D&1277_format=812&listFilterMode=1"
+  },
+  {
+   "at": "2026-11-06T11:39:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Extracurricular Internship: Python and AI Development Engineer (f/m/div) Padua (Padova) HRC1838031",
+   "url": "https://jobs.infineon.com/careers/job/563808972179576?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T11:39:43+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T11:26:33+00:00",
+ "last_run": "2026-11-06T11:47:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
