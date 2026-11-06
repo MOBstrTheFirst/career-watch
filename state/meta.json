@@ -1,5 +1,5 @@
 {
- "alerts": 48,
+ "alerts": 50,
  "commands_set": true,
  "events": [
   {
@@ -529,14 +529,28 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25013086?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25013086?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-06T10:41:30+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Commercial Project Manager / Project Controller (f/m/d) for Germany",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commercial-Project-Manager-Project-Controller-f-m-d-for-Germany/302880"
+  },
+  {
+   "at": "2026-11-06T10:48:14+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199126 Werkstudent Funktionale Sicherheit Fahrzeuglängsdynamik (w/m/x) Veröffentlicht: 06.11.2026 Softwareentwicklung Automotive München Neu Softwaree",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199126.html"
   }
  ],
- "last_missing_parts": [
-  1
- ],
- "last_run": "2026-11-06T10:37:47+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-06T10:48:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
