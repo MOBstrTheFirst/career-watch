@@ -1,5 +1,5 @@
 {
- "alerts": 32,
+ "alerts": 35,
  "commands_set": true,
  "events": [
   {
@@ -313,12 +313,44 @@
    "star": true,
    "title": "Student*in für Abschlussarbeit Prozessentwicklung E-Motor Kunststofftechnik Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.03.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/studentin-fur-abschlussarbeit-prozessentwicklung-e-motor-kunststofftechnik-245684-mer0004a8m"
+  },
+  {
+   "at": "2026-11-06T09:08:48+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "SAP TM Lead (all genders)",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=15702"
+  },
+  {
+   "at": "2026-11-06T09:08:48+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Senior Consultant für SAP TM (f/m/d)",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=9651"
+  },
+  {
+   "at": "2026-11-06T09:10:01+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studentische Hilfskraft (m/w/d) - Wissenschaftskommunikation für additive Fertigung",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studentische-Hilfskraft-%28mwd%29-Wissenschaftskommunikation-f%C3%BCr-additive-Fertigung-70569/1455050233"
+  },
+  {
+   "at": "2026-11-06T09:10:01+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "4 new text line(s), e.g. Praktikum - KI-gestützte Optimierung in der digitalen Maschinentechnik (m/w/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T09:01:42+00:00",
+ "last_run": "2026-11-06T09:11:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
