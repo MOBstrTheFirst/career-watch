@@ -1,5 +1,5 @@
 {
- "alerts": 118,
+ "alerts": 120,
  "commands_set": true,
  "events": [
   {
@@ -1425,12 +1425,44 @@
    "star": false,
    "title": "Ingenieur Defect Engineering (w/m/div) Dresden HRC1837913",
    "url": "https://jobs.infineon.com/careers/job/563808972195430?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T17:25:58+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Solution Architect Digital Products (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Solution-Architect-Digital-Products-f-m-d/304569"
+  },
+  {
+   "at": "2026-11-06T17:25:21+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Microsoft 365 Platform Engineering, Staff",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-06T17:25:21+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Serdes IP Design Engineer",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-06T17:25:21+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Web Application Engineer, UX/UI",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T17:20:02+00:00",
+ "last_run": "2026-11-06T17:26:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
