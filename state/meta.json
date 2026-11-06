@@ -1,5 +1,5 @@
 {
- "alerts": 20,
+ "alerts": 21,
  "commands_set": true,
  "events": [
   {
@@ -201,12 +201,20 @@
    "star": false,
    "title": "Learn more about Customer Engineer, Regulated Industries, DACH (German)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/125683950428267206-customer-engineer-regulated-industries-dach-german?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-06T07:40:40+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Werkfeuerwehrkraft (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T07:34:13+00:00",
+ "last_run": "2026-11-06T07:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
