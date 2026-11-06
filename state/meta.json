@@ -1,5 +1,5 @@
 {
- "alerts": 3,
+ "alerts": 4,
  "commands_set": true,
  "events": [
   {
@@ -25,12 +25,28 @@
    "star": false,
    "title": "ASIC Design Verification Engineer, Sr. Staff-18856",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-06T00:19:32+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Anwesenheits- und Disziplinarmanagement ab Feb./März 2027 Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 14.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-anwesenheits-und-disziplinarmanagement-ab-febmarz-2027-241106-mer000490v"
+  },
+  {
+   "at": "2026-11-06T00:19:32+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Projektmanagement und Kommunikation (Pflicht-Praktikum) Mercedes-Benz Office Campus Vaihingen, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-projektmanagement-und-kommunikation-pflicht-praktikum-245479-mer0004a68"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T00:18:03+00:00",
+ "last_run": "2026-11-06T00:22:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 4,
+ "runs": 5,
  "tg_offset": 297408924
 }
