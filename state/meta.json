@@ -1,5 +1,5 @@
 {
- "alerts": 121,
+ "alerts": 123,
  "commands_set": true,
  "events": [
   {
@@ -1465,12 +1465,28 @@
    "star": false,
    "title": "Quality Assurance Specialist - Cincinnati, OH",
    "url": "https://careers.siemens-healthineers.com/global/en/job/R-31038/Quality-Assurance-Specialist-Cincinnati-OH"
+  },
+  {
+   "at": "2026-11-06T18:24:46+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Area Sales Professional - DI & AT | Raipur (CG)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100209/Area-Sales-Professional-DI-AT-Raipur-CG"
+  },
+  {
+   "at": "2026-11-06T18:25:06+00:00",
+   "kind": "new",
+   "site": "Bosch – München – Neuperlach",
+   "star": false,
+   "title": "Projektplaner (m/w/div.) Sicherheitstechnik",
+   "url": "https://jobs.bosch.com/en/job/REF300156S-projektplaner-m-w-div-sicherheitstechnik"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T18:12:33+00:00",
+ "last_run": "2026-11-06T18:27:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
