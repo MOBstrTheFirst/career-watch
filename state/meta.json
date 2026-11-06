@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 42,
  "commands_set": true,
  "events": [
   {
@@ -377,12 +377,60 @@
    "star": true,
    "title": "Internship (193)",
    "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-06T09:53:32+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Global Cyber Security Communication & Awareness (Pflicht-Praktikum) Mercedes-Benz Office Campus Vaihingen, Stuttgart Start from: 01.03.2",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-global-cyber-security-communication-and-awareness-pflicht-praktikum-245705-mer0004a94"
+  },
+  {
+   "at": "2026-11-06T09:55:12+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Erlangen",
+   "star": true,
+   "title": "2. Working Student: Power Device Measurements",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Erlangen%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-06T09:55:12+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Erlangen",
+   "star": true,
+   "title": "3. Werkstudent",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Erlangen%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-06T09:55:12+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Erlangen",
+   "star": true,
+   "title": "4. Praktikant",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Erlangen%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-06T09:55:12+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Erlangen",
+   "star": true,
+   "title": "5. INTERNSHIP",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Erlangen%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-06T09:55:12+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "IT Solution Architect (w/m/d) für Opcenter X & SCM Make",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526442"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T09:41:20+00:00",
+ "last_run": "2026-11-06T09:56:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
