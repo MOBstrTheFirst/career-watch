@@ -1,5 +1,5 @@
 {
- "alerts": 123,
+ "alerts": 124,
  "commands_set": true,
  "events": [
   {
@@ -1481,12 +1481,20 @@
    "star": false,
    "title": "Projektplaner (m/w/div.) Sicherheitstechnik",
    "url": "https://jobs.bosch.com/en/job/REF300156S-projektplaner-m-w-div-sicherheitstechnik"
+  },
+  {
+   "at": "2026-11-06T19:48:44+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer HW",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30359/Field-Service-Engineer-HW"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T19:25:58+00:00",
+ "last_run": "2026-11-06T19:48:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
