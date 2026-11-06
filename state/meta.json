@@ -1,5 +1,5 @@
 {
- "alerts": 8,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -105,12 +105,20 @@
    "star": true,
    "title": "Abschlussarbeit - Dynamische Hinderniserkennung und Prädiktion für Autonome Outdoor Navigation",
    "url": "https://jobs.fraunhofer.de/job/Stuttgart-Abschlussarbeit-Dynamische-Hinderniserkennung-und-Pr%C3%A4diktion-f%C3%BCr-Autonome-Outdoor-Navigation-70569/1420934133"
+  },
+  {
+   "at": "2026-11-06T02:40:10+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Software development Intern Xi'an HRC1861052",
+   "url": "https://jobs.infineon.com/careers/job/563808972266732?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T02:26:18+00:00",
+ "last_run": "2026-11-06T02:41:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
