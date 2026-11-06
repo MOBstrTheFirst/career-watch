@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 5,
  "commands_set": true,
  "events": [
   {
@@ -41,12 +41,44 @@
    "star": true,
    "title": "Praktikant*in Projektmanagement und Kommunikation (Pflicht-Praktikum) Mercedes-Benz Office Campus Vaihingen, Stuttgart Start from: 01.03.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-projektmanagement-und-kommunikation-pflicht-praktikum-245479-mer0004a68"
+  },
+  {
+   "at": "2026-11-06T01:08:55+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Digital Transformation, AI & Innovation (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 15.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-digital-transformation-ai-and-innovation-pflicht-praktikum-245450-mer0004a69"
+  },
+  {
+   "at": "2026-11-06T01:08:55+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Lieferantensteuerung & Einkauf Energie, Services (Pflicht-Praktikum) Mercedes-Benz Group AG Headquarters, Stuttgart Start from: 01.02.20",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-lieferantensteuerung-and-einkauf-energie-services-pflicht-praktikum-245499-mer0004884"
+  },
+  {
+   "at": "2026-11-06T01:08:55+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Working Student Autosar Software Testing & Test Automation Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 18.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/working-student-autosar-software-testing-and-test-automation-245491-mer0004a26"
+  },
+  {
+   "at": "2026-11-06T01:08:55+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in E‑Mobilität und Laserschweißen (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-emobilitat-und-laserschweissen-pflicht-praktikum-245519-mer0004a6o"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T00:56:03+00:00",
+ "last_run": "2026-11-06T01:11:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
