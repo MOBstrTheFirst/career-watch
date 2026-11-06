@@ -1,5 +1,5 @@
 {
- "alerts": 63,
+ "alerts": 69,
  "commands_set": true,
  "events": [
   {
@@ -665,12 +665,76 @@
    "star": true,
    "title": "Working Student - Quality Management System R&D (m/w/d) - REF100339W Job ID: REF100339W",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100339W-p-7351624b9330614a64108b7041365494/working-student-quality-management-system-r-d-m-w-d-ref100339w?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-06T12:26:04+00:00",
+   "kind": "new",
+   "site": "Bosch – Schwäbisch Gmünd",
+   "star": true,
+   "title": "Werkstudent Assistenz Projekteinkauf (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300392C-werkstudent-assistenz-projekteinkauf-w-m-div"
+  },
+  {
+   "at": "2026-11-06T12:24:04+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Abschlussarbeit Messaufbau und experimentelle Untersuchungen zur optoakustischen Materialcharakterisierung",
+   "url": "https://jobs.bosch.com/en/job/REF300361S-abschlussarbeit-messaufbau-und-experimentelle-untersuchungen-zur-optoakustischen-materialcharakterisierung"
+  },
+  {
+   "at": "2026-11-06T12:24:04+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Technical Lead / Technical Product Owner - Data Pipeline (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300351Q-technical-lead-technical-product-owner-data-pipeline-f-m-div"
+  },
+  {
+   "at": "2026-11-06T12:24:04+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Praktikum im Projektmanagement im Einkauf eMobility",
+   "url": "https://jobs.bosch.com/en/job/REF300367L-praktikum-im-projektmanagement-im-einkauf-emobility"
+  },
+  {
+   "at": "2026-11-06T12:25:39+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Cyber Resilience und IT-Service Continuity Manager (m/w/d) 06.11.2026 Informationstechnologie Röthenbach a.d. Pegnitz, Überlingen am Bod",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/cyber-resilience-und-it-service-continuity-manager-m-w-d"
+  },
+  {
+   "at": "2026-11-06T12:25:39+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": false,
+   "title": "SAP-Experte im Bereich Fertigung, Automatisierung und industrielle IT (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300345F-sap-experte-im-bereich-fertigung-automatisierung-und-industrielle-it-w-m-div"
+  },
+  {
+   "at": "2026-11-06T12:25:39+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": false,
+   "title": "SAP-Experte im Bereich Logistik (w/m/div.) - befristet",
+   "url": "https://jobs.bosch.com/en/job/REF300317Y-sap-experte-im-bereich-logistik-w-m-div-befristet"
+  },
+  {
+   "at": "2026-11-06T12:25:39+00:00",
+   "kind": "new",
+   "site": "Hitachi (Hitachi Rail)",
+   "star": false,
+   "title": "View Job",
+   "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R1011526_Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T12:12:02+00:00",
+ "last_run": "2026-11-06T12:26:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
