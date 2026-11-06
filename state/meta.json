@@ -1,5 +1,5 @@
 {
- "alerts": 53,
+ "alerts": 57,
  "commands_set": true,
  "events": [
   {
@@ -577,12 +577,52 @@
    "star": true,
    "title": "Working Student (f/m/d) Distributed Computing",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526626"
+  },
+  {
+   "at": "2026-11-06T11:10:53+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Sachbearbeiter Exportkontrolle (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-06T11:10:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Technischer Spezialist (w/m/d) Tools & Instruments",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Technischer-Spezialist-w-m-d-Tools-Instruments/303726"
+  },
+  {
+   "at": "2026-11-06T11:10:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Steam Turbine Commissioning Engineer (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Steam-Turbine-Commissioning-Engineer-w-m-d/302689"
+  },
+  {
+   "at": "2026-11-06T11:09:48+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "1 new text line(s), e.g. Praktikum - Softwareentwicklung und KI-Anwendungen in der Maschinentechnik (m/w/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-06T11:10:35+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental automotive)",
+   "star": true,
+   "title": "Praktikum - embedded Software-Entwicklung Job ID: REF7997Z",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF7997Z-p-c91fd79c99263976e45ff0bb68d67c73/praktikum-embedded-software-entwicklung-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T11:04:10+00:00",
+ "last_run": "2026-11-06T11:11:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
