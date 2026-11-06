@@ -1,5 +1,5 @@
 {
- "alerts": 69,
+ "alerts": 72,
  "commands_set": true,
  "events": [
   {
@@ -729,12 +729,68 @@
    "star": false,
    "title": "View Job",
    "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R1011526_Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany"
+  },
+  {
+   "at": "2026-11-06T12:41:22+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": true,
+   "title": "Werkstudent Projektmanagement (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-06T12:38:43+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197275 Praktikant Komponentenentwicklung Antriebssysteme (w/m/x) Veröffentlicht: 06.11.2026 Antrieb München Neu Antrieb München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197275.html"
+  },
+  {
+   "at": "2026-11-06T12:38:43+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "196999 Praktikant Data Driven Corporate Strategy (w/m/x) Veröffentlicht: 06.11.2026 Marktforschung und Wettbewerb München Neu Marktforschung und Wettb",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196999.html"
+  },
+  {
+   "at": "2026-11-06T12:38:43+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "196510 Praktikant Digitalisierung (w/m/x) Veröffentlicht: 06.11.2026 Personalstrategie und -planung München Neu Personalstrategie und -planung München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196510.html"
+  },
+  {
+   "at": "2026-11-06T12:38:43+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "196428 Praktikant Betriebliches Gesundheitsmanagement Gesundheitszentrum Nord (w/m/x) Veröffentlicht: 06.11.2026 Gesundheitsmanagement München Neu Ges",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196428.html"
+  },
+  {
+   "at": "2026-11-06T12:38:43+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "192795 Praktikant Entwicklung innovativer Apps für die Fahrzeugmontage (w/m/x) Veröffentlicht: 06.11.2026 Softwareentwicklung Regensburg Neu Softwaree",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192795.html"
+  },
+  {
+   "at": "2026-11-06T12:39:43+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum – Model-Based Systems Engineering und Anforderungsmanagement für Sitzsysteme (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T12:26:20+00:00",
+ "last_run": "2026-11-06T12:51:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
