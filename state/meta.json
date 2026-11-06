@@ -1,5 +1,5 @@
 {
- "alerts": 11,
+ "alerts": 12,
  "commands_set": true,
  "events": [
   {
@@ -129,12 +129,20 @@
    "star": false,
    "title": "Data Scientist Noida,Uttar Pradesh,India Service Delivery Gepostete vor 5 Minuten",
    "url": "https://jobs.ericsson.com/careers/job/563121777560375"
+  },
+  {
+   "at": "2026-11-06T05:25:25+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/sachbearbeiter_operativer_einkauf__m_w_d_/1210441",
+   "url": "https://www.rheinmetall.com/de/job/sachbearbeiter_operativer_einkauf__m_w_d_/1210441"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T05:11:30+00:00",
+ "last_run": "2026-11-06T05:26:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 26,
+ "runs": 27,
  "tg_offset": 297408924
 }
