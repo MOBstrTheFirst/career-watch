@@ -1,5 +1,5 @@
 {
- "alerts": 38,
+ "alerts": 39,
  "commands_set": true,
  "events": [
   {
@@ -369,12 +369,20 @@
    "star": true,
    "title": "Studentische Hilfskraft im Bereich Transformation Bau",
    "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studentische-Hilfskraft-im-Bereich-Transformation-Bau-70569/1455062433"
+  },
+  {
+   "at": "2026-11-06T09:38:35+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (193)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T09:26:04+00:00",
+ "last_run": "2026-11-06T09:41:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
