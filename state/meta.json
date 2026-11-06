@@ -1,5 +1,5 @@
 {
- "alerts": 84,
+ "alerts": 85,
  "commands_set": true,
  "events": [
   {
@@ -881,12 +881,20 @@
    "star": true,
    "title": "Diehl Defence EMV-Messingenieur (m/w/d) im QM-Prüfzentrum 06.11.2026 Qualitätsmanagement Röthenbach a.d. Pegnitz",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/emv-messingenieur-m-w-d-im-qm-pruefzentrum"
+  },
+  {
+   "at": "2026-11-06T14:03:39+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Elektrofachkraft (w/m/d) Sicherheitstechnik im Raum Lörrach + Waldshut-Tiengen",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528548"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T13:41:16+00:00",
+ "last_run": "2026-11-06T14:03:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
