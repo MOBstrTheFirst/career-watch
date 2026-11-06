@@ -1,5 +1,5 @@
 {
- "alerts": 45,
+ "alerts": 48,
  "commands_set": true,
  "events": [
   {
@@ -465,12 +465,78 @@
    "star": true,
    "title": "Werkstudent Supply Chain (m/w/d)",
    "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Supply-Chain-%28mwd%29-80809/1455082533"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student – Data Analytics & AI (f/m/div) München HRC1817945 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972090577?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Machine Learning and AI (f/m/div) München HRC1854950 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972253498?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Data and Workflows for AI Usage in Unit Process Development (f/m/div) Dresden HRC1851002",
+   "url": "https://jobs.infineon.com/careers/job/563808972248406?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Test Data Analytics Singapur HRC1866138",
+   "url": "https://jobs.infineon.com/careers/job/563808972287704?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Power Device Measurements (f/m/div) Erlangen HRC1860459 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972295693?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Domain Architect Digital Roadmapping and AI Solutions (f/m/div)* Munich + 2 more HRC1828856 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972203452?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-06T10:25:28+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Senior Territory Sales (w/m/d) Sicherheitstechnik",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/513069"
+  },
+  {
+   "at": "2026-11-06T10:25:56+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25013086?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25013086?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-11-06T10:11:44+00:00",
+ "last_missing_parts": [
+  1
+ ],
+ "last_run": "2026-11-06T10:37:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
