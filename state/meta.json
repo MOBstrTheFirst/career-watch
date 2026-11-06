@@ -1483,10 +1483,12 @@
    "url": "https://jobs.bosch.com/en/job/REF300156S-projektplaner-m-w-div-sicherheitstechnik"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-11-06T19:05:29+00:00",
+ "last_missing_parts": [
+  4
+ ],
+ "last_run": "2026-11-06T19:21:36+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
