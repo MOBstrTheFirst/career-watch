@@ -1,11 +1,20 @@
 {
- "alerts": 0,
+ "alerts": 1,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-06T23:23:39+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Manager Transformation Office CVS (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Manager-Transformation-Office-CVS-%28mwd%29-80809/1455236133"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T23:10:54+00:00",
+ "last_run": "2026-11-06T23:26:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-06",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408924
 }
