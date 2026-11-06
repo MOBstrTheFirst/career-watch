@@ -1,5 +1,5 @@
 {
- "alerts": 85,
+ "alerts": 89,
  "commands_set": true,
  "events": [
   {
@@ -889,12 +889,44 @@
    "star": false,
    "title": "Elektrofachkraft (w/m/d) Sicherheitstechnik im Raum Lörrach + Waldshut-Tiengen",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528548"
+  },
+  {
+   "at": "2026-11-06T14:10:55+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Hardware Test & Certification Engineer (m/w/d) Airborne Secure Communications",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/hardware-test-certification-engineer-m-w-d-airborne-secure-communications_251563-1715584.html"
+  },
+  {
+   "at": "2026-11-06T14:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Junior Ingenieur (w/m/d) Elektrotechnik für Mobility Projekte",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528710"
+  },
+  {
+   "at": "2026-11-06T14:10:03+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "6 new text line(s), e.g. Praktikum Fahrzeugqualität – Wertigkeit Interieur & Exterieur (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-06T14:10:27+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Product Performance Manager Bicycle Tires (m/f/d) - REF100493K Job ID: REF100493K",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100493K-p-b7e7c8fe1795ec62cee8000434c861bf/product-performance-manager-bicycle-tires-m-f-d-ref100493k?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T14:03:55+00:00",
+ "last_run": "2026-11-06T14:11:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
