@@ -1,5 +1,5 @@
 {
- "alerts": 42,
+ "alerts": 45,
  "commands_set": true,
  "events": [
   {
@@ -425,12 +425,52 @@
    "star": false,
    "title": "IT Solution Architect (w/m/d) für Opcenter X & SCM Make",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526442"
+  },
+  {
+   "at": "2026-11-06T10:11:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Working Student AI Software Tester (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/working-student-ai-software-tester-m-f-d_251563-1715460.html"
+  },
+  {
+   "at": "2026-11-06T10:11:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent Qualitätsmanagement Assistenz (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-qualitaetsmanagement-assistenz-m-w-d_251563-1715458.html"
+  },
+  {
+   "at": "2026-11-06T10:11:31+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent Digital Twin Strategie (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-digital-twin-strategie-m-w-d_251563-1715457.html"
+  },
+  {
+   "at": "2026-11-06T10:08:40+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Thesis (6)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-06T10:08:40+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": true,
+   "title": "Werkstudent Supply Chain (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Supply-Chain-%28mwd%29-80809/1455082533"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T09:56:22+00:00",
+ "last_run": "2026-11-06T10:11:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 46,
+ "runs": 47,
  "tg_offset": 297408924
 }
