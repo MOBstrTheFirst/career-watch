@@ -1,5 +1,5 @@
 {
- "alerts": 5,
+ "alerts": 7,
  "commands_set": true,
  "events": [
   {
@@ -73,12 +73,28 @@
    "star": true,
    "title": "Praktikant*in E‑Mobilität und Laserschweißen (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.02.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-emobilitat-und-laserschweissen-pflicht-praktikum-245519-mer0004a6o"
+  },
+  {
+   "at": "2026-11-06T01:25:57+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Usability Engineering",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results?qstate=Bayern"
+  },
+  {
+   "at": "2026-11-06T01:25:15+00:00",
+   "kind": "possible",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Usability Engineering",
+   "url": "https://careers.siemens-healthineers.com/global/en/search-results?qstate=Bavaria"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T01:11:18+00:00",
+ "last_run": "2026-11-06T01:32:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
