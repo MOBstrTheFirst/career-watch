@@ -1,5 +1,5 @@
 {
- "alerts": 27,
+ "alerts": 30,
  "commands_set": true,
  "events": [
   {
@@ -257,12 +257,52 @@
    "star": false,
    "title": "Referent in Business Development (m/w/d)",
    "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Referent-in-Business-Development-%28mwd%29-80809/1410734533"
+  },
+  {
+   "at": "2026-11-06T08:38:48+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Einkauf und Lieferantenqualität Interieur Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-einkauf-und-lieferantenqualitat-interieur-245661-mer0004a8g"
+  },
+  {
+   "at": "2026-11-06T08:38:48+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Entwicklung Interieur & Passive Sicherheit (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 18.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklung-interieur-and-passive-sicherheit-pflicht-praktikum-245672-mer00047j1"
+  },
+  {
+   "at": "2026-11-06T08:40:24+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (m/w/d) – Prozessanalyse & Implementierung digitaler Fertigungslösungen",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528426"
+  },
+  {
+   "at": "2026-11-06T08:40:24+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Business Transformation – Schwerpunkt konfigurierbare Produkte",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528320"
+  },
+  {
+   "at": "2026-11-06T08:40:24+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "4 new text line(s), e.g. Praktikum - After Sales Disposition (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-06T08:26:09+00:00",
+ "last_run": "2026-11-06T08:41:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-05",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
