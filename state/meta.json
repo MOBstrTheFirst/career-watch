@@ -1,5 +1,5 @@
 {
- "alerts": 31,
+ "alerts": 32,
  "commands_set": true,
  "events": [
   {
@@ -113,12 +113,52 @@
    "star": false,
    "title": "4 new text line(s), e.g. We are experiencing a service interruption.",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-07T16:55:09+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "1. Senior Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-07T16:55:09+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "2. Principal Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-07T16:55:09+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "3. Lead Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-07T16:55:09+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "4. Engineering Manager",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-07T16:55:09+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "5. Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-07T16:41:10+00:00",
+ "last_run": "2026-11-07T16:56:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-06",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
