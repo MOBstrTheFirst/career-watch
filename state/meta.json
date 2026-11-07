@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 5,
  "commands_set": true,
  "events": [
   {
@@ -57,12 +57,36 @@
    "star": true,
    "title": "MA/BA/Praktikum im Bereich Membranen für die Nutzung von Meerwasser in der alkalischen Elektrolyse",
    "url": "https://jobs.fraunhofer.de/job/Stuttgart-MABAPraktikum-im-Bereich-Membranen-f%C3%BCr-die-Nutzung-von-Meerwasser-in-der-alkalischen-Elektrolyse-70569/1172484401"
+  },
+  {
+   "at": "2026-11-07T02:24:38+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studentische Hilfskräfte für den Bereich Hygrothermik",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studentische-Hilfskr%C3%A4fte-f%C3%BCr-den-Bereich-Hygrothermik-70569/1435740733"
+  },
+  {
+   "at": "2026-11-07T02:24:38+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studien-/Abschlussarbeit - Entwicklung und Integration einer Steuerung für einen Prüfstand",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studien-Abschlussarbeit-Entwicklung-und-Integration-einer-Steuerung-f%C3%BCr-einen-Pr%C3%BCfstand-70569/1446158833"
+  },
+  {
+   "at": "2026-11-07T02:24:38+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Praktikum in der Arbeitsgruppe Technischer Schallschutz und Fahrzeugakustik",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Praktikum-in-der-Arbeitsgruppe-Technischer-Schallschutz-und-Fahrzeugakustik-70569/1163509401"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-07T02:11:14+00:00",
+ "last_run": "2026-11-07T02:26:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-06",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
