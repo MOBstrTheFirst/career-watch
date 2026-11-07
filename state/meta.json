@@ -1,5 +1,5 @@
 {
- "alerts": 8,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -105,12 +105,20 @@
    "star": false,
    "title": "117 new text line(s), e.g. Workday is currently unavailable.",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-07T07:25:03+00:00",
+   "kind": "text",
+   "site": "Sony Group",
+   "star": false,
+   "title": "4 new text line(s), e.g. We are experiencing a service interruption.",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-07T07:11:01+00:00",
+ "last_run": "2026-11-07T07:26:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-06",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
