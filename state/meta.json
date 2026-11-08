@@ -1,5 +1,5 @@
 {
- "alerts": 5,
+ "alerts": 7,
  "commands_set": true,
  "events": [
   {
@@ -89,12 +89,28 @@
    "star": false,
    "title": "ASIC Infrastructure/ Digital Design Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-08T16:09:33+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manufacturing Engineering",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-08T16:09:33+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "Manufacturing Logistics Operator (m/w/d)",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Manufacturing-Logistics-Operator--m-w-d-_R2628409?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T15:56:46+00:00",
+ "last_run": "2026-11-08T16:10:50+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
