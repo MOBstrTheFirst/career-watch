@@ -1,5 +1,5 @@
 {
- "alerts": 1,
+ "alerts": 3,
  "commands_set": true,
  "events": [
   {
@@ -57,12 +57,28 @@
    "star": false,
    "title": "Doktorand*in für Promotion KI-gestützte Simulation & Optimierung intelligenter Logistiksysteme Mercedes-Benz Plant Sindelfingen, Sindelfingen Start fr",
    "url": "https://jobs.mercedes-benz.com/enUS/doktorandin-fur-promotion-ki-gestutzte-simulation-and-optimierung-intelligenter-logistiksysteme-245729-mer0004a3n"
+  },
+  {
+   "at": "2026-11-08T02:25:04+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Masterarbeit - Reinforcement Learning für zweibeinigen Outdoor-Roboter auf Rädern mit Isaac Lab",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Masterarbeit-Reinforcement-Learning-f%C3%BCr-zweibeinigen-Outdoor-Roboter-auf-R%C3%A4dern-mit-Isaac-Lab-70569/1436267933"
+  },
+  {
+   "at": "2026-11-08T02:25:24+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": true,
+   "title": "ABSCHLUSSARBEIT / HIWI: ADDITIVE FERTIGUNG VON HOCHLEISTUNGSWERKSTOFFEN",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-ABSCHLUSSARBEIT-HIWI-ADDITIVE-FERTIGUNG-VON-HOCHLEISTUNGSWERKSTOFFEN-86159/899070201"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T02:10:56+00:00",
+ "last_run": "2026-11-08T02:26:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
