@@ -1,5 +1,5 @@
 {
- "alerts": 3,
+ "alerts": 4,
  "commands_set": true,
  "events": [
   {
@@ -73,12 +73,20 @@
    "star": true,
    "title": "ABSCHLUSSARBEIT / HIWI: ADDITIVE FERTIGUNG VON HOCHLEISTUNGSWERKSTOFFEN",
    "url": "https://jobs.fraunhofer.de/job/Augsburg-ABSCHLUSSARBEIT-HIWI-ADDITIVE-FERTIGUNG-VON-HOCHLEISTUNGSWERKSTOFFEN-86159/899070201"
+  },
+  {
+   "at": "2026-11-08T06:54:56+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": false,
+   "title": "67 new text line(s), e.g. Unser Stellenportal ist aktuell nicht erreichbar. | audi.com",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T06:40:53+00:00",
+ "last_run": "2026-11-08T06:56:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 33,
+ "runs": 34,
  "tg_offset": 297408924
 }
