@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 5,
  "commands_set": true,
  "events": [
   {
@@ -81,12 +81,20 @@
    "star": false,
    "title": "67 new text line(s), e.g. Unser Stellenportal ist aktuell nicht erreichbar. | audi.com",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-08T10:09:50+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "ASIC Infrastructure/ Digital Design Engineer",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T09:56:06+00:00",
+ "last_run": "2026-11-08T10:11:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
