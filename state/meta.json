@@ -1,11 +1,68 @@
 {
- "alerts": 0,
+ "alerts": 1,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Baureihenmanagement Qualität Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 18.12.2026",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-baureihenmanagement-qualitat-238061-mer0004745"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Baureihenmanagement Qualität Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 18.12.2026",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-baureihenmanagement-qualitat-238054-mer0004746"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Produktmanagement Large Cars (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-produktmanagement-large-cars-pflicht-praktikum-245764-mer0004aaa"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Einkauf Interior Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-einkauf-interior-245761-mer0004aa0"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Elektrik/Elektronik Integration Gesamtfahrzeug für batterieelektrische Fahrzeuge Mercedes-Benz Plant Sindelfingen, Sindelfingen Start fr",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-elektrikelektronik-integration-gesamtfahrzeug-fur-batterieelektrische-fahrzeuge-245752-mer0004a6m"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Student*in für Abschlussarbeit Untersuchung von Umwelteinflüssen auf NMP-basierte Slurries Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01",
+   "url": "https://jobs.mercedes-benz.com/enUS/studentin-fur-abschlussarbeit-untersuchung-von-umwelteinflussen-auf-nmp-basierte-slurries-245714-mer00049ee"
+  },
+  {
+   "at": "2026-11-08T01:01:53+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": false,
+   "title": "Doktorand*in für Promotion KI-gestützte Simulation & Optimierung intelligenter Logistiksysteme Mercedes-Benz Plant Sindelfingen, Sindelfingen Start fr",
+   "url": "https://jobs.mercedes-benz.com/enUS/doktorandin-fur-promotion-ki-gestutzte-simulation-and-optimierung-intelligenter-logistiksysteme-245729-mer0004a3n"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T01:00:08+00:00",
+ "last_run": "2026-11-08T01:09:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
