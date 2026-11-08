@@ -1,5 +1,5 @@
 {
- "alerts": 7,
+ "alerts": 8,
  "commands_set": true,
  "events": [
   {
@@ -105,12 +105,20 @@
    "star": false,
    "title": "Manufacturing Logistics Operator (m/w/d)",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Manufacturing-Logistics-Operator--m-w-d-_R2628409?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-08T16:55:35+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Technical Portfolio Lead (f/m/d) 3D AI Innovation",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Technical-Portfolio-Lead-f-m-d-3D-AI-Innovation/306694"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-08T16:41:35+00:00",
+ "last_run": "2026-11-08T16:55:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-07",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
