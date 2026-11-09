@@ -1,5 +1,5 @@
 {
- "alerts": 11,
+ "alerts": 13,
  "commands_set": true,
  "events": [
   {
@@ -105,12 +105,28 @@
    "star": false,
    "title": "Generator Service Engineer (f/m/d) for Rotating Equipment",
    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Generator-Service-Engineer-f-m-d-for-Rotating-Equipment/305162"
+  },
+  {
+   "at": "2026-11-09T08:55:48+00:00",
+   "kind": "possible",
+   "site": "Fraunhofer IIS",
+   "star": false,
+   "title": "Student/in (10)",
+   "url": "https://iisfraunhofer.softgarden.io/widgets/jobs?config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IjYxNzlkMWEwMGEwYjBjY2UwMWVkM2RlODY0M2EwZTM5Iiwiam9iY2F0ZWdvcnkiOiJzYW00Ml9wdWJsaWNzZWN0b3I7c2FtNDJfYWRtaW5pc3RyYXRpb247c2FtNDJfZWR1Y2F0aW9uO3NhbTQyX2Rlc2lnbjtzYW00Ml9wdXJjaGFzZTtzYW00Ml9maW5hbmNlO3NhbTQyX21hcmtldGluZztzYW00Ml9ocjtzYW00Ml9sYXc7c2FtNDJfc2FsZXM7c2FtNDJfbWFudWFsd29yaztzYW00Ml9lbmdpbmVlcmluZztzYW00Ml9pdDtzYW00Ml9zY2llbmNlOzZhMDQ2Y2ZiLTZlZWUtNGU1MC1hZTZhLTQ4OWE3NDg0MDBkZCIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOiIiLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5UmFkaXVzIjoiMjUifSwibnVtYmVyT2ZKb2JzIjoyMDB9"
+  },
+  {
+   "at": "2026-11-09T08:55:48+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Working Student (f/m/d) Project Management and Operations Excellence",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Project-Management-and-Operations-Excellence/306535"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T08:41:23+00:00",
+ "last_run": "2026-11-09T08:56:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
