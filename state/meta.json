@@ -1,5 +1,5 @@
 {
- "alerts": 8,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -89,12 +89,20 @@
    "star": false,
    "title": "AMS Design Verification Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-09T23:53:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 137.135.63.105) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T23:40:35+00:00",
+ "last_run": "2026-11-09T23:56:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 3,
+ "runs": 4,
  "tg_offset": 297408924
 }
