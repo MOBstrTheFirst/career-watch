@@ -1,5 +1,5 @@
 {
- "alerts": 127,
+ "alerts": 129,
  "commands_set": true,
  "events": [
   {
@@ -1553,12 +1553,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.155.69) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T19:23:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.98.158.68) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T19:25:23+00:00",
+   "kind": "new",
+   "site": "Thales – Ditzingen",
+   "star": false,
+   "title": "Ingénieur solution avionique - F/H",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0332251/Ingénieur-solution-avionique-F-H"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T19:10:56+00:00",
+ "last_run": "2026-11-09T19:26:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
