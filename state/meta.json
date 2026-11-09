@@ -1,5 +1,5 @@
 {
- "alerts": 13,
+ "alerts": 15,
  "commands_set": true,
  "events": [
   {
@@ -121,12 +121,60 @@
    "star": true,
    "title": "Working Student (f/m/d) Project Management and Operations Excellence",
    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Project-Management-and-Operations-Excellence/306535"
+  },
+  {
+   "at": "2026-11-09T09:09:48+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Commissioning Product & Technical Support",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/514114"
+  },
+  {
+   "at": "2026-11-09T09:10:18+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudent - Productivity Improvement Frontend (w/m/div) Regensburg HRC1866565 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972288620?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T09:10:18+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudent - Productivity Improvement Frontend (w/m/div) Dresden HRC1827140 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972129957?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T09:10:18+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudententätigkeit/ Praktikum: Technology Development RFGaN (w/m/div) Regensburg HRC1829941",
+   "url": "https://jobs.infineon.com/careers/job/563808972142500?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T09:10:18+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudent – Laborlogistik und Zuverlässigkeitstests (w/m/div) Mch CAMP HRC1874358",
+   "url": "https://jobs.infineon.com/careers/job/563808972322762?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T09:10:18+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudent - Media Design in Innovation Management (w/m/div) Dresden HRC1837708",
+   "url": "https://jobs.infineon.com/careers/job/563808972178925?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T08:56:23+00:00",
+ "last_run": "2026-11-09T09:11:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
