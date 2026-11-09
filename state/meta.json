@@ -1,5 +1,5 @@
 {
- "alerts": 15,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -169,12 +169,52 @@
    "star": true,
    "title": "Werkstudent - Media Design in Innovation Management (w/m/div) Dresden HRC1837708",
    "url": "https://jobs.infineon.com/careers/job/563808972178925?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T09:23:39+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Strategische Projektleitung Mercedes-Benz Vans (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 11.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-strategische-projektleitung-mercedes-benz-vans-pflicht-praktikum-245800-mer0004a1q"
+  },
+  {
+   "at": "2026-11-09T09:25:10+00:00",
+   "kind": "new",
+   "site": "Bosch – Schweinfurt",
+   "star": true,
+   "title": "Pflichtpraktikum im Gesundheitsmanagement beim Medizinischem Dienst",
+   "url": "https://jobs.bosch.com/en/job/REF269500S-pflichtpraktikum-im-gesundheitsmanagement-beim-medizinischem-dienst"
+  },
+  {
+   "at": "2026-11-09T09:25:29+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": false,
+   "title": "Gruppenleiter Ersatzteilservice (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF299299G-gruppenleiter-ersatzteilservice-w-m-div"
+  },
+  {
+   "at": "2026-11-09T09:25:29+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": false,
+   "title": "Teamleiter Modernisierung Mechanik (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF299194J-teamleiter-modernisierung-mechanik-w-m-div"
+  },
+  {
+   "at": "2026-11-09T09:25:29+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Internship in GenAI Knowledge Assistant for Engineering",
+   "url": "https://jobs.bosch.com/en/job/REF298285H-internship-in-genai-knowledge-assistant-for-engineering"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T09:11:40+00:00",
+ "last_run": "2026-11-09T09:25:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
