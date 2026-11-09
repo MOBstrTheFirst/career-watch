@@ -1,5 +1,5 @@
 {
- "alerts": 85,
+ "alerts": 89,
  "commands_set": true,
  "events": [
   {
@@ -985,12 +985,100 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/junior-account-manager-m-w-d-x-hunter-automotive-manufacturing-836905"
+  },
+  {
+   "at": "2026-11-09T14:41:15+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Data Management & Tableau Expert (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-09T14:41:15+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Spezialist Exportkontrolle (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.225.203) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200040 Intern Residual Value Risk Management (f/m/x) Veröffentlicht: 09.11.2026 Marktrisiko München Neu Marktrisiko München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200040.html"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199782 Intern Project Controlling Production (f/m/x) Veröffentlicht: 09.11.2026 Controlling München Neu Controlling München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199782.html"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199541 Intern Agentic AI and Industrial Foundation Models (f/m/x) Veröffentlicht: 09.11.2026 Beratung / Organisation München Neu Beratung / Organisati",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199541.html"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199486 Werkstudent Vertrieb Gebrauchtmotorräder (w/m/x) Veröffentlicht: 09.11.2026 Vertriebsaktivitäten München Neu Vertriebsaktivitäten München Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199486.html"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199359 Werkstudent Einkauf für Halbleiter und Partnermanagement (w/m/x) Veröffentlicht: 09.11.2026 Direkter Einkauf München Neu Direkter Einkauf Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199359.html"
+  },
+  {
+   "at": "2026-11-09T14:38:50+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199157 Werkstudent Vertrieb Großkunden Deutschland (w/m/x) Veröffentlicht: 09.11.2026 Vertrieb Großkunden München Neu Vertrieb Großkunden München Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199157.html"
+  },
+  {
+   "at": "2026-11-09T14:40:41+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Industry Developer (w/m/d) Commercial Real Estate",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528819"
+  },
+  {
+   "at": "2026-11-09T14:40:41+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Leitung (w/m/d) Commercial Real Estate Vertical",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528817"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T14:26:22+00:00",
+ "last_run": "2026-11-09T14:41:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
