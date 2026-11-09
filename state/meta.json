@@ -1,5 +1,5 @@
 {
- "alerts": 31,
+ "alerts": 32,
  "commands_set": true,
  "events": [
   {
@@ -385,12 +385,36 @@
    "star": false,
    "title": "Data Migration Lead (f/m/d) - SAP",
    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Migration-Lead-f-m-d-SAP/306176"
+  },
+  {
+   "at": "2026-11-09T10:38:35+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199826 Praktikant Software Entwicklung in der Logistikplanung (w/m/x) Veröffentlicht: 09.11.2026 Logistikplanung München Neu Logistikplanung München M",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199826.html"
+  },
+  {
+   "at": "2026-11-09T10:38:35+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199391 Praktikant Projektmanagement Qualitätsmanagement Gesamtfahrzeug (w/m/x) Veröffentlicht: 09.11.2026 Anlauf- und Änderungsmanagement Dingolfing N",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199391.html"
+  },
+  {
+   "at": "2026-11-09T10:38:35+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199389 Praktikant Qualitätsmanagement Gesamtfahrzeug Digitalisierung (w/m/x) Veröffentlicht: 09.11.2026 Anlauf- und Änderungsmanagement Dingolfing Neu",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199389.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T10:26:24+00:00",
+ "last_run": "2026-11-09T10:42:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
