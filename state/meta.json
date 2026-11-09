@@ -1,5 +1,5 @@
 {
- "alerts": 40,
+ "alerts": 42,
  "commands_set": true,
  "events": [
   {
@@ -481,12 +481,28 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/internship-ai-digital-hr-projects-in-core-operations-in-hr-germany-global-tech-947588"
+  },
+  {
+   "at": "2026-11-09T11:26:23+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Functional Lead - Procurement",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Functional-Lead-Procurement/306541"
+  },
+  {
+   "at": "2026-11-09T11:24:23+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.157.33.160) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T11:11:49+00:00",
+ "last_run": "2026-11-09T11:26:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
