@@ -1,5 +1,5 @@
 {
- "alerts": 67,
+ "alerts": 74,
  "commands_set": true,
  "events": [
   {
@@ -793,12 +793,108 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.233.118.250) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T13:40:40+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": true,
+   "title": "https://jobs.man.eu/job/Werkstudent-im-Bereich-Industrial-Engineering-%28wmd%29/6779-de_DE",
+   "url": "https://jobs.man.eu/job/Werkstudent-im-Bereich-Industrial-Engineering-%28wmd%29/6779-de_DE"
+  },
+  {
+   "at": "2026-11-09T13:38:54+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.209.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T13:38:54+00:00",
+   "kind": "new",
+   "site": "Huawei – Munich (Heisenberg Research Center)",
+   "star": true,
+   "title": "Intern - AI-driven Audio Audiovisual Technology Laboratory, Heisenberg Research Center (Munich) · Huawei Heisenberg Research Center (Munich)",
+   "url": "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8690885-intern-ai-driven-audio"
+  },
+  {
+   "at": "2026-11-09T13:39:47+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Quality Management System and Audit (f/m/div) Mch CAMP HRC1844288",
+   "url": "https://jobs.infineon.com/careers/job/563808972201642?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T13:39:47+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": false,
+   "title": "2 new text line(s), e.g. 144",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-09T13:39:47+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "NPI - Product Technical Expert (m/f/d) - for semiconductor industry",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/NPI---Product-Technical-Expert--m-f-d----for-semiconductor-industry_R2631685?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": true,
+   "title": "Working Student in Supply Chain Management (m/f/d) Rosenheim,Bavaria,Germany Sourcing Gepostete vor 8 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777531979"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": true,
+   "title": "Data Analyst Intern Plano,Texas,United States Finanzwesen Hybrid Gepostete vor 6 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777025507"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "HWS Support Operations Management Querétaro,Querétaro,Mexico + 1 more Service Delivery Gepostete vor 13 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777363420"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Project Manager | Early Career Program Stockholm,Stockholm,Sweden Supply & Logistics Gepostete vor 14 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777360502"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Strategic Product Management(6) Seoul,Seoul,Korea, Republic Of Product Management Gepostete vor einem Monat",
+   "url": "https://jobs.ericsson.com/careers/job/563121777431306"
+  },
+  {
+   "at": "2026-11-09T13:40:37+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Warehouse Supervisor Lewisville,Texas,United States Supply & Logistics Gepostete vor 6 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777514076"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T13:26:23+00:00",
+ "last_run": "2026-11-09T13:40:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
