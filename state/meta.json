@@ -1,5 +1,5 @@
 {
- "alerts": 46,
+ "alerts": 51,
  "commands_set": true,
  "events": [
   {
@@ -529,12 +529,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.41.48) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T12:11:11+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Praktikant Implementation und Support für R&S Project Management Tools (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/praktikant-implementation-und-support-fuer-rs-project-management-tools-m-w-d_251563-1716288.html"
+  },
+  {
+   "at": "2026-11-09T12:11:11+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Director New Business & Incubation (m/f/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/director-new-business-incubation-m-f-d_251563-1716289.html"
+  },
+  {
+   "at": "2026-11-09T12:11:11+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich Auftragsabwicklung (Order Execution) - Organisationsentwicklung und Ramp-up-Strategie",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Pflichtpraktikum-im-Bereich-Auftragsabwicklung-Order-Execution-Organisationsentwicklung-und-Ramp-up-Strategie/306734"
+  },
+  {
+   "at": "2026-11-09T12:08:48+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.226.248) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T12:10:20+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental automotive)",
+   "star": false,
+   "title": "Area Sales Manager - Region NRW (m/w/d) Job ID: REF81995C",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF81995C-p-60458dfff6da809f15eec3bea278f46f/area-sales-manager-region-nrw-m-w-d-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
+  },
+  {
+   "at": "2026-11-09T12:10:20+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Elektroniker mit Schwerpunkt Automatisierungstechnik für die Instandhaltung (m/w/d) - REF93292V Job ID: REF93292V",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF93292V-p-7351624b9330614a64108b7041365494/elektroniker-mit-schwerpunkt-automatisierungstechnik-fuer-die-instandhaltung-m-w-d-ref93292v?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T11:56:27+00:00",
+ "last_run": "2026-11-09T12:11:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
