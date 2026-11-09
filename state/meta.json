@@ -1,5 +1,5 @@
 {
- "alerts": 117,
+ "alerts": 119,
  "commands_set": true,
  "events": [
   {
@@ -1473,12 +1473,28 @@
    "star": false,
    "title": "Learn more about Senior Threat Analyst, Partnership Program Office (Ukrainian)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/91483802307568326-senior-threat-analyst-partnership-program-office-ukrainian?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-09T17:26:37+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.15.95.105) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T17:24:48+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Technical Support Engineering, Engineer - Structural",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T17:11:14+00:00",
+ "last_run": "2026-11-09T17:26:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
