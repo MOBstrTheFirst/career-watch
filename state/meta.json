@@ -1,5 +1,5 @@
 {
- "alerts": 114,
+ "alerts": 117,
  "commands_set": true,
  "events": [
   {
@@ -1449,12 +1449,36 @@
    "star": false,
    "title": "構造設計士 （大型医療機器導入プロジェクト）/ Project Structural Specialist, JAPAN, 26H114",
    "url": "https://careers.siemens-healthineers.com/global/en/job/P-100111/構造設計士-（大型医療機器導入プロジェクト）-Project-Structural-Specialist-JAPAN-26H114"
+  },
+  {
+   "at": "2026-11-09T17:11:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Global Sales Manager (f/m/d) - Industry Sector",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Global-Sales-Manager-f-m-d-Industry-Sector/290497"
+  },
+  {
+   "at": "2026-11-09T17:08:36+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.62.254.172) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T17:10:25+00:00",
+   "kind": "new",
+   "site": "Alphabet (Google) – Munich",
+   "star": false,
+   "title": "Learn more about Senior Threat Analyst, Partnership Program Office (Ukrainian)",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/91483802307568326-senior-threat-analyst-partnership-program-office-ukrainian?location=Munich%2C+Germany&sort_by=date"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T16:55:47+00:00",
+ "last_run": "2026-11-09T17:11:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
