@@ -1,11 +1,36 @@
 {
- "alerts": 0,
+ "alerts": 2,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-09T02:24:53+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Praktikum und/oder Masterarbeit - Modellierung und CFD mit Python/Matlab/Simulink u. COMSOL/OpenFOAM",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Praktikum-undoder-Masterarbeit-Modellierung-und-CFD-mit-PythonMatlabSimulink-u_-COMSOLOpenFOAM-70569/1186341201"
+  },
+  {
+   "at": "2026-11-09T02:24:53+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Abschlussarbeit - Entwicklung einer Bewertungsmatrix für eine modulare On-Demand-Produktion",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Abschlussarbeit-Entwicklung-einer-Bewertungsmatrix-f%C3%BCr-eine-modulare-On-Demand-Produktion-70569/1426470533"
+  },
+  {
+   "at": "2026-11-09T02:25:08+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": true,
+   "title": "Semesterarbeit/Masterarbeit: Foundation Model für die kontaktreiche Montage",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-SemesterarbeitMasterarbeit-Foundation-Model-f%C3%BCr-die-kontaktreiche-Montage-86159/1385391233"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T02:11:30+00:00",
+ "last_run": "2026-11-09T02:26:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
