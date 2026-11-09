@@ -1,5 +1,5 @@
 {
- "alerts": 8,
+ "alerts": 9,
  "commands_set": true,
  "events": [
   {
@@ -81,12 +81,20 @@
    "star": false,
    "title": "Termelési operátor",
    "url": "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000124412017-termelesi-operator"
+  },
+  {
+   "at": "2026-11-09T08:10:45+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Senior HF-Entwicklungsingenieur Kleinsignal (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-hf-entwicklungsingenieur-kleinsignal-m-w-d_251563-1715904.html"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T07:55:54+00:00",
+ "last_run": "2026-11-09T08:13:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
