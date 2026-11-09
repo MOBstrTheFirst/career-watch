@@ -1,5 +1,5 @@
 {
- "alerts": 147,
+ "alerts": 148,
  "commands_set": true,
  "events": [
   {
@@ -1713,12 +1713,20 @@
    "star": false,
    "title": "Digital Hardware Development Engineer",
    "url": "https://careers.thalesgroup.com/global/en/job/R0320650/Digital-Hardware-Development-Engineer"
+  },
+  {
+   "at": "2026-11-09T22:23:56+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.117.74) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T22:11:26+00:00",
+ "last_run": "2026-11-09T22:26:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 96,
+ "runs": 97,
  "tg_offset": 297408924
 }
