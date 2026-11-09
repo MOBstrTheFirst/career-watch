@@ -1,5 +1,5 @@
 {
- "alerts": 131,
+ "alerts": 132,
  "commands_set": true,
  "events": [
   {
@@ -1585,12 +1585,20 @@
    "star": false,
    "title": "System Engineer - Air Traffic Control",
    "url": "https://careers.thalesgroup.com/global/en/job/R0321919/System-Engineer-Air-Traffic-Control"
+  },
+  {
+   "at": "2026-11-09T19:53:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.115.62.211) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T19:41:45+00:00",
+ "last_run": "2026-11-09T19:56:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 85,
+ "runs": 86,
  "tg_offset": 297408924
 }
