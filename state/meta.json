@@ -1,5 +1,5 @@
 {
- "alerts": 44,
+ "alerts": 46,
  "commands_set": true,
  "events": [
   {
@@ -513,12 +513,28 @@
    "star": false,
    "title": "Software Engineering Senior Software Engineer II - Flink Table API Professional Ehningen, DE",
    "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137556"
+  },
+  {
+   "at": "2026-11-09T11:56:11+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Elektrischer Gerätelaborant (m/w/d) für Mess- & Prüftechnik",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Elektrischer-Ger-telaborant-m-w-d-f-r-Mess-Pr-ftechnik/305984"
+  },
+  {
+   "at": "2026-11-09T11:53:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.41.48) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T11:40:51+00:00",
+ "last_run": "2026-11-09T11:56:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
