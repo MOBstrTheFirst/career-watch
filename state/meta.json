@@ -1,5 +1,5 @@
 {
- "alerts": 134,
+ "alerts": 135,
  "commands_set": true,
  "events": [
   {
@@ -1609,12 +1609,20 @@
    "star": false,
    "title": "Responsable Support Produits Electroniques (F/H)",
    "url": "https://careers.thalesgroup.com/global/en/job/R0322238/Responsable-Support-Produits-Electroniques-F-H"
+  },
+  {
+   "at": "2026-11-09T20:12:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.39.165) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T20:10:59+00:00",
+ "last_run": "2026-11-09T20:14:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 87,
+ "runs": 88,
  "tg_offset": 297408924
 }
