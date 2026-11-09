@@ -1,5 +1,5 @@
 {
- "alerts": 89,
+ "alerts": 92,
  "commands_set": true,
  "events": [
   {
@@ -1073,12 +1073,36 @@
    "star": false,
    "title": "Leitung (w/m/d) Commercial Real Estate Vertical",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528817"
+  },
+  {
+   "at": "2026-11-09T14:53:34+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.254.196) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T14:54:52+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": false,
+   "title": "Consulting Quantum Safe Consultant (m/w/d) Professional Multiple Cities",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=140111"
+  },
+  {
+   "at": "2026-11-09T14:55:41+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Erlangen",
+   "star": true,
+   "title": "Werkstudent - Test und Zuverlässigkeit von Leistungselektronik (all genders)",
+   "url": "https://jobs.fraunhofer.de/job/Erlangen-Werkstudent-Test-und-Zuverl%C3%A4ssigkeit-von-Leistungselektronik-%28all-genders%29-91058/1455680033"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T14:41:29+00:00",
+ "last_run": "2026-11-09T14:56:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
