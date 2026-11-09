@@ -1,5 +1,5 @@
 {
- "alerts": 101,
+ "alerts": 104,
  "commands_set": true,
  "events": [
   {
@@ -1257,12 +1257,44 @@
    "star": false,
    "title": "Senior Staff Engineer Bangalore BTP HRC1746446",
    "url": "https://jobs.infineon.com/careers/job/563808971837075?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:41:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "AI & Context Engineer (m/f/d) FP&A",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/AI-Context-Engineer-m-f-d-FP-A/306749"
+  },
+  {
+   "at": "2026-11-09T15:41:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "AI Enablement Specialist (m/f/d) FP&A",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/AI-Enablement-Specialist-m-f-d-FP-A/306750"
+  },
+  {
+   "at": "2026-11-09T15:38:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.76.185.20) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T15:39:46+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) People & Organisation",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528886"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T15:26:20+00:00",
+ "last_run": "2026-11-09T15:41:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
