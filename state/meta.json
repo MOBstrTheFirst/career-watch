@@ -1,5 +1,5 @@
 {
- "alerts": 94,
+ "alerts": 101,
  "commands_set": true,
  "events": [
   {
@@ -1113,12 +1113,156 @@
    "star": true,
    "title": "2 new text line(s), e.g. Praktikum - Digitale Plattformen & Technologie, UX & UI (w/m/d)",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-09T15:26:06+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": true,
+   "title": "Pflichtpraktikum in der Beschaffung und Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF300504Z-pflichtpraktikum-in-der-beschaffung-und-logistik"
+  },
+  {
+   "at": "2026-11-09T15:26:06+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum im Projektmanagement und Support für Industrie 4.0 Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF300505I-pflichtpraktikum-im-projektmanagement-und-support-fuer-industrie-4-0-logistik"
+  },
+  {
+   "at": "2026-11-09T15:26:06+00:00",
+   "kind": "new",
+   "site": "Bosch – Waiblingen - Alte Bundesstraße",
+   "star": true,
+   "title": "Pflichtpraktikum Projektmanagement - Digitalisierung und Automatisierung in der Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF300502H-pflichtpraktikum-projektmanagement-digitalisierung-und-automatisierung-in-der-logistik"
+  },
+  {
+   "at": "2026-11-09T15:26:06+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Technischer Projektmanager (w/m/d) - Gewährleistung & Claims HVDC",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Technischer-Projektmanager-w-m-d-Gew-hrleistung-Claims-HVDC/306704"
+  },
+  {
+   "at": "2026-11-09T15:23:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.164.167) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Praktikum im Bereich Industrial Design",
+   "url": "https://jobs.bosch.com/en/job/REF300501D-praktikum-im-bereich-industrial-design"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Praktikum im Industrial Design",
+   "url": "https://jobs.bosch.com/en/job/REF300498S-praktikum-im-industrial-design"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Analog Mix Signal FPGA Engineer (f/m/div) München HRC1875642",
+   "url": "https://jobs.infineon.com/careers/job/563808972327704?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff / Principal Engineer - Digital Design Singapur HRC1849699",
+   "url": "https://jobs.infineon.com/careers/job/563808972244601?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Analog Mixed-Signal Design (f/m/div) Villach + 1 more HRC1777884",
+   "url": "https://jobs.infineon.com/careers/job/563808971911117?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer, Analog Mixed Signal Design Irvine + 1 more HRC1694756",
+   "url": "https://jobs.infineon.com/careers/job/563808971421789?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Engineer - System Design Singapur HRC1753855",
+   "url": "https://jobs.infineon.com/careers/job/563808971846655?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Engineer Design System Bangalore MG HRC1868611",
+   "url": "https://jobs.infineon.com/careers/job/563808972321421?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Engineer Design Bangalore BTP HRC1805078",
+   "url": "https://jobs.infineon.com/careers/job/563808972039685?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Engineer / Senior Engineer - Design Engineering Singapur HRC1718947",
+   "url": "https://jobs.infineon.com/careers/job/563808971705988?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Digital Design Bangalore BTP (Indien) HRC1688399 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971368855?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Bangalore BTP HRC1741319",
+   "url": "https://jobs.infineon.com/careers/job/563808971831658?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T15:25:21+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Bangalore BTP HRC1746446",
+   "url": "https://jobs.infineon.com/careers/job/563808971837075?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T15:11:17+00:00",
+ "last_run": "2026-11-09T15:26:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
