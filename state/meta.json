@@ -1,5 +1,5 @@
 {
- "alerts": 143,
+ "alerts": 145,
  "commands_set": true,
  "events": [
   {
@@ -1681,12 +1681,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.234.45.186) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T21:53:38+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.230.250.248) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T21:55:16+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Buyer Lewisville,Texas,United States Sourcing Gepostete vor 12 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777518037"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T21:41:43+00:00",
+ "last_run": "2026-11-09T21:56:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
