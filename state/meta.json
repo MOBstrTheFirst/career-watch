@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 6,
  "commands_set": true,
  "events": [
   {
@@ -41,12 +41,28 @@
    "star": true,
    "title": "Werkstudent Business Development - Forschung & Technologie (w/m/d)",
    "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Business-Development-Forschung-&-Technologie-%28wmd%29-89077/1375289755"
+  },
+  {
+   "at": "2026-11-09T23:23:42+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.249.135.242) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T23:25:15+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": false,
+   "title": "1 new text line(s), e.g. Veröffentlicht am 08.11.2026",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T23:11:08+00:00",
+ "last_run": "2026-11-09T23:26:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408924
 }
