@@ -1,5 +1,5 @@
 {
- "alerts": 112,
+ "alerts": 114,
  "commands_set": true,
  "events": [
   {
@@ -1433,12 +1433,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.78.178) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T16:53:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.170.190.115) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T16:55:22+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "構造設計士 （大型医療機器導入プロジェクト）/ Project Structural Specialist, JAPAN, 26H114",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100111/構造設計士-（大型医療機器導入プロジェクト）-Project-Structural-Specialist-JAPAN-26H114"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T16:41:12+00:00",
+ "last_run": "2026-11-09T16:55:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
