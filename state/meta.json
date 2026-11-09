@@ -1,5 +1,5 @@
 {
- "alerts": 76,
+ "alerts": 80,
  "commands_set": true,
  "events": [
   {
@@ -905,12 +905,44 @@
    "star": false,
    "title": "Head of Workforce and Skill Architecture (f/m/d)",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528836"
+  },
+  {
+   "at": "2026-11-09T14:08:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.79.71) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T14:08:35+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikum Aktionsmanagement, Garantie- und Kundensupport",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=19871"
+  },
+  {
+   "at": "2026-11-09T14:10:20+00:00",
+   "kind": "possible",
+   "site": "Qualcomm",
+   "star": true,
+   "title": "FY27 Intern - Hardware Design for Post-Quantum Cryptography - 6 months, Sophia",
+   "url": "https://careers.qualcomm.com/careers?location=Munich%2C%20Germany&sort_by=timestamp&filter_distance=80&filter_include_remote=0&filter_include_relocation=0"
+  },
+  {
+   "at": "2026-11-09T14:10:31+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": true,
+   "title": "Praktikum - Entwicklung & Konstruktion von Sondermaschinen - REF99994C Job ID: REF99994C",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99994C-p-7351624b9330614a64108b7041365494/praktikum-entwicklung-konstruktion-von-sondermaschinen-ref99994c?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T13:56:32+00:00",
+ "last_run": "2026-11-09T14:11:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
