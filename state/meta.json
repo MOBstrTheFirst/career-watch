@@ -1,5 +1,5 @@
 {
- "alerts": 51,
+ "alerts": 57,
  "commands_set": true,
  "events": [
   {
@@ -577,12 +577,76 @@
    "star": false,
    "title": "Elektroniker mit Schwerpunkt Automatisierungstechnik für die Instandhaltung (m/w/d) - REF93292V Job ID: REF93292V",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF93292V-p-7351624b9330614a64108b7041365494/elektroniker-mit-schwerpunkt-automatisierungstechnik-fuer-die-instandhaltung-m-w-d-ref93292v?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-09T12:26:18+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": false,
+   "title": "PreMaster Programm - GapYear - Fertigungsplanung Zentrale Teilefertigung mit dem Schwerpunkt Digitalisierung",
+   "url": "https://jobs.bosch.com/en/job/REF174115L-premaster-programm-gapyear-fertigungsplanung-zentrale-teilefertigung-mit-dem-schwerpunkt-digitalisierung"
+  },
+  {
+   "at": "2026-11-09T12:26:18+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": false,
+   "title": "PreMaster Programm - GapYear - Bosch Production System und Industrial Engineering mit dem Fokus Digitalisierung",
+   "url": "https://jobs.bosch.com/en/job/REF253590U-premaster-programm-gapyear-bosch-production-system-und-industrial-engineering-mit-dem-fokus-digitalisierung"
+  },
+  {
+   "at": "2026-11-09T12:26:18+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": false,
+   "title": "PreMaster Programm - GapYear - Fertigung: Automatisierung, Robotik, Digitalisierung und Industrialisierung",
+   "url": "https://jobs.bosch.com/en/job/REF297917S-premaster-programm-gapyear-fertigung-automatisierung-robotik-digitalisierung-und-industrialisierung"
+  },
+  {
+   "at": "2026-11-09T12:26:18+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum Digitalisierung und Automatisierung in der Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF300483S-pflichtpraktikum-digitalisierung-und-automatisierung-in-der-logistik"
+  },
+  {
+   "at": "2026-11-09T12:23:48+00:00",
+   "kind": "new",
+   "site": "Bosch – Blaichach",
+   "star": true,
+   "title": "Praktikum Prozessoptimierung in der hochautomatisierten Fertigung",
+   "url": "https://jobs.bosch.com/en/job/REF296777W-praktikum-prozessoptimierung-in-der-hochautomatisierten-fertigung"
+  },
+  {
+   "at": "2026-11-09T12:23:48+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.200.183.240) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T12:23:48+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikum im Einkauf: Großprojekte & Digitalisierung",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22091"
+  },
+  {
+   "at": "2026-11-09T12:25:28+00:00",
+   "kind": "new",
+   "site": "Keysight – Böblingen (Baden-Württemberg)",
+   "star": false,
+   "title": "Optik & Photonik Test Techniker (m/w/d) – Electronics / Measurement",
+   "url": "https://jobs.keysight.com/external/jobs/54041?lang=en-us"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T12:11:26+00:00",
+ "last_run": "2026-11-09T12:26:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
