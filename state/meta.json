@@ -1,5 +1,5 @@
 {
- "alerts": 3,
+ "alerts": 4,
  "commands_set": true,
  "events": [
   {
@@ -41,12 +41,20 @@
    "star": false,
    "title": "Verification Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-09T05:55:06+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100128/Account-Manager"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T05:41:20+00:00",
+ "last_run": "2026-11-09T05:56:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 29,
+ "runs": 30,
  "tg_offset": 297408924
 }
