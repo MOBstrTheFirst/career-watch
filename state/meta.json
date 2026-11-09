@@ -1,5 +1,5 @@
 {
- "alerts": 80,
+ "alerts": 85,
  "commands_set": true,
  "events": [
   {
@@ -937,12 +937,60 @@
    "star": true,
    "title": "Praktikum - Entwicklung & Konstruktion von Sondermaschinen - REF99994C Job ID: REF99994C",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99994C-p-7351624b9330614a64108b7041365494/praktikum-entwicklung-konstruktion-von-sondermaschinen-ref99994c?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-09T14:26:04+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in - Unterstützung im Projektmanagement (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/67987502/Werkstudent-in-Unterst%C3%BCtzung-im-Projektmanagement-all-genders-?jobDbPVId=290130303&l=de"
+  },
+  {
+   "at": "2026-11-09T14:26:04+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Masterarbeit – Marktanalyse und Anwendungspriorisierung für Edge AI (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/64942851/Masterarbeit-%E2%80%93-Marktanalyse-und-Anwendungspriorisierung-f%C3%BCr-Edge-AI-all-genders-?jobDbPVId=290130268&l=de"
+  },
+  {
+   "at": "2026-11-09T14:26:04+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Munich",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/junior-account-manager-m-w-d-x-hunter-automotive-manufacturing-836905"
+  },
+  {
+   "at": "2026-11-09T14:24:23+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.30.219) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T14:25:06+00:00",
+   "kind": "possible",
+   "site": "Qualcomm",
+   "star": true,
+   "title": "FY27 Intern - Design For Test for a Secure Asynchronous IP - 6 months, Montbonnot",
+   "url": "https://careers.qualcomm.com/careers?location=Munich%2C%20Germany&sort_by=timestamp&filter_distance=80&filter_include_remote=0&filter_include_relocation=0"
+  },
+  {
+   "at": "2026-11-09T14:25:06+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/junior-account-manager-m-w-d-x-hunter-automotive-manufacturing-836905"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T14:11:00+00:00",
+ "last_run": "2026-11-09T14:26:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
