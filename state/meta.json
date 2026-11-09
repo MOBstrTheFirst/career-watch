@@ -1,5 +1,5 @@
 {
- "alerts": 108,
+ "alerts": 109,
  "commands_set": true,
  "events": [
   {
@@ -1401,12 +1401,20 @@
    "star": false,
    "title": "Senior Project Manager Project Management Melaka + 1 more HRC1750215",
    "url": "https://jobs.infineon.com/careers/job/563808971834610?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-09T16:23:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.117.60) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T16:11:24+00:00",
+ "last_run": "2026-11-09T16:26:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
