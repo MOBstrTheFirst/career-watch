@@ -1,5 +1,5 @@
 {
- "alerts": 74,
+ "alerts": 76,
  "commands_set": true,
  "events": [
   {
@@ -889,12 +889,28 @@
    "star": false,
    "title": "Warehouse Supervisor Lewisville,Texas,United States Supply & Logistics Gepostete vor 6 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777514076"
+  },
+  {
+   "at": "2026-11-09T13:53:43+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.102.133) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-09T13:55:05+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Head of Workforce and Skill Architecture (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528836"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-09T13:40:55+00:00",
+ "last_run": "2026-11-09T13:56:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-08",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
