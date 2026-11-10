@@ -1,5 +1,5 @@
 {
- "alerts": 67,
+ "alerts": 70,
  "commands_set": true,
  "events": [
   {
@@ -609,12 +609,36 @@
    "star": false,
    "title": "Senior Tax Manager VAT (m/w/d) - REF100181R Job ID: REF100181R",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100181R-p-b7e7c8fe1795ec62cee8000434c861bf/senior-tax-manager-vat-m-w-d-ref100181r?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-10T09:26:21+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Commodity Manager (f/m/d) CD & NUC",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commodity-Manager-f-m-d-CD-NUC/301807"
+  },
+  {
+   "at": "2026-11-10T09:25:08+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.149.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T09:25:24+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "3 new text line(s), e.g. Praktikum Supply Chain Planung Technik (m/w/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T09:13:18+00:00",
+ "last_run": "2026-11-10T09:26:33+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
