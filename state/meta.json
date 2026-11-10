@@ -1,5 +1,5 @@
 {
- "alerts": 37,
+ "alerts": 39,
  "commands_set": true,
  "events": [
   {
@@ -329,14 +329,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.54.247) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T06:26:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.149.236.255) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T06:24:50+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Project Management Malakka HRC1749159",
+   "url": "https://jobs.infineon.com/careers/job/563808971834977?domain=infineon.com"
   }
  ],
- "last_missing_parts": [
-  3
- ],
- "last_run": "2026-11-10T06:21:35+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-10T06:28:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
