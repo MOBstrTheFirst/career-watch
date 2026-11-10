@@ -1,5 +1,5 @@
 {
- "alerts": 111,
+ "alerts": 115,
  "commands_set": true,
  "events": [
   {
@@ -993,12 +993,52 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25019743?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25019743?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-10T12:13:24+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Senior Director Design Authority (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-director-design-authority-m-w-d_251563-1636959.html"
+  },
+  {
+   "at": "2026-11-10T12:13:24+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Senior Director AI Integration (m/f/x)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-director-ai-integration-m-f-x_251563-1631502.html"
+  },
+  {
+   "at": "2026-11-10T12:13:24+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Turbine Mechanical Designer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Turbine-Mechanical-Designer-f-m-d/306321"
+  },
+  {
+   "at": "2026-11-10T12:08:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.21.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T12:08:43+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.21.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T11:59:05+00:00",
+ "last_run": "2026-11-10T12:13:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
