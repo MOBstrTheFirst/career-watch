@@ -1,5 +1,5 @@
 {
- "alerts": 127,
+ "alerts": 130,
  "commands_set": true,
  "events": [
   {
@@ -1145,12 +1145,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.237.236) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T13:09:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.70.160) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T13:09:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.70.160) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T13:10:15+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25016335?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25016335?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T12:58:17+00:00",
+ "last_run": "2026-11-10T13:11:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
