@@ -1,5 +1,5 @@
 {
- "alerts": 97,
+ "alerts": 103,
  "commands_set": true,
  "events": [
   {
@@ -873,12 +873,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.127.246.97) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T11:29:39+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Release Strategy & Governance Lead (m/f/d) SAP S/4HANA)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Release-Strategy-Governance-Lead-m-f-d-SAP-S-4HANA/307166"
+  },
+  {
+   "at": "2026-11-10T11:24:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.230.138) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T11:24:17+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.230.138) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T11:24:17+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Doktorand (m/w/d) physikgestütztes Lernen unter numerischer und epistemischer Unsicherheit in heterogenen ingenieurwissenschaftlichen Simulationsdaten",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22107"
+  },
+  {
+   "at": "2026-11-10T11:25:02+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "6 new text line(s), e.g. Praktikum – Generative AI: Entwicklung eines MCP-Servers für Fahrzeugerprobungsdaten (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-10T11:25:45+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Junior Projektleiter (m/w/d) 28.10.2026 Sonstige Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/junior-projektleiter-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T11:12:50+00:00",
+ "last_run": "2026-11-10T11:29:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
