@@ -1,5 +1,5 @@
 {
- "alerts": 29,
+ "alerts": 30,
  "commands_set": true,
  "events": [
   {
@@ -257,12 +257,20 @@
    "star": false,
    "title": "R&D Engineering, Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-10T04:26:29+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.95.40) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T04:12:23+00:00",
+ "last_run": "2026-11-10T04:26:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 23,
+ "runs": 24,
  "tg_offset": 297408924
 }
