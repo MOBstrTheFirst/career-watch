@@ -1,5 +1,5 @@
 {
- "alerts": 63,
+ "alerts": 67,
  "commands_set": true,
  "events": [
   {
@@ -569,12 +569,52 @@
    "star": true,
    "title": "Praktikant*in Enterprise Tech-Kommunikation (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.03.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-enterprise-tech-kommunikation-pflicht-praktikum-245935-mer0004ac8"
+  },
+  {
+   "at": "2026-11-10T09:08:38+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.252.244.134) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T09:08:38+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Technische Fahrzeugauslieferung Kundencenter Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-technische-fahrzeugauslieferung-kundencenter-245944-mer0004adc"
+  },
+  {
+   "at": "2026-11-10T09:08:38+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Batterieproduktion (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-batterieproduktion-pflicht-praktikum-241876-mer00049by"
+  },
+  {
+   "at": "2026-11-10T09:10:27+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Supply Chain Digitalization",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528961"
+  },
+  {
+   "at": "2026-11-10T09:13:04+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Senior Tax Manager VAT (m/w/d) - REF100181R Job ID: REF100181R",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100181R-p-b7e7c8fe1795ec62cee8000434c861bf/senior-tax-manager-vat-m-w-d-ref100181r?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T08:56:01+00:00",
+ "last_run": "2026-11-10T09:13:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
