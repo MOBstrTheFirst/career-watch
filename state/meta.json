@@ -1,5 +1,5 @@
 {
- "alerts": 124,
+ "alerts": 127,
  "commands_set": true,
  "events": [
   {
@@ -1113,12 +1113,44 @@
    "star": true,
    "title": "Thesis (8)",
    "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-10T12:58:05+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Supplier Quality Manager (w/m/d) Schwerpunkt Beschichtung",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Supplier-Quality-Manager-w-m-d-Schwerpunkt-Beschichtung/306603"
+  },
+  {
+   "at": "2026-11-10T12:58:05+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Wind Power Digital Services Cybersecurity Expert",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Wind-Power-Digital-Services-Cybersecurity-Expert/299741"
+  },
+  {
+   "at": "2026-11-10T12:53:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.237.236) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T12:53:42+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.237.236) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T12:41:24+00:00",
+ "last_run": "2026-11-10T12:58:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
