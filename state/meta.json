@@ -1,5 +1,5 @@
 {
- "alerts": 30,
+ "alerts": 32,
  "commands_set": true,
  "events": [
   {
@@ -265,12 +265,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.95.40) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T04:38:47+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.160.160.245) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T04:42:57+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/ingenieur_fuer_automatisierungstechnik__m_w_d_/1213373",
+   "url": "https://www.rheinmetall.com/de/job/ingenieur_fuer_automatisierungstechnik__m_w_d_/1213373"
+  },
+  {
+   "at": "2026-11-10T04:42:57+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/programmleiter_technik_it___netzwerksysteme__m_w_d_/1213460",
+   "url": "https://www.rheinmetall.com/de/job/programmleiter_technik_it___netzwerksysteme__m_w_d_/1213460"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T04:26:42+00:00",
+ "last_run": "2026-11-10T04:43:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 24,
+ "runs": 25,
  "tg_offset": 297408924
 }
