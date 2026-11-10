@@ -1,5 +1,5 @@
 {
- "alerts": 115,
+ "alerts": 120,
  "commands_set": true,
  "events": [
   {
@@ -1033,12 +1033,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.21.224) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T12:26:17+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Praktikum im Projektmanagement Digitalisierung im Sondermaschinenbau",
+   "url": "https://jobs.bosch.com/en/job/REF300589U-praktikum-im-projektmanagement-digitalisierung-im-sondermaschinenbau"
+  },
+  {
+   "at": "2026-11-10T12:23:51+00:00",
+   "kind": "new",
+   "site": "Bosch – Karlsruhe",
+   "star": true,
+   "title": "Praktikum Global Services im Accounting - Forderungsmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF300595A-praktikum-global-services-im-accounting-forderungsmanagement"
+  },
+  {
+   "at": "2026-11-10T12:23:51+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Promotion - Intelligente Nutzung und Verarbeitung technischer Kunststoffströme – Methodenentwicklung und Validierung am Beispiel von Altfahrzeugteilen",
+   "url": "https://jobs.bosch.com/en/job/REF300134U-promotion-intelligente-nutzung-und-verarbeitung-technischer-kunststoffstroeme-methodenentwicklung-und-validierung-am-beispiel-von-altfahrzeugteilen"
+  },
+  {
+   "at": "2026-11-10T12:23:51+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "PhD - Next-generation protein diagnostics for healthcare applications",
+   "url": "https://jobs.bosch.com/en/job/REF286935W-phd-next-generation-protein-diagnostics-for-healthcare-applications"
+  },
+  {
+   "at": "2026-11-10T12:23:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "2 new text line(s), e.g. Stuttgart - Vaihingen",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T12:23:51+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "2 new text line(s), e.g. Stuttgart - Vaihingen",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T12:13:38+00:00",
+ "last_run": "2026-11-10T12:26:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
