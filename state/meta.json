@@ -1,5 +1,5 @@
 {
- "alerts": 120,
+ "alerts": 124,
  "commands_set": true,
  "events": [
   {
@@ -1081,12 +1081,44 @@
    "star": false,
    "title": "2 new text line(s), e.g. Stuttgart - Vaihingen",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T12:41:04+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) – Project Management, Program Management Office",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Project-Management-Program-Management-Office/305985"
+  },
+  {
+   "at": "2026-11-10T12:41:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.29.191.3) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T12:41:07+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.29.191.3) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T12:41:07+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Thesis (8)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T12:26:30+00:00",
+ "last_run": "2026-11-10T12:41:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
