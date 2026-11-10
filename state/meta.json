@@ -1,5 +1,5 @@
 {
- "alerts": 47,
+ "alerts": 50,
  "commands_set": true,
  "events": [
   {
@@ -425,12 +425,44 @@
    "star": true,
    "title": "Rechtsreferendar*in (Pflicht-Praktikum als Wahlstation) Arbeits- und Sozialrecht Mercedes-Benz Group AG Headquarters, Stuttgart Start from: 01.01.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/rechtsreferendarin-pflicht-praktikum-als-wahlstation-arbeits-und-sozialrecht-245893-mer0004a9v"
+  },
+  {
+   "at": "2026-11-10T07:25:08+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.119.210) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T07:24:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Patentanwalt/ Patentanwältin (f/m/div) München, Deutschland HRC1876983 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972335299?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-10T07:24:53+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Project Management Malakka HRC1764944",
+   "url": "https://jobs.infineon.com/careers/job/563808971883444?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-10T07:25:40+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Sourcing Student Bogota,Distrito Capital,Colombia Sourcing Hybrid Gepostete vor 11 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777071998"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T07:11:30+00:00",
+ "last_run": "2026-11-10T07:27:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
