@@ -1,5 +1,5 @@
 {
- "alerts": 103,
+ "alerts": 107,
  "commands_set": true,
  "events": [
   {
@@ -921,12 +921,52 @@
    "star": false,
    "title": "Diehl Defence Junior Projektleiter (m/w/d) 28.10.2026 Sonstige Röthenbach a.d. Pegnitz",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/junior-projektleiter-m-w-d"
+  },
+  {
+   "at": "2026-11-10T11:41:29+00:00",
+   "kind": "possible",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Release Strategy & Governance Lead (m/f/d) SAP S/4HANA",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/Jobs/?29454=964485&29454_format=11381&listFilterMode=1&folderRecordsPerPage=20"
+  },
+  {
+   "at": "2026-11-10T11:38:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.179.45) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T11:38:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.179.45) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T11:43:23+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": false,
+   "title": "Data & Analytics Data Engineer Professional Multiple Cities",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138033"
+  },
+  {
+   "at": "2026-11-10T11:43:23+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": false,
+   "title": "Consulting Senior Managing Consultant - Finance Transformation (f/m/x) Professional Multiple Cities",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137825"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T11:29:58+00:00",
+ "last_run": "2026-11-10T11:43:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
