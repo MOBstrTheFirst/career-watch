@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 42,
  "commands_set": true,
  "events": [
   {
@@ -345,12 +345,36 @@
    "star": false,
    "title": "Project Manager Project Management Malakka HRC1749159",
    "url": "https://jobs.infineon.com/careers/job/563808971834977?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-10T06:38:36+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.63.164) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T06:38:36+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Student*in Abschlussarbeit Lithium-Ionen-Zellen: Experimentelle & modellgestützte Alterungsanalyse Mercedes-Benz Plant Untertürkheim, Stuttgart +1 Sta",
+   "url": "https://jobs.mercedes-benz.com/enUS/studentin-abschlussarbeit-lithium-ionen-zellen-experimentelle-and-modellgestutzte-alterungsanalyse-245865-mer0004ack"
+  },
+  {
+   "at": "2026-11-10T06:40:59+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence PCB-Layout Designer (m/w/d) mit Fokus auf PLM-Integration & Library Management 10.11.2026 Forschung/Entwicklung/Engineering Röthenbach a",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/pcb-layout-designer-m-w-d-mit-fokus-auf-plm-integration-library-management"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T06:28:11+00:00",
+ "last_run": "2026-11-10T06:42:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
