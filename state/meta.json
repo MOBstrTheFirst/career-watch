@@ -1,5 +1,5 @@
 {
- "alerts": 57,
+ "alerts": 59,
  "commands_set": true,
  "events": [
   {
@@ -513,12 +513,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.15.231.73) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T08:23:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.219.229) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T08:24:59+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Manager Sub Segment (Produktverantwortlicher) (d/m/w) - Befristet für 24 Monate",
+   "url": "https://jobs.schaeffler.com/job/Gunzenhausen-Manager-Sub-Segment-%28Produktverantwortlicher%29-%28dmw%29-Befristet-f%C3%BCr-24-Monate-91710/1398532933"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T08:12:04+00:00",
+ "last_run": "2026-11-10T08:26:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
