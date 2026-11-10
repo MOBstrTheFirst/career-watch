@@ -1,5 +1,5 @@
 {
- "alerts": 219,
+ "alerts": 224,
  "commands_set": true,
  "events": [
   {
@@ -2065,12 +2065,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.232.200.210) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-10T16:55:59+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Infrastructure Project Manager (f/m/d) in Industrial and Specialized Facilities",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Infrastructure-Project-Manager-f-m-d-in-Industrial-and-Specialized-Facilities/303712"
+  },
+  {
+   "at": "2026-11-10T16:54:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.222.118) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T16:54:00+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.222.118) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T16:54:57+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.178.119) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-10T16:55:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 104.210.132.2) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T16:41:59+00:00",
+ "last_run": "2026-11-10T16:56:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
