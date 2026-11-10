@@ -1,5 +1,5 @@
 {
- "alerts": 44,
+ "alerts": 47,
  "commands_set": true,
  "events": [
   {
@@ -393,12 +393,44 @@
    "star": true,
    "title": "Praktikant*in Anlauffabrik & Produktintegration AMG Electric Architecture und neue S‑Klasse Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from:",
    "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-anlauffabrik-and-produktintegration-amg-electric-architecture-und-neue-sklasse-245879-mer0004adq"
+  },
+  {
+   "at": "2026-11-10T07:11:15+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Entwicklungsingenieur-Hardware-f%C3%BCr-Bordnetzkomponenten-%28wmd%29/6971-de_DE",
+   "url": "https://jobs.man.eu/job/Entwicklungsingenieur-Hardware-f%C3%BCr-Bordnetzkomponenten-%28wmd%29/6971-de_DE"
+  },
+  {
+   "at": "2026-11-10T07:10:34+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.30.195) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T07:10:34+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Van Contract Management (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 15.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-van-contract-management-pflicht-praktikum-245886-mer00049ym"
+  },
+  {
+   "at": "2026-11-10T07:10:34+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Rechtsreferendar*in (Pflicht-Praktikum als Wahlstation) Arbeits- und Sozialrecht Mercedes-Benz Group AG Headquarters, Stuttgart Start from: 01.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/rechtsreferendarin-pflicht-praktikum-als-wahlstation-arbeits-und-sozialrecht-245893-mer0004a9v"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T06:57:42+00:00",
+ "last_run": "2026-11-10T07:11:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
