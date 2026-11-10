@@ -1,5 +1,5 @@
 {
- "alerts": 179,
+ "alerts": 190,
  "commands_set": true,
  "events": [
   {
@@ -1673,12 +1673,140 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25012570?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25012570?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-10T15:27:55+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": true,
+   "title": "Praktikum im Qualitätsmanagement Einkauf – Zukaufteile",
+   "url": "https://jobs.bosch.com/en/job/REF300609O-praktikum-im-qualitaetsmanagement-einkauf-zukaufteile"
+  },
+  {
+   "at": "2026-11-10T15:27:55+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum in der Projektierung - Sondermaschinenbau",
+   "url": "https://jobs.bosch.com/en/job/REF300606Q-pflichtpraktikum-in-der-projektierung-sondermaschinenbau"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Blaichach",
+   "star": true,
+   "title": "Abschlussarbeit Methodische Entwicklung einer Konstruktions- & Prozessrichtlinie für Flüssig-Silikondichtungen in automotiven Bremsaktuatoren",
+   "url": "https://jobs.bosch.com/en/job/REF300608F-abschlussarbeit-methodische-entwicklung-einer-konstruktions-prozessrichtlinie-fuer-fluessig-silikondichtungen-in-automotiven-bremsaktuatoren"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Blaichach",
+   "star": true,
+   "title": "Masterarbeit Entwicklung eines Prüfaufbaus zur Analyse dynamischer mechanischer Belastungen bei robotergeführtem Handling von Bremsregelsystemen (ESP)",
+   "url": "https://jobs.bosch.com/en/job/REF300599V-masterarbeit-entwicklung-eines-pruefaufbaus-zur-analyse-dynamischer-mechanischer-belastungen-bei-robotergefuehrtem-handling-von-bremsregelsystemen-esp"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Tech Lead Data Wearable - Robotic Systems and Algorithms (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300284S-tech-lead-data-wearable-robotic-systems-and-algorithms-f-m-div"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Tech Lead Data Wearable - Software Engineering (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300277D-tech-lead-data-wearable-software-engineering-f-m-div"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Technical Product Owner - Robot Safety and Security (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300271C-technical-product-owner-robot-safety-and-security-f-m-div"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Technical Product Owner - Robot-Factory Integration (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300142Y-technical-product-owner-robot-factory-integration-f-m-div"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": false,
+   "title": "Expert Engineer - Robotics AI Deployment (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300114L-expert-engineer-robotics-ai-deployment-f-m-div"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.98.135.41) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T15:23:53+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.98.135.41) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T15:26:27+00:00",
+   "kind": "new",
+   "site": "Bosch – Abstatt bei Stuttgart",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich Agile Softwareentwicklung, Automatisierung & KI",
+   "url": "https://jobs.bosch.com/en/job/REF300587M-pflichtpraktikum-im-bereich-agile-softwareentwicklung-automatisierung-ki"
+  },
+  {
+   "at": "2026-11-10T15:26:27+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.94.165) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-10T15:26:27+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Praktikum im International Product Management",
+   "url": "https://jobs.bosch.com/en/job/REF300617E-praktikum-im-international-product-management"
+  },
+  {
+   "at": "2026-11-10T15:26:27+00:00",
+   "kind": "new",
+   "site": "Bosch – Schweinfurt",
+   "star": true,
+   "title": "Pflichtpraktikum Facility Management",
+   "url": "https://jobs.bosch.com/en/job/REF300603Z-pflichtpraktikum-facility-management"
+  },
+  {
+   "at": "2026-11-10T15:25:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.125.142) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T15:11:23+00:00",
+ "last_run": "2026-11-10T15:28:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
