@@ -1,5 +1,5 @@
 {
- "alerts": 50,
+ "alerts": 54,
  "commands_set": true,
  "events": [
   {
@@ -457,12 +457,44 @@
    "star": false,
    "title": "Sourcing Student Bogota,Distrito Capital,Colombia Sourcing Hybrid Gepostete vor 11 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777071998"
+  },
+  {
+   "at": "2026-11-10T07:40:53+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Controller (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-10T07:38:42+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.203.197.215) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T07:38:42+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Operatives und strategisches Preismanagement (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-operatives-und-strategisches-preismanagement-pflicht-praktikum-245897-mer0004abt"
+  },
+  {
+   "at": "2026-11-10T07:40:35+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Account Supply Responsible Gurgaon,Haryana,India Supply & Logistics Gepostete vor 10 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121776834923"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T07:27:32+00:00",
+ "last_run": "2026-11-10T07:41:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
