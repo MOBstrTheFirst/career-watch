@@ -1,5 +1,5 @@
 {
- "alerts": 70,
+ "alerts": 75,
  "commands_set": true,
  "events": [
   {
@@ -633,12 +633,52 @@
    "star": true,
    "title": "3 new text line(s), e.g. Praktikum Supply Chain Planung Technik (m/w/d)",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-10T09:41:20+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Munich",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-project-manager-new-business-b2b-ict-cloud-solutions-m-f-d-x-862850"
+  },
+  {
+   "at": "2026-11-10T09:41:20+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Ulm",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-project-manager-new-business-b2b-ict-cloud-solutions-m-f-d-x-862850"
+  },
+  {
+   "at": "2026-11-10T09:39:38+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.63.111) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T09:39:38+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": false,
+   "title": "Technical Expert (m/w/x) - Mitarbeiter:in im technischen Support in Teil- und Vollzeit (20-37,5 Std./Woche)",
+   "url": "https://jobs.apple.com/en-us/details/200694251-1273/technical-expert-m-w-x-mitarbeiter-in-im-technischen-support-in-teil-und-vollzeit-20-37-5-std-woche?team=APPST"
+  },
+  {
+   "at": "2026-11-10T09:39:45+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-project-manager-new-business-b2b-ict-cloud-solutions-m-f-d-x-862850"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T09:26:33+00:00",
+ "last_run": "2026-11-10T09:41:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
