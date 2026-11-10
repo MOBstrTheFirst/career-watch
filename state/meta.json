@@ -1,5 +1,5 @@
 {
- "alerts": 18,
+ "alerts": 19,
  "commands_set": true,
  "events": [
   {
@@ -169,12 +169,20 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.163.33) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T02:24:53+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.63.178) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T02:11:16+00:00",
+ "last_run": "2026-11-10T02:27:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
