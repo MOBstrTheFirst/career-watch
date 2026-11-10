@@ -1,5 +1,5 @@
 {
- "alerts": 61,
+ "alerts": 63,
  "commands_set": true,
  "events": [
   {
@@ -553,12 +553,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.154.140.241) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T08:53:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.79.141) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T08:53:41+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Enterprise Tech-Kommunikation (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-enterprise-tech-kommunikation-pflicht-praktikum-245935-mer0004ac8"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-10T08:41:11+00:00",
+ "last_run": "2026-11-10T08:56:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
