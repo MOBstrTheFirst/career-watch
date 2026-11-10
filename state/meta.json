@@ -1,5 +1,5 @@
 {
- "alerts": 153,
+ "alerts": 157,
  "commands_set": true,
  "events": [
   {
@@ -1377,14 +1377,44 @@
    "star": true,
    "title": "Pflichtpraktikum - Betriebliches Gesundheitsmanagement Job ID: REF82057F",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82057F-p-02f4e43c9da12666b14cdf21cd4bfac2/pflichtpraktikum-betriebliches-gesundheitsmanagement?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
+  },
+  {
+   "at": "2026-11-10T14:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.209.78) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-10T14:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.209.78) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-10T14:26:37+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.92.205) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-10T14:25:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.67.142.139) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
- "last_missing_parts": [
-  1
- ],
- "last_run": "2026-11-10T14:11:07+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-10T14:27:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-09",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
