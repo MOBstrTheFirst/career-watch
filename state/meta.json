@@ -1,5 +1,5 @@
 {
- "alerts": 106,
+ "alerts": 108,
  "commands_set": true,
  "events": [
   {
@@ -929,12 +929,28 @@
    "star": false,
    "title": "Logistics Manager Bukit Jelutong,Selangor Darul Ehsan,Malaysia Service Delivery Gepostete vor 11 Minuten",
    "url": "https://jobs.ericsson.com/careers/job/563121777545395"
+  },
+  {
+   "at": "2026-11-11T05:10:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.239.226) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T05:09:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.11.76) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T04:56:18+00:00",
+ "last_run": "2026-11-11T05:10:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 27,
+ "runs": 28,
  "tg_offset": 297408924
 }
