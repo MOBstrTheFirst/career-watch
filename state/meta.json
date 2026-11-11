@@ -1,11 +1,52 @@
 {
- "alerts": 0,
+ "alerts": 5,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-11T23:08:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.125.46.149) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T23:08:58+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.125.46.149) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T23:08:58+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (164)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-11T23:09:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.214.55.69) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T23:10:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.12.244.181) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T22:57:23+00:00",
+ "last_run": "2026-11-11T23:11:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
