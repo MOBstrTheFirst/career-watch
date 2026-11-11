@@ -1,39 +1,7 @@
 {
- "alerts": 413,
+ "alerts": 417,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T10:55:09+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.75.245) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": true,
-   "title": "Operations Leadership Development Program Intern",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30337/Operations-Leadership-Development-Program-Intern"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "Validation Specialist (Radiation Therapy) ** Onsite - Palo Alto**",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30047/Validation-Specialist-Radiation-Therapy-Onsite-Palo-Alto"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "Medical Physics Assistant (Prescott, AZ)",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30260/Medical-Physics-Assistant-Prescott-AZ"
-  },
   {
    "at": "2026-11-11T11:11:27+00:00",
    "kind": "new",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.159.186) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T21:24:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.119.38.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T21:24:33+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.119.38.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T21:25:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.154.131.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T21:25:14+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 104.210.134.125) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T21:12:14+00:00",
+ "last_run": "2026-11-11T21:26:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 92,
+ "runs": 93,
  "tg_offset": 297408924
 }
