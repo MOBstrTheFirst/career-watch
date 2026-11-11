@@ -1,39 +1,7 @@
 {
- "alerts": 430,
+ "alerts": 434,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "Accounting Professional - Credit/Collections",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30760/Accounting-Professional-Credit-Collections"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "Medical Imaging Field Engineer II - MR & CT - Northeast PA",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30305/Medical-Imaging-Field-Engineer-II-MR-CT-Northeast-PA"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "Field Service Engineer - SW – Systems Admin for Medical Device Vendor –LA/ San Diego",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30282/Field-Service-Engineer-SW-Systems-Admin-for-Medical-Device-Vendor-LA-San-Diego"
-  },
-  {
-   "at": "2026-11-11T11:11:27+00:00",
-   "kind": "new",
-   "site": "Siemens Healthineers – 'Bayern' label",
-   "star": false,
-   "title": "IMMULITE Sales Specialist - Northwest",
-   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30233/IMMULITE-Sales-Specialist-Northwest"
-  },
   {
    "at": "2026-11-11T11:11:27+00:00",
    "kind": "new",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.39.49) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T22:23:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.200.118) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T22:23:42+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.200.118) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T22:24:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.102.93) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T22:25:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.101.227) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T22:12:01+00:00",
+ "last_run": "2026-11-11T22:26:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 96,
+ "runs": 97,
  "tg_offset": 297408924
 }
