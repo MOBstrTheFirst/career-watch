@@ -1,55 +1,7 @@
 {
- "alerts": 348,
+ "alerts": 353,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program – System Application Engineer for AI Power San Jose, CA HRC1731465",
-   "url": "https://jobs.infineon.com/careers/job/563808971774409?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "Senior Staff Engineer, Digital Verification and Methodology Lexington, KY, USA HRC1818268 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972103693?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "Senior Engineer Digital Verification and Methodology Lexington, KY HRC1827738 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972143860?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:35+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.93.130) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T09:10:52+00:00",
-   "kind": "new",
-   "site": "Siemens Energy",
-   "star": false,
-   "title": "Head of Digital Innovation (f/m/d)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Head-of-Digital-Innovation-f-m-d/307051"
-  },
-  {
-   "at": "2026-11-11T09:08:52+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.119.86) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
   {
    "at": "2026-11-11T09:08:52+00:00",
    "kind": "text",
@@ -4001,12 +3953,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.71.231.158) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T17:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.195.234) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T17:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.195.234) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T17:39:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.253.204) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T17:39:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "SAP WM/EWM Consultant (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100338/SAP-WM-EWM-Consultant-w-m-d"
+  },
+  {
+   "at": "2026-11-11T17:39:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Instructor Hardware Technical Training (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100339/Instructor-Hardware-Technical-Training-w-m-d"
+  },
+  {
+   "at": "2026-11-11T17:40:21+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.6.0) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T17:26:57+00:00",
+ "last_run": "2026-11-11T17:40:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
