@@ -4003,10 +4003,15 @@
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-11-11T13:41:21+00:00",
+ "last_missing_parts": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "last_run": "2026-11-11T14:00:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
