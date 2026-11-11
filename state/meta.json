@@ -1,63 +1,7 @@
 {
- "alerts": 266,
+ "alerts": 273,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T03:10:05+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.80.174.151) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T03:23:42+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.146) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T03:23:42+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.146) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T03:24:56+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.102.123) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T03:25:19+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.172.211) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T03:38:41+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.41.59) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T03:38:41+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.41.59) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
   {
    "at": "2026-11-11T03:39:41+00:00",
    "kind": "text",
@@ -4001,12 +3945,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.228.140) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T11:53:54+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.149.110) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T11:53:54+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.149.110) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T11:53:54+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": false,
+   "title": "SoC Physical Design Engineer (M, F, D)",
+   "url": "https://jobs.apple.com/en-us/details/200694487-1731/soc-physical-design-engineer-m-f-d?team=HRDWR"
+  },
+  {
+   "at": "2026-11-11T11:55:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.220.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T11:55:08+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Business Development Industrielogistik",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528364"
+  },
+  {
+   "at": "2026-11-11T11:55:08+00:00",
+   "kind": "new",
+   "site": "Alphabet (Google) – Munich",
+   "star": false,
+   "title": "Learn more about Senior Customer Engineer, Digital Natives",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/113772054053823174-senior-customer-engineer-digital-natives?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-11T11:55:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.182.171.95) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T11:41:09+00:00",
+ "last_run": "2026-11-11T11:56:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
