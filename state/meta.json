@@ -1,271 +1,7 @@
 {
- "alerts": 329,
+ "alerts": 342,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T07:40:04+00:00",
-   "kind": "new",
-   "site": "Rheinmetall",
-   "star": true,
-   "title": "https://www.rheinmetall.com/de/job/werkstudent_it__m_w_d_/1214912",
-   "url": "https://www.rheinmetall.com/de/job/werkstudent_it__m_w_d_/1214912"
-  },
-  {
-   "at": "2026-11-11T07:53:50+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.30.212) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T07:53:50+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.30.212) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T07:54:39+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.159.49) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T07:54:39+00:00",
-   "kind": "new",
-   "site": "Siemens AG – Germany",
-   "star": false,
-   "title": "Volontär (w/m/d) Live Communication Schwerpunkt Mediendesign",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527404"
-  },
-  {
-   "at": "2026-11-11T07:55:08+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.135.67) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T08:11:29+00:00",
-   "kind": "new",
-   "site": "Siemens Energy",
-   "star": false,
-   "title": "SAP Spezialist (w/m/d)",
-   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SAP-Spezialist-w-m-d/306921"
-  },
-  {
-   "at": "2026-11-11T08:08:37+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.191.173.96) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T08:08:37+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.191.173.96) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T08:09:49+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.206.109) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T08:09:49+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": true,
-   "title": "Werkstudent - Project Excellence & Automation (w/m/div) München HRC1881846 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972352832?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:09:49+00:00",
-   "kind": "text",
-   "site": "Volkswagen Group – Audi",
-   "star": true,
-   "title": "3 new text line(s), e.g. Praktikum - Wettbewerbsanalyse Produkt (w/m/d)",
-   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
-  },
-  {
-   "at": "2026-11-11T08:10:29+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": false,
-   "title": "Diehl Defence Entwicklungsingenieur Infrarot Systeme m/w/d 11.11.2026 Forschung/Entwicklung/Engineering Heilbronn",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-infrarot-systeme-m-w-d"
-  },
-  {
-   "at": "2026-11-11T08:10:29+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": false,
-   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) für Software Architektur, Methoden & Lebenszyklus - 260445 11.11.2026 Forschung/Entwicklung/Engineering Rö",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fuer-software-architektur-methoden-lebenszyklus-260445"
-  },
-  {
-   "at": "2026-11-11T08:10:29+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.101.230) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T08:25:33+00:00",
-   "kind": "new",
-   "site": "Airbus",
-   "star": false,
-   "title": "(Senior) Full-Stack Software Engineer (d/m/w) – AI-based Autonomy Hub",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Stuttgart-Area/Full-Stack-Software-Engineer--d-f-m----Developing-Mission-Critical-Applications_JR10365950?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
-  },
-  {
-   "at": "2026-11-11T08:23:43+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.174.198.173) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T08:23:43+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.174.198.173) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T08:24:45+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.210.134.58) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T08:24:45+00:00",
-   "kind": "new",
-   "site": "Siemens AG – Germany",
-   "star": false,
-   "title": "Services Account Executive (w/m/d) Aerospace & Defense Industry",
-   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519713"
-  },
-  {
-   "at": "2026-11-11T08:25:02+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": false,
-   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) für Software Anforderungen, Methoden & Lebenszyklus 11.11.2026 Forschung/Entwicklung/Engineering Röthenbac",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fuer-software-anforderungen-methoden-lebenszyklus"
-  },
-  {
-   "at": "2026-11-11T08:25:02+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.115.62.74) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T08:38:44+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.71.39) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T08:38:44+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.71.39) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T08:38:44+00:00",
-   "kind": "new",
-   "site": "Volkswagen Group – Porsche AG",
-   "star": false,
-   "title": "Serviceassistent (m/w/d)",
-   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22114"
-  },
-  {
-   "at": "2026-11-11T08:38:44+00:00",
-   "kind": "new",
-   "site": "Knorr-Bremse – Germany (newest first)",
-   "star": false,
-   "title": "Operational Resilience Coordinator - CVS (m/f/d)",
-   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Operational-Resilience-Coordinator-CVS-%28mfd%29-80809/1445671433"
-  },
-  {
-   "at": "2026-11-11T08:39:47+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.214.243) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T08:40:30+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": false,
-   "title": "Diehl Defence Projektleiter Space (m/w/d) 11.11.2026 Forschung/Entwicklung/Engineering Heilbronn",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/projektleiter-space-m-w-d"
-  },
-  {
-   "at": "2026-11-11T08:40:30+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": false,
-   "title": "Diehl Defence Arbeitsvorbereiter (m/w/d) Faserverbundtechnik 09.11.2026 Produktion Röthenbach a.d. Pegnitz",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/arbeitsvorbereiter-m-w-d-faserverbundtechnik"
-  },
-  {
-   "at": "2026-11-11T08:40:30+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.252.244.18) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T08:55:46+00:00",
-   "kind": "possible",
-   "site": "Airbus",
-   "star": false,
-   "title": "(Senior) Machine Learning Platform Engineer (d/m/w)",
-   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
-  },
-  {
-   "at": "2026-11-11T08:53:38+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.87.119) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T08:53:38+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.87.119) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
   {
    "at": "2026-11-11T08:53:38+00:00",
    "kind": "new",
@@ -4001,15 +3737,276 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25018045?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25018045?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "(Senior) Specialist Export Control & Sanctions (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-specialist-export-control-sanctions-m-w-d_251563-1718212.html"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum in der Unternehmensstrategie",
+   "url": "https://jobs.bosch.com/en/job/REF300710A-pflichtpraktikum-in-der-unternehmensstrategie"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": true,
+   "title": "Working Student (d/f/m) Simulation Control UI Software Infrastructure",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Working-Student--d-f-m--Simulation-Control-UI-Software-Infrastructure_JR10434146?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": false,
+   "title": "Career Day Universität Ulm 2026 - Jobs @Airbus Public Safety and Security",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Ulm/Career-Day-Universitt-Ulm-2026---Jobs--Airbus-Public-Safety-and-Security_JR10456901?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Teamleiter (w/m/d) Fertigungssteuerung Dampfturbine",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Teamleiter-w-m-d-Fertigungssteuerung-Dampfturbine/306616"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Commissioning Engineer (w/m/d) Elektrotechnik im Kraftwerksbereich",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commissioning-Engineer-w-m-d-Elektrotechnik-im-Kraftwerksbereich/302731"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Bauleiter (w/m/d) Elektrotechnik im Kraftwerksbereich",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Bauleiter-w-m-d-Elektrotechnik-im-Kraftwerksbereich/302732"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Promotor Elektrotechnik (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Promotor-Elektrotechnik-w-m-d/302848"
+  },
+  {
+   "at": "2026-11-11T17:11:28+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Research Engineer (f/m/d) Design Pressure Vessels",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Research-Engineer-f-m-d-Design-Pressure-Vessels/298132"
+  },
+  {
+   "at": "2026-11-11T17:08:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.20.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T17:08:47+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.20.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.230.180.19) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Bosch – Nürnberg",
+   "star": false,
+   "title": "Facharbeiter (w/m/div.) im Fertigungsumfeld",
+   "url": "https://jobs.bosch.com/en/job/REF299477H-facharbeiter-w-m-div-im-fertigungsumfeld"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Electronic Measurements at cryogenic temperatures for Trapped Ion Quantum Computer (f/m/div) Munich + 1 more HRC1878181",
+   "url": "https://jobs.infineon.com/careers/job/563808972334993?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Sustainability Consultant (f/m/div) München HRC1878082 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972352470?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Package Layout (w/m/d) Regensburg + 1 more HRC1806125 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972054587?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Facility Management Malakka HRC1719511",
+   "url": "https://jobs.infineon.com/careers/job/563808971722319?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Business Development (f/m/div) München HRC1743458 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971810103?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Specialist Talent Development Batam HRC1822526",
+   "url": "https://jobs.infineon.com/careers/job/563808972197505?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Business Development Manager Paris (Rueil-Malmaison) HRC1839659",
+   "url": "https://jobs.infineon.com/careers/job/563808972253591?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Facility Management – HVAC, Exhaust & Abatement Systems (w/m/div) Dresden HRC1770813",
+   "url": "https://jobs.infineon.com/careers/job/563808971896071?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Package Technology Development Penang (Malaysia) HRC1576208",
+   "url": "https://jobs.infineon.com/careers/job/563808970160255?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Business Process Architect (SAP, SAP CRM, SFC ) Penang (Malaysia) HRC1707601",
+   "url": "https://jobs.infineon.com/careers/job/563808971546146?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Specialist Operations Planning and Controlling Malakka HRC1879186",
+   "url": "https://jobs.infineon.com/careers/job/563808972338228?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Specialist Production Management (f/m/div) Villach HRC1872590 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972316803?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Strategic Account Sales Executive – Digital Health & Automation (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101102/Strategic-Account-Sales-Executive-Digital-Health-Automation-f-m-d"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Medical Physicist Commissioning)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29549/Sr-Medical-Physicist-Commissioning"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) für KI-Assistenten & Generative KI in der elektrotechnischen Entwicklung",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528144"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Business Developer (w/m/d) Schaltanlagen & Installationsverteiler",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528896"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Portfolio Management Professional (m/f/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529004"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Head (f/m/d) Global Quality Management for Sales Verticals and Services",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526950"
+  },
+  {
+   "at": "2026-11-11T17:10:22+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": true,
+   "title": "Working Student Platform Business VLS (m/f/d)",
+   "url": "https://jobs.schaeffler.com/job/Frankfurt-am-Main-Working-Student-Platform-Business-VLS-%28mfd%29-60549/1456561633"
+  },
+  {
+   "at": "2026-11-11T17:10:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.59.80) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
- "last_missing_parts": [
-  1,
-  3
- ],
- "last_run": "2026-11-11T17:06:43+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-11T17:11:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
