@@ -1,39 +1,7 @@
 {
- "alerts": 396,
+ "alerts": 400,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T10:39:53+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.15.103.133) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T10:39:53+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": true,
-   "title": "Werkstudent - Productivity Improvement Frontend (w/m/div) Regensburg HRC1866565 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972288620?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T10:39:53+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": true,
-   "title": "Werkstudent – Projektunterstützung in der Logistik (w/m/div) Dresden HRC1876244 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972328730?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T10:39:53+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": true,
-   "title": "Werkstudent - Corporate Accounting Data Automation and Business Intelligence (w/m/div) Regensburg HRC1876124 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972328309?domain=infineon.com"
-  },
   {
    "at": "2026-11-11T10:39:53+00:00",
    "kind": "new",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.29.37.162) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T19:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.163.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T19:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.163.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T19:55:03+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.183.4) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T19:55:04+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.66.3) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T19:41:46+00:00",
+ "last_run": "2026-11-11T19:56:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
