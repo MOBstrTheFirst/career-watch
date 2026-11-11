@@ -1,103 +1,7 @@
 {
- "alerts": 320,
+ "alerts": 329,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T07:08:55+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.154.131.99) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T07:10:46+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.99.244.149) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T07:10:03+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.200.175.184) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T07:25:47+00:00",
-   "kind": "possible",
-   "site": "Fraunhofer IIS",
-   "star": false,
-   "title": "Student/in (8)",
-   "url": "https://iisfraunhofer.softgarden.io/widgets/jobs?config=eyJzaG93Sm9iTGlzdCI6eyJhdWRpZW5jZSI6dHJ1ZSwiam9iY2F0ZWdvcnkiOnRydWUsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOnRydWUsInNob3dEYXRlSW5Gcm9udGVuZCI6dHJ1ZX0sInNob3dGaWx0ZXIiOnsiYXVkaWVuY2UiOnRydWUsImpvYmNhdGVnb3J5Ijp0cnVlLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5Ijp0cnVlfSwicHJlZmlsbEZpbHRlciI6eyJhdWRpZW5jZSI6IjYxNzlkMWEwMGEwYjBjY2UwMWVkM2RlODY0M2EwZTM5Iiwiam9iY2F0ZWdvcnkiOiJzYW00Ml9wdWJsaWNzZWN0b3I7c2FtNDJfYWRtaW5pc3RyYXRpb247c2FtNDJfZWR1Y2F0aW9uO3NhbTQyX2Rlc2lnbjtzYW00Ml9wdXJjaGFzZTtzYW00Ml9maW5hbmNlO3NhbTQyX21hcmtldGluZztzYW00Ml9ocjtzYW00Ml9sYXc7c2FtNDJfc2FsZXM7c2FtNDJfbWFudWFsd29yaztzYW00Ml9lbmdpbmVlcmluZztzYW00Ml9pdDtzYW00Ml9zY2llbmNlOzZhMDQ2Y2ZiLTZlZWUtNGU1MC1hZTZhLTQ4OWE3NDg0MDBkZCIsIlByb2plY3RHZW9Mb2NhdGlvbkNpdHkiOiIiLCJQcm9qZWN0R2VvTG9jYXRpb25DaXR5UmFkaXVzIjoiMjUifSwibnVtYmVyT2ZKb2JzIjoyMDB9"
-  },
-  {
-   "at": "2026-11-11T07:23:41+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.210.249) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-11T07:23:41+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.210.249) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-11T07:23:41+00:00",
-   "kind": "new",
-   "site": "Volkswagen Group – Porsche AG",
-   "star": false,
-   "title": "Teiledienst (m/w/d)",
-   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22113"
-  },
-  {
-   "at": "2026-11-11T07:24:45+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.124.29.231) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T07:25:05+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.22.245) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-11T07:41:22+00:00",
-   "kind": "possible",
-   "site": "MTU Aero Engines",
-   "star": true,
-   "title": "Schülerpraktikant (all genders) 14.06.2027 - 25.06.2027",
-   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
-  },
-  {
-   "at": "2026-11-11T07:40:12+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 68.220.61.196) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T07:40:04+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.230.179.195) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
   {
    "at": "2026-11-11T07:40:04+00:00",
    "kind": "new",
@@ -4001,17 +3905,111 @@
    "star": false,
    "title": "Logistiker (m/w/d) befristet",
    "url": "https://careers.knorr-bremse.com/job/Aldersbach-Logistiker-%28mwd%29-befristet-94501/861012301"
+  },
+  {
+   "at": "2026-11-11T16:56:14+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.93.133) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T16:56:14+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.93.133) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Metering E2E Solution Manager (m/f/d) 11.11.2026 Management/Strategie/Beratung Nürnberg",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/e2e-solution-manager-m-f-d"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": false,
+   "title": "Qualitätsingenieur im Bereich Qualitätsmanagement und SAP (w/m/div.) - befristet",
+   "url": "https://jobs.bosch.com/en/job/REF300622Y-qualitaetsingenieur-im-bereich-qualitaetsmanagement-und-sap-w-m-div-befristet"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.109.41) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "new",
+   "site": "Bosch – Regensburg",
+   "star": false,
+   "title": "Elektroniker / MSR-Techniker (m/w/d) Gebäudeautomation",
+   "url": "https://jobs.bosch.com/en/job/REF300711C-elektroniker-msr-techniker-m-w-d-gebaeudeautomation"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Praktikum Internationales Produktmanagement – Air Conditioning",
+   "url": "https://jobs.bosch.com/en/job/REF300689Q-praktikum-internationales-produktmanagement-air-conditioning"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "2. Werkstudent",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "3. Werkstudent Corporate Accounting Data Automation and Business Intelligence",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "4. Internship",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "5. Studentische Hilfskraft",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-11T16:58:02+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25018045?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25018045?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [
   1,
-  2,
-  3,
-  4
+  3
  ],
- "last_run": "2026-11-11T16:47:43+00:00",
+ "last_run": "2026-11-11T17:06:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
