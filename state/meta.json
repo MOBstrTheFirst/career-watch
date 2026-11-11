@@ -1,79 +1,7 @@
 {
- "alerts": 342,
+ "alerts": 348,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-11T08:53:38+00:00",
-   "kind": "new",
-   "site": "Mercedes-Benz – Stuttgart area",
-   "star": false,
-   "title": "Consultant Strategy Mercedes-Benz Management Consulting (d/m/f/x) Stuttgart, Industriestrasse 19+21 Start from: immediately",
-   "url": "https://jobs.mercedes-benz.com/enUS/consultant-strategy-mercedes-benz-management-consulting-dmfx-231717-mer00045vz"
-  },
-  {
-   "at": "2026-11-11T08:53:38+00:00",
-   "kind": "new",
-   "site": "Knorr-Bremse – Germany (newest first)",
-   "star": false,
-   "title": "Operational Resilience Coordinator - CVS (m/w/d)",
-   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Operational-Resilience-Coordinator-CVS-%28mwd%29-80809/1445671333"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.154.69) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program (IGP) – Engineer SoC Flow and Methodology (f/m/div) Duisburg + 1 more HRC1703424 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808971542513?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program (IGP) – Analyst Cyber Security PSIRT (f/m/div) Klagenfurt HRC1830016 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972149679?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program (IGP)– Operation, Planning and Controlling Malakka HRC1864626",
-   "url": "https://jobs.infineon.com/careers/job/563808972286657?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program - FAE Shanghai + 1 more HRC1693263",
-   "url": "https://jobs.infineon.com/careers/job/563808971432762?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "International Graduate Program (IGP) -Specialist – SMD – Sales and Business Development Bangalore + 1 more HRC1707690",
-   "url": "https://jobs.infineon.com/careers/job/563808971620691?domain=infineon.com"
-  },
-  {
-   "at": "2026-11-11T08:55:16+00:00",
-   "kind": "new",
-   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
-   "star": false,
-   "title": "Staff Engineer Digital Verification and Methodology Lexington, KY HRC1827741 Hybrid",
-   "url": "https://jobs.infineon.com/careers/job/563808972143960?domain=infineon.com"
-  },
   {
    "at": "2026-11-11T08:55:16+00:00",
    "kind": "new",
@@ -4001,12 +3929,84 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.59.80) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T17:25:51+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Quality Assurance Officer (FTC)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100586/Quality-Assurance-Officer-FTC"
+  },
+  {
+   "at": "2026-11-11T17:25:51+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sales Support Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100587/Sales-Support-Professional"
+  },
+  {
+   "at": "2026-11-11T17:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.95.30) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T17:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.95.30) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T17:24:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.214.102.15) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T17:24:46+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Senior Application Engineer, EMIR and Timing Signoff",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-11T17:24:46+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Cybersecurity Incident Response Engineer, Senior Staff",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-11T17:24:46+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Senior Staff Cyber Security Engineer - PAM",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-11T17:26:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.71.231.158) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T17:11:42+00:00",
+ "last_run": "2026-11-11T17:26:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 77,
+ "runs": 78,
  "tg_offset": 297408924
 }
