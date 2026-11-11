@@ -1,5 +1,5 @@
 {
- "alerts": 200,
+ "alerts": 207,
  "commands_set": true,
  "events": [
   {
@@ -1769,12 +1769,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.59.108) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T09:40:20+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Working Student (f/m/d) AI Solutions & Copilot Development",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-AI-Solutions-Copilot-Development/306318"
+  },
+  {
+   "at": "2026-11-11T09:39:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.250.210.72) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T09:39:00+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.250.210.72) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T09:40:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.76.220) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T09:40:18+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum - Innovationsmanagement Technische Entwicklung (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-11T09:40:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.75.74) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T09:40:28+00:00",
+   "kind": "new",
+   "site": "Hitachi (Hitachi Rail)",
+   "star": false,
+   "title": "View Job",
+   "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R0146391_Arnstadt%2C+Th%C3%BCringen%2C+Germany"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T09:25:42+00:00",
+ "last_run": "2026-11-11T09:40:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
