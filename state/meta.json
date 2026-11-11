@@ -1,5 +1,5 @@
 {
- "alerts": 251,
+ "alerts": 258,
  "commands_set": true,
  "events": [
   {
@@ -2897,12 +2897,964 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.225) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": true,
+   "title": "Bachelor Thesis - Micro Movements in Mechanical Systems - Exploration & Verification",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100528/Bachelor-Thesis-Micro-Movements-in-Mechanical-Systems-Exploration-Verification"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "構造設計士 （大型医療機器導入プロジェクト）/ Project Structural Specialist, JAPAN, 26H114",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100111/構造設計士-（大型医療機器導入プロジェクト）-Project-Structural-Specialist-JAPAN-26H114"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Lead C# Windows Developer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100120/Lead-C-Windows-Developer"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regulatory Affairs Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100286/Regulatory-Affairs-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Sales Manager - Diagnostics IVD",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100287/Regional-Sales-Manager-Diagnostics-IVD"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr Software Engineer (Datawarehouse)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100302/Sr-Software-Engineer-Datawarehouse"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr Software Architect",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100303/Sr-Software-Architect"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Lead Software Developer - C++",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100307/Lead-Software-Developer-C"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr User Interface Designer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100314/Sr-User-Interface-Designer"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr. User Interaction Design Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100315/Sr-User-Interaction-Design-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr. User Experience Design Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100316/Sr-User-Experience-Design-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr. UX Research & Usability Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100317/Sr-UX-Research-Usability-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Techniker für Vakuumanlagen in der Instandhaltung (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100348/Techniker-für-Vakuumanlagen-in-der-Instandhaltung-w-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Elektro- /Automatisierungs-Techniker in der Instandhaltung (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100349/Elektro-Automatisierungs-Techniker-in-der-Instandhaltung-w-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "OTC-Order Fulfilment Specialist (Singapore & Malaysia)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100352/OTC-Order-Fulfilment-Specialist-Singapore-Malaysia"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "DX ASN Customer Services Finance Analyst (contract)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100354/DX-ASN-Customer-Services-Finance-Analyst-contract"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "IT Infrastructure Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100358/IT-Infrastructure-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Operations Training Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100507/Operations-Training-Manager"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "4D ICE (Intracardiac Echocardiography) and Interventional Ultrasound EMEA - Clinical Application Specialist (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100509/4D-ICE-Intracardiac-Echocardiography-and-Interventional-Ultrasound-EMEA-Clinical-Application-Specialist-f-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Product Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100516/Product-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Ingénieur Implémentation IRM - Lyon (f/h/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100518/Ingénieur-Implémentation-IRM-Lyon-f-h-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Quality Control Technician - Meldola, Italy (m/f/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100521/Quality-Control-Technician-Meldola-Italy-m-f-d"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Workplace Designer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100526/Workplace-Designer"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Service Engineer – Liège (M/F/D)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100529/Customer-Service-Engineer-Liège-M-F-D"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Lead Research Engineer – Data Sciences - Clinical/Lifesciences",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100531/Lead-Research-Engineer-Data-Sciences-Clinical-Lifesciences"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Account Executive Diagnostic (Laboratorio Diagnósticos Análisis Clínicos) Zona Sur",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100533/Account-Executive-Diagnostic-Laboratorio-Diagnósticos-Análisis-Clínicos-Zona-Sur"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Tax & Accounting Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101099/Tax-Accounting-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:59+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": false,
+   "title": "Software Architekt (d/m/w) Eurodrone für Bodenunterstützungssysteme (d/m/w)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Manching/Software-Architekt--d-m-w--Eurodrone-fr-Bodenuntersttzungssysteme--d-m-w-_JR10454680-1?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-11T11:23:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.190.119.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T11:23:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.190.119.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.250.68) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Bachelor Thesis - Micro Movements in Mechanical Systems - Exploration & Verification",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100528/Bachelor-Thesis-Micro-Movements-in-Mechanical-Systems-Exploration-Verification"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Operational Excellence & Continuous Improvement Intern",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100646/Operational-Excellence-Continuous-Improvement-Intern"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Werkstudent*in (w/m/d) Complaint Management & Support Coordination",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101127/Werkstudent-in-w-m-d-Complaint-Management-Support-Coordination"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Werkstudent*in (w/m/d) Röntgendetektorkalibrierung, Bildverarbeitung & technische Bildqualität",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101129/Werkstudent-in-w-m-d-Röntgendetektorkalibrierung-Bildverarbeitung-technische-Bildqualität"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Market Intelligence Analysis Intern",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100390/Market-Intelligence-Analysis-Intern"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Werkstudent*in (w/m/d) Benefits & Pensions",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100403/Werkstudent-in-w-m-d-Benefits-Pensions"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead C# Windows Developer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100120/Lead-C-Windows-Developer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regulatory Affairs Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100286/Regulatory-Affairs-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regional Sales Manager - Diagnostics IVD",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100287/Regional-Sales-Manager-Diagnostics-IVD"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr Software Engineer (Datawarehouse)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100302/Sr-Software-Engineer-Datawarehouse"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr Software Architect",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100303/Sr-Software-Architect"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead Software Developer - C++",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100307/Lead-Software-Developer-C"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr User Interface Designer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100314/Sr-User-Interface-Designer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. User Interaction Design Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100315/Sr-User-Interaction-Design-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. User Experience Design Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100316/Sr-User-Experience-Design-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. UX Research & Usability Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100317/Sr-UX-Research-Usability-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Techniker für Vakuumanlagen in der Instandhaltung (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100348/Techniker-für-Vakuumanlagen-in-der-Instandhaltung-w-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Elektro- /Automatisierungs-Techniker in der Instandhaltung (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100349/Elektro-Automatisierungs-Techniker-in-der-Instandhaltung-w-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "OTC-Order Fulfilment Specialist (Singapore & Malaysia)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100352/OTC-Order-Fulfilment-Specialist-Singapore-Malaysia"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "DX ASN Customer Services Finance Analyst (contract)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100354/DX-ASN-Customer-Services-Finance-Analyst-contract"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "IT Infrastructure Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100358/IT-Infrastructure-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Operations Training Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100507/Operations-Training-Manager"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "4D ICE (Intracardiac Echocardiography) and Interventional Ultrasound EMEA - Clinical Application Specialist (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100509/4D-ICE-Intracardiac-Echocardiography-and-Interventional-Ultrasound-EMEA-Clinical-Application-Specialist-f-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100516/Product-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Ingénieur Implémentation IRM - Lyon (f/h/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100518/Ingénieur-Implémentation-IRM-Lyon-f-h-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Control Technician - Meldola, Italy (m/f/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100521/Quality-Control-Technician-Meldola-Italy-m-f-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Workplace Designer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100526/Workplace-Designer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer – Liège (M/F/D)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100529/Customer-Service-Engineer-Liège-M-F-D"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead Research Engineer – Data Sciences - Clinical/Lifesciences",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100531/Lead-Research-Engineer-Data-Sciences-Clinical-Lifesciences"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Executive Diagnostic (Laboratorio Diagnósticos Análisis Clínicos) Zona Sur",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100533/Account-Executive-Diagnostic-Laboratorio-Diagnósticos-Análisis-Clínicos-Zona-Sur"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Tax & Accounting Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101099/Tax-Accounting-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Assurance Officer (FTC)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100586/Quality-Assurance-Officer-FTC"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sales Support Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100587/Sales-Support-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100086/Customer-Service-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead DevOps Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100597/Lead-DevOps-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr Software Engineer -Imaging",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100599/Sr-Software-Engineer-Imaging"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "CDD 8 mois - Technicien de Production - Marseille (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100612/CDD-8-mois-Technicien-de-Production-Marseille-h-f-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product & Solutions Development team lead",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100102/Product-Solutions-Development-team-lead"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Reprezentant Service Sales – Departament Service",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100617/Reprezentant-Service-Sales-Departament-Service"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Executive - Campania, Italy (m/f/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100620/Account-Executive-Campania-Italy-m-f-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Chef(fe) de projets imagerie (f/h/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100621/Chef-fe-de-projets-imagerie-f-h-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior UX Researcher for Healthcare/MedTech products (m/f/d) - Hybrid - Bratislava/Žilina",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100628/Senior-UX-Researcher-for-Healthcare-MedTech-products-m-f-d-Hybrid-Bratislava-Žilina"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sales Manager (m/w/d) Bildgebung & Therapie – Radiologie, Kardiologie, Nuklearmedizin Healthcare Imaging – Wien/Graz/Innsbruck",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100475/Sales-Manager-m-w-d-Bildgebung-Therapie-Radiologie-Kardiologie-Nuklearmedizin-Healthcare-Imaging-Wien-Graz-Innsbruck"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "EHS Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100477/EHS-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Ingénieur(e) Produit Scanner f/h/nb",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100479/Ingénieur-e-Produit-Scanner-f-h-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Area Sales Professional Diagnostics IVD",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100488/Area-Sales-Professional-Diagnostics-IVD"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Ingénieur maintenance Industrielle - Ain (01) (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100639/Ingénieur-maintenance-Industrielle-Ain-01-h-f-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Experienced .NET Developer for Computed Tomography",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100502/Experienced-NET-Developer-for-Computed-Tomography"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "北海道 医療機器 営業 / Vivo Sales Hokkaido, JAPAN / 26H092",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100123/北海道-医療機器-営業-Vivo-Sales-Hokkaido-JAPAN-26H092"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Laboratory Solutions (CS LS) Project Manager - ASEAN",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100124/Customer-Service-Laboratory-Solutions-CS-LS-Project-Manager-ASEAN"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead Commodity Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100125/Lead-Commodity-Manager"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Manager (Sales, Lab Solutions)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100328/Account-Manager-Sales-Lab-Solutions"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "東京 医療機器 営業 / Vivo Sales Tokyo, JAPAN",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100332/東京-医療機器-営業-Vivo-Sales-Tokyo-JAPAN"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sales Account Manager - Medical Imaging",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100149/Sales-Account-Manager-Medical-Imaging"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Owner (Reporting)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100153/Product-Owner-Reporting"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Ingénieur(e) Maintenance Imagerie Médicale - Tours (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100177/Ingénieur-e-Maintenance-Imagerie-Médicale-Tours-h-f-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Legal Counsel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100181/Legal-Counsel"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Architect (C#, .Net, Angular,Enterprise Architect)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100185/Software-Architect-C-Net-Angular-Enterprise-Architect"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Ingénieur(e) Service Client – Diagnostic de Laboratoire (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100375/Ingénieur-e-Service-Client-Diagnostic-de-Laboratoire-h-f-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100381/Customer-Service-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Collaboration Manager - Advanced Therapies (Bengaluru)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100208/Collaboration-Manager-Advanced-Therapies-Bengaluru"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Demand Planning Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100212/Demand-Planning-Professional"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Project Controlling Analyst",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100219/Senior-Project-Controlling-Analyst"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Analista Sênior de Suporte a Vendas",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100220/Analista-Sênior-de-Suporte-a-Vendas"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Manager Advanced Therapies | Argentina y Uruguay",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100384/Product-Manager-Advanced-Therapies-Argentina-y-Uruguay"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "MRI Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100389/MRI-Scientist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "仙台 医療機器 営業 / Vivo Sales Tohoku, JAPAN / 26H098",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100246/仙台-医療機器-営業-Vivo-Sales-Tohoku-JAPAN-26H098"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Production Supervisor",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100392/Production-Supervisor"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Rechtsreferendar*in (w/m/d) Siemens Healthineers für Erlangen",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100393/Rechtsreferendar-in-w-m-d-Siemens-Healthineers-für-Erlangen"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "DX Communications Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100252/DX-Communications-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Head of Commercial Operations (26H075)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100253/Head-of-Commercial-Operations-26H075"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Expert Assurance Strategy & Innovation (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100401/Senior-Expert-Assurance-Strategy-Innovation-f-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Duales Masterstudium Business Management (MBA) im Bereich Strategischer Einkauf (w/m/d) - Forchheim",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100546/Duales-Masterstudium-Business-Management-MBA-im-Bereich-Strategischer-Einkauf-w-m-d-Forchheim"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Duales Masterstudium Business Management (MBA) im Bereich Supply Chain Management (w/m/d) - Kemnath",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100549/Duales-Masterstudium-Business-Management-MBA-im-Bereich-Supply-Chain-Management-w-m-d-Kemnath"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Control Technician - Colleretto Giacosa, Italy (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100550/Quality-Control-Technician-Colleretto-Giacosa-Italy-f-m-d"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "LS Account Management Sales Shikoku/Kyushu (医療用分析機器・体外診断薬の既存顧客担当営業、四国・九州)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100258/LS-Account-Management-Sales-Shikoku-Kyushu-医療用分析機器・体外診断薬の既存顧客担当営業、四国・九州"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Duales Masterstudium Mechatronik - Vertiefung Medical Device Engineering (M.Sc.) im Bereich Quality - Erlangen/Forchheim",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100552/Duales-Masterstudium-Mechatronik-Vertiefung-Medical-Device-Engineering-M-Sc-im-Bereich-Quality-Erlangen-Forchheim"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmacien Responsable Assurance Qualité - Marseille (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100410/Pharmacien-Responsable-Assurance-Qualité-Marseille-h-f-nb"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "CRM Operations Support Protege",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100325/CRM-Operations-Support-Protege"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Clinical / Product Application Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100329/Clinical-Product-Application-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Head of ES Client Engagement, GB&I",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100133/Head-of-ES-Client-Engagement-GB-I"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Construction Project Manager WA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100334/Construction-Project-Manager-WA"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "NPI Procurement Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100135/NPI-Procurement-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "MRI Application Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100337/MRI-Application-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Architect - C#",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100138/Software-Architect-C"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "AT (Advanced Therapies) Application Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100140/AT-Advanced-Therapies-Application-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Start-up Engineer (m/f/d) for Magnetic Resonance Imaging (MRI) Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100141/Start-up-Engineer-m-f-d-for-Magnetic-Resonance-Imaging-MRI-Systems"
+  },
+  {
+   "at": "2026-11-11T11:25:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.155.182) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T11:11:41+00:00",
+ "last_run": "2026-11-11T11:26:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
