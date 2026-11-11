@@ -1,5 +1,5 @@
 {
- "alerts": 244,
+ "alerts": 251,
  "commands_set": true,
  "events": [
   {
@@ -2161,12 +2161,748 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.75.245) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": true,
+   "title": "Operations Leadership Development Program Intern",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30337/Operations-Leadership-Development-Program-Intern"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Validation Specialist (Radiation Therapy) ** Onsite - Palo Alto**",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30047/Validation-Specialist-Radiation-Therapy-Onsite-Palo-Alto"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Physics Assistant (Prescott, AZ)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30260/Medical-Physics-Assistant-Prescott-AZ"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Engineer - HW - Salisbury, NC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30124/Field-Service-Engineer-HW-Salisbury-NC"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Mechanical Engineering Co-op - Hoffman Estates, IL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30643/Mechanical-Engineering-Co-op-Hoffman-Estates-IL"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Systems Engineer - Applied Physicist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30317/Systems-Engineer-Applied-Physicist"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "National Sales Manager, IMMULITE",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30232/National-Sales-Manager-IMMULITE"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "CT Clinical Education/Applications Specialist - REMOTE - Atlanta, GA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30689/CT-Clinical-Education-Applications-Specialist-REMOTE-Atlanta-GA"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Nuclear Engineering Co-Op - Hoffman Estates, IL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30716/Nuclear-Engineering-Co-Op-Hoffman-Estates-IL"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Electrical Engineering Co-op - Hoffman Estates, IL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30734/Electrical-Engineering-Co-op-Hoffman-Estates-IL"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Product Sales Executive, Digital and Automation -New York State Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30227/Product-Sales-Executive-Digital-and-Automation-New-York-State-Region"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Staff Systems Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30285/Staff-Systems-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Syngo Service Manager (Digital & Automation) - Houston, TX",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30125/Syngo-Service-Manager-Digital-Automation-Houston-TX"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Vice President, Imaging Sales - NYC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30290/Regional-Vice-President-Imaging-Sales-NYC"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Serviceability Engineer - Issaquah, WA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30014/Serviceability-Engineer-Issaquah-WA"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Sales Director - PA, DE, Upstate New York",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27597/Regional-Sales-Director-PA-DE-Upstate-New-York"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Accounting Professional - Credit/Collections",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30760/Accounting-Professional-Credit-Collections"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Imaging Field Engineer II - MR & CT - Northeast PA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30305/Medical-Imaging-Field-Engineer-II-MR-CT-Northeast-PA"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Engineer - SW – Systems Admin for Medical Device Vendor –LA/ San Diego",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30282/Field-Service-Engineer-SW-Systems-Admin-for-Medical-Device-Vendor-LA-San-Diego"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "IMMULITE Sales Specialist - Northwest",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30233/IMMULITE-Sales-Specialist-Northwest"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "IMMULITE Sales Specialist - North Central",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30236/IMMULITE-Sales-Specialist-North-Central"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Finance Analyst",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30711/Finance-Analyst"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Financial Analyst",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30868/Financial-Analyst"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Imaging Field Engineer - CT/MR - Charleston, SC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30311/Medical-Imaging-Field-Engineer-CT-MR-Charleston-SC"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Proposal Specialist - Sales Support",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30194/Proposal-Specialist-Sales-Support"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior Regulatory Affairs Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30388/Senior-Regulatory-Affairs-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr. Regulatory Affairs Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30706/Sr-Regulatory-Affairs-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:11:27+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Clinical Training Specialist - Chicago, IL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30722/Clinical-Training-Specialist-Chicago-IL"
+  },
+  {
+   "at": "2026-11-11T11:08:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.156.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T11:08:52+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.156.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.151.90.8) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Customer Finance Intern (Spring 2027)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30401/Customer-Finance-Intern-Spring-2027"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Machine Design Intern",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30708/Machine-Design-Intern"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Nuclear Pharmacist (training provided) - Jacksonville, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30666/Nuclear-Pharmacist-training-provided-Jacksonville-FL"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Commercial Counsel, Endovascular Robotics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30293/Senior-Commercial-Counsel-Endovascular-Robotics"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "MR Clinical Education Specialist (Central, Northeast or Midwest)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30948/MR-Clinical-Education-Specialist-Central-Northeast-or-Midwest"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Vice President, Value Partnerships DX",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30724/Vice-President-Value-Partnerships-DX"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Manufacturing Engineer Assistant (Coop)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30400/Manufacturing-Engineer-Assistant-Coop"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer - HW - Columbia, SC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30085/Field-Service-Engineer-HW-Columbia-SC"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Omaha Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30919/Hemostasis-Sales-Specialist-Omaha-Region"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Las Vegas Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31120/Hemostasis-Sales-Specialist-Las-Vegas-Region"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Northern California Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31119/Hemostasis-Sales-Specialist-Northern-California-Region"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Pacific Northwest Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31136/Hemostasis-Sales-Specialist-Pacific-Northwest-Region"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Supply IBP Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30327/Supply-IBP-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Contract Management Business Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30842/Contract-Management-Business-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Distribution Field Sales Specialist - Central",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30653/Distribution-Field-Sales-Specialist-Central"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Inside Service Sales Executive – Lab Diagnostics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30685/Inside-Service-Sales-Executive-Lab-Diagnostics"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Research Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30811/Senior-Research-Scientist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Product Manager - Eastern U.S. (Territory-Based Role)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31317/Field-Product-Manager-Eastern-U-S-Territory-Based-Role"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer (Union) - CT/MR - Albany, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30766/Customer-Service-Engineer-Union-CT-MR-Albany-NY"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmaceutical Lab Technician - Birmingham, AL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30671/Pharmaceutical-Lab-Technician-Birmingham-AL"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Business Development Director – Molecular Imaging National Imaging Centers",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30729/Business-Development-Director-Molecular-Imaging-National-Imaging-Centers"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior AI/ML Scientist – Neurointerventional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27443/Senior-AI-ML-Scientist-Neurointerventional"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Healthcare Informatics Sales Executive - Rocky Mountains Territory",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30833/Healthcare-Informatics-Sales-Executive-Rocky-Mountains-Territory"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Obsolescence Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30369/Obsolescence-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Enterprise Imaging Solutions Engineer – Healthcare IT-Remote within the US",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30905/Enterprise-Imaging-Solutions-Engineer-Healthcare-IT-Remote-within-the-US"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer HW Ithaca NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30130/Field-Service-Engineer-HW-Ithaca-NY"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Medical Physicist (Prescott, AZ)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30259/Sr-Medical-Physicist-Prescott-AZ"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Professional Services Executive",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31205/Professional-Services-Executive"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regional Sales Director, Lab Diagnostics - Rocky Mountains",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31114/Regional-Sales-Director-Lab-Diagnostics-Rocky-Mountains"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmacist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31298/Pharmacist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Area Director, Electrophysiology & Structural Heart-West",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31720/Area-Director-Electrophysiology-Structural-Heart-West"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Electrical Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31127/Electrical-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Firmware Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31609/Firmware-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "NAM DX Consolidation Controller -Remote",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31732/NAM-DX-Consolidation-Controller-Remote"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Controlling Professional - Financial Closing & Reporting - Remote",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31791/Controlling-Professional-Financial-Closing-Reporting-Remote"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Systems Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31600/Sr-Systems-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer (Proton Therapy) - Lancaster, PA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31797/Field-Service-Engineer-Proton-Therapy-Lancaster-PA"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Chemical Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31675/Chemical-Scientist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Regulatory Affairs Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31696/Senior-Regulatory-Affairs-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regional Travel and Expense Lead, NAM, Malvern, PA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31668/Regional-Travel-and-Expense-Lead-NAM-Malvern-PA"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Transaction & Asset Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31672/Transaction-Asset-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Manufacturing Technician",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31638/Manufacturing-Technician"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Assurance Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31715/Quality-Assurance-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Assurance Specialist - Minneapolis, MN",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31709/Quality-Assurance-Specialist-Minneapolis-MN"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Assurance Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31721/Quality-Assurance-Specialist"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regional Service Manager - Manhattan, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31451/Regional-Service-Manager-Manhattan-NY"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Product Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31745/Senior-Product-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer - Proton Therapy - Voorhees, NJ",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31706/Field-Service-Engineer-Proton-Therapy-Voorhees-NJ"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "EHS Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31768/EHS-Manager"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Director, Radiation Protection & Environmental Health & Safety",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31792/Senior-Director-Radiation-Protection-Environmental-Health-Safety"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Cross-Border Mobility Operations Coordinator NAM",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31500/Cross-Border-Mobility-Operations-Coordinator-NAM"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Mechanical Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31570/Mechanical-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Test Technician (3rd Shift)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31603/Test-Technician-3rd-Shift"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Detector Scientist – PET Detector Physics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31579/Detector-Scientist-PET-Detector-Physics"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Staff Detector Scientist – PET Electronics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31580/Staff-Detector-Scientist-PET-Electronics"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Robotics Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31108/Robotics-Engineer"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Supply Chain Specialist – Customer Logistics & Materials Planning",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31639/Supply-Chain-Specialist-Customer-Logistics-Materials-Planning"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Clinical Applications Specialist—Dosimetrist (Traveling Position)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31612/Clinical-Applications-Specialist—Dosimetrist-Traveling-Position"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Scientist, MR R&D Collaborations",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30903/Sr-Scientist-MR-R-D-Collaborations"
+  },
+  {
+   "at": "2026-11-11T11:10:03+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum - Entwicklung Sichtsysteme (m/w/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-11T11:10:37+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.225) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T10:56:26+00:00",
+ "last_run": "2026-11-11T11:11:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
