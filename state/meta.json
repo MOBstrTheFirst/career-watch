@@ -1,5 +1,5 @@
 {
- "alerts": 156,
+ "alerts": 164,
  "commands_set": true,
  "events": [
   {
@@ -1329,12 +1329,84 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.135.67) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T08:11:29+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "SAP Spezialist (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SAP-Spezialist-w-m-d/306921"
+  },
+  {
+   "at": "2026-11-11T08:08:37+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.191.173.96) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T08:08:37+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.191.173.96) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T08:09:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.206.109) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T08:09:49+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Werkstudent - Project Excellence & Automation (w/m/div) München HRC1881846 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972352832?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-11T08:09:49+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "3 new text line(s), e.g. Praktikum - Wettbewerbsanalyse Produkt (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-11T08:10:29+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Entwicklungsingenieur Infrarot Systeme m/w/d 11.11.2026 Forschung/Entwicklung/Engineering Heilbronn",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-infrarot-systeme-m-w-d"
+  },
+  {
+   "at": "2026-11-11T08:10:29+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Entwicklungsingenieur (m/w/d) für Software Architektur, Methoden & Lebenszyklus - 260445 11.11.2026 Forschung/Entwicklung/Engineering Rö",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-fuer-software-architektur-methoden-lebenszyklus-260445"
+  },
+  {
+   "at": "2026-11-11T08:10:29+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.101.230) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T07:56:11+00:00",
+ "last_run": "2026-11-11T08:11:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
