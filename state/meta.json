@@ -1,5 +1,5 @@
 {
- "alerts": 219,
+ "alerts": 225,
  "commands_set": true,
  "events": [
   {
@@ -1929,12 +1929,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 145.132.103.67) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T10:25:53+00:00",
+   "kind": "new",
+   "site": "Cadence Design",
+   "star": true,
+   "title": "Intern Agentic AI Workflow Development & Validation for Digital Design (f/m/d)",
+   "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159?locations=6418637d4d5010bf8a99e1c9d7646160"
+  },
+  {
+   "at": "2026-11-11T10:25:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Working Student (f/m/d) Cybersecurity Portfolio Innovation",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Cybersecurity-Portfolio-Innovation/307068"
+  },
+  {
+   "at": "2026-11-11T10:23:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.60.234) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T10:23:47+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.60.234) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T10:24:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.3.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T10:25:25+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.53.242) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T10:11:57+00:00",
+ "last_run": "2026-11-11T10:26:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
