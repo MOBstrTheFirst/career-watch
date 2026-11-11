@@ -1,5 +1,5 @@
 {
- "alerts": 64,
+ "alerts": 69,
  "commands_set": true,
  "events": [
   {
@@ -521,12 +521,124 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.124.87.179) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T02:23:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.76.52) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T02:23:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.76.52) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Thesis/Research project: Analysis of topography and electrochemical influence of cracks in PEM FCs",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-ThesisResearch-project-Analysis-of-topography-and-electrochemical-influence-of-cracks-in-PEM-FCs-70569/1446742833"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Thesis/Research project: Electrochemical modeling of a PEMFC stack to investigate cracks in the GDL",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-ThesisResearch-project-Electrochemical-modeling-of-a-PEMFC-stack-to-investigate-cracks-in-the-GDL-70569/1446742733"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Abschlussarbeit - Simulationsbasierte Optimierung der Regelung eines Exoskeletts bei Überkopfarbeit",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Abschlussarbeit-Simulationsbasierte-Optimierung-der-Regelung-eines-Exoskeletts-bei-%C3%9Cberkopfarbeit-70569/1447257833"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Masterarbeit urbane Bioökonomie",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Masterarbeit-urbane-Bio%C3%B6konomie-70569/910873901"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Masterarbeit im Bereich Therapeutische Viren",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Masterarbeit-im-Bereich-Therapeutische-Viren-70569/766012901"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Bewirb Dich hier als Wissenschaftliche Hilfskraft",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Wissenschaftliche-Hilfskraft-70569/997556301"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Bewirb Dich hier für eine Abschlussarbeit",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-f%C3%BCr-eine-Abschlussarbeit-70569/1082174201"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Bewirb Dich hier als Pflichtpraktikant*in",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Pflichtpraktikantin-70569/1082174901"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Bewirb Dich hier als Studentische Angestellte*r",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Bewirb-Dich-hier-als-Studentische-Angestellter-70569/997555601"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Master-/Bachelorarbeit/Praktikum Entwicklung und Charakterisierung von Membranen u. Membranverfahren",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-BachelorarbeitPraktikum-Entwicklung-und-Charakterisierung-von-Membranen-u_-Membranverfahren-70569/766001501"
+  },
+  {
+   "at": "2026-11-11T02:25:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.245.164) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T02:25:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.83.161.86) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T02:11:08+00:00",
+ "last_run": "2026-11-11T02:26:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
