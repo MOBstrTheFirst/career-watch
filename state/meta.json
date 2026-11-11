@@ -1,5 +1,5 @@
 {
- "alerts": 171,
+ "alerts": 178,
  "commands_set": true,
  "events": [
   {
@@ -1457,12 +1457,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.115.62.74) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-11T08:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.71.39) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-11T08:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.71.39) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-11T08:38:44+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Serviceassistent (m/w/d)",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22114"
+  },
+  {
+   "at": "2026-11-11T08:38:44+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Operational Resilience Coordinator - CVS (m/f/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Operational-Resilience-Coordinator-CVS-%28mfd%29-80809/1445671433"
+  },
+  {
+   "at": "2026-11-11T08:39:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.214.243) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-11T08:40:30+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Projektleiter Space (m/w/d) 11.11.2026 Forschung/Entwicklung/Engineering Heilbronn",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/projektleiter-space-m-w-d"
+  },
+  {
+   "at": "2026-11-11T08:40:30+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Arbeitsvorbereiter (m/w/d) Faserverbundtechnik 09.11.2026 Produktion Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/arbeitsvorbereiter-m-w-d-faserverbundtechnik"
+  },
+  {
+   "at": "2026-11-11T08:40:30+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.252.244.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-11T08:25:48+00:00",
+ "last_run": "2026-11-11T08:40:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-10",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
