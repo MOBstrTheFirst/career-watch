@@ -1,39 +1,7 @@
 {
- "alerts": 484,
+ "alerts": 488,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-12T02:24:03+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.171.15.19) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": true,
-   "title": "Master Thesis: Development of a green reactor for wastewater treatment",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-Thesis-Development-of-a-green-reactor-for-wastewater-treatment-70569/842633101"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": true,
-   "title": "Masterarbeit: Entwicklung eines grünen Reaktors zur Reinigung von Abwasser",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Masterarbeit-Entwicklung-eines-gr%C3%BCnen-Reaktors-zur-Reinigung-von-Abwasser-70569/842633001"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": true,
-   "title": "Master Thesis: Class-aware Pointcloud Filtering and Matching for Long-Term SLAM",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-Thesis-Class-aware-Pointcloud-Filtering-and-Matching-for-Long-Term-SLAM-70569/1426836433"
-  },
   {
    "at": "2026-11-12T02:25:15+00:00",
    "kind": "new",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.102.91) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T21:39:22+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.150.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T21:39:22+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.150.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T21:39:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.219.178) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T21:40:27+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.211.26) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T21:26:43+00:00",
+ "last_run": "2026-11-12T21:40:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
