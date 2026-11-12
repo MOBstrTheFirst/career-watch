@@ -1,5 +1,5 @@
 {
- "alerts": 246,
+ "alerts": 252,
  "commands_set": true,
  "events": [
   {
@@ -2265,12 +2265,60 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25020204?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25020204?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-12T10:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.95.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T10:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.95.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T10:53:44+00:00",
+   "kind": "new",
+   "site": "Valeo",
+   "star": true,
+   "title": "Werkstudent Energiemonitoring",
+   "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Bietigheim-Bissingen/Werkstudent-Energiemonitoring_REQ2026083472-1?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000"
+  },
+  {
+   "at": "2026-11-12T10:54:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.62.255.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T10:55:34+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Metall CNC-Einrichter Dreh- und Frästechnik (m/w/d) 12.11.2026 Produktion Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/cnc-einrichter-dreh-und-fraestechnik-m-w-d"
+  },
+  {
+   "at": "2026-11-12T10:55:34+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.166.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T10:41:45+00:00",
+ "last_run": "2026-11-12T10:56:06+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
