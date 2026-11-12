@@ -1,11 +1,44 @@
 {
- "alerts": 0,
+ "alerts": 4,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-12T23:08:41+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.40) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T23:08:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.40) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T23:09:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.49.15.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T23:10:15+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": false,
+   "title": "Primärdisponent (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Prim%C3%A4rdisponent-%28wmd%29-89077/1375994055"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T22:57:00+00:00",
+ "last_run": "2026-11-12T23:11:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
