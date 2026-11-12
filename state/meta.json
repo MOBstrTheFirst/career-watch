@@ -1,5 +1,5 @@
 {
- "alerts": 346,
+ "alerts": 351,
  "commands_set": true,
  "events": [
   {
@@ -3177,12 +3177,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.228.73) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T14:53:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.124.192) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T14:53:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.124.192) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T14:55:23+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 158.23.190.104) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T14:55:23+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Specialist PSIRT Process and Communication Management (f/m/div) München HRC1883670 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972357612?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T14:55:23+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Cyber Security Specialist – Vulnerability Management (f/m/div) Porto (Maia) HRC1828114 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972151656?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T14:55:23+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Specialist Account Management (f/m/div) München HRC1821961 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972115685?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T14:55:23+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Facility Management (w/m/div) Dresden HRC1738249",
+   "url": "https://jobs.infineon.com/careers/job/563808971792691?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T14:55:24+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.199.87) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T14:40:56+00:00",
+ "last_run": "2026-11-12T14:56:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
