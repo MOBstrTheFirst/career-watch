@@ -1,5 +1,5 @@
 {
- "alerts": 230,
+ "alerts": 238,
  "commands_set": true,
  "events": [
   {
@@ -2049,12 +2049,84 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.164.19) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T10:25:18+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Engineer Antriebstechnik Schiffbau (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Engineer-Antriebstechnik-Schiffbau-w-m-d/307349"
+  },
+  {
+   "at": "2026-11-12T10:25:18+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Lead Engineer Schaltanlagen (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Lead-Engineer-Schaltanlagen-w-m-d/307352"
+  },
+  {
+   "at": "2026-11-12T10:23:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.83.42.111) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T10:23:59+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.83.42.111) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T10:23:59+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Entwicklung digitaler Zugangs- & Autorisierungssysteme Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklung-digitaler-zugangs-and-autorisierungssysteme-246444-mer0004add"
+  },
+  {
+   "at": "2026-11-12T10:25:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.55.118.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T10:25:17+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Data Engineering",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524911"
+  },
+  {
+   "at": "2026-11-12T10:25:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.159.177) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T10:25:26+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25020219?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25020219?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T10:11:51+00:00",
+ "last_run": "2026-11-12T10:25:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
