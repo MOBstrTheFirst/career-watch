@@ -1,5 +1,5 @@
 {
- "alerts": 185,
+ "alerts": 193,
  "commands_set": true,
  "events": [
   {
@@ -1609,12 +1609,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.214.151.83) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T08:41:16+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Service Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100086/Customer-Service-Engineer"
+  },
+  {
+   "at": "2026-11-12T08:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.136) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T08:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.136) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T08:38:44+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": true,
+   "title": "Internship - App Store & Companion App Development (m/f/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-App-Store-&-Companion-App-Development-%28mfd%29-85053/1456711733"
+  },
+  {
+   "at": "2026-11-12T08:38:44+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Transportlogistik und Transport Network Management Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 11.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-transportlogistik-und-transport-network-management-246383-mer000495s"
+  },
+  {
+   "at": "2026-11-12T08:40:23+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.89.246) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T08:40:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.250.234.22) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T08:40:16+00:00",
+   "kind": "new",
+   "site": "Hitachi (Hitachi Rail)",
+   "star": false,
+   "title": "View Job",
+   "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R1011885_Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T08:26:22+00:00",
+ "last_run": "2026-11-12T08:41:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
