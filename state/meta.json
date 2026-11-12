@@ -1,5 +1,5 @@
 {
- "alerts": 398,
+ "alerts": 403,
  "commands_set": true,
  "events": [
   {
@@ -3753,12 +3753,92 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.80.79.86) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.148.6.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.148.6.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197615 Praktikant Projektmanagement Fahrzeugprojekt (w/m/x) Veröffentlicht: 12.11.2026 Strategie / Projektmanagement München Neu Strategie / Projektma",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197615.html"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197557 Praktikant KI- und AI-Strategie in der Fahrzeugentwicklung (w/m/x) Veröffentlicht: 12.11.2026 Gesamtfahrzeug München Neu Gesamtfahrzeug München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197557.html"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197378 Praktikant Customer Experience BMW M (w/m/x) Veröffentlicht: 12.11.2026 Kundenerlebnis München Neu Kundenerlebnis München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197378.html"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197175 Praktikant Webentwicklung und Business Intelligence (w/m/x) Veröffentlicht: 12.11.2026 Data Science Dingolfing Neu Data Science Dingolfing Ding",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197175.html"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "196393 Praktikant Logistikplanung für die Innenausstattung (w/m/x) Veröffentlicht: 12.11.2026 Logistikplanung München Neu Logistikplanung München Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196393.html"
+  },
+  {
+   "at": "2026-11-12T16:38:58+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "195447 Praktikant Digitale Prozessentwicklung mit Microsoft Power Platform (w/m/x) Veröffentlicht: 12.11.2026 Facility Management München Neu Facility",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.195447.html"
+  },
+  {
+   "at": "2026-11-12T16:40:29+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.44.186) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T16:40:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.109.81) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T16:28:06+00:00",
+ "last_run": "2026-11-12T16:41:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
