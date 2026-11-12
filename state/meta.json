@@ -1,5 +1,5 @@
 {
- "alerts": 163,
+ "alerts": 169,
  "commands_set": true,
  "events": [
   {
@@ -1433,12 +1433,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.154.245.234) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T07:49:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.204.100) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T07:49:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.204.100) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T07:50:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 51.57.154.87) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T07:50:48+00:00",
+   "kind": "new",
+   "site": "Bosch – Ulm",
+   "star": true,
+   "title": "Praktikum im Vertrieb für Automatisierungssoftware",
+   "url": "https://jobs.bosch.com/en/job/REF291796F-praktikum-im-vertrieb-fuer-automatisierungssoftware"
+  },
+  {
+   "at": "2026-11-12T07:51:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.23.153) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T07:51:11+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - Data and AI (Artificial Intelligence) Analyst Singapur HRC1849260_1 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972243779?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T07:41:07+00:00",
+ "last_run": "2026-11-12T07:52:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 37,
+ "runs": 38,
  "tg_offset": 297408924
 }
