@@ -1,5 +1,5 @@
 {
- "alerts": 357,
+ "alerts": 363,
  "commands_set": true,
  "events": [
   {
@@ -3289,12 +3289,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.37.180) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T15:26:26+00:00",
+   "kind": "new",
+   "site": "Intel",
+   "star": true,
+   "title": "Software Engineering Undergraduate Intern (f/m/d)",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923?locations=1e4a4eb3adf101311d06d076bf815ccf"
+  },
+  {
+   "at": "2026-11-12T15:23:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.100.22) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T15:23:58+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.100.22) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T15:23:58+00:00",
+   "kind": "new",
+   "site": "Valeo",
+   "star": true,
+   "title": "Working Student - Manufacturing Development ePowertrain",
+   "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Erlangen/Working-Student---Manufacturing-Development-ePowertrain_REQ2026083100?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000"
+  },
+  {
+   "at": "2026-11-12T15:25:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.42.192) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T15:25:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.59.131) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T15:11:36+00:00",
+ "last_run": "2026-11-12T15:26:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
