@@ -1,5 +1,5 @@
 {
- "alerts": 374,
+ "alerts": 381,
  "commands_set": true,
  "events": [
   {
@@ -3521,12 +3521,84 @@
    "star": false,
    "title": "Sales Manager (w/m/div.) / Vertriebsspezialist (w/d/div.) für Brandmeldetechnik für die Region Mannheim / Heidelberg",
    "url": "https://jobs.bosch.com/en/job/REF295909G-sales-manager-w-m-div-vertriebsspezialist-w-d-div-fuer-brandmeldetechnik-fuer-die-region-mannheim-heidelberg"
+  },
+  {
+   "at": "2026-11-12T15:53:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.117.145) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T15:53:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.117.145) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T15:55:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.57.226) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T15:55:11+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Application Manager- Robo-motive Shanghai HRC1749353",
+   "url": "https://jobs.infineon.com/careers/job/563808971831656?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:55:11+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager Product Management HV GaN Shenzhen, 深圳 + 1 more HRC1786213",
+   "url": "https://jobs.infineon.com/careers/job/563808971950425?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:55:11+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Join the Siemens Graduate Program Germany, Digital Industries Automation, Research & Development(f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528844"
+  },
+  {
+   "at": "2026-11-12T15:55:11+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Shape your future -Join the Siemens Graduate Program Germany, Siemens Digital Industries Automation - Communication and Power (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528307"
+  },
+  {
+   "at": "2026-11-12T15:55:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.204.246) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T15:55:55+00:00",
+   "kind": "new",
+   "site": "Thales – Ulm",
+   "star": false,
+   "title": "Account Manager IS-IT H/F",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0320178/Account-Manager-IS-IT-H-F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T15:41:17+00:00",
+ "last_run": "2026-11-12T15:56:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
