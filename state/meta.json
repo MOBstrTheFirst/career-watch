@@ -1,5 +1,5 @@
 {
- "alerts": 238,
+ "alerts": 246,
  "commands_set": true,
  "events": [
   {
@@ -2121,12 +2121,156 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25020219?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25020219?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-12T10:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.92.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T10:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.92.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T10:38:44+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (173)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-12T10:39:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.49.15.0) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T10:39:49+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Head of Process Management & Framework Architecture (w/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529348"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.232.224.88) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "(Senior) Specialist Reliability (w/m/div) Regensburg HRC1787830 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971975652?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Engineer / Senior Engineer Reliability and Qualification Singapur HRC1823167",
+   "url": "https://jobs.infineon.com/careers/job/563808972256779?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Quality Engineer for Product Reliability Budapest HRC1871764",
+   "url": "https://jobs.infineon.com/careers/job/563808972316226?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Engineer / Senior Engineer Reliability & Qualification Singapur HRC1871150",
+   "url": "https://jobs.infineon.com/careers/job/563808972313609?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer Reliability Product Testing Malakka HRC1854276",
+   "url": "https://jobs.infineon.com/careers/job/563808972258698?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer Reliability & Qualification Singapur HRC1876228",
+   "url": "https://jobs.infineon.com/careers/job/563808972332936?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Engineer / Senior Engineer Reliability (Advanced Packaging Technologies / Surface Mount Technology) Manila HRC1751411",
+   "url": "https://jobs.infineon.com/careers/job/563808971865117?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer Board Level Reliability Samut Prakan HRC1803691",
+   "url": "https://jobs.infineon.com/careers/job/563808972020564?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer Reliability Product Testing Wuxi HRC1869219",
+   "url": "https://jobs.infineon.com/careers/job/563808972300205?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Specialist Test Engineering (f/m/div) Padua (Padova) HRC1817268 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972078931?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Staff Engineer Bangalore BTP HRC1822314 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972123716?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T10:40:19+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25020204?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25020204?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T10:25:38+00:00",
+ "last_run": "2026-11-12T10:41:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
