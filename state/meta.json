@@ -1,5 +1,5 @@
 {
- "alerts": 193,
+ "alerts": 198,
  "commands_set": true,
  "events": [
   {
@@ -1673,12 +1673,60 @@
    "star": false,
    "title": "View Job",
    "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R1011885_Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany"
+  },
+  {
+   "at": "2026-11-12T08:53:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.104.156.177) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T08:53:48+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.104.156.177) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T08:53:48+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in weltweite Transportlogistik, Transport Network Management Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-weltweite-transportlogistik-transport-network-management-246399-mer000495r"
+  },
+  {
+   "at": "2026-11-12T08:53:48+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Intern AI & Way of Working MB.OS Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/intern-ai-and-way-of-working-mbos-246405-mer0004aeq"
+  },
+  {
+   "at": "2026-11-12T08:55:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.3.231.117) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T08:55:05+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.54.129) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T08:41:37+00:00",
+ "last_run": "2026-11-12T08:55:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
