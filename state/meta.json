@@ -1,39 +1,7 @@
 {
- "alerts": 488,
+ "alerts": 492,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": true,
-   "title": "Study/final thesis: Dynamic Obstacle Prediction for Autonomous Outdoor Navigation",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studyfinal-thesis-Dynamic-Obstacle-Prediction-for-Autonomous-Outdoor-Navigation-70569/1426843433"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": true,
-   "title": "Master Thesis: Long-term Global Mapping for Autonomous Outdoor Navigation",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-Thesis-Long-term-Global-Mapping-for-Autonomous-Outdoor-Navigation-70569/1426841633"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": false,
-   "title": "Wissenschaftliche*r Mitarbeiter*in Physical AI für mobile und humanoide Robotik (Promotionsmöglich.)",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Wissenschaftlicher-Mitarbeiterin-Physical-AI-f%C3%BCr-mobile-und-humanoide-Robotik-%28Promotionsm%C3%B6glich_%29-70569/1405538633"
-  },
-  {
-   "at": "2026-11-12T02:25:15+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Stuttgart",
-   "star": false,
-   "title": "Wissenschaftliche*r Mitarbeiter*in - Physical AI für Roboterprogrammierung mit Promotionsmöglichkeit",
-   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Wissenschaftlicher-Mitarbeiterin-Physical-AI-f%C3%BCr-Roboterprogrammierung-mit-Promotionsm%C3%B6glichkeit-70569/1436933133"
-  },
   {
    "at": "2026-11-12T02:25:15+00:00",
    "kind": "text",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.211.26) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T21:54:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.171) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T21:54:31+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.171) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T21:55:19+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.159.23.195) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T21:55:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.212.52) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T21:40:53+00:00",
+ "last_run": "2026-11-12T21:56:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 95,
+ "runs": 96,
  "tg_offset": 297408924
 }
