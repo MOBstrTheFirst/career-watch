@@ -1,5 +1,5 @@
 {
- "alerts": 114,
+ "alerts": 119,
  "commands_set": true,
  "events": [
   {
@@ -1025,12 +1025,52 @@
    "star": false,
    "title": "https://www.rheinmetall.com/de/job/system_ingenieur__m_w_d_/1216598",
    "url": "https://www.rheinmetall.com/de/job/system_ingenieur__m_w_d_/1216598"
+  },
+  {
+   "at": "2026-11-12T05:26:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": true,
+   "title": "Microwave and Linac Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29376/Microwave-and-Linac-Scientist"
+  },
+  {
+   "at": "2026-11-12T05:23:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.42.210) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T05:23:43+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.42.210) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T05:24:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.124.223) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T05:25:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.119.188) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T05:11:07+00:00",
+ "last_run": "2026-11-12T05:26:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 27,
+ "runs": 28,
  "tg_offset": 297408924
 }
