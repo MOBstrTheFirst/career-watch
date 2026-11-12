@@ -1,5 +1,5 @@
 {
- "alerts": 316,
+ "alerts": 322,
  "commands_set": true,
  "events": [
   {
@@ -2841,12 +2841,132 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.232.201.44) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T13:38:41+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.171.15.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T13:38:41+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.171.15.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T13:38:41+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Lieferantenkapazitätsmanagement Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-lieferantenkapazitatsmanagement-246470-mer0004ab7"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.230.30) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Automation & Digitalization for IP Development (f/m/div) München (Deutschland) HRC1551743 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808969520244?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Material Handling Automation Batam HRC1803541",
+   "url": "https://jobs.infineon.com/careers/job/563808972244245?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Engineer Test Development and Automation Kulim HRC1869892 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972312382?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Analog Mixed-Signal Verification Bangalore BTP HRC1668464 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971219634?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Digital IP (f/m/div) Dresden (Deutschland) HRC1718050 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971706543?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Circuit Simulator Frontend Development (f/m/div) Munich (Germany) + 1 more HRC1673009 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971241199?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff / Senior Staff Engineer Digital Design (RTL Design) Singapur HRC1839431",
+   "url": "https://jobs.infineon.com/careers/job/563808972187503?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff / Senior Staff Engineer - Design Application Engineering Tokio HRC1326270 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808961600030?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Embedded Engineer (C language) (f/m/div) Lviv (Ukraine) 125254 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808968778092?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff/Staff Engineer Metrology Kulim HRC1815154",
+   "url": "https://jobs.infineon.com/careers/job/563808972071516?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T13:40:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.180.151.112) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T13:26:36+00:00",
+ "last_run": "2026-11-12T13:41:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
