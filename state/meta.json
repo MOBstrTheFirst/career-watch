@@ -1,5 +1,5 @@
 {
- "alerts": 363,
+ "alerts": 374,
  "commands_set": true,
  "events": [
   {
@@ -3337,12 +3337,196 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.59.131) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T15:40:58+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Praktikum im Bereich Digital Learning und SAP S/4HANA Training",
+   "url": "https://jobs.bosch.com/en/job/REF299617P-praktikum-im-bereich-digital-learning-und-sap-s-4hana-training"
+  },
+  {
+   "at": "2026-11-12T15:40:58+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum Hyperautomation und Business Process Management",
+   "url": "https://jobs.bosch.com/en/job/REF299105R-pflichtpraktikum-hyperautomation-und-business-process-management"
+  },
+  {
+   "at": "2026-11-12T15:40:58+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": false,
+   "title": "Senior Consultant SAP S/4 HANA Supply Chain Management EWM (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF296657N-senior-consultant-sap-s-4-hana-supply-chain-management-ewm-w-m-div"
+  },
+  {
+   "at": "2026-11-12T15:39:21+00:00",
+   "kind": "new",
+   "site": "Bosch – Karlsruhe",
+   "star": true,
+   "title": "Pflichtpraktikum im Produktmanagement - Bereich Vehicle Motion",
+   "url": "https://jobs.bosch.com/en/job/REF300794P-pflichtpraktikum-im-produktmanagement-bereich-vehicle-motion"
+  },
+  {
+   "at": "2026-11-12T15:39:21+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.2.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-12T15:39:21+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.2.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.83.160.139) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Praktikum im strategischen Key Account Management - Akku Allianzen und Private Label",
+   "url": "https://jobs.bosch.com/en/job/REF300780A-praktikum-im-strategischen-key-account-management-akku-allianzen-und-private-label"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Bosch – Nürnberg",
+   "star": true,
+   "title": "Pflichtpraktikum in der Kunden- und Beschaffungsplanung",
+   "url": "https://jobs.bosch.com/en/job/REF300786B-pflichtpraktikum-in-der-kunden-und-beschaffungsplanung"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Bosch – Nürnberg",
+   "star": false,
+   "title": "Facharbeiter (w/m/div.) im Fertigungsumfeld - befristet",
+   "url": "https://jobs.bosch.com/en/job/REF299477H-facharbeiter-w-m-div-im-fertigungsumfeld-befristet"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal Engineer Product Definition and Platform Methodology (f/m/div) München HRC1825769 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972247371?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal Application Engineer for Automotive High-Voltage Discrete Power Products (f/m/div) Villach HRC1809151 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972057944?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Product Definition Engineer for Automotive SiC Chips and Discrete Product for Inverter (f/m/div) Munich + 1 more HRC1811868 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972066757?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal Product Definition Engineer Warwick, RI HRC1775147 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971904544?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal Applications Engineer PoL Definition Raleigh, NC HRC1555044 Hybrid Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808969734860?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal / Senior Staff Engineer Unit Process Development Samut Prakan, Thailand HRC1874194",
+   "url": "https://jobs.infineon.com/careers/job/563808972324968?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal Engineer - Applications Engineering Bangalore BTP HRC1839508 Unternehmenspriorität",
+   "url": "https://jobs.infineon.com/careers/job/563808972211462?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal Engineer El Segundo, CA HRC1745547",
+   "url": "https://jobs.infineon.com/careers/job/563808971834010?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal Engineer Yield and Product Engineering Malakka HRC1609815",
+   "url": "https://jobs.infineon.com/careers/job/563808971200479?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:43+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal Engineer Package Innovation Malakka HRC1753329",
+   "url": "https://jobs.infineon.com/careers/job/563808971883443?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-12T15:40:12+00:00",
+   "kind": "new",
+   "site": "Bosch – München – Neuperlach",
+   "star": true,
+   "title": "Praktikum im Strategischen Einkauf",
+   "url": "https://jobs.bosch.com/en/job/REF300788B-praktikum-im-strategischen-einkauf"
+  },
+  {
+   "at": "2026-11-12T15:40:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.233.118.85) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-12T15:40:12+00:00",
+   "kind": "new",
+   "site": "Bosch – Walldorf",
+   "star": false,
+   "title": "Sales Manager (w/m/div.) / Vertriebsspezialist (w/d/div.) für Brandmeldetechnik für die Region Mannheim / Heidelberg",
+   "url": "https://jobs.bosch.com/en/job/REF295909G-sales-manager-w-m-div-vertriebsspezialist-w-d-div-fuer-brandmeldetechnik-fuer-die-region-mannheim-heidelberg"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-12T15:26:56+00:00",
+ "last_run": "2026-11-12T15:41:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-11",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
