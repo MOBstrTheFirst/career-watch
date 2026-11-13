@@ -1,5 +1,5 @@
 {
- "alerts": 237,
+ "alerts": 243,
  "commands_set": true,
  "events": [
   {
@@ -2041,12 +2041,60 @@
    "star": false,
    "title": "5. Senior Engineer Reliability",
    "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-13T10:53:49+00:00",
+   "kind": "new",
+   "site": "Bosch – Ansbach",
+   "star": true,
+   "title": "Praktikum Beschaffungsplanung in der Logistik (Supply Chain)",
+   "url": "https://jobs.bosch.com/en/job/REF295648Q-praktikum-beschaffungsplanung-in-der-logistik-supply-chain"
+  },
+  {
+   "at": "2026-11-13T10:53:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.94.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T10:53:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.94.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T10:55:19+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.131.39) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T10:55:19+00:00",
+   "kind": "possible",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Shape your future - Join the Siemens Graduate Program Germany, Siemens Digital Industries Automation - Communication and Power (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42387=%5B814103%2C813141%5D&42387_format=17547&listFilterMode=1&folderRecordsPerPage=6&folderOffset=0"
+  },
+  {
+   "at": "2026-11-13T10:55:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.134.212) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T10:42:00+00:00",
+ "last_run": "2026-11-13T10:56:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
