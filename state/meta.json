@@ -1,5 +1,5 @@
 {
- "alerts": 183,
+ "alerts": 191,
  "commands_set": true,
  "events": [
   {
@@ -1553,12 +1553,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.80.211) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T09:10:43+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Team Lead D6/G4 (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Team-Lead-D6-G4-f-m-d/304556"
+  },
+  {
+   "at": "2026-11-13T09:08:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.247.174) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T09:08:46+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.247.174) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T09:08:46+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Senior SAP EWM Consultant (all genders)",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=9649"
+  },
+  {
+   "at": "2026-11-13T09:08:46+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Projektmanager Corporate Events & Sponsoring (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Projektmanager-Corporate-Events-&-Sponsoring-%28mwd%29-80809/1457120233"
+  },
+  {
+   "at": "2026-11-13T09:09:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 51.57.144.210) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T09:10:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.115.112) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T09:10:33+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental automotive)",
+   "star": true,
+   "title": "Praktikum - Flächenmanagement / Real Estate Job ID: REF82550T",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82550T-p-f42ca67bbab6dfe97a89a7af54d1788d/praktikum-flaechenmanagement-real-estate?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T08:56:21+00:00",
+ "last_run": "2026-11-13T09:11:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
