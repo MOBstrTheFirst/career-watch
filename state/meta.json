@@ -1,5 +1,5 @@
 {
- "alerts": 286,
+ "alerts": 292,
  "commands_set": true,
  "events": [
   {
@@ -2457,12 +2457,60 @@
    "star": true,
    "title": "Werkstudent Data Engineering & Backend (w/m/div.)",
    "url": "https://jobs.bosch.com/en/job/REF300853P-werkstudent-data-engineering-backend-w-m-div"
+  },
+  {
+   "at": "2026-11-13T12:56:06+00:00",
+   "kind": "new",
+   "site": "Analog Devices",
+   "star": false,
+   "title": "System Applications Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich-Otl-Aicher-Strasse/Staff-Engineer--System-Applications-Engineer_R262714?locations=633b03df4f5d1000e7e5c5dff3800000&locations=c057160fc3ff10010d4a00c83f920000&locations=d2ea4eaa412f1001551c71e338ea0000"
+  },
+  {
+   "at": "2026-11-13T12:53:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.201.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T12:53:56+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.201.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T12:55:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.106.128) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T12:55:16+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Projektspezialist (w/m/d) Mittelspannungsschaltanlagen",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529393"
+  },
+  {
+   "at": "2026-11-13T12:55:57+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.55) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T12:41:30+00:00",
+ "last_run": "2026-11-13T12:56:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
