@@ -1,5 +1,5 @@
 {
- "alerts": 313,
+ "alerts": 321,
  "commands_set": true,
  "events": [
   {
@@ -3089,12 +3089,572 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.253.232) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": true,
+   "title": "Internship for Mechatronics at Innovation Strategy & Ecosystem",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101393/Internship-for-Mechatronics-at-Innovation-Strategy-Ecosystem"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Solution Architect and Implementation (Digital & Automation)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101383/Solution-Architect-and-Implementation-Digital-Automation"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Buyer (FTC)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101384/Buyer-FTC"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior AI/ML Scientist – Neurointerventional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27443/Senior-AI-ML-Scientist-Neurointerventional"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "AI/ML Scientist - Neuroclinical AI",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27447/AI-ML-Scientist-Neuroclinical-AI"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Industrial Maintenance / Cyclotron Service Technician - OVERLAND PARK, KS",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27512/Industrial-Maintenance-Cyclotron-Service-Technician-OVERLAND-PARK-KS"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Vice President, Value Partnerships DX",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30724/Vice-President-Value-Partnerships-DX"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Business Development Director – Molecular Imaging National Imaging Centers",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30729/Business-Development-Director-Molecular-Imaging-National-Imaging-Centers"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Maintenance Technician (3rd Shift)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30755/Maintenance-Technician-3rd-Shift"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Laboratory Technical Training Specialist / FlexForce Start-Up Tech- Tarrytown, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30757/Laboratory-Technical-Training-Specialist-FlexForce-Start-Up-Tech-Tarrytown-NY"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Service Engineer (Union) - CT/MR - Albany, NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30766/Customer-Service-Engineer-Union-CT-MR-Albany-NY"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior IT Project Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30800/Senior-IT-Project-Manager"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Director, NDD Business Development: Health Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30806/Director-NDD-Business-Development-Health-Systems"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Success Manager - New York Metro",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30809/Customer-Success-Manager-New-York-Metro"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Director, NDD Business Development: Neurology Clinics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30810/Director-NDD-Business-Development-Neurology-Clinics"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior Research Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30811/Senior-Research-Scientist"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Maintenance Technician (2nd Shift)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30818/Maintenance-Technician-2nd-Shift"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Laboratory Technician-1",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30819/Laboratory-Technician-1"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "R&D Medical Physicist (On-site, Palo Alto, CA)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30822/R-D-Medical-Physicist-On-site-Palo-Alto-CA"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Healthcare Informatics Sales Executive - Rocky Mountains Territory",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30833/Healthcare-Informatics-Sales-Executive-Rocky-Mountains-Territory"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Contract Management Business Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30842/Contract-Management-Business-Manager"
+  },
+  {
+   "at": "2026-11-13T13:56:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Imaging Field Service Engineer - Sacramento, CA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30870/Medical-Imaging-Field-Service-Engineer-Sacramento-CA"
+  },
+  {
+   "at": "2026-11-13T13:54:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.162) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T13:54:17+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.162) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T13:54:17+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Member of Management Evolution Programme/Trainee (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Member-of-Management-Evolution-ProgrammeTrainee-%28mwd%29-80809/1452456433"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.251.164) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Intern- System Architect Livonia + 1 more HRC1660929 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970999108?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Business Development (Robotics) Seoul HRC1859070 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972262801?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Bachelor Thesis - Artificial Intelligence in Microcontroller (f/m/div) Villach HRC1545800 Vor Ort",
+   "url": "https://jobs.infineon.com/careers/job/563808969442494?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager System Architect Automotive Microcontroller Robotics (f/m/div) München HRC1869030 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972355571?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal System Architect Engineer - ADAS/AD Compute (f/m/div) Padua (Padova) HRC1786461 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972062779?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Specialist Automotive Microcontroller Product Support Bangkok HRC1873635",
+   "url": "https://jobs.infineon.com/careers/job/563808972324452?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager Robotics Application, Global Application Management (f/m/div) Shenzhen + 3 more HRC1514702 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808969097357?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal SoC Architect (f/m/div) München HRC1707489 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971595297?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Application Engineer for Automotive Microcontroller (f/m/div) Padua (Padova) HRC1751720 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971847376?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Internship for Mechatronics at Innovation Strategy & Ecosystem",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101393/Internship-for-Mechatronics-at-Innovation-Strategy-Ecosystem"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Solution Architect and Implementation (Digital & Automation)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101383/Solution-Architect-and-Implementation-Digital-Automation"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Buyer (FTC)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-101384/Buyer-FTC"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "AI/ML Scientist - Neuroclinical AI",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27447/AI-ML-Scientist-Neuroclinical-AI"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Industrial Maintenance / Cyclotron Service Technician - OVERLAND PARK, KS",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-27512/Industrial-Maintenance-Cyclotron-Service-Technician-OVERLAND-PARK-KS"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmaceutical Lab Technician - CINCINNATI",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29824/Pharmaceutical-Lab-Technician-CINCINNATI"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Industrial Maintenance / Cyclotron Service Technician - WOBURN, MA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29837/Industrial-Maintenance-Cyclotron-Service-Technician-WOBURN-MA"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Quality Control Inspector",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29848/Quality-Control-Inspector"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmaceutical Lab Technician - Indianapolis, IN",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29869/Pharmaceutical-Lab-Technician-Indianapolis-IN"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Solution architect for product ontology and digital twins",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29879/Solution-architect-for-product-ontology-and-digital-twins"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Medical Physicist (Kingsport, TN)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29932/Sr-Medical-Physicist-Kingsport-TN"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regional Informatics Sales Executive (RISE)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30026/Regional-Informatics-Sales-Executive-RISE"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Primary Care Account Executive (Northeast)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30042/Primary-Care-Account-Executive-Northeast"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer - HW - Pensacola, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30075/Field-Service-Engineer-HW-Pensacola-FL"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Developer Co-op - Red River College",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30142/Software-Developer-Co-op-Red-River-College"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Clinical Applications Specialist (Travelling position)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30151/Clinical-Applications-Specialist-Travelling-position"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Lifecycle Analyst",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30176/Customer-Lifecycle-Analyst"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Director Systems Development and Integration - Handheld Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30195/Senior-Director-Systems-Development-and-Integration-Handheld-Systems"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Medical Imaging Field Engineer 2 - Orange County, CA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30198/Medical-Imaging-Field-Engineer-2-Orange-County-CA"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Director of Assay Development and Consumables Integration - Handheld Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30225/Director-of-Assay-Development-and-Consumables-Integration-Handheld-Systems"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Staff Package Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30266/Staff-Package-Engineer"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Industrial Maintenance Technician",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30332/Industrial-Maintenance-Technician"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Plasma Protein Sales Specialist (CA, AZ, NV, OR, WA, ID, MT)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30336/Plasma-Protein-Sales-Specialist-CA-AZ-NV-OR-WA-ID-MT"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Executive Critical Care (NY)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30395/Account-Executive-Critical-Care-NY"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Industrial Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30644/Industrial-Engineer"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Pharmacist - Dania Beach, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29817/Pharmacist-Dania-Beach-FL"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior IT Project Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30800/Senior-IT-Project-Manager"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Director, NDD Business Development: Health Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30806/Director-NDD-Business-Development-Health-Systems"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Success Manager - New York Metro",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30809/Customer-Success-Manager-New-York-Metro"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Director, NDD Business Development: Neurology Clinics",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30810/Director-NDD-Business-Development-Neurology-Clinics"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Maintenance Technician (2nd Shift)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30818/Maintenance-Technician-2nd-Shift"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "R&D Medical Physicist (On-site, Palo Alto, CA)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30822/R-D-Medical-Physicist-On-site-Palo-Alto-CA"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Medical Imaging Field Service Engineer - Sacramento, CA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30870/Medical-Imaging-Field-Service-Engineer-Sacramento-CA"
+  },
+  {
+   "at": "2026-11-13T13:55:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Medical Imaging Field Engineer 2 - Los Angeles, CA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30877/Medical-Imaging-Field-Engineer-2-Los-Angeles-CA"
+  },
+  {
+   "at": "2026-11-13T13:55:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.36.112) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T13:41:29+00:00",
+ "last_run": "2026-11-13T13:56:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
