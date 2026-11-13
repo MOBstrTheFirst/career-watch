@@ -1,255 +1,7 @@
 {
- "alerts": 325,
+ "alerts": 332,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-12T23:08:41+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.40) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-12T23:08:41+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.40) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-12T23:09:40+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.49.15.232) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-12T23:10:15+00:00",
-   "kind": "new",
-   "site": "Hensoldt",
-   "star": false,
-   "title": "Primärdisponent (w/m/d)",
-   "url": "https://jobs.hensoldt.net/job/Ulm-Prim%C3%A4rdisponent-%28wmd%29-89077/1375994055"
-  },
-  {
-   "at": "2026-11-12T23:24:20+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.134) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-12T23:24:20+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.134) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-12T23:24:52+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.19.253) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-12T23:25:16+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.44.237) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-12T23:38:58+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.88.240) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-12T23:38:58+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.88.240) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-12T23:39:58+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.116.93.51) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-12T23:39:58+00:00",
-   "kind": "possible",
-   "site": "Synopsys – Bavaria",
-   "star": false,
-   "title": "SOC Engineering, Senior Engineer",
-   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
-  },
-  {
-   "at": "2026-11-12T23:40:26+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.247.1) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-12T23:53:39+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.60.198) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-12T23:53:39+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.60.198) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-12T23:55:02+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.79.67) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-12T23:55:00+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.112.236.233) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T00:09:04+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.68.244) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T00:09:04+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.68.244) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T00:09:57+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.102.88) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T00:10:28+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.12.245.221) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T00:24:01+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.247.16) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T00:24:01+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.247.16) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T00:25:00+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.127.215.184) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T00:25:19+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.56.66) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T00:38:58+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.152.179) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T00:38:58+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.152.179) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T00:39:42+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.179.6.187) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T00:40:27+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.51.119.252) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T00:53:38+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.24.241) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T00:53:38+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.24.241) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
   {
    "at": "2026-11-13T00:54:48+00:00",
    "kind": "text",
@@ -3681,12 +3433,580 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.22.34) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "MR/CT Cardiac Technologist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29934/MR-CT-Cardiac-Technologist"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Zone General Manager - Southeast",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29977/Zone-General-Manager-Southeast"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Informatics Sales Executive (RISE) (WST)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29978/Regional-Informatics-Sales-Executive-RISE-WST"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29987/Customer-Service-Engineer-Portland-Oregon-Union"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Informatics Sales Executive (RISE)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30026/Regional-Informatics-Sales-Executive-RISE"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Primary Care Account Executive (Northeast)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30042/Primary-Care-Account-Executive-Northeast"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Engineer - HW - Pensacola, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30075/Field-Service-Engineer-HW-Pensacola-FL"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Engineer - HW - Columbia, SC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30085/Field-Service-Engineer-HW-Columbia-SC"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Engineer HW Ithaca NY",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30130/Field-Service-Engineer-HW-Ithaca-NY"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Software Developer Co-op - Red River College",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30142/Software-Developer-Co-op-Red-River-College"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Clinical Applications Specialist (Travelling position)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30151/Clinical-Applications-Specialist-Travelling-position"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Lifecycle Analyst",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30176/Customer-Lifecycle-Analyst"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Manufacturing Technician",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30184/Manufacturing-Technician"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior Director Systems Development and Integration - Handheld Systems",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30195/Senior-Director-Systems-Development-and-Integration-Handheld-Systems"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Imaging Field Engineer 2 - Orange County, CA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30198/Medical-Imaging-Field-Engineer-2-Orange-County-CA"
+  },
+  {
+   "at": "2026-11-13T14:25:32+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Global Trainer Unity Program",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30210/Global-Trainer-Unity-Program"
+  },
+  {
+   "at": "2026-11-13T14:24:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T14:24:31+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.33.82) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification (m/f/div) München HRC1874332 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972342744?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification (f/m/div) Dublin HRC1711421 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971623215?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Engineer Verification -IP Digital Functional Verification Bangalore BTP HRC1819199",
+   "url": "https://jobs.infineon.com/careers/job/563808972118487?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff / Senior Staff Engineer Chip Verification Singapur HRC1844197",
+   "url": "https://jobs.infineon.com/careers/job/563808972204279?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification Ahmedabad (India) + 1 more HRC1417438",
+   "url": "https://jobs.infineon.com/careers/job/563808967680070?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior / Staff Engineer - Digital Functional Verification Singapur HRC1683896",
+   "url": "https://jobs.infineon.com/careers/job/563808971325124?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Validation Bangalore BTP HRC1713546",
+   "url": "https://jobs.infineon.com/careers/job/563808971794175?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification Bangalore BTP HRC1798209",
+   "url": "https://jobs.infineon.com/careers/job/563808972010694?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Digital Verification Hanoi HRC1394686 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808967414102?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Senior Test Engineer - EMC & Product Safety",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31030/Senior-Test-Engineer-EMC-Product-Safety"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Senior Project Engineer - EMC, Product Safety and Environmental Testing",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31032/Senior-Project-Engineer-EMC-Product-Safety-and-Environmental-Testing"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": true,
+   "title": "Masterarbeit - Konzeption einer experimentellen Prüfumgebung für Gleitlager unter Vakuumbedingungen",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100492/Masterarbeit-Konzeption-einer-experimentellen-Prüfumgebung-für-Gleitlager-unter-Vakuumbedingungen"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Field Service Engineer - HW - Phoenix, AZ",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30891/Field-Service-Engineer-HW-Phoenix-AZ"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Solution Architect (Cloud Tenants)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30900/Solution-Architect-Cloud-Tenants"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Strategic Procurement Co-op",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30913/Strategic-Procurement-Co-op"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Materials Development Coop",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30931/Materials-Development-Coop"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Installation Engineer - Linear Accelerators - Western Region - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30933/Installation-Engineer-Linear-Accelerators-Western-Region-Field-Travel"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Medical Imaging Field Engineer - AX/XP - Albany, GA OR Columbus, GA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30942/Medical-Imaging-Field-Engineer-AX-XP-Albany-GA-OR-Columbus-GA"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Medical Dosimetrist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30949/Medical-Dosimetrist"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Director of Operations, ES - Tampa, FL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31008/Director-of-Operations-ES-Tampa-FL"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - New England Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31027/Hemostasis-Sales-Specialist-New-England-Region"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Compliance Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31029/Product-Compliance-Specialist"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Florida Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31044/Hemostasis-Sales-Specialist-Florida-Region"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "MR Collaborations Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31046/MR-Collaborations-Scientist"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - Atlanta / Charlotte Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31047/Hemostasis-Sales-Specialist-Atlanta-Charlotte-Region"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Business Process Automation / IT Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31054/Business-Process-Automation-IT-Professional"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Supply Chain Management Specialist - HOFFMAN ESTATES, IL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31062/Supply-Chain-Management-Specialist-HOFFMAN-ESTATES-IL"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Industrial Maintenance / Cyclotron Service Technician",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31079/Industrial-Maintenance-Cyclotron-Service-Technician"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Embedded Software Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31086/Senior-Embedded-Software-Engineer"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hemostasis Sales Specialist - East Texas Region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31087/Hemostasis-Sales-Specialist-East-Texas-Region"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr. Project Manager & Award Administrator",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31092/Sr-Project-Manager-Award-Administrator"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Research Lead",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31093/Senior-Research-Lead"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Team Lead Software Development / Intelligence Logic",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31096/Team-Lead-Software-Development-Intelligence-Logic"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Developer Computer Vision/ Intelligence Logic",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31097/Software-Developer-Computer-Vision-Intelligence-Logic"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Developer Workflow Orchestration",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31098/Software-Developer-Workflow-Orchestration"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Medical Physicist (Truckee, CA)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31103/Senior-Medical-Physicist-Truckee-CA"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Supply Chain Commodity Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31115/Supply-Chain-Commodity-Manager"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Installation Service Engineer - MR - Remote - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31142/Installation-Service-Engineer-MR-Remote-Field-Travel"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr Mgr, Supplier Quality Management",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31172/Sr-Mgr-Supplier-Quality-Management"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Enterprise Services (ES) Engagement Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31185/Enterprise-Services-ES-Engagement-Manager"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Zone Operations Lead - NE - Cary, NC",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31189/Zone-Operations-Lead-NE-Cary-NC"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Material Handling Operator/Driver",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31197/Material-Handling-Operator-Driver"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Project Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100311/Project-Manager"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "DevOps Tooling /Developer Productivity Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100319/DevOps-Tooling-Developer-Productivity-Engineer"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Manager Commodity Management - Instrument Manufacturing",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100414/Senior-Manager-Commodity-Management-Instrument-Manufacturing"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Radiation Safety Officer (RSO) – Medical Cyclotron Facility",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100416/Radiation-Safety-Officer-RSO-Medical-Cyclotron-Facility"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Manufacturing Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100433/Manufacturing-Manager"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Duales Masterstudium Cyber Security Engineer (M.Sc.) - Erlangen/Forchheim",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100440/Duales-Masterstudium-Cyber-Security-Engineer-M-Sc-Erlangen-Forchheim"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "OTC Contract Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100461/OTC-Contract-Manager"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Business Development Partner CEECA (m/f/d) – Digital Health Solutions",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100471/Business-Development-Partner-CEECA-m-f-d-Digital-Health-Solutions"
+  },
+  {
+   "at": "2026-11-13T14:25:13+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior ECC Expert*in Prozess Design (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100474/Senior-ECC-Expert-in-Prozess-Design-w-m-d"
+  },
+  {
+   "at": "2026-11-13T14:25:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.225.120.123) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T14:11:08+00:00",
+ "last_run": "2026-11-13T14:26:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
