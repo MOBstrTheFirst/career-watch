@@ -1,47 +1,7 @@
 {
- "alerts": 489,
+ "alerts": 494,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-13T11:40:46+00:00",
-   "kind": "new",
-   "site": "Diehl – region sites",
-   "star": true,
-   "title": "Diehl Defence Werkstudent/Praktikant (m/w/d) Qualitätsdaten & SAP-Stammdatenpflege 13.11.2026 Qualitätsmanagement Röthenbach a.d. Pegnitz",
-   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/werkstudent-praktikant-m-w-d-qualitaetsdaten-sap-stammdatenpflege"
-  },
-  {
-   "at": "2026-11-13T11:40:46+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.173.184) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T11:53:49+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.68.161) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T11:53:49+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.68.161) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T11:53:49+00:00",
-   "kind": "new",
-   "site": "Mercedes-Benz – Stuttgart area",
-   "star": true,
-   "title": "Werkstudent*in Future Audio Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.01.2027",
-   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-future-audio-246641-mer0004ahh"
-  },
   {
    "at": "2026-11-13T11:54:36+00:00",
    "kind": "text",
@@ -4001,12 +3961,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.169.198.180) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T21:40:33+00:00",
+   "kind": "new",
+   "site": "MTU Aero Engines",
+   "star": true,
+   "title": "Intern - Production Planning and Control New MTU Aero Engines North America Inc. Fort Worth Operations / Manufacturing / Production read more",
+   "url": "https://www.mtu.de/careers/online-job-market/job-posting/intern-production-planning-and-control"
+  },
+  {
+   "at": "2026-11-13T21:38:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.138) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T21:38:47+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.138) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T21:39:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.140.166) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T21:40:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.232.216.58) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T21:26:32+00:00",
+ "last_run": "2026-11-13T21:40:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 94,
+ "runs": 95,
  "tg_offset": 297408924
 }
