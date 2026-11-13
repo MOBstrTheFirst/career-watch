@@ -1,5 +1,5 @@
 {
- "alerts": 230,
+ "alerts": 237,
  "commands_set": true,
  "events": [
   {
@@ -1961,12 +1961,92 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.62.128) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T10:41:45+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": true,
+   "title": "Werkstudent (d/m/w) für Procurement Operations Digital Solutions",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/Werkstudent--d-m-w--fr-Procurement-Operations-Digital-Solutions_JR10456848?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-13T10:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.225.129) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T10:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.225.129) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T10:40:09+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.178.216) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T10:40:09+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Werkstudent – Laborlogistik und Zuverlässigkeitstests (w/m/div) München, Deutschland HRC1874358",
+   "url": "https://jobs.infineon.com/careers/job/563808972322762?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T10:40:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.152.180.201) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T10:40:35+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "2. Staff Engineer Reliability",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-13T10:40:35+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "3. Quality Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-13T10:40:35+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "4. Reliability Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-13T10:40:35+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "5. Senior Engineer Reliability",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T10:26:49+00:00",
+ "last_run": "2026-11-13T10:42:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
