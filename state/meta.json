@@ -1,39 +1,7 @@
 {
- "alerts": 402,
+ "alerts": 406,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-13T08:38:47+00:00",
-   "kind": "new",
-   "site": "BMW Group",
-   "star": true,
-   "title": "199164 Werkstudent Strategieentwicklung Customer Support (w/m/x) Veröffentlicht: 13.11.2026 Geschäftsentwicklung München Neu Geschäftsentwicklung Münc",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199164.html"
-  },
-  {
-   "at": "2026-11-13T08:38:47+00:00",
-   "kind": "new",
-   "site": "BMW Group",
-   "star": true,
-   "title": "198099 Werkstudent Dealer Development BMW Motorrad (w/m/x) Veröffentlicht: 13.11.2026 Vertriebswegeentwicklung München Neu Vertriebswegeentwicklung Mü",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198099.html"
-  },
-  {
-   "at": "2026-11-13T08:38:47+00:00",
-   "kind": "new",
-   "site": "BMW Group",
-   "star": true,
-   "title": "195720 Werkstudent Service Design und Prozesse (w/m/x) Veröffentlicht: 13.11.2026 Personalstrategie und -planung München Neu Personalstrategie und -pl",
-   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.195720.html"
-  },
-  {
-   "at": "2026-11-13T08:38:47+00:00",
-   "kind": "new",
-   "site": "Mercedes-Benz – Stuttgart area",
-   "star": false,
-   "title": "Serviceassistenz (w/m/d) in der Mercedes-Benz Niederlassung Standort Böblingen Mercedes-Benz Own Retail Stuttgart, Stuttgart Start from: 01.01.2027",
-   "url": "https://jobs.mercedes-benz.com/enUS/serviceassistenz-wmd-in-der-mercedes-benz-niederlassung-standort-boblingen-246566-mer0004aku"
-  },
   {
    "at": "2026-11-13T08:40:21+00:00",
    "kind": "text",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.54.121) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T17:08:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.140.56) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T17:08:51+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.140.56) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T17:09:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.94.65) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T17:10:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.21.130) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T16:56:25+00:00",
+ "last_run": "2026-11-13T17:11:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
