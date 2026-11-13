@@ -1,5 +1,5 @@
 {
- "alerts": 305,
+ "alerts": 313,
  "commands_set": true,
  "events": [
   {
@@ -2617,12 +2617,484 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.34.138) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Foundation AI Research Scientist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29578/Foundation-AI-Research-Scientist"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior Clinical Training & Medical Education Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29591/Senior Clinical Training-Medical-Education-Specialist"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Biochemist I",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29682/Biochemist-I"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Accounting Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29713/Accounting-Professional"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr. Medical Physicist (Milwaukee, WI)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29936/Sr-Medical-Physicist-Milwaukee-WI"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Account Executive, Laboratory Diagnostics - Colorado Springs",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29947/Account-Executive-Laboratory-Diagnostics-Colorado-Springs"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Automation Chemistry & Immunoassay Sales Executive (ACISE) Rocky Mountains",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29948/Automation-Chemistry-Immunoassay-Sales-Executive-ACISE-Rocky-Mountains"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Deployment Implementation Team Business Lead - Customer Services Project Manager in Medical Device Industry",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29958/Deployment-Implementation-Team-Business-Lead-Customer-Services-Project-Manager-in-Medical-Device-Industry"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Account Executive, Lab Diagnostics - Baltimore",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29960/Account-Executive-Lab-Diagnostics-Baltimore"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Customer Service Engineer - Portland, Oregon (Union)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29990/Customer-Service-Engineer-Portland-Oregon-Union"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Systems Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30000/Systems-Engineer"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Medical Device Sales Representative-Remote within Washington DC, N. Virginia, and Baltimore territory",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29592/Medical-Device-Sales-Representative-Remote-within-Washington-DC-N-Virginia-and-Baltimore-territory"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "SVP Global Supply Chain Management - Molecular Imaging",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29601/SVP-Global-Supply-Chain-Management-Molecular-Imaging"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Territory Sales Manager (San Diego, Orange County, Inland Empire, Arizona)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29677/Territory-Sales-Manager-San-Diego-Orange-County-Inland-Empire-Arizona"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Field Service Technician - HW - Boston, MA",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29695/Field-Service-Technician-HW-Boston-MA"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Product Sales Executive, MR - Piedmont region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31982/Product-Sales-Executive-MR-Piedmont-region"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Application Software Developer Co-Op",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31984/Application-Software-Developer-Co-Op"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Embedded Software Developer Co-Op",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31985/Embedded-Software-Developer-Co-Op"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Site Installation Technician - Advanced Therapies - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31870/Site-Installation-Technician-Advanced-Therapies-Field-Travel"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Sr Supplier Quality Engineer (onsite)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31875/Sr-Supplier-Quality-Engineer-onsite"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Lifecycle Analyst Lead",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31881/Lifecycle-Analyst-Lead"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Project Manager - Construction & Medical Imaging Installs - Madison, WI - FIELD/TRAVEL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31909/Project-Manager-Construction-Medical-Imaging-Installs-Madison-WI-FIELD-TRAVEL"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Senior Product Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31910/Senior-Product-Manager"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Account Executive, North California",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31997/Account-Executive-North-California"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) - KI & Automatisierung im Factory Controlling",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-KI-Automatisierung-im-Factory-Controlling/306819"
+  },
+  {
+   "at": "2026-11-13T13:41:12+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Automatisierungstechniker Offshore (w/m/d) Elektrotechnik",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Automatisierungstechniker-Offshore-w-m-d-Elektrotechnik/307331"
+  },
+  {
+   "at": "2026-11-13T13:39:21+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.19) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T13:39:21+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.19) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.134.185) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Biochemist I",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29682/Biochemist-I"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Executive, Laboratory Diagnostics - Colorado Springs",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29947/Account-Executive-Laboratory-Diagnostics-Colorado-Springs"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Automation Chemistry & Immunoassay Sales Executive (ACISE) Rocky Mountains",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29948/Automation-Chemistry-Immunoassay-Sales-Executive-ACISE-Rocky-Mountains"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Deployment Implementation Team Business Lead - Customer Services Project Manager in Medical Device Industry",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29958/Deployment-Implementation-Team-Business-Lead-Customer-Services-Project-Manager-in-Medical-Device-Industry"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Systems Engineer",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-30000/Systems-Engineer"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Territory Sales Manager (San Diego, Orange County, Inland Empire, Arizona)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29677/Territory-Sales-Manager-San-Diego-Orange-County-Inland-Empire-Arizona"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Sales Executive, MR - Piedmont region",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31982/Product-Sales-Executive-MR-Piedmont-region"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Application Software Developer Co-Op",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31984/Application-Software-Developer-Co-Op"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Embedded Software Developer Co-Op",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31985/Embedded-Software-Developer-Co-Op"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Site Installation Technician - Advanced Therapies - Field/Travel",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31870/Site-Installation-Technician-Advanced-Therapies-Field-Travel"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Sr Supplier Quality Engineer (onsite)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31875/Sr-Supplier-Quality-Engineer-onsite"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lifecycle Analyst Lead",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31881/Lifecycle-Analyst-Lead"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Project Manager - Construction & Medical Imaging Installs - Madison, WI - FIELD/TRAVEL",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31909/Project-Manager-Construction-Medical-Imaging-Installs-Madison-WI-FIELD-TRAVEL"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Product Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31910/Senior-Product-Manager"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Account Executive, North California",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-31997/Account-Executive-North-California"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Developer -C++,Python",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100091/Software-Developer-C-Python"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Test Automation Architect (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100094/Test-Automation-Architect-f-m-d"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Owner (DICOM, Medical Devices)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100099/Product-Owner-DICOM-Medical-Devices"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior CT Product & Clinical Support Application Specialist",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100100/Senior-CT-Product-Clinical-Support-Application-Specialist"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Head of Sales – Thailand",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100106/Head-of-Sales-Thailand"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Product Owner (Serviceability, Product deployment)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100107/Product-Owner-Serviceability-Product-deployment"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Hospital Operations Manager – Radiology (Value Partnership)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100206/Hospital-Operations-Manager-Radiology-Value-Partnership"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "神戸 医療機器 営業 / Vivo Sales Hyogo Shikoku, JAPAN / 26H123",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100244/神戸-医療機器-営業-Vivo-Sales-Hyogo-Shikoku-JAPAN-26H123"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Quality Manager*in für X-Ray Products (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100362/Senior-Quality-Manager-in-für-X-Ray-Products-w-m-d"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Head of Diagnostics Slovakia",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100365/Head-of-Diagnostics-Slovakia"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Transaction Assurance Manager*in (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100397/Transaction-Assurance-Manager-in-w-m-d"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Technicien de production et Contrôle Qualité CDD 6 mois (h/f/nb)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100480/Technicien-de-production-et-Contrôle-Qualité-CDD-6-mois-h-f-nb"
+  },
+  {
+   "at": "2026-11-13T13:39:55+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Commodity Manager",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100482/Commodity-Manager"
+  },
+  {
+   "at": "2026-11-13T13:40:33+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Aviation Manager (m/w/d) Improvements & Consulting 13.11.2026 Management/Strategie/Beratung Laupheim",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/manager-m-w-d-improvements-consulting"
+  },
+  {
+   "at": "2026-11-13T13:40:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.253.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T13:26:00+00:00",
+ "last_run": "2026-11-13T13:41:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
