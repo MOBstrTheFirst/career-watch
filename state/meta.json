@@ -1,39 +1,7 @@
 {
- "alerts": 429,
+ "alerts": 433,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-13T09:38:47+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.237.93) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T09:38:47+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.237.93) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T09:38:47+00:00",
-   "kind": "new",
-   "site": "Mercedes-Benz – Stuttgart area",
-   "star": true,
-   "title": "Praktikant*in Ausstattungsmanagement und Designprozesse S-, GLS- und GLE-Klasse Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.04.2027",
-   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-ausstattungsmanagement-und-designprozesse-s-gls-und-gle-klasse-246594-mer0004acm"
-  },
-  {
-   "at": "2026-11-13T09:39:44+00:00",
-   "kind": "new",
-   "site": "Fraunhofer (central portal) – Alzenau",
-   "star": false,
-   "title": "Initiativbewerbung Wissenschaft, Verwaltung, Technik TVöD",
-   "url": "https://jobs.fraunhofer.de/job/Hanau-Initiativbewerbung-Wissenschaft%2C-Verwaltung%2C-Technik-TV%C3%B6D-63457/1227794701"
-  },
   {
    "at": "2026-11-13T09:39:44+00:00",
    "kind": "text",
@@ -4001,12 +3969,44 @@
    "star": false,
    "title": "View Job",
    "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R0144226_Arnstadt%2C+Th%C3%BCringen%2C+Germany"
+  },
+  {
+   "at": "2026-11-13T18:08:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.1.98) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T18:08:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.1.98) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T18:10:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.151.128.207) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T18:10:06+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.39.244) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T17:56:03+00:00",
+ "last_run": "2026-11-13T18:10:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 80,
+ "runs": 81,
  "tg_offset": 297408924
 }
