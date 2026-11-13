@@ -1,127 +1,7 @@
 {
- "alerts": 357,
+ "alerts": 370,
  "commands_set": true,
  "events": [
-  {
-   "at": "2026-11-13T05:24:15+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.20) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T05:24:15+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.20) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T05:25:16+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.190.138.35) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T05:25:13+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.86.116) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T05:41:37+00:00",
-   "kind": "new",
-   "site": "Deutsche Telekom – Munich",
-   "star": false,
-   "title": "Jobdetails",
-   "url": "https://careers.telekom.com/de/jobs/apprenticeship-at-deutsche-telekom-m-f-d-314307"
-  },
-  {
-   "at": "2026-11-13T05:38:48+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.223.82) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T05:38:48+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.223.82) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T05:40:04+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 23.102.134.80) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T05:39:56+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.116.150) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T05:53:53+00:00",
-   "kind": "text",
-   "site": "Bosch – Stuttgart - Ost",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.209.67) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
-  },
-  {
-   "at": "2026-11-13T05:53:53+00:00",
-   "kind": "text",
-   "site": "Bosch – deutschlandweit",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.209.67) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
-  },
-  {
-   "at": "2026-11-13T05:54:47+00:00",
-   "kind": "text",
-   "site": "Bosch – Ingolstadt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.71.193) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
-  },
-  {
-   "at": "2026-11-13T05:55:11+00:00",
-   "kind": "text",
-   "site": "Bosch – Murrhardt",
-   "star": false,
-   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.207.11) wie Sie",
-   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
-  },
-  {
-   "at": "2026-11-13T06:10:53+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "star": true,
-   "title": "Werkstudent (m/w/d) für den Bereich Informationssicherheitsmanagement",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-m-w-d-fuer-den-bereich-informationssicherheitsmanagement_251563-1719107.html"
-  },
-  {
-   "at": "2026-11-13T06:10:53+00:00",
-   "kind": "new",
-   "site": "Rohde & Schwarz",
-   "star": true,
-   "title": "Werkstudent (m/w/d) für den Bereich Softwarekonfiguration",
-   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-m-w-d-fuer-den-bereich-softwarekonfiguration_251563-1719106.html"
-  },
   {
    "at": "2026-11-13T06:08:47+00:00",
    "kind": "text",
@@ -4001,12 +3881,132 @@
    "star": true,
    "title": "Internship - Global Travel and Project Management - REF4314U Job ID: REF4314U",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF4314U-p-a97aa6b9db70bc1d9a78a3f944487dc5/internship-global-travel-and-project-management-ref4314u?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
+  },
+  {
+   "at": "2026-11-13T15:25:50+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Praktikum im Bereich IT-Projektmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF300881Z-praktikum-im-bereich-it-projektmanagement"
+  },
+  {
+   "at": "2026-11-13T15:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "CNC-Programmierer (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/CNC-Programmierer-w-m-d/306141"
+  },
+  {
+   "at": "2026-11-13T15:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Projektingenieur (m/w/d) Produktionstechnik Robotik",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Projektingenieur-m-w-d-Produktionstechnik-Robotik/306883"
+  },
+  {
+   "at": "2026-11-13T15:23:52+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Praktikum im Supply Chain Management",
+   "url": "https://jobs.bosch.com/en/job/REF300878S-praktikum-im-supply-chain-management"
+  },
+  {
+   "at": "2026-11-13T15:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.163.26) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-13T15:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.163.26) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-13T15:25:30+00:00",
+   "kind": "new",
+   "site": "Bosch – Abstatt bei Stuttgart",
+   "star": true,
+   "title": "Praktikum in der Bremsregelsystemapplikation",
+   "url": "https://jobs.bosch.com/en/job/REF300871S-praktikum-in-der-bremsregelsystemapplikation"
+  },
+  {
+   "at": "2026-11-13T15:25:30+00:00",
+   "kind": "new",
+   "site": "Bosch – Gerlingen - Schillerhöhe",
+   "star": false,
+   "title": "Junior Managers Program (Trainee) - Unsolicited Application",
+   "url": "https://jobs.bosch.com/en/job/REF20329L-junior-managers-program-trainee-unsolicited-application"
+  },
+  {
+   "at": "2026-11-13T15:25:30+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.149.236.238) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-13T15:25:30+00:00",
+   "kind": "new",
+   "site": "Bosch – Nürnberg",
+   "star": false,
+   "title": "Mitarbeiter im Bereich Produktion (m/w/div.) – befristet",
+   "url": "https://jobs.bosch.com/en/job/REF227963L-mitarbeiter-im-bereich-produktion-m-w-div-befristet"
+  },
+  {
+   "at": "2026-11-13T15:25:30+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Quality Assurance & Software Testing (f/m/div) München HRC1880055 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972341588?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-13T15:25:38+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": true,
+   "title": "SEMESTER-/ ABSCHLUSSARBEIT:Identifikation & Modellierung von Hebeln-resilienzorientierte Reduzierung",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-SEMESTER-ABSCHLUSSARBEITIdentifikation-&-Modellierung-von-Hebeln-resilienzorientierte-Reduzierung-86159/1457277133"
+  },
+  {
+   "at": "2026-11-13T15:25:38+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": false,
+   "title": "Master- / Bachelor-/ Semesterarbeit: Herstellung von Natrium-Ionen-Batteriezellen",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Master-Bachelor-Semesterarbeit-Herstellung-von-Natrium-Ionen-Batteriezellen-86159/1457277633"
+  },
+  {
+   "at": "2026-11-13T15:25:38+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": true,
+   "title": "Werkstudent in der elektrischen Entwicklung (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300875B-werkstudent-in-der-elektrischen-entwicklung-w-m-div"
+  },
+  {
+   "at": "2026-11-13T15:25:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.2.198) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-13T15:11:16+00:00",
+ "last_run": "2026-11-13T15:26:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-12",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
