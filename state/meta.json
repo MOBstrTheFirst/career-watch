@@ -1,5 +1,5 @@
 {
- "alerts": 164,
+ "alerts": 169,
  "commands_set": true,
  "events": [
   {
@@ -1129,12 +1129,52 @@
    "star": false,
    "title": "3 new text line(s), e.g. Your IP address: 4.229.37.14",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-14T06:09:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.157) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-14T06:09:48+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.109.157) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-14T06:10:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.175.151) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-14T06:10:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.54.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-14T06:10:16+00:00",
+   "kind": "text",
+   "site": "Sony Group",
+   "star": false,
+   "title": "2 new text line(s), e.g. Your IP address: 128.85.54.18",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-14T05:56:05+00:00",
+ "last_run": "2026-11-14T06:11:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-13",
- "runs": 31,
+ "runs": 32,
  "tg_offset": 297408924
 }
