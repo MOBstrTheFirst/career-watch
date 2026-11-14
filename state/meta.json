@@ -1,5 +1,5 @@
 {
- "alerts": 107,
+ "alerts": 116,
  "commands_set": true,
  "events": [
   {
@@ -713,12 +713,68 @@
    "star": false,
    "title": "2 new text line(s), e.g. Your IP address: 132.196.6.67",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-14T03:25:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.154.4.33) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-14T03:25:00+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.154.4.33) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-14T03:25:00+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Consultant Restructuring & Portfolio Transformation (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Consultant-Restructuring-&-Portfolio-Transformation-%28mwd%29-80809/1457258833"
+  },
+  {
+   "at": "2026-11-14T03:25:00+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Head of Regional Compliance EMEA (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Head-of-Regional-Compliance-EMEA-%28mwd%29-80809/1409126233"
+  },
+  {
+   "at": "2026-11-14T03:25:09+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.155.48.48) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-14T03:25:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.255.131) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-14T03:25:51+00:00",
+   "kind": "text",
+   "site": "Sony Group",
+   "star": false,
+   "title": "2 new text line(s), e.g. Your IP address: 172.169.255.131",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-14T03:11:50+00:00",
+ "last_run": "2026-11-14T03:26:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-13",
- "runs": 20,
+ "runs": 21,
  "tg_offset": 297408924
 }
