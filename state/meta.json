@@ -1,5 +1,5 @@
 {
- "alerts": 39,
+ "alerts": 48,
  "commands_set": true,
  "events": [
   {
@@ -297,12 +297,68 @@
    "star": false,
    "title": "11 new text line(s), e.g. An error occurred.",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-14T01:08:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.205.226) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-14T01:08:33+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.212.205.226) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-14T01:08:33+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Leitung Center Motoren (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-leitung-center-motoren-pflicht-praktikum-246670-mer0004agu"
+  },
+  {
+   "at": "2026-11-14T01:08:33+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-e-systemintegration-fur-data-engineering-und-analytics-246660-mer0004ai2"
+  },
+  {
+   "at": "2026-11-14T01:10:29+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.112) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-14T01:10:27+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.55.253.164) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-14T01:10:27+00:00",
+   "kind": "text",
+   "site": "Sony Group",
+   "star": false,
+   "title": "3 new text line(s), e.g. Your IP address: 20.55.253.164",
+   "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-14T00:56:33+00:00",
+ "last_run": "2026-11-14T01:11:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-13",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
