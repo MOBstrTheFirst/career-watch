@@ -1,5 +1,5 @@
 {
- "alerts": 334,
+ "alerts": 337,
  "commands_set": true,
  "events": [
   {
@@ -3177,12 +3177,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.91.247) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-16T18:38:57+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": true,
+   "title": "Apple Services Internship - Germany",
+   "url": "https://jobs.apple.com/en-us/details/200695229-0399/apple-services-internship-germany?team=SFTWR"
+  },
+  {
+   "at": "2026-11-16T18:39:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.174.223.109) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-16T18:40:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.29.31.247) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T18:26:43+00:00",
+ "last_run": "2026-11-16T18:42:21+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
