@@ -1,5 +1,5 @@
 {
- "alerts": 137,
+ "alerts": 141,
  "commands_set": true,
  "events": [
   {
@@ -1097,12 +1097,44 @@
    "star": false,
    "title": "IPECS - Supply Specialist (1yr Contract) Seoul,Seoul,Korea, Republic Of Supply & Logistics Hybrid Gepostete vor 29 Minuten",
    "url": "https://jobs.ericsson.com/careers/job/563121777560619"
+  },
+  {
+   "at": "2026-11-16T08:41:28+00:00",
+   "kind": "new",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Front Office Assistant (Maternity cover) (all genders) New MTU Maintenance Serbia d.o.o. Nova Pazova Administration read more",
+   "url": "https://www.mtu.de/careers/online-job-market/job-posting/front-office-assistant-maternity-cover-all-genders"
+  },
+  {
+   "at": "2026-11-16T08:38:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.61.244) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-16T08:38:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.221.61.244) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-16T08:40:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T08:26:26+00:00",
+ "last_run": "2026-11-16T08:41:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
