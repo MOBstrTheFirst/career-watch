@@ -1,5 +1,5 @@
 {
- "alerts": 200,
+ "alerts": 210,
  "commands_set": true,
  "events": [
   {
@@ -1769,12 +1769,100 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.124.233) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-16T12:26:21+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Resident Supplier Quality Engineer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Resident-Supplier-Quality-Engineer-f-m-d/303698"
+  },
+  {
+   "at": "2026-11-16T12:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Karlsruhe",
+   "star": true,
+   "title": "Mandatory Internship in Technical Sales - Original Equipment Customers in Off-Highway",
+   "url": "https://jobs.bosch.com/en/job/REF300977C-mandatory-internship-in-technical-sales-original-equipment-customers-in-off-highway"
+  },
+  {
+   "at": "2026-11-16T12:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Landshut",
+   "star": false,
+   "title": "Elektroniker / Sicherheitstechniker - Gebiet Dorfen / Vilsbiburg (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300986J-elektroniker-sicherheitstechniker-gebiet-dorfen-vilsbiburg-w-m-div"
+  },
+  {
+   "at": "2026-11-16T12:23:53+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Praktikum Entwicklung von Fertigungsverfahren für MEMS Inertialsensoren",
+   "url": "https://jobs.bosch.com/en/job/REF300984F-praktikum-entwicklung-von-fertigungsverfahren-fuer-mems-inertialsensoren"
+  },
+  {
+   "at": "2026-11-16T12:23:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.23.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-16T12:23:53+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.23.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-16T12:25:04+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.75.55.41) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-16T12:25:04+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Electrical characterization and data analysis (f/m/div) München, Deutschland HRC1868645",
+   "url": "https://jobs.infineon.com/careers/job/563808972298208?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-16T12:25:04+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Hardware System Verification Intern Xi'an HRC1849820",
+   "url": "https://jobs.infineon.com/careers/job/563808972244794?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-16T12:26:30+00:00",
+   "kind": "new",
+   "site": "Bosch – Gunzenhausen",
+   "star": true,
+   "title": "Werkstudent im Bereich Projektmanagement – Digitalisierung (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301003K-werkstudent-im-bereich-projektmanagement-digitalisierung-w-m-div"
+  },
+  {
+   "at": "2026-11-16T12:26:30+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.134) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T12:11:50+00:00",
+ "last_run": "2026-11-16T12:26:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 56,
+ "runs": 57,
  "tg_offset": 297408924
 }
