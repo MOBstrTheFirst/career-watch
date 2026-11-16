@@ -1,11 +1,68 @@
 {
- "alerts": 0,
+ "alerts": 5,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-16T23:10:57+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Qualitätsprüfer/Certifying Staff (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-16T23:10:02+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.74) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-16T23:10:02+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "Technical Facility Manager (TGM) (f/m/d)",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Facilities---Real-Estate--m-f-d-_R2622681?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-16T23:10:35+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": true,
+   "title": "Werkstudent - PMO & Bid Support (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-PMO-&-Bid-Support-%28wmd%29-89077/1376287955"
+  },
+  {
+   "at": "2026-11-16T23:10:35+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": true,
+   "title": "Werkstudent Systems-Engineering (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Ulm-Werkstudent-Systems-Engineering-%28wmd%29-89077/1376242355"
+  },
+  {
+   "at": "2026-11-16T23:10:35+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": false,
+   "title": "Software Engineer Integration / Infrastructure (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Software-Engineer-Integration-Infrastructure-%28wmd%29-82256/1336352955"
+  },
+  {
+   "at": "2026-11-16T23:10:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.24.161.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T22:56:06+00:00",
+ "last_run": "2026-11-16T23:11:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
