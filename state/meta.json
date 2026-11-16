@@ -1,5 +1,5 @@
 {
- "alerts": 310,
+ "alerts": 311,
  "commands_set": true,
  "events": [
   {
@@ -2969,14 +2969,20 @@
    "star": true,
    "title": "2 new text line(s), e.g. Praktikum - Technische Ausarbeitung & Prototypenteilemanagement (w/m/d)",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-16T16:55:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.135) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
- "last_missing_parts": [
-  4
- ],
- "last_run": "2026-11-16T16:51:42+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-16T16:56:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
