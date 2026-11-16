@@ -1,5 +1,5 @@
 {
- "alerts": 173,
+ "alerts": 182,
  "commands_set": true,
  "events": [
   {
@@ -1473,12 +1473,148 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.145) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-16T10:40:44+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Senior Staff Validation Engineer (f/m/div) Lviv (Ukraine) 129744 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970484588?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-16T10:38:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.135.37) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-16T10:38:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.135.37) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-16T10:38:40+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": false,
+   "title": "Vice President R&D AI Factory (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-Vice-President-R&D-AI-Factory-%28fmd%29-80807/1455727033"
+  },
+  {
+   "at": "2026-11-16T10:38:40+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "CE Coordinator Industrial Drives (m/w/d) in Witten",
+   "url": "https://jobs.zf.com/job/Witten-CE-Coordinator-Industrial-Drives-%28mwd%29-in-Witten-NW-58455/1437379833"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Master Thesis - Reinforcement Learning for wheeled, bipedal robots",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-Thesis-Reinforcement-Learning-for-wheeled%2C-bipedal-robots-70569/1274780901"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studentische Hilfskraft, Praktikum, Werkstudent*in im Bereich Akustik",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studentische-Hilfskraft%2C-Praktikum%2C-Werkstudentin-im-Bereich-Akustik-70569/847717001"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Master Thesis - Reinforcement Learning for wheeled, bipedal robots",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Master-Thesis-Reinforcement-Learning-for-wheeled%2C-bipedal-robots-70569/1274781001"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Abschlussarbeit: Strömungstechnik - Aufbau eines Prüfstands zur Differenzdruckmessung",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Abschlussarbeit-Str%C3%B6mungstechnik-Aufbau-eines-Pr%C3%BCfstands-zur-Differenzdruckmessung-70569/1448763933"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "Studien-/Abschlussarbeit - Prozessentwicklung für nachhaltigen Binder-Jetting-3D-Druck",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Studien-Abschlussarbeit-Prozessentwicklung-f%C3%BCr-nachhaltigen-Binder-Jetting-3D-Druck-70569/1417868133"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": false,
+   "title": "Initiativbewerbung im Bereich Mobilitäts- und Innovationssysteme",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Initiativbewerbung-im-Bereich-Mobilit%C3%A4ts-und-Innovationssysteme-70569/770066201"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": false,
+   "title": "Initiativbewerbung im Bereich Mensch-Technik-Interaktion",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Initiativbewerbung-im-Bereich-Mensch-Technik-Interaktion-70569/770055601"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": false,
+   "title": "Initiativbewerbung im Bereich Digital Business",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Initiativbewerbung-im-Bereich-Digital-Business-70569/770059701"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": false,
+   "title": "Initiativbewerbung im Bereich Cognitive Engineering and Production",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-Initiativbewerbung-im-Bereich-Cognitive-Engineering-and-Production-70569/770062201"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.22.200) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-16T10:39:50+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": true,
+   "title": "Werkstudent Robotik & KI (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Halle-Werkstudent-Robotik-&-KI-%28dmw%29-06184/1457386133"
+  },
+  {
+   "at": "2026-11-16T10:40:41+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.15.230.245) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T10:25:59+00:00",
+ "last_run": "2026-11-16T10:40:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
