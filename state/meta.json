@@ -1,5 +1,5 @@
 {
- "alerts": 118,
+ "alerts": 123,
  "commands_set": true,
  "events": [
   {
@@ -945,12 +945,52 @@
    "star": true,
    "title": "Werkstudent im Bereich Software-Entwicklung in der Drohnenabwehr (w/m/d)",
    "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Werkstudent-im-Bereich-Software-Entwicklung-in-der-Drohnenabwehr-%28wmd%29-82256/1330756155"
+  },
+  {
+   "at": "2026-11-16T07:38:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.100.29) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-16T07:38:43+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.100.29) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-16T07:39:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.51.198.217) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-16T07:39:47+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "4 new text line(s), e.g. CAE-Praktikum - Falztechnik / Qualitätsabsicherung frühe Phase (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-16T07:40:01+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.81.143.197) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-16T07:26:37+00:00",
+ "last_run": "2026-11-16T07:40:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-15",
- "runs": 37,
+ "runs": 38,
  "tg_offset": 297408924
 }
