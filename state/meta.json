@@ -1,5 +1,5 @@
 {
- "alerts": 45,
+ "alerts": 47,
  "commands_set": true,
  "events": [
   {
@@ -385,12 +385,28 @@
    "star": false,
    "title": "Senior Staff Engineer Automation & Digitalization for IP Development (f/m/div) München (Deutschland) HRC1551743 Hybrid Hybrid",
    "url": "https://jobs.infineon.com/careers/job/563808969520244?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T02:39:09+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.136) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T02:39:09+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.136) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T02:26:28+00:00",
+ "last_run": "2026-11-17T02:41:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 15,
+ "runs": 16,
  "tg_offset": 297408924
 }
