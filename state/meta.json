@@ -1,5 +1,5 @@
 {
- "alerts": 341,
+ "alerts": 346,
  "commands_set": true,
  "events": [
   {
@@ -2993,12 +2993,36 @@
    "star": true,
    "title": "199371 Werkstudententätigkeit Tooling Anforderungsentwicklung Elektrik/Elektronik (w/m/x) Veröffentlicht: 17.11.2026 Softwareentwicklung Automotive Mü",
    "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199371.html"
+  },
+  {
+   "at": "2026-11-17T16:55:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.224.244.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T16:55:26+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.224.244.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T16:55:02+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.107.18) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T16:42:23+00:00",
+ "last_run": "2026-11-17T16:57:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 74,
+ "runs": 75,
  "tg_offset": 297408924
 }
