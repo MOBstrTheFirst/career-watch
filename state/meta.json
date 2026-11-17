@@ -1,5 +1,5 @@
 {
- "alerts": 240,
+ "alerts": 246,
  "commands_set": true,
  "events": [
   {
@@ -2073,12 +2073,124 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.31) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-17T13:10:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.99.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T13:10:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.99.224) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.162.111) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Mixed-Signal Verification Intern Shanghai HRC1805864 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972039349?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Engineer Verification (f/m/div) München HRC1870407 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972313608?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior/Staff Engineer - Digital Verification Hanoi HRC1594314 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808970261273?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Pre-Silicon Verification AMS Austin, TX + 3 more HRC1305350 Hybrid Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808961302438?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification (f/m/div) Villach HRC1791219 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971964882?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Post-Silicon Validation - Senior Engineer San Jose + 1 more HRC1666849 Vor Ort Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971128421?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Engineer - Digital Functional Verification Hanoi HRC1703180 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971602145?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Analog Mixed Signal Simulation Engineer (f/m/div) Kork HRC1801805 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972024382?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Head of Communication Services (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529839"
+  },
+  {
+   "at": "2026-11-17T13:10:20+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Leiter Field Service (w/m/d) – Electrification und Automation",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529514"
+  },
+  {
+   "at": "2026-11-17T13:11:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.103.115) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T12:57:14+00:00",
+ "last_run": "2026-11-17T13:11:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
