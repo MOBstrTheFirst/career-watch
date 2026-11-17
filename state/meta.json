@@ -1,5 +1,5 @@
 {
- "alerts": 322,
+ "alerts": 325,
  "commands_set": true,
  "events": [
   {
@@ -2793,12 +2793,36 @@
    "star": false,
    "title": "https://www.rheinmetall.com/de/job/business_line_manager_space__m_w_d_/1222472",
    "url": "https://www.rheinmetall.com/de/job/business_line_manager_space__m_w_d_/1222472"
+  },
+  {
+   "at": "2026-11-17T15:42:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.185.151.146) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T15:42:08+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.185.151.146) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T15:41:55+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Systemingenieur (m/w/d) für Luftverteidigungssysteme - Transportability 17.11.2026 Forschung/Entwicklung/Engineering Laupheim, Röthenbac",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/systemingenieur-m-w-d-fuer-luftverteidigungssysteme-transportability"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T15:26:51+00:00",
+ "last_run": "2026-11-17T15:42:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
