@@ -1,5 +1,5 @@
 {
- "alerts": 105,
+ "alerts": 109,
  "commands_set": true,
  "events": [
   {
@@ -865,12 +865,44 @@
    "star": true,
    "title": "Werkstudent (w/m/d) im Bereich Technologieplanung",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529640"
+  },
+  {
+   "at": "2026-11-17T07:10:25+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Munich",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/e2e-deal-capture-manager-defense-m-f-d-x-846004"
+  },
+  {
+   "at": "2026-11-17T07:10:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.179.6.49) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T07:10:07+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-sales-expert-germany-industries-cloud-public-m-f-d-x-893618"
+  },
+  {
+   "at": "2026-11-17T07:11:22+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.24) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T06:56:17+00:00",
+ "last_run": "2026-11-17T07:11:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
