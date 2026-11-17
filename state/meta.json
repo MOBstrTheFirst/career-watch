@@ -1,5 +1,5 @@
 {
- "alerts": 168,
+ "alerts": 173,
  "commands_set": true,
  "events": [
   {
@@ -1505,12 +1505,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.17.102) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T10:09:17+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.123) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T10:09:17+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.123) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T10:09:17+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Bachelorarbeit im Bereich Produktexzellenz: Transportschutz neu gedacht – einheitlich und montagegerecht",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22159"
+  },
+  {
+   "at": "2026-11-17T10:09:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.15.0) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T10:12:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.45.225) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T09:57:22+00:00",
+ "last_run": "2026-11-17T10:12:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
