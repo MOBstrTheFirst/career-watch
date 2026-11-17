@@ -1,5 +1,5 @@
 {
- "alerts": 125,
+ "alerts": 128,
  "commands_set": true,
  "events": [
   {
@@ -1097,12 +1097,36 @@
    "star": false,
    "title": "Senior Project Manager Project Management Samut Prakan, Thailand HRC1873381",
    "url": "https://jobs.infineon.com/careers/job/563808972320786?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:14:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.242.63.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T08:14:13+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.242.63.43) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T08:15:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.24) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T08:12:13+00:00",
+ "last_run": "2026-11-17T08:20:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
