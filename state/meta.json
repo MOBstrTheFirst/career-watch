@@ -1,5 +1,5 @@
 {
- "alerts": 143,
+ "alerts": 148,
  "commands_set": true,
  "events": [
   {
@@ -1241,12 +1241,52 @@
    "star": false,
    "title": "Shape your future - Join the Siemens Graduate Program Germany, Digital Industries - Automation, Sales (f/m/d)",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524012"
+  },
+  {
+   "at": "2026-11-17T09:10:53+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Projektterminplaner (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Projektterminplaner-w-m-d/307192"
+  },
+  {
+   "at": "2026-11-17T09:08:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.80.79.13) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T09:08:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.80.79.13) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T09:10:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Management Support & Artificial Intelligence",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528852"
+  },
+  {
+   "at": "2026-11-17T09:10:34+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.94) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T08:56:19+00:00",
+ "last_run": "2026-11-17T09:11:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
