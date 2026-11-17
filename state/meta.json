@@ -1,5 +1,5 @@
 {
- "alerts": 122,
+ "alerts": 125,
  "commands_set": true,
  "events": [
   {
@@ -1001,12 +1001,108 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.114) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-17T08:09:55+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Proposal Manager (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Proposal-Manager-w-m-d/307170"
+  },
+  {
+   "at": "2026-11-17T08:09:30+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.140) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - Materials Innovation Singapur HRC1811693 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972057943?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Senior Staff Engineer Package Technology Development (EMC) Samut Prakan, Thailand HRC1874203",
+   "url": "https://jobs.infineon.com/careers/job/563808972324960?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Technical Project Lead Materials Innovation (m/f/div) Regensburg HRC1742831 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971807976?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Staff Engineer Unit Process Development Die Attach Malakka HRC1748334",
+   "url": "https://jobs.infineon.com/careers/job/563808971830387?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Entwicklungsingenieur mit Projektmanagement pGaN BEoL (w/m/div) Dresden HRC1744984 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971812642?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Staff Engineer Unit Process Development Wire Bond Malakka HRC1839567",
+   "url": "https://jobs.infineon.com/careers/job/563808972187497?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Lead Principal Engineer Technology Integration Malakka HRC1753311",
+   "url": "https://jobs.infineon.com/careers/job/563808971883448?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer Project Management Malakka HRC1838270",
+   "url": "https://jobs.infineon.com/careers/job/563808972186051?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Staff Engineer Package Technology Development (LF) Samut Prakan, Thailand HRC1874217",
+   "url": "https://jobs.infineon.com/careers/job/563808972324965?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T08:11:34+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Project Manager Project Management Samut Prakan, Thailand HRC1873381",
+   "url": "https://jobs.infineon.com/careers/job/563808972320786?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T07:56:03+00:00",
+ "last_run": "2026-11-17T08:12:13+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
