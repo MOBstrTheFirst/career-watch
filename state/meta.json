@@ -1,5 +1,5 @@
 {
- "alerts": 180,
+ "alerts": 185,
  "commands_set": true,
  "events": [
   {
@@ -1601,12 +1601,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.85.152) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T10:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.124.227.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T10:53:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.124.227.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T10:53:44+00:00",
+   "kind": "new",
+   "site": "Valeo",
+   "star": false,
+   "title": "Semiconductor Test Strategy Expert (m/f/d)",
+   "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Wemding/PG-Commodity-SQA-Leader--m-w-d-_REQ2026075099-1?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000"
+  },
+  {
+   "at": "2026-11-17T10:55:37+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Team Lead (f/m/d) Data Fabric & Cloud Global Operations",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527356"
+  },
+  {
+   "at": "2026-11-17T10:57:57+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Einkäufer m/w/d -befristet- 17.11.2026 Administration/Verwaltung Heilbronn",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/einkaeufer-m-w-d-befristet2"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T10:43:53+00:00",
+ "last_run": "2026-11-17T10:58:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
