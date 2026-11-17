@@ -1,5 +1,5 @@
 {
- "alerts": 223,
+ "alerts": 230,
  "commands_set": true,
  "events": [
   {
@@ -1969,12 +1969,52 @@
    "star": true,
    "title": "Praktikum in Transfer Pricing und Controlling",
    "url": "https://jobs.bosch.com/en/job/REF301125J-praktikum-in-transfer-pricing-und-controlling"
+  },
+  {
+   "at": "2026-11-17T12:40:55+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "German speaking Civil Field Engineer (f/m/d) / Bauingenieur (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/German-speaking-Civil-Field-Engineer-f-m-d-Bauingenieur-w-m-d/295634"
+  },
+  {
+   "at": "2026-11-17T12:40:55+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "198443 Praktikant Strategie Experience Management / Customer Satisfaction (w/m/x) Veröffentlicht: 17.11.2026 Aftersales Kundenzufriedenheit München Ne",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198443.html"
+  },
+  {
+   "at": "2026-11-17T12:40:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 68.220.61.179) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T12:40:31+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum - Künstliche Intelligenz (KI) in der Technischen Entwicklung (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-17T12:41:57+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Aviation Network Automation Engineer (m/w/d) 17.11.2026 Informationstechnologie Nürnberg",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/network-automation-engineer-m-w-d5"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T12:26:44+00:00",
+ "last_run": "2026-11-17T12:42:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
