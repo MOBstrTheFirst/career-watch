@@ -1,5 +1,5 @@
 {
- "alerts": 375,
+ "alerts": 381,
  "commands_set": true,
  "events": [
   {
@@ -3177,12 +3177,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.118) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T18:42:23+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.65) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T18:42:23+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.65) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T18:42:23+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197208 Praktikum Artificial Intelligence & Agentic AI im Produktionssystem (w/m/x) Veröffentlicht: 17.11.2026 Data Science München Neu Data Science Mü",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197208.html"
+  },
+  {
+   "at": "2026-11-17T18:40:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.198.142) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T18:41:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.56.118) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T18:27:39+00:00",
+ "last_run": "2026-11-17T18:42:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
