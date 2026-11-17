@@ -1,5 +1,5 @@
 {
- "alerts": 193,
+ "alerts": 199,
  "commands_set": true,
  "events": [
   {
@@ -1705,12 +1705,68 @@
    "star": true,
    "title": "Werkstudent - Testmethodenentwicklung für Materialprüfung (m/w/d) - REF100582R Job ID: REF100582R",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100582R-p-7351624b9330614a64108b7041365494/werkstudent-testmethodenentwicklung-fuer-materialpruefung-m-w-d-ref100582r?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-17T11:26:07+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Befundaufnehmer (w/m/d) für Industriegeneratoren",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Befundaufnehmer-w-m-d-f-r-Industriegeneratoren/306166"
+  },
+  {
+   "at": "2026-11-17T11:26:07+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Technical Documentation Specialist (w/m/d) - HVDC & FACTS Services",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Technical-Documentation-Specialist-w-m-d-HVDC-FACTS-Services/307308"
+  },
+  {
+   "at": "2026-11-17T11:23:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.101.176) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-17T11:23:47+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.101.176) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-17T11:25:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.162) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-17T11:25:38+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Werkstudent - Produktmanagement (w/m/div) München HRC1891627 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972391165?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-17T11:26:17+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Ettlingen",
+   "star": false,
+   "title": "Initiativbewerbung für Absolvent*innen",
+   "url": "https://jobs.fraunhofer.de/job/Ettlingen-Initiativbewerbung-f%C3%BCr-Absolventinnen-76275/1457981533"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-17T11:11:56+00:00",
+ "last_run": "2026-11-17T11:26:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-16",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
