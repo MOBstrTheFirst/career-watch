@@ -1,5 +1,5 @@
 {
- "alerts": 213,
+ "alerts": 217,
  "commands_set": true,
  "events": [
   {
@@ -1945,12 +1945,44 @@
    "star": false,
    "title": "Project Manager Budapest HRC1867354",
    "url": "https://jobs.infineon.com/careers/job/563808972359672?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T13:41:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Ingenieur (w/m/d) für Produktentwicklung und Projektmanagement",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Ingenieur-w-m-d-f-r-Produktentwicklung-und-Projektmanagement/307459"
+  },
+  {
+   "at": "2026-11-18T13:41:42+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (201)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-18T13:40:22+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.34.177) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T13:40:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.13.249) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T13:33:03+00:00",
+ "last_run": "2026-11-18T13:42:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
