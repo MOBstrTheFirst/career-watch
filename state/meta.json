@@ -1,5 +1,5 @@
 {
- "alerts": 185,
+ "alerts": 192,
  "commands_set": true,
  "events": [
   {
@@ -1713,12 +1713,68 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/sales-coach-south-region-m-f-d-x-563465375018214"
+  },
+  {
+   "at": "2026-11-18T12:12:33+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/EE-Senior-Safety-Entwickler-im-Bereich-ARBV-und-AD-Stack-%28wmd%29/6214-de_DE",
+   "url": "https://jobs.man.eu/job/EE-Senior-Safety-Entwickler-im-Bereich-ARBV-und-AD-Stack-%28wmd%29/6214-de_DE"
+  },
+  {
+   "at": "2026-11-18T12:12:33+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": true,
+   "title": "Masterarbeit: Effiziente CFD-Modellierung komplexer Brennkammer-Kühlsysteme mittels poröser Medien",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-18T12:08:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.94.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T12:08:55+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.94.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T12:10:14+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 145.132.99.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T12:17:48+00:00",
+   "kind": "new",
+   "site": "Bosch – München – Neuperlach",
+   "star": false,
+   "title": "Senior Pricing & Commercial Analyst (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF285679P-senior-pricing-commercial-analyst-w-m-div"
+  },
+  {
+   "at": "2026-11-18T12:17:48+00:00",
+   "kind": "new",
+   "site": "AGCO (Fendt) – Marktoberdorf",
+   "star": false,
+   "title": "Manager II, Global Business Integration & Strategic Projects",
+   "url": "https://careers.agcocorp.com/job/Stoneleigh-Manager-II%2C-Global-Business-Integration-&-Strategic-Projects-ENG/1451706800"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T11:58:25+00:00",
+ "last_run": "2026-11-18T12:18:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
