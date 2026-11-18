@@ -1,5 +1,5 @@
 {
- "alerts": 326,
+ "alerts": 331,
  "commands_set": true,
  "events": [
   {
@@ -3153,12 +3153,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.106.107) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T20:20:36+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Product Manager Technical Sales HF Bedrohungssimulation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/product-manager-technical-sales-hf-bedrohungssimulation-m-w-d_251563-1721984.html"
+  },
+  {
+   "at": "2026-11-18T20:08:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.235.126.86) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T20:08:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.235.126.86) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T20:10:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 68.220.60.154) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T20:10:10+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.95.186) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T20:05:51+00:00",
+ "last_run": "2026-11-18T20:20:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
