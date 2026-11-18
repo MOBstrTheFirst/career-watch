@@ -1,5 +1,5 @@
 {
- "alerts": 49,
+ "alerts": 52,
  "commands_set": true,
  "events": [
   {
@@ -385,12 +385,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.119.93) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-18T03:16:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.253.68) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T03:17:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.76.239.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-18T03:17:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Senior Engineer - Technical Documentation Muntinlupa City HRC1886557",
+   "url": "https://jobs.infineon.com/careers/job/563808972373112?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T03:10:57+00:00",
+ "last_run": "2026-11-18T03:23:43+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 18,
+ "runs": 19,
  "tg_offset": 297408924
 }
