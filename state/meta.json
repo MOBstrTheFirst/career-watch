@@ -1,5 +1,5 @@
 {
- "alerts": 254,
+ "alerts": 264,
  "commands_set": true,
  "events": [
   {
@@ -2505,12 +2505,100 @@
    "star": false,
    "title": "Senior Strategischer Einkäufer Elektronik / Senior Strategic Buyer Electronics (m/f/d)",
    "url": "https://jobs.keysight.com/external/jobs/54575?lang=en-us"
+  },
+  {
+   "at": "2026-11-18T15:26:29+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "AI Enablement & Delivery Lead (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/AI-Enablement-Delivery-Lead-f-m-d/307564"
+  },
+  {
+   "at": "2026-11-18T15:31:47+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Werkstudent im Qualitätsmanagement für Halbleiter (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301268H-werkstudent-im-qualitaetsmanagement-fuer-halbleiter-w-m-div"
+  },
+  {
+   "at": "2026-11-18T15:31:47+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": false,
+   "title": "PreMaster im Bereich Produkt- und Ramp-Up-Management von Leistungshalbleitern für die Elektromobilität in Hochlauf und Serie (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301230K-premaster-im-bereich-produkt-und-ramp-up-management-von-leistungshalbleitern-fuer-die-elektromobilitaet-in-hochlauf-und-serie-w-m-div"
+  },
+  {
+   "at": "2026-11-18T15:31:47+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Masterarbeit Analyse und Optimierung des thermischen Reifenmanagements im Gesamtfahrzeugkontext",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22189"
+  },
+  {
+   "at": "2026-11-18T15:25:42+00:00",
+   "kind": "new",
+   "site": "Bosch – Abstatt bei Stuttgart",
+   "star": true,
+   "title": "Praktikum im Bereich Reliability Engineering – Bremsregelsysteme",
+   "url": "https://jobs.bosch.com/en/job/REF301275M-praktikum-im-bereich-reliability-engineering-bremsregelsysteme"
+  },
+  {
+   "at": "2026-11-18T15:25:42+00:00",
+   "kind": "new",
+   "site": "Bosch – Augsburg",
+   "star": false,
+   "title": "Vertriebsmitarbeiter im Innendienst für die Buderus Niederlassung Augsburg (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF288421B-vertriebsmitarbeiter-im-innendienst-fuer-die-buderus-niederlassung-augsburg-w-m-div"
+  },
+  {
+   "at": "2026-11-18T15:25:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.134.53) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T15:25:42+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Siemens Real Estate - Vermietung und Verwaltung von Immobilien am Standort München Wittelsbacher Platz",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528575"
+  },
+  {
+   "at": "2026-11-18T15:25:52+00:00",
+   "kind": "new",
+   "site": "Bosch – Bühl/Bühlertal",
+   "star": true,
+   "title": "Pflichtpraktikum Kommunikation für Interne Digitalisierung",
+   "url": "https://jobs.bosch.com/en/job/REF301266R-pflichtpraktikum-kommunikation-fuer-interne-digitalisierung"
+  },
+  {
+   "at": "2026-11-18T15:25:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.119.163) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-18T15:25:52+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Praktikum in der Logistik - Fertigungssteuerung & Kundenplanung",
+   "url": "https://jobs.bosch.com/en/job/REF301273H-praktikum-in-der-logistik-fertigungssteuerung-kundenplanung"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T15:15:42+00:00",
+ "last_run": "2026-11-18T15:32:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 68,
+ "runs": 69,
  "tg_offset": 297408924
 }
