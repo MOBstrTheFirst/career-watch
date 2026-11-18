@@ -1,5 +1,5 @@
 {
- "alerts": 275,
+ "alerts": 279,
  "commands_set": true,
  "events": [
   {
@@ -2681,12 +2681,52 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/leiter-head-of-it-tools-operations-m-w-d-x-759581"
+  },
+  {
+   "at": "2026-11-18T16:25:44+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Materials Engineer Ceramics (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Materials-Engineer-Ceramics-f-m-d/306362"
+  },
+  {
+   "at": "2026-11-18T16:25:44+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Materials Development Engineer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Materials-Development-Engineer-f-m-d/306363"
+  },
+  {
+   "at": "2026-11-18T16:29:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T16:29:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T16:25:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.155.48.54) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T16:16:26+00:00",
+ "last_run": "2026-11-18T16:32:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 72,
+ "runs": 73,
  "tg_offset": 297408924
 }
