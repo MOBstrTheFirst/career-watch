@@ -1,5 +1,5 @@
 {
- "alerts": 52,
+ "alerts": 53,
  "commands_set": true,
  "events": [
   {
@@ -409,12 +409,20 @@
    "star": false,
    "title": "Senior Engineer - Technical Documentation Muntinlupa City HRC1886557",
    "url": "https://jobs.infineon.com/careers/job/563808972373112?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T03:26:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.116.79.55) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T03:23:43+00:00",
+ "last_run": "2026-11-18T03:33:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 19,
+ "runs": 20,
  "tg_offset": 297408924
 }
