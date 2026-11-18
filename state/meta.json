@@ -1,5 +1,5 @@
 {
- "alerts": 110,
+ "alerts": 116,
  "commands_set": true,
  "events": [
   {
@@ -889,12 +889,76 @@
    "star": false,
    "title": "Diehl Defence Entwicklungsingenieur (m/w/d) IT-Sicherheit / Cyberabwehr - 260607 18.11.2026 Forschung/Entwicklung/Engineering Laupheim",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-it-sicherheit-cyberabwehr-260607"
+  },
+  {
+   "at": "2026-11-18T08:30:09+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Servicekraft (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Servicekraft-w-m-d/307262"
+  },
+  {
+   "at": "2026-11-18T08:30:40+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – München",
+   "star": false,
+   "title": "Trainee Program - Mixed-Signal IC Design for Ultrasound Sensor Front-end Circuits",
+   "url": "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Trainee-Program-Mixed-Signal-IC-Design-for-Ultrasound-Sensor-Front-end-Circuits-80686/1458303833"
+  },
+  {
+   "at": "2026-11-18T08:30:40+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – München",
+   "star": false,
+   "title": "Trainee Program - Mixed-Signal IC Design for Ultrasound Sensor Front-end Circuits",
+   "url": "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Trainee-Program-Mixed-Signal-IC-Design-for-Ultrasound-Sensor-Front-end-Circuits-80686/1458303733"
+  },
+  {
+   "at": "2026-11-18T08:30:40+00:00",
+   "kind": "new",
+   "site": "NVIDIA",
+   "star": false,
+   "title": "Senior Developer Relations Manager, EMEA AI Natives DACH",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Senior-Developer-Relations-Manager--EMEA-AI-Natives-DACH_JR2030109?locations=91336993fab910af6d6fc4f707bcc1f8"
+  },
+  {
+   "at": "2026-11-18T08:30:40+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Entwicklung Passive Sicherheit & Rückhaltesysteme AMG Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.04.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklung-passive-sicherheit-and-ruckhaltesysteme-amg-247271-mer0004aoe"
+  },
+  {
+   "at": "2026-11-18T08:30:40+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Projektleitung Qualität Fahrzeugentwicklung Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 08.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-projektleitung-qualitat-fahrzeugentwicklung-247283-mer0004anq"
+  },
+  {
+   "at": "2026-11-18T08:25:36+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.59.128) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T08:25:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.215.53) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T08:20:47+00:00",
+ "last_run": "2026-11-18T08:31:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
