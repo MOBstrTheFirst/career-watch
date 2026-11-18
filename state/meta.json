@@ -1,5 +1,5 @@
 {
- "alerts": 264,
+ "alerts": 266,
  "commands_set": true,
  "events": [
   {
@@ -2593,12 +2593,28 @@
    "star": true,
    "title": "Praktikum in der Logistik - Fertigungssteuerung & Kundenplanung",
    "url": "https://jobs.bosch.com/en/job/REF301273H-praktikum-in-der-logistik-fertigungssteuerung-kundenplanung"
+  },
+  {
+   "at": "2026-11-18T15:42:06+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.175) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T15:42:06+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.175) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T15:32:14+00:00",
+ "last_run": "2026-11-18T15:48:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
