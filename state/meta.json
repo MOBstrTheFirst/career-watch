@@ -1,5 +1,5 @@
 {
- "alerts": 230,
+ "alerts": 237,
  "commands_set": true,
  "events": [
   {
@@ -2097,12 +2097,116 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.219.241) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-18T14:26:11+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Data & AI Architect (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-AI-Architect-f-m-d/307181"
+  },
+  {
+   "at": "2026-11-18T14:23:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.12.244.197) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T14:23:58+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.12.244.197) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T14:23:58+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": false,
+   "title": "CMOS Technologist (m/f/d)",
+   "url": "https://jobs.apple.com/en-us/details/200695677-1731/cmos-technologist-m-f-d?team=HRDWR"
+  },
+  {
+   "at": "2026-11-18T14:23:58+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (204)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.54.25) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal Engineer Physical Design and Methodology (f/m/div) München HRC1811750 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972063075?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Module Simulation and Methodology (f/m/div) Villach HRC1833944",
+   "url": "https://jobs.infineon.com/careers/job/563808972167412?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "SoC Physical Implementation Engineer (f/m/div) Padua (Padova) HRC1813900 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972099132?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior / Staff Engineer - Digital Design Singapur HRC1739895",
+   "url": "https://jobs.infineon.com/careers/job/563808971810113?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Staff Engineer Design Bangalore BTP HRC1803845 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972052757?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Engineer / Senior Engineer Digital Design Singapur HRC1839436",
+   "url": "https://jobs.infineon.com/careers/job/563808972187888?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-18T14:25:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Design Bangalore BTP (Indien) HRC1316203 Hybrid Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808961408546?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T14:15:31+00:00",
+ "last_run": "2026-11-18T14:33:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
