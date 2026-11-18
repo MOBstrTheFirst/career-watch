@@ -1,5 +1,5 @@
 {
- "alerts": 92,
+ "alerts": 94,
  "commands_set": true,
  "events": [
   {
@@ -737,12 +737,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.32.89) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T07:11:01+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Assistenz der Bereichsleitung und Kommunikation (Pflicht-Praktikum) Mercedes-Benz Office Campus Vaihingen, Stuttgart Start from: 01.02.2",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-assistenz-der-bereichsleitung-und-kommunikation-pflicht-praktikum-247234-mer0004a8s"
+  },
+  {
+   "at": "2026-11-18T07:11:01+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Redaktion Corporate Website (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-redaktion-corporate-website-pflicht-praktikum-247250-mer0004ae3"
+  },
+  {
+   "at": "2026-11-18T07:13:42+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Strategy & Business Developm. M&A Professional (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Strategy-&-Business-Developm_-M&A-Professional-%28dmw%29-91074/1282030401"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T06:59:25+00:00",
+ "last_run": "2026-11-18T07:15:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
