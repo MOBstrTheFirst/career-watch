@@ -1,5 +1,5 @@
 {
- "alerts": 122,
+ "alerts": 128,
  "commands_set": true,
  "events": [
   {
@@ -1017,12 +1017,60 @@
    "star": false,
    "title": "Machine Operator (d/m/w)",
    "url": "https://jobs.schaeffler.com/job/Schweinfurt-Machine-Operator-%28dmw%29-97421/1458320133"
+  },
+  {
+   "at": "2026-11-18T09:16:42+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Platform Architect",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100198/Platform-Architect"
+  },
+  {
+   "at": "2026-11-18T09:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.17.50) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-18T09:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.17.50) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-18T09:08:39+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Data Analytics & Dashboard Management – MO360 Cloud Platform Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-data-analytics-and-dashboard-management-mo360-cloud-platform-247298-mer00049vm"
+  },
+  {
+   "at": "2026-11-18T09:09:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.178.118.55) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-18T09:10:57+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.163.32.225) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-18T09:01:16+00:00",
+ "last_run": "2026-11-18T09:16:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-17",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
