@@ -1,5 +1,5 @@
 {
- "alerts": 212,
+ "alerts": 215,
  "commands_set": true,
  "events": [
   {
@@ -2065,12 +2065,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.166.162) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T13:57:00+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "System Application Engineer Solid State Transformer Xi'an HRC1813734",
+   "url": "https://jobs.infineon.com/careers/job/563808972069456?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T13:57:00+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Lead Principal System Application Engineer Power Conversion (f/m/div) Villach HRC1882086 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972388114?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T13:57:00+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff / Principal Applications Engineer Austin, TX HRC1800395 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972034528?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T13:57:00+00:00",
+   "kind": "new",
+   "site": "Alphabet (Google) – Munich",
+   "star": false,
+   "title": "Learn more about Technical Safety and Fire Engineering Lead",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/83932103044932294-technical-safety-and-fire-engineering-lead?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-19T13:55:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.183.94.160) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T13:45:30+00:00",
+ "last_run": "2026-11-19T13:59:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
