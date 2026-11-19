@@ -1,5 +1,5 @@
 {
- "alerts": 221,
+ "alerts": 227,
  "commands_set": true,
  "events": [
   {
@@ -2169,12 +2169,60 @@
    "star": false,
    "title": "Principal/Specialist Tire & Vehicle NVH (m/f/d) - REF97705I Job ID: REF97705I",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF97705I-p-7351624b9330614a64108b7041365494/principal-specialist-tire-vehicle-nvh-m-f-d-ref97705i?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-19T14:25:51+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Praktikant*in/Abschlussarbeit - Automatisierte Montage mit Machine-Learning-Modellen und Sensorfeedback (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/63884569/Praktikant-in-Abschlussarbeit-Automatisierte-Montage-mit-Machine-Learning-Modellen-und-Sensorfeedback-all-genders-?jobDbPVId=291127930&l=de"
+  },
+  {
+   "at": "2026-11-19T14:25:51+00:00",
+   "kind": "new",
+   "site": "Bosch – Schwieberdingen",
+   "star": true,
+   "title": "Mandatory Internship Vehicle State Estimation for Active Suspension Systems",
+   "url": "https://jobs.bosch.com/en/job/REF301397E-mandatory-internship-vehicle-state-estimation-for-active-suspension-systems"
+  },
+  {
+   "at": "2026-11-19T14:25:51+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Internship Digital Content & User Experience for Global IT product Energy Management System",
+   "url": "https://jobs.bosch.com/en/job/REF301376R-internship-digital-content-user-experience-for-global-it-product-energy-management-system"
+  },
+  {
+   "at": "2026-11-19T14:25:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Bietigheim - Bissingen",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich Werks- und Business-Unit-Controlling",
+   "url": "https://jobs.bosch.com/en/job/REF301386Z-pflichtpraktikum-im-bereich-werks-und-business-unit-controlling"
+  },
+  {
+   "at": "2026-11-19T14:25:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.59.106) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T14:25:13+00:00",
+   "kind": "new",
+   "site": "Bosch – Waltenhofen",
+   "star": false,
+   "title": "Controller (m/w/d)",
+   "url": "https://jobs.bosch.com/en/job/REF301393Z-controller-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T14:15:04+00:00",
+ "last_run": "2026-11-19T14:26:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
