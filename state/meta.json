@@ -1,5 +1,5 @@
 {
- "alerts": 250,
+ "alerts": 254,
  "commands_set": true,
  "events": [
   {
@@ -2489,12 +2489,92 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.133) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.151.211) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Principal System Applications Engineer Solid State Transformer (SST) (f/m/div)",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Applications Engineer",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Support strategic customer projects and design-ins, working with customers and internal experts to solve",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "in power electronics, power conversion, or application engineering.",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "to develop and validate engineering solutions.",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "At Infineon in Villach you shape the technologies of tomorrow and work in an international environment with more than 4.700 colleagues from over 70 na",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "possible",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "best in the world and for decades numerous international surveys have singled out Austria as a particularly safe and wealthy country with a high quali",
+   "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-19T16:10:11+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "Manufacturing Engineer (m/f/d) – Build & Test of E-Beam Systems & OLED Sources",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Manufacturing-Engineer--m-f-d----Build---Test-of-E-Beam-Systems---OLED-Sources_R2620193?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-19T16:10:21+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.49.14.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T16:01:34+00:00",
+ "last_run": "2026-11-19T16:13:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
