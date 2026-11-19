@@ -1,5 +1,5 @@
 {
- "alerts": 90,
+ "alerts": 97,
  "commands_set": true,
  "events": [
   {
@@ -777,12 +777,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.135.58) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T07:41:43+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Trainee-Truck-%28mwd%29-f%C3%BCr-das-Verkaufsb%C3%BCro-Stuttgart/7071-de_DE",
+   "url": "https://jobs.man.eu/job/Trainee-Truck-%28mwd%29-f%C3%BCr-das-Verkaufsb%C3%BCro-Stuttgart/7071-de_DE"
+  },
+  {
+   "at": "2026-11-19T07:41:43+00:00",
+   "kind": "new",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Accounting Manager (all genders) New MTU Maintenance Serbia d.o.o. Nova Pazova Accounting read more",
+   "url": "https://www.mtu.de/careers/online-job-market/job-posting/accounting-manager-all-genders"
+  },
+  {
+   "at": "2026-11-19T07:41:43+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Teststandsingenieur (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Teststandsingenieur-w-m-d/307351"
+  },
+  {
+   "at": "2026-11-19T07:41:43+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Factory Planning & Operational Excellence Manager (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Factory-Planning-Operational-Excellence-Manager-f-m-d/306793"
+  },
+  {
+   "at": "2026-11-19T07:39:37+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.115.228.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T07:39:37+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.115.228.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T07:39:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.169.238.153) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T07:40:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.147.115) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T07:29:59+00:00",
+ "last_run": "2026-11-19T07:42:05+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
