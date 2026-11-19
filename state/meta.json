@@ -1,5 +1,5 @@
 {
- "alerts": 198,
+ "alerts": 202,
  "commands_set": true,
  "events": [
   {
@@ -1953,12 +1953,44 @@
    "star": false,
    "title": "Immex Analyst Trainee - Estudiante Tetla de la Solidaridad,Tlaxcala,Mexico Supply & Logistics Gepostete vor 20 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777518036"
+  },
+  {
+   "at": "2026-11-19T13:04:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.78.175.243) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T13:04:00+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Factory Engineering",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529854"
+  },
+  {
+   "at": "2026-11-19T13:06:19+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Project Manager Facility Management (w/m/div) Dresden HRC1738249",
+   "url": "https://jobs.infineon.com/careers/job/563808971792691?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T13:06:19+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental automotive)",
+   "star": true,
+   "title": "Praktikum – Testautomatisierung von Funktionen eines Ethernets basierten Fahrerassistenzsystems (ADAS) Job ID: REF82612L",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82612L-p-40b4926d18cabeb207653f6c8dc8897d/-praktikum---testautomatisierung-von-funktionen-eines-ethernets-basierten-fahrerassistenzsystems-adas-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T13:01:00+00:00",
+ "last_run": "2026-11-19T13:06:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
