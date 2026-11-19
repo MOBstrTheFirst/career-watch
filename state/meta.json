@@ -1,5 +1,5 @@
 {
- "alerts": 111,
+ "alerts": 115,
  "commands_set": true,
  "events": [
   {
@@ -985,12 +985,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.99.32) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T08:48:17+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Head of Category Powertrain & Mechanicals (N-PTM) (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Head-of-Category-Powertrain-Mechanicals-N-PTM-f-m-d/306769"
+  },
+  {
+   "at": "2026-11-19T08:41:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.98.176) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T08:41:11+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.98.176) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T08:40:09+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.114.221) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T08:33:58+00:00",
+ "last_run": "2026-11-19T08:48:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
