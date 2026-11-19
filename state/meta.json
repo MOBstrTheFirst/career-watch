@@ -1,5 +1,5 @@
 {
- "alerts": 285,
+ "alerts": 289,
  "commands_set": true,
  "events": [
   {
@@ -2889,12 +2889,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.150.181.72) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T18:53:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.158.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T18:53:59+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.158.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T18:54:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.86.111.106) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T18:54:59+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Supply Chain Logistics - Professional (w/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527437"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T18:41:37+00:00",
+ "last_run": "2026-11-19T18:58:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
