@@ -1,5 +1,5 @@
 {
- "alerts": 227,
+ "alerts": 232,
  "commands_set": true,
  "events": [
   {
@@ -2217,12 +2217,100 @@
    "star": false,
    "title": "Controller (m/w/d)",
    "url": "https://jobs.bosch.com/en/job/REF301393Z-controller-m-w-d"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.254.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.254.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200824 Praktikant KI-basierte Aerodynamiksimulation (w/m/x) Veröffentlicht: 19.11.2026 Gesamtfahrzeug München Neu Gesamtfahrzeug München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200824.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200423 Praktikant Länder-Controlling Europa Financial Services (w/m/x) Veröffentlicht: 19.11.2026 Controlling München Neu Controlling München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200423.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200045 Intern Machine Learning for CAD Understanding and Engineering AI (w/m/x) Veröffentlicht: 19.11.2026 Gesamtfahrzeug München Neu Gesamtfahrzeug M",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200045.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199460 Working Student for Agentic AI & Engineering Automation (f/m/x) Veröffentlicht: 19.11.2026 IT Innovationen und Forschung Ulm Neu IT Innovatione",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199460.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "198718 Praktikant Aus- und Weiterbildung BMW Group Academy (w/m/x) Veröffentlicht: 19.11.2026 Aus- und Weiterbildung München Neu Aus- und Weiterbildun",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198718.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197652 Praktikant Prozessplanung und Integration (w/m/x) Veröffentlicht: 19.11.2026 Produktionsplanung Dingolfing Neu Produktionsplanung Dingolfing Di",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197652.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": false,
+   "title": "199909 Doktorand markerloses Augmented-Reality-Tracking für Fahrzeuge (w/m/x) Veröffentlicht: 19.11.2026 Gesamtfahrzeug München Neu Gesamtfahrzeug Mün",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199909.html"
+  },
+  {
+   "at": "2026-11-19T14:38:44+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (211)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-19T14:40:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.234.2.90) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T14:26:52+00:00",
+ "last_run": "2026-11-19T14:41:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
