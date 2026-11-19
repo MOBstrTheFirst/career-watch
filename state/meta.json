@@ -1,5 +1,5 @@
 {
- "alerts": 97,
+ "alerts": 99,
  "commands_set": true,
  "events": [
   {
@@ -841,12 +841,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.147.115) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T08:01:55+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Weltweite Transportlogistik – Produktschutz Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 22.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-weltweite-transportlogistik-produktschutz-247519-mer0004a98"
+  },
+  {
+   "at": "2026-11-19T07:56:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.170) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T07:42:05+00:00",
+ "last_run": "2026-11-19T08:04:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 37,
+ "runs": 38,
  "tg_offset": 297408924
 }
