@@ -1,5 +1,5 @@
 {
- "alerts": 215,
+ "alerts": 221,
  "commands_set": true,
  "events": [
   {
@@ -2105,12 +2105,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.183.94.160) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T14:10:44+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": false,
+   "title": "Systems & Software Architect (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/Systems---Software-Architect--d-f-m-_JR10441192?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-19T14:10:44+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": false,
+   "title": "PhD-position on Multiscale Simulation of Cold Gas Spraying Processes for the Prediction of Repair Quality (d/f/m)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Mnchen-Area/PhD-position-on--Multiscale-Simulation-of-Cold-Gas-Spraying-Processes-for-the-Prediction-of-Repair-Quality--d-f-m-_JR10457273?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-19T14:10:45+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (210)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-19T14:11:06+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": true,
+   "title": "Werkstudent AI & Data Analytics im Cost Value Engineering (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Herzogenaurach-Werkstudent-AI-&-Data-Analytics-im-Cost-Value-Engineering-%28dmw%29-91074/1458897733"
+  },
+  {
+   "at": "2026-11-19T14:11:06+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Machine Operator Aerospace Soft Machining (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Schweinfurt-Machine-Operator-Aerospace-Soft-Machining-%28dmw%29-97421/1456894933"
+  },
+  {
+   "at": "2026-11-19T14:14:38+00:00",
+   "kind": "new",
+   "site": "Bosch – München – Neuperlach",
+   "star": true,
+   "title": "Praktikum im Bereich Controlling Integrator Business",
+   "url": "https://jobs.bosch.com/en/job/REF301395V-praktikum-im-bereich-controlling-integrator-business"
+  },
+  {
+   "at": "2026-11-19T14:14:38+00:00",
+   "kind": "new",
+   "site": "Hitachi (Hitachi Rail)",
+   "star": false,
+   "title": "View Job",
+   "url": "https://www.hitachirail.com/careers/vacancies/job-details?jobId=R0142129_Stuttgart%2C+Baden-W%C3%BCrttemberg%2C+Germany"
+  },
+  {
+   "at": "2026-11-19T14:14:38+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Principal/Specialist Tire & Vehicle NVH (m/f/d) - REF97705I Job ID: REF97705I",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF97705I-p-7351624b9330614a64108b7041365494/principal-specialist-tire-vehicle-nvh-m-f-d-ref97705i?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T13:59:11+00:00",
+ "last_run": "2026-11-19T14:15:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
