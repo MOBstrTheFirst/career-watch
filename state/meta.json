@@ -1,5 +1,5 @@
 {
- "alerts": 130,
+ "alerts": 136,
  "commands_set": true,
  "events": [
   {
@@ -1137,12 +1137,124 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.185.151.146) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.170.190.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.170.190.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Communication Strategy & Steering (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 22.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-communication-strategy-and-steering-pflicht-praktikum-247556-mer0004ass"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Audiovisual Production & Mercedes-Benz Studios (Pflicht-Praktikum) Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 15.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-audiovisual-production-and-mercedes-benz-studios-pflicht-praktikum-247566-mer0004a9p"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": true,
+   "title": "Werkstudent Business Development Power & Grid (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-Business-Development-Power-&-Grid-%28mwd%29-80809/1458712033"
+  },
+  {
+   "at": "2026-11-19T09:38:42+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Projektmanager RAIL | GROWTH BEYOND (m/f/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Projektmanager-RAIL-GROWTH-BEYOND-%28mfd%29-80809/1458736433"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.126) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Corporate Strategy (f/m/div) Munich, Deutschland HRC1864805",
+   "url": "https://jobs.infineon.com/careers/job/563808972283665?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Strategy M&A Infineon Asia Pacific Singapur HRC1649745_1 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808970806175?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship – R&D Project Specialist Leominster, MA HRC1816909 Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808972077332?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - AI Solutions & Analytics Singapur HRC1666025",
+   "url": "https://jobs.infineon.com/careers/job/563808971064888?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - Supply Chain Analytics & Digital Transformation Singapur HRC1877309 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972331977?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship – Project Office (Digitalization & Low-Code Automation) Singapur HRC1820816 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972110513?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T09:47:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Principal Engineer Autonomous Factory Strategy & Innovation Malakka HRC1637043",
+   "url": "https://jobs.infineon.com/careers/job/563808970682017?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T09:34:16+00:00",
+ "last_run": "2026-11-19T09:49:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
