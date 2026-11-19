@@ -1,5 +1,5 @@
 {
- "alerts": 84,
+ "alerts": 87,
  "commands_set": true,
  "events": [
   {
@@ -729,12 +729,36 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/senior-sap-technical-consultant-hcm-dev-m-w-d-x-760603"
+  },
+  {
+   "at": "2026-11-19T07:11:38+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Produktinformation mit Schwerpunkt KI-Use-Cases (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-produktinformation-mit-schwerpunkt-ki-use-cases-pflicht-praktikum-247510-mer00049fa"
+  },
+  {
+   "at": "2026-11-19T07:15:10+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) im Bereich EHS mit IT-Schwerpunkt",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528967"
+  },
+  {
+   "at": "2026-11-19T07:13:23+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T06:57:44+00:00",
+ "last_run": "2026-11-19T07:15:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
