@@ -1,5 +1,5 @@
 {
- "alerts": 172,
+ "alerts": 178,
  "commands_set": true,
  "events": [
   {
@@ -1577,14 +1577,116 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.219.170) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T11:56:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.109.71.246) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T11:56:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.109.71.246) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T11:56:50+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": true,
+   "title": "Working Student - Automotive Sensor Data Processing & Machine Learning (m/f/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Working-Student-Automotive-Sensor-Data-Processing-&-Machine-Learning-%28mfd%29-85053/1458820533"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.140.198) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Manager Procurement Global Category Management IT (f/m/div) Munich + 1 more HRC1890955 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972397588?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Manager Global Category Procurement Kulim HRC1855331",
+   "url": "https://jobs.infineon.com/careers/job/563808972259505?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Manager Procurement Engineering Inductor Shanghai, 上海 + 1 more HRC1775667",
+   "url": "https://jobs.infineon.com/careers/job/563808971924917?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Manager Procurement Engineering Kulim HRC1841452",
+   "url": "https://jobs.infineon.com/careers/job/563808972262745?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Manager/ Director - OSAT Supplier Management Singapore + 3 more HRC1655627",
+   "url": "https://jobs.infineon.com/careers/job/563808970876341?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager China Sourcing Central Service Wuxi HRC1875694 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972327706?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager China Sourcing Supplier Development Wuxi HRC1875746 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972328327?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T11:55:08+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager China Sourcing BE material and Equipment Wuxi HRC1875668 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972327705?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-19T12:03:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.161) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
- "last_missing_parts": [
-  3
- ],
- "last_run": "2026-11-19T11:51:50+00:00",
+ "last_missing_parts": [],
+ "last_run": "2026-11-19T12:04:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
