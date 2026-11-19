@@ -1,5 +1,5 @@
 {
- "alerts": 74,
+ "alerts": 77,
  "commands_set": true,
  "events": [
   {
@@ -641,12 +641,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.149.48.160) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-19T06:10:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": false,
+   "title": "Governance Specialist | People Transformation | LCR (d/m/w/x) Mercedes-Benz Financial Services, Stuttgart Start from: 01.12.2026",
+   "url": "https://jobs.mercedes-benz.com/enUS/governance-specialist-or-people-transformation-or-lcr-dmwx-247478-mer00048iz"
+  },
+  {
+   "at": "2026-11-19T06:11:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.152.180.195) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T06:12:36+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.106.231.149) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T05:58:17+00:00",
+ "last_run": "2026-11-19T06:13:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 30,
+ "runs": 31,
  "tg_offset": 297408924
 }
