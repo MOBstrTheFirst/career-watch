@@ -1,11 +1,36 @@
 {
- "alerts": 0,
+ "alerts": 1,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-19T23:12:19+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": true,
+   "title": "Working Student GPU programming",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Working-Student-GPU-programming-73447/1376740755"
+  },
+  {
+   "at": "2026-11-19T23:12:19+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": true,
+   "title": "Werkstudent Commercial / Finance (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/Oberkochen-Werkstudent-Commercial-Finance-%28wmd%29-73447/1376744255"
+  },
+  {
+   "at": "2026-11-19T23:12:19+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": true,
+   "title": "Werkstudent - Logistics Planning (w/m/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Werkstudent-Logistics-Planning-%28wmd%29-82256/1376672955"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T22:58:09+00:00",
+ "last_run": "2026-11-19T23:16:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
