@@ -1,5 +1,5 @@
 {
- "alerts": 1,
+ "alerts": 3,
  "commands_set": true,
  "events": [
   {
@@ -25,12 +25,28 @@
    "star": true,
    "title": "Werkstudent - Logistics Planning (w/m/d)",
    "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Werkstudent-Logistics-Planning-%28wmd%29-82256/1376672955"
+  },
+  {
+   "at": "2026-11-19T23:24:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.183.135.145) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T23:25:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.38.196) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T23:16:22+00:00",
+ "last_run": "2026-11-19T23:26:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408924
 }
