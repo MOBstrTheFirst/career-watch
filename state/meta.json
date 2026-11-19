@@ -1,5 +1,5 @@
 {
- "alerts": 202,
+ "alerts": 205,
  "commands_set": true,
  "events": [
   {
@@ -1985,12 +1985,36 @@
    "star": true,
    "title": "Praktikum – Testautomatisierung von Funktionen eines Ethernets basierten Fahrerassistenzsystems (ADAS) Job ID: REF82612L",
    "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82612L-p-40b4926d18cabeb207653f6c8dc8897d/-praktikum---testautomatisierung-von-funktionen-eines-ethernets-basierten-fahrerassistenzsystems-adas-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
+  },
+  {
+   "at": "2026-11-19T13:12:21+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Business Transformation Program Manager (f/m/d) Service Central",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Business-Transformation-Program-Manager-f-m-d-Service-Central/307222"
+  },
+  {
+   "at": "2026-11-19T13:09:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.215.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T13:09:00+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.215.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T13:06:45+00:00",
+ "last_run": "2026-11-19T13:12:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
