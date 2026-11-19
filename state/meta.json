@@ -1,5 +1,5 @@
 {
- "alerts": 115,
+ "alerts": 120,
  "commands_set": true,
  "events": [
   {
@@ -1017,12 +1017,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.114.221) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-19T09:03:48+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Project Supplier Quality Manager (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Supplier-Quality-Manager-f-m-d/305544"
+  },
+  {
+   "at": "2026-11-19T08:53:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.233.117.228) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-19T08:53:48+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.233.117.228) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-19T08:53:48+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Einkauf Verbindungskomponenten Sindelfingen, Tübinger Allee, Tor 80, Geb. 551/0 Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-einkauf-verbindungskomponenten-247541-mer0004ak9"
+  },
+  {
+   "at": "2026-11-19T09:04:05+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/pmo_boxer_programme__m_w_d_/1188596",
+   "url": "https://www.rheinmetall.com/de/job/pmo_boxer_programme__m_w_d_/1188596"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-19T08:48:35+00:00",
+ "last_run": "2026-11-19T09:04:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-18",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
