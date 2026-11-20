@@ -1,5 +1,5 @@
 {
- "alerts": 104,
+ "alerts": 110,
  "commands_set": true,
  "events": [
   {
@@ -897,12 +897,68 @@
    "star": false,
    "title": "ASIC Digital Design, Sr Staff Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-20T08:24:28+00:00",
+   "kind": "new",
+   "site": "Bosch – Leonberg",
+   "star": true,
+   "title": "Mandatory Internship in Sales Acquisition Management",
+   "url": "https://jobs.bosch.com/en/job/REF301402J-mandatory-internship-in-sales-acquisition-management"
+  },
+  {
+   "at": "2026-11-20T08:24:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "2 new text line(s), e.g. Barbing",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T08:24:28+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "2 new text line(s), e.g. Barbing",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T08:25:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. Barbing",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T08:25:58+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Karlsruhe",
+   "star": true,
+   "title": "Working Student: Microreaction Technology for Safer Chemical Processes",
+   "url": "https://jobs.fraunhofer.de/job/Karlsruhe-Working-Student-Microreaction-Technology-for-Safer-Chemical-Processes-76131/1459139333"
+  },
+  {
+   "at": "2026-11-20T08:25:58+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Karlsruhe",
+   "star": true,
+   "title": "Master's Thesis: Microreaction Technology for Safer Chemical Processes",
+   "url": "https://jobs.fraunhofer.de/job/Karlsruhe-Master&apos;s-Thesis-Microreaction-Technology-for-Safer-Chemical-Processes-76131/1459140833"
+  },
+  {
+   "at": "2026-11-20T08:25:58+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "2 new text line(s), e.g. Barbing",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T08:12:11+00:00",
+ "last_run": "2026-11-20T08:26:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
