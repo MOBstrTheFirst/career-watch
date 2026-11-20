@@ -1,5 +1,5 @@
 {
- "alerts": 86,
+ "alerts": 90,
  "commands_set": true,
  "events": [
   {
@@ -737,12 +737,44 @@
    "star": false,
    "title": "Diehl Defence Entwicklungsingenieur (m/w/d) Spezialbatterien 20.11.2026 Forschung/Entwicklung/Engineering Röthenbach a.d. Pegnitz",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/entwicklungsingenieur-m-w-d-spezialbatterien"
+  },
+  {
+   "at": "2026-11-20T07:39:01+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.185.55.130) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T07:39:01+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.185.55.130) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T07:39:01+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in IT-Monitoring & Alerting Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-it-monitoring-and-alerting-247742-mer0004ag4"
+  },
+  {
+   "at": "2026-11-20T07:39:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.190.119.37) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T07:30:22+00:00",
+ "last_run": "2026-11-20T07:41:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
