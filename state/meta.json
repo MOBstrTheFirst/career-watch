@@ -1,5 +1,5 @@
 {
- "alerts": 289,
+ "alerts": 290,
  "commands_set": true,
  "events": [
   {
@@ -2793,12 +2793,20 @@
    "star": false,
    "title": "Senior Power Automation Expert (f/m/d) for AI-enabled Engineering",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530164"
+  },
+  {
+   "at": "2026-11-20T16:05:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.247.116) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T15:41:36+00:00",
+ "last_run": "2026-11-20T16:05:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
