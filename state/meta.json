@@ -1,5 +1,5 @@
 {
- "alerts": 200,
+ "alerts": 206,
  "commands_set": true,
  "events": [
   {
@@ -1889,12 +1889,68 @@
    "star": false,
    "title": "Wissenschaftliche/r Mitarbeiter/in Themenfeld Digitale Fabrikplanung",
    "url": "https://jobs.fraunhofer.de/job/Augsburg-Wissenschaftlicher-Mitarbeiterin-Themenfeld-Digitale-Fabrikplanung-86159/1459239833"
+  },
+  {
+   "at": "2026-11-20T12:11:29+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Qualifizierte Fachkraft Mikroelektronik-Fertigung (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/qualifizierte-fachkraft-mikroelektronik-fertigung-m-w-d_251563-1722945.html"
+  },
+  {
+   "at": "2026-11-20T12:11:29+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Techniker Prüfmittelentwicklung SPEA / Flying Probe 4060-S2 (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/techniker-pruefmittelentwicklung-spea-flying-probe-4060-s2-m-w-d_251563-1644864.html"
+  },
+  {
+   "at": "2026-11-20T12:11:29+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "CNC-Programmer (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/CNC-Programmer-w-m-d/306141"
+  },
+  {
+   "at": "2026-11-20T12:09:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T12:09:15+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T12:15:27+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.104.192) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T12:11:05+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.173.219.149) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T12:04:57+00:00",
+ "last_run": "2026-11-20T12:15:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
