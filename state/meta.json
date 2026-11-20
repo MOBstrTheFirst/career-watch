@@ -1,5 +1,5 @@
 {
- "alerts": 254,
+ "alerts": 258,
  "commands_set": true,
  "events": [
   {
@@ -2489,12 +2489,92 @@
    "star": false,
    "title": "Americas Partner Strategy & Growth Manager",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530187"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201412 Praktikant Finanzen, Controlling, Risikomanagement & Händlerbetriebswirtschaft im Vertrieb (w/m/x) Veröffentlicht: 20.11.2026 Controlling Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201412.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201320 Praktikant Feldanalyse und Analyse Special Cases in Werkstoff- und Verfahrensanalytik (w/m/x) Veröffentlicht: 20.11.2026 Technisches Labor Münc",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201320.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201299 Intern AI and Machine Learning at Rolls-Royce Motor Cars (f/m/x) Veröffentlicht: 20.11.2026 Data Science München Neu Data Science München Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201299.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200675 Praktikant Gesamtfahrzeug-Crash & Fahrzeugsicherheit (w/m/x) Veröffentlicht: 20.11.2026 Fahrzeugsicherheit München Neu Fahrzeugsicherheit Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200675.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "198248 Praktikant Künstliche Intelligenz und Agentic AI im Qualitätsmanagement (w/m/x) Veröffentlicht: 20.11.2026 Kontinuierliche Verbesserung München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198248.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "197308 Praktikum Komponenten- und Funktionsentwicklung E/E Motorrad (w/m/x) Veröffentlicht: 20.11.2026 Elektrik / Elektronik München Neu Elektrik / El",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.197308.html"
+  },
+  {
+   "at": "2026-11-20T14:39:02+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": false,
+   "title": "200022 Senior BSP/OS Software System Integrator Safety-Critical Systems (f/m/x) Veröffentlicht: 20.11.2026 Softwareentwicklung Ulm Neu Softwareentwick",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200022.html"
+  },
+  {
+   "at": "2026-11-20T14:40:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.80.212.254) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T14:40:00+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum – AI-Robotics Technologieentwicklung Audi Production Lab (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-20T14:40:53+00:00",
+   "kind": "new",
+   "site": "Texas Instruments",
+   "star": false,
+   "title": "https://careers.ti.com/en/sites/CX/job/25020429?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://careers.ti.com/en/sites/CX/job/25020429?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T14:26:50+00:00",
+ "last_run": "2026-11-20T14:41:20+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
