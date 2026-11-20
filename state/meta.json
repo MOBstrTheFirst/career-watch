@@ -1,5 +1,5 @@
 {
- "alerts": 350,
+ "alerts": 352,
  "commands_set": true,
  "events": [
   {
@@ -3369,12 +3369,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.81.231.252) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T21:25:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.193.101) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T21:25:44+00:00",
+   "kind": "new",
+   "site": "Thales – Ditzingen",
+   "star": false,
+   "title": "Project Manager",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0312335/Project-Manager"
+  },
+  {
+   "at": "2026-11-20T21:25:44+00:00",
+   "kind": "new",
+   "site": "Thales – Ditzingen",
+   "star": false,
+   "title": "Responsable Finance Processus et Outils H/F",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0319067/Responsable-Finance-Processus-et-Outils-H-F"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T21:11:19+00:00",
+ "last_run": "2026-11-20T21:26:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 93,
+ "runs": 94,
  "tg_offset": 297408924
 }
