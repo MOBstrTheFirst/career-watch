@@ -1,5 +1,5 @@
 {
- "alerts": 297,
+ "alerts": 300,
  "commands_set": true,
  "events": [
   {
@@ -2937,12 +2937,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.81.158.144) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T16:40:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.111) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T16:40:49+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": false,
+   "title": "Infrastructure & Technology Development Engineer - Hardware Verification (m/f/x) Entry Level Ehningen, DE",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129857"
+  },
+  {
+   "at": "2026-11-20T16:40:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.41.210.72) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T16:26:52+00:00",
+ "last_run": "2026-11-20T16:41:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
