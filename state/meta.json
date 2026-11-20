@@ -1,5 +1,5 @@
 {
- "alerts": 304,
+ "alerts": 305,
  "commands_set": true,
  "events": [
   {
@@ -2993,12 +2993,20 @@
    "star": false,
    "title": "Software Developer (C#,.Net)",
    "url": "https://careers.siemens-healthineers.com/global/en/job/P-100662/Software-Developer-C-Net"
+  },
+  {
+   "at": "2026-11-20T17:10:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.232.227.149) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T17:05:45+00:00",
+ "last_run": "2026-11-20T17:11:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
