@@ -1,5 +1,5 @@
 {
- "alerts": 344,
+ "alerts": 346,
  "commands_set": true,
  "events": [
   {
@@ -3321,12 +3321,28 @@
    "star": false,
    "title": "OPC Applications Engineering, Sr Engineer",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-20T20:39:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.172.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T20:39:08+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.172.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T20:26:53+00:00",
+ "last_run": "2026-11-20T20:41:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 90,
+ "runs": 91,
  "tg_offset": 297408924
 }
