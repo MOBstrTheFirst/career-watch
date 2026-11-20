@@ -1,5 +1,5 @@
 {
- "alerts": 355,
+ "alerts": 358,
  "commands_set": true,
  "events": [
   {
@@ -3417,12 +3417,36 @@
    "star": false,
    "title": "Consultant Cloud/Finops H/F",
    "url": "https://careers.thalesgroup.com/global/en/job/R0333505/Consultant-Cloud-Finops-H-F"
+  },
+  {
+   "at": "2026-11-20T21:54:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.125) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T21:54:28+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.125) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T21:55:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.45) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T21:41:05+00:00",
+ "last_run": "2026-11-20T21:56:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 95,
+ "runs": 96,
  "tg_offset": 297408924
 }
