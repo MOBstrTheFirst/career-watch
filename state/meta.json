@@ -1,5 +1,5 @@
 {
- "alerts": 157,
+ "alerts": 163,
  "commands_set": true,
  "events": [
   {
@@ -1545,12 +1545,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.28.182) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T10:40:47+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Senior Project Manager Corporate Project Management (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/senior-project-manager-corporate-project-management-m-w-d_251563-1722882.html"
+  },
+  {
+   "at": "2026-11-20T10:40:47+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Data Analytics & AI im Procurement",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Data-Analytics-AI-im-Procurement/307858"
+  },
+  {
+   "at": "2026-11-20T10:39:12+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201350 Praktikant Digitale Transformation und Enablement (w/m/x) Veröffentlicht: 20.11.2026 Beratung / Organisation München Neu Beratung / Organisatio",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201350.html"
+  },
+  {
+   "at": "2026-11-20T10:39:12+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201185 Praktikant Digitale Fahrzeugakte (w/m/x) Veröffentlicht: 20.11.2026 IT Projektmanagement München Neu IT Projektmanagement München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201185.html"
+  },
+  {
+   "at": "2026-11-20T10:39:12+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "193375 Werkstudent Testfeld IT und Anlagenrechnerbetreuung (w/m/x) Veröffentlicht: 20.11.2026 IT Betrieb München Neu IT Betrieb München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.193375.html"
+  },
+  {
+   "at": "2026-11-20T10:39:12+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "172747 Praktikant Innovation & Digitalisierung Gesamtfahrzeugqualität (w/m/x) Veröffentlicht: 20.11.2026 Kontinuierliche Verbesserung Regensburg Neu K",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.172747.html"
+  },
+  {
+   "at": "2026-11-20T10:40:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.238.24.34) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T10:40:39+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Abschlussarbeit –Integration 3D- & Planungsdaten mit OpenUSD in NVIDIA Omniverse",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T10:30:32+00:00",
+ "last_run": "2026-11-20T10:41:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 49,
+ "runs": 50,
  "tg_offset": 297408924
 }
