@@ -1,5 +1,5 @@
 {
- "alerts": 228,
+ "alerts": 230,
  "commands_set": true,
  "events": [
   {
@@ -2265,12 +2265,28 @@
    "star": false,
    "title": "2027 New Graduates - RAN System Validation Beijing,Beijing,China Product Development Gepostete vor 3 Monaten",
    "url": "https://jobs.ericsson.com/careers/job/563121777144259"
+  },
+  {
+   "at": "2026-11-20T13:24:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.77.158.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T13:24:28+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.77.158.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T13:15:04+00:00",
+ "last_run": "2026-11-20T13:27:08+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
