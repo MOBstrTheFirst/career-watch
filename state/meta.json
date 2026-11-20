@@ -1,5 +1,5 @@
 {
- "alerts": 230,
+ "alerts": 233,
  "commands_set": true,
  "events": [
   {
@@ -2281,12 +2281,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.77.158.1) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T13:41:25+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Data Domain Manager (m/f/d) Project Excellence Digitalization",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Data-Domain-Manager-m-f-d-Project-Excellence-Digitalization/304484"
+  },
+  {
+   "at": "2026-11-20T13:40:45+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": false,
+   "title": "1 new text line(s), e.g. 151",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-20T13:40:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.86.110.158) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T13:27:08+00:00",
+ "last_run": "2026-11-20T13:41:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
