@@ -1,5 +1,5 @@
 {
- "alerts": 290,
+ "alerts": 294,
  "commands_set": true,
  "events": [
   {
@@ -2801,12 +2801,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.247.116) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T16:10:45+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent Corporate Transformation (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-corporate-transformation-m-w-d_251563-1722977.html"
+  },
+  {
+   "at": "2026-11-20T16:08:58+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Centerkoordination Montageplanung Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-centerkoordination-montageplanung-247785-mer0004afv"
+  },
+  {
+   "at": "2026-11-20T16:08:58+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Entwicklung und Serienbetreuung Elektrischer Antrieb Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-entwicklung-und-serienbetreuung-elektrischer-antrieb-247707-mer0004atn"
+  },
+  {
+   "at": "2026-11-20T16:10:54+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Senior Project Manager (f/m/d) Strategic Manufacturing Projects",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525612"
+  },
+  {
+   "at": "2026-11-20T16:10:54+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Technical Trainer (f/m/d) Protection Systems",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522832"
+  },
+  {
+   "at": "2026-11-20T16:10:54+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Global Lead (f/m/d) Quality Management in Projects",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/514910"
+  },
+  {
+   "at": "2026-11-20T16:10:54+00:00",
+   "kind": "new",
+   "site": "IBM – Germany",
+   "star": false,
+   "title": "Sales Staff Solutions Engineer (f/m/x) Professional Multiple Cities",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=140319"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T16:05:47+00:00",
+ "last_run": "2026-11-20T16:11:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 71,
+ "runs": 72,
  "tg_offset": 297408924
 }
