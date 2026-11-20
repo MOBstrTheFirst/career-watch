@@ -1,5 +1,5 @@
 {
- "alerts": 147,
+ "alerts": 155,
  "commands_set": true,
  "events": [
   {
@@ -1449,12 +1449,92 @@
    "star": true,
    "title": "Working Student - Communications and Learning Development for Tire Manufacturing (m/f/d) - REF100115U Job ID: REF100115U",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF100115U-p-7351624b9330614a64108b7041365494/working-student-communications-and-learning-development-for-tire-manufacturing-m-f-d-ref100115u?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-20T10:25:56+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Logistics Services & Projects Professional (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100419/Logistics-Services-Projects-Professional-f-m-d"
+  },
+  {
+   "at": "2026-11-20T10:25:56+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Working Student (f/m/d) in Branch Admin & Controlling",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-in-Branch-Admin-Controlling/307663"
+  },
+  {
+   "at": "2026-11-20T10:24:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.38.223) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T10:24:12+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.38.223) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T10:25:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 130.131.255.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T10:25:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Thermal Simulation (f/m/div) München HRC1889486 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972397298?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T10:25:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Verification (f/m/div) Villach HRC1883476",
+   "url": "https://jobs.infineon.com/careers/job/563808972356418?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T10:25:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Staff Engineer Final Test Technology & Innovation Samut Prakan HRC1802258",
+   "url": "https://jobs.infineon.com/careers/job/563808972011558?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T10:25:07+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Software Architect (C++, Distributed Systems) – MR Scanner SW",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100660/Software-Architect-C-Distributed-Systems-MR-Scanner-SW"
+  },
+  {
+   "at": "2026-11-20T10:26:02+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.80.94.253) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T10:12:28+00:00",
+ "last_run": "2026-11-20T10:26:23+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
