@@ -1,5 +1,5 @@
 {
- "alerts": 181,
+ "alerts": 187,
  "commands_set": true,
  "events": [
   {
@@ -1833,12 +1833,36 @@
    "star": true,
    "title": "Werkstudent Event- und Trainingsmanagement (w/m/div.)",
    "url": "https://jobs.bosch.com/en/job/REF301500X-werkstudent-event-und-trainingsmanagement-w-m-div"
+  },
+  {
+   "at": "2026-11-20T11:40:51+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Lean Manager (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Lean-Manager-f-m-d/305237"
+  },
+  {
+   "at": "2026-11-20T11:39:27+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": true,
+   "title": "Internship - Test Automation (m/f/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/Ingolstadt-Internship-Test-Automation-%28mfd%29-85053/1459222333"
+  },
+  {
+   "at": "2026-11-20T11:41:23+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Aviation Head of Endmontage/Segmentleiter Manufacturing (m/w/d) 20.11.2026 Produktion Laupheim",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/head-of-endmontage-segmentleiter-manufacturing-m-w-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T11:26:53+00:00",
+ "last_run": "2026-11-20T11:41:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 53,
+ "runs": 54,
  "tg_offset": 297408924
 }
