@@ -1,5 +1,5 @@
 {
- "alerts": 168,
+ "alerts": 172,
  "commands_set": true,
  "events": [
   {
@@ -1649,12 +1649,116 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.245.136) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": true,
+   "title": "B. Eng. Mechatronik (m/w/d) - Stammbereich Produktentwicklung/EMV-Testlabor ab 01.09.2027",
+   "url": "https://jobs.zf.com/job/Hannover-B_-Eng_-Mechatronik-%28mwd%29-Stammbereich-ProduktentwicklungEMV-Testlabor-ab-01_09_2027-NI-30453/1459184633"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Material Handler 2",
+   "url": "https://jobs.zf.com/job/Vernon-Hills-Material-Handler-2-IL-60061/1370241033"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Financial Controlling Specialist (m/f/d)",
+   "url": "https://jobs.zf.com/job/Beograd-Financial-Controlling-Specialist-%28mfd%29-Cent-11070/1380546533"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Team Lead Finance Hub (m/f/d)",
+   "url": "https://jobs.zf.com/job/Beograd-Team-Lead-Finance-Hub-%28mfd%29-Cent-11070/1380547533"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Senior ADAS Application Engineer",
+   "url": "https://jobs.zf.com/job/Auburn-Hills-Senior-ADAS-Application-Engineer-MI-48326/1395687733"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Account Manager",
+   "url": "https://jobs.zf.com/job/Mukilteo-Account-Manager-WA/1419374233"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Trainee in Global Purchasing Department (m/f/d)",
+   "url": "https://jobs.zf.com/job/Cz%C4%99stochowa-Trainee-in-Global-Purchasing-Department-%28mfd%29-SL/1419041633"
+  },
+  {
+   "at": "2026-11-20T11:09:52+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Supplier Quality Assurance Engineer",
+   "url": "https://jobs.zf.com/job/Guadalupe-Supplier-Quality-Assurance-Engineer-NLE-64830/1287356801"
+  },
+  {
+   "at": "2026-11-20T11:09:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.14.214.87) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T11:09:51+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Gruppenpraktikum Mädchen in der IT (f/m/div) - März 2027 München HRC1899597",
+   "url": "https://jobs.infineon.com/careers/job/563808972411469?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T11:09:51+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Industriearbeit in der Produktion (Schichtbetrieb) am Standort Villach Frühjahr 2027 (w/m/div) Villach, Austria 563808972365668",
+   "url": "https://jobs.infineon.com/careers/job/563808972365668?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T11:09:51+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Industriearbeit in der Produktion (Schichtbetrieb) am Standort Villach Sommer 2027 (w/m/div) Villach, Austria 563808972365669",
+   "url": "https://jobs.infineon.com/careers/job/563808972365669?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-20T11:09:51+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) Sustainability Climate Team",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530253"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T10:57:03+00:00",
+ "last_run": "2026-11-20T11:11:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
