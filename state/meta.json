@@ -1,5 +1,5 @@
 {
- "alerts": 211,
+ "alerts": 219,
  "commands_set": true,
  "events": [
   {
@@ -2065,12 +2065,84 @@
    "star": true,
    "title": "Intern (Technical-Engineering)",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-20T12:41:30+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": true,
+   "title": "https://jobs.man.eu/job/Praktikant-im-Bereich-Qualit%C3%A4tsmanagement-Entwicklungsprojekte-%28wmd%29/873-de_DE",
+   "url": "https://jobs.man.eu/job/Praktikant-im-Bereich-Qualit%C3%A4tsmanagement-Entwicklungsprojekte-%28wmd%29/873-de_DE"
+  },
+  {
+   "at": "2026-11-20T12:41:30+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Communications & People Development",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Communications-People-Development/307808"
+  },
+  {
+   "at": "2026-11-20T12:39:01+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.103.32) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T12:39:01+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.103.32) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T12:39:01+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Engineering Operations Manager CCU (w/m/d)",
+   "url": "https://jobs.zf.com/job/Koblenz-Engineering-Operations-Manager-CCU-%28wmd%29-RP-56070/1459263333"
+  },
+  {
+   "at": "2026-11-20T12:39:01+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Delivery Lead CCU (w/m/d)",
+   "url": "https://jobs.zf.com/job/Koblenz-Delivery-Lead-CCU-%28wmd%29-RP-56070/1459265433"
+  },
+  {
+   "at": "2026-11-20T12:40:34+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.21) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T12:40:34+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Praktikum - Supply Chain International Outbound/Customers (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-20T12:40:29+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.178.119.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T12:26:51+00:00",
+ "last_run": "2026-11-20T12:41:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
