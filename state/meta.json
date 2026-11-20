@@ -1,5 +1,5 @@
 {
- "alerts": 240,
+ "alerts": 245,
  "commands_set": true,
  "events": [
   {
@@ -2361,12 +2361,68 @@
    "star": false,
    "title": "CNC-Programmierer (m/w/d) - befristet bis 31.12.2027 - REF99662H Job ID: REF99662H",
    "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99662H-p-6ce84ebfeacc8bd95780fe3305776df8/cnc-programmierer-m-w-d-befristet-bis-31122027-ref99662h?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-20T14:11:03+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in/Praktikant*in (all genders) - Knowledge Graphs und Ontologien für Geodaten",
+   "url": "https://iisfraunhofer.softgarden.io/job/68204036/Werkstudent-in-Praktikant-in-all-genders-Knowledge-Graphs-und-Ontologien-f%C3%BCr-Geodaten?jobDbPVId=291234725&l=de"
+  },
+  {
+   "at": "2026-11-20T14:11:03+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in/Praktikant*in (all genders) - Resilienz kritischer Versorgungsstrukturen und Projektmanagement",
+   "url": "https://iisfraunhofer.softgarden.io/job/68201871/Werkstudent-in-Praktikant-in-all-genders-Resilienz-kritischer-Versorgungsstrukturen-und-Projektmanagement?jobDbPVId=291234685&l=de"
+  },
+  {
+   "at": "2026-11-20T14:11:05+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.183.82) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T14:11:05+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) Leadership Development Programs",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530222"
+  },
+  {
+   "at": "2026-11-20T14:11:05+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) Generative AI & Software Modernization",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529367"
+  },
+  {
+   "at": "2026-11-20T14:19:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.135.114) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T14:19:26+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Werkstudent im Bereich Sales Operations (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301518A-werkstudent-im-bereich-sales-operations-w-m-div"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T14:04:22+00:00",
+ "last_run": "2026-11-20T14:19:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
