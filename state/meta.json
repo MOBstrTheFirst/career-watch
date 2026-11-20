@@ -1,5 +1,5 @@
 {
- "alerts": 127,
+ "alerts": 130,
  "commands_set": true,
  "events": [
   {
@@ -1209,12 +1209,36 @@
    "star": false,
    "title": "Account Manager Reading,Berkshire,United Kingdom Sales Gepostete vor 4 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777418240"
+  },
+  {
+   "at": "2026-11-20T09:24:11+00:00",
+   "kind": "new",
+   "site": "Valeo",
+   "star": false,
+   "title": "Platform Senior Product Technical Leader (m/w/d)",
+   "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Erlangen/Platform-Senior-Product-Technical-Leader--m-w-d-_REQ2026082253-1?locations=1bc7ee912dc9100c1b60a943df080000&locations=1bc7ee912dc9100c1b61d372c9c90000&locations=1bc7ee912dc9100c1b60d970c6f20000&locations=1bc7ee912dc9100c1b61e9bd4f560000&locations=1bc7ee912dc9100c1b60de4171170000&locations=1bc7ee912dc9100c1b5ef09909120000&locations=a7972f0282f51001907e3275ab4f0000&locations=1bc7ee912dc9100c1b61f4949a090000&locations=1bc7ee912dc9100c1b61e7ef20e50000"
+  },
+  {
+   "at": "2026-11-20T09:24:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.78.140) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T09:25:42+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.149.48.196) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T09:12:02+00:00",
+ "last_run": "2026-11-20T09:26:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 43,
+ "runs": 44,
  "tg_offset": 297408924
 }
