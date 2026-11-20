@@ -1,5 +1,5 @@
 {
- "alerts": 71,
+ "alerts": 73,
  "commands_set": true,
  "events": [
   {
@@ -601,12 +601,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 145.132.102.50) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-20T06:40:50+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Entwicklungsprojektleitung Large Cars Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklungsprojektleitung-large-cars-247722-mer0004alr"
+  },
+  {
+   "at": "2026-11-20T06:40:50+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Forschung und Entwicklung Interieur Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-forschung-und-entwicklung-interieur-247715-mer0004ahm"
+  },
+  {
+   "at": "2026-11-20T06:40:50+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Entwicklung und Serienbetreuung Elektrischer Antriebe (RD/ETS1) Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.02.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-entwicklung-und-serienbetreuung-elektrischer-antriebe-rdets1-247707-mer0004atn"
+  },
+  {
+   "at": "2026-11-20T06:40:16+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.83.162.34) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T06:31:30+00:00",
+ "last_run": "2026-11-20T06:42:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
