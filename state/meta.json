@@ -1,5 +1,5 @@
 {
- "alerts": 187,
+ "alerts": 200,
  "commands_set": true,
  "events": [
   {
@@ -1857,12 +1857,44 @@
    "star": false,
    "title": "Diehl Aviation Head of Endmontage/Segmentleiter Manufacturing (m/w/d) 20.11.2026 Produktion Laupheim",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/head-of-endmontage-segmentleiter-manufacturing-m-w-d"
+  },
+  {
+   "at": "2026-11-20T12:04:44+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Logistikcore Mitarbeiter (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Logistikcore-Mitarbeiter-w-m-d/307360"
+  },
+  {
+   "at": "2026-11-20T11:53:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.115.144) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T11:53:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.217.115.144) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-20T11:55:56+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": false,
+   "title": "Wissenschaftliche/r Mitarbeiter/in Themenfeld Digitale Fabrikplanung",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Wissenschaftlicher-Mitarbeiterin-Themenfeld-Digitale-Fabrikplanung-86159/1459239833"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T11:41:38+00:00",
+ "last_run": "2026-11-20T12:04:57+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
