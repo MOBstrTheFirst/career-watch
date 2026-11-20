@@ -1,5 +1,5 @@
 {
- "alerts": 309,
+ "alerts": 311,
  "commands_set": true,
  "events": [
   {
@@ -3033,12 +3033,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.179.102.145) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-20T17:54:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.23.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-20T17:54:13+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.23.208) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-20T17:51:42+00:00",
+ "last_run": "2026-11-20T17:57:02+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-19",
- "runs": 78,
+ "runs": 79,
  "tg_offset": 297408924
 }
