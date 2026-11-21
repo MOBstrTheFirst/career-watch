@@ -1,5 +1,5 @@
 {
- "alerts": 101,
+ "alerts": 103,
  "commands_set": true,
  "events": [
   {
@@ -753,12 +753,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.249.78.161) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-21T08:10:34+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.146) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-21T08:10:34+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) AI Enablement",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528872"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-21T07:56:16+00:00",
+ "last_run": "2026-11-21T08:11:11+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-20",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
