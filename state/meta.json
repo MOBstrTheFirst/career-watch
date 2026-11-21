@@ -1,5 +1,5 @@
 {
- "alerts": 81,
+ "alerts": 94,
  "commands_set": true,
  "events": [
   {
@@ -673,12 +673,36 @@
    "star": false,
    "title": "2 new text line(s), e.g. November 21, 2026 at 7:00 AM UTC",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-21T07:28:26+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.89.124.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-21T07:28:26+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 13.89.124.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-21T07:29:57+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.194) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-21T07:26:25+00:00",
+ "last_run": "2026-11-21T07:30:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-20",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
