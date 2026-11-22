@@ -1,5 +1,5 @@
 {
- "alerts": 78,
+ "alerts": 82,
  "commands_set": true,
  "events": [
   {
@@ -641,12 +641,44 @@
    "star": false,
    "title": "5. Assistant Engineer",
    "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-22T10:08:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.34.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-22T10:08:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.34.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-22T10:09:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.59.163) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-22T10:10:03+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.230.179.99) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-22T09:56:35+00:00",
+ "last_run": "2026-11-22T10:11:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-21",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
