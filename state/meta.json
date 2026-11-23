@@ -1,5 +1,5 @@
 {
- "alerts": 126,
+ "alerts": 128,
  "commands_set": true,
  "events": [
   {
@@ -1145,12 +1145,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.157.48) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-23T09:59:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.99.236.239) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T09:59:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - AI Enabled Embedded Firmware & Automation (f/m/div) Dresden HRC1881346 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972352037?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T09:59:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student – Power Electronics & Middleware Development (f/m/div) Dresden HRC1881351 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972352038?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T09:59:31+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Kommunikációs specialista / Communications specialist (f/m/div) Cegléd HRC1881779",
+   "url": "https://jobs.infineon.com/careers/job/563808972398503?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T09:43:25+00:00",
+ "last_run": "2026-11-23T10:03:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
