@@ -1,5 +1,5 @@
 {
- "alerts": 250,
+ "alerts": 255,
  "commands_set": true,
  "events": [
   {
@@ -2473,12 +2473,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.116.34) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T17:25:44+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": false,
+   "title": "PreMaster Programm - Gap Year - ctrlX Drives Hardware Entwicklung",
+   "url": "https://jobs.bosch.com/en/job/REF301277S-premaster-programm-gap-year-ctrlx-drives-hardware-entwicklung"
+  },
+  {
+   "at": "2026-11-23T17:26:37+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Internship in Biophysics and Molecular Biology",
+   "url": "https://jobs.bosch.com/en/job/REF301620R-internship-in-biophysics-and-molecular-biology"
+  },
+  {
+   "at": "2026-11-23T17:26:37+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Pflichtpraktikum in der eBike Batterie Hardware und Software-Entwicklung",
+   "url": "https://jobs.bosch.com/en/job/REF301641C-pflichtpraktikum-in-der-ebike-batterie-hardware-und-software-entwicklung"
+  },
+  {
+   "at": "2026-11-23T17:28:52+00:00",
+   "kind": "new",
+   "site": "Bosch – Bietigheim - Bissingen",
+   "star": true,
+   "title": "Pflichtpraktikum im Projektmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF301642L-pflichtpraktikum-im-projektmanagement"
+  },
+  {
+   "at": "2026-11-23T17:28:52+00:00",
+   "kind": "new",
+   "site": "Bosch – Gerlingen - Schillerhöhe",
+   "star": true,
+   "title": "Pflichtpraktikum in Generative AI & Leadership Intelligence",
+   "url": "https://jobs.bosch.com/en/job/REF301625D-pflichtpraktikum-in-generative-ai-leadership-intelligence"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T17:14:55+00:00",
+ "last_run": "2026-11-23T17:30:10+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 76,
+ "runs": 77,
  "tg_offset": 297408924
 }
