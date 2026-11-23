@@ -1,5 +1,5 @@
 {
- "alerts": 78,
+ "alerts": 82,
  "commands_set": true,
  "events": [
   {
@@ -681,12 +681,76 @@
    "star": true,
    "title": "Bachelor- oder Masterarbeit - Pflanzliche Rohstoffe (all genders) 1",
    "url": "https://jobs.fraunhofer.de/job/Freising-Bachelor-oder-Masterarbeit-Pflanzliche-Rohstoffe-%28all-genders%29-1-85354/1459561633"
+  },
+  {
+   "at": "2026-11-23T07:09:29+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": false,
+   "title": "Documentation Engineer / Technical Writer (m/f/d) – Structured Authoring (DITA / DocBook)",
+   "url": "https://jobs.apple.com/en-us/details/200690366-1731/documentation-engineer-technical-writer-m-f-d-structured-authoring-dita-docbook?team=HRDWR"
+  },
+  {
+   "at": "2026-11-23T07:09:29+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": false,
+   "title": "Launch- & Skalierungsmanagement Smart Charging Solutions (d/m/w/x) Stuttgart, Industriestrasse 19+21 Start from: immediately",
+   "url": "https://jobs.mercedes-benz.com/enUS/launch-and-skalierungsmanagement-smart-charging-solutions-dmwx-247946-mer0004a9d"
+  },
+  {
+   "at": "2026-11-23T07:10:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Manager Digital G2M Project Management (f/m/div) München HRC1678179 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971340002?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T07:10:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Project Management Malakka HRC1892969",
+   "url": "https://jobs.infineon.com/careers/job/563808972397300?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T07:10:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Senior Project Manager OSAT Ipoh + 1 more HRC1509942 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808969050021?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T07:10:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Project Management Malakka (Malaysia) HRC1558343",
+   "url": "https://jobs.infineon.com/careers/job/563808969900546?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T07:10:07+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Project Manager Budapest HRC1867354",
+   "url": "https://jobs.infineon.com/careers/job/563808972359672?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T07:10:47+00:00",
+   "kind": "new",
+   "site": "Aumovio (ex-Continental automotive)",
+   "star": true,
+   "title": "Praktikum / Thesis - Technical Target Costing & Cost Engineering Job ID: REF82667P",
+   "url": "https://jobs.aumovio.com/en/detail-page/job-detail/REF82667P-p-60458dfff6da809f15eec3bea278f46f/praktikum-thesis-technical-target-costing-cost-engineering-?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D&tx_conjobs_filter%5BitemsPerPage%5D=100"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T06:57:05+00:00",
+ "last_run": "2026-11-23T07:11:24+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
