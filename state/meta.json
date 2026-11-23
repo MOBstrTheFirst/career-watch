@@ -1,5 +1,5 @@
 {
- "alerts": 102,
+ "alerts": 105,
  "commands_set": true,
  "events": [
   {
@@ -929,12 +929,44 @@
    "star": true,
    "title": "Werkstudent/Praktikum - 3D-Druck und Microcontroller-Programmierung (w/m/div) Dresden HRC1858509",
    "url": "https://jobs.infineon.com/careers/job/563808972261270?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T08:39:09+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – München",
+   "star": true,
+   "title": "Studentische Mitarbeit zur Unterstützung in der Weiterbildung und Serviceentwicklung (all genders)",
+   "url": "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Studentische-Mitarbeit-zur-Unterst%C3%BCtzung-in-der-Weiterbildung-und-Serviceentwicklung-%28all-genders%29-80686/1459591433"
+  },
+  {
+   "at": "2026-11-23T08:39:09+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Katalysatorentwicklung von Otto-Motoren Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-katalysatorentwicklung-von-otto-motoren-247970-mer0004awe"
+  },
+  {
+   "at": "2026-11-23T08:42:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Industriepraktikum - Digitalisierung, Entwicklungsprozesse & Product Lifecycle Management (w/m/div) Villach HRC1660823 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971058277?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-23T08:42:26+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Industriepratikum - UPD FUR (w/m/div) Villach (Österreich) HRC1635436 Vor Ort Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808970673414?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T08:26:36+00:00",
+ "last_run": "2026-11-23T08:42:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
