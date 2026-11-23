@@ -1,5 +1,5 @@
 {
- "alerts": 179,
+ "alerts": 184,
  "commands_set": true,
  "events": [
   {
@@ -1697,12 +1697,92 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.152.36.192) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.38.54) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.38.54) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200609 Praktikant Automatisierung der Fahrzeugintegration von Fahrerassistenz-Sensoren (w/m/x) Veröffentlicht: 23.11.2026 Fahrerassistenzsysteme Münch",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200609.html"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200299 Praktikum Events & Kommunikation BMW Oberklasse (w/m/x) Veröffentlicht: 23.11.2026 Events München Neu Events München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200299.html"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199867 Praktikant Qualitätsmanagement Digitalisierung, KI und Data Analytics (w/m/x) Veröffentlicht: 23.11.2026 Kontinuierliche Verbesserung Dingolfin",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199867.html"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199698 Praktikant Automatisierung, Data Analytics & AI im Finance (w/m/x) Veröffentlicht: 23.11.2026 Rechnungswesen München Neu Rechnungswesen München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199698.html"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "198377 Praktikant Bereichssteuerung, Fremdleistungsmanagement & Immobilienprojekte (w/m/x) Veröffentlicht: 23.11.2026 Strategie / Projektmanagement Mü",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198377.html"
+  },
+  {
+   "at": "2026-11-23T12:53:46+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "184620 Praktikant automatisierte Fahrfunktionen - Human Factors & Datenanalyse (w/m/x) Veröffentlicht: 23.11.2026 Fahrerassistenzsysteme München Neu F",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.184620.html"
+  },
+  {
+   "at": "2026-11-23T12:57:15+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Global Pricing Manager (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530431"
+  },
+  {
+   "at": "2026-11-23T12:55:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.94.122) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T12:42:18+00:00",
+ "last_run": "2026-11-23T12:57:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
