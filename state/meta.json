@@ -1,5 +1,5 @@
 {
- "alerts": 230,
+ "alerts": 237,
  "commands_set": true,
  "events": [
   {
@@ -2217,12 +2217,68 @@
    "star": false,
    "title": "https://careers.ti.com/en/sites/CX/job/25020457?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
    "url": "https://careers.ti.com/en/sites/CX/job/25020457?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-23T15:57:12+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in/Praktikant*in/ - zur Unterstützung unserer „Smart Connectivity“ Projekte in der Abteilung Wireless Systems & Standardization (all gende",
+   "url": "https://iisfraunhofer.softgarden.io/job/68910206/Werkstudent-in-Praktikant-in-zur-Unterst%C3%BCtzung-unserer-%E2%80%9ESmart-Connectivity%E2%80%9C-Projekte-in-der-Abteilung-Wireless-Systems-Standardization-all-genders-?jobDbPVId=291445551&l=de"
+  },
+  {
+   "at": "2026-11-23T15:57:12+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Business Continuity Manager for Magnetic Resonance (f/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100439/Business-Continuity-Manager-for-Magnetic-Resonance-f-m-d"
+  },
+  {
+   "at": "2026-11-23T15:57:12+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Java Developer/DevSecOps (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Java-Developer-DevSecOps-w-m-d/307303"
+  },
+  {
+   "at": "2026-11-23T15:54:06+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.119.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T15:54:06+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.119.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T15:56:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.242.199.201) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T15:56:18+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "ITH System Engineer klinische Informationssysteme (m/w/d) – Healthcare IT",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100778/ITH-System-Engineer-klinische-Informationssysteme-m-w-d-Healthcare-IT"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T15:47:58+00:00",
+ "last_run": "2026-11-23T15:57:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
