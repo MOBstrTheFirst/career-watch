@@ -1,5 +1,5 @@
 {
- "alerts": 261,
+ "alerts": 265,
  "commands_set": true,
  "events": [
   {
@@ -2593,12 +2593,52 @@
    "star": true,
    "title": "Intern",
    "url": "https://careers.thalesgroup.com/global/en/search-results?qcity=Ulm"
+  },
+  {
+   "at": "2026-11-23T18:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.96.111.34) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T18:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.96.111.34) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T18:08:39+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": false,
+   "title": "Global Director Cost Engineering & Strategic Negotiations (m/f/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Global-Director-Cost-Engineering-&-Strategic-Negotiations-%28mfd%29-80809/1459868633"
+  },
+  {
+   "at": "2026-11-23T18:10:45+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer - Liège / Luxembourg (M/F/D)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100673/Customer-Service-Engineer-Liège-Luxembourg-M-F-D"
+  },
+  {
+   "at": "2026-11-23T18:10:45+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Senior Staff UX Designer for User-Centered Design Excellence (w/m/d)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100677/Senior-Staff-UX-Designer-for-User-Centered-Design-Excellence-w-m-d"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T17:59:09+00:00",
+ "last_run": "2026-11-23T18:19:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 79,
+ "runs": 80,
  "tg_offset": 297408924
 }
