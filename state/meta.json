@@ -1,5 +1,5 @@
 {
- "alerts": 19,
+ "alerts": 24,
  "commands_set": true,
  "events": [
   {
@@ -153,12 +153,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.246.2) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.78.174.132) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.78.174.132) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Startups & NeXt Business Innovation Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 15.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-startups-and-next-business-innovation-247851-mer0004aei"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Fahrzeugkonzepte/Showcars/Advanced Engineering Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-fahrzeugkonzepteshowcarsadvanced-engineering-247890-mer0004ash"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Flexible studentische Beschäftigung in der Produktion im Werk Sindelfingen Sommer 2027 Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.0",
+   "url": "https://jobs.mercedes-benz.com/enUS/flexible-studentische-beschaftigung-in-der-produktion-im-werk-sindelfingen-sommer-2027-247884-mer0004awt"
+  },
+  {
+   "at": "2026-11-23T01:08:44+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Technische Informationsschrift Sindelfingen, Benzstr. Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-technische-informationsschrift-247874-mer0004ark"
+  },
+  {
+   "at": "2026-11-23T01:10:10+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.215.209.98) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T01:10:23+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.221.153.194) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T00:56:55+00:00",
+ "last_run": "2026-11-23T01:11:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
