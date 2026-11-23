@@ -1,5 +1,5 @@
 {
- "alerts": 201,
+ "alerts": 205,
  "commands_set": true,
  "events": [
   {
@@ -1969,12 +1969,52 @@
    "star": false,
    "title": "SP Driver | Early Career Program Stockholm,Stockholm,Sweden Product Development Gepostete vor 7 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777229016"
+  },
+  {
+   "at": "2026-11-23T14:11:26+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent im technischen Facility Management (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-im-technischen-facility-management-m-w-d_251563-1723714.html"
+  },
+  {
+   "at": "2026-11-23T14:11:26+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "System Architekt IP Netze - Funkkommunikationssysteme (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/system-architekt-ip-netze-funkkommunikationssysteme-m-w-d_251563-1628702.html"
+  },
+  {
+   "at": "2026-11-23T14:11:26+00:00",
+   "kind": "new",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Digital Project Manager (all genders) New MTU Maintenance Serbia d.o.o. Nova Pazova Asset / Lease Management read more",
+   "url": "https://www.mtu.de/careers/online-job-market/job-posting/digital-project-manager-all-genders"
+  },
+  {
+   "at": "2026-11-23T14:10:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.246.70.120) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T14:10:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.214.44.213) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T13:59:58+00:00",
+ "last_run": "2026-11-23T14:11:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
