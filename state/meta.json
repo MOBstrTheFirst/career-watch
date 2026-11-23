@@ -1,5 +1,5 @@
 {
- "alerts": 213,
+ "alerts": 215,
  "commands_set": true,
  "events": [
   {
@@ -2073,12 +2073,28 @@
    "star": false,
    "title": "Diehl Aviation SAP Inhouse Consultant (m/w/d) Procurement 23.11.2026 Informationstechnologie Laupheim",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/sap-inhouse-consultant-m-w-d-procurement"
+  },
+  {
+   "at": "2026-11-23T14:55:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.54.113) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T14:55:39+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Data and AI Governance Architect (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527210"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T14:44:50+00:00",
+ "last_run": "2026-11-23T14:57:00+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
