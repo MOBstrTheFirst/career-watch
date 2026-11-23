@@ -1,5 +1,5 @@
 {
- "alerts": 197,
+ "alerts": 201,
  "commands_set": true,
  "events": [
   {
@@ -1905,12 +1905,76 @@
    "star": true,
    "title": "3 new text line(s), e.g. Praktikum Mechanik- / Strömungssimulation elektrische Antriebe",
    "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-23T13:53:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.237.69) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T13:53:56+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.237.69) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T13:55:22+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.113.182) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T13:59:29+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": true,
+   "title": "RF Designer (m/f/d) Rosenheim,Bavaria,Germany Product Development Gepostete vor 14 Minuten",
+   "url": "https://jobs.ericsson.com/careers/job/563121777635579"
+  },
+  {
+   "at": "2026-11-23T13:59:29+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Software Developer | Early Career Program Seoul,Seoul,Korea, Republic Of Product Development Gepostete vor einem Monat",
+   "url": "https://jobs.ericsson.com/careers/job/563121777434827"
+  },
+  {
+   "at": "2026-11-23T13:59:29+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Principal Cloud Security & Platform Architect Smart Village,Cairo,Egypt + 1 more Product Development Gepostete vor 4 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777487482"
+  },
+  {
+   "at": "2026-11-23T13:59:29+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "Junior L1 Software Developer Ottawa,Ontario,Canada Product Development Gepostete vor 11 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777519326"
+  },
+  {
+   "at": "2026-11-23T13:59:29+00:00",
+   "kind": "new",
+   "site": "Ericsson",
+   "star": false,
+   "title": "SP Driver | Early Career Program Stockholm,Stockholm,Sweden Product Development Gepostete vor 7 Tagen",
+   "url": "https://jobs.ericsson.com/careers/job/563121777229016"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T13:44:21+00:00",
+ "last_run": "2026-11-23T13:59:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 62,
+ "runs": 63,
  "tg_offset": 297408924
 }
