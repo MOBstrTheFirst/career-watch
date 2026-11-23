@@ -1,11 +1,28 @@
 {
- "alerts": 0,
+ "alerts": 2,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-23T23:07:04+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "Senior Physicist (m/f/d) - for semiconductor industry",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Senior-Physicist--m-f-d----for-semiconductor-industry_R2612258?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-23T23:00:36+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 51.57.84.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T22:57:25+00:00",
+ "last_run": "2026-11-23T23:07:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
