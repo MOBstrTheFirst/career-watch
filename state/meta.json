@@ -1,5 +1,5 @@
 {
- "alerts": 27,
+ "alerts": 31,
  "commands_set": true,
  "events": [
   {
@@ -241,12 +241,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 132.196.80.214) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T01:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.178.38) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-23T01:38:45+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.178.38) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-23T01:40:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.190.183.86) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-23T01:40:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Products & Solutions Development Team Leader",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100664/Products-Solutions-Development-Team-Leader"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-23T01:26:39+00:00",
+ "last_run": "2026-11-23T01:41:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-22",
- "runs": 10,
+ "runs": 11,
  "tg_offset": 297408924
 }
