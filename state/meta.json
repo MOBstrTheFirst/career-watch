@@ -1,5 +1,5 @@
 {
- "alerts": 190,
+ "alerts": 192,
  "commands_set": true,
  "events": [
   {
@@ -1825,12 +1825,36 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/technical-sales-specialist-iv-southwest-region-m-f-d-x-818771"
+  },
+  {
+   "at": "2026-11-24T13:39:34+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – München",
+   "star": true,
+   "title": "Praktikantin/Praktikant (m/w/d) zur Unterstützung bei Laborarbeit im Mikrofluidik-Labor",
+   "url": "https://jobs.fraunhofer.de/job/M%C3%BCnchen-PraktikantinPraktikant-%28mwd%29-zur-Unterst%C3%BCtzung-bei-Laborarbeit-im-Mikrofluidik-Labor-80686/1460263833"
+  },
+  {
+   "at": "2026-11-24T13:39:34+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – München",
+   "star": true,
+   "title": "Internship to assist with laboratory work in the microfluidics laboratory (m/w/d)",
+   "url": "https://jobs.fraunhofer.de/job/M%C3%BCnchen-Internship-to-assist-with-laboratory-work-in-the-microfluidics-laboratory-%28mwd%29-80686/1460263933"
+  },
+  {
+   "at": "2026-11-24T13:40:33+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Messtechnik, Simulation und Prüfautomatisierung für Schienenfahrzeugkomponenten",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526326"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T13:26:57+00:00",
+ "last_run": "2026-11-24T13:41:41+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
