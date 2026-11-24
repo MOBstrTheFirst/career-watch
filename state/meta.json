@@ -1,5 +1,5 @@
 {
- "alerts": 99,
+ "alerts": 104,
  "commands_set": true,
  "events": [
   {
@@ -897,12 +897,60 @@
    "star": false,
    "title": "2. Werksstudent",
    "url": "https://jobs.infineon.com/careers?domain=infineon.com&location=Regensburg%2C%20Germany&sort_by=timestamp"
+  },
+  {
+   "at": "2026-11-24T08:38:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.89.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-24T08:38:52+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.236.89.1) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-24T08:38:52+00:00",
+   "kind": "possible",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Enterprise Integration Architect | Business Development & Pre-Sales (all genders)",
+   "url": "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_physical_location%5B%5D=215&search_criterion_physical_location%5B%5D=214&search_criterion_physical_location%5B%5D=38&search_criterion_physical_location%5B%5D=39&search_criterion_physical_location%5B%5D=211&search_criterion_physical_location%5B%5D=42&search_criterion_physical_location%5B%5D=240&search_criterion_physical_location%5B%5D=301&search_criterion_physical_location%5B%5D=201&search_criterion_physical_location%5B%5D=269&search_criterion_physical_location%5B%5D=196&search_criterion_physical_location%5B%5D=56&search_criterion_physical_location%5B%5D=150&search_criterion_physical_location%5B%5D=190&search_criterion_physical_location%5B%5D=59&search_criterion_physical_location%5B%5D=300&search_criterion_physical_location%5B%5D=15&search_criterion_physical_location%5B%5D=65&search_criterion_physical_location%5B%5D=184&search_criterion_physical_location%5B%5D=195&search_criterion_physical_location%5B%5D=180&search_criterion_physical_location%5B%5D=292&search_criterion_physical_location%5B%5D=73&search_criterion_physical_location%5B%5D=177&search_criterion_physical_location%5B%5D=14&search_criterion_physical_location%5B%5D=75&search_criterion_physical_location%5B%5D=376&search_criterion_physical_location%5B%5D=78&search_criterion_physical_location%5B%5D=171&search_criterion_physical_location%5B%5D=135&search_criterion_channel%5B%5D=12"
+  },
+  {
+   "at": "2026-11-24T08:38:52+00:00",
+   "kind": "possible",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Junior Consultant im Bereich Information Security (all genders)",
+   "url": "https://jobs.porsche.com/index.php?ac=search_result&search_criterion_physical_location%5B%5D=215&search_criterion_physical_location%5B%5D=214&search_criterion_physical_location%5B%5D=38&search_criterion_physical_location%5B%5D=39&search_criterion_physical_location%5B%5D=211&search_criterion_physical_location%5B%5D=42&search_criterion_physical_location%5B%5D=240&search_criterion_physical_location%5B%5D=301&search_criterion_physical_location%5B%5D=201&search_criterion_physical_location%5B%5D=269&search_criterion_physical_location%5B%5D=196&search_criterion_physical_location%5B%5D=56&search_criterion_physical_location%5B%5D=150&search_criterion_physical_location%5B%5D=190&search_criterion_physical_location%5B%5D=59&search_criterion_physical_location%5B%5D=300&search_criterion_physical_location%5B%5D=15&search_criterion_physical_location%5B%5D=65&search_criterion_physical_location%5B%5D=184&search_criterion_physical_location%5B%5D=195&search_criterion_physical_location%5B%5D=180&search_criterion_physical_location%5B%5D=292&search_criterion_physical_location%5B%5D=73&search_criterion_physical_location%5B%5D=177&search_criterion_physical_location%5B%5D=14&search_criterion_physical_location%5B%5D=75&search_criterion_physical_location%5B%5D=376&search_criterion_physical_location%5B%5D=78&search_criterion_physical_location%5B%5D=171&search_criterion_physical_location%5B%5D=135&search_criterion_channel%5B%5D=12"
+  },
+  {
+   "at": "2026-11-24T08:38:52+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Anwesenheitsmanagement (Pflicht-Praktikum) Esslingen am Neckar, Emil-Kessler-Str. 4 Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-anwesenheitsmanagement-pflicht-praktikum-248228-mer0004atm"
+  },
+  {
+   "at": "2026-11-24T08:47:21+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Global Head of Operations Automation & Digitalization Consulting (f/m/d)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526766"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T08:34:20+00:00",
+ "last_run": "2026-11-24T08:48:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
