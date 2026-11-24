@@ -1,5 +1,5 @@
 {
- "alerts": 104,
+ "alerts": 106,
  "commands_set": true,
  "events": [
   {
@@ -945,12 +945,28 @@
    "star": false,
    "title": "Global Head of Operations Automation & Digitalization Consulting (f/m/d)",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526766"
+  },
+  {
+   "at": "2026-11-24T08:56:21+00:00",
+   "kind": "new",
+   "site": "Huawei – Munich (Heisenberg Research Center)",
+   "star": true,
+   "title": "RF MEMS Modeling and Simulation Research Industry PhD Device Hardware System Innovation Laboratory - Heisenberg Research Center (Munich) · Huawei Heis",
+   "url": "https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8786530-rf-mems-modeling-and-simulation-research-industry-phd"
+  },
+  {
+   "at": "2026-11-24T08:55:19+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.237.78) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T08:48:44+00:00",
+ "last_run": "2026-11-24T08:57:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
