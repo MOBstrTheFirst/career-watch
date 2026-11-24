@@ -1,5 +1,5 @@
 {
- "alerts": 265,
+ "alerts": 269,
  "commands_set": true,
  "events": [
   {
@@ -2569,12 +2569,52 @@
    "star": true,
    "title": "FY27 Intern – Automated Driving Functions - 6 months, Munich, Germany Unterschleissheim, Bavaria, Germany Workstudy Intern Gepostete vor 18 Stunden",
    "url": "https://careers.qualcomm.com/careers/job/446722334540"
+  },
+  {
+   "at": "2026-11-24T18:39:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.134) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-24T18:39:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 3.42.157.134) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-24T18:39:35+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201364 Praktikant Generative KI im Produktionssystem und Einkauf (w/m/x) Veröffentlicht: 24.11.2026 Data Science Landshut Neu Data Science Landshut La",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201364.html"
+  },
+  {
+   "at": "2026-11-24T18:39:35+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201221 Praktikant Künstliche Intelligenz und Datenmanagement (w/m/x) Veröffentlicht: 24.11.2026 Aftersales Strategie und Prozesse München Neu Aftersal",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201221.html"
+  },
+  {
+   "at": "2026-11-24T18:40:18+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.59.242.2) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T18:29:06+00:00",
+ "last_run": "2026-11-24T18:41:29+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 82,
+ "runs": 83,
  "tg_offset": 297408924
 }
