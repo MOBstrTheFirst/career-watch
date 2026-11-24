@@ -1,5 +1,5 @@
 {
- "alerts": 18,
+ "alerts": 22,
  "commands_set": true,
  "events": [
   {
@@ -153,12 +153,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.150.197.61) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-24T00:53:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.101.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-24T00:53:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.101.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-24T00:54:54+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.102.103.115) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-24T00:54:54+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Staff Engineer - Memory Design",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T00:46:45+00:00",
+ "last_run": "2026-11-24T01:02:14+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 8,
+ "runs": 9,
  "tg_offset": 297408924
 }
