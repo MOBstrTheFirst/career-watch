@@ -1,5 +1,5 @@
 {
- "alerts": 244,
+ "alerts": 248,
  "commands_set": true,
  "events": [
   {
@@ -2337,12 +2337,100 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.118.213.21) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200786 Praktikant Distributionslogistik und Netzwerkanalyse (w/m/x) Veröffentlicht: 24.11.2026 Fahrzeuglogistik München Neu Fahrzeuglogistik München M",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200786.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200785 Praktikant Distributionslogistik und Kostensteuerung (w/m/x) Veröffentlicht: 24.11.2026 Fahrzeuglogistik München Neu Fahrzeuglogistik München M",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200785.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "200595 Praktikant Distributionslogistik und Fahrzeugtransporte (w/m/x) Veröffentlicht: 24.11.2026 Fahrzeuglogistik München Neu Fahrzeuglogistik Münche",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.200595.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199919 Praktikant Produktions- und Anlagenplanung Gelenkwellen (w/m/x) Veröffentlicht: 24.11.2026 Produktionsplanung Landshut Neu Produktionsplanung L",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199919.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199684 Praktikant Medienproduktion & innovative Medienformate (w/m/x) Veröffentlicht: 24.11.2026 IT Strategie München Neu IT Strategie München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199684.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199435 Werkstudent AI & Automation im Project Steering - Direktvertriebsmodell (w/m/x) Veröffentlicht: 24.11.2026 IT Projektmanagement München Neu IT ",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199435.html"
+  },
+  {
+   "at": "2026-11-24T16:39:33+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "196475 Werkstudent Messtechnik und Fertigungsprozesse (w/m/x) Veröffentlicht: 24.11.2026 Produktionstechnik Dingolfing Neu Produktionstechnik Dingolfi",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.196475.html"
+  },
+  {
+   "at": "2026-11-24T16:40:29+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.159.229.175) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-24T16:40:29+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Lead Incentive Compensation Analyst",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525431"
+  },
+  {
+   "at": "2026-11-24T16:40:29+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": true,
+   "title": "R&D Fracture Mechanics Internship",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-24T16:40:29+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Staff Applications Engineer - Timing & Signoff",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T16:27:01+00:00",
+ "last_run": "2026-11-24T16:42:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
