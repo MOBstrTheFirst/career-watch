@@ -1,5 +1,5 @@
 {
- "alerts": 199,
+ "alerts": 205,
  "commands_set": true,
  "events": [
   {
@@ -1913,12 +1913,76 @@
    "star": false,
    "title": "Diehl Defence Facharbeiter (m/w/d) Instandhaltung 24.11.2026 Produktion Röthenbach a.d. Pegnitz",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/facharbeiter-m-w-d-instandhaltung"
+  },
+  {
+   "at": "2026-11-24T14:25:34+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Praktikum im Bereich Digital Engineering im Sondermaschinenbau",
+   "url": "https://jobs.bosch.com/en/job/REF299038W-praktikum-im-bereich-digital-engineering-im-sondermaschinenbau"
+  },
+  {
+   "at": "2026-11-24T14:25:34+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": false,
+   "title": "Senior Pre-Sales Manager - Manufacturing Co-Intelligence (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301286M-senior-pre-sales-manager-manufacturing-co-intelligence-f-m-div"
+  },
+  {
+   "at": "2026-11-24T14:25:34+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": false,
+   "title": "Pre-Sales Manager – Manufacturing Co-Intelligence (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301292S-pre-sales-manager-manufacturing-co-intelligence-f-m-div"
+  },
+  {
+   "at": "2026-11-24T14:23:56+00:00",
+   "kind": "new",
+   "site": "Bosch – Landshut",
+   "star": false,
+   "title": "Elektroniker / Instandhaltungstechniker für Sicherheitstechnik - Gebiet Erding (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301707H-elektroniker-instandhaltungstechniker-fuer-sicherheitstechnik-gebiet-erding-w-m-div"
+  },
+  {
+   "at": "2026-11-24T14:23:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.148.7.98) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-24T14:23:56+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.148.7.98) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-24T14:25:39+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Internship in AI-Driven Innovation Management",
+   "url": "https://jobs.bosch.com/en/job/REF301706H-internship-in-ai-driven-innovation-management"
+  },
+  {
+   "at": "2026-11-24T14:26:18+00:00",
+   "kind": "new",
+   "site": "Bosch – Bühl/Bühlertal",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich Projektmanagement – Digitalisierung und Automatisierung in der Logistik",
+   "url": "https://jobs.bosch.com/en/job/REF301704H-pflichtpraktikum-im-bereich-projektmanagement-digitalisierung-und-automatisierung-in-der-logistik"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T14:11:39+00:00",
+ "last_run": "2026-11-24T14:26:36+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
