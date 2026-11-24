@@ -1,5 +1,5 @@
 {
- "alerts": 127,
+ "alerts": 133,
  "commands_set": true,
  "events": [
   {
@@ -1217,12 +1217,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.62.254.170) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-24T10:26:32+00:00",
+   "kind": "new",
+   "site": "Airbus",
+   "star": false,
+   "title": "AI Foundations Engineer (m/f)",
+   "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Taufkirchen--Ottobrunn/AI-Foundations-Engineer--m-f-_JR10459549?locations=f5811cef9cb501a49eac0a694c0a8244&locations=f5811cef9cb50199bf69196b4c0a674b&locations=f5811cef9cb501505ee2ac6a4c0aff49&locations=f5811cef9cb501bcba58c3684c0a8d43&locations=f786aa96657a1001e06190b71dde0000&locations=f5811cef9cb501d432ccf76a4c0afe4a&locations=a442aaae2e5a010538f8c1fafa00d0d3&locations=652aa3192b9b01014a5aa382f8ee0000&locations=63e8d90102591000fec0eb50638c0000&locations=0b4030fb55f51000ed48d807e5080000&locations=f5811cef9cb50118ca5ff56a4c0af44a&locations=f5811cef9cb501008f6f2e6a4c0a6548&locations=ab26c34a6a180194e9bc2f2ff70067a4&locations=f5811cef9cb501b327399e684c0a0143&locations=f5811cef9cb5014ae49dbd6a4c0a404a&locations=f5811cef9cb50190df20956a4c0aa549"
+  },
+  {
+   "at": "2026-11-24T10:24:26+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in IT-Transformation & Data Products (Pflicht-Praktikum) Esslingen am Neckar, Emil-Kessler-Str. 4 Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-it-transformation-and-data-products-pflicht-praktikum-248305-mer0004a22"
+  },
+  {
+   "at": "2026-11-24T10:25:38+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Working Student - Test Automation (f/m/div) Munich, Deutschland HRC1893773 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972398954?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-24T10:25:38+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": true,
+   "title": "Internship - AI-assisted Test & Measurement Automation Singapur HRC1845630 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972205171?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-24T10:25:38+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Lead Research Engineer – Life Sciences",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100683/Lead-Research-Engineer-Life-Sciences"
+  },
+  {
+   "at": "2026-11-24T10:25:38+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) IT Processes, Data Analytics & Automation",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530099"
+  },
+  {
+   "at": "2026-11-24T10:25:36+00:00",
+   "kind": "new",
+   "site": "Thales – Ditzingen",
+   "star": false,
+   "title": "Architecte Systèmes (F/H)",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0326008/Architecte-Systèmes-F-H"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T10:11:08+00:00",
+ "last_run": "2026-11-24T10:27:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
