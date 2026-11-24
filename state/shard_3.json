@@ -3,27 +3,67 @@
  "n": 4,
  "run": {
   "alerts": 2,
-  "at": "2026-11-24T12:10:46+00:00",
+  "at": "2026-11-24T12:25:30+00:00",
   "events": [
    {
-    "at": "2026-11-24T12:10:46+00:00",
-    "kind": "text",
-    "site": "Bosch – Ingolstadt",
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "new",
+    "site": "Siemens Healthineers – Bavaria",
     "star": false,
-    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.72.213.146) wie Sie",
-    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+    "title": "Procurement Engineer",
+    "url": "https://careers.siemens-healthineers.com/global/en/job/P-101391/Procurement-Engineer"
    },
    {
-    "at": "2026-11-24T12:10:46+00:00",
+    "at": "2026-11-24T12:25:30+00:00",
     "kind": "new",
-    "site": "IBM – Germany",
+    "site": "Siemens Healthineers – Bavaria",
     "star": false,
-    "title": "Infrastructure & Technology Developer for Linux Kernel AI Accelerator Driver (f/m/x) Entry Level Ehningen, DE",
-    "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139640"
+    "title": "Customer Service Engineer - Southern",
+    "url": "https://careers.siemens-healthineers.com/global/en/job/P-101521/Customer-Service-Engineer-Southern"
+   },
+   {
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "new",
+    "site": "Siemens Healthineers – Bavaria",
+    "star": false,
+    "title": "Part Time - Business Administration Professional",
+    "url": "https://careers.siemens-healthineers.com/global/en/job/P-100537/Part-Time-Business-Administration-Professional"
+   },
+   {
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "possible",
+    "site": "Synopsys – Bavaria",
+    "star": true,
+    "title": "Staff Applications Engineer, Electromagnetics",
+    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+   },
+   {
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "possible",
+    "site": "Synopsys – Bavaria",
+    "star": false,
+    "title": "Staff Applications Engineer ( DFT )",
+    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+   },
+   {
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "possible",
+    "site": "Synopsys – Bavaria",
+    "star": false,
+    "title": "Principal Customer Engineer, Parasitic Extraction",
+    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+   },
+   {
+    "at": "2026-11-24T12:25:30+00:00",
+    "kind": "possible",
+    "site": "Synopsys – Bavaria",
+    "star": false,
+    "title": "Layout Design, Sr Staff Engineer",
+    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
    }
   ],
   "pages": 38,
-  "run_id": "45390434589",
+  "run_id": "45392821349",
   "skipped": [],
   "skipped_count": 0
  },
@@ -31,7 +71,7 @@
   "https://amat.wd1.myworkdayjobs.com/External?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "018a20364c": 20781,
     "02ae1a986b": 20781,
@@ -155,7 +195,7 @@
    "links": {
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Manufacturing-Engineer--m-f-d----Build---Test-of-E-Beam-Systems---OLED-Sources_R2620193?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-19T16:10:07+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manufacturing Engineer (m/f/d) – Build & Test of E-Beam Systems & OLED Sources"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Process-Engineer--m-f-d-_R2631380?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
@@ -165,22 +205,22 @@
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AlzenauDEU/Purchasing-Manager---Build-to-Print--BTP--Components---Vacuum-Technology_R2626843?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-10T16:40:11+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Purchasing Manager – Build-to-Print (BTP) Components & Vacuum Technology"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/EindhovenNLD/Data-Scientist---EMEA_R2632370?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Data Scientist - EMEA"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/England-BerkshireGBR/EMEA-Regional-Physical-Security-Solutions-Manager_R2630371?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "EMEA Regional Physical Security Solutions Manager"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/FeldkirchenDEU/Customer-engineer_R2628971?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer engineer (m/f/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/FeldkirchenDEU/New-Product-Manufacturing-Engineer--m-f-d-_R2628801?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
@@ -200,22 +240,22 @@
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Analog-Electronics-Design-Engineer--m-f-d-_R2631194?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Analog Electronics Design Engineer (m/f/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Electron-Optics---Multiphysics-Simulation-Physicist---Engineer--m-f-d-_R2631003?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Electron Optics & Multiphysics Simulation Physicist / Engineer (m/f/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Facilities---Real-Estate--m-f-d-_R2622681?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-16T23:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Technical Facility Manager (TGM) (f/m/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Industrial---Equipment-Engineer--m-f-d----Semiconductor-Manufacturing_R2629404?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Industrial & Equipment Engineer (m/f/d) – Semiconductor Manufacturing"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Lagerist--m-f-d--in-der-Halbleiterindustrie--befristet-auf-18-Monate-_R2631905?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
@@ -225,32 +265,32 @@
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Lagerist--m-f-d--in-der-Halbleiterindustrie_R2630224?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Lagerist (m/f/d) in der Halbleiterindustrie"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Manufacturing-Logistics-Operator--m-w-d-_R2628409?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-08T16:09:30+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manufacturing Logistics Operator (m/w/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/NPI---Product-Technical-Expert--m-f-d----for-semiconductor-industry_R2630351?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "NPI - Product Technical Expert (m/f/d) - for semiconductor industry"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/NPI---Product-Technical-Expert--m-f-d----for-semiconductor-industry_R2631685?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-09T13:39:43+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "NPI - Product Technical Expert (m/f/d) - for semiconductor industry"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/NPI---Technical-Project-Manager--m-f-d----semiconductor-industry_R2517861?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "NPI - Technical Project Manager (m/f/d) - semiconductor industry"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Physicist---Engineer--m-f-d--Particle-Beam-Technology---Semiconductor-Control_R2628679-1?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Physicist / Engineer (m/f/d) Particle Beam Technology / Semiconductor Control"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Prffeldtechniker---Final-Test-Technician--m-w-d-_R2628398?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
@@ -260,27 +300,27 @@
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/R-D-Mechanical-Engineer--m-w-d-_R2632953?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "R&D Mechanical Engineer (m/w/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Senior-Physicist--m-f-d----for-semiconductor-industry_R2612258?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-23T23:07:02+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Physicist (m/f/d) - for semiconductor industry"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Senior-Supplier-Quality-Engineer--Qualittsingenieur-Lieferantenentwicklung--m-w-d-_R2630665?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Supplier Quality Engineer- Qualitätsingenieur Lieferantenentwicklung (m/w/d)"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Techniker--m-d-w---Fertigungstechniker--Industriemechaniker--Mechatroniker--Feinwerkmechaniker_R2519840?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Techniker (m/d/w): Fertigungstechniker, Industriemechaniker, Mechatroniker, Feinwerkmechaniker"
     },
     "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Principal--Staff-Engineer--Advanced-Packaging-Process-Integration_R2622505?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Member of Technical Staff (Advanced Packaging Pathfinding)"
     }
    },
@@ -291,7 +331,7 @@
   "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "000f4d1220": 20775,
     "00c7f5d17a": 20781,
@@ -713,17 +753,17 @@
    "links": {
     "https://careers.audi.com/commons/resources/downloads/Datenschutzhinweis.pdf": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Datenschutzhinweis"
     },
     "https://careers.audi.com/sap/bc/bsp/sap/z_hcmx_ui_ext/commons/resources/downloads/Datenschutzhinweis.pdf?privacySource=1": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Datenschutzhinweis"
     },
     "https://www.audi.com/careers": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "https://www.audi.com/careers"
     },
     "https://www.audi.com/de/deine-bewerbung-17200": {
@@ -744,7 +784,7 @@
   "https://careers.qualcomm.com/careers?location=Munich%2C%20Germany&sort_by=timestamp&filter_distance=80&filter_include_remote=0&filter_include_relocation=0": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0153b20d96": 20781,
     "0154c0dabe": 20781,
@@ -1299,17 +1339,17 @@
    "links": {
     "https://careers.qualcomm.com/careers/job/446707518930": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Artificial Intelligence for Video Compression - Research Scientist Munich, Germany + 2 more Machine Learning Engineering Gepostete vor 10 Tagen"
     },
     "https://careers.qualcomm.com/careers/job/446716320059": {
      "first_seen": "2026-11-06T17:19:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Video Research Engineer (Multiple Levels) Munich, Germany + 2 more Video Standards Engineering Gepostete vor 2 Monaten"
     },
     "https://careers.qualcomm.com/careers/job/446719710127": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Field Applications Engineer, Senior IoT (m/f/d) - Qualcomm Germany Munich, Germany Field Applications Engineering - ACIP Gepostete vor einem Monat"
     },
     "https://careers.qualcomm.com/careers/job/446719710913": {
@@ -1319,12 +1359,12 @@
     },
     "https://careers.qualcomm.com/careers/job/446720348869": {
      "first_seen": "2026-11-10T09:54:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Automotive -Embedded Software Applications Engineer (m/f/d) – Multimedia - Ingolstadt Ingolstadt, Germany Software Applications Engineering Gepostete "
     },
     "https://careers.qualcomm.com/careers/job/446720348945": {
      "first_seen": "2026-11-10T09:54:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Automotive- Embedded Software Applications Engineer (m/f/d) – Platform/BSP - Ingolstadt Ingolstadt, Germany Software Applications Engineering Gepostet"
     },
     "https://careers.qualcomm.com/careers/job/446720782920": {
@@ -1344,32 +1384,32 @@
     },
     "https://careers.qualcomm.com/careers/job/446721052395": {
      "first_seen": "2026-11-10T09:54:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer Technical Project Manager (m/f/d) Software Applications Engineering Ingolstadt, Germany Software Applications Engineering Gepostete vor 10 St"
     },
     "https://careers.qualcomm.com/careers/job/446721265210": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "European Patent Attorney (m/f/d) - Munich Munich, Germany Patent Counsel Gepostete vor einem Monat"
     },
     "https://careers.qualcomm.com/careers/job/446721587832": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Account Manager (m/f/d), Robotics - Europe Munich, Germany Sales - Sales Incentive Plan Gepostete vor 22 Tagen"
     },
     "https://careers.qualcomm.com/careers/job/446721587936": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Robotics Product Expert (m/f/d) - Europe Munich, Germany + 1 more Product Management Gepostete vor 22 Tagen"
     },
     "https://careers.qualcomm.com/careers/job/446721587942": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Robotics Technical Systems Expert (m/f/d) - Europe Munich, Germany + 1 more Systems Engineering Gepostete vor 22 Tagen"
     },
     "https://careers.qualcomm.com/careers/job/446722003217": {
      "first_seen": "2026-11-06T17:19:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "FY27 PhD Internship: Data-Centric AI for End-to-End Autonomous Driving - 6 months, Munich, Unterschleißheim, Germany Munich, Germany Workstudy Intern "
     }
    },
@@ -1380,7 +1420,7 @@
   "https://careers.siemens-healthineers.com/global/en/search-results?qstate=Bavaria": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "00110df4be": 20781,
     "00144f10d9": 20770,
@@ -1491,7 +1531,7 @@
     "0715d58c74": 20775,
     "072b3a46b7": 20778,
     "0743a70470": 20768,
-    "074a38312b": 20778,
+    "074a38312b": 20781,
     "07719acb37": 20781,
     "078e44b775": 20780,
     "079482185d": 20777,
@@ -1610,7 +1650,7 @@
     "0f209cbb7a": 20780,
     "0f27452d52": 20770,
     "0f3c97b084": 20780,
-    "0f4ba99cc3": 20778,
+    "0f4ba99cc3": 20781,
     "0f6b3b0e72": 20770,
     "0f708fc4ea": 20770,
     "0f7f309e09": 20768,
@@ -1737,7 +1777,7 @@
     "17af1a7e17": 20770,
     "17cc537c6e": 20781,
     "17d53e0e6a": 20781,
-    "17f4d7aacd": 20778,
+    "17f4d7aacd": 20781,
     "17fc3feb4d": 20780,
     "17fcc1541d": 20770,
     "1801cc6c06": 20770,
@@ -1798,7 +1838,7 @@
     "1ba1d19efd": 20770,
     "1bb40b8337": 20770,
     "1bcfda12d2": 20770,
-    "1bf3994417": 20778,
+    "1bf3994417": 20781,
     "1bfe735007": 20770,
     "1c0656687f": 20768,
     "1c16fd3b88": 20770,
@@ -1807,7 +1847,7 @@
     "1c3d0fc98f": 20781,
     "1c76c42db6": 20778,
     "1c7e319562": 20781,
-    "1cc2612cce": 20778,
+    "1cc2612cce": 20781,
     "1ccaf38eec": 20777,
     "1cd481c1cc": 20781,
     "1cd6031808": 20768,
@@ -1841,6 +1881,7 @@
     "1ecf2557a3": 20781,
     "1ecfc8bcc3": 20770,
     "1ed8625b87": 20775,
+    "1edc755b83": 20781,
     "1eeac02c05": 20781,
     "1f0037c5e9": 20780,
     "1f10f81c62": 20781,
@@ -1870,7 +1911,8 @@
     "211c73d1bf": 20770,
     "2130634a0d": 20781,
     "21334479ce": 20781,
-    "215eb543dd": 20778,
+    "215eb543dd": 20781,
+    "215f948d75": 20781,
     "2180965a80": 20775,
     "218d5f6f2b": 20775,
     "21a3c39118": 20770,
@@ -1881,6 +1923,7 @@
     "22172f4179": 20781,
     "221b9d2411": 20770,
     "2228a5fd11": 20781,
+    "222ebe3ea5": 20781,
     "2230ee7229": 20767,
     "22390ad11c": 20781,
     "223ba91669": 20781,
@@ -1892,12 +1935,13 @@
     "227f291717": 20768,
     "229e4130bf": 20778,
     "229fc1b71c": 20778,
+    "22bbba1110": 20781,
     "22c602b564": 20781,
     "22d63d9677": 20770,
     "22e74ac5cf": 20770,
     "22ef3d71c1": 20770,
     "22f89ed4eb": 20781,
-    "23073c33f4": 20778,
+    "23073c33f4": 20781,
     "230b33a3ed": 20781,
     "230de49853": 20776,
     "230dfef820": 20770,
@@ -2388,7 +2432,7 @@
     "4435bdbc00": 20781,
     "448bb1c5b3": 20781,
     "44a804c977": 20781,
-    "44b7da202c": 20778,
+    "44b7da202c": 20781,
     "44b8225e09": 20770,
     "44c6e39f8c": 20780,
     "44d1a3aa95": 20770,
@@ -2522,7 +2566,7 @@
     "4c5701b359": 20780,
     "4c57f0c88d": 20781,
     "4c58d085d3": 20781,
-    "4c5f0110a9": 20778,
+    "4c5f0110a9": 20781,
     "4c629c4c34": 20775,
     "4c82fb312b": 20780,
     "4cae84df3d": 20770,
@@ -2597,7 +2641,7 @@
     "517404c33f": 20770,
     "5187f79766": 20770,
     "5193267da8": 20768,
-    "5194a59fdc": 20778,
+    "5194a59fdc": 20781,
     "51ac003943": 20781,
     "51c5802097": 20781,
     "51cdce9f64": 20781,
@@ -2648,7 +2692,7 @@
     "54cd7ce933": 20770,
     "54cde52890": 20778,
     "54db7ad1d7": 20770,
-    "54de7b7104": 20778,
+    "54de7b7104": 20781,
     "54fefcc86f": 20781,
     "553d710dff": 20781,
     "554faa3899": 20781,
@@ -2682,7 +2726,7 @@
     "571f6684af": 20781,
     "57280c1614": 20770,
     "572cf4cfb0": 20781,
-    "572ede39e0": 20780,
+    "572ede39e0": 20781,
     "573be69ffd": 20770,
     "573f28b293": 20770,
     "57688f8e71": 20770,
@@ -2781,7 +2825,7 @@
     "5d81caf9ce": 20770,
     "5da1411f48": 20781,
     "5dbb7963cf": 20781,
-    "5dd3e6dcaa": 20778,
+    "5dd3e6dcaa": 20781,
     "5ddf3210ad": 20770,
     "5ddfed6a11": 20768,
     "5e0a51771a": 20780,
@@ -2878,7 +2922,7 @@
     "64a911c2bf": 20770,
     "64b0860bc6": 20781,
     "64b3a95671": 20781,
-    "64b62f3f8f": 20778,
+    "64b62f3f8f": 20781,
     "64e78a35d1": 20768,
     "64e8f58859": 20770,
     "64efd457e4": 20770,
@@ -3010,7 +3054,7 @@
     "6d67f831e2": 20770,
     "6dc801c409": 20778,
     "6dc8fcc23a": 20770,
-    "6df8bb1bfc": 20778,
+    "6df8bb1bfc": 20781,
     "6e1878c2e1": 20770,
     "6e20fdc154": 20770,
     "6e2b43293f": 20781,
@@ -3062,7 +3106,7 @@
     "70f9282633": 20780,
     "7104e51e70": 20768,
     "71364c3da6": 20781,
-    "7138d44727": 20778,
+    "7138d44727": 20781,
     "713a62692f": 20781,
     "7152a224b9": 20770,
     "71667a188a": 20781,
@@ -3078,7 +3122,7 @@
     "72370ad101": 20770,
     "72380b10bb": 20768,
     "72408d2970": 20770,
-    "72613c09ad": 20778,
+    "72613c09ad": 20781,
     "728298d3db": 20781,
     "7288f7f860": 20781,
     "729659f987": 20777,
@@ -3107,7 +3151,7 @@
     "7404a4c6a5": 20781,
     "741c90cc2d": 20781,
     "7421b4b5fa": 20781,
-    "7432ecd2cd": 20778,
+    "7432ecd2cd": 20781,
     "743db6d8f9": 20781,
     "7444da2c5d": 20776,
     "7465f21249": 20770,
@@ -3146,7 +3190,7 @@
     "767f24b044": 20768,
     "768685ca58": 20781,
     "768dd7f73a": 20780,
-    "7698df7c32": 20778,
+    "7698df7c32": 20781,
     "769d7462ad": 20781,
     "76ad41a3c3": 20770,
     "76ba145891": 20781,
@@ -3396,7 +3440,7 @@
     "867652bdbe": 20770,
     "867fbc8cc8": 20770,
     "869aa56da8": 20770,
-    "869bc90f6d": 20778,
+    "869bc90f6d": 20781,
     "86aa0f6f8c": 20770,
     "86cf294a07": 20776,
     "86daa48a31": 20781,
@@ -3459,13 +3503,13 @@
     "8abaafb574": 20781,
     "8ac11db2ad": 20781,
     "8acda2e892": 20768,
-    "8ae8903780": 20778,
+    "8ae8903780": 20781,
     "8b11e34335": 20770,
     "8b1221780f": 20781,
     "8b19a45433": 20770,
     "8b2c4d6c34": 20781,
     "8b4607c720": 20781,
-    "8b5baed7ae": 20778,
+    "8b5baed7ae": 20781,
     "8b616f3c6f": 20781,
     "8b6cea61d2": 20781,
     "8b73ca990b": 20770,
@@ -3486,7 +3530,7 @@
     "8c4a0a7afb": 20775,
     "8c67d9f92d": 20770,
     "8c75cd4992": 20781,
-    "8c81246b35": 20778,
+    "8c81246b35": 20781,
     "8c86cd1cfa": 20779,
     "8ca7751989": 20770,
     "8ca884b423": 20770,
@@ -3496,6 +3540,7 @@
     "8cbeed221f": 20770,
     "8cf7bde21e": 20768,
     "8d02dba060": 20770,
+    "8d227592a6": 20781,
     "8d24e1ac1d": 20780,
     "8d274fd5e6": 20781,
     "8d28e2200e": 20770,
@@ -3552,7 +3597,7 @@
     "9037735b9d": 20770,
     "904f87e2b6": 20779,
     "9051414f96": 20770,
-    "90519616e0": 20778,
+    "90519616e0": 20781,
     "905eacb637": 20781,
     "90741b0318": 20770,
     "90ad06728a": 20781,
@@ -3605,7 +3650,7 @@
     "9365807e16": 20781,
     "938e22f97b": 20768,
     "93a79c4283": 20781,
-    "93a815cdff": 20778,
+    "93a815cdff": 20781,
     "93ac1946cb": 20780,
     "93acc66a6e": 20776,
     "93d349ec0f": 20770,
@@ -3880,7 +3925,7 @@
     "a4a8fe9d58": 20770,
     "a4e6093511": 20768,
     "a4ee296880": 20770,
-    "a51c55ccd9": 20780,
+    "a51c55ccd9": 20781,
     "a53e1dfc05": 20770,
     "a557963763": 20781,
     "a5703030b3": 20770,
@@ -3983,7 +4028,7 @@
     "ad3501bc6d": 20770,
     "ad36127b4d": 20772,
     "ad5659ecf4": 20770,
-    "ad58c95580": 20780,
+    "ad58c95580": 20781,
     "ad5b610696": 20770,
     "ad65503988": 20770,
     "ad6b68d235": 20780,
@@ -4242,8 +4287,9 @@
     "beba4d5d3f": 20781,
     "becb93a5fa": 20770,
     "becfc81c3b": 20770,
-    "bedf991e86": 20778,
+    "bedf991e86": 20781,
     "bf15ef3295": 20770,
+    "bf4c068b56": 20781,
     "bf566005f7": 20770,
     "bf5682bd01": 20770,
     "bf6308295e": 20768,
@@ -4650,7 +4696,7 @@
     "d90a7eebbf": 20776,
     "d91f56b161": 20769,
     "d949d2ea60": 20781,
-    "d954d0f9a6": 20778,
+    "d954d0f9a6": 20781,
     "d955efcf75": 20781,
     "d961c47cc1": 20781,
     "d9853c3ebd": 20781,
@@ -4778,6 +4824,7 @@
     "e2003c1aca": 20770,
     "e21b9a52c4": 20770,
     "e260f08a44": 20770,
+    "e266c6e528": 20781,
     "e294e0c099": 20781,
     "e297fb878f": 20770,
     "e29a2c0a15": 20775,
@@ -4788,7 +4835,7 @@
     "e2bf97fef6": 20781,
     "e2ceeb80e4": 20770,
     "e2e202fd0b": 20781,
-    "e2e2e01c3d": 20778,
+    "e2e2e01c3d": 20781,
     "e2ea6a5153": 20781,
     "e2f3fbb90a": 20780,
     "e2fd350b93": 20770,
@@ -4798,7 +4845,7 @@
     "e3a3f07f1e": 20781,
     "e3b665d0ff": 20781,
     "e3c0ca5621": 20768,
-    "e3c5fa8992": 20778,
+    "e3c5fa8992": 20781,
     "e3d26849a8": 20770,
     "e3f02f4160": 20770,
     "e413a54563": 20770,
@@ -4838,7 +4885,7 @@
     "e6c1374cdb": 20770,
     "e6d66d46db": 20770,
     "e6de89674d": 20781,
-    "e724079efe": 20778,
+    "e724079efe": 20781,
     "e73b2caf1d": 20781,
     "e76424a6c6": 20767,
     "e77708328a": 20781,
@@ -4873,6 +4920,7 @@
     "e9c5fdf57f": 20781,
     "e9c60bb36a": 20781,
     "e9e72b8b79": 20770,
+    "e9fd5717a4": 20781,
     "ea09aff1a5": 20770,
     "ea7d980a35": 20781,
     "ea91d5b688": 20781,
@@ -5017,7 +5065,7 @@
     "f2fdd827ca": 20770,
     "f3085ff0ba": 20770,
     "f30b7bde0e": 20781,
-    "f325461225": 20778,
+    "f325461225": 20781,
     "f345c2ae4f": 20770,
     "f35bee04cb": 20770,
     "f369b411c5": 20775,
@@ -5114,7 +5162,7 @@
     "fa1703dd78": 20781,
     "fa22c9569e": 20769,
     "fa381f674d": 20781,
-    "fa39c97aae": 20778,
+    "fa39c97aae": 20781,
     "fa434574b6": 20770,
     "fa5b7e2931": 20775,
     "fa651b7210": 20781,
@@ -5203,12 +5251,12 @@
    "links": {
     "https://careers.siemens-healthineers.com/global/en/job/P-100086/Customer-Service-Engineer": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer Service Engineer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100091/Software-Developer-C-Python": {
      "first_seen": "2026-11-13T13:39:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Developer -C++,Python"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100094/Test-Automation-Architect-f-m-d": {
@@ -5228,7 +5276,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100102/Product-Solutions-Development-team-lead": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product & Solutions Development team lead"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100106/Head-of-Sales-Thailand": {
@@ -5238,27 +5286,27 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100107/Product-Owner-Serviceability-Product-deployment": {
      "first_seen": "2026-11-13T13:39:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product Owner (Serviceability, Product deployment)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100111/構造設計士-（大型医療機器導入プロジェクト）-Project-Structural-Specialist-JAPAN-26H114": {
      "first_seen": "2026-11-09T16:55:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "構造設計士 （大型医療機器導入プロジェクト）/ Project Structural Specialist, JAPAN, 26H114"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100116/Human-Resource-Business-Partner": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Human Resource Business Partner"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100120/Lead-C-Windows-Developer": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Lead C# Windows Developer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100123/北海道-医療機器-営業-Vivo-Sales-Hokkaido-JAPAN-26H092": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "北海道 医療機器 営業 / Vivo Sales Hokkaido, JAPAN / 26H092"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100124/Customer-Service-Laboratory-Solutions-CS-LS-Project-Manager-ASEAN": {
@@ -5268,7 +5316,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100125/Lead-Commodity-Manager": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Lead Commodity Manager"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100128/Account-Manager": {
@@ -5278,17 +5326,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100133/Head-of-ES-Client-Engagement-GB-I": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Head of ES Client Engagement, GB&I"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100135/NPI-Procurement-Engineer": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "NPI Procurement Engineer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100138/Software-Architect-C": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Architect - C#"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100140/AT-Advanced-Therapies-Application-Specialist": {
@@ -5303,42 +5351,42 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100145/Customer-Service-Engineer-CT-Iasi": {
      "first_seen": "2026-11-12T06:09:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer Service Engineer CT - Iasi"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100149/Sales-Account-Manager-Medical-Imaging": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Account Manager - Medical Imaging"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100153/Product-Owner-Reporting": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product Owner (Reporting)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100169/Active-Directory-Administrator": {
      "first_seen": "2026-11-12T07:24:54+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Active Directory Administrator"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100177/Ingénieur-e-Maintenance-Imagerie-Médicale-Tours-h-f-nb": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Ingénieur(e) Maintenance Imagerie Médicale - Tours (h/f/nb)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100178/Clinical-Marketing-Professional-Molecular-Imaging": {
      "first_seen": "2026-11-12T17:55:16+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Clinical Marketing Professional – Molecular Imaging"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100181/Legal-Counsel": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Legal Counsel"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100185/Software-Architect-C-Net-Angular-Enterprise-Architect": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Architect (C#, .Net, Angular,Enterprise Architect)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100191/UI-Designer-for-Healthcare-MedTech-products-m-f-d": {
@@ -5353,42 +5401,42 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100193/Product-Owner-MR-Scanner": {
      "first_seen": "2026-11-13T07:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product Owner (MR Scanner)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100195/Senior-Interaction-Designer-for-Digital-Products-and-Healthcare-IT-m-f-d-Hybrid-Bratislava-Žilina": {
      "first_seen": "2026-11-13T11:54:32+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Interaction Designer for Digital Products and Healthcare IT (m/f/d) - Hybrid - Bratislava/Žilina"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100198/Platform-Architect": {
      "first_seen": "2026-11-13T12:39:57+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Platform Architect"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100203/Clinical-Marketing-Manager-Computed-Tomography-South-and-East-regions": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Clinical Marketing Manager -Computed Tomography (South and East regions)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100206/Hospital-Operations-Manager-Radiology-Value-Partnership": {
      "first_seen": "2026-11-13T13:39:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Hospital Operations Manager – Radiology (Value Partnership)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100208/Collaboration-Manager-Advanced-Therapies-Bengaluru": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Collaboration Manager - Advanced Therapies (Bengaluru)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100209/Area-Sales-Professional-DI-AT-Raipur-CG": {
      "first_seen": "2026-11-06T18:24:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Area Sales Professional - DI & AT | Raipur (CG)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100212/Demand-Planning-Professional": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Demand Planning Professional"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100219/Senior-Project-Controlling-Analyst": {
@@ -5403,67 +5451,67 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100244/神戸-医療機器-営業-Vivo-Sales-Hyogo-Shikoku-JAPAN-26H123": {
      "first_seen": "2026-11-13T13:39:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "神戸 医療機器 営業 / Vivo Sales Hyogo Shikoku, JAPAN / 26H123"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100245/高知-医療機器-営業-Vivo-Sales-Hyogo-Shikoku-JAPAN-26H119": {
      "first_seen": "2026-11-05T20:55:07+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "高知 医療機器 営業 / Vivo Sales Hyogo Shikoku, JAPAN / 26H119"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100246/仙台-医療機器-営業-Vivo-Sales-Tohoku-JAPAN-26H098": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "仙台 医療機器 営業 / Vivo Sales Tohoku, JAPAN / 26H098"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100248/ACRORAD-R-D-Professional-研究開発職-25H042": {
      "first_seen": "2026-11-09T06:10:05+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ACRORAD - R&D Professional - 研究開発職 (25H042)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100250/ALS-IPS-Product-Manager-26H083": {
      "first_seen": "2026-11-04T23:29:32+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ALS IPS Product Manager (26H083)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100251/ALS-Reagent-Product-Manager-試薬担当-26H082": {
      "first_seen": "2026-11-05T20:39:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ALS Reagent Product Manager 試薬担当 (26H082)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100252/DX-Communications-Specialist": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "DX Communications Specialist"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100253/Head-of-Commercial-Operations-26H075": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Head of Commercial Operations (26H075)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100254/Key-Account-Manager-Sales-キーアカウントマネジメント営業": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Key Account Manager Sales (キーアカウントマネジメント営業)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100255/LS-Account-Management-Sales-Tokai-Hokuriku-医療用分析機器・体外診断薬の既存顧客担当営業、東海・北陸": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "LS Account Management Sales Tokai/Hokuriku (医療用分析機器・体外診断薬の既存顧客担当営業、東海・北陸)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100257/LS-Account-Management-Sales-North-Kanto-Shinetsu-Zone-医療用分析機器・体外診断薬の既存顧客担当営業、北関東・信越": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "LS Account Management Sales North Kanto/Shinetsu Zone (医療用分析機器・体外診断薬の既存顧客担当営業、北関東・信越)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100258/LS-Account-Management-Sales-Shikoku-Kyushu-医療用分析機器・体外診断薬の既存顧客担当営業、四国・九州": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "LS Account Management Sales Shikoku/Kyushu (医療用分析機器・体外診断薬の既存顧客担当営業、四国・九州)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100259/Senior-Regulatory-Affairs-Specialist-シニア薬事スペシャリスト": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Regulatory Affairs Specialist (シニア薬事スペシャリスト )"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100260/血管撮影装置-製品技術営業-Product-Sales-Exceptive-JAPAN-26H102": {
@@ -5483,17 +5531,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100269/Remote-Sales-specialist-JAPAN": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Remote Sales specialist, JAPAN"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100281/Area-Sales-Professional-Point-of-Care": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Area Sales Professional - Point of Care"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100283/Regional-Sales-Lead-Hematology": {
      "first_seen": "2026-11-13T14:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Regional Sales Lead - Hematology"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100286/Regulatory-Affairs-Professional": {
@@ -5503,12 +5551,12 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100287/Regional-Sales-Manager-Diagnostics-IVD": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Regional Sales Manager - Diagnostics IVD"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100288/Manager-Marketing-Communications": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manager - Marketing Communications"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100302/Sr-Software-Engineer-Datawarehouse": {
@@ -5523,7 +5571,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100307/Lead-Software-Developer-C": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Lead Software Developer - C++"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100311/Project-Manager": {
@@ -5533,7 +5581,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100314/Sr-User-Interface-Designer": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sr User Interface Designer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100315/Sr-User-Interaction-Design-Professional": {
@@ -5543,7 +5591,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100316/Sr-User-Experience-Design-Professional": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sr. User Experience Design Professional"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100317/Sr-UX-Research-Usability-Professional": {
@@ -5558,32 +5606,32 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100325/CRM-Operations-Support-Protege": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "CRM Operations Support Protege"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100327/CS-Sales-Representative-South": {
      "first_seen": "2026-11-06T17:19:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "CS Sales Representative - South"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100328/Account-Manager-Sales-Lab-Solutions": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Account Manager (Sales, Lab Solutions)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100329/Clinical-Product-Application-Specialist": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Clinical / Product Application Specialist"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100332/東京-医療機器-営業-Vivo-Sales-Tokyo-JAPAN": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "東京 医療機器 営業 / Vivo Sales Tokyo, JAPAN"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100334/Construction-Project-Manager-WA": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Construction Project Manager WA"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100337/MRI-Application-Specialist": {
@@ -5593,17 +5641,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100338/SAP-WM-EWM-Consultant-w-m-d": {
      "first_seen": "2026-11-11T17:39:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "SAP WM/EWM Consultant (w/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100339/Instructor-Hardware-Technical-Training-w-m-d": {
      "first_seen": "2026-11-11T17:39:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Instructor Hardware Technical Training (w/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100348/Techniker-für-Vakuumanlagen-in-der-Instandhaltung-w-m-d": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Techniker für Vakuumanlagen in der Instandhaltung (w/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100349/Elektro-Automatisierungs-Techniker-in-der-Instandhaltung-w-m-d": {
@@ -5643,17 +5691,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100370/MRI-Application-Specialist": {
      "first_seen": "2026-11-12T08:24:35+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "MRI Application Specialist"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100371/SAICA-Trainee": {
      "first_seen": "2026-11-12T16:10:18+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "SAICA Trainee"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100375/Ingénieur-e-Service-Client-Diagnostic-de-Laboratoire-h-f-nb": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Ingénieur(e) Service Client – Diagnostic de Laboratoire (h/f/nb)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100381/Customer-Service-Engineer": {
@@ -5663,12 +5711,12 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100382/Customer-Service-Engineer": {
      "first_seen": "2026-11-06T19:54:50+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer Service Engineer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100384/Product-Manager-Advanced-Therapies-Argentina-y-Uruguay": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product Manager Advanced Therapies | Argentina y Uruguay"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100389/MRI-Scientist": {
@@ -5703,7 +5751,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100403/Werkstudent-in-w-m-d-Benefits-Pensions": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent*in (w/m/d) Benefits & Pensions"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100410/Pharmacien-Responsable-Assurance-Qualité-Marseille-h-f-nb": {
@@ -5713,32 +5761,32 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100412/Manufacturing-Reviewer-FTC": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manufacturing Reviewer (FTC)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100414/Senior-Manager-Commodity-Management-Instrument-Manufacturing": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Manager Commodity Management - Instrument Manufacturing"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100415/OEM-Buyer": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "OEM Buyer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100416/Radiation-Safety-Officer-RSO-Medical-Cyclotron-Facility": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Radiation Safety Officer (RSO) – Medical Cyclotron Facility"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100417/Marketing-Manager-Magnetic-Resonance-f-m-d-1-5-T-MAGNETOM-Flow": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Marketing Manager Magnetic Resonance (f/m/d) 1,5 T / MAGNETOM Flow"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100419/Logistics-Services-Projects-Professional-f-m-d": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Logistics Services & Projects Professional (f/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100433/Manufacturing-Manager": {
@@ -5753,12 +5801,12 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100439/Business-Continuity-Manager-for-Magnetic-Resonance-f-m-d": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Business Continuity Manager for Magnetic Resonance (f/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100440/Duales-Masterstudium-Cyber-Security-Engineer-M-Sc-Erlangen-Forchheim": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Duales Masterstudium Cyber Security Engineer (M.Sc.) - Erlangen/Forchheim"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100461/OTC-Contract-Manager": {
@@ -5773,17 +5821,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100467/Area-Sales-Professional-Diagnostics-IVD": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Area Sales Professional (Diagnostics IVD)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100471/Business-Development-Partner-CEECA-m-f-d-Digital-Health-Solutions": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Business Development Partner CEECA (m/f/d) – Digital Health Solutions"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100474/Senior-ECC-Expert-in-Prozess-Design-w-m-d": {
      "first_seen": "2026-11-13T14:25:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior ECC Expert*in Prozess Design (w/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100475/Sales-Manager-m-w-d-Bildgebung-Therapie-Radiologie-Kardiologie-Nuklearmedizin-Healthcare-Imaging-Wien-Graz-Innsbruck": {
@@ -5793,12 +5841,12 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100477/EHS-Professional": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "EHS Professional"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100479/Ingénieur-e-Produit-Scanner-f-h-nb": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Ingénieur(e) Produit Scanner f/h/nb"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100480/Technicien-de-production-et-Contrôle-Qualité-CDD-6-mois-h-f-nb": {
@@ -5808,17 +5856,17 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100482/Commodity-Manager": {
      "first_seen": "2026-11-13T13:39:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Commodity Manager"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100486/Quality-Management-Professional": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Quality Management Professional"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100488/Area-Sales-Professional-Diagnostics-IVD": {
      "first_seen": "2026-11-11T11:25:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Area Sales Professional Diagnostics IVD"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100492/Masterarbeit-Konzeption-einer-experimentellen-Prüfumgebung-für-Gleitlager-unter-Vakuumbedingungen": {
@@ -5885,6 +5933,11 @@
      "first_seen": "2026-11-11T11:25:14+00:00",
      "last_seen": "2026-11-13T13:25:01+00:00",
      "title": "Duales Masterstudium Business Management (MBA) im Bereich Human Resources (w/m/d) - Erlangen"
+    },
+    "https://careers.siemens-healthineers.com/global/en/job/P-100537/Part-Time-Business-Administration-Professional": {
+     "first_seen": "2026-11-24T12:25:28+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
+     "title": "Part Time - Business Administration Professional"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100546/Duales-Masterstudium-Business-Management-MBA-im-Bereich-Strategischer-Einkauf-w-m-d-Forchheim": {
      "first_seen": "2026-11-11T11:25:14+00:00",
@@ -6103,52 +6156,52 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100765/Sales-Representative-für-Labordiagnostik-w-m-d-Großraum-Heilbronn-Karlsruhe-Ludwigsburg": {
      "first_seen": "2026-11-20T07:55:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Representative für Labordiagnostik (w/m/d) Großraum Heilbronn, Karlsruhe, Ludwigsburg"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100771/Procurement-Buyer-Bid-Management": {
      "first_seen": "2026-11-20T08:10:02+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Procurement Buyer-Bid Management"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100774/Sales-Representative-w-m-d-Labordiagnostik-für-Hamburg-Rostock-Greifswald": {
      "first_seen": "2026-11-20T10:30:03+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Representative (w/m/d) Labordiagnostik für Hamburg, Rostock, Greifswald"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100775/Customer-Service-Engineer-Vlaanderen-M-F-D": {
      "first_seen": "2026-11-23T01:54:57+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer Service Engineer – Vlaanderen (M/F/D)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100777/ITH-Mitarbeiter-Business-Administration-m-w-d-Healthcare-IT": {
      "first_seen": "2026-11-23T04:40:05+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ITH Mitarbeiter Business Administration (m/w/d) – Healthcare IT"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100778/ITH-System-Engineer-klinische-Informationssysteme-m-w-d-Healthcare-IT": {
      "first_seen": "2026-11-23T15:56:15+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ITH System Engineer klinische Informationssysteme (m/w/d) – Healthcare IT"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100779/Demand-Manager-f-m-d": {
      "first_seen": "2026-11-23T17:43:01+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Demand Manager (f/m/d)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100785/Product-Manager-Advanced-Therapy": {
      "first_seen": "2026-11-23T17:43:01+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Product Manager Advanced Therapy"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100787/Entry-level-Field-Service-Engineer": {
      "first_seen": "2026-11-24T07:32:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Entry level Field Service Engineer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100790/Software-Architec": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Architec"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-100834/Financial-Controller-Offer-to-Cash": {
@@ -6421,6 +6474,11 @@
      "last_seen": "2026-11-13T14:10:15+00:00",
      "title": "Buyer (FTC)"
     },
+    "https://careers.siemens-healthineers.com/global/en/job/P-101391/Procurement-Engineer": {
+     "first_seen": "2026-11-24T12:25:28+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
+     "title": "Procurement Engineer"
+    },
     "https://careers.siemens-healthineers.com/global/en/job/P-101393/Internship-for-Mechatronics-at-Innovation-Strategy-Ecosystem": {
      "first_seen": "2026-11-13T13:55:02+00:00",
      "last_seen": "2026-11-13T14:10:15+00:00",
@@ -6430,6 +6488,11 @@
      "first_seen": "2026-11-19T08:32:55+00:00",
      "last_seen": "2026-11-19T08:32:55+00:00",
      "title": "Key Accounts Manager - Radiology Informatics"
+    },
+    "https://careers.siemens-healthineers.com/global/en/job/P-101521/Customer-Service-Engineer-Southern": {
+     "first_seen": "2026-11-24T12:25:28+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
+     "title": "Customer Service Engineer - Southern"
     },
     "https://careers.siemens-healthineers.com/global/en/job/P-101533/Estágio-em-Accounting-Contabilidade": {
      "first_seen": "2026-11-19T08:32:55+00:00",
@@ -6768,7 +6831,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29627/Regional-Sales-Director-West-Region-Southern-CA-NV-and-AZ": {
      "first_seen": "2026-11-19T08:32:55+00:00",
-     "last_seen": "2026-11-21T14:25:32+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Regional Sales Director, West Region (Southern CA, NV and AZ)"
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29650/Customer-Service-Engineer-2-Diagnostics-Clifton-NJ": {
@@ -6808,7 +6871,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29709/Medical-Imaging-Field-Engineer-Columbus-OH": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-21T14:25:32+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Medical Imaging Field Engineer - Columbus, OH"
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29713/Accounting-Professional": {
@@ -6833,7 +6896,7 @@
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29736/Sales-Excellence-Trainer": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-21T14:25:32+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Excellence Trainer"
     },
     "https://careers.siemens-healthineers.com/global/en/job/R-29742/Field-Service-Engineer-HW-Baltimore": {
@@ -7819,7 +7882,7 @@
   "https://careers.smartrecruiters.com/DENSOINTERNATIONALEUROPE": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0154c0dabe": 20781,
     "0471386edf": 20781,
@@ -7896,22 +7959,22 @@
    "links": {
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000120418078-sales-executive-independent-aftermarket-france-south-west": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Executive – Independent Aftermarket France South-West"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000124412017-termelesi-operator": {
      "first_seen": "2026-11-09T07:54:53+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Termelési operátor"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000127892409-strategiai-beszerzo": {
      "first_seen": "2026-11-06T12:09:43+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Stratégiai beszerző"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000144021795-mechanikus-gepkarbantarto": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Mechanikus gépkarbantartó"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000149240419-sales-representative-independent-automotive-aftermarket-north-germany-m-f-d-": {
@@ -7926,17 +7989,17 @@
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000150636416-sales-engineer-m-f-d-": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Engineer (m/f/d)"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000150959354-customer-service-representative": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer service representative"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000150960929-customer-service-representative": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customer service representative"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000151314454-japanese-interpreter": {
@@ -7951,47 +8014,47 @@
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000151596779-elektromos-gepkarbantarto": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektromos gépkarbantartó"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000153148810-plc-programozo-": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "PLC programozó"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000154024249-termelest-fejleszto-elektromos-szakember": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Termelést fejlesztő elektromos szakember"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000154367756-master-thesis-student-m-f-d-physical-ai-with-vision-language-action-vla-models-in-robotics": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Master Thesis Student (m/f/d) - Physical AI with Vision Language Action (VLA) Models in Robotics"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000155503759-supplier-quality-engineer": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Supplier Quality Engineer"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000156338229-transport-planner-ilx": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Transport Planner ILX"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000156755427-customs-expert": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Customs Expert"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000158290349-vallalati-tervezo-corporate-planner-": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Vállalati tervező (Corporate Planner)"
     },
     "https://jobs.smartrecruiters.com/DENSOINTERNATIONALEUROPE/744000159094850-vevoi-minosegbiztositasi-mernok-customer-quality-assurance-engineer": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Vevői minőségbiztosítási mérnök - Customer Quality Assurance Engineer"
     }
    },
@@ -8002,12 +8065,13 @@
   "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0049f8894e": 20781,
     "0122c3518e": 20781,
     "0154c0dabe": 20781,
     "01594386e6": 20776,
+    "020e6ebf80": 20781,
     "02c8be94d9": 20780,
     "03ab393ffb": 20776,
     "04e9739608": 20773,
@@ -8043,6 +8107,7 @@
     "196dc92a1b": 20775,
     "19c554dec5": 20781,
     "1a09170026": 20777,
+    "1a389c8daa": 20781,
     "1aaab682fd": 20781,
     "1b0a40b55e": 20768,
     "1ccfd6004d": 20781,
@@ -8124,7 +8189,7 @@
     "50778f32b6": 20770,
     "50cbb4c067": 20781,
     "50ccc53568": 20781,
-    "5110b352c6": 20768,
+    "5110b352c6": 20781,
     "51985bfd31": 20781,
     "51a0f7ce1a": 20781,
     "51d4a2da41": 20781,
@@ -8142,6 +8207,7 @@
     "58b9087073": 20781,
     "5958c4c81c": 20781,
     "5ad789d9ce": 20781,
+    "5c1dc07026": 20781,
     "5c3ddb06c5": 20768,
     "5c3f415ed1": 20781,
     "5cbd584046": 20781,
@@ -8252,6 +8318,7 @@
     "a85f2d02e2": 20773,
     "a88db2af9d": 20769,
     "a965e9a1a1": 20781,
+    "aa678c3482": 20781,
     "ab5b89337b": 20781,
     "af32cf6011": 20768,
     "afd3f2c3e3": 20781,
@@ -8274,6 +8341,7 @@
     "bb341d8283": 20781,
     "bb5a48c5ed": 20775,
     "bbda22cc5e": 20781,
+    "bc4a64a26e": 20781,
     "bd307b7bf0": 20767,
     "bd4fe8584e": 20780,
     "bd5d6e16e4": 20781,
@@ -8380,32 +8448,32 @@
    "links": {
     "https://careers.synopsys.com/job/munich/asic-digital-design-verification-principal-engineer/44408/95049838624": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "ASIC Digital Design Verification, Principal Engineer Munich, Germany Category: Engineering Posted: 05.12.2026 Job ID: 15146"
     },
     "https://careers.synopsys.com/job/munich/pcie-soc-application-engineer-sr-staff/44408/98136037904": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "PCIE SOC Application Engineer (Sr Staff) Munich, Germany Category: Engineering Posted: 08.23.2026 Job ID: 18244"
     },
     "https://careers.synopsys.com/job/munich/senior-staff-interface-ip-verification-engineer-pre-silicon-pcie-cxl-ddr-ethernet/44408/99675054320": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Staff Interface IP Verification Engineer (Pre-Silicon- PCIe/CXL/DDR/Ethernet) Munich, Germany Category: Engineering Posted: 09.30.2026 Job ID: "
     },
     "https://careers.synopsys.com/job/munich/senior-staff-interface-ip-verification-pre-silicon-pcie-cxl-ddr-ethernet/44408/99675054352": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Staff- Interface IP Verification (Pre-Silicon- PCIe/CXL/DDR/Ethernet) Munich, Germany Category: Engineering Posted: 10.01.2026 Job ID: 18424"
     },
     "https://careers.synopsys.com/job/munich/technical-product-management-principal-engineer-m-f-d/44408/101675489312": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Technical Product Management, Principal Engineer (m/f/d) Munich, Germany Category: Product Management Posted: 10.06.2026 Job ID: 19122"
     },
     "https://careers.synopsys.com/job/otterfing/sales-development-representative-m-f-d/44408/100128500128": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Development Representative (m/f/d) Otterfing, Germany Category: Sales Posted: 09.02.2026 Job ID: 18442"
     }
    },
@@ -8416,7 +8484,7 @@
   "https://careers.telekom.com/de/jobs?location=Hof&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -8489,17 +8557,17 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312475": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-area-321627": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321628": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -8510,7 +8578,7 @@
   "https://careers.telekom.com/de/jobs?location=Ingolstadt&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -8583,17 +8651,17 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-commercial-specialist-for-it-system-management-m-f-d-312627": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321383": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321382": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -8604,7 +8672,7 @@
   "https://careers.telekom.com/de/jobs?location=Leinfelden-Echterdingen&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "00dcbecff6": 20777,
     "00dd1f85df": 20771,
@@ -8737,27 +8805,27 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-commercial-specialist-for-it-system-management-m-f-d-312671": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/business-value-seller-b2b-m-f-d-x-810517": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-computer-science-and-artificial-intelligence-m-f-d-313260": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/dual-study-program-computer-science-m-f-d-313284": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/executive-solution-architect-for-cloud-platform-m-f-d-563465374655647": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/internship-ai-digital-hr-projects-in-core-operations-in-hr-germany-global-tech-947588": {
@@ -8777,27 +8845,27 @@
     },
     "https://careers.telekom.com/de/jobs/lead-consultant-sap-cash-payments-m-f-d-x-727232": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/principal-it-project-manager-m-w-d-563465374682088": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/sap-consultant-kasse-zahlungsverkehr-public-sector-m-w-d-x-856625": {
      "first_seen": "2026-11-16T09:53:45+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/sap-lead-consultant-finance-m-f-d-x-821973": {
      "first_seen": "2026-11-05T11:10:01+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/sap-senior-consultant-architect-m-f-d-x-718101": {
      "first_seen": "2026-11-23T12:12:32+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-cloud-architect-for-multi-cloud-enterprise-transformation-m-f-d-x-936414": {
@@ -8807,12 +8875,12 @@
     },
     "https://careers.telekom.com/de/jobs/senior-consultant-sap-co-ps-fr-s-4hana-transformationen-m-f-d-x-701146": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-consultant-sap-s-4hana-embedded-analytics-m-f-d-x-807773": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-project-manager-m-f-d-x-sap-hcm-transformation-829202": {
@@ -8822,12 +8890,12 @@
     },
     "https://careers.telekom.com/de/jobs/senior-project-manager-new-business-b2b-ict-cloud-solutions-m-f-d-x-862850": {
      "first_seen": "2026-11-10T09:39:44+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sales-expert-germany-industries-cloud-public-m-f-d-x-893618": {
      "first_seen": "2026-11-17T07:10:04+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sales-expert-m-w-d-x-sap-solutions-760161": {
@@ -8837,27 +8905,27 @@
     },
     "https://careers.telekom.com/de/jobs/senior-sales-expert-sap-sales-m-f-d-x-759729": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sap-consultant-cash-payments-public-sector-m-f-d-x-857210": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sap-s-4hana-logistics-consultant-m-f-d-x-835504": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-sap-technical-consultant-hcm-dev-m-w-d-x-760603": {
      "first_seen": "2026-11-19T06:42:57+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-service-manager-hcm-m-f-d-x-779056": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/senior-t-cloud-sales-manager-for-new-business-acquisition-m-f-d-x-760480": {
@@ -8872,7 +8940,7 @@
     },
     "https://careers.telekom.com/de/jobs/strategic-b2b-sales-consultant-business-advisor-m-f-d-x-904976": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/working-student-in-hr-m-f-d-x-818683": {
@@ -8888,7 +8956,7 @@
   "https://careers.telekom.com/de/jobs?location=Ludwigsburg&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -8967,12 +9035,12 @@
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312467": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321601": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -8983,7 +9051,7 @@
   "https://careers.telekom.com/de/jobs?location=Regensburg&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "06ad301e02": 20781,
@@ -9065,52 +9133,52 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-at-deutsche-telekom-m-f-d-314311": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-commercial-specialist-for-it-system-management-m-f-d-312661": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312813": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-management-assistant-for-dialogue-marketing-m-f-d-312439": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312440": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321548": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-at-deutsche-telekom-321544": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-321545": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-management-assistant-for-dialogue-marketing-321546": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321547": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -9121,7 +9189,7 @@
   "https://careers.telekom.com/de/jobs?location=Rosenheim&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -9195,17 +9263,17 @@
    "links": {
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321499": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-321498": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/fiberglass-sales-representative-door-to-door-in-munich-traunstein-rosenheim-m-f-d-x-926518": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -9216,7 +9284,7 @@
   "https://careers.telekom.com/de/jobs?location=Traunstein&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -9300,42 +9368,42 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-it-system-electronics-engineer-m-f-d-312794": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-management-assistant-for-dialogue-marketing-m-f-d-312424": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-312425": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321503": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-management-assistant-for-dialogue-marketing-321501": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-321502": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/fiberglass-sales-representative-door-to-door-in-munich-traunstein-rosenheim-m-f-d-x-926518": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/sales-coach-south-region-m-f-d-x-563465375018214": {
      "first_seen": "2026-11-18T11:55:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -9346,7 +9414,7 @@
   "https://careers.telekom.com/de/jobs?location=Weiden&sort=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "052eb108ae": 20781,
     "08fd64732a": 20781,
@@ -9428,37 +9496,37 @@
    "links": {
     "https://careers.telekom.com/de/jobs/apprenticeship-management-assistant-for-dialogue-marketing-m-f-d-312442": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/apprenticeship-retail-management-assistant-m-f-d-317326": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-it-system-electronics-engineer-m-f-d-321554": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-commercial-specialist-for-it-system-management-321552": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-management-assistant-for-dialogue-marketing-321553": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/career-orientation-internship-m-f-d-retail-management-assistant-322275": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     },
     "https://careers.telekom.com/de/jobs/sales-coach-south-region-m-f-d-x-563465375018214": {
      "first_seen": "2026-11-18T11:55:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Jobdetails"
     }
    },
@@ -9469,7 +9537,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Abstatt%20bei%20Stuttgart": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -9970,7 +10038,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -10773,7 +10841,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF264317Y-pre-master-programm-entwicklung-einer-python-bibliothek-fuer-hardware-prototypen": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pre-Master Programm - Entwicklung einer Python Bibliothek für Hardware-Prototypen"
     },
     "https://jobs.bosch.com/en/job/REF292486H-masterarbeit-smart-temperature-estimation-in-high-performance-brake-systems": {
@@ -10813,37 +10881,37 @@
     },
     "https://jobs.bosch.com/en/job/REF300001T-pflichtpraktikum-data-management-fertigung": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum Data Management Fertigung"
     },
     "https://jobs.bosch.com/en/job/REF300587M-pflichtpraktikum-im-bereich-agile-softwareentwicklung-automatisierung-ki": {
      "first_seen": "2026-11-10T15:26:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich Agile Softwareentwicklung, Automatisierung & KI"
     },
     "https://jobs.bosch.com/en/job/REF300871S-praktikum-in-der-bremsregelsystemapplikation": {
      "first_seen": "2026-11-13T15:25:23+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum in der Bremsregelsystemapplikation"
     },
     "https://jobs.bosch.com/en/job/REF301141E-pflichtpraktikum-im-bereich-international-human-resources-und-hr-strategy": {
      "first_seen": "2026-11-17T15:25:36+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich International Human Resources und HR Strategy"
     },
     "https://jobs.bosch.com/en/job/REF301275M-praktikum-im-bereich-reliability-engineering-bremsregelsysteme": {
      "first_seen": "2026-11-18T15:25:35+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Bereich Reliability Engineering – Bremsregelsysteme"
     },
     "https://jobs.bosch.com/en/job/REF301513A-praktikum-im-bereich-sales-mercedes-benz": {
      "first_seen": "2026-11-20T11:25:46+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Bereich Sales Mercedes-Benz"
     },
     "https://jobs.bosch.com/en/job/REF301521R-werkstudent-fuer-internationale-logistikplanung-w-m-div": {
      "first_seen": "2026-11-20T14:25:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent für internationale Logistikplanung (w/m/div.)"
     }
    },
@@ -10854,7 +10922,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Augsburg": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -11340,7 +11408,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -12128,17 +12196,17 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF288421B-vertriebsmitarbeiter-im-innendienst-fuer-die-buderus-niederlassung-augsburg-w-m-div": {
      "first_seen": "2026-11-18T15:25:35+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Vertriebsmitarbeiter im Innendienst für die Buderus Niederlassung Augsburg (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF293449M-elektroniker-servicetechniker-m-w-d-gebaeudeautomation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektroniker / Servicetechniker (m/w/d) Gebäudeautomation"
     },
     "https://jobs.bosch.com/en/job/REF296780K-elektroniker-servicetechniker-m-w-d-gebaeudeautomation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektroniker / Servicetechniker (m/w/d) Gebäudeautomation"
     }
    },
@@ -12149,7 +12217,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Bamberg": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -12635,7 +12703,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -13447,22 +13515,22 @@
     },
     "https://jobs.bosch.com/en/job/REF300119J-praktikum-planungslogistik": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum - Planungslogistik"
     },
     "https://jobs.bosch.com/en/job/REF300132B-praktikum-chemie-keramiklabor": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum - Chemie-/Keramiklabor"
     },
     "https://jobs.bosch.com/en/job/REF300176Y-masterarbeit-methodenentwicklung-zur-zerstoerungsfreien-oberflaechenanalytik-m-w-d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Masterarbeit - Methodenentwicklung zur zerstörungsfreien Oberflächenanalytik (m/w/d)"
     },
     "https://jobs.bosch.com/en/job/REF301523F-praktikum-digitalisierung-und-automatisierung-in-der-logistik": {
      "first_seen": "2026-11-20T14:25:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum - Digitalisierung und Automatisierung in der Logistik"
     }
    },
@@ -13473,7 +13541,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Bietigheim%20-%20Bissingen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -13962,7 +14030,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -14761,42 +14829,42 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF294881I-pflichtpraktikum-in-business-development-mit-fokus-auf-strategisches-partnermanagement": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in Business Development mit Fokus auf strategisches Partnermanagement"
     },
     "https://jobs.bosch.com/en/job/REF296552M-premaster-programm-gap-year-strategy-und-produktmanagement-shopfloor-solutions": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "PreMaster Programm - Gap Year - Strategy und Produktmanagement-Shopfloor Solutions"
     },
     "https://jobs.bosch.com/en/job/REF299106D-pflichtpraktikum-in-der-logistikplanung-digitalisierung-und-fabrikplanung": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in der Logistikplanung - Digitalisierung und Fabrikplanung"
     },
     "https://jobs.bosch.com/en/job/REF299736F-pflichtpraktikum-im-bereich-logistik-und-supply-chain": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich Logistik und Supply Chain"
     },
     "https://jobs.bosch.com/en/job/REF301014F-pflichtpraktikum-im-produktmanagement-shopfloor-solutions": {
      "first_seen": "2026-11-16T15:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Produktmanagement Shopfloor Solutions"
     },
     "https://jobs.bosch.com/en/job/REF301112A-pflichtpraktikum-in-der-entwicklung-und-konstruktion": {
      "first_seen": "2026-11-17T12:25:10+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in der Entwicklung und Konstruktion"
     },
     "https://jobs.bosch.com/en/job/REF301386Z-pflichtpraktikum-im-bereich-werks-und-business-unit-controlling": {
      "first_seen": "2026-11-19T14:25:09+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich Werks- und Business-Unit-Controlling"
     },
     "https://jobs.bosch.com/en/job/REF301642L-pflichtpraktikum-im-projektmanagement": {
      "first_seen": "2026-11-23T17:28:48+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Projektmanagement"
     }
    },
@@ -14807,7 +14875,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Gerlingen%20-%20Schillerh%C3%B6he": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -15311,7 +15379,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -16121,17 +16189,17 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF129261V-junior-managers-program-trainee-start-your-leadership-journey-in-hr-tech-digitalization-and-genai": {
      "first_seen": "2026-11-11T17:10:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in HR Tech, Digitalization and GenAI"
     },
     "https://jobs.bosch.com/en/job/REF20329L-junior-managers-program-trainee-unsolicited-application": {
      "first_seen": "2026-11-13T15:25:23+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Junior Managers Program (Trainee) - Unsolicited Application"
     },
     "https://jobs.bosch.com/en/job/REF285432U-director-consulting-business-strategy-innovation-new-technologies-f-m-div": {
      "first_seen": "2026-11-17T12:25:10+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Director Consulting: Business Strategy, Innovation & New Technologies (f/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF297942D-pflichtpraktikum-im-bereich-change-management-kommunikation-und-design": {
@@ -16151,12 +16219,12 @@
     },
     "https://jobs.bosch.com/en/job/REF299800U-bosch-management-consulting-innovation-consultant-go-to-market-practice-f-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Bosch Management Consulting Innovation: Consultant, Go-to-Market Practice (f/m/div)"
     },
     "https://jobs.bosch.com/en/job/REF300418T-junior-managers-program-trainee-start-your-leadership-journey-in-r-d": {
      "first_seen": "2026-11-11T12:39:40+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in R&D"
     },
     "https://jobs.bosch.com/en/job/REF300418T-junior-managers-program-trainee-start-your-leadership-journey-in-r-d-powertrain-solutions-home-comfort": {
@@ -16166,17 +16234,17 @@
     },
     "https://jobs.bosch.com/en/job/REF301515R-pflichtpraktikum-im-bereich-real-estate-portfolio-management": {
      "first_seen": "2026-11-20T14:25:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich Real Estate Portfolio Management"
     },
     "https://jobs.bosch.com/en/job/REF301625D-pflichtpraktikum-in-generative-ai-leadership-intelligence": {
      "first_seen": "2026-11-23T17:28:48+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in Generative AI & Leadership Intelligence"
     },
     "https://jobs.bosch.com/en/job/REF38394P-junior-managers-program-trainee-start-your-leadership-journey-in-sales-mobility": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Junior Managers Program (Trainee) - Start your Leadership Journey in Sales Mobility"
     }
    },
@@ -16187,7 +16255,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Ingolstadt": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -16675,7 +16743,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -17468,7 +17536,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Leinfelden%20-%20Echterdingen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -17957,7 +18025,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -18783,17 +18851,17 @@
     },
     "https://jobs.bosch.com/en/job/REF299661M-praktikum-retail-marketing-im-nationalen-und-internationalen-key-account-management": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum Retail Marketing im nationalen und internationalen Key Account Management"
     },
     "https://jobs.bosch.com/en/job/REF299991Z-pflichtpraktikum-im-event-und-social-media-marketing": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Event- und Social Media Marketing"
     },
     "https://jobs.bosch.com/en/job/REF300117E-praktikum-im-launch-management-promotion-marketing": {
      "first_seen": "2026-11-19T11:20:11+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Launch Management & Promotion Marketing"
     },
     "https://jobs.bosch.com/en/job/REF300117E-praktikum-trade-marketing": {
@@ -18803,7 +18871,7 @@
     },
     "https://jobs.bosch.com/en/job/REF300126Q-praktikum-strategischer-einkauf": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum Strategischer Einkauf"
     },
     "https://jobs.bosch.com/en/job/REF300177K-business-partner-controlling-non-plant-m-f-div-eg16": {
@@ -18818,7 +18886,7 @@
     },
     "https://jobs.bosch.com/en/job/REF300501D-praktikum-im-bereich-industrial-design": {
      "first_seen": "2026-11-09T15:25:18+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Bereich Industrial Design"
     },
     "https://jobs.bosch.com/en/job/REF300617E-praktikum-im-international-product-management": {
@@ -18828,17 +18896,17 @@
     },
     "https://jobs.bosch.com/en/job/REF300780A-praktikum-im-strategischen-key-account-management-akku-allianzen-und-private-label": {
      "first_seen": "2026-11-12T15:40:37+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im strategischen Key Account Management - Akku Allianzen und Private Label"
     },
     "https://jobs.bosch.com/en/job/REF301363E-internship-international-event-marketing": {
      "first_seen": "2026-11-19T11:20:11+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Internship International Event Marketing"
     },
     "https://jobs.bosch.com/en/job/REF301365H-praktikum-im-trade-marketing": {
      "first_seen": "2026-11-19T11:20:11+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Trade Marketing"
     }
    },
@@ -18849,7 +18917,7 @@
   "https://jobs.bosch.com/en/?country=de&location=N%C3%BCrnberg": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -19349,7 +19417,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -20166,12 +20234,12 @@
     },
     "https://jobs.bosch.com/en/job/REF227963L-mitarbeiter-im-bereich-produktion-w-m-div-befristet": {
      "first_seen": "2026-11-16T15:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Mitarbeiter im Bereich Produktion (w/m/div.) – befristet"
     },
     "https://jobs.bosch.com/en/job/REF277925V-facharzt-arbeitsmedizin-werksarzt-teilzeit-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Facharzt Arbeitsmedizin / Werksarzt (Teilzeit, w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF286558S-kundendiensttechniker-raum-nuernberg-w-m-div": {
@@ -20191,7 +20259,7 @@
     },
     "https://jobs.bosch.com/en/job/REF298041F-junior-sales-manager-w-m-div-befristet-fuer-24-monate": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Junior Sales Manager (w/m/div.) (befristet für 24 Monate)"
     },
     "https://jobs.bosch.com/en/job/REF299477H-facharbeiter-w-m-div-im-fertigungsumfeld": {
@@ -20201,17 +20269,17 @@
     },
     "https://jobs.bosch.com/en/job/REF299477H-facharbeiter-w-m-div-im-fertigungsumfeld-befristet": {
      "first_seen": "2026-11-12T15:40:37+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Facharbeiter (w/m/div.) im Fertigungsumfeld - befristet"
     },
     "https://jobs.bosch.com/en/job/REF299602C-werkstudent-in-der-instandhaltungsplanung-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent in der Instandhaltungsplanung (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF300185A-werkstudent-im-bereich-industrial-engineering-und-digitalisierung-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent im Bereich Industrial Engineering und Digitalisierung (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF300286M-versandmitarbeiter-lagermitarbeiter-kommissionierer-m-w-d": {
@@ -20221,12 +20289,12 @@
     },
     "https://jobs.bosch.com/en/job/REF300525S-anerkennungsjahr-sozialberatung-im-rahmen-der-staatlichen-anerkennung": {
      "first_seen": "2026-11-09T18:25:02+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Anerkennungsjahr Sozialberatung im Rahmen der staatlichen Anerkennung"
     },
     "https://jobs.bosch.com/en/job/REF300786B-pflichtpraktikum-in-der-kunden-und-beschaffungsplanung": {
      "first_seen": "2026-11-12T15:40:37+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in der Kunden- und Beschaffungsplanung"
     }
    },
@@ -20237,7 +20305,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Plochingen%20bei%20Stuttgart": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -20723,7 +20791,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -21511,22 +21579,22 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF297936N-pflichtpraktikum-entwicklung-kalibrierequipment-fuer-fahrerassistenzsysteme": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum Entwicklung - Kalibrierequipment für Fahrerassistenzsysteme"
     },
     "https://jobs.bosch.com/en/job/REF299808X-werkstudent-im-bereich-training-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent im Bereich Training (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF299834E-pflichtpraktikum-in-der-produktkommunikation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum in der Produktkommunikation"
     },
     "https://jobs.bosch.com/en/job/REF300402M-pflichtpraktikum-im-qualitaetsmanagement": {
      "first_seen": "2026-11-06T15:25:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Qualitätsmanagement"
     }
    },
@@ -21537,7 +21605,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Schweinfurt": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -22031,7 +22099,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -22834,7 +22902,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF269500S-pflichtpraktikum-im-gesundheitsmanagement-beim-medizinischem-dienst": {
      "first_seen": "2026-11-09T09:25:09+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Gesundheitsmanagement beim Medizinischem Dienst"
     },
     "https://jobs.bosch.com/en/job/REF277022G-specialist-digital-online-marketing-w-m-div": {
@@ -22849,12 +22917,12 @@
     },
     "https://jobs.bosch.com/en/job/REF288278V-it-experte-manufacturing-execution-system-w-m-div": {
      "first_seen": "2026-11-06T15:25:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "IT Experte Manufacturing Execution System (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF295302V-digital-solutions-engineer-w-m-div": {
      "first_seen": "2026-11-06T15:25:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Digital Solutions Engineer (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF295644F-senior-mechatronik-design-engineer-halbleiter-automatisierung-w-m-div": {
@@ -22864,7 +22932,7 @@
     },
     "https://jobs.bosch.com/en/job/REF297398S-sales-coordination-and-distributor-management-indirect-global-sales-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Coordination and Distributor Management - Indirect Global Sales (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF299733S-pflichtpraktikum-in-der-mfc-fertigungskoordination": {
@@ -22884,7 +22952,7 @@
     },
     "https://jobs.bosch.com/en/job/REF299988M-pflichtpraktikum-assistenz-werkleitung-organisationsentwicklung": {
      "first_seen": "2026-11-05T12:40:13+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum Assistenz Werkleitung & Organisationsentwicklung"
     },
     "https://jobs.bosch.com/en/job/REF299988M-pflichtpraktikum-people-culture-und-support-werkleitung": {
@@ -22899,7 +22967,7 @@
     },
     "https://jobs.bosch.com/en/job/REF300029G-pflichtpraktikum-hr-people-culture-personalentwicklung": {
      "first_seen": "2026-11-09T12:25:01+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum HR People & Culture - Personalentwicklung"
     },
     "https://jobs.bosch.com/en/job/REF300029G-pflichtpraktikum-personalabteilung-aus-und-weiterbildung": {
@@ -22919,12 +22987,12 @@
     },
     "https://jobs.bosch.com/en/job/REF300958K-facharbeiter-im-bereich-stahleinlagen-schleifen-w-m-div": {
      "first_seen": "2026-11-16T15:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Facharbeiter im Bereich Stahleinlagen Schleifen (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF301251R-maschinenbediener-adjustage-w-m-div-befristet": {
      "first_seen": "2026-11-19T08:32:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Maschinenbediener Adjustage (w/m/div.) - befristet"
     }
    },
@@ -22935,7 +23003,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Weilimdorf": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -23431,7 +23499,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -24237,12 +24305,12 @@
     },
     "https://jobs.bosch.com/en/job/REF286582T-techniker-in-der-region-rastatt-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Techniker in der Region Rastatt (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF290982D-vertriebsmitarbeiter-innendienst-m-w-d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Vertriebsmitarbeiter Innendienst (m/w/d)"
     },
     "https://jobs.bosch.com/en/job/REF293659N-solution-architect-w-m-div": {
@@ -24252,22 +24320,22 @@
     },
     "https://jobs.bosch.com/en/job/REF294466Y-enterprise-architect-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Enterprise Architect (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF297632F-servicetechniker-m-w-d-gebaeudeautomation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Servicetechniker (m/w/d) Gebäudeautomation"
     },
     "https://jobs.bosch.com/en/job/REF298431E-pflichtpraktikum-im-technischen-vertrieb": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im technischen Vertrieb"
     },
     "https://jobs.bosch.com/en/job/REF299437R-techniker-meister-ingenieur-w-m-div-fuer-gebaeudeautomation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Techniker/ Meister/ Ingenieur (w/m/div.) für Gebäudeautomation"
     },
     "https://jobs.bosch.com/en/job/REF299539R-werkstudent-im-bereich-media-relations-bosch-ventures-w-m-div": {
@@ -24277,12 +24345,12 @@
     },
     "https://jobs.bosch.com/en/job/REF300772M-praktikum-im-strategischen-einkauf": {
      "first_seen": "2026-11-12T12:39:55+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Strategischen Einkauf"
     },
     "https://jobs.bosch.com/en/job/REF300851H-werkstudent-im-bereich-service-marketing-w-m-div": {
      "first_seen": "2026-11-13T09:25:35+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent im Bereich Service Marketing (w/m/div.)"
     }
    },
@@ -24293,7 +24361,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Ulm": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -24792,7 +24860,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -25593,7 +25661,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF267485P-elektroniker-elektriker-mit-schwachstromkenntnissen-gebiet-biberach-an-der-riss-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Biberach an der Riß (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF282480N-process-designer-produce-to-supply-w-m-div": {
@@ -25608,12 +25676,12 @@
     },
     "https://jobs.bosch.com/en/job/REF287979A-technischer-systemberater-w-m-div": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Technischer Systemberater (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF291796F-praktikum-im-vertrieb-fuer-automatisierungssoftware": {
      "first_seen": "2026-11-12T07:50:45+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Praktikum im Vertrieb für Automatisierungssoftware"
     },
     "https://jobs.bosch.com/en/job/REF294691W-premaster-programm-gapyear-marketing-performance-operations": {
@@ -25623,12 +25691,12 @@
     },
     "https://jobs.bosch.com/en/job/REF295214V-internship-global-area-sales-and-distribution-management": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Internship Global Area Sales and Distribution Management"
     },
     "https://jobs.bosch.com/en/job/REF300146M-pflichtpraktikum-im-bereich-marketing-kommunikation-messen-und-events": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Pflichtpraktikum im Bereich Marketing, Kommunikation, Messen und Events"
     },
     "https://jobs.bosch.com/en/job/REF300188Y-werkstudent-im-bereich-technik-w-m-div": {
@@ -25643,12 +25711,12 @@
     },
     "https://jobs.bosch.com/en/job/REF300323N-kundendiensttechniker-raum-landkreis-unterallgaeu-memmingen-w-m-div": {
      "first_seen": "2026-11-06T12:24:58+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Kundendiensttechniker Raum Landkreis Unterallgäu / Memmingen (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF301522G-internship-in-development-of-an-ai-based-competitive-database-and-product-matching-tool": {
      "first_seen": "2026-11-20T14:25:06+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Internship in Development of an AI-Based Competitive Database and Product Matching Tool"
     }
    },
@@ -25659,7 +25727,7 @@
   "https://jobs.bosch.com/en/?country=de&location=Waltenhofen": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0020fdfb45": 20778,
     "003b8cf253": 20769,
@@ -26145,7 +26213,7 @@
     "5ed562c8e7": 20767,
     "5edf2dc8f3": 20773,
     "5f0785b78b": 20773,
-    "5f15500b00": 20780,
+    "5f15500b00": 20781,
     "5f821c4726": 20780,
     "5fa7f6ef36": 20778,
     "5fc8080030": 20772,
@@ -26940,7 +27008,7 @@
    "links": {
     "https://jobs.bosch.com/en/job/REF290129Q-elektroniker-msr-techniker-m-w-d-gebaeudeautomation": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektroniker / MSR-Techniker (m/w/d) Gebäudeautomation"
     },
     "https://jobs.bosch.com/en/job/REF297841F-elektrotechniker-elektromeister-konstruktion-m-w-d": {
@@ -26950,17 +27018,17 @@
     },
     "https://jobs.bosch.com/en/job/REF300717J-elektrokonstrukteur-elektrotechniker-w-m-div": {
      "first_seen": "2026-11-11T18:25:10+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Elektrokonstrukteur/ Elektrotechniker (w/m/div.)"
     },
     "https://jobs.bosch.com/en/job/REF301393Z-controller-m-w-d": {
      "first_seen": "2026-11-19T14:25:09+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Controller (m/w/d)"
     },
     "https://jobs.bosch.com/en/job/REF301603U-werkstudent-agentic-ai-microsoft-copilot-studio-w-m-div": {
      "first_seen": "2026-11-23T11:18:23+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent Agentic AI & Microsoft Copilot Studio (w/m/div.)"
     }
    },
@@ -26969,8 +27037,8 @@
    "needs_js": true
   },
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=Alzenau&sortColumn=referencedate&sortDirection=desc": {
-   "fails": 0,
-   "last_error": null,
+   "fails": 1,
+   "last_error": "browser: TimeoutError: Page.goto: Timeout 60000ms exceeded.",
    "last_ok": "2026-11-24T12:10:39+00:00",
    "line_seen": {
     "05381ac8af": 20781,
@@ -27050,8 +27118,8 @@
    "needs_js": true
   },
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=Stuttgart&sortColumn=referencedate&sortDirection=desc": {
-   "fails": 0,
-   "last_error": null,
+   "fails": 1,
+   "last_error": "browser: TimeoutError: Page.goto: Timeout 60000ms exceeded.",
    "last_ok": "2026-11-24T12:10:39+00:00",
    "line_seen": {
     "0097da77e9": 20769,
@@ -27554,8 +27622,8 @@
    "needs_js": true
   },
   "https://jobs.fraunhofer.de/search/?q=&locationsearch=W%C3%BCrzburg&sortColumn=referencedate&sortDirection=desc": {
-   "fails": 0,
-   "last_error": null,
+   "fails": 1,
+   "last_error": "browser: TimeoutError: Page.goto: Timeout 60000ms exceeded.",
    "last_ok": "2026-11-24T12:10:39+00:00",
    "line_seen": {
     "05381ac8af": 20781,
@@ -27656,7 +27724,7 @@
    "needs_js": true
   },
   "https://jobs.infineon.com/careers?domain=infineon.com&location=Erlangen%2C%20Germany&sort_by=timestamp": {
-   "fails": 1774,
+   "fails": 1775,
    "last_error": "no job links found this time (page may not have loaded)",
    "last_ok": "2026-11-06T15:40:01+00:00",
    "line_seen": {
@@ -28004,7 +28072,7 @@
   "https://jobs.infineon.com/careers?domain=infineon.com&location=Neubiberg%2C%20Germany&sort_by=timestamp": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0003ec4766": 20775,
     "00040bab8a": 20768,
@@ -31948,7 +32016,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808971420079?domain=infineon.com": {
      "first_seen": "2026-11-12T15:55:07+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Manager Product Marketing (f/m/div) München (Deutschland) HRC1692140 Hybrid Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808971420113?domain=infineon.com": {
@@ -32133,7 +32201,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808971810108?domain=infineon.com": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manager - GC AI Assistant product owner Shanghai HRC1744211"
     },
     "https://jobs.infineon.com/careers/job/563808971810113?domain=infineon.com": {
@@ -32143,7 +32211,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808971810719?domain=infineon.com": {
      "first_seen": "2026-11-20T12:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Assistant Engineer Quality Management Malakka HRC1744315"
     },
     "https://jobs.infineon.com/careers/job/563808971811656?domain=infineon.com": {
@@ -32203,7 +32271,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808971854119?domain=infineon.com": {
      "first_seen": "2026-11-20T12:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "(Senior) Assistant Failure Analysis (w/m/div) Dresden, Germany 563808971854119"
     },
     "https://jobs.infineon.com/careers/job/563808971859036?domain=infineon.com": {
@@ -32398,7 +32466,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972030822?domain=infineon.com": {
      "first_seen": "2026-11-24T11:40:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Staff Engineer System Application Engineering Acoustics (f/m/div) München HRC1801827"
     },
     "https://jobs.infineon.com/careers/job/563808972034528?domain=infineon.com": {
@@ -32603,7 +32671,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972160640?domain=infineon.com": {
      "first_seen": "2026-11-20T12:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Assistant Engineer Development (Contract) Malakka HRC1832649"
     },
     "https://jobs.infineon.com/careers/job/563808972167412?domain=infineon.com": {
@@ -32818,7 +32886,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972255103?domain=infineon.com": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Staff Assistant Product Line Acoustics (f/m/div) München, Deutschland HRC1849136 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972255108?domain=infineon.com": {
@@ -32918,7 +32986,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972294506?domain=infineon.com": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Director Electrical Failure Analysis (f/m/div) Munich + 1 more HRC1837130 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972295326?domain=infineon.com": {
@@ -32988,7 +33056,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972317236?domain=infineon.com": {
      "first_seen": "2026-11-20T12:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Assistant Logistics Kulim HRC1868840"
     },
     "https://jobs.infineon.com/careers/job/563808972320786?domain=infineon.com": {
@@ -33033,7 +33101,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972322444?domain=infineon.com": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Product Change Notification Specialist (f/m/div) Porto (Maia) HRC1873203 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972322762?domain=infineon.com": {
@@ -33158,7 +33226,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972341269?domain=infineon.com": {
      "first_seen": "2026-11-10T15:39:54+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent - Product Marketing Communications (f/m/div) München HRC1879915"
     },
     "https://jobs.infineon.com/careers/job/563808972341270?domain=infineon.com": {
@@ -33273,7 +33341,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972361459?domain=infineon.com": {
      "first_seen": "2026-11-20T12:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Staff Team Assistant Software Transformation Unit (f/m/div) München HRC1885618 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972365143?domain=infineon.com": {
@@ -33413,7 +33481,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972397597?domain=infineon.com": {
      "first_seen": "2026-11-24T08:32:27+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Manager Division Procurement Engineering (f/m/div) München HRC1890651 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972398503?domain=infineon.com": {
@@ -33423,12 +33491,12 @@
     },
     "https://jobs.infineon.com/careers/job/563808972398712?domain=infineon.com": {
      "first_seen": "2026-11-23T15:26:09+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Working Student – Standard Cells Verification (f/m/div) – HRC1893656 München HRC1893656 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972398954?domain=infineon.com": {
      "first_seen": "2026-11-24T10:25:34+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Working Student - Test Automation (f/m/div) Munich, Deutschland HRC1893773 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972399162?domain=infineon.com": {
@@ -33453,7 +33521,7 @@
     },
     "https://jobs.infineon.com/careers/job/563808972404032?domain=infineon.com": {
      "first_seen": "2026-11-23T09:59:28+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Working Student - Corporate Brand & Marketing Communications (f/m/div) München HRC1896164"
     },
     "https://jobs.infineon.com/careers/job/563808972411469?domain=infineon.com": {
@@ -33463,12 +33531,12 @@
     },
     "https://jobs.infineon.com/careers/job/563808972413993?domain=infineon.com": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent - R&D Interne Kommunikation (w/m/div) Munich, Deutschland HRC1899776_1 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972420840?domain=infineon.com": {
      "first_seen": "2026-11-23T13:40:29+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Master Thesis - SiC for Data Center Cooling (f/m/div) München, Deutschland HRC1901392 Hybrid"
     },
     "https://jobs.infineon.com/careers/job/563808972420922?domain=infineon.com": {
@@ -33478,12 +33546,12 @@
     },
     "https://jobs.infineon.com/careers/job/563808972423296?domain=infineon.com": {
      "first_seen": "2026-11-23T15:12:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent - Software Transformation Communication (w/m/div) München HRC1903339"
     },
     "https://jobs.infineon.com/careers/job/563808972427815?domain=infineon.com": {
      "first_seen": "2026-11-24T11:25:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Assistant Fab Operations Samut Prakan HRC1897771"
     }
    },
@@ -33492,8 +33560,8 @@
    "needs_js": true
   },
   "https://jobs.schaeffler.com/search/?q=&optionsFacetsDD_country=DE&sortColumn=referencedate&sortDirection=desc&locale=en_US": {
-   "fails": 0,
-   "last_error": null,
+   "fails": 1,
+   "last_error": "browser: TimeoutError: Page.goto: Timeout 60000ms exceeded.",
    "last_ok": "2026-11-24T12:10:39+00:00",
    "line_seen": {
     "0037451b66": 20781,
@@ -34838,7 +34906,7 @@
   "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42387=%5B814103%2C813141%5D&42387_format=17547&listFilterMode=1&folderRecordsPerPage=6&folderOffset=0": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0016e3b1be": 20774,
     "00662347af": 20781,
@@ -35333,12 +35401,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526754": {
      "first_seen": "2026-11-24T06:34:15+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) im Projekteinkauf"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526766": {
      "first_seen": "2026-11-24T08:47:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Global Head of Operations Automation & Digitalization Consulting (f/m/d)"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526927": {
@@ -35358,7 +35426,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527210": {
      "first_seen": "2026-11-23T14:55:36+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Data and AI Governance Architect (f/m/d)"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527263": {
@@ -35403,7 +35471,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527439": {
      "first_seen": "2026-11-06T11:39:40+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Head (f/m/d) of Forward Deployed AI Engineers for Customer Projects"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527447": {
@@ -35473,7 +35541,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528191": {
      "first_seen": "2026-11-05T14:49:45+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) im Bereich Software Entwicklung und Projektleitung"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528202": {
@@ -35723,7 +35791,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529310": {
      "first_seen": "2026-11-24T09:55:14+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (m/w/d) – IT & Digitalisierung in der Fertigung"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529318": {
@@ -35748,7 +35816,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529385": {
      "first_seen": "2026-11-24T08:10:08+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) Sustainability & AI"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529393": {
@@ -35788,7 +35856,7 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529594": {
      "first_seen": "2026-11-20T09:55:40+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) im Global Sales Machine Building"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529596": {
@@ -35798,12 +35866,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529614": {
      "first_seen": "2026-11-24T09:40:23+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) in der Personalentwicklung / Training"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529637": {
      "first_seen": "2026-11-24T11:40:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Research Scientist – Generative AI for Physical Systems (F/M/D)"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529640": {
@@ -35903,12 +35971,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530099": {
      "first_seen": "2026-11-24T10:25:34+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) IT Processes, Data Analytics & Automation"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530164": {
      "first_seen": "2026-11-20T15:40:36+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Power Automation Expert (f/m/d) for AI-enabled Engineering"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530187": {
@@ -35918,12 +35986,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530222": {
      "first_seen": "2026-11-20T14:11:02+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Working Student (f/m/d) Leadership Development Programs"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530227": {
      "first_seen": "2026-11-20T07:55:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) Projektmanagement"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530253": {
@@ -35933,12 +36001,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530374": {
      "first_seen": "2026-11-23T08:56:03+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Werkstudent (w/m/d) im strategischen Einkauf"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530405": {
      "first_seen": "2026-11-23T10:26:58+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Proposal Manager (w/m/d) für Automation & Protection"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530431": {
@@ -35948,12 +36016,12 @@
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530572": {
      "first_seen": "2026-11-24T11:40:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Team Manager Partner Sales Executives (m/w/d)"
     },
     "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530575": {
      "first_seen": "2026-11-24T11:55:26+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Partner Sales Executive (m/w/d) - Schweiz & Süddeutschland"
     }
    },
@@ -35962,7 +36030,7 @@
    "needs_js": true
   },
   "https://nxp.wd3.myworkdayjobs.com/careers?locations=3db468d56aa610d69085a48b83d7492d&locations=9dc186eddedc100107f45a24b8b80000&locations=3d89207c42c910013c5af48361630000&locations=d91f6c4e051c10009f0703955b220000": {
-   "fails": 1668,
+   "fails": 1669,
    "last_error": "no job links found this time (page may not have loaded)",
    "last_ok": "2026-11-07T17:09:30+00:00",
    "line_seen": {
@@ -36206,7 +36274,7 @@
   "https://wd5.myworkdaysite.com/recruiting/microchiphr/External?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "00ba19717c": 20781,
     "0129e23ab6": 20779,
@@ -36328,77 +36396,77 @@
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Garching---30-Parkring/Business-Development-Manager_R1170-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Business Development Manager"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Heilbronn-MCHP/Principal-Com-Sys-Design-Engineer_R3848-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Principal Com-Sys Design Engineer"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Heilbronn-MCHP/Principal-Engineer---Analog-Design_R2767-25-1?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Principal Engineer - Analog Design"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Heilbronn-MCHP/Principal-Engineer-Analog-Design-RF_R1831-26-1?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Principal Engineer-Analog Design RF"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Heilbronn-MCHP/Senior-Manager---Product-Marketing_R4371-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Manager - Product Marketing"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Karlsruhe/Principal-Engineer-Applications--f-m-d-_R2701-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Principal Engineer-Applications (f/m/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Karlsruhe/Senior-Applications-Engineer-II---Physical-Layer--m-f-d-_R2170-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Applications Engineer II – Physical Layer (m/f/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Karlsruhe/Senior-Applications-Engineer-II---Physical-Layer--m-f-d-_R2171-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Applications Engineer II – Physical Layer (m/f/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Neckarbischofsheim-NBH/Finanzbuchhalter--m-w-d----Financial-Accountant--m-f-d-_R3032-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Finanzbuchhalter (m/w/d) / Financial Accountant (m/f/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Neckarbischofsheim-NBH/Produktionsmitarbeiter--m-w-d----Production-Specialist--m-f-d-_R1401-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Produktionsmitarbeiter (m/w/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Neckarbischofsheim-NBH/Produktionsmitarbeiter--m-w-d----Production-Specialist--m-f-d-_R1404-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Produktionsmitarbeiter (m/w/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Neckarbischofsheim-NBH/Produktionsmitarbeiter--m-w-d----Production-Specialist--m-f-d-_R3835-26-1?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-12T09:39:36+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Produktionsmitarbeiter (m/w/d) / Production Specialist (m/f/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Germany---Neckarbischofsheim-NBH/Senior-Supply-Chain-Planner_R1400-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Specialist Supply Chain (m/w/d) / Senior Supply Chain Planner (m/f/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Munich-Garching/Client-Engagement-Manager---Distribbution_R1661-25?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Aerospace & Defence Client Engagement Manager – Central Europe (m/w/d)"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/Munich-Garching/Senior-Client-Engagement-Manager_R4172-26?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Senior Client Engagement Manager"
     },
     "https://wd5.myworkdaysite.com/de-DE/recruiting/microchiphr/External/job/United-Kingdom---Cambridge/Senior-Technical-Staff-Engineer---Architect--SoC-_R2548-26-1?locations=df8f2155125a013c9ccd35851001a729&locations=cbdaac00f38f01cf6bcc01b18535ba37&locations=cbdaac00f38f0153faa86cb185350a38&locations=cbdaac00f38f0179aafd07b18535bf37&locations=cbdaac00f38f0150518656b18535fb37&locations=be502edcef7701b90abc7ead966ecf1d": {
@@ -36414,7 +36482,7 @@
   "https://www.google.com/about/careers/applications/jobs/results/?location=Munich%2C%20Germany&sort_by=date": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "012533a86f": 20767,
     "01dfa8b064": 20781,
@@ -36728,12 +36796,12 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/100443076169736902-senior-customer-engineer-platform-mobility-dach-english-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-16T12:39:54+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Senior Customer Engineer, Platform, Mobility, DACH (English, German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/101168305019986630-industry-manager-retail-fixed-term-contract-english-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-16T14:10:33+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Industry Manager, Retail (Fixed Term Contract) (English, German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/104709412408435398-senior-staff-software-engineer-android-automotive-os?location=Munich%2C+Germany&sort_by=date": {
@@ -36753,32 +36821,32 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/113772054053823174-senior-customer-engineer-digital-natives?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-11T11:55:04+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Senior Customer Engineer, Digital Natives"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/114800855487521478-senior-forward-deployed-engineer-generative-ai-google-cloud?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Senior Forward Deployed Engineer, Generative AI, Google Cloud"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/116974862706057926-software-engineer-proof-and-verification-engineer?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-10T17:54:42+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Software Engineer, Proof and Verification Engineer"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/117991588839203526-youtube-account-executive-fixedterm-contract-german-english?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-17T13:56:01+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about YouTube Account Executive (Fixed-Term Contract) (German, English)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/122410815981527750-strategic-partner-development-manager-dsbo-fixed-term-contract-english-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-05T18:55:07+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Strategic Partner Development Manager, DSBO (Fixed Term Contract) (English, German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/124361935872238278-data-cloud-sales-specialist-dach?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-17T23:14:03+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Data Cloud Sales Specialist, DACH"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/125348182769967814-senior-staff-software-engineer-full-stack-codeai?location=Munich%2C+Germany&sort_by=date": {
@@ -36788,37 +36856,37 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/125683950428267206-customer-engineer-regulated-industries-dach-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-06T07:33:46+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Customer Engineer, Regulated Industries, DACH (German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/127607286443975366-deployment-engineer-gdc-air-gapped-google-cloud-public-sector?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-16T12:39:54+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Deployment Engineer, GDC Air Gapped, Google Cloud Public Sector"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/128594980477248198-security-sales-specialist-google-cloud-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Security Sales Specialist, Google Cloud (German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/128909707090764486-customer-engineer-google-cloud-platform-telco-energy-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Customer Engineer, Google Cloud Platform, Telco, Energy (German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/131232388897219270-industry-manager-retail-groceries-english-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-16T22:24:51+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Industry Manager, Retail, Groceries (English, German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/132757516751643334-data-cloud-sales-specialist-emea-north?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Data Cloud Sales Specialist, EMEA North"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/136445532154274502-senior-security-engineer-security-research?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-05T15:55:20+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Senior Security Engineer, Security Research"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/137126733294772934-ai-sales-specialist-google-cloud?location=Munich%2C+Germany&sort_by=date": {
@@ -36833,7 +36901,7 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/143244099506315974-isv-sales-specialist-google-cloud-german-english?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about ISV Sales Specialist, Google Cloud (German, English)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/72456132160824006-solution-architect-capital-markets-and-exchanges-google-cloud?location=Munich%2C+Germany&sort_by=date": {
@@ -36853,7 +36921,7 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/77992390907830982-ai-outcome-customer-engineer-google-cloud?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-12T15:10:09+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about AI Outcome Customer Engineer, Google Cloud"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/78240289977705158-agentic-data-cloud-sales-specialist-manager-financial-services-dach-german-english?location=Munich%2C+Germany&sort_by=date": {
@@ -36863,7 +36931,7 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/79578135783187142-senior-product-manager-google-design-platform?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-11T10:45:51+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Senior Product Manager, Google Design Platform"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/83860581102035654-principal-architect-telecommunications-emea?location=Munich%2C+Germany&sort_by=date": {
@@ -36878,7 +36946,7 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/85821055431516870-customer-engineer-platform-mobility-dach-english-german?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-23T13:09:52+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Customer Engineer, Platform, Mobility, DACH (English, German)"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/86601143093732038-software-engineering-manager-securityprivacy?location=Munich%2C+Germany&sort_by=date": {
@@ -36888,7 +36956,7 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/87366923683013318-customer-engineer-digital-natives?location=Munich%2C+Germany&sort_by=date": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Learn more about Customer Engineer, Digital Natives"
     },
     "https://www.google.com/about/careers/applications/jobs/results/jobs/results/91026231524238022-customer-engineer-platform-mobility-dach-english-german?location=Munich%2C+Germany&sort_by=date": {
@@ -36914,7 +36982,7 @@
   "https://www.ibm.com/careers/search?field_keyword_05[0]=Germany&sort=dcdate_desc": {
    "fails": 0,
    "last_error": null,
-   "last_ok": "2026-11-24T12:10:39+00:00",
+   "last_ok": "2026-11-24T12:25:28+00:00",
    "line_seen": {
     "0126ef3907": 20781,
     "0140fffdaa": 20770,
@@ -37051,6 +37119,7 @@
     "542b654092": 20771,
     "5496ded1aa": 20770,
     "553515af92": 20767,
+    "554d2d8858": 20781,
     "5556dd2a42": 20778,
     "558865a16f": 20781,
     "56148a8e88": 20781,
@@ -37359,7 +37428,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129289": {
      "first_seen": "2026-11-20T16:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Hardware Development Engineer – Signal & Power Integrity (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=129586": {
@@ -37379,7 +37448,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=132927": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Research Quantum Error Correction Research Intern - 2027 (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133013": {
@@ -37399,7 +37468,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134050": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Cloud Praktika im Bereich z/OS Softwareentwicklung (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134671": {
@@ -37414,7 +37483,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=134699": {
      "first_seen": "2026-11-12T17:55:16+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Quantum HW Vibration Intern - 2027 (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=135456": {
@@ -37434,42 +37503,42 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136291": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology IBM Z Firmware Partition Infrastructure Developer (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136920": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology IBM Z Firmware Developer - Millicode (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=136929": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Senior AI Architect (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137001": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Software Engineer – Firmware Development (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137019": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Cloud Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137210": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Embedded Software Engineer - IBM Z Service Network (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137328": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology IBM Z Firmware Delivery Software Engineer (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137514": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Software Engineer - DevOps & Developer Productivity (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=137556": {
@@ -37499,17 +37568,17 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=138790": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Cloud Master@IBM - Werkstudent Linux Kernel Developer (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139090": {
      "first_seen": "2026-11-13T17:39:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Software Engineer - Linux, KVM & OpenShift Virtualization (w/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139192": {
      "first_seen": "2026-11-04T23:21:22+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Cloud Internship: AI Enablement for Embedded Firmware Development (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139616": {
@@ -37519,7 +37588,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139640": {
      "first_seen": "2026-11-24T12:10:39+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Developer for Linux Kernel AI Accelerator Driver (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=139778": {
@@ -37534,22 +37603,22 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=140319": {
      "first_seen": "2026-11-20T16:10:51+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Sales Staff Solutions Engineer (f/m/x) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141649": {
      "first_seen": "2026-11-20T16:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering Software Developer Fullstack (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141655": {
      "first_seen": "2026-11-13T17:43:49+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering Software Developer Fullstack (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141674": {
      "first_seen": "2026-11-20T16:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Data & Analytics Data Scientist (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=141872": {
@@ -37559,47 +37628,47 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142013": {
      "first_seen": "2026-11-24T11:55:26+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Internship AI Quality Software Engineer (f/m/x) Internship Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142442": {
      "first_seen": "2026-11-13T15:09:59+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering Senior AI Architekt (m/w/d) für den Defense-Sektor Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142595": {
      "first_seen": "2026-11-13T14:55:21+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering Senior Cloud Full Stack Developer (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142619": {
      "first_seen": "2026-11-13T14:55:21+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Consulting Business Transformation Consultant (m/w/d) im Bereich Finance Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142938": {
      "first_seen": "2026-11-13T14:55:21+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Consulting Business Transformation Consultant (m/w/d) im Bereich Banking & Digital Euro Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142945": {
      "first_seen": "2026-11-13T14:55:21+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering Senior AI Architect (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=142963": {
      "first_seen": "2026-11-13T14:55:21+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Software Engineering SAP Application Architect (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=143338": {
      "first_seen": "2026-11-20T16:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Application Architect - Application Modernization (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=145268": {
      "first_seen": "2026-11-20T16:25:41+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Consulting Quantum Safe Consultant (m/w/d) Professional Multiple Cities"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=145446": {
@@ -37609,7 +37678,7 @@
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=145453": {
      "first_seen": "2026-11-23T12:12:32+00:00",
-     "last_seen": "2026-11-24T12:10:39+00:00",
+     "last_seen": "2026-11-24T12:25:28+00:00",
      "title": "Infrastructure & Technology Development Engineer – Processor Logic Design / Hardware Verification (f/m/x) Entry Level Ehningen, DE"
     },
     "https://careers.ibm.com/en_US/careers/JobDetail?jobId=83936": {
