@@ -1,5 +1,5 @@
 {
- "alerts": 275,
+ "alerts": 279,
  "commands_set": true,
  "events": [
   {
@@ -2657,12 +2657,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.138.42.135) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-24T20:11:36+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Cyber Security Analyst (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-24T20:09:47+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikum Restructuring, Crisis & Insolvency Management",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=18592"
+  },
+  {
+   "at": "2026-11-24T20:09:47+00:00",
+   "kind": "new",
+   "site": "Knorr-Bremse – Germany (newest first)",
+   "star": true,
+   "title": "Werkstudent im Bereich Versuch Bremssteuerung (m/w/d)",
+   "url": "https://careers.knorr-bremse.com/job/M%C3%BCnchen-Werkstudent-im-Bereich-Versuch-Bremssteuerung-%28mwd%29-80809/1460418733"
+  },
+  {
+   "at": "2026-11-24T20:10:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.151.83.14) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T19:56:19+00:00",
+ "last_run": "2026-11-24T20:11:52+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 88,
+ "runs": 89,
  "tg_offset": 297408924
 }
