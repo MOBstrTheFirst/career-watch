@@ -1,5 +1,5 @@
 {
- "alerts": 279,
+ "alerts": 281,
  "commands_set": true,
  "events": [
   {
@@ -2689,12 +2689,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.151.83.14) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-24T20:24:37+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "(Senior) Consultant (all genders) Transportation Ecosystem – main Focus UK/Ireland",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=1891"
+  },
+  {
+   "at": "2026-11-24T20:25:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.15.9) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T20:11:52+00:00",
+ "last_run": "2026-11-24T20:26:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 89,
+ "runs": 90,
  "tg_offset": 297408924
 }
