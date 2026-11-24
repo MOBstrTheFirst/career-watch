@@ -1,5 +1,5 @@
 {
- "alerts": 196,
+ "alerts": 199,
  "commands_set": true,
  "events": [
   {
@@ -1889,12 +1889,36 @@
    "star": true,
    "title": "Internship (214)",
    "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-24T14:10:58+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": true,
+   "title": "Werkstudent*in der Referentin der Institutsteilleitung (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/68932241/Werkstudent-in-der-Referentin-der-Institutsteilleitung-all-genders-?jobDbPVId=291515591&l=de"
+  },
+  {
+   "at": "2026-11-24T14:09:11+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Intern Customer Account and Master Data (Mandatory Internship) Mercedes-Benz AG, Stuttgart Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/intern-customer-account-and-master-data-mandatory-internship-248368-mer0004ajn"
+  },
+  {
+   "at": "2026-11-24T14:11:12+00:00",
+   "kind": "new",
+   "site": "Diehl – region sites",
+   "star": false,
+   "title": "Diehl Defence Facharbeiter (m/w/d) Instandhaltung 24.11.2026 Produktion Röthenbach a.d. Pegnitz",
+   "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/facharbeiter-m-w-d-instandhaltung"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T13:56:21+00:00",
+ "last_run": "2026-11-24T14:11:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 63,
+ "runs": 64,
  "tg_offset": 297408924
 }
