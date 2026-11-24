@@ -1,5 +1,5 @@
 {
- "alerts": 109,
+ "alerts": 111,
  "commands_set": true,
  "events": [
   {
@@ -993,12 +993,36 @@
    "star": true,
    "title": "Praktikant*in Disziplinarmanagement / Arbeitsrechtliche Maßnahmen (Pflicht-Praktikum) Esslingen am Neckar, Emil-Kessler-Str. 4 Start from: 01.03.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-disziplinarmanagement-arbeitsrechtliche-massnahmen-pflicht-praktikum-248249-mer0004atl"
+  },
+  {
+   "at": "2026-11-24T09:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Working Student (f/m/d)Problem Solving",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-f-m-d-Problem-Solving/306933"
+  },
+  {
+   "at": "2026-11-24T09:25:50+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Legal Counsel (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Legal-Counsel-f-m-d/306345"
+  },
+  {
+   "at": "2026-11-24T09:25:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.160.165.216) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T09:11:53+00:00",
+ "last_run": "2026-11-24T09:26:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 44,
+ "runs": 45,
  "tg_offset": 297408924
 }
