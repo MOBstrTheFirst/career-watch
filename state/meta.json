@@ -1,5 +1,5 @@
 {
- "alerts": 22,
+ "alerts": 25,
  "commands_set": true,
  "events": [
   {
@@ -185,12 +185,60 @@
    "star": false,
    "title": "Staff Engineer - Memory Design",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-24T01:14:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Data Analytics Prozess, Methode und Tooling für Way of Working Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.12.2026",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-data-analytics-prozess-methode-und-tooling-fur-way-of-working-248139-mer0004a6g"
+  },
+  {
+   "at": "2026-11-24T01:14:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Student*in für Masterarbeit Grobkornanalyse bzw. Warmmassivumformung Schmiede Mercedes-Benz Plant Untertürkheim, Stuttgart Start from: 01.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/studentin-fur-masterarbeit-grobkornanalyse-bzw-warmmassivumformung-schmiede-248135-mer00049ig"
+  },
+  {
+   "at": "2026-11-24T01:14:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Digitalisierung Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 11.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-digitalisierung-248110-mer00049t0"
+  },
+  {
+   "at": "2026-11-24T01:14:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in AI & LLM Agenten Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-ai-and-llm-agenten-248153-mer00045kw"
+  },
+  {
+   "at": "2026-11-24T01:10:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.242.45.225) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-24T01:10:13+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.165.109.2) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T01:02:14+00:00",
+ "last_run": "2026-11-24T01:16:56+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 9,
+ "runs": 10,
  "tg_offset": 297408924
 }
