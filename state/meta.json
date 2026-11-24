@@ -1,5 +1,5 @@
 {
- "alerts": 144,
+ "alerts": 150,
  "commands_set": true,
  "events": [
   {
@@ -1361,12 +1361,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.168.106.241) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-24T11:10:59+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Syndikusrechtsanwalt (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-24T11:10:59+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) – Quality Management Support",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Quality-Management-Support/307922"
+  },
+  {
+   "at": "2026-11-24T11:10:59+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "SAP HCM configuration specialist (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SAP-HCM-configuration-specialist-f-m-d/304946"
+  },
+  {
+   "at": "2026-11-24T11:09:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.154.3.245) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-24T11:09:12+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 57.154.3.245) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-24T11:09:12+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Werkstudent*in Digitale Absicherung von PKW Seitentüren Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 05.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/werkstudentin-digitale-absicherung-von-pkw-seitenturen-248324-mer0004ayk"
+  },
+  {
+   "at": "2026-11-24T11:09:12+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": false,
+   "title": "Doktorand*in für Promotion Analyse und Optimierung des Mischverkehrs Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 05.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/doktorandin-fur-promotion-analyse-und-optimierung-des-mischverkehrs-248294-mer0004ay1"
+  },
+  {
+   "at": "2026-11-24T11:10:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.160.226.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-24T10:56:44+00:00",
+ "last_run": "2026-11-24T11:11:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-23",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
