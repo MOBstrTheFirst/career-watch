@@ -1,5 +1,5 @@
 {
- "alerts": 175,
+ "alerts": 177,
  "commands_set": true,
  "events": [
   {
@@ -1721,12 +1721,28 @@
    "star": false,
    "title": "Diehl Aviation Head of Information Technology (m/w/d) 25.11.2026 Informationstechnologie Dresden, Gilching",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/head-of-information-technology-m-w-d"
+  },
+  {
+   "at": "2026-11-25T12:56:45+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Quality and Business Support Specialist (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Quality-and-Business-Support-Specialist-w-m-d/305180"
+  },
+  {
+   "at": "2026-11-25T12:54:20+00:00",
+   "kind": "new",
+   "site": "Bosch – Horb am Neckar",
+   "star": true,
+   "title": "Praktikum im Bereich Fertigung/ Lean Management",
+   "url": "https://jobs.bosch.com/en/job/REF171012O-praktikum-im-bereich-fertigung-lean-management"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T12:41:32+00:00",
+ "last_run": "2026-11-25T12:57:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 58,
+ "runs": 59,
  "tg_offset": 297408924
 }
