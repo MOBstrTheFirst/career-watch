@@ -1,5 +1,5 @@
 {
- "alerts": 155,
+ "alerts": 157,
  "commands_set": true,
  "events": [
   {
@@ -1417,12 +1417,36 @@
    "star": true,
    "title": "Studentische Hilfskraft (all genders) der Fachrichtung Wirtschafts-/ Ingenieur-/ Naturwissenschaften",
    "url": "https://jobs.fraunhofer.de/job/Karlsruhe-Studentische-Hilfskraft-%28all-genders%29-der-Fachrichtung-Wirtschafts-Ingenieur-Naturwissenschaften-76139/1460603733"
+  },
+  {
+   "at": "2026-11-25T11:39:19+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": false,
+   "title": "(Senior) AI Platform & Integration Architect (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-Platform-&-Integration-Architect-%28fmd%29-80807/1456172933"
+  },
+  {
+   "at": "2026-11-25T11:39:19+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – CARIAD",
+   "star": false,
+   "title": "(Senior) AI System & Agent Architect (f/m/d)",
+   "url": "https://jobs.volkswagen-group.com/cariad/job/M%C3%BCnchen-%28Senior%29-AI-System-&-Agent-Architect-%28fmd%29-80807/1456173333"
+  },
+  {
+   "at": "2026-11-25T11:40:40+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "2 new text line(s), e.g. Abschlussarbeit - Entwicklung einer KI-basierten Terminplan- und Kostenprognose (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T11:27:04+00:00",
+ "last_run": "2026-11-25T11:44:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 52,
+ "runs": 53,
  "tg_offset": 297408924
 }
