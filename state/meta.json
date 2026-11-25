@@ -1,5 +1,5 @@
 {
- "alerts": 135,
+ "alerts": 136,
  "commands_set": true,
  "events": [
   {
@@ -1177,12 +1177,20 @@
    "star": false,
    "title": "Back Office Operations Engineer Nairobi,Nairobi,Kenya Service Delivery Gepostete vor 9 Minuten",
    "url": "https://jobs.ericsson.com/careers/job/563121777638069"
+  },
+  {
+   "at": "2026-11-25T10:25:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.249.79.160) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T10:11:40+00:00",
+ "last_run": "2026-11-25T10:26:48+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
