@@ -1,5 +1,5 @@
 {
- "alerts": 228,
+ "alerts": 234,
  "commands_set": true,
  "events": [
   {
@@ -2305,12 +2305,140 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.54.132) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": true,
+   "title": "Lead Principal Engineer Device Development RF-GaN (w/m/div) Regensburg HRC1756735 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971873734?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer Automated Test Infrastructure for Automotive Ethernet Switch (f/m/div) Ettlingen, Germany HRC1692483 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971417831?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Team Lead Principal Test Engineer (f/m/div) Bukarest HRC1709285 Hybrid Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971617532?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "PHY Validation Engineer - Automotive Ethernet Shanghai HRC1734582",
+   "url": "https://jobs.infineon.com/careers/job/563808971774514?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer Package Innovation Malakka HRC1753329",
+   "url": "https://jobs.infineon.com/careers/job/563808971883443?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer El Segundo, CA HRC1745547",
+   "url": "https://jobs.infineon.com/careers/job/563808971834010?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer MLCC Materials & Technology Development (w/m/div) HRC1858796 Remote",
+   "url": "https://jobs.infineon.com/careers/job/563808972280339?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Protocol Compliance Engineer Shanghai HRC1755666 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971853464?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer Magnetics Design Shanghai HRC1898816",
+   "url": "https://jobs.infineon.com/careers/job/563808972427524?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal Engineer Product Definition and Platform Methodology (f/m/div) München HRC1825769 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972247371?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:11:36+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Stuttgart/Ditzingen + Ettlingen",
+   "star": false,
+   "title": "Lead Principal System Application Engineer Power Conversion (f/m/div) Villach HRC1882086 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972388114?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T16:08:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.124.121) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-25T16:08:53+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.124.121) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-25T16:10:58+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Projektmanagement für Lokomotiven-Upgrades",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530713"
+  },
+  {
+   "at": "2026-11-25T16:11:05+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/sachbearbeiter__m_w_d__finanzbuchhaltung/1230422",
+   "url": "https://www.rheinmetall.com/de/job/sachbearbeiter__m_w_d__finanzbuchhaltung/1230422"
+  },
+  {
+   "at": "2026-11-25T16:11:05+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Prozessingenieur Verfahrenstechnik mit Schwerpunkt Nebenstoffströme (m/w/d) - befristet bis 31.12.2028 - REF99478E Job ID: REF99478E",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99478E-p-eeb7e0cdc8901a42898d40996c4b7080/prozessingenieur-verfahrenstechnik-mit-schwerpunkt-nebenstoffstroeme-m-w-d-befristet-bis-31122028-ref99478e?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T15:42:12+00:00",
+ "last_run": "2026-11-25T16:12:01+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 70,
+ "runs": 71,
  "tg_offset": 297408924
 }
