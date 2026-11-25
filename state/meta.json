@@ -1,5 +1,5 @@
 {
- "alerts": 150,
+ "alerts": 155,
  "commands_set": true,
  "events": [
   {
@@ -1369,12 +1369,60 @@
    "star": false,
    "title": "Automated Operation Engineer - PS Core Noida,Uttar Pradesh,India Service Delivery Gepostete vor 20 Minuten",
    "url": "https://jobs.ericsson.com/careers/job/563121777298290"
+  },
+  {
+   "at": "2026-11-25T11:23:59+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": false,
+   "title": "Architekt für SiC Leistungshalbleiterkomponenten (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF288402E-architekt-fuer-sic-leistungshalbleiterkomponenten-w-m-div"
+  },
+  {
+   "at": "2026-11-25T11:23:59+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": false,
+   "title": "Fahrzeuglogistiker (m/w/d) geringfügige Beschäftigung auf 603 € Basis",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=7513"
+  },
+  {
+   "at": "2026-11-25T11:25:19+00:00",
+   "kind": "new",
+   "site": "Bosch – Bietigheim - Bissingen",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich der Softwareentwicklung",
+   "url": "https://jobs.bosch.com/en/job/REF301766Z-pflichtpraktikum-im-bereich-der-softwareentwicklung"
+  },
+  {
+   "at": "2026-11-25T11:25:19+00:00",
+   "kind": "new",
+   "site": "Bosch – Schweinfurt",
+   "star": false,
+   "title": "Fertigungsplaner im Value Stream Actuators and Systems (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF283271J-fertigungsplaner-im-value-stream-actuators-and-systems-w-m-div"
+  },
+  {
+   "at": "2026-11-25T11:25:19+00:00",
+   "kind": "new",
+   "site": "Bosch – Schweinfurt",
+   "star": false,
+   "title": "Fertigungsplaner im Value Stream Actuators and Systems im Bereich Semicon (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF300372M-fertigungsplaner-im-value-stream-actuators-and-systems-im-bereich-semicon-w-m-div"
+  },
+  {
+   "at": "2026-11-25T11:25:28+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Karlsruhe",
+   "star": true,
+   "title": "Studentische Hilfskraft (all genders) der Fachrichtung Wirtschafts-/ Ingenieur-/ Naturwissenschaften",
+   "url": "https://jobs.fraunhofer.de/job/Karlsruhe-Studentische-Hilfskraft-%28all-genders%29-der-Fachrichtung-Wirtschafts-Ingenieur-Naturwissenschaften-76139/1460603733"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T11:12:30+00:00",
+ "last_run": "2026-11-25T11:27:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
