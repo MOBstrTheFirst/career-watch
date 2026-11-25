@@ -1,5 +1,5 @@
 {
- "alerts": 216,
+ "alerts": 221,
  "commands_set": true,
  "events": [
   {
@@ -2177,12 +2177,60 @@
    "star": false,
    "title": "SW Developer in Test (SDET) - C#, .net",
    "url": "https://careers.siemens-healthineers.com/global/en/job/P-100691/SW-Developer-in-Test-SDET-C-net"
+  },
+  {
+   "at": "2026-11-25T15:11:44+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Program Director",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Program-Director/307850"
+  },
+  {
+   "at": "2026-11-25T15:09:31+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Software-Entwickler (m/w/d) Schwerpunkt Cyber Security für High Performance Computer Plattform",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Software-Entwickler-%28mwd%29-Schwerpunkt-Cyber-Security-f%C3%BCr-High-Performance-Computer-Plattform-BW-88046/1460733533"
+  },
+  {
+   "at": "2026-11-25T15:10:57+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Learning Program Manager for Partner Enablement - m/f/d",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524585"
+  },
+  {
+   "at": "2026-11-25T15:10:47+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.104.167.66) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-25T15:10:47+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Prozessingenieur Nebenstoffströme (m/w/d) - befristet bis 31.12.2028 - REF99478E Job ID: REF99478E",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99478E-p-eeb7e0cdc8901a42898d40996c4b7080/prozessingenieur-nebenstoffstroeme-m-w-d-befristet-bis-31122028-ref99478e?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
+  },
+  {
+   "at": "2026-11-25T15:10:47+00:00",
+   "kind": "new",
+   "site": "Continental",
+   "star": false,
+   "title": "Laborant Forschung & Entwicklung Taraxagum (m/w/d) - befristet bis 31.12.2028 - REF99479Y Job ID: REF99479Y",
+   "url": "https://jobs.continental.com/en/detail-page/job-detail/REF99479Y-p-b5d13c5ef45b9bf419149aa87e614edd/laborant-forschung-entwicklung-taraxagum-m-w-d-befristet-bis-31122028-ref99479y?tx_conjobs_filter%5Bfilter%5D%5Blocation%5D=%7B%22title%22%3A%22Germany%22%2C%22type%22%3A%22country%22%2C%22countryCode%22%3A%22de%22%7D"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T14:56:23+00:00",
+ "last_run": "2026-11-25T15:12:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 67,
+ "runs": 68,
  "tg_offset": 297408924
 }
