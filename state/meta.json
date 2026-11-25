@@ -1,5 +1,5 @@
 {
- "alerts": 83,
+ "alerts": 87,
  "commands_set": true,
  "events": [
   {
@@ -697,12 +697,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.203.199.84) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-25T07:41:21+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": true,
+   "title": "Werkstudent - Datenanalyse & Reporting im Bereich Einkauf (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-25T07:38:58+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Strategisches Produktmanagement - Portfolio- und Achitekturprojekte (Pflicht-Praktikum) Mercedes-Benz AG, Stuttgart Start from: 01.03.20",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-strategisches-produktmanagement-portfolio-und-achitekturprojekte-pflicht-praktikum-248471-mer0004b0d"
+  },
+  {
+   "at": "2026-11-25T07:40:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 104.210.132.3) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-25T07:40:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.51.72) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T07:26:31+00:00",
+ "last_run": "2026-11-25T07:41:39+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 36,
+ "runs": 37,
  "tg_offset": 297408924
 }
