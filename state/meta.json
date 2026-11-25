@@ -1,5 +1,5 @@
 {
- "alerts": 110,
+ "alerts": 113,
  "commands_set": true,
  "events": [
   {
@@ -945,12 +945,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.51.206.83) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-25T08:56:31+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": false,
+   "title": "Referent*in (all genders) - externe Kommunikation & Kommunikationsmanagement",
+   "url": "https://iisfraunhofer.softgarden.io/job/68942801/Referent-in-all-genders-externe-Kommunikation-Kommunikationsmanagement?jobDbPVId=291559456&l=de"
+  },
+  {
+   "at": "2026-11-25T08:56:31+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/AI-Change-&amp;-Enablement-Lead-%28wmd%29/7070-de_DE",
+   "url": "https://jobs.man.eu/job/AI-Change-&amp;-Enablement-Lead-%28wmd%29/7070-de_DE"
+  },
+  {
+   "at": "2026-11-25T08:56:31+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": true,
+   "title": "Werkstudent (w/m/d) Software Testing & Training Dokumentation",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-Software-Testing-Training-Dokumentation/307999"
+  },
+  {
+   "at": "2026-11-25T08:56:31+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Fertigungs- und Produktionsplaner (w/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Fertigungs-und-Produktionsplaner-w-m-d/307879"
+  },
+  {
+   "at": "2026-11-25T08:56:31+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Senior Performance Controller (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Senior-Performance-Controller-f-m-d/306623"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T08:42:01+00:00",
+ "last_run": "2026-11-25T08:57:04+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
