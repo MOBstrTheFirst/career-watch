@@ -1,5 +1,5 @@
 {
- "alerts": 249,
+ "alerts": 255,
  "commands_set": true,
  "events": [
   {
@@ -2641,12 +2641,60 @@
    "star": false,
    "title": "Staff Digital Design Engineer San Jose, CA HRC1860971 Hybrid Flexible Lage",
    "url": "https://jobs.infineon.com/careers/job/563808972285319?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T17:26:07+00:00",
+   "kind": "new",
+   "site": "Bosch – Lohr am Main",
+   "star": true,
+   "title": "Pflichtpraktikum KI & Digital Transformation im Projektmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF301821I-pflichtpraktikum-ki-digital-transformation-im-projektmanagement"
+  },
+  {
+   "at": "2026-11-25T17:28:07+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.252.161) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-25T17:28:07+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.252.161) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-25T17:25:11+00:00",
+   "kind": "new",
+   "site": "Bosch – Abstatt bei Stuttgart",
+   "star": true,
+   "title": "Pflichtpraktikum Softwareentwicklung - Computer Vision und AI",
+   "url": "https://jobs.bosch.com/en/job/REF301811N-pflichtpraktikum-softwareentwicklung-computer-vision-und-ai"
+  },
+  {
+   "at": "2026-11-25T17:25:11+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.174.188.188) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-25T17:25:34+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.22.42) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T17:11:53+00:00",
+ "last_run": "2026-11-25T17:28:37+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 75,
+ "runs": 76,
  "tg_offset": 297408924
 }
