@@ -1,5 +1,5 @@
 {
- "alerts": 292,
+ "alerts": 294,
  "commands_set": true,
  "events": [
   {
@@ -2977,12 +2977,28 @@
    "star": false,
    "title": "OPC Applications Engineering, Sr Staff",
    "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-25T21:10:28+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.14.189) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-25T21:10:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.169.114.177) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T20:56:43+00:00",
+ "last_run": "2026-11-25T21:11:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 91,
+ "runs": 92,
  "tg_offset": 297408924
 }
