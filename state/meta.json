@@ -1,5 +1,5 @@
 {
- "alerts": 54,
+ "alerts": 56,
  "commands_set": true,
  "events": [
   {
@@ -465,12 +465,28 @@
    "star": false,
    "title": "Senior Engineer Intelligent Network Noida,Uttar Pradesh,India Service Delivery Gepostete vor 7 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777608025"
+  },
+  {
+   "at": "2026-11-25T04:39:53+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.87.60) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-25T04:39:53+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/business-development-manager-crowdstrike-m-w-d-x-854325"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T04:26:09+00:00",
+ "last_run": "2026-11-25T04:41:03+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 23,
+ "runs": 24,
  "tg_offset": 297408924
 }
