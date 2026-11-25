@@ -1,5 +1,5 @@
 {
- "alerts": 73,
+ "alerts": 75,
  "commands_set": true,
  "events": [
   {
@@ -617,12 +617,28 @@
    "star": false,
    "title": "Global Application Owner (f/m/d) - Field Performance Testing",
    "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Global-Application-Owner-f-m-d-Field-Performance-Testing/308050"
+  },
+  {
+   "at": "2026-11-25T06:39:30+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in (Entwicklung Rückhaltesystem-Komponenten Airbags / Sicherheitsgurte) Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.04.20",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklung-ruckhaltesystem-komponenten-airbags-sicherheitsgurte-248448-mer0004aze"
+  },
+  {
+   "at": "2026-11-25T06:40:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.249.19.17) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T06:26:16+00:00",
+ "last_run": "2026-11-25T06:41:32+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 32,
+ "runs": 33,
  "tg_offset": 297408924
 }
