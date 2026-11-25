@@ -1,11 +1,60 @@
 {
- "alerts": 0,
+ "alerts": 6,
  "commands_set": true,
- "events": [],
+ "events": [
+  {
+   "at": "2026-11-25T23:11:01+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Baugruppenverantwortlicher-f%C3%BCr-Scheibenwischeranlagen-%28wmd%29/5290-de_DE",
+   "url": "https://jobs.man.eu/job/Baugruppenverantwortlicher-f%C3%BCr-Scheibenwischeranlagen-%28wmd%29/5290-de_DE"
+  },
+  {
+   "at": "2026-11-25T23:09:05+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.153.39) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-25T23:09:05+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.153.39) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-25T23:09:05+00:00",
+   "kind": "possible",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Internship (196)",
+   "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-25T23:10:25+00:00",
+   "kind": "new",
+   "site": "Hensoldt",
+   "star": false,
+   "title": "Professional Customer Success Operations (m/w/d)",
+   "url": "https://jobs.hensoldt.net/job/F%C3%BCrstenfeldbruck-Professional-Customer-Success-Operations-%28mwd%29-82256/1377650955"
+  },
+  {
+   "at": "2026-11-25T23:10:25+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 48.200.106.116) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  }
+ ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T22:57:08+00:00",
+ "last_run": "2026-11-25T23:11:25+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 0,
+ "runs": 1,
  "tg_offset": 297408924
 }
