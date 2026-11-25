@@ -1,5 +1,5 @@
 {
- "alerts": 186,
+ "alerts": 190,
  "commands_set": true,
  "events": [
   {
@@ -1817,12 +1817,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.101.85) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-25T13:42:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "TDSU",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/TDSU/307116"
+  },
+  {
+   "at": "2026-11-25T13:42:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Senior Technician",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Senior-Technician/307114"
+  },
+  {
+   "at": "2026-11-25T13:42:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Team Lead D6",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Team-Lead-D6/307115"
+  },
+  {
+   "at": "2026-11-25T13:42:01+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Janet Super User",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Janet-Super-User/307117"
+  },
+  {
+   "at": "2026-11-25T13:38:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.94.54.94) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-25T13:38:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.94.54.94) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-25T13:40:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.242.219.191) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T13:26:44+00:00",
+ "last_run": "2026-11-25T13:42:19+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 61,
+ "runs": 62,
  "tg_offset": 297408924
 }
