@@ -1,5 +1,5 @@
 {
- "alerts": 223,
+ "alerts": 228,
  "commands_set": true,
  "events": [
   {
@@ -2241,12 +2241,76 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.132.27.80) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-25T15:41:42+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Assistenz (w/m/d) Dokumentenmanagement und Printservices",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Assistenz-w-m-d-Dokumentenmanagement-und-Printservices/307032"
+  },
+  {
+   "at": "2026-11-25T15:39:24+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": false,
+   "title": "Head of Original Content - Apple TV (Germany)",
+   "url": "https://jobs.apple.com/en-us/details/200696217-1731/head-of-original-content-apple-tv-germany?team=SFTWR"
+  },
+  {
+   "at": "2026-11-25T15:40:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Director Content Strategy and Enablement (f/m/div) München HRC1834326 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972167404?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T15:40:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Web Content Strategist (m/f/d) Bangalore (Indien) HRC1635958 Hybrid Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808970723928?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T15:40:22+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Munich/Neubiberg (+Augsburg, 80 km radius)",
+   "star": false,
+   "title": "Web Content Writer (Contract) Bangalore BTP HRC1776914",
+   "url": "https://jobs.infineon.com/careers/job/563808971908980?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-25T15:40:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Working Student (f/m/d) P&O Business Partner Global Functions",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529856"
+  },
+  {
+   "at": "2026-11-25T15:40:22+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) im Bereich Global Factory Engineering",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529824"
+  },
+  {
+   "at": "2026-11-25T15:40:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.54.132) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-25T15:26:19+00:00",
+ "last_run": "2026-11-25T15:42:12+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-24",
- "runs": 69,
+ "runs": 70,
  "tg_offset": 297408924
 }
