@@ -1,5 +1,5 @@
 {
- "alerts": 124,
+ "alerts": 126,
  "commands_set": true,
  "events": [
   {
@@ -1257,12 +1257,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.103.117) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T11:10:57+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": false,
+   "title": "Testingenieur Triebwerkstest (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-26T11:09:26+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Data Engineering und Machine Learning für die Fehlerdiagnose elektrischer Antriebe Mercedes-Benz Plant Sindelfingen, Sindelfingen Start ",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-data-engineering-und-machine-learning-fur-die-fehlerdiagnose-elektrischer-antriebe-248789-mer0004b0q"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T10:57:36+00:00",
+ "last_run": "2026-11-26T11:11:15+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 50,
+ "runs": 51,
  "tg_offset": 297408924
 }
