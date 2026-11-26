@@ -1,5 +1,5 @@
 {
- "alerts": 77,
+ "alerts": 80,
  "commands_set": true,
  "events": [
   {
@@ -729,12 +729,36 @@
    "star": false,
    "title": "https://www.rheinmetall.com/de/job/project_quality_manager__m_f_d_/1231682",
    "url": "https://www.rheinmetall.com/de/job/project_quality_manager__m_f_d_/1231682"
+  },
+  {
+   "at": "2026-11-26T08:26:45+00:00",
+   "kind": "new",
+   "site": "Bosch – Stuttgart - Feuerbach",
+   "star": true,
+   "title": "Pflichtpraktikum Purchasing Quality and Technology",
+   "url": "https://jobs.bosch.com/en/job/REF301899U-pflichtpraktikum-purchasing-quality-and-technology"
+  },
+  {
+   "at": "2026-11-26T08:25:04+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.119.79.65) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T08:25:04+00:00",
+   "kind": "new",
+   "site": "Applied Materials",
+   "star": false,
+   "title": "Senior Yield Engineer (m/f/d)",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Senior-Yield-Engineer--m-f-d-_R2633927?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T08:13:22+00:00",
+ "last_run": "2026-11-26T08:27:42+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
