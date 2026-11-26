@@ -1,5 +1,5 @@
 {
- "alerts": 84,
+ "alerts": 87,
  "commands_set": true,
  "events": [
   {
@@ -817,12 +817,44 @@
    "star": true,
    "title": "Intern Agentic AI for Embedded System SW Integration Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 15.01.2027",
    "url": "https://jobs.mercedes-benz.com/enUS/intern-agentic-ai-for-embedded-system-sw-integration-248683-mer0004b27"
+  },
+  {
+   "at": "2026-11-26T08:54:17+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Entwicklung elektrischer und hybridisierter Antriebsstränge Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-entwicklung-elektrischer-und-hybridisierter-antriebsstrange-248701-mer0004b28"
+  },
+  {
+   "at": "2026-11-26T08:56:28+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Stuttgart",
+   "star": true,
+   "title": "stHK+Masterarbeit - Charakterisierung einer Sprühtrocknungsanlage",
+   "url": "https://jobs.fraunhofer.de/job/Stuttgart-stHK%2BMasterarbeit-Charakterisierung-einer-Spr%C3%BChtrocknungsanlage-70569/1460917933"
+  },
+  {
+   "at": "2026-11-26T08:56:28+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-key-account-manager-b2b-ict-solutions-m-f-d-x-885154"
+  },
+  {
+   "at": "2026-11-26T08:56:28+00:00",
+   "kind": "new",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Jobdetails",
+   "url": "https://careers.telekom.com/de/jobs/senior-service-delivery-manager-m-f-d-x-890698"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T08:41:54+00:00",
+ "last_run": "2026-11-26T08:56:58+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
