@@ -1,5 +1,5 @@
 {
- "alerts": 161,
+ "alerts": 163,
  "commands_set": true,
  "events": [
   {
@@ -1561,12 +1561,28 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.186.119.227) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-26T13:11:07+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Sachbearbeiter (w/m/d) Parts Engineering",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Sachbearbeiter-w-m-d-Parts-Engineering/307834"
+  },
+  {
+   "at": "2026-11-26T13:10:35+00:00",
+   "kind": "new",
+   "site": "Alphabet (Google) – Munich",
+   "star": false,
+   "title": "Learn more about Senior Systems Development Engineer, Google Distributed Cloud Air-Gapped",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/95108819129901766-senior-systems-development-engineer-google-distributed-cloud-airgapped?location=Munich%2C+Germany&sort_by=date"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T12:59:44+00:00",
+ "last_run": "2026-11-26T13:11:26+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 59,
+ "runs": 60,
  "tg_offset": 297408924
 }
