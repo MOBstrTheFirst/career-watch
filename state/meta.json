@@ -1,5 +1,5 @@
 {
- "alerts": 111,
+ "alerts": 117,
  "commands_set": true,
  "events": [
   {
@@ -1129,12 +1129,60 @@
    "star": true,
    "title": "Internship - Failure Analysis of Radar Chips (w/m/div) Linz HRC1893918",
    "url": "https://jobs.infineon.com/careers/job/563808972399162?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T10:26:09+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "R&D Engineer (f/m/d) or Product Development Engineer (f/m/d)",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/R-D-Engineer-f-m-d-or-Product-Development-Engineer-f-m-d/307128"
+  },
+  {
+   "at": "2026-11-26T10:24:16+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": true,
+   "title": "Internship - 3D Scene Reconstruction Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200696618-1731/internship-3d-scene-reconstruction-engineer?team=STDNT"
+  },
+  {
+   "at": "2026-11-26T10:25:15+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.235.125.184) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T10:25:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Regulatory Affairs Professional",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100693/Regulatory-Affairs-Professional"
+  },
+  {
+   "at": "2026-11-26T10:25:15+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Duales Masterprogramm Steinbeis M.A. Business Development im Bereich Project Procurement",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529860"
+  },
+  {
+   "at": "2026-11-26T10:25:48+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.55.95) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T10:15:28+00:00",
+ "last_run": "2026-11-26T10:26:31+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 47,
+ "runs": 48,
  "tg_offset": 297408924
 }
