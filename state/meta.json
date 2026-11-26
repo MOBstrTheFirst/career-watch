@@ -1,5 +1,5 @@
 {
- "alerts": 69,
+ "alerts": 77,
  "commands_set": true,
  "events": [
   {
@@ -601,12 +601,140 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.172.223.200) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T08:13:08+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Praktikum Simulationsgestützte Analyse und Optimierung der Regelung von Wärmepumpensystemen",
+   "url": "https://jobs.bosch.com/en/job/REF301912T-praktikum-simulationsgestuetzte-analyse-und-optimierung-der-regelung-von-waermepumpensystemen"
+  },
+  {
+   "at": "2026-11-26T08:13:08+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.154.131.237) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T08:13:08+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.154.131.237) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T08:13:08+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Global Order Management (Pflicht-Praktikum) Esslingen am Neckar, Emil-Kessler-Str. 4 Start from: 01.03.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-global-order-management-pflicht-praktikum-248680-mer0004b17"
+  },
+  {
+   "at": "2026-11-26T08:10:26+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "LPDDR IP Design Staff Engineer",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-26T08:10:26+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "MIPI IP Application Engineer",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.183.72) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Werkstudent – Sample Center (w/m/div) Regensburg HRC1905242",
+   "url": "https://jobs.infineon.com/careers/job/563808972427816?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Master Thesis - SiC for Data Center Cooling (f/m/div) München, Deutschland HRC1901392 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972420840?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - Regional Distribution Centre Logistics Management Singapur HRC1862000 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808972275353?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div) Villach (Österreich) HRC1715777",
+   "url": "https://jobs.infineon.com/careers/job/563808971620732?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div) Villach (Österreich) HRC1666370 Vor Ort Flexible Lage",
+   "url": "https://jobs.infineon.com/careers/job/563808971118853?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship Student – AI Data Center Power Electronics & Application Engineering Shenzhen HRC1814254_1",
+   "url": "https://jobs.infineon.com/careers/job/563808972068288?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship Student – AI Data Center Power Electronics & Application Engineering Shenzhen HRC1814254_2",
+   "url": "https://jobs.infineon.com/careers/job/563808972068291?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": false,
+   "title": "Facharzt für Arbeitsmedizin (w/m/div) oder Facharzt mit Zusatzbezeichnung Betriebsmedizin (w/m/div) Dresden (Deutschland) HRC1687684 Hybrid",
+   "url": "https://jobs.infineon.com/careers/job/563808971465344?domain=infineon.com"
+  },
+  {
+   "at": "2026-11-26T08:10:56+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/project_quality_manager__m_f_d_/1231682",
+   "url": "https://www.rheinmetall.com/de/job/project_quality_manager__m_f_d_/1231682"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T08:02:27+00:00",
+ "last_run": "2026-11-26T08:13:22+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 38,
+ "runs": 39,
  "tg_offset": 297408924
 }
