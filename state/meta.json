@@ -1,5 +1,5 @@
 {
- "alerts": 193,
+ "alerts": 198,
  "commands_set": true,
  "events": [
   {
@@ -1865,12 +1865,52 @@
    "star": false,
    "title": "Software Integrator (m/w/d) High Performance Computing Platform",
    "url": "https://jobs.zf.com/job/Friedrichshafen-Software-Integrator-%28mwd%29-High-Performance-Computing-Platform-BW-88046/1461088833"
+  },
+  {
+   "at": "2026-11-26T14:53:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.131.217) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T14:53:46+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.131.217) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T14:55:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.203.239.166) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T14:55:12+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Projektleitung (w/m/d) für Anlagen der elektrischen Energieversorgung von DataCentern",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530883"
+  },
+  {
+   "at": "2026-11-26T14:55:25+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.149.245.255) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T14:41:59+00:00",
+ "last_run": "2026-11-26T14:56:49+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 66,
+ "runs": 67,
  "tg_offset": 297408924
 }
