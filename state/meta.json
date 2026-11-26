@@ -1,5 +1,5 @@
 {
- "alerts": 117,
+ "alerts": 119,
  "commands_set": true,
  "events": [
   {
@@ -1177,12 +1177,30 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.55.95) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-26T10:40:15+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – Bavaria",
+   "star": false,
+   "title": "Customer Service Engineer Trainee",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/P-100811/Customer-Service-Engineer-Trainee"
+  },
+  {
+   "at": "2026-11-26T10:40:15+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": false,
+   "title": "Renewal Business Intelligence Analyst",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530759"
   }
  ],
- "last_missing_parts": [],
- "last_run": "2026-11-26T10:26:31+00:00",
+ "last_missing_parts": [
+  2
+ ],
+ "last_run": "2026-11-26T10:51:45+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 48,
+ "runs": 49,
  "tg_offset": 297408924
 }
