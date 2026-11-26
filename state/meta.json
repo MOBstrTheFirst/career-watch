@@ -1,5 +1,5 @@
 {
- "alerts": 180,
+ "alerts": 189,
  "commands_set": true,
  "events": [
   {
@@ -1745,12 +1745,92 @@
    "star": false,
    "title": "Technical Account Manager (w/m/d)",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530129"
+  },
+  {
+   "at": "2026-11-26T14:26:00+00:00",
+   "kind": "new",
+   "site": "Bosch – Schwieberdingen",
+   "star": true,
+   "title": "Praktikum im Produktdaten- und Änderungsmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF301939V-praktikum-im-produktdaten-und-aenderungsmanagement"
+  },
+  {
+   "at": "2026-11-26T14:23:49+00:00",
+   "kind": "possible",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Masterarbeit Kopplung der FEM und der Peridynamik zur Korrosionssimulation in Python",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Renningen"
+  },
+  {
+   "at": "2026-11-26T14:23:49+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Werkstudent im Bereich Entwicklung Webanwendung im Projektmanagement Umfeld (w/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301955T-werkstudent-im-bereich-entwicklung-webanwendung-im-projektmanagement-umfeld-w-m-div"
+  },
+  {
+   "at": "2026-11-26T14:23:49+00:00",
+   "kind": "new",
+   "site": "Bosch – Reutlingen - Kusterdingen",
+   "star": true,
+   "title": "Mandatory Internship Business Process Digitalization in Central Controlling - Mobility Electronics",
+   "url": "https://jobs.bosch.com/en/job/REF301949N-mandatory-internship-business-process-digitalization-in-central-controlling-mobility-electronics"
+  },
+  {
+   "at": "2026-11-26T14:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.171.15.82) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T14:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.171.15.82) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T14:25:08+00:00",
+   "kind": "new",
+   "site": "Bosch – Leinfelden - Echterdingen",
+   "star": true,
+   "title": "Internship Global Portfolio and Strategy – Outdoor Garden",
+   "url": "https://jobs.bosch.com/en/job/REF301963C-internship-global-portfolio-and-strategy-outdoor-garden"
+  },
+  {
+   "at": "2026-11-26T14:26:17+00:00",
+   "kind": "new",
+   "site": "Bosch – Bühl/Bühlertal",
+   "star": true,
+   "title": "Mandatory Internship Simulation & Digital Twin in Manufacturing - Electrified Motion",
+   "url": "https://jobs.bosch.com/en/job/REF301959J-mandatory-internship-simulation-digital-twin-in-manufacturing-electrified-motion"
+  },
+  {
+   "at": "2026-11-26T14:26:17+00:00",
+   "kind": "new",
+   "site": "Bosch – Elchingen bei Ulm",
+   "star": true,
+   "title": "Working Student for Azure Databricks Solutions Support (f/m/div.)",
+   "url": "https://jobs.bosch.com/en/job/REF301958K-working-student-for-azure-databricks-solutions-support-f-m-div"
+  },
+  {
+   "at": "2026-11-26T14:26:17+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Praktikum im Bereich Change-, Kommunikations- und Trainingsmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF301940B-praktikum-im-bereich-change-kommunikations-und-trainingsmanagement"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T14:11:14+00:00",
+ "last_run": "2026-11-26T14:26:35+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
