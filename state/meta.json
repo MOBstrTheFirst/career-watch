@@ -1,5 +1,5 @@
 {
- "alerts": 143,
+ "alerts": 150,
  "commands_set": true,
  "events": [
   {
@@ -1417,12 +1417,68 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.62.145) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-26T12:26:33+00:00",
+   "kind": "possible",
+   "site": "Deutsche Telekom – Munich",
+   "star": false,
+   "title": "Senior Key Account Manager Automotive (m/w/d/x)",
+   "url": "https://careers.telekom.com/de/jobs?location=Munich&sort=date"
+  },
+  {
+   "at": "2026-11-26T12:23:51+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.36.250) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T12:23:51+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.36.250) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T12:23:51+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikum (m/w/d) Applikation und Diagnose im Energiesystem",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22255"
+  },
+  {
+   "at": "2026-11-26T12:25:03+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.30.232) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T12:25:03+00:00",
+   "kind": "possible",
+   "site": "Deutsche Telekom – Leinfelden-Echterdingen",
+   "star": false,
+   "title": "Senior Key Account Manager Automotive (m/w/d/x)",
+   "url": "https://careers.telekom.com/de/jobs?location=Leinfelden-Echterdingen&sort=date"
+  },
+  {
+   "at": "2026-11-26T12:25:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.5.102) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T12:11:44+00:00",
+ "last_run": "2026-11-26T12:26:47+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 55,
+ "runs": 56,
  "tg_offset": 297408924
 }
