@@ -1,5 +1,5 @@
 {
- "alerts": 102,
+ "alerts": 108,
  "commands_set": true,
  "events": [
   {
@@ -1041,12 +1041,76 @@
    "star": true,
    "title": "Werkstudent (w/m/d) Projektmanagement Egypt High-Speed",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530616"
+  },
+  {
+   "at": "2026-11-26T09:59:49+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Entwicklungsingenieur-Batteriezelle-und-modul-%28wmd%29/6309-de_DE",
+   "url": "https://jobs.man.eu/job/Entwicklungsingenieur-Batteriezelle-und-modul-%28wmd%29/6309-de_DE"
+  },
+  {
+   "at": "2026-11-26T09:53:43+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.203.32) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T09:53:43+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.172.203.32) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T09:53:43+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – Porsche AG",
+   "star": true,
+   "title": "Praktikant (m/w/d) Hochvoltsysteme, Energiemanagement und Ladefunktionen",
+   "url": "https://jobs.porsche.com/index.php?ac=jobad&id=22250"
+  },
+  {
+   "at": "2026-11-26T09:57:03+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Instandhalter (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Halle-Instandhalter-%28dmw%29-06184/1460713933"
+  },
+  {
+   "at": "2026-11-26T09:57:03+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Instandhalter (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Halle-Instandhalter-%28dmw%29-06184/1460713233"
+  },
+  {
+   "at": "2026-11-26T09:57:03+00:00",
+   "kind": "new",
+   "site": "Schaeffler – Germany (newest first)",
+   "star": false,
+   "title": "Instandhalter (d/m/w)",
+   "url": "https://jobs.schaeffler.com/job/Halle-Instandhalter-%28dmw%29-06184/1460711833"
+  },
+  {
+   "at": "2026-11-26T09:55:25+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.156.142.125) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T09:42:52+00:00",
+ "last_run": "2026-11-26T10:00:09+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 45,
+ "runs": 46,
  "tg_offset": 297408924
 }
