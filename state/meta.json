@@ -1,5 +1,5 @@
 {
- "alerts": 189,
+ "alerts": 193,
  "commands_set": true,
  "events": [
   {
@@ -1825,12 +1825,52 @@
    "star": true,
    "title": "Praktikum im Bereich Change-, Kommunikations- und Trainingsmanagement",
    "url": "https://jobs.bosch.com/en/job/REF301940B-praktikum-im-bereich-change-kommunikations-und-trainingsmanagement"
+  },
+  {
+   "at": "2026-11-26T14:41:33+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Service Engineer (w/m/d) – I&C Systems",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Service-Engineer-w-m-d-I-C-Systems/300952"
+  },
+  {
+   "at": "2026-11-26T14:38:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.67.4) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T14:38:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.176.67.4) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T14:38:49+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Senior System Engineer (m/w/d) V2X & Connectivity Hardware",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Senior-System-Engineer-%28mwd%29-V2X-&-Connectivity-Hardware-BW-88046/1461087333"
+  },
+  {
+   "at": "2026-11-26T14:38:49+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Software Integrator (m/w/d) High Performance Computing Platform",
+   "url": "https://jobs.zf.com/job/Friedrichshafen-Software-Integrator-%28mwd%29-High-Performance-Computing-Platform-BW-88046/1461088833"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T14:26:35+00:00",
+ "last_run": "2026-11-26T14:41:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 65,
+ "runs": 66,
  "tg_offset": 297408924
 }
