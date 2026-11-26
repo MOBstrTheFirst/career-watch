@@ -1,5 +1,5 @@
 {
- "alerts": 138,
+ "alerts": 143,
  "commands_set": true,
  "events": [
   {
@@ -1377,12 +1377,52 @@
    "star": true,
    "title": "Thesis (10)",
    "url": "https://jobs.mercedes-benz.com/enUS?enUS=&PositionLocation.Distance=%2250%22&PositionLocation=%221107850%22"
+  },
+  {
+   "at": "2026-11-26T12:08:54+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.82.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T12:08:54+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 134.33.82.97) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T12:10:24+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.155.168.108) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T12:10:24+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "5 new text line(s), e.g. Praktikum – Projektmanagement Gesamtfahrzeug Q6/A6 e-tron im Bereich Elektromobilität (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
+  },
+  {
+   "at": "2026-11-26T12:10:44+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.161.62.145) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T11:56:46+00:00",
+ "last_run": "2026-11-26T12:11:44+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 54,
+ "runs": 55,
  "tg_offset": 297408924
 }
