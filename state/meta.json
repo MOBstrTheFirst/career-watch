@@ -1,5 +1,5 @@
 {
- "alerts": 80,
+ "alerts": 84,
  "commands_set": true,
  "events": [
   {
@@ -753,12 +753,76 @@
    "star": false,
    "title": "Senior Yield Engineer (m/f/d)",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/HeimstettenDEU/Senior-Yield-Engineer--m-f-d-_R2633927?State_Region_Province=bd89fff5ffa6440a9abeaf2c5c1dc37c"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.153.106) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 64.236.153.106) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "201000 Praktikant CRM, Customer Journey und Vertrieb BMW Welt (w/m/x) Veröffentlicht: 26.11.2026 Kundenerlebnis München Neu Kundenerlebnis München Mün",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.201000.html"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "199700 Praktikant Technology Scouting & Innovation (w/m/x) Veröffentlicht: 26.11.2026 Neue Technologien München Neu Neue Technologien München München",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.199700.html"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "198792 Werkstudent technische Absicherung und Digitalisierung (w/m/x) Veröffentlicht: 26.11.2026 Produktentwicklung München Neu Produktentwicklung Mün",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.198792.html"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "193961 Praktikant Nicht-Serien-Logistik und Standortentsorgung (w/m/x) Veröffentlicht: 26.11.2026 Supply Chain Management München Neu Supply Chain Man",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.193961.html"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "BMW Group",
+   "star": true,
+   "title": "192798 Praktikant Predictive Maintenance und Predictive Quality (w/m/x) Veröffentlicht: 26.11.2026 Data Science Regensburg Neu Data Science Regensburg",
+   "url": "https://www.bmwgroup.jobs/de/de/jobfinder/job-description.192798.html"
+  },
+  {
+   "at": "2026-11-26T08:39:19+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Intern Agentic AI for Embedded System SW Integration Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 15.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/intern-agentic-ai-for-embedded-system-sw-integration-248683-mer0004b27"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T08:27:42+00:00",
+ "last_run": "2026-11-26T08:41:54+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 40,
+ "runs": 41,
  "tg_offset": 297408924
 }
