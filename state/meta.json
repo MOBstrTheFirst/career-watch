@@ -1,5 +1,5 @@
 {
- "alerts": 228,
+ "alerts": 232,
  "commands_set": true,
  "events": [
   {
@@ -2177,12 +2177,44 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.235.117.97) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T19:11:25+00:00",
+   "kind": "new",
+   "site": "Fraunhofer IIS",
+   "star": false,
+   "title": "Mitarbeiter*in Verwaltung – Personalbetreuung am Standort Nürnberg (all genders)",
+   "url": "https://iisfraunhofer.softgarden.io/job/69019551/Mitarbeiter-in-Verwaltung-%E2%80%93-Personalbetreuung-am-Standort-N%C3%BCrnberg-all-genders-?jobDbPVId=291835771&l=de"
+  },
+  {
+   "at": "2026-11-26T19:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.246.53) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T19:08:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.84.246.53) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T19:10:31+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.210.163) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T18:56:31+00:00",
+ "last_run": "2026-11-26T19:11:53+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 83,
+ "runs": 84,
  "tg_offset": 297408924
 }
