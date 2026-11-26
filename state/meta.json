@@ -1,5 +1,5 @@
 {
- "alerts": 60,
+ "alerts": 63,
  "commands_set": true,
  "events": [
   {
@@ -529,12 +529,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.161.46.112) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T07:13:39+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.39.94) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-26T07:13:39+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.83.39.94) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-26T07:11:00+00:00",
+   "kind": "new",
+   "site": "Rheinmetall",
+   "star": false,
+   "title": "https://www.rheinmetall.com/de/job/project_quality_manager__m_w_d_/1231679",
+   "url": "https://www.rheinmetall.com/de/job/project_quality_manager__m_w_d_/1231679"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T06:56:57+00:00",
+ "last_run": "2026-11-26T07:13:51+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
