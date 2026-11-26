@@ -1,5 +1,5 @@
 {
- "alerts": 163,
+ "alerts": 165,
  "commands_set": true,
  "events": [
   {
@@ -1577,12 +1577,28 @@
    "star": false,
    "title": "Learn more about Senior Systems Development Engineer, Google Distributed Cloud Air-Gapped",
    "url": "https://www.google.com/about/careers/applications/jobs/results/jobs/results/95108819129901766-senior-systems-development-engineer-google-distributed-cloud-airgapped?location=Munich%2C+Germany&sort_by=date"
+  },
+  {
+   "at": "2026-11-26T13:25:33+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 4.242.45.30) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T13:25:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.165.62.80) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T13:11:26+00:00",
+ "last_run": "2026-11-26T13:27:27+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
