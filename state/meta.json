@@ -1,5 +1,5 @@
 {
- "alerts": 108,
+ "alerts": 111,
  "commands_set": true,
  "events": [
   {
@@ -1105,12 +1105,36 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.156.142.125) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
+  },
+  {
+   "at": "2026-11-26T10:09:12+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Praktikant*in Office des Vice President MB.OS User Experience Mercedes-Benz Plant Sindelfingen, Sindelfingen Start from: 15.01.2027",
+   "url": "https://jobs.mercedes-benz.com/enUS/praktikantin-office-des-vice-president-mbos-user-experience-243520-mer00049of"
+  },
+  {
+   "at": "2026-11-26T10:10:14+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.235.86.158) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-26T10:15:04+00:00",
+   "kind": "new",
+   "site": "Infineon Technologies – Regensburg",
+   "star": true,
+   "title": "Internship - Failure Analysis of Radar Chips (w/m/div) Linz HRC1893918",
+   "url": "https://jobs.infineon.com/careers/job/563808972399162?domain=infineon.com"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-26T10:00:09+00:00",
+ "last_run": "2026-11-26T10:15:28+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-25",
- "runs": 46,
+ "runs": 47,
  "tg_offset": 297408924
 }
