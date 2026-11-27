@@ -1,5 +1,5 @@
 {
- "alerts": 31,
+ "alerts": 35,
  "commands_set": true,
  "events": [
   {
@@ -273,12 +273,116 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.7.240) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": true,
+   "title": "Werkstudent im Energiemanagement (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-im-energiemanagement-m-w-d_251563-1725157.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Teamleiter Applikationsentwicklung für PCBA Testing (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-applikationsentwicklung-fuer-pcba-testing-m-w-d_251563-1725206.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Teamleiter Software-Innovation im Bereich der Prüftechnologie (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/teamleiter-software-innovation-im-bereich-der-prueftechnologie-m-w-d_251563-1725205.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Facharbeiter (m/w/d) CNC-Fräsen für den Bereich Präzisionsfertigung Eichleitung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-cnc-fraesen-fuer-den-bereich-praezisionsfertigung-eichleitung_251563-1725184.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Executive Assistant / Assistenz im Bereich Qualitätsmanagement (m/w/d)",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/executive-assistant-assistenz-im-bereich-qualitaetsmanagement-m-w-d_251563-1724555.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Softwareentwickler (m/w/d) modellbasierte Systemkonfiguration im Bereich System Software Deployment",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/softwareentwickler-m-w-d-modellbasierte-systemkonfiguration-im-bereich-system-software-deployment_251563-1725158.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Fachkraft (m/w/d) für die Reinraumproduktfertigung",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/fachkraft-m-w-d-fuer-die-reinraumproduktfertigung_251563-1725126.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Ingenieur (m/w/d) für Systeme und Projekte für den Bereich Systemtechnik Navy 1",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/ingenieur-m-w-d-fuer-systeme-und-projekte-fuer-den-bereich-systemtechnik-navy-1_251563-1725125.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Systemtechniker (m/w/d) für Signalerfassungssysteme",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/systemtechniker-m-w-d-fuer-signalerfassungssysteme_251563-1725124.html"
+  },
+  {
+   "at": "2026-11-27T02:41:02+00:00",
+   "kind": "new",
+   "site": "Rohde & Schwarz",
+   "star": false,
+   "title": "Facharbeiter (m/w/d) Oberflächenbeschichtung für den Bereich Präzisionsgalvanik",
+   "url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/facharbeiter-m-w-d-oberflaechenbeschichtung-fuer-den-bereich-praezisionsgalvanik_251563-1725123.html"
+  },
+  {
+   "at": "2026-11-27T02:38:37+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 68.154.91.50) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-27T02:38:37+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 68.154.91.50) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-27T02:39:59+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.190.119.38) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T02:26:35+00:00",
+ "last_run": "2026-11-27T02:41:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 14,
+ "runs": 15,
  "tg_offset": 297408924
 }
