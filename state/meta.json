@@ -1,5 +1,5 @@
 {
- "alerts": 4,
+ "alerts": 6,
  "commands_set": true,
  "events": [
   {
@@ -33,12 +33,28 @@
    "star": false,
    "title": "Developer- AI-powered engineering services Stockholm,Stockholm,Sweden + 1 more Product Development Gepostete vor 2 Tagen",
    "url": "https://jobs.ericsson.com/careers/job/563121777599469"
+  },
+  {
+   "at": "2026-11-27T23:24:20+00:00",
+   "kind": "new",
+   "site": "Nokia",
+   "star": false,
+   "title": "https://jobs.nokia.com/en/sites/CX_1/job/41591?location=Germany&mode=location&sortBy=POSTING_DATES_DESC",
+   "url": "https://jobs.nokia.com/en/sites/CX_1/job/41591?location=Germany&mode=location&sortBy=POSTING_DATES_DESC"
+  },
+  {
+   "at": "2026-11-27T23:25:10+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.120.231.32) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T23:11:19+00:00",
+ "last_run": "2026-11-27T23:27:16+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 1,
+ "runs": 2,
  "tg_offset": 297408924
 }
