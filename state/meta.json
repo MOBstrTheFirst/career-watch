@@ -1,5 +1,5 @@
 {
- "alerts": 81,
+ "alerts": 82,
  "commands_set": true,
  "events": [
   {
@@ -777,12 +777,20 @@
    "star": false,
    "title": "Jobdetails",
    "url": "https://careers.telekom.com/de/jobs/customer-service-sales-representative-m-f-d-x-795338"
+  },
+  {
+   "at": "2026-11-27T08:24:01+00:00",
+   "kind": "new",
+   "site": "Apple – Munich",
+   "star": true,
+   "title": "RF/Analog IC design (Internship or Working Student)",
+   "url": "https://jobs.apple.com/en-us/details/200696896-1731/rf-analog-ic-design-internship-or-working-student?team=HRDWR"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T08:11:39+00:00",
+ "last_run": "2026-11-27T08:27:07+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 39,
+ "runs": 40,
  "tg_offset": 297408924
 }
