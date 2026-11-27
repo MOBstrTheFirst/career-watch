@@ -1,5 +1,5 @@
 {
- "alerts": 216,
+ "alerts": 217,
  "commands_set": true,
  "events": [
   {
@@ -2153,12 +2153,20 @@
    "star": false,
    "title": "Quality Release Officer (FTC)",
    "url": "https://careers.siemens-healthineers.com/global/en/job/P-100709/Quality-Release-Officer-FTC"
+  },
+  {
+   "at": "2026-11-27T16:40:33+00:00",
+   "kind": "possible",
+   "site": "Synopsys – Bavaria",
+   "star": false,
+   "title": "Hardware Release Engineering, Staff Engineer",
+   "url": "https://careers.synopsys.com/location/bavaria-jobs/44408/2921044-2951839/3"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T16:26:12+00:00",
+ "last_run": "2026-11-27T16:41:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 73,
+ "runs": 74,
  "tg_offset": 297408924
 }
