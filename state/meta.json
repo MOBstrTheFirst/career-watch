@@ -1,5 +1,5 @@
 {
- "alerts": 68,
+ "alerts": 71,
  "commands_set": true,
  "events": [
   {
@@ -633,12 +633,36 @@
    "star": true,
    "title": "Werkstudent (w/m/d) Kommunikation",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530594"
+  },
+  {
+   "at": "2026-11-27T07:11:05+00:00",
+   "kind": "possible",
+   "site": "MTU Aero Engines",
+   "star": true,
+   "title": "Praktikant Logistikmanagement und -planung (all genders)",
+   "url": "https://www.mtu.de/careers/online-job-market/s/all/all/all/all/"
+  },
+  {
+   "at": "2026-11-27T07:09:11+00:00",
+   "kind": "new",
+   "site": "Mercedes-Benz – Stuttgart area",
+   "star": true,
+   "title": "Student*in Masterarbeit Agentic AI zur Analyse von Produktionsdaten (Digitalisierung Produktion) Mercedes-Benz Plant Sindelfingen, Sindelfingen Start ",
+   "url": "https://jobs.mercedes-benz.com/enUS/studentin-masterarbeit-agentic-ai-zur-analyse-von-produktionsdaten-digitalisierung-produktion-248916-mer0004ay9"
+  },
+  {
+   "at": "2026-11-27T07:10:38+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.182.224.172) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T06:56:26+00:00",
+ "last_run": "2026-11-27T07:11:30+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 34,
+ "runs": 35,
  "tg_offset": 297408924
 }
