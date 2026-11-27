@@ -1,5 +1,5 @@
 {
- "alerts": 181,
+ "alerts": 188,
  "commands_set": true,
  "events": [
   {
@@ -1793,12 +1793,68 @@
    "star": false,
    "title": "https://www.rheinmetall.com/de/job/service_operations__m_w_d_/1233119",
    "url": "https://www.rheinmetall.com/de/job/service_operations__m_w_d_/1233119"
+  },
+  {
+   "at": "2026-11-27T14:26:41+00:00",
+   "kind": "new",
+   "site": "Siemens Energy",
+   "star": false,
+   "title": "Experienced IT Business Analyst & Project Manager (f/m/d) Treasury and Corporate Finance",
+   "url": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Experienced-IT-Business-Analyst-Project-Manager-f-m-d-Treasury-and-Corporate-Finance/307506"
+  },
+  {
+   "at": "2026-11-27T14:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.154.8) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-27T14:23:49+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.208.154.8) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-27T14:24:46+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 9.234.13.100) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-27T14:26:10+00:00",
+   "kind": "new",
+   "site": "Bosch – Elchingen bei Ulm",
+   "star": true,
+   "title": "Praktikum im Produktdaten- und Änderungsmanagement",
+   "url": "https://jobs.bosch.com/en/job/REF301939V-praktikum-im-produktdaten-und-aenderungsmanagement"
+  },
+  {
+   "at": "2026-11-27T14:26:10+00:00",
+   "kind": "new",
+   "site": "Bosch – München – Neuperlach",
+   "star": true,
+   "title": "Praktikum im Bereich Commercial Excellence",
+   "url": "https://jobs.bosch.com/en/job/REF302054A-praktikum-im-bereich-commercial-excellence"
+  },
+  {
+   "at": "2026-11-27T14:26:10+00:00",
+   "kind": "new",
+   "site": "Bosch – Wernau",
+   "star": true,
+   "title": "Praktikum User Experience & Market Research",
+   "url": "https://jobs.bosch.com/en/job/REF302041C-praktikum-user-experience-market-research"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T14:11:05+00:00",
+ "last_run": "2026-11-27T14:26:59+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 64,
+ "runs": 65,
  "tg_offset": 297408924
 }
