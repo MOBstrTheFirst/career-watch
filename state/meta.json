@@ -1,5 +1,5 @@
 {
- "alerts": 128,
+ "alerts": 136,
  "commands_set": true,
  "events": [
   {
@@ -1289,12 +1289,76 @@
    "star": true,
    "title": "Werkstudent (w/m/d) Sales, Business Development & AI",
    "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530950"
+  },
+  {
+   "at": "2026-11-27T11:26:24+00:00",
+   "kind": "new",
+   "site": "Bosch – Waiblingen - Alte Bundesstraße",
+   "star": true,
+   "title": "Pflichtpraktikum im Bereich Fertigungsplanung Stanztechnik",
+   "url": "https://jobs.bosch.com/en/job/REF302037V-pflichtpraktikum-im-bereich-fertigungsplanung-stanztechnik"
+  },
+  {
+   "at": "2026-11-27T11:26:24+00:00",
+   "kind": "new",
+   "site": "Volkswagen Group – MAN Truck & Bus",
+   "star": false,
+   "title": "https://jobs.man.eu/job/Product-Owner-Data-&amp;-AI-%28wmd%29-AI-Impact-Accelerator/7063-de_DE",
+   "url": "https://jobs.man.eu/job/Product-Owner-Data-&amp;-AI-%28wmd%29-AI-Impact-Accelerator/7063-de_DE"
+  },
+  {
+   "at": "2026-11-27T11:23:57+00:00",
+   "kind": "new",
+   "site": "Bosch – Renningen",
+   "star": true,
+   "title": "Master Thesis on Robust Agentic HEMS Control using Time-Series Foundation Models via MCP",
+   "url": "https://jobs.bosch.com/en/job/REF302034P-master-thesis-on-robust-agentic-hems-control-using-time-series-foundation-models-via-mcp"
+  },
+  {
+   "at": "2026-11-27T11:23:57+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.46.211) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-27T11:23:57+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.85.46.211) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-27T11:24:55+00:00",
+   "kind": "new",
+   "site": "Bosch – Bietigheim - Bissingen",
+   "star": true,
+   "title": "Pflichtpraktikum in der Entwicklung und Konstruktion",
+   "url": "https://jobs.bosch.com/en/job/REF301913H-pflichtpraktikum-in-der-entwicklung-und-konstruktion"
+  },
+  {
+   "at": "2026-11-27T11:24:55+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 52.240.183.128) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-27T11:25:49+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.184.247.10) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T11:11:31+00:00",
+ "last_run": "2026-11-27T11:26:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 51,
+ "runs": 52,
  "tg_offset": 297408924
 }
