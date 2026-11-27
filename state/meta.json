@@ -1,5 +1,5 @@
 {
- "alerts": 160,
+ "alerts": 166,
  "commands_set": true,
  "events": [
   {
@@ -1617,12 +1617,60 @@
    "star": false,
    "title": "Diehl Metering Sales Manager (m/w/d) - Region: Rheinland-Pfalz, Saarland, Teilgebiet NRW 27.11.2026 Vertrieb/Kundenservice Ansbach",
    "url": "https://new.diehl.com/career/de/jobs-bewerbung/stellenboerse/vacancies/sales-manager-m-w-d-region-rheinland-pfalz-saarland-teilgebiet-nrw2"
+  },
+  {
+   "at": "2026-11-27T13:38:35+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.59.219.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-27T13:38:35+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.59.219.44) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-27T13:38:35+00:00",
+   "kind": "new",
+   "site": "ZF Friedrichshafen – Germany (newest first)",
+   "star": false,
+   "title": "Principal Machine Learning Engineer (m/w/d)",
+   "url": "https://jobs.zf.com/job/Koblenz-Principal-Machine-Learning-Engineer-%28mwd%29-RP-56070/1461417533"
+  },
+  {
+   "at": "2026-11-27T13:40:20+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.171.126.222) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-27T13:40:20+00:00",
+   "kind": "new",
+   "site": "Siemens AG – Germany",
+   "star": true,
+   "title": "Werkstudent (w/m/d) im Bereich Leistungselektronik",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529355"
+  },
+  {
+   "at": "2026-11-27T13:40:20+00:00",
+   "kind": "text",
+   "site": "Volkswagen Group – Audi",
+   "star": true,
+   "title": "3 new text line(s), e.g. Praktikum - Value Engineering/Value Analysis - Kosten-/Wertanalyse in der Beschaffung (w/m/d)",
+   "url": "https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-27T13:27:10+00:00",
+ "last_run": "2026-11-27T13:41:18+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-26",
- "runs": 60,
+ "runs": 61,
  "tg_offset": 297408924
 }
