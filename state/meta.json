@@ -1,5 +1,5 @@
 {
- "alerts": 95,
+ "alerts": 101,
  "commands_set": true,
  "events": [
   {
@@ -641,12 +641,44 @@
    "star": false,
    "title": "Mechanical Architect",
    "url": "https://careers.thalesgroup.com/global/en/job/R0210336/Mechanical-Architect"
+  },
+  {
+   "at": "2026-11-28T09:08:40+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.239.49) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-28T09:08:40+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.119.239.49) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T09:10:10+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 74.249.191.231) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-28T09:10:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 135.233.102.108) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-28T08:56:17+00:00",
+ "last_run": "2026-11-28T09:10:38+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 42,
+ "runs": 43,
  "tg_offset": 297408924
 }
