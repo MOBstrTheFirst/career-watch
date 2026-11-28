@@ -1,5 +1,5 @@
 {
- "alerts": 91,
+ "alerts": 95,
  "commands_set": true,
  "events": [
   {
@@ -593,12 +593,60 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.55.126.247) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T08:55:58+00:00",
+   "kind": "new",
+   "site": "Siemens Healthineers – 'Bayern' label",
+   "star": false,
+   "title": "Regional Sales Director, West Region (Southern CA, NV and AZ)",
+   "url": "https://careers.siemens-healthineers.com/global/en/job/R-29627/Regional-Sales-Director-West-Region-Southern-CA-NV-and-AZ"
+  },
+  {
+   "at": "2026-11-28T08:53:50+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.163.247) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-28T08:53:50+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.75.163.247) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T08:53:50+00:00",
+   "kind": "new",
+   "site": "Thales – München",
+   "star": false,
+   "title": "FPGA Verification",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0156095/FPGA-Verification"
+  },
+  {
+   "at": "2026-11-28T08:53:50+00:00",
+   "kind": "new",
+   "site": "Thales – München",
+   "star": false,
+   "title": "Avionics RTE&IVVQ Engineer",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0181464/Avionics-RTE-IVVQ-Engineer"
+  },
+  {
+   "at": "2026-11-28T08:53:50+00:00",
+   "kind": "new",
+   "site": "Thales – München",
+   "star": false,
+   "title": "Mechanical Architect",
+   "url": "https://careers.thalesgroup.com/global/en/job/R0210336/Mechanical-Architect"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-28T08:40:57+00:00",
+ "last_run": "2026-11-28T08:56:17+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 41,
+ "runs": 42,
  "tg_offset": 297408924
 }
