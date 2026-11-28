@@ -1,5 +1,5 @@
 {
- "alerts": 127,
+ "alerts": 128,
  "commands_set": true,
  "events": [
   {
@@ -897,12 +897,20 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.206.39.192) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T12:55:00+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 40.124.163.179) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-28T12:41:16+00:00",
+ "last_run": "2026-11-28T12:55:55+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 57,
+ "runs": 58,
  "tg_offset": 297408924
 }
