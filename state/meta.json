@@ -1,5 +1,5 @@
 {
- "alerts": 30,
+ "alerts": 35,
  "commands_set": true,
  "events": [
   {
@@ -241,12 +241,52 @@
    "star": false,
    "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 128.24.161.81) wie Sie",
    "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T02:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – Stuttgart - Ost",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.255.241) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Stuttgart%20-%20Ost"
+  },
+  {
+   "at": "2026-11-28T02:23:52+00:00",
+   "kind": "text",
+   "site": "Bosch – deutschlandweit",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.64.255.241) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=deutschlandweit"
+  },
+  {
+   "at": "2026-11-28T02:25:05+00:00",
+   "kind": "text",
+   "site": "Bosch – Ingolstadt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.29.63.192) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Ingolstadt"
+  },
+  {
+   "at": "2026-11-28T02:25:06+00:00",
+   "kind": "new",
+   "site": "Fraunhofer (central portal) – Augsburg",
+   "star": false,
+   "title": "Wissenschaftliche*r Mitarbeiter*in: im Bereich KI-Basierte Robotik",
+   "url": "https://jobs.fraunhofer.de/job/Augsburg-Wissenschaftlicher-Mitarbeiterin-im-Bereich-KI-Basierte-Robotik-86159/1394452733"
+  },
+  {
+   "at": "2026-11-28T02:25:06+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 172.202.78.3) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-28T02:11:00+00:00",
+ "last_run": "2026-11-28T02:26:40+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 13,
+ "runs": 14,
  "tg_offset": 297408924
 }
