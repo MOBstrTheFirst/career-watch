@@ -1,5 +1,5 @@
 {
- "alerts": 67,
+ "alerts": 68,
  "commands_set": true,
  "events": [
   {
@@ -545,12 +545,20 @@
    "star": false,
    "title": "2 new text line(s), e.g. November 28, 2026 at 7:00 AM UTC",
    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?locations=57cdddb793e410013a1821be79a20000&locations=6581fffc6d8610013a2fa2b844820000"
+  },
+  {
+   "at": "2026-11-28T07:25:12+00:00",
+   "kind": "text",
+   "site": "Bosch – Murrhardt",
+   "star": false,
+   "title": "1 new text line(s), e.g. es befindet sich ein Roboter im selben Netzwerk (IP 20.163.82.247) wie Sie",
+   "url": "https://jobs.bosch.com/en/?country=de&location=Murrhardt"
   }
  ],
  "last_missing_parts": [],
- "last_run": "2026-11-28T07:11:50+00:00",
+ "last_run": "2026-11-28T07:26:46+00:00",
  "last_skipped": 0,
  "last_summary_for": "2026-11-27",
- "runs": 35,
+ "runs": 36,
  "tg_offset": 297408924
 }
